@@ -4,7 +4,7 @@ $bizDir = "$root\biz-directory"
 $storageDir = "$bizDir\storage"
 $csvPath = "$bizDir\master_db.csv"
 $legacyPath = "$bizDir\master_db_legacy.csv"
-$gasUrl = "https://script.google.com/macros/s/AKfycby_9cLWQp8T2yzbnjmAAwOMrCzL-RwT8l5gin9YNAf_pzRk2rOyLKklcjddAzjhqUm5Mg/exec"
+$gasUrl = "https://script.google.com/macros/s/AKfycbxS8FZWeWcV60C7koteQAL8_S-G7DLuX8XF75XlSlLdLlk3XUX3BGHgPOn3VMD6FbGFuQ/exec"
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
 Add-Type -AssemblyName System.Drawing
