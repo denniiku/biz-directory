@@ -19,33 +19,42 @@
   </script>
   <script src="./directory_data.js"></script>
   <style>
-    .bd-main { padding: 48px 5vw 80px; max-width: 1320px; }
-    .bd-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; color: #526D82; letter-spacing: 0.08em; margin-bottom: 6px; }
+    .bd-main { padding: 48px 5vw 80px; max-width: 1360px; }
+    .bd-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; color: #526D82; letter-spacing: 0.04em; margin-bottom: 6px; text-transform: none; }
     .bd-title { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 3.5vw, 2.85rem); color: #27374D; margin-bottom: 22px; letter-spacing: -0.02em; }
 
-    /* 1-Row Filter Bar on Desktop, Multi-Row on Mobile */
+    /* 1-Row Filter Bar */
     .bd-filter-bar {
       display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;
       background: rgba(255, 255, 255, 0.58);
       backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
       border: 1px solid rgba(157, 178, 191, 0.5);
-      padding: 12px 14px; border-radius: 12px; margin-bottom: 16px;
+      padding: 12px 14px; border-radius: 12px; margin-bottom: 14px;
     }
     .bd-select, .bd-search {
       height: 38px; padding: 0 12px; border-radius: 8px;
       border: 1px solid rgba(157, 178, 191, 0.65);
-      background: rgba(255, 255, 255, 0.88);
-      color: #27374D; font-family: 'Inter', sans-serif; font-size: 0.83rem;
+      background: rgba(255, 255, 255, 0.9);
+      color: #27374D; font-family: 'Inter', sans-serif; font-size: 0.82rem;
       outline: none; transition: border-color 0.2s ease, background 0.2s ease;
     }
     .bd-select:focus, .bd-search:focus { border-color: #27374D; background: #fff; }
-    .bd-select { min-width: 155px; cursor: pointer; }
-    .bd-search-wrap { flex: 1; position: relative; min-width: 180px; }
-    .bd-search { width: 100%; padding-left: 32px; }
+    .bd-select { min-width: 150px; cursor: pointer; }
+    .bd-search-wrap { flex: 1; position: relative; min-width: 160px; }
+    .bd-search { width: 100%; padding-left: 32px; box-sizing: border-box; }
     .bd-search-icon {
       position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
       width: 14px; height: 14px; stroke: #526D82; fill: none; stroke-width: 2; pointer-events: none;
     }
+    .bd-star-bar-btn {
+      height: 38px; padding: 0 14px; border-radius: 8px;
+      border: 1px solid rgba(39, 55, 77, 0.35);
+      background: linear-gradient(120deg, rgba(240,172,247,0.55), rgba(172,247,240,0.55), rgba(247,240,172,0.55));
+      color: #27374D; font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; font-weight: 700;
+      cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .bd-star-bar-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(39,55,77,0.12); }
 
     .bd-meta-row {
       display: flex; align-items: center; justify-content: space-between;
@@ -53,21 +62,21 @@
       margin-bottom: 10px; padding: 0 4px;
     }
 
-    /* Clean Directory List Table */
+    /* Directory List Table */
     .bd-list-box {
-      background: rgba(255, 255, 255, 0.62);
+      background: rgba(255, 255, 255, 0.64);
       backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
       border: 1px solid rgba(157, 178, 191, 0.5);
       border-radius: 12px; overflow: hidden;
     }
     .bd-row {
       display: grid;
-      grid-template-columns: 110px 150px 220px 1fr;
+      grid-template-columns: 38px 95px 165px 220px 1fr;
       align-items: center; gap: 12px;
-      padding: 11px 18px;
+      padding: 11px 16px;
       border-bottom: 1px solid rgba(157, 178, 191, 0.28);
       font-size: 0.82rem; color: #27374D;
-      transition: background 0.16s ease;
+      transition: background 0.15s ease;
     }
     .bd-row:last-child { border-bottom: none; }
     .bd-row-head {
@@ -76,7 +85,13 @@
       color: #526D82; text-transform: lowercase; letter-spacing: 0.03em;
     }
     .bd-row-item { cursor: pointer; }
-    .bd-row-item:hover { background: rgba(255, 255, 255, 0.85); }
+    .bd-row-item:hover { background: rgba(255, 255, 255, 0.88); }
+    .bd-star-cell {
+      font-size: 1.05rem; line-height: 1; cursor: pointer; user-select: none;
+      color: #9DB2BF; text-align: center; transition: transform 0.15s ease, color 0.15s ease;
+    }
+    .bd-star-cell:hover { transform: scale(1.2); }
+    .bd-star-cell.starred { color: #f59e0b; }
     .bd-pill {
       display: inline-block; padding: 2px 8px; border-radius: 6px;
       font-size: 0.73rem; font-weight: 500;
@@ -85,29 +100,44 @@
     }
     .bd-cname { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.86rem; color: #27374D; }
 
-    /* Modal Popup (Option A) */
+    /* Detail Modal Popup with '<' and '>' Side Navigation */
     .bd-modal-backdrop {
       position: fixed; inset: 0; z-index: 100005;
-      background: rgba(39, 55, 77, 0.38);
+      background: rgba(39, 55, 77, 0.42);
       backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
       display: flex; align-items: center; justify-content: center;
       padding: 20px; opacity: 0; pointer-events: none;
-      transition: opacity 0.22s ease;
+      transition: opacity 0.2s ease;
     }
     .bd-modal-backdrop.open { opacity: 1; pointer-events: auto; }
+    .bd-modal-stage {
+      display: flex; align-items: center; gap: 14px;
+      width: 100%; max-width: 820px; justify-content: center;
+    }
+    .bd-nav-arrow {
+      width: 44px; height: 44px; border-radius: 50%;
+      background: rgba(255, 255, 255, 0.88);
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      color: #27374D; font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.35rem; font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer; flex-shrink: 0; user-select: none;
+      box-shadow: 0 8px 20px rgba(39, 55, 77, 0.15);
+      transition: background 0.15s ease, transform 0.15s ease;
+    }
+    .bd-nav-arrow:hover { background: #fff; transform: scale(1.08); }
     .bd-modal {
-      width: 100%; max-width: 620px;
-      background: rgba(255, 255, 255, 0.94);
+      width: 100%; max-width: 680px; max-height: 86vh;
+      background: rgba(255, 255, 255, 0.96);
       border: 1px solid rgba(157, 178, 191, 0.65);
       border-radius: 16px;
-      box-shadow: 0 22px 48px rgba(39, 55, 77, 0.22);
-      overflow: hidden; position: relative;
-      transform: scale(0.97); transition: transform 0.22s ease;
+      box-shadow: 0 24px 52px rgba(39, 55, 77, 0.25);
+      display: flex; flex-direction: column; overflow: hidden;
     }
-    .bd-modal-backdrop.open .bd-modal { transform: scale(1); }
     .bd-modal-top {
       display: flex; align-items: flex-start; justify-content: space-between;
-      padding: 22px 24px 14px; border-bottom: 1px solid rgba(157, 178, 191, 0.3);
+      padding: 20px 24px 14px; border-bottom: 1px solid rgba(157, 178, 191, 0.3);
+      flex-shrink: 0;
     }
     .bd-modal-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
     .bd-modal-tag {
@@ -116,70 +146,106 @@
       background: linear-gradient(to right, rgba(240,172,247,0.45), rgba(172,247,240,0.45));
       color: #27374D; border: 1px solid rgba(157, 178, 191, 0.45);
     }
-    .bd-modal-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.35rem; font-weight: 700; color: #27374D; }
+    .bd-modal-title-row { display: flex; align-items: center; gap: 10px; }
+    .bd-modal-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.32rem; font-weight: 700; color: #27374D; margin: 0; }
+    .bd-modal-star-btn {
+      background: rgba(39,55,77,0.06); border: 1px solid rgba(157,178,191,0.5);
+      border-radius: 8px; padding: 4px 10px; cursor: pointer;
+      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 700; color: #27374D;
+    }
+    .bd-modal-star-btn.starred { background: rgba(245, 158, 11, 0.15); border-color: #f59e0b; color: #b45309; }
     .bd-modal-close {
       background: transparent; border: none; cursor: pointer; color: #526D82;
-      font-size: 1.3rem; line-height: 1; padding: 4px;
+      font-size: 1.45rem; line-height: 1; padding: 2px 6px;
     }
-    .bd-modal-body { padding: 20px 24px; max-height: 70vh; overflow-y: auto; }
+
+    /* Scrollable Modal Body */
+    .bd-modal-body {
+      padding: 18px 24px; overflow-y: auto; flex: 1;
+      scrollbar-width: thin; scrollbar-color: #9DB2BF transparent;
+    }
     .bd-modal-img-wrap {
-      width: 100%; height: 220px; border-radius: 10px; overflow: hidden;
-      background: linear-gradient(120deg, rgba(240,172,247,0.3), rgba(172,247,240,0.3), rgba(247,240,172,0.3));
+      width: 100%; height: 230px; border-radius: 10px; overflow: hidden;
+      background: linear-gradient(120deg, rgba(240,172,247,0.25), rgba(172,247,240,0.25), rgba(247,240,172,0.25));
       border: 1px solid rgba(157, 178, 191, 0.35);
       display: flex; align-items: center; justify-content: center; margin-bottom: 16px;
-      position: relative;
     }
     .bd-modal-img { width: 100%; height: 100%; object-fit: contain; background: #fff; }
-    .bd-modal-img-fallback {
-      font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem; font-weight: 700;
-      color: #27374D; opacity: 0.75; text-align: center; padding: 20px;
+    .bd-modal-summary-list {
+      margin: 0 0 18px 0; padding-left: 18px;
+      font-size: 0.88rem; line-height: 1.68; color: #27374D;
     }
-    .bd-modal-summary { font-size: 0.9rem; line-height: 1.65; color: #27374D; margin-bottom: 18px; }
+    .bd-modal-summary-list li { margin-bottom: 8px; }
     .bd-modal-url-box {
-      padding: 10px 14px; border-radius: 8px; background: rgba(221, 230, 237, 0.45);
-      display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px;
+      padding: 11px 14px; border-radius: 8px; background: rgba(221, 230, 237, 0.45);
+      display: flex; align-items: center; justify-content: space-between; margin-top: 8px;
     }
-    .bd-modal-url-label { font-family: 'Space Grotesk', sans-serif; font-size: 0.75rem; color: #526D82; font-weight: 600; }
+    .bd-modal-url-label { font-family: 'Space Grotesk', sans-serif; font-size: 0.74rem; color: #526D82; font-weight: 600; }
     .bd-modal-url-link {
       font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 700;
-      color: #27374D; text-decoration: none; border-bottom: 1px solid #27374D;
+      color: #27374D; text-decoration: none; border-bottom: 1px solid #27374D; cursor: pointer;
     }
+
     .bd-modal-foot {
-      padding: 14px 24px; background: rgba(221, 230, 237, 0.55);
+      padding: 13px 24px; background: rgba(221, 230, 237, 0.55);
       border-top: 1px solid rgba(157, 178, 191, 0.35);
-      display: flex; align-items: center; justify-content: space-between; position: relative;
+      display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; gap: 10px; flex-wrap: wrap;
     }
     .bd-contact-wrap { display: flex; align-items: center; gap: 8px; font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 600; color: #27374D; }
     .bd-email-btn {
       display: inline-flex; align-items: center; gap: 6px;
-      background: rgba(255, 255, 255, 0.85); border: 1px solid rgba(157, 178, 191, 0.6);
+      background: rgba(255, 255, 255, 0.9); border: 1px solid rgba(157, 178, 191, 0.65);
       border-radius: 6px; padding: 5px 10px; cursor: pointer; color: #27374D;
       font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 600;
-      transition: background 0.18s ease;
     }
-    .bd-email-btn:hover { background: #fff; }
     .bd-email-btn svg { width: 14px; height: 14px; stroke: currentColor; fill: none; stroke-width: 1.8; }
-    .bd-toast {
-      font-size: 0.74rem; color: #27374D; font-weight: 600; opacity: 0;
-      transition: opacity 0.2s ease;
+    .bd-direct-inq-btn {
+      background: #27374D; color: #fff; border: none; border-radius: 6px;
+      padding: 6px 12px; font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 600;
+      cursor: pointer;
     }
-    .bd-toast.show { opacity: 1; }
+
+    /* Star Inquiry Compose Modal (GAS Webhook) */
+    .bd-inq-modal {
+      width: 100%; max-width: 520px; background: rgba(255,255,255,0.97);
+      border: 1px solid rgba(157,178,191,0.7); border-radius: 16px;
+      box-shadow: 0 24px 52px rgba(39,55,77,0.28); overflow: hidden;
+    }
+    .bd-inq-body { padding: 18px 22px; display: flex; flex-direction: column; gap: 12px; }
+    .bd-inq-field label { display: block; font-family: 'Space Grotesk', sans-serif; font-size: 0.75rem; font-weight: 700; color: #526D82; margin-bottom: 4px; }
+    .bd-inq-input, .bd-inq-textarea {
+      width: 100%; box-sizing: border-box; padding: 9px 12px; border-radius: 8px;
+      border: 1px solid rgba(157,178,191,0.7); font-family: 'Inter', sans-serif; font-size: 0.84rem; color: #27374D;
+    }
+    .bd-inq-chips { display: flex; flex-wrap: wrap; gap: 6px; max-height: 90px; overflow-y: auto; padding: 6px; background: rgba(221,230,237,0.35); border-radius: 8px; }
+    .bd-inq-chip {
+      display: inline-flex; align-items: center; gap: 5px; padding: 3px 9px; border-radius: 99px;
+      background: #fff; border: 1px solid rgba(157,178,191,0.6); font-size: 0.75rem; font-weight: 600; color: #27374D;
+    }
+    .bd-inq-chip button { border: none; background: none; cursor: pointer; color: #526D82; font-size: 0.85rem; padding: 0; }
+    .bd-inq-send {
+      background: #27374D; color: #fff; border: none; border-radius: 8px; padding: 10px 16px;
+      font-family: 'Space Grotesk', sans-serif; font-size: 0.84rem; font-weight: 700; cursor: pointer;
+    }
 
     @media (max-width: 768px) {
       .bd-filter-bar { flex-wrap: wrap; }
-      .bd-select { flex: 1 1 calc(50% - 6px); min-width: 130px; }
+      .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
       .bd-search-wrap { flex: 1 1 100%; }
-      .bd-row { grid-template-columns: 75px 95px 1fr; gap: 8px; padding: 10px 12px; }
+      .bd-star-bar-btn { flex: 1 1 100%; justify-content: center; }
+      .bd-row { grid-template-columns: 32px 70px 100px 1fr; gap: 8px; padding: 10px 10px; }
       .bd-col-pcat { display: none; }
+      .bd-modal-stage { gap: 6px; }
+      .bd-nav-arrow { width: 34px; height: 34px; font-size: 1.05rem; }
     }
   </style>
 </head>
 <body class="sc-nav-open">
   <main class="bd-main">
-    <p class="bd-eyebrow">SIGNAL STAR UNIVERSE</p>
+    <p class="bd-eyebrow">sistar company</p>
     <h1 class="bd-title">biz-directory</h1>
 
-    <!-- 1-Row Category Dropdowns + Search Bar -->
+    <!-- 1-Row Filter Bar -->
     <div class="bd-filter-bar">
       <select id="bd-country" class="bd-select" aria-label="Country">
         <option value="">country: all</option>
@@ -193,14 +259,6 @@
 
       <select id="bd-industry" class="bd-select" aria-label="Industry">
         <option value="">industry: all</option>
-        <option value="ai">ai</option>
-        <option value="robot">robot</option>
-        <option value="it">it</option>
-        <option value="beauty">beauty</option>
-        <option value="food">food</option>
-        <option value="pet">pet</option>
-        <option value="pet clinic">pet clinic</option>
-        <option value="living & medical">living &amp; medical</option>
       </select>
 
       <select id="bd-pcat" class="bd-select" aria-label="Product Category">
@@ -211,16 +269,22 @@
         <svg class="bd-search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.2" y2="16.2"></line></svg>
         <input type="text" id="bd-search" class="bd-search" placeholder="search company, product, keyword..." autocomplete="off" />
       </div>
+
+      <button type="button" class="bd-star-bar-btn" id="bd-open-star-modal" title="Send message about starred companies">
+        <span>&#9733; inquiry</span>
+        <span id="bd-star-count">(0)</span>
+      </button>
     </div>
 
     <div class="bd-meta-row">
       <span id="bd-count">0 companies</span>
-      <span>click any company row for details</span>
+      <span>click &#9734; to bookmark or click any company row for full details</span>
     </div>
 
     <!-- Directory List -->
     <div class="bd-list-box">
       <div class="bd-row bd-row-head">
+        <div style="text-align:center;">&#9733;</div>
         <div>country</div>
         <div>industry</div>
         <div class="bd-col-pcat">product category</div>
@@ -230,60 +294,128 @@
     </div>
   </main>
 
-  <!-- Modal Popup (Method A) -->
+  <!-- Detail Modal Popup with '<' and '>' -->
   <div class="bd-modal-backdrop" id="bd-modal-backdrop">
-    <div class="bd-modal" role="dialog" aria-modal="true">
+    <div class="bd-modal-stage">
+      <button type="button" class="bd-nav-arrow" id="bd-prev-btn" title="Previous company">&lt;</button>
+
+      <div class="bd-modal" role="dialog" aria-modal="true">
+        <div class="bd-modal-top">
+          <div style="flex:1; padding-right:10px;">
+            <div class="bd-modal-tags" id="bd-m-tags"></div>
+            <div class="bd-modal-title-row">
+              <h2 class="bd-modal-title" id="bd-m-title">Company Name</h2>
+              <button type="button" class="bd-modal-star-btn" id="bd-m-star-btn">&#9734; star</button>
+            </div>
+          </div>
+          <button type="button" class="bd-modal-close" id="bd-m-close" title="Close">&times;</button>
+        </div>
+
+        <div class="bd-modal-body" id="bd-modal-scroll">
+          <div class="bd-modal-img-wrap">
+            <img id="bd-m-img" class="bd-modal-img" src="" alt="" />
+          </div>
+          <ul class="bd-modal-summary-list" id="bd-m-summary"></ul>
+          <div class="bd-modal-url-box">
+            <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
+            <a id="bd-m-url" class="bd-modal-url-link" href="https://biz-galaxy.sistarcompany.com" target="_blank" rel="noopener noreferrer">biz-galaxy.sistarcompany.com &rarr;</a>
+          </div>
+        </div>
+
+        <div class="bd-modal-foot">
+          <div class="bd-contact-wrap">
+            <span>contact :</span>
+            <button type="button" class="bd-email-btn" id="bd-m-email-btn" title="Copy email">
+              <svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
+              <span id="bd-m-email-text">sc@sistarcompany.com</span>
+            </button>
+          </div>
+          <button type="button" class="bd-direct-inq-btn" id="bd-m-inquire-now">&#9733; send message</button>
+        </div>
+      </div>
+
+      <button type="button" class="bd-nav-arrow" id="bd-next-btn" title="Next company">&gt;</button>
+    </div>
+  </div>
+
+  <!-- Starred Companies Direct Message Modal (GAS Webhook) -->
+  <div class="bd-modal-backdrop" id="bd-inq-backdrop">
+    <div class="bd-inq-modal" role="dialog" aria-modal="true">
       <div class="bd-modal-top">
         <div>
-          <div class="bd-modal-tags" id="bd-m-tags"></div>
-          <h2 class="bd-modal-title" id="bd-m-title">Company Name</h2>
+          <div class="bd-modal-tags"><span class="bd-modal-tag">direct inquiry</span></div>
+          <h2 class="bd-modal-title">message to sistar company</h2>
         </div>
-        <button class="bd-modal-close" id="bd-m-close" title="Close">&times;</button>
+        <button type="button" class="bd-modal-close" id="bd-inq-close">&times;</button>
       </div>
-      <div class="bd-modal-body">
-        <div class="bd-modal-img-wrap">
-          <img id="bd-m-img" class="bd-modal-img" src="" alt="" style="display:none;" />
-          <div id="bd-m-img-fallback" class="bd-modal-img-fallback"></div>
+      <div class="bd-inq-body">
+        <div class="bd-inq-field">
+          <label>to (recipient)</label>
+          <input type="text" class="bd-inq-input" value="sc@sistarcompany.com" readonly style="background:rgba(221,230,237,0.45); font-weight:600;" />
         </div>
-        <p class="bd-modal-summary" id="bd-m-summary"></p>
-        <div class="bd-modal-url-box">
-          <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
-          <a id="bd-m-url" class="bd-modal-url-link" href="https://biz-galaxy.sistarcompany.com" target="_blank" rel="noopener">biz-galaxy.sistarcompany.com &rarr;</a>
+        <div class="bd-inq-field">
+          <label>starred companies</label>
+          <div class="bd-inq-chips" id="bd-inq-chips"></div>
         </div>
-      </div>
-      <div class="bd-modal-foot">
-        <div class="bd-contact-wrap">
-          <span>contact :</span>
-          <button class="bd-email-btn" id="bd-m-email-btn" title="Click to copy sc@sistarcompany.com">
-            <svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
-            <span>sc@sistarcompany.com</span>
-          </button>
+        <div class="bd-inq-field">
+          <label>your email / contact</label>
+          <input type="email" id="bd-inq-sender" class="bd-inq-input" placeholder="your@email.com (or company / name)" />
         </div>
-        <span class="bd-toast" id="bd-m-toast">Copied: sc@sistarcompany.com</span>
+        <div class="bd-inq-field">
+          <label>message</label>
+          <textarea id="bd-inq-msg" class="bd-inq-textarea" rows="4" placeholder="Write your inquiry or partnership request regarding the selected companies..."></textarea>
+        </div>
+        <button type="button" class="bd-inq-send" id="bd-inq-submit">send message to sc@sistarcompany.com</button>
       </div>
     </div>
   </div>
 
   <script>
     (function() {
-      // Optional: Paste published Google Sheet CSV link here for 1-min live updates
-      const LIVE_SHEET_CSV_URL = "";
+      // Optional Google Apps Script Web App URL for serverless instant email delivery
+      const GAS_WEBHOOK_URL = "";
 
-      let allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA : [];
+      const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA : [];
+      let filtered = [];
+      let currentModalIdx = -1;
+      const starredIds = new Set(JSON.parse(localStorage.getItem('sc_starred_companies') || '[]'));
+
       const elCountry = document.getElementById('bd-country');
       const elIndustry = document.getElementById('bd-industry');
       const elPcat = document.getElementById('bd-pcat');
       const elSearch = document.getElementById('bd-search');
       const elListBody = document.getElementById('bd-list-body');
       const elCount = document.getElementById('bd-count');
+      const elStarCount = document.getElementById('bd-star-count');
+
+      function saveStars() {
+        localStorage.setItem('sc_starred_companies', JSON.stringify(Array.from(starredIds)));
+        elStarCount.textContent = '(' + starredIds.size + ')';
+      }
+      saveStars();
+
+      // Populate Industry dropdown dynamically from master_db data
+      const preferredIndOrder = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
+      const indSet = new Set();
+      allData.forEach(d => { if (d.industry) indSet.add(d.industry.toLowerCase()); });
+      preferredIndOrder.forEach(i => indSet.add(i));
+      const sortedInds = Array.from(indSet).sort((a,b) => {
+        const ia = preferredIndOrder.indexOf(a), ib = preferredIndOrder.indexOf(b);
+        if (ia !== -1 && ib !== -1) return ia - ib;
+        if (ia !== -1) return -1;
+        if (ib !== -1) return 1;
+        return a.localeCompare(b);
+      });
+      elIndustry.innerHTML = '<option value="">industry: all</option>' +
+        sortedInds.map(ind => '<option value="' + ind + '">' + ind + '</option>').join('');
 
       function updateProductCategories() {
-        const selInd = elIndustry.value;
-        const currentPcat = elPcat.value;
+        const selInd = elIndustry.value.toLowerCase();
+        const currentPcat = elPcat.value.toLowerCase();
         const pcatSet = new Set();
         allData.forEach(item => {
-          if (!selInd || item.industry === selInd) {
-            if (item.product_category) pcatSet.add(item.product_category);
+          if (!selInd || (item.industry || '').toLowerCase() === selInd) {
+            if (item.product_category) pcatSet.add(item.product_category.toLowerCase());
           }
         });
         const sorted = Array.from(pcatSet).sort();
@@ -298,7 +430,7 @@
         const pVal = elPcat.value.toLowerCase();
         const qVal = elSearch.value.trim().toLowerCase();
 
-        const filtered = allData.filter(item => {
+        filtered = allData.filter(item => {
           if (cVal && (item.country || '').toLowerCase() !== cVal) return false;
           if (iVal && (item.industry || '').toLowerCase() !== iVal) return false;
           if (pVal && (item.product_category || '').toLowerCase() !== pVal) return false;
@@ -317,7 +449,9 @@
         }
 
         elListBody.innerHTML = filtered.map((item, idx) => {
+          const isStar = starredIds.has(item.id);
           return '<div class="bd-row bd-row-item" data-idx="' + idx + '">' +
+            '<div class="bd-star-cell ' + (isStar ? 'starred' : '') + '" data-id="' + item.id + '" title="Bookmark company">' + (isStar ? '&#9733;' : '&#9734;') + '</div>' +
             '<div><span class="bd-pill">' + (item.country || 'korea') + '</span></div>' +
             '<div><span class="bd-pill">' + (item.industry || '') + '</span></div>' +
             '<div class="bd-col-pcat"><span class="bd-pill">' + (item.product_category || '') + '</span></div>' +
@@ -325,55 +459,179 @@
           '</div>';
         }).join('');
 
+        elListBody.querySelectorAll('.bd-star-cell').forEach(starEl => {
+          starEl.addEventListener('click', e => {
+            e.stopPropagation();
+            const cid = starEl.getAttribute('data-id');
+            if (starredIds.has(cid)) starredIds.delete(cid); else starredIds.add(cid);
+            saveStars();
+            renderList();
+          });
+        });
+
         elListBody.querySelectorAll('.bd-row-item').forEach(rowEl => {
           rowEl.addEventListener('click', () => {
-            const item = filtered[parseInt(rowEl.getAttribute('data-idx'), 10)];
-            if (item) openModal(item);
+            openModalAt(parseInt(rowEl.getAttribute('data-idx'), 10));
           });
         });
       }
 
+      // Detail Modal Logic
       const backdrop = document.getElementById('bd-modal-backdrop');
       const mTags = document.getElementById('bd-m-tags');
       const mTitle = document.getElementById('bd-m-title');
+      const mStarBtn = document.getElementById('bd-m-star-btn');
       const mImg = document.getElementById('bd-m-img');
-      const mFallback = document.getElementById('bd-m-img-fallback');
       const mSummary = document.getElementById('bd-m-summary');
       const mUrl = document.getElementById('bd-m-url');
-      const mToast = document.getElementById('bd-m-toast');
+      const mScroll = document.getElementById('bd-modal-scroll');
 
-      function openModal(item) {
+      function syncModalStarBtn(item) {
+        const isStar = starredIds.has(item.id);
+        mStarBtn.className = 'bd-modal-star-btn' + (isStar ? ' starred' : '');
+        mStarBtn.innerHTML = isStar ? '&#9733; starred' : '&#9734; star';
+      }
+
+      function openModalAt(idx) {
+        if (!filtered.length) return;
+        if (idx < 0) idx = filtered.length - 1;
+        if (idx >= filtered.length) idx = 0;
+        currentModalIdx = idx;
+        const item = filtered[idx];
+
         mTags.innerHTML = [item.country, item.industry, item.product_category]
           .filter(Boolean)
           .map(t => '<span class="bd-modal-tag">' + t + '</span>')
           .join('');
         mTitle.textContent = item.company_name || '';
-        mSummary.textContent = item.summary || '';
+        syncModalStarBtn(item);
+
+        // Render multi-line bullet summary cleanly
+        const rawSum = (item.summary || '').split(/\r?\n|•/).map(s => s.trim()).filter(Boolean);
+        mSummary.innerHTML = rawSum.map(line => '<li>' + line + '</li>').join('');
 
         const tUrl = item.target_url || 'https://biz-galaxy.sistarcompany.com';
         mUrl.href = tUrl;
         mUrl.textContent = tUrl.replace(/^https?:\/\//, '') + ' \u2192';
 
-        mImg.style.display = 'none';
-        mFallback.style.display = 'block';
-        mFallback.textContent = item.company_name || '*sc Partner';
-
-        if (item.image_url) {
-          mImg.onload = () => { mImg.style.display = 'block'; mFallback.style.display = 'none'; };
-          mImg.onerror = () => { mImg.style.display = 'none'; mFallback.style.display = 'block'; };
-          mImg.src = item.image_url;
-        }
-
+        mImg.src = item.image_url || '';
+        mScroll.scrollTop = 0;
         backdrop.classList.add('open');
       }
 
+      // Guarantee biz-galaxy URL opens in a separate new tab/window without nav interception
+      mUrl.addEventListener('click', e => {
+        e.preventDefault();
+        e.stopPropagation();
+        window.open(mUrl.href, '_blank', 'noopener,noreferrer');
+      });
+
+      mStarBtn.addEventListener('click', () => {
+        if (currentModalIdx < 0 || !filtered[currentModalIdx]) return;
+        const item = filtered[currentModalIdx];
+        if (starredIds.has(item.id)) starredIds.delete(item.id); else starredIds.add(item.id);
+        saveStars();
+        syncModalStarBtn(item);
+        renderList();
+      });
+
+      document.getElementById('bd-prev-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        openModalAt(currentModalIdx - 1);
+      });
+      document.getElementById('bd-next-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        openModalAt(currentModalIdx + 1);
+      });
+
+      document.addEventListener('keydown', e => {
+        if (!backdrop.classList.contains('open')) return;
+        if (e.key === 'ArrowLeft') openModalAt(currentModalIdx - 1);
+        else if (e.key === 'ArrowRight') openModalAt(currentModalIdx + 1);
+        else if (e.key === 'Escape') backdrop.classList.remove('open');
+      });
+
       document.getElementById('bd-m-close').addEventListener('click', () => backdrop.classList.remove('open'));
-      backdrop.addEventListener('click', e => { if (e.target === backdrop) backdrop.classList.remove('open'); });
+      backdrop.addEventListener('click', e => { if (e.target === backdrop || e.target.classList.contains('bd-modal-stage')) backdrop.classList.remove('open'); });
 
       document.getElementById('bd-m-email-btn').addEventListener('click', () => {
         navigator.clipboard.writeText('sc@sistarcompany.com').catch(() => {});
-        mToast.classList.add('show');
-        setTimeout(() => mToast.classList.remove('show'), 2000);
+        const txt = document.getElementById('bd-m-email-text');
+        txt.textContent = 'copied: sc@sistarcompany.com';
+        setTimeout(() => { txt.textContent = 'sc@sistarcompany.com'; }, 1800);
+      });
+
+      // Starred Inquiry Compose Modal
+      const inqBackdrop = document.getElementById('bd-inq-backdrop');
+      const inqChips = document.getElementById('bd-inq-chips');
+
+      function renderInqChips() {
+        const selected = allData.filter(d => starredIds.has(d.id));
+        if (selected.length === 0) {
+          inqChips.innerHTML = '<span style="font-size:0.78rem; color:#526D82;">No starred companies yet. Click &#9734; on any company to add.</span>';
+          return;
+        }
+        inqChips.innerHTML = selected.map(d =>
+          '<span class="bd-inq-chip">&#9733; ' + d.company_name + ' <button type="button" data-rm="' + d.id + '">&times;</button></span>'
+        ).join('');
+        inqChips.querySelectorAll('button[data-rm]').forEach(btn => {
+          btn.addEventListener('click', () => {
+            starredIds.delete(btn.getAttribute('data-rm'));
+            saveStars();
+            renderList();
+            renderInqChips();
+          });
+        });
+      }
+
+      function openInquiryModal(autoStarCurrent) {
+        if (autoStarCurrent && currentModalIdx >= 0 && filtered[currentModalIdx]) {
+          starredIds.add(filtered[currentModalIdx].id);
+          saveStars();
+          syncModalStarBtn(filtered[currentModalIdx]);
+          renderList();
+        }
+        renderInqChips();
+        inqBackdrop.classList.add('open');
+      }
+
+      document.getElementById('bd-open-star-modal').addEventListener('click', () => openInquiryModal(false));
+      document.getElementById('bd-m-inquire-now').addEventListener('click', () => openInquiryModal(true));
+      document.getElementById('bd-inq-close').addEventListener('click', () => inqBackdrop.classList.remove('open'));
+      inqBackdrop.addEventListener('click', e => { if (e.target === inqBackdrop) inqBackdrop.classList.remove('open'); });
+
+      document.getElementById('bd-inq-submit').addEventListener('click', async () => {
+        const selectedNames = allData.filter(d => starredIds.has(d.id)).map(d => d.company_name);
+        const sender = document.getElementById('bd-inq-sender').value.trim();
+        const msg = document.getElementById('bd-inq-msg').value.trim();
+        const btn = document.getElementById('bd-inq-submit');
+
+        const payload = {
+          to: 'sc@sistarcompany.com',
+          sender: sender || 'Anonymous Visitor',
+          companies: selectedNames,
+          message: msg
+        };
+
+        if (GAS_WEBHOOK_URL) {
+          btn.textContent = 'sending...';
+          try {
+            await fetch(GAS_WEBHOOK_URL, {
+              method: 'POST',
+              mode: 'no-cors',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(payload)
+            });
+            btn.textContent = 'sent to sc@sistarcompany.com !';
+            setTimeout(() => { btn.textContent = 'send message to sc@sistarcompany.com'; inqBackdrop.classList.remove('open'); }, 1500);
+          } catch (err) {
+            btn.textContent = 'send message to sc@sistarcompany.com';
+          }
+        } else {
+          const subject = encodeURIComponent('[biz-directory Inquiry] ' + (selectedNames.join(', ') || 'Partner Inquiry'));
+          const body = encodeURIComponent('From: ' + (sender || 'Visitor') + '\nStarred Companies: ' + (selectedNames.join(', ') || 'N/A') + '\n\nMessage:\n' + msg);
+          window.open('mailto:sc@sistarcompany.com?subject=' + subject + '&body=' + body, '_blank');
+        }
       });
 
       elCountry.addEventListener('change', renderList);
