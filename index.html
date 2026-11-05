@@ -48,13 +48,13 @@
     }
     .bd-star-bar-btn {
       height: 38px; padding: 0 14px; border-radius: 8px;
-      border: 1px solid rgba(39, 55, 77, 0.35);
-      background: linear-gradient(120deg, rgba(240,172,247,0.55), rgba(172,247,240,0.55), rgba(247,240,172,0.55));
-      color: #27374D; font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; font-weight: 700;
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      background: rgba(255, 255, 255, 0.92);
+      color: #27374D; font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; font-weight: 600;
       cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px;
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
     }
-    .bd-star-bar-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(39,55,77,0.12); }
+    .bd-star-bar-btn:hover { background: #fff; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(39,55,77,0.08); }
 
     .bd-meta-row {
       display: flex; align-items: center; justify-content: space-between;
@@ -100,7 +100,7 @@
     }
     .bd-cname { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.86rem; color: #27374D; }
 
-    /* Detail Modal Popup with '<' and '>' Side Navigation */
+    /* Detail Modal Popup */
     .bd-modal-backdrop {
       position: fixed; inset: 0; z-index: 100005;
       background: rgba(39, 55, 77, 0.42);
@@ -110,22 +110,6 @@
       transition: opacity 0.2s ease;
     }
     .bd-modal-backdrop.open { opacity: 1; pointer-events: auto; }
-    .bd-modal-stage {
-      display: flex; align-items: center; gap: 14px;
-      width: 100%; max-width: 820px; justify-content: center;
-    }
-    .bd-nav-arrow {
-      width: 44px; height: 44px; border-radius: 50%;
-      background: rgba(255, 255, 255, 0.88);
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      color: #27374D; font-family: 'Space Grotesk', sans-serif;
-      font-size: 1.35rem; font-weight: 700;
-      display: flex; align-items: center; justify-content: center;
-      cursor: pointer; flex-shrink: 0; user-select: none;
-      box-shadow: 0 8px 20px rgba(39, 55, 77, 0.15);
-      transition: background 0.15s ease, transform 0.15s ease;
-    }
-    .bd-nav-arrow:hover { background: #fff; transform: scale(1.08); }
     .bd-modal {
       width: 100%; max-width: 680px; max-height: 86vh;
       background: rgba(255, 255, 255, 0.96);
@@ -137,7 +121,10 @@
     .bd-modal-top {
       display: flex; align-items: flex-start; justify-content: space-between;
       padding: 20px 24px 14px; border-bottom: 1px solid rgba(157, 178, 191, 0.3);
-      flex-shrink: 0;
+      flex-shrink: 0; gap: 12px;
+    }
+    .bd-modal-top-right {
+      display: flex; flex-direction: column; align-items: flex-end; gap: 8px; flex-shrink: 0;
     }
     .bd-modal-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
     .bd-modal-tag {
@@ -146,18 +133,20 @@
       background: linear-gradient(to right, rgba(240,172,247,0.45), rgba(172,247,240,0.45));
       color: #27374D; border: 1px solid rgba(157, 178, 191, 0.45);
     }
-    .bd-modal-title-row { display: flex; align-items: center; gap: 10px; }
     .bd-modal-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.32rem; font-weight: 700; color: #27374D; margin: 0; }
-    .bd-modal-star-btn {
-      background: rgba(39,55,77,0.06); border: 1px solid rgba(157,178,191,0.5);
-      border-radius: 8px; padding: 4px 10px; cursor: pointer;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 700; color: #27374D;
-    }
-    .bd-modal-star-btn.starred { background: rgba(245, 158, 11, 0.15); border-color: #f59e0b; color: #b45309; }
     .bd-modal-close {
       background: transparent; border: none; cursor: pointer; color: #526D82;
-      font-size: 1.45rem; line-height: 1; padding: 2px 6px;
+      font-size: 1.45rem; line-height: 1; padding: 0 4px;
     }
+    .bd-modal-star-btn {
+      background: rgba(39,55,77,0.06); border: 1px solid rgba(157,178,191,0.55);
+      border-radius: 8px; padding: 5px 11px; cursor: pointer;
+      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 700; color: #27374D;
+      display: inline-flex; align-items: center; gap: 5px;
+      transition: background 0.15s ease, border-color 0.15s ease;
+    }
+    .bd-modal-star-btn:hover { background: #fff; }
+    .bd-modal-star-btn.starred { background: rgba(245, 158, 11, 0.15); border-color: #f59e0b; color: #b45309; }
 
     /* Scrollable Modal Body */
     .bd-modal-body {
@@ -165,8 +154,8 @@
       scrollbar-width: thin; scrollbar-color: #9DB2BF transparent;
     }
     .bd-modal-img-wrap {
-      width: 100%; height: 230px; border-radius: 10px; overflow: hidden;
-      background: linear-gradient(120deg, rgba(240,172,247,0.25), rgba(172,247,240,0.25), rgba(247,240,172,0.25));
+      width: 100%; height: 240px; border-radius: 10px; overflow: hidden;
+      background: #fff;
       border: 1px solid rgba(157, 178, 191, 0.35);
       display: flex; align-items: center; justify-content: center; margin-bottom: 16px;
     }
@@ -186,26 +175,44 @@
       color: #27374D; text-decoration: none; border-bottom: 1px solid #27374D; cursor: pointer;
     }
 
+    /* Modal Footer: '<' on Bottom-Left, 'inquiry for ★s' + '>' on Bottom-Right */
     .bd-modal-foot {
-      padding: 13px 24px; background: rgba(221, 230, 237, 0.55);
-      border-top: 1px solid rgba(157, 178, 191, 0.35);
-      display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; gap: 10px; flex-wrap: wrap;
+      padding: 12px 18px; background: rgba(221, 230, 237, 0.58);
+      border-top: 1px solid rgba(157, 178, 191, 0.38);
+      display: flex; align-items: center; justify-content: space-between;
+      flex-shrink: 0; gap: 10px;
     }
-    .bd-contact-wrap { display: flex; align-items: center; gap: 8px; font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 600; color: #27374D; }
-    .bd-email-btn {
-      display: inline-flex; align-items: center; gap: 6px;
-      background: rgba(255, 255, 255, 0.9); border: 1px solid rgba(157, 178, 191, 0.65);
-      border-radius: 6px; padding: 5px 10px; cursor: pointer; color: #27374D;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 600;
+    .bd-foot-right {
+      display: flex; align-items: center; gap: 10px;
     }
-    .bd-email-btn svg { width: 14px; height: 14px; stroke: currentColor; fill: none; stroke-width: 1.8; }
+    .bd-corner-nav {
+      width: 36px; height: 36px; border-radius: 8px;
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      color: #27374D; font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.1rem; font-weight: 700;
+      display: inline-flex; align-items: center; justify-content: center;
+      cursor: pointer; flex-shrink: 0; user-select: none;
+      transition: background 0.15s ease, transform 0.15s ease;
+    }
+    .bd-corner-nav:hover { background: #fff; transform: scale(1.06); }
+
+    /* Styled exactly like the 3rd screenshot (light rounded pill button with subtle border) */
     .bd-direct-inq-btn {
-      background: #27374D; color: #fff; border: none; border-radius: 6px;
-      padding: 6px 12px; font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 600;
-      cursor: pointer;
+      display: inline-flex; align-items: center; gap: 6px;
+      height: 36px; padding: 0 14px; border-radius: 8px;
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      color: #27374D;
+      font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 600;
+      cursor: pointer; transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .bd-direct-inq-btn:hover {
+      background: #fff; transform: translateY(-1px);
+      box-shadow: 0 4px 10px rgba(39, 55, 77, 0.08);
     }
 
-    /* Star Inquiry Compose Modal (GAS Webhook) */
+    /* Star Inquiry Compose Modal ([postman] : biz-directory) */
     .bd-inq-modal {
       width: 100%; max-width: 520px; background: rgba(255,255,255,0.97);
       border: 1px solid rgba(157,178,191,0.7); border-radius: 16px;
@@ -235,8 +242,6 @@
       .bd-star-bar-btn { flex: 1 1 100%; justify-content: center; }
       .bd-row { grid-template-columns: 32px 70px 100px 1fr; gap: 8px; padding: 10px 10px; }
       .bd-col-pcat { display: none; }
-      .bd-modal-stage { gap: 6px; }
-      .bd-nav-arrow { width: 34px; height: 34px; font-size: 1.05rem; }
     }
   </style>
 </head>
@@ -270,15 +275,15 @@
         <input type="text" id="bd-search" class="bd-search" placeholder="search company, product, keyword..." autocomplete="off" />
       </div>
 
-      <button type="button" class="bd-star-bar-btn" id="bd-open-star-modal" title="Send message about starred companies">
-        <span>&#9733; inquiry</span>
+      <button type="button" class="bd-star-bar-btn" id="bd-open-star-modal" title="Inquiry for selected companies">
+        <span>inquiry for &#9733;s</span>
         <span id="bd-star-count">(0)</span>
       </button>
     </div>
 
     <div class="bd-meta-row">
       <span id="bd-count">0 companies</span>
-      <span>click &#9734; to bookmark or click any company row for full details</span>
+      <span>click &#9734; to select or click any company row for full details</span>
     </div>
 
     <!-- Directory List -->
@@ -294,56 +299,48 @@
     </div>
   </main>
 
-  <!-- Detail Modal Popup with '<' and '>' -->
+  <!-- Detail Modal Popup -->
   <div class="bd-modal-backdrop" id="bd-modal-backdrop">
-    <div class="bd-modal-stage">
-      <button type="button" class="bd-nav-arrow" id="bd-prev-btn" title="Previous company">&lt;</button>
-
-      <div class="bd-modal" role="dialog" aria-modal="true">
-        <div class="bd-modal-top">
-          <div style="flex:1; padding-right:10px;">
-            <div class="bd-modal-tags" id="bd-m-tags"></div>
-            <div class="bd-modal-title-row">
-              <h2 class="bd-modal-title" id="bd-m-title">Company Name</h2>
-              <button type="button" class="bd-modal-star-btn" id="bd-m-star-btn">&#9734; star</button>
-            </div>
-          </div>
+    <div class="bd-modal" role="dialog" aria-modal="true">
+      <div class="bd-modal-top">
+        <div style="flex:1; padding-right:10px;">
+          <div class="bd-modal-tags" id="bd-m-tags"></div>
+          <h2 class="bd-modal-title" id="bd-m-title">Company Name</h2>
+        </div>
+        <div class="bd-modal-top-right">
           <button type="button" class="bd-modal-close" id="bd-m-close" title="Close">&times;</button>
-        </div>
-
-        <div class="bd-modal-body" id="bd-modal-scroll">
-          <div class="bd-modal-img-wrap">
-            <img id="bd-m-img" class="bd-modal-img" src="" alt="" />
-          </div>
-          <ul class="bd-modal-summary-list" id="bd-m-summary"></ul>
-          <div class="bd-modal-url-box">
-            <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
-            <a id="bd-m-url" class="bd-modal-url-link" href="https://biz-galaxy.sistarcompany.com" target="_blank" rel="noopener noreferrer">biz-galaxy.sistarcompany.com &rarr;</a>
-          </div>
-        </div>
-
-        <div class="bd-modal-foot">
-          <div class="bd-contact-wrap">
-            <span>contact :</span>
-            <button type="button" class="bd-email-btn" id="bd-m-email-btn" title="Copy email">
-              <svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
-              <span id="bd-m-email-text">sc@sistarcompany.com</span>
-            </button>
-          </div>
-          <button type="button" class="bd-direct-inq-btn" id="bd-m-inquire-now">&#9733; send message</button>
+          <button type="button" class="bd-modal-star-btn" id="bd-m-star-btn">&#9734; select</button>
         </div>
       </div>
 
-      <button type="button" class="bd-nav-arrow" id="bd-next-btn" title="Next company">&gt;</button>
+      <div class="bd-modal-body" id="bd-modal-scroll">
+        <div class="bd-modal-img-wrap">
+          <img id="bd-m-img" class="bd-modal-img" src="" alt="" referrerpolicy="no-referrer" />
+        </div>
+        <ul class="bd-modal-summary-list" id="bd-m-summary"></ul>
+        <div class="bd-modal-url-box">
+          <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
+          <a id="bd-m-url" class="bd-modal-url-link" href="https://biz-galaxy.sistarcompany.com" target="_blank" rel="noopener noreferrer">biz-galaxy.sistarcompany.com &rarr;</a>
+        </div>
+      </div>
+
+      <div class="bd-modal-foot">
+        <button type="button" class="bd-corner-nav" id="bd-prev-btn" title="Previous company">&lt;</button>
+
+        <div class="bd-foot-right">
+          <button type="button" class="bd-direct-inq-btn" id="bd-m-inquire-now">inquiry for &#9733;s</button>
+          <button type="button" class="bd-corner-nav" id="bd-next-btn" title="Next company">&gt;</button>
+        </div>
+      </div>
     </div>
   </div>
 
-  <!-- Starred Companies Direct Message Modal (GAS Webhook) -->
+  <!-- Starred Companies Direct Message Modal ([postman] : biz-directory GAS) -->
   <div class="bd-modal-backdrop" id="bd-inq-backdrop">
     <div class="bd-inq-modal" role="dialog" aria-modal="true">
       <div class="bd-modal-top">
         <div>
-          <div class="bd-modal-tags"><span class="bd-modal-tag">direct inquiry</span></div>
+          <div class="bd-modal-tags"><span class="bd-modal-tag">inquiry for &#9733;s</span></div>
           <h2 class="bd-modal-title">message to sistar company</h2>
         </div>
         <button type="button" class="bd-modal-close" id="bd-inq-close">&times;</button>
@@ -354,7 +351,7 @@
           <input type="text" class="bd-inq-input" value="sc@sistarcompany.com" readonly style="background:rgba(221,230,237,0.45); font-weight:600;" />
         </div>
         <div class="bd-inq-field">
-          <label>starred companies</label>
+          <label>selected companies (&#9733;)</label>
           <div class="bd-inq-chips" id="bd-inq-chips"></div>
         </div>
         <div class="bd-inq-field">
@@ -365,15 +362,15 @@
           <label>message</label>
           <textarea id="bd-inq-msg" class="bd-inq-textarea" rows="4" placeholder="Write your inquiry or partnership request regarding the selected companies..."></textarea>
         </div>
-        <button type="button" class="bd-inq-send" id="bd-inq-submit">send message to sc@sistarcompany.com</button>
+        <button type="button" class="bd-inq-send" id="bd-inq-submit">send message</button>
       </div>
     </div>
   </div>
 
   <script>
     (function() {
-      // Optional Google Apps Script Web App URL for serverless instant email delivery
-      const GAS_WEBHOOK_URL = "";
+      // Paste your [postman] : biz-directory GAS Web App URL here:
+      const GAS_WEBHOOK_URL = window.SC_POSTMAN_GAS_URL || "";
 
       const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA : [];
       let filtered = [];
@@ -394,7 +391,6 @@
       }
       saveStars();
 
-      // Populate Industry dropdown dynamically from master_db data
       const preferredIndOrder = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
       const indSet = new Set();
       allData.forEach(d => { if (d.industry) indSet.add(d.industry.toLowerCase()); });
@@ -451,7 +447,7 @@
         elListBody.innerHTML = filtered.map((item, idx) => {
           const isStar = starredIds.has(item.id);
           return '<div class="bd-row bd-row-item" data-idx="' + idx + '">' +
-            '<div class="bd-star-cell ' + (isStar ? 'starred' : '') + '" data-id="' + item.id + '" title="Bookmark company">' + (isStar ? '&#9733;' : '&#9734;') + '</div>' +
+            '<div class="bd-star-cell ' + (isStar ? 'starred' : '') + '" data-id="' + item.id + '" title="Select company">' + (isStar ? '&#9733;' : '&#9734;') + '</div>' +
             '<div><span class="bd-pill">' + (item.country || 'korea') + '</span></div>' +
             '<div><span class="bd-pill">' + (item.industry || '') + '</span></div>' +
             '<div class="bd-col-pcat"><span class="bd-pill">' + (item.product_category || '') + '</span></div>' +
@@ -476,7 +472,6 @@
         });
       }
 
-      // Detail Modal Logic
       const backdrop = document.getElementById('bd-modal-backdrop');
       const mTags = document.getElementById('bd-m-tags');
       const mTitle = document.getElementById('bd-m-title');
@@ -489,7 +484,7 @@
       function syncModalStarBtn(item) {
         const isStar = starredIds.has(item.id);
         mStarBtn.className = 'bd-modal-star-btn' + (isStar ? ' starred' : '');
-        mStarBtn.innerHTML = isStar ? '&#9733; starred' : '&#9734; star';
+        mStarBtn.innerHTML = isStar ? '&#9733; select' : '&#9734; select';
       }
 
       function openModalAt(idx) {
@@ -506,7 +501,6 @@
         mTitle.textContent = item.company_name || '';
         syncModalStarBtn(item);
 
-        // Render multi-line bullet summary cleanly
         const rawSum = (item.summary || '').split(/\r?\n|•/).map(s => s.trim()).filter(Boolean);
         mSummary.innerHTML = rawSum.map(line => '<li>' + line + '</li>').join('');
 
@@ -514,12 +508,21 @@
         mUrl.href = tUrl;
         mUrl.textContent = tUrl.replace(/^https?:\/\//, '') + ' \u2192';
 
-        mImg.src = item.image_url || '';
+        const dId = item.drive_img_id || item.drive_logo_id || '';
+        const svgFallback = './storage/' + (item.local_file ? item.local_file.replace(/\.jpg$/i, '.svg') : '');
+        mImg.onerror = function() {
+          if (dId && !mImg.src.includes('googleusercontent.com')) {
+            mImg.src = 'https://lh3.googleusercontent.com/d/' + dId + '=w600';
+          } else if (svgFallback && !mImg.src.endsWith('.svg')) {
+            mImg.src = svgFallback;
+          }
+        };
+        mImg.src = item.image_url || (dId ? 'https://lh3.googleusercontent.com/d/' + dId + '=w600' : svgFallback);
+
         mScroll.scrollTop = 0;
         backdrop.classList.add('open');
       }
 
-      // Guarantee biz-galaxy URL opens in a separate new tab/window without nav interception
       mUrl.addEventListener('click', e => {
         e.preventDefault();
         e.stopPropagation();
@@ -552,23 +555,15 @@
       });
 
       document.getElementById('bd-m-close').addEventListener('click', () => backdrop.classList.remove('open'));
-      backdrop.addEventListener('click', e => { if (e.target === backdrop || e.target.classList.contains('bd-modal-stage')) backdrop.classList.remove('open'); });
+      backdrop.addEventListener('click', e => { if (e.target === backdrop) backdrop.classList.remove('open'); });
 
-      document.getElementById('bd-m-email-btn').addEventListener('click', () => {
-        navigator.clipboard.writeText('sc@sistarcompany.com').catch(() => {});
-        const txt = document.getElementById('bd-m-email-text');
-        txt.textContent = 'copied: sc@sistarcompany.com';
-        setTimeout(() => { txt.textContent = 'sc@sistarcompany.com'; }, 1800);
-      });
-
-      // Starred Inquiry Compose Modal
       const inqBackdrop = document.getElementById('bd-inq-backdrop');
       const inqChips = document.getElementById('bd-inq-chips');
 
       function renderInqChips() {
         const selected = allData.filter(d => starredIds.has(d.id));
         if (selected.length === 0) {
-          inqChips.innerHTML = '<span style="font-size:0.78rem; color:#526D82;">No starred companies yet. Click &#9734; on any company to add.</span>';
+          inqChips.innerHTML = '<span style="font-size:0.78rem; color:#526D82;">No selected companies yet. Click &#9734; select on any company to add.</span>';
           return;
         }
         inqChips.innerHTML = selected.map(d =>
@@ -606,6 +601,11 @@
         const msg = document.getElementById('bd-inq-msg').value.trim();
         const btn = document.getElementById('bd-inq-submit');
 
+        if (!sender && !msg) {
+          alert('Please enter your email/contact and a brief message.');
+          return;
+        }
+
         const payload = {
           to: 'sc@sistarcompany.com',
           sender: sender || 'Anonymous Visitor',
@@ -615,22 +615,27 @@
 
         if (GAS_WEBHOOK_URL) {
           btn.textContent = 'sending...';
+          btn.disabled = true;
           try {
             await fetch(GAS_WEBHOOK_URL, {
               method: 'POST',
               mode: 'no-cors',
-              headers: { 'Content-Type': 'application/json' },
+              headers: { 'Content-Type': 'text/plain;charset=utf-8' },
               body: JSON.stringify(payload)
             });
             btn.textContent = 'sent to sc@sistarcompany.com !';
-            setTimeout(() => { btn.textContent = 'send message to sc@sistarcompany.com'; inqBackdrop.classList.remove('open'); }, 1500);
+            document.getElementById('bd-inq-msg').value = '';
+            setTimeout(() => {
+              btn.disabled = false;
+              btn.textContent = 'send message';
+              inqBackdrop.classList.remove('open');
+            }, 1400);
           } catch (err) {
-            btn.textContent = 'send message to sc@sistarcompany.com';
+            btn.disabled = false;
+            btn.textContent = 'send message';
           }
         } else {
-          const subject = encodeURIComponent('[biz-directory Inquiry] ' + (selectedNames.join(', ') || 'Partner Inquiry'));
-          const body = encodeURIComponent('From: ' + (sender || 'Visitor') + '\nStarred Companies: ' + (selectedNames.join(', ') || 'N/A') + '\n\nMessage:\n' + msg);
-          window.open('mailto:sc@sistarcompany.com?subject=' + subject + '&body=' + body, '_blank');
+          alert('Please set your [postman] : biz-directory GAS Web App URL in GAS_WEBHOOK_URL.');
         }
       });
 
