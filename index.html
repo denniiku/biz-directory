@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>*sc | biz-directory</title>
+  <style>html,body{background:linear-gradient(to right,#f0acf7,#acf7f0,#f7f0ac);margin:0;padding:0;}body.sc-nav-open{padding-left:220px;}@media(max-width:768px){body.sc-nav-open,body.sc-nav-folded{padding-left:44px!important;}}main{opacity:0;}</style>
+  <script>
+    (function() {
+      var p = location.pathname.replace(/\\/g, '/');
+      var base = '/common_assets/';
+      if (location.protocol === 'file:') {
+        var i = p.toLowerCase().indexOf('/sc_web/');
+        base = i !== -1 ? 'file://' + p.substring(0, i + 8) + 'common_assets/' : './common_assets/';
+      }
+      document.write('<link rel="stylesheet" href="' + base + 'common_new.css?v=1793851010">');
+      var s = document.createElement('script'); s.src = base + 'nav_new.js?v=1793851010'; s.defer = true; document.head.appendChild(s);
+    })();
+  </script>
+  <style>
+    .dir-wrap { padding: 52px 6vw; max-width: 1280px; }
+    .dir-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; color: #526D82; letter-spacing: 0.08em; margin-bottom: 8px; }
+    .dir-title { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 3.6vw, 3rem); color: #27374D; margin-bottom: 10px; }
+    .dir-sub { font-size: 0.96rem; color: #526D82; margin-bottom: 28px; }
+    .dir-controls { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; background: rgba(255,255,255,0.55); backdrop-filter: blur(12px); padding: 14px; border-radius: 12px; border: 1px solid rgba(157,178,191,0.45); }
+    .dir-input, .dir-select { padding: 10px 14px; border-radius: 8px; border: 1px solid rgba(157,178,191,0.6); background: rgba(255,255,255,0.88); color: #27374D; font-size: 0.88rem; outline: none; }
+    .dir-input { flex: 1; min-width: 220px; }
+    .dir-count { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; font-weight: 600; color: #27374D; margin-bottom: 16px; }
+    .dir-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+    .dir-card { background: rgba(255,255,255,0.72); backdrop-filter: blur(14px); border: 1px solid rgba(157,178,191,0.48); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; justify-content: space-between; transition: transform 0.2s ease, box-shadow 0.2s ease; }
+    .dir-card:hover { transform: translateY(-3px); box-shadow: 0 12px 26px rgba(39,55,77,0.12); }
+    .dir-badge { display: inline-block; font-size: 0.7rem; font-weight: 600; padding: 3px 9px; border-radius: 99px; background: rgba(39,55,77,0.09); color: #27374D; margin-bottom: 10px; }
+    .dir-card h3 { font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem; color: #27374D; margin-bottom: 8px; }
+    .dir-card p { font-size: 0.85rem; color: #526D82; line-height: 1.5; margin-bottom: 16px; }
+    .dir-link { display: inline-flex; align-items: center; font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; font-weight: 600; color: #27374D; text-decoration: none; border-bottom: 1px solid #27374D; padding-bottom: 2px; align-self: flex-start; }
+  </style>
+</head>
+<body class="sc-nav-open">
+  <main class="dir-wrap">
+    <p class="dir-eyebrow">SIGNAL STAR UNIVERSE &mdash; GLOBAL SOURCING &amp; PARTNER NETWORK</p>
+    <h1 class="dir-title">biz-directory</h1>
+    <p class="dir-sub">Integrated Company &amp; Brand Directory &mdash; <code>biz-directory.sistarcompany.com</code></p>
+    <div class="dir-controls">
+      <input type="text" id="dir-search" class="dir-input" placeholder="Search company, brand, keyword..." />
+      <select id="dir-cat" class="dir-select"><option value="">All Categories</option></select>
+      <select id="dir-source" class="dir-select"><option value="">All Sources</option></select>
+    </div>
+    <div class="dir-count" id="dir-count">Showing 1 company</div>
+    <section class="dir-grid" id="dir-grid">
+      <article class="dir-card">
+        <div><span class="dir-badge">AI &amp; Commerce</span><h3>SISTAR COMPANY (*sc)</h3><p>Full-Stack AI Commerce &amp; International AI Trading Spaceship.</p></div>
+        <a class="dir-link" href="https://sistarcompany.com" target="_blank" rel="noopener">Visit Website &rarr;</a>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
