@@ -611,7 +611,7 @@
         aiTitle.textContent = selected.length === 1
           ? ('AI Brief: ' + selected[0].company_name)
           : ('AI Comparison & Synergy (' + selected.length + ' Companies)');
-        aiOutput.textContent = '✨ Calling Gemini AI via [postman] : biz-directory...';
+        aiOutput.textContent = '✨ analyzing... with sistar ai centers';
 
         try {
           const res = await fetch(GAS_WEBHOOK_URL, {
