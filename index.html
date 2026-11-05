@@ -27,6 +27,27 @@
     .bd-chk-cell { display: flex; align-items: center; justify-content: center; cursor: pointer; user-select: none; }
     .bd-chk-cell:hover .bd-chk-svg { transform: scale(1.15); }
 
+    /* Signature Pastel Gradient Button Style (Applied to ✨ brief, inquiry for ☑, and select) */
+    .bd-pastel-btn {
+      background: linear-gradient(120deg, rgba(240,172,247,0.52), rgba(172,247,240,0.52), rgba(247,240,172,0.52));
+      border: 1px solid rgba(157, 178, 191, 0.72);
+      color: #27374D;
+      font-family: 'Space Grotesk', sans-serif;
+      font-weight: 700;
+      border-radius: 8px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+    }
+    .bd-pastel-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 5px 14px rgba(39, 55, 77, 0.12);
+      filter: brightness(1.03);
+    }
+
     /* 1-Row Filter Bar */
     .bd-filter-bar {
       display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;
@@ -50,19 +71,7 @@
       position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
       width: 14px; height: 14px; stroke: #526D82; fill: none; stroke-width: 2; pointer-events: none;
     }
-    .bd-star-bar-btn, .bd-sparkle-btn {
-      height: 38px; padding: 0 13px; border-radius: 8px;
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      background: rgba(255, 255, 255, 0.92);
-      color: #27374D; font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 600;
-      cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 5px;
-      transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
-    }
-    .bd-star-bar-btn:hover, .bd-sparkle-btn:hover { background: #fff; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(39,55,77,0.08); }
-    .bd-sparkle-btn {
-      background: linear-gradient(120deg, rgba(240,172,247,0.45), rgba(172,247,240,0.45), rgba(247,240,172,0.45));
-      font-weight: 700;
-    }
+    .bd-bar-btn-size { height: 38px; padding: 0 14px; font-size: 0.82rem; }
 
     .bd-meta-row {
       display: flex; align-items: center; justify-content: space-between;
@@ -140,27 +149,23 @@
       background: transparent; border: none; cursor: pointer; color: #526D82;
       font-size: 1.45rem; line-height: 1; padding: 0 4px;
     }
-    .bd-modal-star-btn {
-      background: rgba(255, 255, 255, 0.92); border: 1px solid rgba(157, 178, 191, 0.7);
-      border-radius: 8px; padding: 5px 11px; cursor: pointer;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; font-weight: 600; color: #27374D;
-      display: inline-flex; align-items: center; gap: 6px;
-      transition: background 0.15s ease, border-color 0.15s ease;
-    }
-    .bd-modal-star-btn:hover { background: #fff; }
-    .bd-modal-star-btn.starred { background: rgba(39, 55, 77, 0.08); border-color: #27374D; font-weight: 700; }
+    .bd-modal-select-btn { padding: 5px 12px; font-size: 0.78rem; }
 
+    /* Scrollable Multi-Image + Bullet Summary Modal Body */
     .bd-modal-body {
       padding: 18px 24px; overflow-y: auto; flex: 1;
       scrollbar-width: thin; scrollbar-color: #9DB2BF transparent;
     }
+    .bd-modal-gallery {
+      display: flex; flex-direction: column; gap: 12px; margin-bottom: 16px;
+    }
     .bd-modal-img-wrap {
-      width: 100%; height: 250px; border-radius: 10px; overflow: hidden;
+      width: 100%; min-height: 220px; max-height: 320px; border-radius: 10px; overflow: hidden;
       background: #fff;
       border: 1px solid rgba(157, 178, 191, 0.35);
-      display: flex; align-items: center; justify-content: center; margin-bottom: 16px;
+      display: flex; align-items: center; justify-content: center;
     }
-    .bd-modal-img { width: 100%; height: 100%; object-fit: contain; background: #fff; }
+    .bd-modal-img { width: 100%; height: 240px; object-fit: contain; background: #fff; }
     .bd-modal-summary-list {
       margin: 0 0 18px 0; padding-left: 18px;
       font-size: 0.88rem; line-height: 1.68; color: #27374D;
@@ -192,37 +197,21 @@
       display: inline-flex; align-items: center; justify-content: center;
       cursor: pointer; flex-shrink: 0; user-select: none;
     }
-    .bd-direct-inq-btn {
-      display: inline-flex; align-items: center; gap: 5px;
-      height: 36px; padding: 0 14px; border-radius: 8px;
-      background: rgba(255, 255, 255, 0.92);
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      color: #27374D;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 600;
-      cursor: pointer;
-    }
+    .bd-foot-inq-btn { height: 36px; padding: 0 14px; font-size: 0.82rem; }
 
-    /* ✨ AI Summary & Comparison Modal */
-    .bd-cmp-modal {
-      width: 100%; max-width: 960px; max-height: 86vh;
+    /* ✨ Real-Time AI Brief Modal */
+    .bd-ai-modal {
+      width: 100%; max-width: 640px; max-height: 84vh;
       background: rgba(255, 255, 255, 0.97);
       border: 1px solid rgba(157, 178, 191, 0.7);
       border-radius: 16px; box-shadow: 0 24px 52px rgba(39,55,77,0.28);
       display: flex; flex-direction: column; overflow: hidden;
     }
-    .bd-cmp-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 14px; margin-top: 12px;
+    .bd-ai-output {
+      font-size: 0.9rem; line-height: 1.7; color: #27374D;
+      background: rgba(221, 230, 237, 0.25); border: 1px solid rgba(157, 178, 191, 0.45);
+      border-radius: 12px; padding: 16px 18px; white-space: pre-wrap;
     }
-    .bd-cmp-card {
-      background: rgba(221, 230, 237, 0.28);
-      border: 1px solid rgba(157, 178, 191, 0.5);
-      border-radius: 12px; padding: 14px;
-      display: flex; flex-direction: column; gap: 8px;
-    }
-    .bd-cmp-card h3 { font-family: 'Space Grotesk', sans-serif; font-size: 1rem; color: #27374D; margin: 0; }
-    .bd-cmp-card ul { margin: 0; padding-left: 16px; font-size: 0.8rem; line-height: 1.55; color: #27374D; }
-    .bd-cmp-card li { margin-bottom: 5px; }
 
     /* Inquiry Compose Modal */
     .bd-inq-modal {
@@ -243,15 +232,14 @@
     }
     .bd-inq-chip button { border: none; background: none; cursor: pointer; color: #526D82; font-size: 0.9rem; padding: 0 0 0 2px; }
     .bd-inq-send {
-      background: #27374D; color: #fff; border: none; border-radius: 8px; padding: 10px 16px;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.84rem; font-weight: 700; cursor: pointer;
+      width: 100%; justify-content: center; padding: 10px 16px; font-size: 0.85rem;
     }
 
     @media (max-width: 768px) {
       .bd-filter-bar { flex-wrap: wrap; }
       .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
       .bd-search-wrap { flex: 1 1 100%; }
-      .bd-star-bar-btn, .bd-sparkle-btn { flex: 1 1 calc(50% - 6px); justify-content: center; }
+      .bd-bar-btn-size { flex: 1 1 calc(50% - 6px); justify-content: center; }
       .bd-row { grid-template-columns: 32px 70px 100px 1fr; gap: 8px; padding: 10px 10px; }
       .bd-col-pcat { display: none; }
     }
@@ -262,7 +250,7 @@
     <p class="bd-eyebrow">sistar company</p>
     <h1 class="bd-title">biz-directory</h1>
 
-    <!-- 1-Row Filter Bar + ✨ Button + Inquiry Button -->
+    <!-- 1-Row Filter Bar -->
     <div class="bd-filter-bar">
       <select id="bd-country" class="bd-select" aria-label="Country">
         <option value="">country: all</option>
@@ -287,11 +275,11 @@
         <input type="text" id="bd-search" class="bd-search" placeholder="search company, product, keyword..." autocomplete="off" />
       </div>
 
-      <button type="button" class="bd-sparkle-btn" id="bd-open-sparkle-modal" title="AI Summary & Comparison of selected companies">
+      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-sparkle-modal" title="AI Summary & Brief for selected companies">
         <span>&#10024; brief</span>
       </button>
 
-      <button type="button" class="bd-star-bar-btn" id="bd-open-star-modal" title="Inquiry for selected companies">
+      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-star-modal" title="Inquiry for selected companies">
         <span>inquiry for</span>
         <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
         <span id="bd-star-count">(0)</span>
@@ -300,7 +288,7 @@
 
     <div class="bd-meta-row">
       <span id="bd-count">0 companies</span>
-      <span>select companies and click &#10024; brief to compare, or click any row for details</span>
+      <span>check companies and click &#10024; brief for AI insight, or click any row for details</span>
     </div>
 
     <!-- Directory List -->
@@ -328,14 +316,12 @@
         </div>
         <div class="bd-modal-top-right">
           <button type="button" class="bd-modal-close" id="bd-m-close" title="Close">&times;</button>
-          <button type="button" class="bd-modal-star-btn" id="bd-m-star-btn"></button>
+          <button type="button" class="bd-pastel-btn bd-modal-select-btn" id="bd-m-star-btn"></button>
         </div>
       </div>
 
       <div class="bd-modal-body" id="bd-modal-scroll">
-        <div class="bd-modal-img-wrap">
-          <img id="bd-m-img" class="bd-modal-img" src="" alt="" referrerpolicy="no-referrer" />
-        </div>
+        <div class="bd-modal-gallery" id="bd-m-gallery"></div>
         <ul class="bd-modal-summary-list" id="bd-m-summary"></ul>
         <div class="bd-modal-url-box">
           <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
@@ -347,7 +333,7 @@
         <button type="button" class="bd-corner-nav" id="bd-prev-btn" title="Previous company">&lt;</button>
 
         <div class="bd-foot-right">
-          <button type="button" class="bd-direct-inq-btn" id="bd-m-inquire-now">
+          <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-m-inquire-now">
             <span>inquiry for</span>
             <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </button>
@@ -357,19 +343,21 @@
     </div>
   </div>
 
-  <!-- ✨ AI Summary & Side-by-Side Comparison Modal -->
-  <div class="bd-modal-backdrop" id="bd-cmp-backdrop">
-    <div class="bd-cmp-modal" role="dialog" aria-modal="true">
+  <!-- ✨ Real-Time AI Brief Modal (Powered by GAS + Gemini API) -->
+  <div class="bd-modal-backdrop" id="bd-ai-backdrop">
+    <div class="bd-ai-modal" role="dialog" aria-modal="true">
       <div class="bd-modal-top">
         <div>
-          <div class="bd-modal-tags"><span class="bd-modal-tag">&#10024; executive brief &amp; comparison</span></div>
-          <h2 class="bd-modal-title" id="bd-cmp-title">Selected Companies Brief</h2>
+          <div class="bd-modal-tags"><span class="bd-modal-tag">&#10024; ai executive brief</span></div>
+          <h2 class="bd-modal-title" id="bd-ai-title">AI Intelligence Brief</h2>
         </div>
-        <button type="button" class="bd-modal-close" id="bd-cmp-close">&times;</button>
+        <button type="button" class="bd-modal-close" id="bd-ai-close">&times;</button>
       </div>
-      <div class="bd-modal-body" id="bd-cmp-body"></div>
+      <div class="bd-modal-body">
+        <div class="bd-ai-output" id="bd-ai-output">Generating AI analysis...</div>
+      </div>
       <div class="bd-modal-foot" style="justify-content:flex-end;">
-        <button type="button" class="bd-direct-inq-btn" id="bd-cmp-to-inq">
+        <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-ai-to-inq">
           <span>inquiry for</span>
           <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </button>
@@ -411,7 +399,7 @@
           <label>message</label>
           <textarea id="bd-inq-msg" class="bd-inq-textarea" rows="4" placeholder="Write your inquiry or partnership request regarding the selected companies..."></textarea>
         </div>
-        <button type="button" class="bd-inq-send" id="bd-inq-submit">send message</button>
+        <button type="button" class="bd-pastel-btn bd-inq-send" id="bd-inq-submit">send message</button>
       </div>
     </div>
   </div>
@@ -420,7 +408,7 @@
     (function() {
       const GAS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbxD-PwPgkkC4289ddIBBQisgPNZNBrRSjVfJqylMrTQRlF97ERlTUMHh-eSba-yGC4C/exec";
 
-      const ICON_UNCHECKED = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2.5" y="2.5" width="15" height="15" rx="4" stroke="#9DB2BF" stroke-width="1.8" fill="rgba(255,255,255,0.85)"/></svg>';
+      const ICON_UNCHECKED = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2.5" y="2.5" width="15" height="15" rx="4" stroke="#526D82" stroke-width="1.8" fill="rgba(255,255,255,0.85)"/></svg>';
       const ICON_CHECKED   = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
       const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA : [];
@@ -482,7 +470,7 @@
           if (iVal && (item.industry || '').toLowerCase() !== iVal) return false;
           if (pVal && (item.product_category || '').toLowerCase() !== pVal) return false;
           if (qVal) {
-            const hay = ((item.company_name || '') + ' ' + (item.summary || '') + ' ' + (item.product_category || '') + ' ' + (item.industry || '')).toLowerCase();
+            const hay = ((item.company_name || '') + ' ' + (item.summary || '') + ' ' + (item.product_category || '') + ' ' + (item.industry || '') + ' ' + (item.country || '')).toLowerCase();
             if (!hay.includes(qVal)) return false;
           }
           return true;
@@ -527,14 +515,13 @@
       const mTags = document.getElementById('bd-m-tags');
       const mTitle = document.getElementById('bd-m-title');
       const mStarBtn = document.getElementById('bd-m-star-btn');
-      const mImg = document.getElementById('bd-m-img');
+      const mGallery = document.getElementById('bd-m-gallery');
       const mSummary = document.getElementById('bd-m-summary');
       const mUrl = document.getElementById('bd-m-url');
       const mScroll = document.getElementById('bd-modal-scroll');
 
       function syncModalStarBtn(item) {
         const isStar = starredIds.has(item.id);
-        mStarBtn.className = 'bd-modal-star-btn' + (isStar ? ' starred' : '');
         mStarBtn.innerHTML = (isStar ? ICON_CHECKED : ICON_UNCHECKED) + '<span>select</span>';
       }
 
@@ -552,24 +539,21 @@
         mTitle.textContent = item.company_name || '';
         syncModalStarBtn(item);
 
+        // Support multiple images separated by '|' or ';' in image_url for scrollable gallery
+        const rawImgs = (item.image_url || '').split(/\||;/).map(s => s.trim()).filter(Boolean);
+        const svgFallback = './storage/' + item.id + '.svg';
+        const imgList = rawImgs.length > 0 ? rawImgs : [svgFallback];
+
+        mGallery.innerHTML = imgList.map(src =>
+          '<div class="bd-modal-img-wrap"><img class="bd-modal-img" src="' + src + '" alt="" onerror="if(!this.src.endsWith(\'.svg\'))this.src=\'' + svgFallback + '\';" /></div>'
+        ).join('');
+
         const rawSum = (item.summary || '').split(/\r?\n|•/).map(s => s.trim()).filter(Boolean);
         mSummary.innerHTML = rawSum.map(line => '<li>' + line + '</li>').join('');
 
         const tUrl = item.target_url || 'https://biz-galaxy.sistarcompany.com';
         mUrl.href = tUrl;
         mUrl.textContent = tUrl.replace(/^https?:\/\//, '') + ' \u2192';
-
-        // Strict 1:1 Image Matching: 1) ./storage/[id].jpg -> 2) Google Drive ID -> 3) Clean ./storage/[id].svg Cover
-        const dId = item.drive_img_id || item.drive_logo_id || '';
-        const svgCover = './storage/' + item.id + '.svg';
-        mImg.onerror = function() {
-          if (dId && !mImg.src.includes('drive.google.com')) {
-            mImg.src = 'https://drive.google.com/thumbnail?id=' + dId + '&sz=w700';
-          } else if (!mImg.src.endsWith('.svg')) {
-            mImg.src = svgCover;
-          }
-        };
-        mImg.src = item.image_url || svgCover;
 
         mScroll.scrollTop = 0;
         backdrop.classList.add('open');
@@ -609,35 +593,57 @@
       document.getElementById('bd-m-close').addEventListener('click', () => backdrop.classList.remove('open'));
       backdrop.addEventListener('click', e => { if (e.target === backdrop) backdrop.classList.remove('open'); });
 
-      // ✨ AI Executive Brief & Comparison Modal Logic
-      const cmpBackdrop = document.getElementById('bd-cmp-backdrop');
-      const cmpBody = document.getElementById('bd-cmp-body');
-      const cmpTitle = document.getElementById('bd-cmp-title');
+      // ✨ Real-Time AI Brief via GAS + Gemini API
+      const aiBackdrop = document.getElementById('bd-ai-backdrop');
+      const aiTitle = document.getElementById('bd-ai-title');
+      const aiOutput = document.getElementById('bd-ai-output');
 
-      document.getElementById('bd-open-sparkle-modal').addEventListener('click', () => {
+      document.getElementById('bd-open-sparkle-modal').addEventListener('click', async () => {
         const selected = allData.filter(d => starredIds.has(d.id));
+        aiBackdrop.classList.add('open');
+
         if (selected.length === 0) {
-          cmpTitle.textContent = 'Select companies first';
-          cmpBody.innerHTML = '<p style="color:#526D82;font-size:0.9rem;">Please check one or more companies from the list using the rounded checkbox, then click <strong>&#10024; brief</strong> to view a side-by-side executive summary &amp; comparison.</p>';
-        } else {
-          const industries = Array.from(new Set(selected.map(s => s.industry))).join(', ');
-          cmpTitle.textContent = selected.length + (selected.length === 1 ? ' Selected Company' : ' Selected Companies') + ' (' + industries + ')';
-          cmpBody.innerHTML = '<div class="bd-cmp-grid">' + selected.map(item => {
-            const bullets = (item.summary || '').split(/\r?\n|•/).map(s => s.trim()).filter(Boolean).slice(0, 4);
-            return '<div class="bd-cmp-card">' +
-              '<div class="bd-modal-tags"><span class="bd-modal-tag">' + (item.country || 'korea') + '</span><span class="bd-modal-tag">' + (item.industry || '') + '</span><span class="bd-modal-tag">' + (item.product_category || '') + '</span></div>' +
-              '<h3>' + item.company_name + '</h3>' +
-              '<ul>' + bullets.map(b => '<li>' + b + '</li>').join('') + '</ul>' +
-            '</div>';
-          }).join('') + '</div>';
+          aiTitle.textContent = 'Select companies for AI Brief';
+          aiOutput.textContent = 'Please select one or more companies using the checkbox first, then click ✨ brief to generate an AI executive summary or comparison.';
+          return;
         }
-        cmpBackdrop.classList.add('open');
+
+        aiTitle.textContent = selected.length === 1
+          ? ('AI Brief: ' + selected[0].company_name)
+          : ('AI Comparison & Synergy (' + selected.length + ' Companies)');
+        aiOutput.textContent = '✨ Calling Gemini AI via [postman] : biz-directory...';
+
+        try {
+          const res = await fetch(GAS_WEBHOOK_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+            body: JSON.stringify({
+              action: 'ai_brief',
+              companies: selected.map(c => ({
+                name: c.company_name,
+                country: c.country,
+                industry: c.industry,
+                category: c.product_category,
+                summary: c.summary
+              }))
+            })
+          });
+          const data = await res.json();
+          if (data && data.brief) {
+            aiOutput.textContent = data.brief;
+          } else {
+            aiOutput.textContent = 'AI Brief Ready (Add GEMINI_API_KEY in GAS to enable live generation):\n\n' +
+              selected.map(s => '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary).join('\n\n');
+          }
+        } catch (err) {
+          aiOutput.textContent = selected.map(s => '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary).join('\n\n');
+        }
       });
 
-      document.getElementById('bd-cmp-close').addEventListener('click', () => cmpBackdrop.classList.remove('open'));
-      cmpBackdrop.addEventListener('click', e => { if (e.target === cmpBackdrop) cmpBackdrop.classList.remove('open'); });
-      document.getElementById('bd-cmp-to-inq').addEventListener('click', () => {
-        cmpBackdrop.classList.remove('open');
+      document.getElementById('bd-ai-close').addEventListener('click', () => aiBackdrop.classList.remove('open'));
+      aiBackdrop.addEventListener('click', e => { if (e.target === aiBackdrop) aiBackdrop.classList.remove('open'); });
+      document.getElementById('bd-ai-to-inq').addEventListener('click', () => {
+        aiBackdrop.classList.remove('open');
         openInquiryModal(false);
       });
 
@@ -692,6 +698,7 @@
         }
 
         const payload = {
+          action: 'inquire',
           to: 'sc@sistarcompany.com',
           sender: sender || 'Anonymous Visitor',
           companies: selectedNames,
