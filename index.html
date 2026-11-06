@@ -726,12 +726,57 @@
       });
 
       elCountry.addEventListener('change', renderList);
-      elIndustry.addEventListener('change', () => { updateProductCategories(); renderList(); });
+      elIndustry.addEventListener('change', () => { updateProductCategories();
+      renderList();
+
+      // Fetch newly listed companies from GAS Live Cloud DB automatically
+      fetch(GAS_WEBHOOK_URL + '?action=list')
+        .then(r => r.json())
+        .then(res => {
+          if (res && Array.isArray(res.companies) && res.companies.length > 0) {
+            const existingNames = new Set(allData.map(d => (d.company_name || '').toLowerCase()));
+            let added = false;
+            res.companies.forEach(c => {
+              if (c.company_name && !existingNames.has(c.company_name.toLowerCase())) {
+                allData.push(c);
+                existingNames.add(c.company_name.toLowerCase());
+                added = true;
+              }
+            });
+            if (added) {
+              updateProductCategories();
+              renderList();
+            }
+          }
+        })
+        .catch(() => {}); });
       elPcat.addEventListener('change', renderList);
       elSearch.addEventListener('input', renderList);
 
       updateProductCategories();
       renderList();
+
+      // Fetch newly listed companies from GAS Live Cloud DB automatically
+      fetch(GAS_WEBHOOK_URL + '?action=list')
+        .then(r => r.json())
+        .then(res => {
+          if (res && Array.isArray(res.companies) && res.companies.length > 0) {
+            const existingNames = new Set(allData.map(d => (d.company_name || '').toLowerCase()));
+            let added = false;
+            res.companies.forEach(c => {
+              if (c.company_name && !existingNames.has(c.company_name.toLowerCase())) {
+                allData.push(c);
+                existingNames.add(c.company_name.toLowerCase());
+                added = true;
+              }
+            });
+            if (added) {
+              updateProductCategories();
+              renderList();
+            }
+          }
+        })
+        .catch(() => {});
     })();
   </script>
 </body>
