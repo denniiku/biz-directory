@@ -89,7 +89,7 @@
       outline: none; transition: border-color 0.2s ease, background 0.2s ease;
     }
     .bd-select:focus, .bd-search:focus { border-color: #27374D; background: #fff; }
-    .bd-select { min-width: 145px; cursor: pointer; }
+    .bd-select { width: 175px; max-width: 185px; cursor: pointer; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
     .bd-search-wrap { flex: 1; position: relative; min-width: 150px; }
     .bd-search { width: 100%; padding-left: 32px; box-sizing: border-box; }
     .bd-search-icon {
@@ -470,6 +470,60 @@
         return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
       }
 
+            const ALLOWED_INDUSTRIES = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
+
+      function normalizeIndustry(rawInd, rawPcat, rawSum) {
+        const s = String((rawInd || '') + ' ' + (rawPcat || '')).toLowerCase();
+        const exact = String(rawInd || '').toLowerCase().trim();
+        if (ALLOWED_INDUSTRIES.indexOf(exact) !== -1) return exact;
+        if (/\b(pet clinic|veterinary|vet\b)/.test(s)) return 'pet clinic';
+        if (/\b(pet|companion animal|dog|cat)\b/.test(s)) return 'pet';
+        if (/\b(robot|robotics|autonomous mobility)\b/.test(s)) return 'robot';
+        if (/\b(medical|healthcare|health|bio|clinical|diagnostic|nutrition ai)\b/.test(s) && !/\bai\b/.test(exact)) return 'medical & healthcare';
+        if (/\b(ai|artificial intelligence|generative|llm|agent|agentic|multimodal|machine learning|deep learning)\b/.test(s)) return 'ai';
+        if (/\b(beauty|cosmetic|skincare|aesthetic|derma)\b/.test(s)) return 'beauty';
+        if (/\b(food|beverage|tea|kombucha|snack|culinary)\b/.test(s)) return 'food';
+        if (/\b(outdoor|leisure|camping|sports|travel)\b/.test(s)) return 'outdoor & leisure';
+        if (/\b(living|lifestyle|baby|kids|home|furniture|kitchen)\b/.test(s)) return 'living & lifestyle';
+        if (/\b(industrial|material|manufacturing|chemical|machinery|trade association|b2b trade)\b/.test(s)) return 'industrial & material';
+        if (/\b(software|it|ict|digital|vr|ar|xr|iot|security|data|cloud|platform|telecom|media|information|importer|distributor|developer)\b/.test(s)) return 'it & electronics';
+        return 'it & electronics';
+      }
+
+      function normalizePcat(rawPcat, rawInd) {
+        let p = String(rawPcat || '').toLowerCase().trim();
+        if (!p || p === 'general') {
+          const indClean = String(rawInd || '').toLowerCase().trim();
+          if (indClean && ALLOWED_INDUSTRIES.indexOf(indClean) === -1) p = indClean;
+          else return 'general';
+        }
+        // Take only the FIRST primary category before comma or slash
+        p = p.split(/,|\/|;/)[0].trim();
+        p = p.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+        if (p.length > 30) p = p.substring(0, 30).replace(/\s+\S*$/, '');
+        return p || 'general';
+      }
+
+      function normalizeRecord(item) {
+        const origInd = item.industry || '';
+        const origPcat = item.product_category || '';
+        item.country = String(item.country || 'korea').toLowerCase().trim();
+        if (item.country.indexOf('seoul') !== -1 || item.country.indexOf('korea') !== -1) item.country = 'korea';
+        item.industry = normalizeIndustry(origInd, origPcat, item.summary);
+        item.product_category = normalizePcat(origPcat, origInd);
+
+        // Enrich 1-line placeholder summary using original tags if needed
+        if (!item.summary || /^•?\s*Overview:\s*Partner company/i.test(item.summary.trim())) {
+          const extraTags = String(origPcat || '').split(',').map(function(x){return x.trim();}).filter(Boolean).join(', ');
+          const bizType = (origInd && ALLOWED_INDUSTRIES.indexOf(origInd.toLowerCase()) === -1) ? origInd : item.industry;
+          item.summary = '• Overview: ' + (item.company_name || 'Partner') + ' is a specialized partner in ' + item.industry.toUpperCase() + ' (' + bizType + ').\n'
+                       + (extraTags ? ('• Key Solutions & Focus: ' + extraTags + '.\n') : '')
+                       + '• Global Partnership: Listed on sistar company biz-directory for B2B sourcing and collaboration.';
+        }
+        return item;
+      }
+
+      allData.forEach(normalizeRecord);
       const preferredIndOrder = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
       function rebuildIndustryDropdown() {
         const cur = elIndustry.value.toLowerCase();
@@ -800,7 +854,7 @@
             let added = false;
             res.companies.forEach(function(c) {
               if (c.company_name && !existingNames.has(String(c.company_name).toLowerCase())) {
-                allData.push(c);
+                allData.push(normalizeRecord(c));
                 existingNames.add(String(c.company_name).toLowerCase());
                 added = true;
               }
