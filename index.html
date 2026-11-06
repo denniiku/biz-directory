@@ -134,6 +134,30 @@
       white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;
     }
     .bd-cname { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.86rem; color: #27374D; }
+    .bd-pagination {
+      display: flex; align-items: center; justify-content: center; gap: 6px;
+      margin-top: 16px; flex-wrap: wrap; user-select: none;
+    }
+    .bd-page-btn {
+      min-width: 34px; height: 34px; padding: 0 10px; border-radius: 8px;
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      background: rgba(255, 255, 255, 0.68);
+      color: #27374D; font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.8rem; font-weight: 700; cursor: pointer;
+      display: inline-flex; align-items: center; justify-content: center;
+      transition: all 0.15s ease;
+    }
+    .bd-page-btn:hover:not(:disabled) {
+      background: rgba(255, 255, 255, 0.95);
+      transform: translateY(-1px);
+    }
+    .bd-page-btn.active {
+      background: linear-gradient(120deg, rgba(240,172,247,0.75), rgba(172,247,240,0.75), rgba(247,240,172,0.75));
+      border-color: #27374D;
+    }
+    .bd-page-btn:disabled {
+      opacity: 0.4; cursor: default;
+    }
 
     .bd-modal-backdrop {
       position: fixed; inset: 0; z-index: 100005;
@@ -324,6 +348,7 @@
       </div>
       <div id="bd-list-body"></div>
     </div>
+    <div class="bd-pagination" id="bd-pagination"></div>
   </main>
 
   <!-- Detail Modal Popup -->
@@ -432,6 +457,8 @@
 
       const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA.slice() : [];
       let filtered = [];
+      let currentPage = 1;
+      const PAGE_SIZE = 20;
       let currentModalIdx = -1;
       const starredIds = new Set(JSON.parse(localStorage.getItem('sc_starred_companies') || '[]'));
 
@@ -557,6 +584,30 @@
         if (sorted.indexOf(currentPcat) !== -1) elPcat.value = currentPcat;
       }
 
+      function renderPagination(totalPages) {
+        const elPag = document.getElementById('bd-pagination');
+        if (!elPag) return;
+        if (totalPages <= 1) {
+          elPag.innerHTML = '';
+          return;
+        }
+        let htmlBtns = '<button type="button" class="bd-page-btn" data-page="' + (currentPage - 1) + '"' + (currentPage === 1 ? ' disabled' : '') + '>&lt;</button>';
+        for (let p = 1; p <= totalPages; p++) {
+          htmlBtns += '<button type="button" class="bd-page-btn' + (p === currentPage ? ' active' : '') + '" data-page="' + p + '">' + p + '</button>';
+        }
+        htmlBtns += '<button type="button" class="bd-page-btn" data-page="' + (currentPage + 1) + '"' + (currentPage === totalPages ? ' disabled' : '') + '>&gt;</button>';
+        elPag.innerHTML = htmlBtns;
+
+        elPag.querySelectorAll('.bd-page-btn').forEach(function(btn) {
+          btn.addEventListener('click', function() {
+            if (btn.disabled) return;
+            currentPage = parseInt(btn.getAttribute('data-page'), 10);
+            renderList();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          });
+        });
+      }
+
       function renderList() {
         const cVal = elCountry.value.toLowerCase();
         const iVal = elIndustry.value.toLowerCase();
@@ -574,16 +625,28 @@
           return true;
         });
 
-        elCount.textContent = filtered.length + (filtered.length === 1 ? ' company' : ' companies');
+        const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+        if (currentPage > totalPages) currentPage = totalPages;
+        if (currentPage < 1) currentPage = 1;
+
+        const startIdx = (currentPage - 1) * PAGE_SIZE;
+        const pageItems = filtered.slice(startIdx, startIdx + PAGE_SIZE);
 
         if (filtered.length === 0) {
+          elCount.textContent = '0 companies';
           elListBody.innerHTML = '<div class="bd-row"><div style="grid-column: 1 / -1; color:#526D82; padding:12px 0;">No matching companies found.</div></div>';
+          renderPagination(1);
           return;
         }
 
-        elListBody.innerHTML = filtered.map(function(item, idx) {
+        const endIdx = Math.min(startIdx + PAGE_SIZE, filtered.length);
+        elCount.textContent = filtered.length + (filtered.length === 1 ? ' company' : ' companies') +
+          (filtered.length > PAGE_SIZE ? '  (showing ' + (startIdx + 1) + '–' + endIdx + ')' : '');
+
+        elListBody.innerHTML = pageItems.map(function(item, i) {
+          const globalIdx = startIdx + i;
           const isStar = starredIds.has(item.id);
-          return '<div class="bd-row bd-row-item" data-idx="' + idx + '">' +
+          return '<div class="bd-row bd-row-item" data-idx="' + globalIdx + '">' +
             '<div class="bd-chk-cell" data-id="' + item.id + '" title="Select company">' + (isStar ? ICON_CHECKED : ICON_UNCHECKED) + '</div>' +
             '<div><span class="bd-pill">' + (item.country || 'korea') + '</span></div>' +
             '<div><span class="bd-pill">' + (item.industry || '') + '</span></div>' +
@@ -591,6 +654,8 @@
             '<div class="bd-cname">' + (item.company_name || '') + '</div>' +
           '</div>';
         }).join('');
+
+        renderPagination(totalPages);
 
         elListBody.querySelectorAll('.bd-chk-cell').forEach(function(chkEl) {
           chkEl.addEventListener('click', function(e) {
@@ -608,6 +673,8 @@
           });
         });
       }
+
+
 
       const backdrop = document.getElementById('bd-modal-backdrop');
       const mTags = document.getElementById('bd-m-tags');
@@ -835,10 +902,10 @@
         }
       });
 
-      elCountry.addEventListener('change', renderList);
-      elIndustry.addEventListener('change', function() { updateProductCategories(); renderList(); });
-      elPcat.addEventListener('change', renderList);
-      elSearch.addEventListener('input', renderList);
+      elCountry.addEventListener('change', function() { currentPage = 1; renderList(); });
+      elIndustry.addEventListener('change', function() { currentPage = 1; updateProductCategories(); renderList(); });
+      elPcat.addEventListener('change', function() { currentPage = 1; renderList(); });
+      elSearch.addEventListener('input', function() { currentPage = 1; renderList(); });
 
       rebuildIndustryDropdown();
       updateProductCategories();
