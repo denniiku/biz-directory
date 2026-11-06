@@ -1,4 +1,4 @@
----
+---## 5. Preserved Legacy Rules (Merged from SKILL.md)---
 name: sc-master-web-builder
 description: Integrated Master Skill for *SC - SISTAR Company (sc_web) combining Luminous Prismatic palette, Gemini-style Left Collapsible Navigator, Cinematic Cosmos Main Landing, and Palantir/Linear/a16z infographic benchmarks.
 ---
