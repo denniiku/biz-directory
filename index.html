@@ -21,13 +21,39 @@
   <style>
     .bd-main { padding: 48px 5vw 80px; max-width: 1360px; }
     .bd-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; color: #526D82; letter-spacing: 0.04em; margin-bottom: 6px; text-transform: none; }
-    .bd-title { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 3.5vw, 2.85rem); color: #27374D; margin-bottom: 22px; letter-spacing: -0.02em; }
+    .bd-header-row {
+      display: flex; align-items: flex-end; justify-content: space-between;
+      gap: 12px; margin-bottom: 14px; flex-wrap: wrap;
+    }
+    .bd-title { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 3.5vw, 2.85rem); color: #27374D; margin: 0; letter-spacing: -0.02em; line-height: 1.05; }
+
+    .bd-harvester-link {
+      background: rgba(255, 255, 255, 0.65);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(157, 178, 191, 0.7);
+      border-radius: 99px;
+      padding: 7px 14px;
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #27374D;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      margin-left: auto;
+      transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .bd-harvester-link:hover {
+      background: rgba(255, 255, 255, 0.95);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(39, 55, 77, 0.12);
+    }
 
     .bd-chk-svg { width: 16px; height: 16px; vertical-align: -3px; flex-shrink: 0; transition: transform 0.15s ease; }
     .bd-chk-cell { display: flex; align-items: center; justify-content: center; cursor: pointer; user-select: none; }
     .bd-chk-cell:hover .bd-chk-svg { transform: scale(1.15); }
 
-    /* Signature Pastel Gradient Button Style (Applied to ✨ brief, inquiry for ☑, and select) */
     .bd-pastel-btn {
       background: linear-gradient(120deg, rgba(240,172,247,0.52), rgba(172,247,240,0.52), rgba(247,240,172,0.52));
       border: 1px solid rgba(157, 178, 191, 0.72);
@@ -48,13 +74,12 @@
       filter: brightness(1.03);
     }
 
-    /* 1-Row Filter Bar */
     .bd-filter-bar {
       display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;
       background: rgba(255, 255, 255, 0.58);
       backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
       border: 1px solid rgba(157, 178, 191, 0.5);
-      padding: 12px 14px; border-radius: 12px; margin-bottom: 14px;
+      padding: 12px 14px; border-radius: 12px; margin-bottom: 12px;
     }
     .bd-select, .bd-search {
       height: 38px; padding: 0 12px; border-radius: 8px;
@@ -74,12 +99,11 @@
     .bd-bar-btn-size { height: 38px; padding: 0 14px; font-size: 0.82rem; }
 
     .bd-meta-row {
-      display: flex; align-items: center; justify-content: space-between;
+      display: flex; align-items: center; justify-content: flex-start;
       font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; color: #526D82;
       margin-bottom: 10px; padding: 0 4px;
     }
 
-    /* Directory List Table */
     .bd-list-box {
       background: rgba(255, 255, 255, 0.64);
       backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
@@ -111,7 +135,6 @@
     }
     .bd-cname { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.86rem; color: #27374D; }
 
-    /* Modals */
     .bd-modal-backdrop {
       position: fixed; inset: 0; z-index: 100005;
       background: rgba(39, 55, 77, 0.42);
@@ -151,7 +174,6 @@
     }
     .bd-modal-select-btn { padding: 5px 12px; font-size: 0.78rem; }
 
-    /* Scrollable Multi-Image + Bullet Summary Modal Body */
     .bd-modal-body {
       padding: 18px 24px; overflow-y: auto; flex: 1;
       scrollbar-width: thin; scrollbar-color: #9DB2BF transparent;
@@ -199,7 +221,6 @@
     }
     .bd-foot-inq-btn { height: 36px; padding: 0 14px; font-size: 0.82rem; }
 
-    /* ✨ Real-Time AI Brief Modal */
     .bd-ai-modal {
       width: 100%; max-width: 640px; max-height: 84vh;
       background: rgba(255, 255, 255, 0.97);
@@ -213,7 +234,6 @@
       border-radius: 12px; padding: 16px 18px; white-space: pre-wrap;
     }
 
-    /* Inquiry Compose Modal */
     .bd-inq-modal {
       width: 100%; max-width: 520px; background: rgba(255,255,255,0.97);
       border: 1px solid rgba(157,178,191,0.7); border-radius: 16px;
@@ -231,9 +251,7 @@
       background: #fff; border: 1px solid rgba(157,178,191,0.65); font-size: 0.75rem; font-weight: 600; color: #27374D;
     }
     .bd-inq-chip button { border: none; background: none; cursor: pointer; color: #526D82; font-size: 0.9rem; padding: 0 0 0 2px; }
-    .bd-inq-send {
-      width: 100%; justify-content: center; padding: 10px 16px; font-size: 0.85rem;
-    }
+    .bd-inq-send { width: 100%; justify-content: center; padding: 10px 16px; font-size: 0.85rem; }
 
     @media (max-width: 768px) {
       .bd-filter-bar { flex-wrap: wrap; }
@@ -248,9 +266,13 @@
 <body class="sc-nav-open">
   <main class="bd-main">
     <p class="bd-eyebrow">sistar company</p>
-    <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:14px;"><h1 class="bd-title" style="margin:0;">biz-directory</h1><a href="https://script.google.com/macros/s/AKfycbxS8FZWeWcV60C7koteQAL8_S-G7DLuX8XF75XlSlLdLlk3XUX3BGHgPOn3VMD6FbGFuQ/exec" onclick="window.open(this.href,'harv','width=1020,height=820');return false;" style="font-family:'Space Grotesk',sans-serif;font-size:0.82rem;font-weight:700;color:#27374D;text-decoration:none;background:rgba(255,255,255,0.65);padding:7px 14px;border-radius:99px;border:1px solid rgba(157,178,191,0.7);">🔸+ add to biz-directory</a></div>
+    <div class="bd-header-row">
+      <h1 class="bd-title">biz-directory</h1>
+      <a href="https://script.google.com/macros/s/AKfycbxS8FZWeWcV60C7koteQAL8_S-G7DLuX8XF75XlSlLdLlk3XUX3BGHgPOn3VMD6FbGFuQ/exec"
+         onclick="window.open(this.href,'harv','width=1020,height=820');return false;"
+         class="bd-harvester-link">&#128312;+ add to biz-directory</a>
+    </div>
 
-    <!-- 1-Row Filter Bar -->
     <div class="bd-filter-bar">
       <select id="bd-country" class="bd-select" aria-label="Country">
         <option value="">country: all</option>
@@ -275,7 +297,9 @@
         <input type="text" id="bd-search" class="bd-search" placeholder="search company, product, keyword..." autocomplete="off" />
       </div>
 
-      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-sparkle-modal" title="AI Summary & Brief for selected companies"><span>&#10024; brief</span></button>
+      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-sparkle-modal" title="AI Summary & Brief for selected companies">
+        <span>&#10024; brief</span>
+      </button>
 
       <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-star-modal" title="Inquiry for selected companies">
         <span>inquiry for</span>
@@ -286,10 +310,8 @@
 
     <div class="bd-meta-row">
       <span id="bd-count">0 companies</span>
-      
     </div>
 
-    <!-- Directory List -->
     <div class="bd-list-box">
       <div class="bd-row bd-row-head">
         <div style="display:flex;justify-content:center;">
@@ -329,7 +351,6 @@
 
       <div class="bd-modal-foot">
         <button type="button" class="bd-corner-nav" id="bd-prev-btn" title="Previous company">&lt;</button>
-
         <div class="bd-foot-right">
           <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-m-inquire-now">
             <span>inquiry for</span>
@@ -341,7 +362,7 @@
     </div>
   </div>
 
-  <!-- ✨ Real-Time AI Brief Modal (Powered by GAS + Gemini API) -->
+  <!-- ✨ Real-Time AI Brief Modal -->
   <div class="bd-modal-backdrop" id="bd-ai-backdrop">
     <div class="bd-ai-modal" role="dialog" aria-modal="true">
       <div class="bd-modal-top">
@@ -352,7 +373,7 @@
         <button type="button" class="bd-modal-close" id="bd-ai-close">&times;</button>
       </div>
       <div class="bd-modal-body">
-        <div class="bd-ai-output" id="bd-ai-output">Generating AI analysis...</div>
+        <div class="bd-ai-output" id="bd-ai-output">✨ analyzing... with sistar ai centers</div>
       </div>
       <div class="bd-modal-foot" style="justify-content:flex-end;">
         <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-ai-to-inq">
@@ -363,7 +384,7 @@
     </div>
   </div>
 
-  <!-- Selected Companies Direct Message Modal ([postman] : biz-directory GAS) -->
+  <!-- Inquiry Modal -->
   <div class="bd-modal-backdrop" id="bd-inq-backdrop">
     <div class="bd-inq-modal" role="dialog" aria-modal="true">
       <div class="bd-modal-top">
@@ -409,7 +430,7 @@
       const ICON_UNCHECKED = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2.5" y="2.5" width="15" height="15" rx="4" stroke="#526D82" stroke-width="1.8" fill="rgba(255,255,255,0.85)"/></svg>';
       const ICON_CHECKED   = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
-      const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA : [];
+      const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA.slice() : [];
       let filtered = [];
       let currentModalIdx = -1;
       const starredIds = new Set(JSON.parse(localStorage.getItem('sc_starred_companies') || '[]'));
@@ -422,41 +443,64 @@
       const elCount = document.getElementById('bd-count');
       const elStarCount = document.getElementById('bd-star-count');
 
+      // Prune ghost IDs so the count is always 100% accurate
       function saveStars() {
-        const validIds = new Set(allData.map(d => d.id));
-        Array.from(starredIds).forEach(id => { if (!validIds.has(id)) starredIds.delete(id); });
+        const validIds = new Set(allData.map(function(d) { return d.id; }));
+        Array.from(starredIds).forEach(function(id) {
+          if (!validIds.has(id)) starredIds.delete(id);
+        });
         localStorage.setItem('sc_starred_companies', JSON.stringify(Array.from(starredIds)));
         elStarCount.textContent = '(' + starredIds.size + ')';
       }
-      saveStars();
+
+      function makeSvgCardDataUri(item) {
+        const safeTitle = String(item.company_name || 'Partner').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        const safeSub = String((item.industry || '') + '  |  ' + (item.product_category || '')).toUpperCase().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').substring(0, 56);
+        const ctry = String(item.country || 'KOREA').toUpperCase();
+        const svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%">'
+          + '<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f7dffb"/><stop offset="50%" stop-color="#dffbf7"/><stop offset="100%" stop-color="#fbf7df"/></linearGradient></defs>'
+          + '<rect width="800" height="420" fill="url(#bg)"/>'
+          + '<rect x="28" y="28" width="744" height="364" rx="20" fill="rgba(255,255,255,0.75)" stroke="rgba(157,178,191,0.5)" stroke-width="2"/>'
+          + '<text x="64" y="88" font-family="sans-serif" font-size="15" font-weight="700" fill="#526D82" letter-spacing="2">sistar company  •  ' + ctry + '  •  ' + (item.id || '') + '</text>'
+          + '<text x="64" y="215" font-family="sans-serif" font-size="32" font-weight="700" fill="#27374D">' + safeTitle + '</text>'
+          + '<rect x="64" y="265" width="672" height="2" fill="rgba(157,178,191,0.4)"/>'
+          + '<text x="64" y="315" font-family="sans-serif" font-size="15" font-weight="600" fill="#526D82" letter-spacing="1">' + safeSub + '</text>'
+          + '<text x="64" y="355" font-family="sans-serif" font-size="13" font-weight="500" fill="#9DB2BF">biz-directory.sistarcompany.com</text>'
+          + '</svg>';
+        return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
+      }
 
       const preferredIndOrder = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
-      const indSet = new Set();
-      allData.forEach(d => { if (d.industry) indSet.add(d.industry.toLowerCase()); });
-      preferredIndOrder.forEach(i => indSet.add(i));
-      const sortedInds = Array.from(indSet).sort((a,b) => {
-        const ia = preferredIndOrder.indexOf(a), ib = preferredIndOrder.indexOf(b);
-        if (ia !== -1 && ib !== -1) return ia - ib;
-        if (ia !== -1) return -1;
-        if (ib !== -1) return 1;
-        return a.localeCompare(b);
-      });
-      elIndustry.innerHTML = '<option value="">industry: all</option>' +
-        sortedInds.map(ind => '<option value="' + ind + '">' + ind + '</option>').join('');
+      function rebuildIndustryDropdown() {
+        const cur = elIndustry.value.toLowerCase();
+        const indSet = new Set();
+        allData.forEach(function(d) { if (d.industry) indSet.add(d.industry.toLowerCase()); });
+        preferredIndOrder.forEach(function(i) { indSet.add(i); });
+        const sortedInds = Array.from(indSet).sort(function(a,b) {
+          const ia = preferredIndOrder.indexOf(a), ib = preferredIndOrder.indexOf(b);
+          if (ia !== -1 && ib !== -1) return ia - ib;
+          if (ia !== -1) return -1;
+          if (ib !== -1) return 1;
+          return a.localeCompare(b);
+        });
+        elIndustry.innerHTML = '<option value="">industry: all</option>' +
+          sortedInds.map(function(ind) { return '<option value="' + ind + '">' + ind + '</option>'; }).join('');
+        if (sortedInds.indexOf(cur) !== -1) elIndustry.value = cur;
+      }
 
       function updateProductCategories() {
         const selInd = elIndustry.value.toLowerCase();
         const currentPcat = elPcat.value.toLowerCase();
         const pcatSet = new Set();
-        allData.forEach(item => {
+        allData.forEach(function(item) {
           if (!selInd || (item.industry || '').toLowerCase() === selInd) {
             if (item.product_category) pcatSet.add(item.product_category.toLowerCase());
           }
         });
         const sorted = Array.from(pcatSet).sort();
         elPcat.innerHTML = '<option value="">product category: all</option>' +
-          sorted.map(c => '<option value="' + c + '">' + c + '</option>').join('');
-        if (sorted.includes(currentPcat)) elPcat.value = currentPcat;
+          sorted.map(function(c) { return '<option value="' + c + '">' + c + '</option>'; }).join('');
+        if (sorted.indexOf(currentPcat) !== -1) elPcat.value = currentPcat;
       }
 
       function renderList() {
@@ -465,13 +509,13 @@
         const pVal = elPcat.value.toLowerCase();
         const qVal = elSearch.value.trim().toLowerCase();
 
-        filtered = allData.filter(item => {
+        filtered = allData.filter(function(item) {
           if (cVal && (item.country || '').toLowerCase() !== cVal) return false;
           if (iVal && (item.industry || '').toLowerCase() !== iVal) return false;
           if (pVal && (item.product_category || '').toLowerCase() !== pVal) return false;
           if (qVal) {
             const hay = ((item.company_name || '') + ' ' + (item.summary || '') + ' ' + (item.product_category || '') + ' ' + (item.industry || '') + ' ' + (item.country || '')).toLowerCase();
-            if (!hay.includes(qVal)) return false;
+            if (hay.indexOf(qVal) === -1) return false;
           }
           return true;
         });
@@ -483,7 +527,7 @@
           return;
         }
 
-        elListBody.innerHTML = filtered.map((item, idx) => {
+        elListBody.innerHTML = filtered.map(function(item, idx) {
           const isStar = starredIds.has(item.id);
           return '<div class="bd-row bd-row-item" data-idx="' + idx + '">' +
             '<div class="bd-chk-cell" data-id="' + item.id + '" title="Select company">' + (isStar ? ICON_CHECKED : ICON_UNCHECKED) + '</div>' +
@@ -494,8 +538,8 @@
           '</div>';
         }).join('');
 
-        elListBody.querySelectorAll('.bd-chk-cell').forEach(chkEl => {
-          chkEl.addEventListener('click', e => {
+        elListBody.querySelectorAll('.bd-chk-cell').forEach(function(chkEl) {
+          chkEl.addEventListener('click', function(e) {
             e.stopPropagation();
             const cid = chkEl.getAttribute('data-id');
             if (starredIds.has(cid)) starredIds.delete(cid); else starredIds.add(cid);
@@ -504,8 +548,8 @@
           });
         });
 
-        elListBody.querySelectorAll('.bd-row-item').forEach(rowEl => {
-          rowEl.addEventListener('click', () => {
+        elListBody.querySelectorAll('.bd-row-item').forEach(function(rowEl) {
+          rowEl.addEventListener('click', function() {
             openModalAt(parseInt(rowEl.getAttribute('data-idx'), 10));
           });
         });
@@ -534,34 +578,31 @@
 
         mTags.innerHTML = [item.country, item.industry, item.product_category]
           .filter(Boolean)
-          .map(t => '<span class="bd-modal-tag">' + t + '</span>')
+          .map(function(t) { return '<span class="bd-modal-tag">' + t + '</span>'; })
           .join('');
         mTitle.textContent = item.company_name || '';
         syncModalStarBtn(item);
 
-        // Support multiple images separated by '|' or ';' in image_url for scrollable gallery
-        const rawImgs = (item.image_url || '').split(/\||;/).map(s => s.trim()).filter(Boolean);
-        const safeTitle = (item.company_name || 'Partner').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-        const safeSub = ((item.industry || '') + '  |  ' + (item.product_category || '')).toUpperCase().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-        const svgRaw = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%"><defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f7dffb"/><stop offset="50%" stop-color="#dffbf7"/><stop offset="100%" stop-color="#fbf7df"/></linearGradient></defs><rect width="800" height="420" fill="url(#bg)"/><rect x="28" y="28" width="744" height="364" rx="20" fill="rgba(255,255,255,0.75)" stroke="rgba(157,178,191,0.5)" stroke-width="2"/><text x="64" y="88" font-family="sans-serif" font-size="15" font-weight="700" fill="#526D82" letter-spacing="2">sistar company  •  ' + (item.country || 'KOREA').toUpperCase() + '  •  ' + (item.id || '') + '</text><text x="64" y="215" font-family="sans-serif" font-size="32" font-weight="700" fill="#27374D">' + safeTitle + '</text><rect x="64" y="265" width="672" height="2" fill="rgba(157,178,191,0.4)"/><text x="64" y="315" font-family="sans-serif" font-size="15" font-weight="600" fill="#526D82" letter-spacing="1">' + safeSub.substring(0, 58) + '</text><text x="64" y="355" font-family="sans-serif" font-size="13" font-weight="500" fill="#9DB2BF">biz-directory.sistarcompany.com</text></svg>';
-        const dataUriFallback = 'data:image/svg+xml;utf8,' + encodeURIComponent(svgRaw);
-        const imgList = rawImgs.length > 0 ? rawImgs : [dataUriFallback];
+        const rawImgs = String(item.image_url || '').split(/\||;/).map(function(s) { return s.trim(); }).filter(Boolean);
+        const fallbackUri = makeSvgCardDataUri(item);
+        const imgList = rawImgs.length > 0 ? rawImgs : [fallbackUri];
 
-        mGallery.innerHTML = imgList.map(src =>
-          '<div class="bd-modal-img-wrap"><img class="bd-modal-img" src="' + src + '" alt="" data-fb="' + dataUriFallback + '" onerror="if(this.src!==this.getAttribute(\'data-fb\'))this.src=this.getAttribute(\'data-fb\');" /></div>'
-        ).join('');|        const rawImgs = (item.image_url || '').split(/\||;/).map(s => s.trim()).filter(Boolean);
-        const safeTitle = (item.company_name || 'Partner').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-        const safeSub = ((item.industry || '') + '  |  ' + (item.product_category || '')).toUpperCase().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-        const svgRaw = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%"><defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f7dffb"/><stop offset="50%" stop-color="#dffbf7"/><stop offset="100%" stop-color="#fbf7df"/></linearGradient></defs><rect width="800" height="420" fill="url(#bg)"/><rect x="28" y="28" width="744" height="364" rx="20" fill="rgba(255,255,255,0.75)" stroke="rgba(157,178,191,0.5)" stroke-width="2"/><text x="64" y="88" font-family="sans-serif" font-size="15" font-weight="700" fill="#526D82" letter-spacing="2">sistar company  •  ' + (item.country || 'KOREA').toUpperCase() + '  •  ' + (item.id || '') + '</text><text x="64" y="215" font-family="sans-serif" font-size="32" font-weight="700" fill="#27374D">' + safeTitle + '</text><rect x="64" y="265" width="672" height="2" fill="rgba(157,178,191,0.4)"/><text x="64" y="315" font-family="sans-serif" font-size="15" font-weight="600" fill="#526D82" letter-spacing="1">' + safeSub.substring(0, 58) + '</text><text x="64" y="355" font-family="sans-serif" font-size="13" font-weight="500" fill="#9DB2BF">biz-directory.sistarcompany.com</text></svg>';
-        const dataUriFallback = 'data:image/svg+xml;utf8,' + encodeURIComponent(svgRaw);
-        const imgList = rawImgs.length > 0 ? rawImgs : [dataUriFallback];
+        mGallery.innerHTML = '';
+        imgList.forEach(function(src) {
+          const wrap = document.createElement('div');
+          wrap.className = 'bd-modal-img-wrap';
+          const img = document.createElement('img');
+          img.className = 'bd-modal-img';
+          img.src = src;
+          img.onerror = function() {
+            if (img.src !== fallbackUri) img.src = fallbackUri;
+          };
+          wrap.appendChild(img);
+          mGallery.appendChild(wrap);
+        });
 
-        mGallery.innerHTML = imgList.map(src =>
-          '<div class="bd-modal-img-wrap"><img class="bd-modal-img" src="' + src + '" alt="" data-fb="' + dataUriFallback + '" onerror="if(this.src!==this.getAttribute(\'data-fb\'))this.src=this.getAttribute(\'data-fb\');" /></div>'
-        ).join('');
-
-        const rawSum = (item.summary || '').split(/\r?\n|•/).map(s => s.trim()).filter(Boolean);
-        mSummary.innerHTML = rawSum.map(line => '<li>' + line + '</li>').join('');
+        const rawSum = String(item.summary || '').split(/\r?\n|•/).map(function(s) { return s.trim(); }).filter(Boolean);
+        mSummary.innerHTML = rawSum.map(function(line) { return '<li>' + line + '</li>'; }).join('');
 
         const tUrl = item.target_url || 'https://biz-galaxy.sistarcompany.com';
         mUrl.href = tUrl;
@@ -571,13 +612,13 @@
         backdrop.classList.add('open');
       }
 
-      mUrl.addEventListener('click', e => {
+      mUrl.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
         window.open(mUrl.href, '_blank', 'noopener,noreferrer');
       });
 
-      mStarBtn.addEventListener('click', () => {
+      mStarBtn.addEventListener('click', function() {
         if (currentModalIdx < 0 || !filtered[currentModalIdx]) return;
         const item = filtered[currentModalIdx];
         if (starredIds.has(item.id)) starredIds.delete(item.id); else starredIds.add(item.id);
@@ -586,37 +627,37 @@
         renderList();
       });
 
-      document.getElementById('bd-prev-btn').addEventListener('click', e => {
+      document.getElementById('bd-prev-btn').addEventListener('click', function(e) {
         e.stopPropagation();
         openModalAt(currentModalIdx - 1);
       });
-      document.getElementById('bd-next-btn').addEventListener('click', e => {
+      document.getElementById('bd-next-btn').addEventListener('click', function(e) {
         e.stopPropagation();
         openModalAt(currentModalIdx + 1);
       });
 
-      document.addEventListener('keydown', e => {
+      document.addEventListener('keydown', function(e) {
         if (!backdrop.classList.contains('open')) return;
         if (e.key === 'ArrowLeft') openModalAt(currentModalIdx - 1);
         else if (e.key === 'ArrowRight') openModalAt(currentModalIdx + 1);
         else if (e.key === 'Escape') backdrop.classList.remove('open');
       });
 
-      document.getElementById('bd-m-close').addEventListener('click', () => backdrop.classList.remove('open'));
-      backdrop.addEventListener('click', e => { if (e.target === backdrop) backdrop.classList.remove('open'); });
+      document.getElementById('bd-m-close').addEventListener('click', function() { backdrop.classList.remove('open'); });
+      backdrop.addEventListener('click', function(e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
 
-      // ✨ Real-Time AI Brief via GAS + Gemini API
+      // ✨ Real-Time AI Brief
       const aiBackdrop = document.getElementById('bd-ai-backdrop');
       const aiTitle = document.getElementById('bd-ai-title');
       const aiOutput = document.getElementById('bd-ai-output');
 
-      document.getElementById('bd-open-sparkle-modal').addEventListener('click', async () => {
-        const selected = allData.filter(d => starredIds.has(d.id));
+      document.getElementById('bd-open-sparkle-modal').addEventListener('click', async function() {
+        const selected = allData.filter(function(d) { return starredIds.has(d.id); });
         aiBackdrop.classList.add('open');
 
         if (selected.length === 0) {
           aiTitle.textContent = 'Select companies for AI Brief';
-          aiOutput.textContent = 'Please select one or more companies using the checkbox first, then click ✨ brief to generate an AI executive summary or comparison.';
+          aiOutput.textContent = 'Please select one or more companies using the checkbox first, then click ✨ brief.';
           return;
         }
 
@@ -631,30 +672,31 @@
             headers: { 'Content-Type': 'text/plain;charset=utf-8' },
             body: JSON.stringify({
               action: 'ai_brief',
-              companies: selected.map(c => ({
-                name: c.company_name,
-                country: c.country,
-                industry: c.industry,
-                category: c.product_category,
-                summary: c.summary
-              }))
+              companies: selected.map(function(c) {
+                return {
+                  name: c.company_name,
+                  country: c.country,
+                  industry: c.industry,
+                  category: c.product_category,
+                  summary: c.summary
+                };
+              })
             })
           });
           const data = await res.json();
           if (data && data.brief) {
             aiOutput.textContent = data.brief;
           } else {
-            aiOutput.textContent = 'AI Brief Ready (Add GEMINI_API_KEY in GAS to enable live generation):\n\n' +
-              selected.map(s => '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary).join('\n\n');
+            aiOutput.textContent = selected.map(function(s) { return '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary; }).join('\n\n');
           }
         } catch (err) {
-          aiOutput.textContent = selected.map(s => '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary).join('\n\n');
+          aiOutput.textContent = selected.map(function(s) { return '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary; }).join('\n\n');
         }
       });
 
-      document.getElementById('bd-ai-close').addEventListener('click', () => aiBackdrop.classList.remove('open'));
-      aiBackdrop.addEventListener('click', e => { if (e.target === aiBackdrop) aiBackdrop.classList.remove('open'); });
-      document.getElementById('bd-ai-to-inq').addEventListener('click', () => {
+      document.getElementById('bd-ai-close').addEventListener('click', function() { aiBackdrop.classList.remove('open'); });
+      aiBackdrop.addEventListener('click', function(e) { if (e.target === aiBackdrop) aiBackdrop.classList.remove('open'); });
+      document.getElementById('bd-ai-to-inq').addEventListener('click', function() {
         aiBackdrop.classList.remove('open');
         openInquiryModal(false);
       });
@@ -664,16 +706,16 @@
       const inqChips = document.getElementById('bd-inq-chips');
 
       function renderInqChips() {
-        const selected = allData.filter(d => starredIds.has(d.id));
+        const selected = allData.filter(function(d) { return starredIds.has(d.id); });
         if (selected.length === 0) {
           inqChips.innerHTML = '<span style="font-size:0.78rem; color:#526D82;">No selected companies yet. Click select on any company to add.</span>';
           return;
         }
-        inqChips.innerHTML = selected.map(d =>
-          '<span class="bd-inq-chip">' + ICON_CHECKED + '<span>' + d.company_name + '</span><button type="button" data-rm="' + d.id + '">&times;</button></span>'
-        ).join('');
-        inqChips.querySelectorAll('button[data-rm]').forEach(btn => {
-          btn.addEventListener('click', () => {
+        inqChips.innerHTML = selected.map(function(d) {
+          return '<span class="bd-inq-chip">' + ICON_CHECKED + '<span>' + d.company_name + '</span><button type="button" data-rm="' + d.id + '">&times;</button></span>';
+        }).join('');
+        inqChips.querySelectorAll('button[data-rm]').forEach(function(btn) {
+          btn.addEventListener('click', function() {
             starredIds.delete(btn.getAttribute('data-rm'));
             saveStars();
             renderList();
@@ -693,13 +735,13 @@
         inqBackdrop.classList.add('open');
       }
 
-      document.getElementById('bd-open-star-modal').addEventListener('click', () => openInquiryModal(false));
-      document.getElementById('bd-m-inquire-now').addEventListener('click', () => openInquiryModal(true));
-      document.getElementById('bd-inq-close').addEventListener('click', () => inqBackdrop.classList.remove('open'));
-      inqBackdrop.addEventListener('click', e => { if (e.target === inqBackdrop) inqBackdrop.classList.remove('open'); });
+      document.getElementById('bd-open-star-modal').addEventListener('click', function() { openInquiryModal(false); });
+      document.getElementById('bd-m-inquire-now').addEventListener('click', function() { openInquiryModal(true); });
+      document.getElementById('bd-inq-close').addEventListener('click', function() { inqBackdrop.classList.remove('open'); });
+      inqBackdrop.addEventListener('click', function(e) { if (e.target === inqBackdrop) inqBackdrop.classList.remove('open'); });
 
-      document.getElementById('bd-inq-submit').addEventListener('click', async () => {
-        const selectedNames = allData.filter(d => starredIds.has(d.id)).map(d => d.company_name);
+      document.getElementById('bd-inq-submit').addEventListener('click', async function() {
+        const selectedNames = allData.filter(function(d) { return starredIds.has(d.id); }).map(function(d) { return d.company_name; });
         const sender = document.getElementById('bd-inq-sender').value.trim();
         const msg = document.getElementById('bd-inq-msg').value.trim();
         const btn = document.getElementById('bd-inq-submit');
@@ -728,7 +770,7 @@
           });
           btn.textContent = 'sent to sc@sistarcompany.com !';
           document.getElementById('bd-inq-msg').value = '';
-          setTimeout(() => {
+          setTimeout(function() {
             btn.disabled = false;
             btn.textContent = 'send message';
             inqBackdrop.classList.remove('open');
@@ -740,51 +782,38 @@
       });
 
       elCountry.addEventListener('change', renderList);
-      elIndustry.addEventListener('change', () => { updateProductCategories();
-      renderList();
-
-      // Fetch newly listed companies from GAS Live Cloud DB automatically
-      fetch(GAS_WEBHOOK_URL + '?action=list')
-        .then(r => r.json())
-        .then(res => {
-          if (res && Array.isArray(res.companies) && res.companies.length > 0) {
-            const existingNames = new Set(allData.map(d => (d.company_name || '').toLowerCase()));
-            let added = false;
-            res.companies.forEach(c => {
-              if (c.company_name && !existingNames.has(c.company_name.toLowerCase())) {
-                allData.push(c);
-                existingNames.add(c.company_name.toLowerCase());
-                added = true;
-              }
-            });
-            if (added) { saveStars(); updateProductCategories(); renderList(); }
-          }
-        })
-        .catch(() => {}); });
+      elIndustry.addEventListener('change', function() { updateProductCategories(); renderList(); });
       elPcat.addEventListener('change', renderList);
       elSearch.addEventListener('input', renderList);
 
+      rebuildIndustryDropdown();
       updateProductCategories();
+      saveStars();
       renderList();
 
-      // Fetch newly listed companies from GAS Live Cloud DB automatically
+      // Automatically fetch live user-added companies from GAS Cloud DB
       fetch(GAS_WEBHOOK_URL + '?action=list')
-        .then(r => r.json())
-        .then(res => {
+        .then(function(r) { return r.json(); })
+        .then(function(res) {
           if (res && Array.isArray(res.companies) && res.companies.length > 0) {
-            const existingNames = new Set(allData.map(d => (d.company_name || '').toLowerCase()));
+            const existingNames = new Set(allData.map(function(d) { return String(d.company_name || '').toLowerCase(); }));
             let added = false;
-            res.companies.forEach(c => {
-              if (c.company_name && !existingNames.has(c.company_name.toLowerCase())) {
+            res.companies.forEach(function(c) {
+              if (c.company_name && !existingNames.has(String(c.company_name).toLowerCase())) {
                 allData.push(c);
-                existingNames.add(c.company_name.toLowerCase());
+                existingNames.add(String(c.company_name).toLowerCase());
                 added = true;
               }
             });
-            if (added) { saveStars(); updateProductCategories(); renderList(); }
+            if (added) {
+              rebuildIndustryDropdown();
+              updateProductCategories();
+              saveStars();
+              renderList();
+            }
           }
         })
-        .catch(() => {});
+        .catch(function() {});
     })();
   </script>
 </body>
