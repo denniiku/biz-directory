@@ -1,206 +1,237 @@
-(function () {
-  var SC_TREE = [{"label":"sistar company","host":"https://sistarcompany.com","folder":"sc-sistarcompany","group":"core","children":[{"label":"*sc","folder":"01_sc","children":[{"folder":"01_signal-star","label":"signal star"},{"folder":"02_sistar-company","label":"sistar company"},{"folder":"03_identity-signatures","label":"identity signatures"},{"folder":"04_corporate-heritage","label":"corporate heritage"}]},{"label":"sistar intl","folder":"02_sistar-intl","children":[{"folder":"01_sc-korea","label":"sc korea"},{"folder":"02_sc-indonesia","label":"sc indonesia"},{"folder":"03_sc-vietnam","label":"sc vietnam"},{"folder":"04_sc-singapore","label":"sc singapore"},{"folder":"05_sc-china","label":"sc china"},{"folder":"06_sc-japan","label":"sc japan"},{"folder":"07_sc-usa","label":"sc usa"},{"folder":"08_sc-india","label":"sc india"},{"folder":"09_global-bases","label":"global bases"}]},{"label":"intl alliance","folder":"03_intl-alliance","children":[{"folder":"01_intl-ai-trade-alliance","label":"intl ai trade alliance"},{"folder":"02_intl-ai-data-alliance","label":"intl ai data alliance"}]}]},{"label":"qubit-algorithm","host":"https://qubit-algorithm.sistarcompany.com","folder":"qubit-algorithm","group":"core","children":[{"label":"one spark, biz galaxifying","folder":"01_one-spark-biz-galaxifying","children":[{"folder":"01_paper-biz-quantum-mechanics","label":"paper biz quantum mechanics"}]},{"label":"cosmo seed biz model","folder":"02_cosmo-seed-biz-model","children":[]}]},{"label":"intelligence-core","host":"https://intelligence-core.sistarcompany.com","folder":"intelligence-core","group":"core","children":[{"label":"biz intelligence","folder":"01_biz-intelligence","children":[{"folder":"01_erp","label":"erp"},{"folder":"02_ai-centers","label":"ai centers"},{"folder":"03_rag-fine-tuning","label":"rag fine tuning"},{"folder":"04_intelligence-on-tab-hr","label":"intelligence on tab hr"},{"folder":"05_dynamic-pricing-fce","label":"dynamic pricing fce"},{"folder":"06_bnpl-fce","label":"bnpl fce"},{"folder":"07_smart-logistics","label":"smart logistics"},{"folder":"08_space-shae-warehousing","label":"space shae warehousing"},{"folder":"09_open-accounts-sales","label":"open accounts sales"},{"folder":"10_project-generator","label":"project generator"},{"folder":"11_ai-secretary","label":"ai secretary"}]},{"label":"erp","folder":"01_erp","children":[{"folder":"01_sistar-crm","label":"sistar crm"}]},{"label":"ai commerce","folder":"02_ai-commerce","children":[]},{"label":"rag","folder":"02_rag","children":[{"folder":"01_biz-intelligence","label":"biz intelligence"}]},{"label":"ai agent builder","folder":"03_ai-agent-builder","children":[{"folder":"01_work-automation","label":"work automation"}]},{"label":"ai trade intl","folder":"03_ai-trade-intl","children":[]},{"label":"physical ai robotics","folder":"04_physical-ai-robotics","children":[]},{"label":"agent builder","folder":"05_agent-builder","children":[]},{"label":"work automation","folder":"06_work-automation","children":[]},{"label":"exo brain","folder":"07_exo-brain","children":[]},{"label":"data factory","folder":"08_data-factory","children":[]},{"label":"money making designs","folder":"09_money-making-designs","children":[]},{"label":"brand new online delights","folder":"10_brand-new-online-delights","children":[]},{"label":"brand new ai delights","folder":"11_brand-new-ai-delights","children":[]},{"label":"web builder","folder":"12_web-builder","children":[]},{"label":"browser works","folder":"13_browser-works","children":[]}]},{"label":"scarlet-ai","host":"https://scarlet-ai.sistarcompany.com","folder":"scarlet-ai","group":"core","children":[{"label":"ai commerce","folder":"01_ai-commerce","children":[{"folder":"01_scarlet-marketplaces","label":"scarlet marketplaces"}]},{"label":"intl ai trading platform","folder":"01_intl-ai-trading-platform","children":[]},{"label":"ai commerce platform","folder":"02_ai-commerce-platform","children":[]},{"label":"fulfillment on demand","folder":"03_fulfillment-on-demand","children":[{"folder":"01_sistar-sod","label":"sistar sod"}]},{"label":"mall sistv","folder":"03_mall-sistv","children":[]},{"label":"robot market","folder":"04_robot-market","children":[]},{"label":"fulfillment on demand","folder":"05_fulfillment-on-demand","children":[]},{"label":"b2b","folder":"06_b2b","children":[]},{"label":"resell","folder":"07_resell","children":[]},{"label":"siscart","folder":"08_siscart","children":[]},{"label":"zero wastage","folder":"09_zero-wastage","children":[]},{"label":"mint colored","folder":"10_mint-colored","children":[]},{"label":"tech trade intl","folder":"11_tech-trade-intl","children":[]}]},{"label":"qubit-biz","host":"https://qubit-biz.sistarcompany.com","folder":"qubit-biz","group":"core","children":[{"label":"qubit erp","folder":"01_qubit-erp","children":[]},{"label":"can ceo action note","folder":"02_can-ceo-action-note","children":[]},{"label":"qubit marketplace work","folder":"02_qubit-marketplace-work","children":[{"folder":"01_sistar-link","label":"sistar link"}]},{"label":"qubit marketplace work","folder":"03_qubit-marketplace-work","children":[]},{"label":"qubit planet games","folder":"04_qubit-planet-games","children":[]},{"label":"qubit marketing","folder":"05_qubit-marketing","children":[{"folder":"01_qubit-affiliators-program","label":"qubit affiliators program"}]},{"label":"qubit banks","folder":"06_qubit-banks","children":[{"folder":"01_time-bank-space-bank-idea-bank","label":"time bank space bank idea bank"},{"folder":"02_petfood-bank","label":"petfood bank"}]},{"label":"exo brain","folder":"07_exo-brain","children":[{"folder":"01_and-i","label":"and i"}]},{"label":"qubit star","folder":"08_qubit-star","children":[]},{"label":"qubit ads","folder":"09_qubit-ads","children":[]},{"label":"knowledge networks","folder":"10_knowledge-networks","children":[]},{"label":"robotics","folder":"11_robotics","children":[]},{"label":"qubit web builder","folder":"12_qubit-web-builder","children":[]}]},{"label":"biz-galaxy","host":"https://biz-galaxy.sistarcompany.com","folder":"biz-galaxy","group":"core","children":[{"label":"sistar mind company","folder":"01_sistar-mind-company","children":[{"folder":"01_sistar-mind-company","label":"sistar mind company"},{"folder":"02_mind-navi","label":"mind navi"},{"folder":"03_nfq","label":"nfq"},{"folder":"04_ai-companion","label":"ai companion"},{"folder":"05_mind-test","label":"mind test"}]},{"label":"sispet - petfood","folder":"02_sispet-petfood","children":[{"folder":"01_sispet-world","label":"sispet world"}]},{"label":"sispet  petfood general","folder":"02_sispet--petfood-general","children":[{"folder":"01_scarlet-the-cat","label":"scarlet the cat"},{"folder":"02_forever-young-dog","label":"forever young dog"},{"folder":"03_nbs","label":"nbs"},{"folder":"04_dazzle","label":"dazzle"},{"folder":"05_ca-kr","label":"ca kr"}]},{"label":"sistar medix  petclinic","folder":"03_sistar-medix--petclinic","children":[{"folder":"01_chd","label":"chd"},{"folder":"02_sistar-medix-clinical-edition","label":"sistar medix clinical edition"},{"folder":"03_sistar-medix-botanical-edition","label":"sistar medix botanical edition"}]},{"label":"aquasis  marine aquarium","folder":"04_aquasis--marine-aquarium","children":[{"folder":"01_sis-marine","label":"sis marine"}]},{"label":"sisayurvedic - ayurveda","folder":"05_sisayurvedic-ayurveda","children":[{"folder":"01_indoherbs-pharma","label":"indoherbs pharma"}]},{"label":"sisayurvedic  ayurveda","folder":"05_sisayurvedic--ayurveda","children":[]},{"label":"sistar academy - edu","folder":"06_sistar-academy-edu","children":[{"folder":"01_ai-academy","label":"ai academy"}]},{"label":"sistar edu  education","folder":"06_sistar-edu--education","children":[{"folder":"01_edu-institute-knowledge-to-flex","label":"edu institute knowledge to flex"},{"folder":"02_flexkids-ai","label":"flexkids ai"}]},{"label":"sismii  beauty","folder":"07_sismii--beauty","children":[{"folder":"01_sis-proteins","label":"sis proteins"},{"folder":"02_jave-nature-premium","label":"jave nature premium"}]},{"label":"sistar dx  diagnostics","folder":"08_sistar-dx--diagnostics","children":[]},{"label":"sispharm  livestock","folder":"09_sispharm--livestock","children":[]},{"label":"sisloa  apparel","folder":"10_sisloa--apparel","children":[]}]},{"label":"biz-hub","host":"https://biz-hub.sistarcompany.com","folder":"biz-hub","group":"core","children":[{"label":"odm manufacturing","folder":"01_odm-manufacturing","children":[{"folder":"01_sistar-mfg","label":"sistar mfg"}]},{"label":"sistar \u0026 co","folder":"01_sistar-and-co","children":[]},{"label":"co brands","folder":"02_co-brands","children":[]},{"label":"tech build intl","folder":"03_tech-build-intl","children":[]},{"label":"data factory intl","folder":"04_data-factory-intl","children":[]},{"label":"biz campaigns","folder":"05_biz-campaigns","children":[{"folder":"01_zero-wastage-movement","label":"zero wastage movement"}]},{"label":"franchiseship","folder":"06_franchiseship","children":[{"folder":"01_sistar-mint-colored-shop","label":"sistar mint colored shop"},{"folder":"02_suu","label":"suu"},{"folder":"03_iruka-is-back","label":"iruka is back"},{"folder":"04_sistar-lp-my-neighbour-lifestyle","label":"sistar lp my neighbour lifestyle"}]},{"label":"nfq solutions","folder":"07_nfq-solutions","children":[{"folder":"01_sistar-solutions","label":"sistar solutions"}]},{"label":"studio butter intl","folder":"08_studio-butter-intl","children":[{"folder":"01_studio-butter","label":"studio butter"}]}]},{"label":"challengers","host":"https://challengers.sistarcompany.com","folder":"challengers","group":"sub","children":[{"label":"apply","folder":"01_apply","children":[{"folder":"01_sistar-challengers-intl","label":"sistar challengers intl"},{"folder":"01_team-sistar-company","label":"team sistar company"},{"folder":"02_challenger-onboarding","label":"challenger onboarding"},{"folder":"03_team-spirits","label":"team spirits"}]},{"label":"vibe working","folder":"02_vibe-working","children":[{"folder":"01_task-modules","label":"task modules"}]}]},{"label":"partnership","host":"https://partnership.sistarcompany.com","folder":"partnership","group":"sub","children":[{"label":"connect","folder":"01_connect","children":[]},{"label":"partner with us","folder":"01_partner-with-us","children":[{"folder":"01_proposal-packages","label":"proposal packages"}]}]},{"label":"ir-pitchdeck","host":"https://ir-pitchdeck.sistarcompany.com","folder":"ir-pitchdeck","group":"sub","children":[{"label":"back us","folder":"01_back-us","children":[]}]},{"label":"biz-directory","host":"https://biz-directory.sistarcompany.com","folder":"biz-directory","group":"dir","children":[{"label":"download","folder":"01_download","children":[]}]},{"label":"media","host":"https://media.sistarcompany.com","folder":"media","group":"media","children":[{"label":"sistar studio","folder":"01_sistar-studio","children":[]},{"label":"the sistar post","folder":"01_the-sistar-post","children":[{"folder":"01_sistar-herald","label":"sistar herald"}]},{"label":"the sistar post","folder":"02_the-sistar-post","children":[]}]}];
+(function() {
+  const isFile = location.protocol === 'file:';
+  const isTouchDevice = () => window.innerWidth <= 768 || ('ontouchstart' in window) || navigator.maxTouchPoints > 0;
 
-  function getContext() {
-    var isFile = location.protocol === "file:";
-    var p = location.pathname.replace(/\\/g, "/");
-    var host = location.hostname.toLowerCase();
-    var rootFilePrefix = "";
-    var activeDomain = "";
-    var activeL2 = "";
-    var activeL3 = "";
-
+  function resolveUrl(repoFolder, subPath) {
+    const cleanSub = subPath ? subPath.replace(/^\/+|\/+$/g, '') : '';
     if (isFile) {
-      var idx = p.toLowerCase().indexOf("/sc_web/");
-      if (idx !== -1) {
-        rootFilePrefix = "file://" + p.substring(0, idx + 8);
-        var rest = p.substring(idx + 8).split("/");
-        if (rest.length > 0) activeDomain = rest[0];
-        if (rest.length > 1 && rest[1] !== "index.html") activeL2 = rest[1];
-        if (rest.length > 2 && rest[2] !== "index.html") activeL3 = rest[2];
-      }
-    } else {
-      for (var i = 0; i < SC_TREE.length; i++) {
-        var dHost = SC_TREE[i].host.replace("https://", "").toLowerCase();
-        if (host === dHost || (host === "www.sistarcompany.com" && dHost === "sistarcompany.com") || host.indexOf(SC_TREE[i].folder) === 0) {
-          activeDomain = SC_TREE[i].folder;
-          break;
+      const fullPath = location.pathname.replace(/\\/g, '/');
+      const idx = fullPath.toLowerCase().indexOf('/sc_web/');
+      const base = idx !== -1 ? fullPath.substring(0, idx + 8) : '/C:/projects/sc_web/';
+      return cleanSub ? 'file://' + base + repoFolder + '/' + cleanSub + '/index.html' : 'file://' + base + repoFolder + '/index.html';
+    }
+    const domain = repoFolder === 'sc-sistarcompany' ? 'https://sistarcompany.com' : 'https://' + repoFolder + '.sistarcompany.com';
+    return cleanSub ? domain + '/' + cleanSub + '/' : domain + '/';
+  }
+
+  const MENU_STRUCTURE = [{"title":"\uD83D\uDD3A sistar company","repo":"sc-sistarcompany","children":[{"title":"\uD83D\uDD38 *sc","path":"01_sc","items":[{"folder":"01_signal-star","title":"\u25AB\uFE0F signal star"},{"folder":"02_sistar-company","title":"\u25AB\uFE0F sistar company"},{"folder":"03_identity-signatures","title":"\u25AB\uFE0F identity signatures"},{"folder":"04_corporate-heritage","title":"\u25AB\uFE0F corporate heritage"}]},{"title":"\uD83D\uDD38 sistar intl","path":"02_sistar-intl","items":[{"folder":"01_sc-korea","title":"\u25AB\uFE0F sc korea"},{"folder":"02_sc-indonesia","title":"\u25AB\uFE0F sc indonesia"},{"folder":"03_sc-vietnam","title":"\u25AB\uFE0F sc vietnam"},{"folder":"04_sc-singapore","title":"\u25AB\uFE0F sc singapore"},{"folder":"05_sc-china","title":"\u25AB\uFE0F sc china"},{"folder":"06_sc-japan","title":"\u25AB\uFE0F sc japan"},{"folder":"07_sc-usa","title":"\u25AB\uFE0F sc usa"},{"folder":"08_sc-india","title":"\u25AB\uFE0F sc india"},{"folder":"09_global-bases","title":"\u25AB\uFE0F global bases"}]},{"title":"\uD83D\uDD38 intl alliance","path":"03_intl-alliance","items":[{"folder":"01_intl-ai-trade-alliance","title":"\u25AB\uFE0F intl ai trade alliance"},{"folder":"02_intl-ai-data-alliance","title":"\u25AB\uFE0F intl ai data alliance"}]}]},{"title":"\uD83D\uDD3A qubit-algorithm","repo":"qubit-algorithm","children":[{"title":"\uD83D\uDD38 one spark biz galaxifying","path":"01_one-spark-biz-galaxifying","items":[{"folder":"01_paper-biz-quantum-mechanics","title":"\u25AB\uFE0F paper biz quantum mechanics"}]},{"title":"\uD83D\uDD38 cosmo seed biz model","path":"02_cosmo-seed-biz-model","items":[]}]},{"title":"\uD83D\uDD3A intelligence-core","repo":"intelligence-core","children":[{"title":"\uD83D\uDD38 biz intelligence","path":"01_biz-intelligence","items":[{"folder":"01_erp","title":"\u25AB\uFE0F erp"},{"folder":"02_ai-centers","title":"\u25AB\uFE0F ai centers"},{"folder":"03_rag-fine-tuning","title":"\u25AB\uFE0F rag fine tuning"},{"folder":"04_intelligence-on-tab-hr","title":"\u25AB\uFE0F intelligence on tab hr"},{"folder":"05_dynamic-pricing-fce","title":"\u25AB\uFE0F dynamic pricing fce"},{"folder":"06_bnpl-fce","title":"\u25AB\uFE0F bnpl fce"},{"folder":"07_smart-logistics","title":"\u25AB\uFE0F smart logistics"},{"folder":"08_space-shae-warehousing","title":"\u25AB\uFE0F space shae warehousing"},{"folder":"09_open-accounts-sales","title":"\u25AB\uFE0F open accounts sales"},{"folder":"10_project-generator","title":"\u25AB\uFE0F project generator"},{"folder":"11_ai-secretary","title":"\u25AB\uFE0F ai secretary"}]},{"title":"\uD83D\uDD38 ai commerce","path":"02_ai-commerce","items":[]},{"title":"\uD83D\uDD38 ai trade intl","path":"03_ai-trade-intl","items":[]},{"title":"\uD83D\uDD38 physical ai robotics","path":"04_physical-ai-robotics","items":[]},{"title":"\uD83D\uDD38 agent builder","path":"05_agent-builder","items":[]},{"title":"\uD83D\uDD38 work automation","path":"06_work-automation","items":[]},{"title":"\uD83D\uDD38 exo brain","path":"07_exo-brain","items":[]},{"title":"\uD83D\uDD38 data factory","path":"08_data-factory","items":[]},{"title":"\uD83D\uDD38 money making designs","path":"09_money-making-designs","items":[]},{"title":"\uD83D\uDD38 brand new online delights","path":"10_brand-new-online-delights","items":[]},{"title":"\uD83D\uDD38 brand new ai delights","path":"11_brand-new-ai-delights","items":[]},{"title":"\uD83D\uDD38 web builder","path":"12_web-builder","items":[]},{"title":"\uD83D\uDD38 browser works","path":"13_browser-works","items":[]}]},{"title":"\uD83D\uDD3A scarlet-ai","repo":"scarlet-ai","children":[{"title":"\uD83D\uDD38 intl ai trading platform","path":"01_intl-ai-trading-platform","items":[]},{"title":"\uD83D\uDD38 ai commerce platform","path":"02_ai-commerce-platform","items":[]},{"title":"\uD83D\uDD38 mall.sisTV","path":"03_mall-sistv","items":[]},{"title":"\uD83D\uDD38 robot market","path":"04_robot-market","items":[]},{"title":"\uD83D\uDD38 fulfillment on demand","path":"05_fulfillment-on-demand","items":[]},{"title":"\uD83D\uDD38 b2b","path":"06_b2b","items":[]},{"title":"\uD83D\uDD38 resell","path":"07_resell","items":[]},{"title":"\uD83D\uDD38 siscart","path":"08_siscart","items":[]},{"title":"\uD83D\uDD38 zero wastage","path":"09_zero-wastage","items":[]},{"title":"\uD83D\uDD38 mint colored","path":"10_mint-colored","items":[]},{"title":"\uD83D\uDD38 tech trade intl","path":"11_tech-trade-intl","items":[]}]},{"title":"\uD83D\uDD3A qubit-biz","repo":"qubit-biz","children":[{"title":"\uD83D\uDD38 qubit erp","path":"01_qubit-erp","items":[]},{"title":"\uD83D\uDD38 can ceo action note","path":"02_can-ceo-action-note","items":[]},{"title":"\uD83D\uDD38 qubit marketplace work","path":"03_qubit-marketplace-work","items":[]},{"title":"\uD83D\uDD38 qubit planet games","path":"04_qubit-planet-games","items":[]},{"title":"\uD83D\uDD38 qubit marketing","path":"05_qubit-marketing","items":[{"folder":"01_qubit-affiliators-program","title":"\u25AB\uFE0F qubit affiliators program"}]},{"title":"\uD83D\uDD38 qubit banks","path":"06_qubit-banks","items":[{"folder":"01_time-bank-space-bank-idea-bank","title":"\u25AB\uFE0F time bank space bank idea bank"},{"folder":"02_petfood-bank","title":"\u25AB\uFE0F petfood bank"}]},{"title":"\uD83D\uDD38 exo brain","path":"07_exo-brain","items":[{"folder":"01_and-i","title":"\u25AB\uFE0F \u0026 I"}]},{"title":"\uD83D\uDD38 qubit star","path":"08_qubit-star","items":[]},{"title":"\uD83D\uDD38 qubit ads","path":"09_qubit-ads","items":[]},{"title":"\uD83D\uDD38 knowledge networks","path":"10_knowledge-networks","items":[]},{"title":"\uD83D\uDD38 robotics","path":"11_robotics","items":[]},{"title":"\uD83D\uDD38 qubit web builder","path":"12_qubit-web-builder","items":[]}]},{"title":"\uD83D\uDD3A biz-galaxy","repo":"biz-galaxy","children":[{"title":"\uD83D\uDD38 sistar mind company","path":"01_sistar-mind-company","items":[{"folder":"01_sistar-mind-company","title":"\u25AB\uFE0F sistar mind company"},{"folder":"02_mind-navi","title":"\u25AB\uFE0F mind navi"},{"folder":"03_nfq","title":"\u25AB\uFE0F nfq"},{"folder":"04_ai-companion","title":"\u25AB\uFE0F ai companion"},{"folder":"05_mind-test","title":"\u25AB\uFE0F mind test"}]},{"title":"\uD83D\uDD38 sispet: petfood general","path":"02_sispet--petfood-general","items":[{"folder":"01_scarlet-the-cat","title":"\u25AB\uFE0F scarlet the cat"},{"folder":"02_forever-young-dog","title":"\u25AB\uFE0F forever young dog"},{"folder":"03_nbs","title":"\u25AB\uFE0F nbs"},{"folder":"04_dazzle","title":"\u25AB\uFE0F dazzle"},{"folder":"05_ca-kr","title":"\u25AB\uFE0F ca kr"}]},{"title":"\uD83D\uDD38 sistar medix: petclinic","path":"03_sistar-medix--petclinic","items":[{"folder":"01_chd","title":"\u25AB\uFE0F chd"},{"folder":"02_sistar-medix-clinical-edition","title":"\u25AB\uFE0F sistar medix clinical edition"},{"folder":"03_sistar-medix-botanical-edition","title":"\u25AB\uFE0F sistar medix botanical edition"}]},{"title":"\uD83D\uDD38 aquasis: marine aquarium","path":"04_aquasis--marine-aquarium","items":[{"folder":"01_sis-marine","title":"\u25AB\uFE0F sis marine"}]},{"title":"\uD83D\uDD38 sisayurvedic: ayurveda","path":"05_sisayurvedic--ayurveda","items":[]},{"title":"\uD83D\uDD38 sistar edu: education","path":"06_sistar-edu--education","items":[{"folder":"01_edu-institute-knowledge-to-flex","title":"\u25AB\uFE0F edu institute knowledge to flex"},{"folder":"02_flexkids-ai","title":"\u25AB\uFE0F flexkids ai"}]},{"title":"\uD83D\uDD38 sismii: beauty","path":"07_sismii--beauty","items":[{"folder":"01_sis-proteins","title":"\u25AB\uFE0F sis proteins"},{"folder":"02_jave-nature-premium","title":"\u25AB\uFE0F jave nature premium"}]},{"title":"\uD83D\uDD38 sistar dx: diagnostics","path":"08_sistar-dx--diagnostics","items":[]},{"title":"\uD83D\uDD38 sispharm: livestock","path":"09_sispharm--livestock","items":[]},{"title":"\uD83D\uDD38 sisloa: apparel","path":"10_sisloa--apparel","items":[]}]},{"title":"\uD83D\uDD3A biz-hub","repo":"biz-hub","children":[{"title":"\uD83D\uDD38 sistar & co","path":"01_sistar-and-co","items":[]},{"title":"\uD83D\uDD38 co brands","path":"02_co-brands","items":[]},{"title":"\uD83D\uDD38 tech build intl","path":"03_tech-build-intl","items":[]},{"title":"\uD83D\uDD38 data factory intl","path":"04_data-factory-intl","items":[]},{"title":"\uD83D\uDD38 biz campaigns","path":"05_biz-campaigns","items":[{"folder":"01_zero-wastage-movement","title":"\u25AB\uFE0F zero wastage movement"}]},{"title":"\uD83D\uDD38 franchiseship","path":"06_franchiseship","items":[{"folder":"01_sistar-mint-colored-shop","title":"\u25AB\uFE0F sistar mint colored shop"},{"folder":"02_suu","title":"\u25AB\uFE0F suu"},{"folder":"03_iruka-is-back","title":"\u25AB\uFE0F iruka is back"},{"folder":"04_sistar-lp-my-neighbour-lifestyle","title":"\u25AB\uFE0F sistar lp my neighbour lifestyle"}]},{"title":"\uD83D\uDD38 nfq solutions","path":"07_nfq-solutions","items":[{"folder":"01_sistar-solutions","title":"\u25AB\uFE0F sistar solutions"}]},{"title":"\uD83D\uDD38 studio butter intl","path":"08_studio-butter-intl","items":[{"folder":"01_studio-butter","title":"\u25AB\uFE0F studio butter"}]}]},{"title":"\uD83D\uDD39 challengers","repo":"challengers","children":[{"title":"\uD83D\uDD38 apply","path":"01_apply","items":[{"folder":"01_sistar-challengers-intl","title":"\u25AB\uFE0F sistar challengers intl"},{"folder":"01_team-sistar-company","title":"\u25AB\uFE0F team sistar company"},{"folder":"02_challenger-onboarding","title":"\u25AB\uFE0F challenger onboarding"},{"folder":"03_team-spirits","title":"\u25AB\uFE0F team spirits"}]},{"title":"\uD83D\uDD38 vibe working","path":"02_vibe-working","items":[{"folder":"01_task-modules","title":"\u25AB\uFE0F task modules"}]}]},{"title":"\uD83D\uDD39 partnership","repo":"partnership","children":[{"title":"\uD83D\uDD38 connect","path":"01_connect","items":[]}]},{"title":"\uD83D\uDD39 ir-pitchdeck","repo":"ir-pitchdeck","children":[{"title":"\uD83D\uDD38 back us","path":"01_back-us","items":[]}]},{"title":"\u25AB\uFE0Fbiz-directory","repo":"biz-directory","children":[{"title":"\uD83D\uDD38 download","path":"01_download","items":[]}]},{"title":"\uD83D\uDD3A media","repo":"media","children":[{"title":"\uD83D\uDD38 sistar studio","path":"01_sistar-studio","items":[]},{"title":"\uD83D\uDD38 the sistar post","path":"02_the-sistar-post","items":[]}]}];
+
+  function buildNavigator() {
+    if (document.getElementById('sc-left-nav')) return;
+    const isMobileInit = window.innerWidth <= 768;
+    document.body.classList.remove('sc-nav-open', 'sc-nav-folded');
+    document.body.classList.add(isMobileInit ? 'sc-nav-folded' : 'sc-nav-open');
+
+    const nav = document.createElement('aside');
+    nav.id = 'sc-left-nav';
+
+    const searchIndex = [];
+    let treeHtml = '';
+
+    MENU_STRUCTURE.forEach(l1 => {
+      const l1Url = resolveUrl(l1.repo, '');
+      searchIndex.push({ title: l1.title, path: '1st Level Domain', url: l1Url });
+
+      let l2Html = '';
+      (l1.children || []).forEach(l2 => {
+        const l2Url = resolveUrl(l1.repo, l2.path);
+        searchIndex.push({ title: l2.title, path: l1.title, url: l2Url });
+
+        let l3Html = '';
+        if (l2.items && l2.items.length > 0) {
+          l3Html = '<div class="sc-l3-wrap"><div class="sc-l3-inner">' +
+            l2.items.map(it => {
+              const l3Url = resolveUrl(l1.repo, l2.path + '/' + it.folder);
+              searchIndex.push({ title: it.title, path: l1.title + ' > ' + l2.title, url: l3Url });
+              return '<a class="sc-l3-link" href="' + l3Url + '">' + it.title + '</a>';
+            }).join('') +
+            '</div></div>';
         }
-      }
-      var parts = p.replace(/^\/+|\/+$/g, "").split("/");
-      if (parts.length > 0 && parts[0] && parts[0] !== "index.html") activeL2 = parts[0];
-      if (parts.length > 1 && parts[1] && parts[1] !== "index.html") activeL3 = parts[1];
-    }
 
-    return {
-      isFile: isFile,
-      rootFilePrefix: rootFilePrefix,
-      activeDomain: activeDomain,
-      activeL2: activeL2,
-      activeL3: activeL3
-    };
-  }
+        l2Html += '<div class="sc-l2-item" data-l2="' + l2.path + '"><a class="sc-l2-link" href="' + l2Url + '">' + l2.title + '</a>' + l3Html + '</div>';
+      });
 
-  function buildHref(ctx, dFolder, dHost, l2Folder, l3Folder) {
-    if (ctx.isFile && ctx.rootFilePrefix) {
-      var url = ctx.rootFilePrefix + dFolder + "/";
-      if (l2Folder) url += l2Folder + "/";
-      if (l3Folder) url += l3Folder + "/";
-      return url + "index.html";
-    } else {
-      var liveUrl = dHost + "/";
-      if (l2Folder) liveUrl += l2Folder + "/";
-      if (l3Folder) liveUrl += l3Folder + "/";
-      return liveUrl;
-    }
-  }
-
-  function injectNavStyles() {
-    if (document.getElementById("sc-nav-dynamic-css")) return;
-    var st = document.createElement("style");
-    st.id = "sc-nav-dynamic-css";
-    st.textContent = [
-      "#sc-sidebar { position: fixed; top: 0; left: 0; bottom: 0; width: 220px; box-sizing: border-box; padding: 18px 14px 28px; overflow-y: auto; z-index: 9999; background: rgba(255,255,255,0.22); backdrop-filter: blur(12px); border-right: 1px solid rgba(39,55,77,0.10); font-family: 'Space Grotesk', 'Inter', sans-serif; transition: width 0.2s ease, padding 0.2s ease; }",
-      "body.sc-nav-folded #sc-sidebar { width: 44px; padding: 18px 6px; overflow: hidden; }",
-      "body.sc-nav-folded { padding-left: 44px !important; }",
-      "body.sc-nav-open { padding-left: 220px; }",
-      ".sc-nav-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 18px; min-height: 24px; }",
-      ".sc-nav-brand { font-size: 0.92rem; font-weight: 700; color: #27374D; text-decoration: none; white-space: nowrap; letter-spacing: -0.02em; }",
-      "body.sc-nav-folded .sc-nav-brand, body.sc-nav-folded .sc-nav-tree, body.sc-nav-folded .sc-nav-search-btn { display: none; }",
-      ".sc-nav-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; }",
-      ".sc-nav-btn { background: none; border: none; cursor: pointer; color: #27374D; font-size: 0.95rem; padding: 2px 4px; opacity: 0.75; }",
-      ".sc-nav-btn:hover { opacity: 1; }",
-      ".sc-nav-d1-wrap { margin-bottom: 8px; }",
-      ".sc-nav-spacer { height: 14px; }",
-      ".sc-nav-d1 { display: flex; align-items: center; gap: 6px; font-size: 0.84rem; font-weight: 600; color: #27374D; text-decoration: none; padding: 4px 4px; border-radius: 4px; line-height: 1.25; }",
-      ".sc-nav-d1:hover, .sc-nav-d1.active { background: rgba(39,55,77,0.08); font-weight: 700; }",
-      ".sc-nav-l2-list { display: none; padding-left: 12px; margin: 4px 0 8px; }",
-      ".sc-nav-d1-wrap.open .sc-nav-l2-list { display: block; }",
-      ".sc-nav-l2-wrap { margin-bottom: 3px; }",
-      ".sc-nav-d2 { display: flex; align-items: center; gap: 5px; font-size: 0.79rem; font-weight: 500; color: #27374D; text-decoration: none; padding: 3px 4px; border-radius: 4px; line-height: 1.25; opacity: 0.9; }",
-      ".sc-nav-d2:hover, .sc-nav-d2.active { background: rgba(39,55,77,0.08); font-weight: 700; opacity: 1; }",
-      ".sc-nav-l3-list { display: none; padding-left: 13px; margin: 2px 0 6px; border-left: 1px solid rgba(39,55,77,0.14); }",
-      ".sc-nav-l2-wrap.open .sc-nav-l3-list { display: block; }",
-      ".sc-nav-d3 { display: flex; align-items: center; gap: 5px; font-size: 0.75rem; font-weight: 500; color: #334155; text-decoration: none; padding: 2.5px 4px; border-radius: 4px; line-height: 1.25; }",
-      ".sc-nav-d3:hover, .sc-nav-d3.active { background: rgba(39,55,77,0.10); font-weight: 700; color: #0f172a; }",
-      ".sc-ico-tri { color: #e11d48; font-size: 0.65rem; flex-shrink: 0; }",
-      ".sc-ico-dia-blue { color: #6366f1; font-size: 0.65rem; flex-shrink: 0; }",
-      ".sc-ico-dia-org { color: #f59e0b; font-size: 0.65rem; flex-shrink: 0; }",
-      ".sc-ico-sq { color: #64748b; font-size: 0.62rem; flex-shrink: 0; }"
-    ].join("\n");
-    document.head.appendChild(st);
-  }
-
-  function renderSidebar() {
-    injectNavStyles();
-    var existing = document.getElementById("sc-sidebar");
-    if (existing) existing.remove();
-
-    var ctx = getContext();
-    var nav = document.createElement("aside");
-    nav.id = "sc-sidebar";
-
-    var homeHref = buildHref(ctx, "sc-sistarcompany", "https://sistarcompany.com", null, null);
-    var headerHtml =
-      '<div class="sc-nav-header">' +
-        '<a class="sc-nav-brand" href="' + homeHref + '">*sc - sistar company</a>' +
-        '<div class="sc-nav-actions">' +
-          '<button class="sc-nav-btn sc-nav-toggle-btn" title="Toggle Menu">&#9776;</button>' +
-        '</div>' +
-      '</div>';
-
-    var treeContainer = document.createElement("div");
-    treeContainer.className = "sc-nav-tree";
-
-    var prevGroup = "core";
-    SC_TREE.forEach(function (d1) {
-      if (d1.group !== prevGroup) {
-        var sp = document.createElement("div");
-        sp.className = "sc-nav-spacer";
-        treeContainer.appendChild(sp);
-        prevGroup = d1.group;
-      }
-
-      var isD1Active = (ctx.activeDomain === d1.folder);
-      var d1Wrap = document.createElement("div");
-      d1Wrap.className = "sc-nav-d1-wrap" + (isD1Active ? " open" : "");
-
-      var d1Ico = "";
-      if (d1.group === "core" || d1.group === "media") d1Ico = '<span class="sc-ico-tri">&#9650;</span>';
-      else if (d1.group === "sub") d1Ico = '<span class="sc-ico-dia-blue">&#9670;</span>';
-      else if (d1.group === "dir") d1Ico = '<span class="sc-ico-sq">&#9643;</span>';
-
-      var d1Link = document.createElement("a");
-      d1Link.className = "sc-nav-d1" + (isD1Active && !ctx.activeL2 ? " active" : "");
-      d1Link.href = buildHref(ctx, d1.folder, d1.host, null, null);
-      d1Link.innerHTML = d1Ico + "<span>" + d1.label + "</span>";
-      d1Wrap.appendChild(d1Link);
-
-      if (d1.children && d1.children.length > 0) {
-        var l2List = document.createElement("div");
-        l2List.className = "sc-nav-l2-list";
-
-        d1.children.forEach(function (d2) {
-          var isD2Active = isD1Active && (ctx.activeL2 === d2.folder);
-          var l2Wrap = document.createElement("div");
-          // 현재 열려있는 2단계 메뉴이거나, 1단계 도메인이 활성화된 경우 3단계가 잘 보이도록 open 처리
-          l2Wrap.className = "sc-nav-l2-wrap" + (isD2Active ? " open" : "");
-
-          var d2Link = document.createElement("a");
-          d2Link.className = "sc-nav-d2" + (isD2Active && !ctx.activeL3 ? " active" : "");
-          d2Link.href = buildHref(ctx, d1.folder, d1.host, d2.folder, null);
-          d2Link.innerHTML = '<span class="sc-ico-dia-org">&#9670;</span><span>' + d2.label + "</span>";
-          l2Wrap.appendChild(d2Link);
-
-          if (d2.children && d2.children.length > 0) {
-            var l3List = document.createElement("div");
-            l3List.className = "sc-nav-l3-list";
-
-            d2.children.forEach(function (d3) {
-              var isD3Active = isD2Active && (ctx.activeL3 === d3.folder);
-              var d3Link = document.createElement("a");
-              d3Link.className = "sc-nav-d3" + (isD3Active ? " active" : "");
-              d3Link.href = buildHref(ctx, d1.folder, d1.host, d2.folder, d3.folder);
-              d3Link.innerHTML = '<span class="sc-ico-sq">&#9643;</span><span>' + d3.label + "</span>";
-              l3List.appendChild(d3Link);
-            });
-
-            l2Wrap.appendChild(l3List);
-          }
-
-          l2List.appendChild(l2Wrap);
-        });
-
-        d1Wrap.appendChild(l2List);
-      }
-
-      treeContainer.appendChild(d1Wrap);
+      treeHtml += '<div class="sc-l1-item" data-repo="' + l1.repo + '"><a class="sc-l1-link" href="' + l1Url + '">' + l1.title + '</a><div class="sc-l2-wrap"><div class="sc-l2-inner">' + l2Html + '</div></div></div>';
     });
 
-    nav.innerHTML = headerHtml;
-    nav.appendChild(treeContainer);
-    document.body.insertBefore(nav, document.body.firstChild);
+    const homeUrl = resolveUrl('sc-sistarcompany', '');
 
-    var toggleBtn = nav.querySelector(".sc-nav-toggle-btn");
-    if (toggleBtn) {
-      toggleBtn.addEventListener("click", function () {
-        if (document.body.classList.contains("sc-nav-folded")) {
-          document.body.classList.remove("sc-nav-folded");
-          document.body.classList.add("sc-nav-open");
-        } else {
-          document.body.classList.remove("sc-nav-open");
-          document.body.classList.add("sc-nav-folded");
+    nav.innerHTML = '<div><div class="sc-nav-top"><a href="' + homeUrl + '" class="sc-brand-link"><span class="sc-brand-full">*sc - sistar company</span><span class="sc-brand-short">*sc</span></a><div class="sc-nav-actions"><button class="sc-plain-btn sc-search-btn" id="sc-search-btn" title="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.2" y2="16.2"></line></svg></button><button class="sc-plain-btn" id="sc-fold-btn" title="Toggle Menu"><svg viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button></div></div><div class="sc-search-wrap" id="sc-search-wrap"><input type="text" class="sc-search-input" id="sc-search-input" placeholder="Search universe..." autocomplete="off" /><div class="sc-search-dropdown" id="sc-search-dropdown"></div></div></div><div class="sc-nav-scroll" id="sc-nav-scroll">' + treeHtml + '</div><div class="sc-nav-bottom"><div class="sc-copy-toast" id="sc-copy-toast">Copied: sc@sistarcompany.com</div><button class="sc-mono-icon" id="sc-copy-email" title="Copy sc@sistarcompany.com"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg></button><div class="sc-social-group"><a class="sc-mono-icon" href="https://youtube.com" target="_blank" rel="noopener" title="YouTube"><svg viewBox="0 0 24 24"><rect x="2" y="5" width="20" height="14" rx="4"></rect><polygon points="10 9 15 12 10 15 10 9"></polygon></svg></a><a class="sc-mono-icon" href="https://instagram.com" target="_blank" rel="noopener" title="Instagram"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a><a class="sc-mono-icon" href="https://x.com" target="_blank" rel="noopener" title="X"><svg viewBox="0 0 24 24"><path d="M4 4l16 16M20 4L4 20"></path></svg></a><a class="sc-mono-icon" href="https://threads.net" target="_blank" rel="noopener" title="Threads"><svg viewBox="0 0 24 24"><path d="M12 12c-2-2.5-5-2.5-5 0s3 2.5 5 0c2 2.5 5 2.5 5 0s-3-2.5-5 0z"></path><circle cx="12" cy="12" r="9"></circle></svg></a></div></div>';
+
+    document.body.prepend(nav);
+
+    // Restore open state on desktop only (on mobile, keep clean folded drawer)
+    if (!isMobileInit) {
+      try {
+        const savedRepo = sessionStorage.getItem('sc_open_l1');
+        const savedL2 = sessionStorage.getItem('sc_open_l2');
+        const savedScroll = sessionStorage.getItem('sc_nav_scroll');
+        if (savedRepo) {
+          const activeL1 = nav.querySelector('.sc-l1-item[data-repo="' + savedRepo + '"]');
+          if (activeL1) {
+            activeL1.classList.add('is-open');
+            if (savedL2) {
+              const activeL2 = activeL1.querySelector('.sc-l2-item[data-l2="' + savedL2 + '"]');
+              if (activeL2) activeL2.classList.add('is-open');
+            }
+          }
         }
-      });
+        if (savedScroll) document.getElementById('sc-nav-scroll').scrollTop = parseInt(savedScroll, 10);
+      } catch(e) {}
     }
 
-    var mainEl = document.querySelector("main");
-    if (mainEl) mainEl.style.opacity = "1";
+    const l1Items = nav.querySelectorAll('.sc-l1-item');
+    const l2Items = nav.querySelectorAll('.sc-l2-item');
+
+    // Link Click Handler: Mobile Two-Tap (1st tap opens submenu, 2nd tap navigates)
+    nav.querySelectorAll('a[href]').forEach(link => {
+      if (link.target === '_blank') return;
+      link.addEventListener('click', e => {
+        const targetUrl = link.getAttribute('href');
+        if (!targetUrl || e.ctrlKey || e.metaKey || e.shiftKey) return;
+
+        // If on Mobile / Touch screen:
+        if (isTouchDevice()) {
+          // 1) Tapped a Level 1 Link that has Level 2 children
+          if (link.classList.contains('sc-l1-link')) {
+            const parentL1 = link.closest('.sc-l1-item');
+            const hasL2 = parentL1 && parentL1.querySelectorAll('.sc-l2-item').length > 0;
+            if (hasL2 && !parentL1.classList.contains('is-open')) {
+              e.preventDefault();
+              e.stopPropagation();
+              l1Items.forEach(o => {
+                if (o !== parentL1) {
+                  o.classList.remove('is-open');
+                  o.querySelectorAll('.sc-l2-item.is-open').forEach(s => s.classList.remove('is-open'));
+                }
+              });
+              parentL1.classList.add('is-open');
+              return; // STOP HERE on 1st tap! Do not navigate!
+            }
+          }
+
+          // 2) Tapped a Level 2 Link that has Level 3 children
+          if (link.classList.contains('sc-l2-link')) {
+            const parentL2 = link.closest('.sc-l2-item');
+            const hasL3 = parentL2 && parentL2.querySelectorAll('.sc-l3-link').length > 0;
+            if (hasL3 && !parentL2.classList.contains('is-open')) {
+              e.preventDefault();
+              e.stopPropagation();
+              parentL2.parentElement.querySelectorAll('.sc-l2-item').forEach(sib => {
+                if (sib !== parentL2) sib.classList.remove('is-open');
+              });
+              parentL2.classList.add('is-open');
+              return; // STOP HERE on 1st tap! Do not navigate!
+            }
+          }
+        }
+
+        // Otherwise (2nd tap on opened menu, or leaf menu with no children, or Desktop click) -> Navigate!
+        e.preventDefault();
+        try {
+          const parentL1 = link.closest('.sc-l1-item');
+          const parentL2 = link.closest('.sc-l2-item');
+          sessionStorage.setItem('sc_open_l1', parentL1 ? parentL1.getAttribute('data-repo') : '');
+          sessionStorage.setItem('sc_open_l2', parentL2 ? parentL2.getAttribute('data-l2') : '');
+          sessionStorage.setItem('sc_nav_scroll', document.getElementById('sc-nav-scroll').scrollTop);
+        } catch(err) {}
+
+        document.body.classList.add('sc-page-leaving');
+        setTimeout(() => { window.location.href = targetUrl; }, 180);
+      });
+    });
+
+    // Desktop Hover Timers (Disabled on touch devices so submenus never auto-close or conflict)
+    const OPEN_DELAY = 480;
+    const CLOSE_DELAY = 420;
+    let l1OpenTimer = null, l1CloseTimer = null;
+
+    l1Items.forEach(item => {
+      item.addEventListener('mouseenter', () => {
+        if (isTouchDevice()) return;
+        clearTimeout(l1CloseTimer); clearTimeout(l1OpenTimer);
+        l1OpenTimer = setTimeout(() => {
+          l1Items.forEach(o => { if (o !== item) { o.classList.remove('is-open'); o.querySelectorAll('.sc-l2-item.is-open').forEach(s => s.classList.remove('is-open')); } });
+          item.classList.add('is-open');
+        }, OPEN_DELAY);
+      });
+      item.addEventListener('mouseleave', () => {
+        if (isTouchDevice()) return;
+        clearTimeout(l1OpenTimer);
+        l1CloseTimer = setTimeout(() => {
+          item.classList.remove('is-open');
+          item.querySelectorAll('.sc-l2-item.is-open').forEach(s => s.classList.remove('is-open'));
+        }, CLOSE_DELAY);
+      });
+    });
+
+    let l2OpenTimer = null, l2CloseTimer = null;
+    l2Items.forEach(item => {
+      item.addEventListener('mouseenter', () => {
+        if (isTouchDevice()) return;
+        clearTimeout(l2CloseTimer); clearTimeout(l2OpenTimer);
+        l2OpenTimer = setTimeout(() => {
+          item.parentElement.querySelectorAll('.sc-l2-item').forEach(sib => { if (sib !== item) sib.classList.remove('is-open'); });
+          item.classList.add('is-open');
+        }, 380);
+      });
+      item.addEventListener('mouseleave', () => {
+        if (isTouchDevice()) return;
+        clearTimeout(l2OpenTimer);
+        l2CloseTimer = setTimeout(() => { item.classList.remove('is-open'); }, 350);
+      });
+    });
+
+    // Universal Outside Click/Touch: Fold navigator when clicking/tapping anywhere outside #sc-left-nav (PC & Mobile)
+    document.addEventListener('click', e => {
+      if (!document.body.classList.contains('sc-nav-open')) return;
+      if (nav.contains(e.target)) return;
+      document.body.classList.remove('sc-nav-open');
+      document.body.classList.add('sc-nav-folded');
+      nav.querySelectorAll('.is-open').forEach(el => el.classList.remove('is-open'));
+      const sw = document.getElementById('sc-search-wrap');
+      const sd = document.getElementById('sc-search-dropdown');
+      if (sw) sw.classList.remove('active');
+      if (sd) sd.classList.remove('show');
+    });
+
+    document.getElementById('sc-fold-btn').addEventListener('click', () => {
+      const folded = document.body.classList.toggle('sc-nav-folded');
+      document.body.classList.toggle('sc-nav-open', !folded);
+    });
+
+    const searchWrap = document.getElementById('sc-search-wrap');
+    const searchInput = document.getElementById('sc-search-input');
+    const searchDropdown = document.getElementById('sc-search-dropdown');
+
+    document.getElementById('sc-search-btn').addEventListener('click', () => {
+      searchWrap.classList.toggle('active');
+      if (searchWrap.classList.contains('active')) searchInput.focus();
+      else searchDropdown.classList.remove('show');
+    });
+
+    searchInput.addEventListener('input', e => {
+      const q = e.target.value.trim().toLowerCase();
+      if (!q) { searchDropdown.classList.remove('show'); return; }
+      const matches = searchIndex.filter(it => it.title.toLowerCase().includes(q) || it.path.toLowerCase().includes(q));
+      searchDropdown.innerHTML = matches.length
+        ? matches.map(m => '<a class="sc-search-item" href="' + m.url + '"><span class="sc-search-item-t">' + m.title + '</span><span class="sc-search-item-p">' + m.path + '</span></a>').join('')
+        : '<div class="sc-search-item"><span class="sc-search-item-p">No matching results</span></div>';
+      searchDropdown.classList.add('show');
+    });
+
+    document.addEventListener('click', e => {
+      if (!searchWrap.contains(e.target) && e.target.id !== 'sc-search-btn') searchDropdown.classList.remove('show');
+    });
+
+    document.getElementById('sc-copy-email').addEventListener('click', () => {
+      navigator.clipboard.writeText('sc@sistarcompany.com').catch(() => {});
+      const toast = document.getElementById('sc-copy-toast');
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    });
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", renderSidebar);
-  } else {
-    renderSidebar();
-  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', buildNavigator);
+  else buildNavigator();
 })();
