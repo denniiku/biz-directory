@@ -68,3 +68,14 @@ body.sc-nav-folded .sc-social-group { display: none; }
   .sc-hero-subline { font-size: clamp(1rem, 4.2vw, 1.25rem) !important; }
   body > main { padding: 44px 6vw !important; }
 }
+
+/* === FLEXIBLE FLUID DOC LAYOUT === */
+main, .sc-doc, .doc-container, .content-wrap {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  max-width: min(1400px, 96%) !important;
+  padding: clamp(48px, 6vh, 84px) clamp(28px, 6vw, 96px) 120px !important;
+}
+.sc-sec-body, .sc-list, main p, main li {
+  max-width: 100% !important;
+}
