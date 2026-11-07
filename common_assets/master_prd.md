@@ -51,6 +51,12 @@
 - **Constitutional Baseline (`master_prd.md`):** Every 1st-level, 2nd-level, and 3rd-level webpage across the entire `*sc` domain network inherits the philosophy, quantum terminology, and operational DNA defined in this document.
 - **Page-Level Variants:** Individual pages apply specific **Variants** (domain role, target industry, country base, or technical module) on top of this Master PRD foundation, ensuring 100% brand coherence across hundreds of micro-sites.
 
+### 2.3 Strategic Purpose of All Web Assets: Global Partnership & IR-Pitch Deck Showcase
+- **Core Purpose:** The entire `*sc` multi-domain web ecosystem serves two overarching commercial objectives: **attracting high-value global B2B/JV partners (`partnership`)** and **presenting an institutional-grade investment thesis (`ir-pitchdeck`)**.
+- **Editorial & Formatting Mandate:**
+  - Every page is written as an executive pitch deck narrative highlighting proprietary moats, scalable unit economics, and partner/investor upside—never as an internal task checklist ("Mandatory Action Plan / TTP Execution Matrix" is strictly excluded from public web pages).
+  - All headings and lists across every generated webpage eschew numerical sequences (`1.`, `2.`, `01`, `02`) in favor of clean **`▫️`** section markers and **`•`** bullet points.
+
 ---
 
 ## PART III. THE QUBIT ALGORITHM™ — MATHEMATICAL & QUANTUM ARCHITECTURE
