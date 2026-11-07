@@ -79,3 +79,28 @@ main, .sc-doc, .doc-container, .content-wrap {
 .sc-sec-body, .sc-list, main p, main li {
   max-width: 100% !important;
 }
+
+/* === CASCADING INDENTATION STANDARD === */
+/* 1. ▫️ Section Title: Hanging indent so text starts cleanly after ▫️ */
+.sc-sec-title, main section > h2 {
+  padding-left: 1.45em !important;
+  text-indent: -1.45em !important;
+}
+
+/* 2. Section Body & Bullet • : Align left edge directly under the first letter of Section Title (e.g., 'S' of Superior) */
+.sc-sec-body, main section > p {
+  margin-left: 2.15rem !important;
+}
+
+.sc-list, .sc-dl-list, main section > ul {
+  list-style: none !important;
+  margin-left: 2.15rem !important;
+  padding-left: 0 !important;
+}
+
+/* 3. List Item Text & Wrapped Lines: Align directly under the first letter after • */
+.sc-list li, .sc-dl-list li, main section > ul > li {
+  padding-left: 1.25em !important;
+  text-indent: -1.25em !important;
+  margin-bottom: 14px !important;
+}
