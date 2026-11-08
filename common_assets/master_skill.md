@@ -56,24 +56,9 @@
 
 ---
 
-## 5. HIGH-FIDELITY PPTX / GAMMA AI TO *SC WEB CONVERSION SKILL
-> **[CANONICAL PPTX CONVERSION STANDARD]**
-> When a `.pptx` file (exported from Gamma AI or Google Slides) is placed in `C:\projects\sc_web\`, convert it into the designated folder (`<domain>/<2nd-level>/<NN_slug>/index.html` + `./storage/`) using these exact visual harmony rules:
-
-1. **Slide-Exact XML Asset Extraction (Zero Legacy Fallback):**
-   - Parse `ppt/slides/slide{N}.xml` and `ppt/slides/_rels/slide{N}.xml.rels` inside the `.pptx` ZIP archive.
-   - Measure actual pixel dimensions (`System.Drawing.Image`) of every extracted image in `./storage/`:
-     - **Main Visuals (`width >= 260px` and `height >= 180px`):** Hero photos, 3D illustrations, and wide workflow diagrams. Filter out blank PPTX shape borders or low-res background blur noise.
-     - **Card Icons (`width < 260px`):** Small vector/PNG icons associated with feature points.
-2. **Text-to-Image Proportional Harmony (`Editorial Stretch Split`):**
-   - **Side-by-Side Split (`sc-split-stretch`):** When pairing a text block (or multi-card grid) with a portrait/square illustration (e.g., Slide 1, 4, 6, 9, 11, 12, 15, 19, 23, 26, 27, 30), use `display: grid; grid-template-columns: 1.15fr 0.85fr; align-items: stretch;`. Set the image container to `height: 100%` and the `<img>` to `height: 100%; object-fit: cover; border-radius: 16px;` so the photo matches the exact vertical height of the text column with zero awkward whitespace.
-   - **Wide Diagrams (`sc-wide-diagram`):** For panoramic process charts or lifecycle flows (e.g., Slide 7, 8, 16, 20, 22, 24, 25), display them cleanly at full container width (`object-fit: contain`) directly above or below the narrative text.
-3. **Icon Badge Contrast Preservation:**
-   - White-stroke transparent icons extracted from Gamma AI must be wrapped in a rich teal/slate badge (`background: #168765; width: 42px; height: 42px; border-radius: 50%; padding: 9px;`) so they stand out crisply against the `*sc` pastel gradient background.
-4. **No Muddy Outer Wrapper Boxes:**
-   - Render sections directly on the `*sc` pastel gradient background separated by subtle hairlines, keeping the page airy, natural, and executive-ready.
-
-### 5.1 Zero-Error PPTX Extraction Rules (True Slide Order & Pixel Entropy Filtering)
-- **Rule A — True Slide Order (`ppt/presentation.xml`):** Never rely on `slide1.xml .. slide30.xml` filenames for slide numbering, as slide edits reorder XML files. Always resolve `<p:sldIdLst>` inside `ppt/presentation.xml` + `ppt/_rels/presentation.xml.rels` to map the exact 1..N slide sequence.
-- **Rule B — Pixel-Entropy Noise Rejection:** Gamma AI exports decorative card borders, number chevrons (`1`, `2`, `3`), CTA buttons, and blurry background blobs as PNGs. Automatically measure pixel color diversity (`Buckets`), blank/white ratio (`BlankRate`), and edge sharpness (`Sharpness`) via `System.Drawing.Bitmap` to reject decorative shapes and keep only genuine illustrations, photos, logos, and icons.
-- **Rule C — Coordinate Sorting (`<a:off x y>`):** Sort extracted visuals on each slide by `Y` band and `X` coordinate so multi-column cards (Left, Center, Right) always receive their exact corresponding image.
+## 5. URL / CONTENT TO *SC WEB EDITORIAL UPGRADE PROTOCOL
+- **Primary Workflow:** When the user provides a webpage URL, document link, or raw content along with a target menu position (`<1st-level>` > `<2nd-level>` > `<3rd-level>`):
+  1. **Editorial Content Upgrade:** Synthesize, structure, and elevate the source content into executive-grade English copy (Hero summary, structured 2/3/4/5-column architectural grids, numbered step flows, KPI metric callouts, and strategic takeaways).
+  2. **Image-Free / Pure Vector Harmony:** By default, do NOT rely on fragile external/extracted raster images. Use crisp typography, hairline editorial grids, KPI counters, and inline SVG vector badges directly on the signature `*sc` pastel gradient background.
+  3. **On-Demand Visual Generation:** Generate custom AI visuals or bespoke inline SVG architecture diagrams only when specifically requested.
+  4. **Automated Sync:** Update folder structure, run `build_nav_new.ps1`, and run `sync_all.ps1` to keep local folders, Navigator, Search, and GitHub 100% synchronized.
