@@ -53,3 +53,12 @@
     1. Create/update `<target-folder>/index.html` and `<target-folder>/storage/`.
     2. Execute `build_nav_new.ps1` (dynamically scans directories and updates the navigator tree data without touching UI logic).
     3. Execute `sync_all.ps1` (mirrors `common_assets` across all 12 domain folders and commits/pushes to GitHub `origin main`).
+
+---
+
+## 5. PPTX / GOOGLE SLIDES (GAMMA AI) TO *SC WEB CONVERSION PROTOCOL
+- **Canonical Workflow:** When converting a Gamma AI / Google Slides `.pptx` file into a `*sc web` page:
+  1. **Target Directory & Storage:** Create `<domain>/<2nd-level>/<NN_page-name>/index.html` and `<domain>/<2nd-level>/<NN_page-name>/storage/`.
+  2. **Slide-Matched Image Extraction:** Extract embedded media from the `.pptx` package (`ppt/slides/_rels/slideN.xml.rels` -> `ppt/media/*`) or corresponding legacy `./storage/` into the page's dedicated `./storage/` folder (`slide_01_img.png`, etc.).
+  3. **Original Layout Fidelity (No Semi-Transparent Wrapper Boxes):** Render directly onto the signature `*sc` pastel gradient background without muddy semi-transparent outer container boxes. Preserve the slide deck's exact layout rhythm—Split Hero sections, 2/3/4/5-column feature grids, numbered step flows, and full-width diagrams placed at their exact slide positions.
+  4. **Zero-Regression Sync:** Remove any deprecated folder paths, run `build_nav_new.ps1` to update the navigator tree & search index, and run `sync_all.ps1` to mirror assets and push to GitHub.
