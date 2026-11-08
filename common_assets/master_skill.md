@@ -56,9 +56,19 @@
 
 ---
 
-## 5. PPTX / GOOGLE SLIDES (GAMMA AI) TO *SC WEB CONVERSION PROTOCOL
-- **Canonical Workflow:** When converting a Gamma AI / Google Slides `.pptx` file into a `*sc web` page:
-  1. **Target Directory & Storage:** Create `<domain>/<2nd-level>/<NN_page-name>/index.html` and `<domain>/<2nd-level>/<NN_page-name>/storage/`.
-  2. **Slide-Matched Image Extraction:** Extract embedded media from the `.pptx` package (`ppt/slides/_rels/slideN.xml.rels` -> `ppt/media/*`) or corresponding legacy `./storage/` into the page's dedicated `./storage/` folder (`slide_01_img.png`, etc.).
-  3. **Original Layout Fidelity (No Semi-Transparent Wrapper Boxes):** Render directly onto the signature `*sc` pastel gradient background without muddy semi-transparent outer container boxes. Preserve the slide deck's exact layout rhythm—Split Hero sections, 2/3/4/5-column feature grids, numbered step flows, and full-width diagrams placed at their exact slide positions.
-  4. **Zero-Regression Sync:** Remove any deprecated folder paths, run `build_nav_new.ps1` to update the navigator tree & search index, and run `sync_all.ps1` to mirror assets and push to GitHub.
+## 5. HIGH-FIDELITY PPTX / GAMMA AI TO *SC WEB CONVERSION SKILL
+> **[CANONICAL PPTX CONVERSION STANDARD]**
+> When a `.pptx` file (exported from Gamma AI or Google Slides) is placed in `C:\projects\sc_web\`, convert it into the designated folder (`<domain>/<2nd-level>/<NN_slug>/index.html` + `./storage/`) using these exact visual harmony rules:
+
+1. **Slide-Exact XML Asset Extraction (Zero Legacy Fallback):**
+   - Parse `ppt/slides/slide{N}.xml` and `ppt/slides/_rels/slide{N}.xml.rels` inside the `.pptx` ZIP archive.
+   - Measure actual pixel dimensions (`System.Drawing.Image`) of every extracted image in `./storage/`:
+     - **Main Visuals (`width >= 260px` and `height >= 180px`):** Hero photos, 3D illustrations, and wide workflow diagrams. Filter out blank PPTX shape borders or low-res background blur noise.
+     - **Card Icons (`width < 260px`):** Small vector/PNG icons associated with feature points.
+2. **Text-to-Image Proportional Harmony (`Editorial Stretch Split`):**
+   - **Side-by-Side Split (`sc-split-stretch`):** When pairing a text block (or multi-card grid) with a portrait/square illustration (e.g., Slide 1, 4, 6, 9, 11, 12, 15, 19, 23, 26, 27, 30), use `display: grid; grid-template-columns: 1.15fr 0.85fr; align-items: stretch;`. Set the image container to `height: 100%` and the `<img>` to `height: 100%; object-fit: cover; border-radius: 16px;` so the photo matches the exact vertical height of the text column with zero awkward whitespace.
+   - **Wide Diagrams (`sc-wide-diagram`):** For panoramic process charts or lifecycle flows (e.g., Slide 7, 8, 16, 20, 22, 24, 25), display them cleanly at full container width (`object-fit: contain`) directly above or below the narrative text.
+3. **Icon Badge Contrast Preservation:**
+   - White-stroke transparent icons extracted from Gamma AI must be wrapped in a rich teal/slate badge (`background: #168765; width: 42px; height: 42px; border-radius: 50%; padding: 9px;`) so they stand out crisply against the `*sc` pastel gradient background.
+4. **No Muddy Outer Wrapper Boxes:**
+   - Render sections directly on the `*sc` pastel gradient background separated by subtle hairlines, keeping the page airy, natural, and executive-ready.
