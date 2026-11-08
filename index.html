@@ -3,939 +3,222 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>*sc | biz-directory</title>
-  <style>html,body{background:linear-gradient(to right,#f0acf7,#acf7f0,#f7f0ac);margin:0;padding:0;}body.sc-nav-open{padding-left:220px;}@media(max-width:768px){body.sc-nav-open,body.sc-nav-folded{padding-left:44px!important;}}main{opacity:0;}</style>
+  <title>*SC | Biz Directory - biz directory</title>
+  <meta name="description" content="*SC (SISTAR Company) - Biz Directory : 24/7 Unmanned Overnight Data Factory, Zero-Hallucination RAG, and 8-Team AI ERP." />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "*SC | Biz Directory",
+    "description": "24/7 Unmanned Overnight Data Factory, Zero-Hallucination RAG, and 8-Team AI ERP.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "*SC - SISTAR COMPANY",
+      "url": "https://sistarcompany.com"
+    }
+  }
+  </script>
+  <style>html,body{background:linear-gradient(to right,#f0acf7,#acf7f0,#f7f0ac);margin:0;padding:0;}body.sc-nav-open{padding-left:236px;}body.sc-nav-folded{padding-left:64px;}@media(max-width:768px){body.sc-nav-open,body.sc-nav-folded{padding-left:64px!important;}}main{opacity:0;}</style>
   <script>
     (function() {
-      var p = location.pathname.replace(/\\/g, '/');
-      var base = '/common_assets/';
-      if (location.protocol === 'file:') {
-        var i = p.toLowerCase().indexOf('/sc_web/');
-        base = i !== -1 ? 'file://' + p.substring(0, i + 8) + 'common_assets/' : './common_assets/';
+      var p = location.pathname.replace(/\\/g, "/");
+      var base = "/common_assets/";
+      if (location.protocol === "file:") {
+        var i = p.toLowerCase().indexOf("/sc_web/");
+        base = i !== -1 ? "file://" + p.substring(0, i + 8) + "common_assets/" : "./common_assets/";
       }
-      document.write('<link rel="stylesheet" href="' + base + 'common_new.css?v=' + Date.now() + '">');
-      var s = document.createElement('script'); s.src = base + 'nav_new.js?v=' + Date.now(); s.defer = true; document.head.appendChild(s);
+      document.write("<link rel=\"stylesheet\" href=\"" + base + "common_new.css?v=" + Date.now() + "\">");
+      var s = document.createElement("script"); s.src = base + "nav_new.js?v=" + Date.now(); s.defer = true; document.head.appendChild(s);
     })();
   </script>
-  <script src="./directory_data.js"></script>
   <style>
-    .bd-main { padding: 48px 5vw 80px; max-width: 1360px; }
-    .bd-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; color: #526D82; letter-spacing: 0.04em; margin-bottom: 6px; text-transform: none; }
-    .bd-header-row {
-      display: flex; align-items: flex-end; justify-content: space-between;
-      gap: 12px; margin-bottom: 14px; flex-wrap: wrap;
+    .sc-auto-page {
+      box-sizing: border-box;
+      width: 100%;
+      max-width: min(1360px, 95%);
+      padding: clamp(40px, 5vh, 68px) clamp(24px, 4.5vw, 72px) 120px;
+      font-family: "Inter", sans-serif;
+      color: #0f172a;
     }
-    .bd-title { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 3.5vw, 2.85rem); color: #27374D; margin: 0; letter-spacing: -0.02em; line-height: 1.05; }
-
-    .bd-harvester-link {
-      background: rgba(255, 255, 255, 0.65);
-      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      border-radius: 99px;
-      padding: 7px 14px;
-      font-family: 'Space Grotesk', sans-serif;
+    main h1, main h2, main h3, main h4,
+    main p, main .sc-lead, main .sc-p,
+    main .sc-route, main .sc-sec,
+    main .sc-card-line, main .sc-card-emerald {
+      margin-left: 0 !important;
+      padding-left: 0 !important;
+      text-indent: 0 !important;
+      text-align: left !important;
+    }
+    .sc-route {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #475569;
+      letter-spacing: 0.04em;
+      margin: 0 0 18px 0;
+      text-transform: lowercase;
+    }
+    .sc-sec {
+      padding: 52px 0;
+      border-bottom: 1.5px solid rgba(15, 23, 42, 0.14);
+    }
+    .sc-sec:last-of-type { border-bottom: none; }
+    .sc-kicker {
+      display: inline-block;
+      font-family: "Space Grotesk", sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #0f5132;
+      background: rgba(22, 135, 101, 0.15);
+      padding: 5px 12px;
+      border-radius: 4px;
+      margin: 0 0 14px 0;
+    }
+    .sc-h1 {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: clamp(2.1rem, 3.6vw, 3.1rem);
+      font-weight: 700;
+      color: #0f172a;
+      letter-spacing: -0.025em;
+      line-height: 1.12;
+      margin: 0 0 14px 0;
+    }
+    .sc-sub {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: clamp(1.15rem, 1.6vw, 1.38rem);
+      font-weight: 600;
+      color: #0f5132;
+      line-height: 1.4;
+      margin: 0 0 24px 0;
+    }
+    .sc-h2 {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: clamp(1.45rem, 2.2vw, 1.95rem);
+      font-weight: 700;
+      color: #0f172a;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+      margin: 0 0 18px 0;
+    }
+    .sc-h3 {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #0f172a;
+      margin: 0 0 10px 0;
+      line-height: 1.35;
+    }
+    .sc-lead {
+      font-size: clamp(1.04rem, 1.22vw, 1.14rem);
+      line-height: 1.82;
+      color: #1e293b;
+      margin: 0 0 34px 0;
+    }
+    .sc-p {
+      font-size: 0.97rem;
+      line-height: 1.8;
+      color: #334155;
+      margin: 0;
+    }
+    /* Spacious 2-Column (2x2) Grid Layout */
+    .sc-grid-2x2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      column-gap: 48px;
+      row-gap: 38px;
+      margin-top: 28px;
+    }
+    @media (max-width: 760px) {
+      .sc-grid-2x2 { grid-template-columns: 1fr; }
+    }
+    .sc-card-line {
+      padding-top: 20px !important;
+      border-top: 2px solid rgba(15, 23, 42, 0.24) !important;
+    }
+    .sc-card-emerald {
+      padding-top: 20px !important;
+      border-top: 3px solid #168765 !important;
+    }
+    .sc-num-label {
+      font-family: "Space Grotesk", sans-serif;
       font-size: 0.82rem;
       font-weight: 700;
-      color: #27374D;
-      text-decoration: none;
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      margin-left: auto;
-      transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+      color: #0f5132;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
     }
-    .bd-harvester-link:hover {
-      background: rgba(255, 255, 255, 0.95);
-      transform: translateY(-1px);
-      box-shadow: 0 4px 12px rgba(39, 55, 77, 0.12);
+    .sc-callout {
+      margin-top: 38px;
+      padding: 20px 24px !important;
+      border-left: 4px solid #0f5132;
+      background: rgba(255, 255, 255, 0.34);
+      font-size: 0.98rem;
+      font-weight: 500;
+      color: #0f172a;
+      line-height: 1.72;
     }
-
-    .bd-chk-svg { width: 16px; height: 16px; vertical-align: -3px; flex-shrink: 0; transition: transform 0.15s ease; }
-    .bd-chk-cell { display: flex; align-items: center; justify-content: center; cursor: pointer; user-select: none; }
-    .bd-chk-cell:hover .bd-chk-svg { transform: scale(1.15); }
-
-    .bd-pastel-btn {
-      background: linear-gradient(120deg, rgba(240,172,247,0.52), rgba(172,247,240,0.52), rgba(247,240,172,0.52));
-      border: 1px solid rgba(157, 178, 191, 0.72);
-      color: #27374D;
-      font-family: 'Space Grotesk', sans-serif;
-      font-weight: 700;
-      border-radius: 8px;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      white-space: nowrap;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
-    }
-    .bd-pastel-btn:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 5px 14px rgba(39, 55, 77, 0.12);
-      filter: brightness(1.03);
-    }
-
-    .bd-filter-bar {
-      display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;
-      background: rgba(255, 255, 255, 0.58);
-      backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(157, 178, 191, 0.5);
-      padding: 12px 14px; border-radius: 12px; margin-bottom: 12px;
-    }
-    .bd-select, .bd-search {
-      height: 38px; padding: 0 12px; border-radius: 8px;
-      border: 1px solid rgba(157, 178, 191, 0.65);
-      background: rgba(255, 255, 255, 0.9);
-      color: #27374D; font-family: 'Inter', sans-serif; font-size: 0.82rem;
-      outline: none; transition: border-color 0.2s ease, background 0.2s ease;
-    }
-    .bd-select:focus, .bd-search:focus { border-color: #27374D; background: #fff; }
-    .bd-select { width: 175px; max-width: 185px; cursor: pointer; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
-    .bd-search-wrap { flex: 1; position: relative; min-width: 150px; }
-    .bd-search { width: 100%; padding-left: 32px; box-sizing: border-box; }
-    .bd-search-icon {
-      position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
-      width: 14px; height: 14px; stroke: #526D82; fill: none; stroke-width: 2; pointer-events: none;
-    }
-    .bd-bar-btn-size { height: 38px; padding: 0 14px; font-size: 0.82rem; }
-
-    .bd-meta-row {
-      display: flex; align-items: center; justify-content: flex-start;
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.78rem; color: #526D82;
-      margin-bottom: 10px; padding: 0 4px;
-    }
-
-    .bd-list-box {
-      background: rgba(255, 255, 255, 0.64);
-      backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(157, 178, 191, 0.5);
-      border-radius: 12px; overflow: hidden;
-    }
-    .bd-row {
-      display: grid;
-      grid-template-columns: 38px 95px 165px 220px 1fr;
-      align-items: center; gap: 12px;
-      padding: 11px 16px;
-      border-bottom: 1px solid rgba(157, 178, 191, 0.28);
-      font-size: 0.82rem; color: #27374D;
-      transition: background 0.15s ease;
-    }
-    .bd-row:last-child { border-bottom: none; }
-    .bd-row-head {
-      background: rgba(221, 230, 237, 0.65);
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.74rem; font-weight: 700;
-      color: #526D82; text-transform: lowercase; letter-spacing: 0.03em;
-    }
-    .bd-row-item { cursor: pointer; }
-    .bd-row-item:hover { background: rgba(255, 255, 255, 0.88); }
-    .bd-pill {
-      display: inline-block; padding: 2px 8px; border-radius: 6px;
-      font-size: 0.73rem; font-weight: 500;
-      background: rgba(39, 55, 77, 0.08); color: #27374D;
-      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;
-    }
-    .bd-cname { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.86rem; color: #27374D; }
-    .bd-pagination {
-      display: flex; align-items: center; justify-content: center; gap: 6px;
-      margin-top: 16px; flex-wrap: wrap; user-select: none;
-    }
-    .bd-page-btn {
-      min-width: 34px; height: 34px; padding: 0 10px; border-radius: 8px;
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      background: rgba(255, 255, 255, 0.68);
-      color: #27374D; font-family: 'Space Grotesk', sans-serif;
-      font-size: 0.8rem; font-weight: 700; cursor: pointer;
-      display: inline-flex; align-items: center; justify-content: center;
-      transition: all 0.15s ease;
-    }
-    .bd-page-btn:hover:not(:disabled) {
-      background: rgba(255, 255, 255, 0.95);
-      transform: translateY(-1px);
-    }
-    .bd-page-btn.active {
-      background: linear-gradient(120deg, rgba(240,172,247,0.75), rgba(172,247,240,0.75), rgba(247,240,172,0.75));
-      border-color: #27374D;
-    }
-    .bd-page-btn:disabled {
-      opacity: 0.4; cursor: default;
-    }
-
-    .bd-modal-backdrop {
-      position: fixed; inset: 0; z-index: 100005;
-      background: rgba(39, 55, 77, 0.42);
-      backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
-      display: flex; align-items: center; justify-content: center;
-      padding: 20px; opacity: 0; pointer-events: none;
-      transition: opacity 0.2s ease;
-    }
-    .bd-modal-backdrop.open { opacity: 1; pointer-events: auto; }
-    .bd-modal {
-      width: 100%; width: 100%; max-width: min(1400px, 96%); max-height: 86vh;
-      background: rgba(255, 255, 255, 0.96);
-      border: 1px solid rgba(157, 178, 191, 0.65);
-      border-radius: 16px;
-      box-shadow: 0 24px 52px rgba(39, 55, 77, 0.25);
-      display: flex; flex-direction: column; overflow: hidden;
-    }
-    .bd-modal-top {
-      display: flex; align-items: flex-start; justify-content: space-between;
-      padding: 20px 24px 14px; border-bottom: 1px solid rgba(157, 178, 191, 0.3);
-      flex-shrink: 0; gap: 12px;
-    }
-    .bd-modal-top-right {
-      display: flex; flex-direction: column; align-items: flex-end; gap: 8px; flex-shrink: 0;
-    }
-    .bd-modal-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
-    .bd-modal-tag {
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.72rem; font-weight: 600;
-      padding: 3px 9px; border-radius: 99px;
-      background: linear-gradient(to right, rgba(240,172,247,0.45), rgba(172,247,240,0.45));
-      color: #27374D; border: 1px solid rgba(157, 178, 191, 0.45);
-    }
-    .bd-modal-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.32rem; font-weight: 700; color: #27374D; margin: 0; }
-    .bd-modal-close {
-      background: transparent; border: none; cursor: pointer; color: #526D82;
-      font-size: 1.45rem; line-height: 1; padding: 0 4px;
-    }
-    .bd-modal-select-btn { padding: 5px 12px; font-size: 0.78rem; }
-
-    .bd-modal-body {
-      padding: 18px 24px; overflow-y: auto; flex: 1;
-      scrollbar-width: thin; scrollbar-color: #9DB2BF transparent;
-    }
-    .bd-modal-gallery {
-      display: flex; flex-direction: column; gap: 12px; margin-bottom: 16px;
-    }
-    .bd-modal-img-wrap {
-      width: 100%; min-height: 220px; max-height: 320px; border-radius: 10px; overflow: hidden;
-      background: #fff;
-      border: 1px solid rgba(157, 178, 191, 0.35);
-      display: flex; align-items: center; justify-content: center;
-    }
-    .bd-modal-img { width: 100%; height: 240px; object-fit: contain; background: #fff; }
-    .bd-modal-summary-list {
-      margin: 0 0 18px 0; padding-left: 18px;
-      font-size: 0.88rem; line-height: 1.68; color: #27374D;
-    }
-    .bd-modal-summary-list li { margin-bottom: 8px; }
-    .bd-modal-url-box {
-      padding: 11px 14px; border-radius: 8px; background: rgba(221, 230, 237, 0.45);
-      display: flex; align-items: center; justify-content: space-between; margin-top: 8px;
-    }
-    .bd-modal-url-label { font-family: 'Space Grotesk', sans-serif; font-size: 0.74rem; color: #526D82; font-weight: 600; }
-    .bd-modal-url-link {
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.82rem; font-weight: 700;
-      color: #27374D; text-decoration: none; border-bottom: 1px solid #27374D; cursor: pointer;
-    }
-
-    .bd-modal-foot {
-      padding: 12px 18px; background: rgba(221, 230, 237, 0.58);
-      border-top: 1px solid rgba(157, 178, 191, 0.38);
-      display: flex; align-items: center; justify-content: space-between;
-      flex-shrink: 0; gap: 10px;
-    }
-    .bd-foot-right { display: flex; align-items: center; gap: 10px; }
-    .bd-corner-nav {
-      width: 36px; height: 36px; border-radius: 8px;
-      background: rgba(255, 255, 255, 0.92);
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      color: #27374D; font-family: 'Space Grotesk', sans-serif;
-      font-size: 1.1rem; font-weight: 700;
-      display: inline-flex; align-items: center; justify-content: center;
-      cursor: pointer; flex-shrink: 0; user-select: none;
-    }
-    .bd-foot-inq-btn { height: 36px; padding: 0 14px; font-size: 0.82rem; }
-
-    .bd-ai-modal {
-      width: 100%; max-width: 640px; max-height: 84vh;
-      background: rgba(255, 255, 255, 0.97);
-      border: 1px solid rgba(157, 178, 191, 0.7);
-      border-radius: 16px; box-shadow: 0 24px 52px rgba(39,55,77,0.28);
-      display: flex; flex-direction: column; overflow: hidden;
-    }
-    .bd-ai-output {
-      font-size: 0.9rem; line-height: 1.7; color: #27374D;
-      background: rgba(221, 230, 237, 0.25); border: 1px solid rgba(157, 178, 191, 0.45);
-      border-radius: 12px; padding: 16px 18px; white-space: pre-wrap;
-    }
-
-    .bd-inq-modal {
-      width: 100%; max-width: 520px; background: rgba(255,255,255,0.97);
-      border: 1px solid rgba(157,178,191,0.7); border-radius: 16px;
-      box-shadow: 0 24px 52px rgba(39,55,77,0.28); overflow: hidden;
-    }
-    .bd-inq-body { padding: 18px 22px; display: flex; flex-direction: column; gap: 12px; }
-    .bd-inq-field label { display: flex; align-items: center; gap: 5px; font-family: 'Space Grotesk', sans-serif; font-size: 0.75rem; font-weight: 700; color: #526D82; margin-bottom: 4px; }
-    .bd-inq-input, .bd-inq-textarea {
-      width: 100%; box-sizing: border-box; padding: 9px 12px; border-radius: 8px;
-      border: 1px solid rgba(157,178,191,0.7); font-family: 'Inter', sans-serif; font-size: 0.84rem; color: #27374D;
-    }
-    .bd-inq-chips { display: flex; flex-wrap: wrap; gap: 6px; max-height: 90px; overflow-y: auto; padding: 6px; background: rgba(221,230,237,0.35); border-radius: 8px; }
-    .bd-inq-chip {
-      display: inline-flex; align-items: center; gap: 5px; padding: 4px 10px; border-radius: 8px;
-      background: #fff; border: 1px solid rgba(157,178,191,0.65); font-size: 0.75rem; font-weight: 600; color: #27374D;
-    }
-    .bd-inq-chip button { border: none; background: none; cursor: pointer; color: #526D82; font-size: 0.9rem; padding: 0 0 0 2px; }
-    .bd-inq-send { width: 100%; justify-content: center; padding: 10px 16px; font-size: 0.85rem; }
-
-    @media (max-width: 768px) {
-      .bd-filter-bar { flex-wrap: wrap; }
-      .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
-      .bd-search-wrap { flex: 1 1 100%; }
-      .bd-bar-btn-size { flex: 1 1 calc(50% - 6px); justify-content: center; }
-      .bd-row { grid-template-columns: 32px 70px 100px 1fr; gap: 8px; padding: 10px 10px; }
-      .bd-col-pcat { display: none; }
+    @media print {
+      html, body, main, .sc-auto-page { background: #ffffff !important; padding-left: 0 !important; opacity: 1 !important; }
+      #sc-left-nav, .sc-nav-toggle { display: none !important; }
+      .sc-card-line, .sc-card-emerald, .sc-callout { break-inside: avoid !important; page-break-inside: avoid !important; }
     }
   </style>
 </head>
 <body class="sc-nav-open">
-  <main class="bd-main">
-    <p class="bd-eyebrow">biz-directory</p>
-    <div class="bd-header-row">
-      <h1 class="bd-title">biz-directory</h1>
-      <a href="https://script.google.com/macros/s/AKfycbxS8FZWeWcV60C7koteQAL8_S-G7DLuX8XF75XlSlLdLlk3XUX3BGHgPOn3VMD6FbGFuQ/exec"
-         onclick="window.open(this.href,'harv','width=1020,height=820');return false;"
-         class="bd-harvester-link">&#128312;+ add to biz-directory</a>
-    </div>
+  <main class="sc-auto-page">
+    <p class="sc-route">biz directory</p>
 
-    <div class="bd-filter-bar">
-      <select id="bd-country" class="bd-select" aria-label="Country">
-        <option value="">country: all</option>
-        <option value="korea">korea</option>
-        <option value="usa">usa</option>
-        <option value="china">china</option>
-        <option value="india">india</option>
-        <option value="japan">japan</option>
-        <option value="indonesia">indonesia</option>
-      </select>
+    <section class="sc-sec" style="padding-top: 12px;">
+      <div><span class="sc-kicker">ENTERPRISE BRAIN &bull; *SC INTELLIGENCE CORE</span></div>
+      <h1 class="sc-h1">*SC - Biz Directory</h1>
+      <p class="sc-sub">24/7 Unmanned Overnight Data Factory, Zero-Hallucination RAG, and 8-Team AI ERP.</p>
+      <p class="sc-lead">As part of the <strong>*SC intelligence-core</strong>, <strong>Biz Directory</strong> functions as the autonomous central nervous system of the Signal Star Universe. Operating around the clock while human executives sleep, it harvests global market data, grounds strategic decisions in verified facts, and automates all 8 corporate departments at near- fixed cost.</p>
 
-      <select id="bd-industry" class="bd-select" aria-label="Industry">
-        <option value="">industry: all</option>
-      </select>
-
-      <select id="bd-pcat" class="bd-select" aria-label="Product Category">
-        <option value="">product category: all</option>
-      </select>
-
-      <div class="bd-search-wrap">
-        <svg class="bd-search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.2" y2="16.2"></line></svg>
-        <input type="text" id="bd-search" class="bd-search" placeholder="search company, product, keyword..." autocomplete="off" />
-      </div>
-
-      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-sparkle-modal" title="AI Summary & Brief for selected companies">
-        <span>&#10024; brief</span>
-      </button>
-
-      <button type="button" class="bd-pastel-btn bd-bar-btn-size" id="bd-open-star-modal" title="Inquiry for selected companies">
-        <span>inquiry for</span>
-        <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span id="bd-star-count">(0)</span>
-      </button>
-    </div>
-
-    <div class="bd-meta-row">
-      <span id="bd-count">0 companies</span>
-    </div>
-
-    <div class="bd-list-box">
-      <div class="bd-row bd-row-head">
-        <div style="display:flex;justify-content:center;">
-          <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2.5" y="2.5" width="15" height="15" rx="4" stroke="#526D82" stroke-width="1.8"/><path d="M6.2 10.2L8.8 12.8L13.8 7.4" stroke="#526D82" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <div class="sc-grid-2x2">
+        <div class="sc-card-line">
+          <div class="sc-num-label">01 &bull; WHAT IT IS (CORE DEFINITION)</div>
+          <h2 class="sc-h3">Overnight Data Factory (10 PM - 8 AM)</h2>
+          <p class="sc-p">Headless Playwright/Apify scrapers autonomously harvest global wholesale prices (1688/Alibaba), Shopee/Tokopedia competitor SKUs, HS-code tariffs, and regulatory updates every night.</p>
         </div>
-        <div>country</div>
-        <div>industry</div>
-        <div class="bd-col-pcat">product category</div>
-        <div>company name</div>
+
+        <div class="sc-card-line">
+          <div class="sc-num-label">02 &bull; WHY WE DO IT (MARKET OPPORTUNITY)</div>
+          <h2 class="sc-h3">Dual-Engine Vector RAG (NotebookLM + Dify)</h2>
+          <p class="sc-p">Embeds nightly market streams alongside internal Google Drive/Keep memos into Supabase pgvector and NotebookLM repositories, delivering citation-backed 8:00 AM executive briefs.</p>
+        </div>
+
+        <div class="sc-card-emerald">
+          <div class="sc-num-label">03 &bull; HOW IT WORKS (OPERATIONAL MECHANISM)</div>
+          <h2 class="sc-h3">Qubit ERP &amp; CCTV Vision Stock Opname</h2>
+          <p class="sc-p">Automates Finance/VAT, HR (25th payouts), Sales/CRM, and RA natively on Google Workspace, while CCTV + Gemini Vision AI counts warehouse pallets and sachets in real time.</p>
+        </div>
+
+        <div class="sc-card-emerald">
+          <div class="sc-num-label">04 &bull; REVENUE MODEL &amp; EXPECTED ROI</div>
+          <h2 class="sc-h3">Dual-Return SaaS &amp; MCP API Monetization</h2>
+          <p class="sc-p">Eliminates 100% of internal ERP/admin licensing costs while generating external B2B revenue through custom enterprise RAG builds, Zoho/Workspace ERP SaaS, and MCP Server agent query tolls.</p>
+        </div>
       </div>
-      <div id="bd-list-body"></div>
-    </div>
-    <div class="bd-pagination" id="bd-pagination"></div>
+    </section>
+
+    <section class="sc-sec">
+      <div><span class="sc-kicker">STRATEGIC SYNERGY &amp; GOVERNANCE</span></div>
+      <h2 class="sc-h2">Integration Within the Signal Star Universe (*SC)</h2>
+      <div class="sc-grid-2x2">
+        <div class="sc-card-line">
+          <h3 class="sc-h3">1. Core Architecture &amp; Technical Integration</h3>
+          <p class="sc-p">Connected across our 12-domain semantic web matrix and 8 international bases (Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, Vietnam SCV, India SCIND, China SCC, Japan SCJ). Every workflow is tracked transparently via standardized Google Workspace Console, Monthly Sales, and Dashboard ledgers.</p>
+        </div>
+        <div class="sc-card-line">
+          <h3 class="sc-h3">2. Risk Firewall &amp; Settlement Security</h3>
+          <p class="sc-p">Protected by the *SC Triple Control Towers and Dual-Track Legal Firewall (isolating SC Index holding IP from Biz Galaxy commercial liabilities). Transactions leverage 3-Month Rolling Purchasing Forecasts (RPF), K-SURE export credit guarantees, and automated 70/30 PG webhook split settlements.</p>
+        </div>
+      </div>
+      <div class="sc-callout"><strong>*SC - SISTAR COMPANY | One Spark, Infinite Galaxifying:</strong> Powered by the Qubit Algorithm&trade;, *SC intelligence-core, Scarlet AI, Qubit Biz, and the Biz Galaxy constellation.<br/>Corporate Portal: https://sistarcompany.com &bull; Executive Contact: DennyKu (denniiku@sistarcompany.com)</div>
+    </section>
   </main>
-
-  <!-- Detail Modal Popup -->
-  <div class="bd-modal-backdrop" id="bd-modal-backdrop">
-    <div class="bd-modal" role="dialog" aria-modal="true">
-      <div class="bd-modal-top">
-        <div style="flex:1; padding-right:10px;">
-          <div class="bd-modal-tags" id="bd-m-tags"></div>
-          <h2 class="bd-modal-title" id="bd-m-title">Company Name</h2>
-        </div>
-        <div class="bd-modal-top-right">
-          <button type="button" class="bd-modal-close" id="bd-m-close" title="Close">&times;</button>
-          <button type="button" class="bd-pastel-btn bd-modal-select-btn" id="bd-m-star-btn"></button>
-        </div>
-      </div>
-
-      <div class="bd-modal-body" id="bd-modal-scroll">
-        <div class="bd-modal-gallery" id="bd-m-gallery"></div>
-        <ul class="bd-modal-summary-list" id="bd-m-summary"></ul>
-        <div class="bd-modal-url-box">
-          <span class="bd-modal-url-label">PARTNER PORTAL URL</span>
-          <a id="bd-m-url" class="bd-modal-url-link" href="https://biz-galaxy.sistarcompany.com" target="_blank" rel="noopener noreferrer">biz-galaxy.sistarcompany.com &rarr;</a>
-        </div>
-      </div>
-
-      <div class="bd-modal-foot">
-        <button type="button" class="bd-corner-nav" id="bd-prev-btn" title="Previous company">&lt;</button>
-        <div class="bd-foot-right">
-          <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-m-inquire-now">
-            <span>inquiry for</span>
-            <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <button type="button" class="bd-corner-nav" id="bd-next-btn" title="Next company">&gt;</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- ✨ Real-Time AI Brief Modal -->
-  <div class="bd-modal-backdrop" id="bd-ai-backdrop">
-    <div class="bd-ai-modal" role="dialog" aria-modal="true">
-      <div class="bd-modal-top">
-        <div>
-          <div class="bd-modal-tags"><span class="bd-modal-tag">&#10024; ai executive brief</span></div>
-          <h2 class="bd-modal-title" id="bd-ai-title">AI Intelligence Brief</h2>
-        </div>
-        <button type="button" class="bd-modal-close" id="bd-ai-close">&times;</button>
-      </div>
-      <div class="bd-modal-body">
-        <div class="bd-ai-output" id="bd-ai-output">✨ analyzing... with sistar ai centers</div>
-      </div>
-      <div class="bd-modal-foot" style="justify-content:flex-end;">
-        <button type="button" class="bd-pastel-btn bd-foot-inq-btn" id="bd-ai-to-inq">
-          <span>inquiry for</span>
-          <svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </button>
-      </div>
-    </div>
-  </div>
-
-  <!-- Inquiry Modal -->
-  <div class="bd-modal-backdrop" id="bd-inq-backdrop">
-    <div class="bd-inq-modal" role="dialog" aria-modal="true">
-      <div class="bd-modal-top">
-        <div>
-          <div class="bd-modal-tags">
-            <span class="bd-modal-tag" style="display:inline-flex;align-items:center;gap:4px;">
-              inquiry for <svg class="bd-chk-svg" style="width:13px;height:13px;" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
-            </span>
-          </div>
-          <h2 class="bd-modal-title">message to sistar company</h2>
-        </div>
-        <button type="button" class="bd-modal-close" id="bd-inq-close">&times;</button>
-      </div>
-      <div class="bd-inq-body">
-        <div class="bd-inq-field">
-          <label>to (recipient)</label>
-          <input type="text" class="bd-inq-input" value="sc@sistarcompany.com" readonly style="background:rgba(221,230,237,0.45); font-weight:600;" />
-        </div>
-        <div class="bd-inq-field">
-          <label>
-            selected companies
-            <svg class="bd-chk-svg" style="width:14px;height:14px;" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </label>
-          <div class="bd-inq-chips" id="bd-inq-chips"></div>
-        </div>
-        <div class="bd-inq-field">
-          <label>your email / contact</label>
-          <input type="email" id="bd-inq-sender" class="bd-inq-input" placeholder="your@email.com (or company / name)" />
-        </div>
-        <div class="bd-inq-field">
-          <label>message</label>
-          <textarea id="bd-inq-msg" class="bd-inq-textarea" rows="4" placeholder="Write your inquiry or partnership request regarding the selected companies..."></textarea>
-        </div>
-        <button type="button" class="bd-pastel-btn bd-inq-send" id="bd-inq-submit">send message</button>
-      </div>
-    </div>
-  </div>
-
-  <script>
-    (function() {
-      const GAS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbxS8FZWeWcV60C7koteQAL8_S-G7DLuX8XF75XlSlLdLlk3XUX3BGHgPOn3VMD6FbGFuQ/exec";
-
-      const ICON_UNCHECKED = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2.5" y="2.5" width="15" height="15" rx="4" stroke="#526D82" stroke-width="1.8" fill="rgba(255,255,255,0.85)"/></svg>';
-      const ICON_CHECKED   = '<svg class="bd-chk-svg" viewBox="0 0 20 20" fill="none"><rect x="2" y="2" width="16" height="16" rx="4.5" fill="#27374D"/><path d="M6 10.3L8.8 13.1L14.2 7.3" stroke="#fff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>';
-
-      const allData = Array.isArray(window.SC_DIRECTORY_DATA) ? window.SC_DIRECTORY_DATA.slice() : [];
-      let filtered = [];
-      let currentPage = 1;
-      const PAGE_SIZE = 20;
-      let currentModalIdx = -1;
-      const starredIds = new Set(JSON.parse(localStorage.getItem('sc_starred_companies') || '[]'));
-
-      const elCountry = document.getElementById('bd-country');
-      const elIndustry = document.getElementById('bd-industry');
-      const elPcat = document.getElementById('bd-pcat');
-      const elSearch = document.getElementById('bd-search');
-      const elListBody = document.getElementById('bd-list-body');
-      const elCount = document.getElementById('bd-count');
-      const elStarCount = document.getElementById('bd-star-count');
-
-      // Prune ghost IDs so the count is always 100% accurate
-      function saveStars() {
-        const validIds = new Set(allData.map(function(d) { return d.id; }));
-        Array.from(starredIds).forEach(function(id) {
-          if (!validIds.has(id)) starredIds.delete(id);
-        });
-        localStorage.setItem('sc_starred_companies', JSON.stringify(Array.from(starredIds)));
-        elStarCount.textContent = '(' + starredIds.size + ')';
-      }
-
-      function makeSvgCardDataUri(item) {
-        const safeTitle = String(item.company_name || 'Partner').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-        const safeSub = String((item.industry || '') + '  |  ' + (item.product_category || '')).toUpperCase().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').substring(0, 56);
-        const ctry = String(item.country || 'KOREA').toUpperCase();
-        const svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%">'
-          + '<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f7dffb"/><stop offset="50%" stop-color="#dffbf7"/><stop offset="100%" stop-color="#fbf7df"/></linearGradient></defs>'
-          + '<rect width="800" height="420" fill="url(#bg)"/>'
-          + '<rect x="28" y="28" width="744" height="364" rx="20" fill="rgba(255,255,255,0.75)" stroke="rgba(157,178,191,0.5)" stroke-width="2"/>'
-          + '<text x="64" y="88" font-family="sans-serif" font-size="15" font-weight="700" fill="#526D82" letter-spacing="2">sistar company  •  ' + ctry + '  •  ' + (item.id || '') + '</text>'
-          + '<text x="64" y="215" font-family="sans-serif" font-size="32" font-weight="700" fill="#27374D">' + safeTitle + '</text>'
-          + '<rect x="64" y="265" width="672" height="2" fill="rgba(157,178,191,0.4)"/>'
-          + '<text x="64" y="315" font-family="sans-serif" font-size="15" font-weight="600" fill="#526D82" letter-spacing="1">' + safeSub + '</text>'
-          + '<text x="64" y="355" font-family="sans-serif" font-size="13" font-weight="500" fill="#9DB2BF">biz-directory.sistarcompany.com</text>'
-          + '</svg>';
-        return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
-      }
-
-            const ALLOWED_INDUSTRIES = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
-
-      function normalizeIndustry(rawInd, rawPcat, rawSum) {
-        const s = String((rawInd || '') + ' ' + (rawPcat || '')).toLowerCase();
-        const exact = String(rawInd || '').toLowerCase().trim();
-        if (ALLOWED_INDUSTRIES.indexOf(exact) !== -1) return exact;
-        if (/\b(pet clinic|veterinary|vet\b)/.test(s)) return 'pet clinic';
-        if (/\b(pet|companion animal|dog|cat)\b/.test(s)) return 'pet';
-        if (/\b(robot|robotics|autonomous mobility)\b/.test(s)) return 'robot';
-        if (/\b(medical|healthcare|health|bio|clinical|diagnostic|nutrition ai)\b/.test(s) && !/\bai\b/.test(exact)) return 'medical & healthcare';
-        if (/\b(ai|artificial intelligence|generative|llm|agent|agentic|multimodal|machine learning|deep learning)\b/.test(s)) return 'ai';
-        if (/\b(beauty|cosmetic|skincare|aesthetic|derma)\b/.test(s)) return 'beauty';
-        if (/\b(food|beverage|tea|kombucha|snack|culinary)\b/.test(s)) return 'food';
-        if (/\b(outdoor|leisure|camping|sports|travel)\b/.test(s)) return 'outdoor & leisure';
-        if (/\b(living|lifestyle|baby|kids|home|furniture|kitchen)\b/.test(s)) return 'living & lifestyle';
-        if (/\b(industrial|material|manufacturing|chemical|machinery|trade association|b2b trade)\b/.test(s)) return 'industrial & material';
-        if (/\b(software|it|ict|digital|vr|ar|xr|iot|security|data|cloud|platform|telecom|media|information|importer|distributor|developer)\b/.test(s)) return 'it & electronics';
-        return 'it & electronics';
-      }
-
-      function normalizePcat(rawPcat, rawInd) {
-        let p = String(rawPcat || '').toLowerCase().trim();
-        if (!p || p === 'general') {
-          const indClean = String(rawInd || '').toLowerCase().trim();
-          if (indClean && ALLOWED_INDUSTRIES.indexOf(indClean) === -1) p = indClean;
-          else return 'general';
-        }
-        // Take only the FIRST primary category before comma or slash
-        p = p.split(/,|\/|;/)[0].trim();
-        p = p.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
-        if (p.length > 30) p = p.substring(0, 30).replace(/\s+\S*$/, '');
-        return p || 'general';
-      }
-
-      function normalizeRecord(item) {
-        const origInd = item.industry || '';
-        const origPcat = item.product_category || '';
-        item.country = String(item.country || 'korea').toLowerCase().trim();
-        if (item.country.indexOf('seoul') !== -1 || item.country.indexOf('korea') !== -1) item.country = 'korea';
-        item.industry = normalizeIndustry(origInd, origPcat, item.summary);
-        item.product_category = normalizePcat(origPcat, origInd);
-
-        // Enrich 1-line placeholder summary using original tags if needed
-        if (!item.summary || /^•?\s*Overview:\s*Partner company/i.test(item.summary.trim())) {
-          const extraTags = String(origPcat || '').split(',').map(function(x){return x.trim();}).filter(Boolean).join(', ');
-          const bizType = (origInd && ALLOWED_INDUSTRIES.indexOf(origInd.toLowerCase()) === -1) ? origInd : item.industry;
-          item.summary = '• Overview: ' + (item.company_name || 'Partner') + ' is a specialized partner in ' + item.industry.toUpperCase() + ' (' + bizType + ').\n'
-                       + (extraTags ? ('• Key Solutions & Focus: ' + extraTags + '.\n') : '')
-                       + '• Global Partnership: Listed on sistar company biz-directory for B2B sourcing and collaboration.';
-        }
-        return item;
-      }
-
-      allData.forEach(normalizeRecord);
-      const preferredIndOrder = ['ai','robot','it & electronics','beauty','food','pet','pet clinic','medical & healthcare','living & lifestyle','outdoor & leisure','industrial & material'];
-      function rebuildIndustryDropdown() {
-        const cur = elIndustry.value.toLowerCase();
-        const indSet = new Set();
-        allData.forEach(function(d) { if (d.industry) indSet.add(d.industry.toLowerCase()); });
-        preferredIndOrder.forEach(function(i) { indSet.add(i); });
-        const sortedInds = Array.from(indSet).sort(function(a,b) {
-          const ia = preferredIndOrder.indexOf(a), ib = preferredIndOrder.indexOf(b);
-          if (ia !== -1 && ib !== -1) return ia - ib;
-          if (ia !== -1) return -1;
-          if (ib !== -1) return 1;
-          return a.localeCompare(b);
-        });
-        elIndustry.innerHTML = '<option value="">industry: all</option>' +
-          sortedInds.map(function(ind) { return '<option value="' + ind + '">' + ind + '</option>'; }).join('');
-        if (sortedInds.indexOf(cur) !== -1) elIndustry.value = cur;
-      }
-
-      function updateProductCategories() {
-        const selInd = elIndustry.value.toLowerCase();
-        const currentPcat = elPcat.value.toLowerCase();
-        const pcatSet = new Set();
-        allData.forEach(function(item) {
-          if (!selInd || (item.industry || '').toLowerCase() === selInd) {
-            if (item.product_category) pcatSet.add(item.product_category.toLowerCase());
-          }
-        });
-        const sorted = Array.from(pcatSet).sort();
-        elPcat.innerHTML = '<option value="">product category: all</option>' +
-          sorted.map(function(c) { return '<option value="' + c + '">' + c + '</option>'; }).join('');
-        if (sorted.indexOf(currentPcat) !== -1) elPcat.value = currentPcat;
-      }
-
-      function renderPagination(totalPages) {
-        const elPag = document.getElementById('bd-pagination');
-        if (!elPag) return;
-        if (totalPages <= 1) {
-          elPag.innerHTML = '';
-          return;
-        }
-        let htmlBtns = '<button type="button" class="bd-page-btn" data-page="' + (currentPage - 1) + '"' + (currentPage === 1 ? ' disabled' : '') + '>&lt;</button>';
-        for (let p = 1; p <= totalPages; p++) {
-          htmlBtns += '<button type="button" class="bd-page-btn' + (p === currentPage ? ' active' : '') + '" data-page="' + p + '">' + p + '</button>';
-        }
-        htmlBtns += '<button type="button" class="bd-page-btn" data-page="' + (currentPage + 1) + '"' + (currentPage === totalPages ? ' disabled' : '') + '>&gt;</button>';
-        elPag.innerHTML = htmlBtns;
-
-        elPag.querySelectorAll('.bd-page-btn').forEach(function(btn) {
-          btn.addEventListener('click', function() {
-            if (btn.disabled) return;
-            currentPage = parseInt(btn.getAttribute('data-page'), 10);
-            renderList();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          });
-        });
-      }
-
-      function renderList() {
-        const cVal = elCountry.value.toLowerCase();
-        const iVal = elIndustry.value.toLowerCase();
-        const pVal = elPcat.value.toLowerCase();
-        const qVal = elSearch.value.trim().toLowerCase();
-
-        filtered = allData.filter(function(item) {
-          if (cVal && (item.country || '').toLowerCase() !== cVal) return false;
-          if (iVal && (item.industry || '').toLowerCase() !== iVal) return false;
-          if (pVal && (item.product_category || '').toLowerCase() !== pVal) return false;
-          if (qVal) {
-            const hay = ((item.company_name || '') + ' ' + (item.summary || '') + ' ' + (item.product_category || '') + ' ' + (item.industry || '') + ' ' + (item.country || '')).toLowerCase();
-            if (hay.indexOf(qVal) === -1) return false;
-          }
-          return true;
-        });
-
-        const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
-        if (currentPage > totalPages) currentPage = totalPages;
-        if (currentPage < 1) currentPage = 1;
-
-        const startIdx = (currentPage - 1) * PAGE_SIZE;
-        const pageItems = filtered.slice(startIdx, startIdx + PAGE_SIZE);
-
-        if (filtered.length === 0) {
-          elCount.textContent = '0 companies';
-          elListBody.innerHTML = '<div class="bd-row"><div style="grid-column: 1 / -1; color:#526D82; padding:12px 0;">No matching companies found.</div></div>';
-          renderPagination(1);
-          return;
-        }
-
-        const endIdx = Math.min(startIdx + PAGE_SIZE, filtered.length);
-        elCount.textContent = filtered.length + (filtered.length === 1 ? ' company' : ' companies') +
-          (filtered.length > PAGE_SIZE ? '  (showing ' + (startIdx + 1) + '–' + endIdx + ')' : '');
-
-        elListBody.innerHTML = pageItems.map(function(item, i) {
-          const globalIdx = startIdx + i;
-          const isStar = starredIds.has(item.id);
-          return '<div class="bd-row bd-row-item" data-idx="' + globalIdx + '">' +
-            '<div class="bd-chk-cell" data-id="' + item.id + '" title="Select company">' + (isStar ? ICON_CHECKED : ICON_UNCHECKED) + '</div>' +
-            '<div><span class="bd-pill">' + (item.country || 'korea') + '</span></div>' +
-            '<div><span class="bd-pill">' + (item.industry || '') + '</span></div>' +
-            '<div class="bd-col-pcat"><span class="bd-pill">' + (item.product_category || '') + '</span></div>' +
-            '<div class="bd-cname">' + (item.company_name || '') + '</div>' +
-          '</div>';
-        }).join('');
-
-        renderPagination(totalPages);
-
-        elListBody.querySelectorAll('.bd-chk-cell').forEach(function(chkEl) {
-          chkEl.addEventListener('click', function(e) {
-            e.stopPropagation();
-            const cid = chkEl.getAttribute('data-id');
-            if (starredIds.has(cid)) starredIds.delete(cid); else starredIds.add(cid);
-            saveStars();
-            renderList();
-          });
-        });
-
-        elListBody.querySelectorAll('.bd-row-item').forEach(function(rowEl) {
-          rowEl.addEventListener('click', function() {
-            openModalAt(parseInt(rowEl.getAttribute('data-idx'), 10));
-          });
-        });
-      }
-
-
-
-      const backdrop = document.getElementById('bd-modal-backdrop');
-      const mTags = document.getElementById('bd-m-tags');
-      const mTitle = document.getElementById('bd-m-title');
-      const mStarBtn = document.getElementById('bd-m-star-btn');
-      const mGallery = document.getElementById('bd-m-gallery');
-      const mSummary = document.getElementById('bd-m-summary');
-      const mUrl = document.getElementById('bd-m-url');
-      const mScroll = document.getElementById('bd-modal-scroll');
-
-      function syncModalStarBtn(item) {
-        const isStar = starredIds.has(item.id);
-        mStarBtn.innerHTML = (isStar ? ICON_CHECKED : ICON_UNCHECKED) + '<span>select</span>';
-      }
-
-      function openModalAt(idx) {
-        if (!filtered.length) return;
-        if (idx < 0) idx = filtered.length - 1;
-        if (idx >= filtered.length) idx = 0;
-        currentModalIdx = idx;
-        const item = filtered[idx];
-
-        mTags.innerHTML = [item.country, item.industry, item.product_category]
-          .filter(Boolean)
-          .map(function(t) { return '<span class="bd-modal-tag">' + t + '</span>'; })
-          .join('');
-        mTitle.textContent = item.company_name || '';
-        syncModalStarBtn(item);
-
-        const rawImgs = String(item.image_url || '').split(/\||;/).map(function(s) { return s.trim(); }).filter(Boolean);
-        const fallbackUri = makeSvgCardDataUri(item);
-        const imgList = rawImgs.length > 0 ? rawImgs : [fallbackUri];
-
-        mGallery.innerHTML = '';
-        imgList.forEach(function(src) {
-          const wrap = document.createElement('div');
-          wrap.className = 'bd-modal-img-wrap';
-          const img = document.createElement('img');
-          img.className = 'bd-modal-img';
-          img.src = src;
-          img.onerror = function() {
-            if (img.src !== fallbackUri) img.src = fallbackUri;
-          };
-          wrap.appendChild(img);
-          mGallery.appendChild(wrap);
-        });
-
-        const rawSum = String(item.summary || '').split(/\r?\n|•/).map(function(s) { return s.trim(); }).filter(Boolean);
-        mSummary.innerHTML = rawSum.map(function(line) { return '<li>' + line + '</li>'; }).join('');
-
-        const tUrl = item.target_url || 'https://biz-galaxy.sistarcompany.com';
-        mUrl.href = tUrl;
-        mUrl.textContent = tUrl.replace(/^https?:\/\//, '') + ' \u2192';
-
-        mScroll.scrollTop = 0;
-        backdrop.classList.add('open');
-      }
-
-      mUrl.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        window.open(mUrl.href, '_blank', 'noopener,noreferrer');
-      });
-
-      mStarBtn.addEventListener('click', function() {
-        if (currentModalIdx < 0 || !filtered[currentModalIdx]) return;
-        const item = filtered[currentModalIdx];
-        if (starredIds.has(item.id)) starredIds.delete(item.id); else starredIds.add(item.id);
-        saveStars();
-        syncModalStarBtn(item);
-        renderList();
-      });
-
-      document.getElementById('bd-prev-btn').addEventListener('click', function(e) {
-        e.stopPropagation();
-        openModalAt(currentModalIdx - 1);
-      });
-      document.getElementById('bd-next-btn').addEventListener('click', function(e) {
-        e.stopPropagation();
-        openModalAt(currentModalIdx + 1);
-      });
-
-      document.addEventListener('keydown', function(e) {
-        if (!backdrop.classList.contains('open')) return;
-        if (e.key === 'ArrowLeft') openModalAt(currentModalIdx - 1);
-        else if (e.key === 'ArrowRight') openModalAt(currentModalIdx + 1);
-        else if (e.key === 'Escape') backdrop.classList.remove('open');
-      });
-
-      document.getElementById('bd-m-close').addEventListener('click', function() { backdrop.classList.remove('open'); });
-      backdrop.addEventListener('click', function(e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
-
-      // ✨ Real-Time AI Brief
-      const aiBackdrop = document.getElementById('bd-ai-backdrop');
-      const aiTitle = document.getElementById('bd-ai-title');
-      const aiOutput = document.getElementById('bd-ai-output');
-
-      document.getElementById('bd-open-sparkle-modal').addEventListener('click', async function() {
-        const selected = allData.filter(function(d) { return starredIds.has(d.id); });
-        aiBackdrop.classList.add('open');
-
-        if (selected.length === 0) {
-          aiTitle.textContent = 'Select companies for AI Brief';
-          aiOutput.textContent = 'Please select one or more companies using the checkbox first, then click ✨ brief.';
-          return;
-        }
-
-        aiTitle.textContent = selected.length === 1
-          ? ('AI Brief: ' + selected[0].company_name)
-          : ('AI Comparison & Synergy (' + selected.length + ' Companies)');
-        aiOutput.textContent = '✨ analyzing... with sistar ai centers';
-
-        try {
-          const res = await fetch(GAS_WEBHOOK_URL, {
-            method: 'POST',
-            headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-            body: JSON.stringify({
-              action: 'ai_brief',
-              companies: selected.map(function(c) {
-                return {
-                  name: c.company_name,
-                  country: c.country,
-                  industry: c.industry,
-                  category: c.product_category,
-                  summary: c.summary
-                };
-              })
-            })
-          });
-          const data = await res.json();
-          if (data && data.brief) {
-            aiOutput.textContent = data.brief;
-          } else {
-            aiOutput.textContent = selected.map(function(s) { return '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary; }).join('\n\n');
-          }
-        } catch (err) {
-          aiOutput.textContent = selected.map(function(s) { return '■ ' + s.company_name + ' (' + s.industry + ' / ' + s.product_category + ')\n' + s.summary; }).join('\n\n');
-        }
-      });
-
-      document.getElementById('bd-ai-close').addEventListener('click', function() { aiBackdrop.classList.remove('open'); });
-      aiBackdrop.addEventListener('click', function(e) { if (e.target === aiBackdrop) aiBackdrop.classList.remove('open'); });
-      document.getElementById('bd-ai-to-inq').addEventListener('click', function() {
-        aiBackdrop.classList.remove('open');
-        openInquiryModal(false);
-      });
-
-      // Inquiry Modal Logic
-      const inqBackdrop = document.getElementById('bd-inq-backdrop');
-      const inqChips = document.getElementById('bd-inq-chips');
-
-      function renderInqChips() {
-        const selected = allData.filter(function(d) { return starredIds.has(d.id); });
-        if (selected.length === 0) {
-          inqChips.innerHTML = '<span style="font-size:0.78rem; color:#526D82;">No selected companies yet. Click select on any company to add.</span>';
-          return;
-        }
-        inqChips.innerHTML = selected.map(function(d) {
-          return '<span class="bd-inq-chip">' + ICON_CHECKED + '<span>' + d.company_name + '</span><button type="button" data-rm="' + d.id + '">&times;</button></span>';
-        }).join('');
-        inqChips.querySelectorAll('button[data-rm]').forEach(function(btn) {
-          btn.addEventListener('click', function() {
-            starredIds.delete(btn.getAttribute('data-rm'));
-            saveStars();
-            renderList();
-            renderInqChips();
-          });
-        });
-      }
-
-      function openInquiryModal(autoStarCurrent) {
-        if (autoStarCurrent && currentModalIdx >= 0 && filtered[currentModalIdx]) {
-          starredIds.add(filtered[currentModalIdx].id);
-          saveStars();
-          syncModalStarBtn(filtered[currentModalIdx]);
-          renderList();
-        }
-        renderInqChips();
-        inqBackdrop.classList.add('open');
-      }
-
-      document.getElementById('bd-open-star-modal').addEventListener('click', function() { openInquiryModal(false); });
-      document.getElementById('bd-m-inquire-now').addEventListener('click', function() { openInquiryModal(true); });
-      document.getElementById('bd-inq-close').addEventListener('click', function() { inqBackdrop.classList.remove('open'); });
-      inqBackdrop.addEventListener('click', function(e) { if (e.target === inqBackdrop) inqBackdrop.classList.remove('open'); });
-
-      document.getElementById('bd-inq-submit').addEventListener('click', async function() {
-        const selectedNames = allData.filter(function(d) { return starredIds.has(d.id); }).map(function(d) { return d.company_name; });
-        const sender = document.getElementById('bd-inq-sender').value.trim();
-        const msg = document.getElementById('bd-inq-msg').value.trim();
-        const btn = document.getElementById('bd-inq-submit');
-
-        if (!sender && !msg) {
-          alert('Please enter your email/contact and a brief message.');
-          return;
-        }
-
-        const payload = {
-          action: 'inquire',
-          to: 'sc@sistarcompany.com',
-          sender: sender || 'Anonymous Visitor',
-          companies: selectedNames,
-          message: msg
-        };
-
-        btn.textContent = 'sending...';
-        btn.disabled = true;
-        try {
-          await fetch(GAS_WEBHOOK_URL, {
-            method: 'POST',
-            mode: 'no-cors',
-            headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-            body: JSON.stringify(payload)
-          });
-          btn.textContent = 'sent to sc@sistarcompany.com !';
-          document.getElementById('bd-inq-msg').value = '';
-          setTimeout(function() {
-            btn.disabled = false;
-            btn.textContent = 'send message';
-            inqBackdrop.classList.remove('open');
-          }, 1400);
-        } catch (err) {
-          btn.disabled = false;
-          btn.textContent = 'send message';
-        }
-      });
-
-      elCountry.addEventListener('change', function() { currentPage = 1; renderList(); });
-      elIndustry.addEventListener('change', function() { currentPage = 1; updateProductCategories(); renderList(); });
-      elPcat.addEventListener('change', function() { currentPage = 1; renderList(); });
-      elSearch.addEventListener('input', function() { currentPage = 1; renderList(); });
-
-      rebuildIndustryDropdown();
-      updateProductCategories();
-      saveStars();
-      renderList();
-
-      // Automatically fetch live user-added companies from GAS Cloud DB
-      fetch(GAS_WEBHOOK_URL + '?action=list')
-        .then(function(r) { return r.json(); })
-        .then(function(res) {
-          if (res && Array.isArray(res.companies) && res.companies.length > 0) {
-            const existingNames = new Set(allData.map(function(d) { return String(d.company_name || '').toLowerCase(); }));
-            let added = false;
-            res.companies.forEach(function(c) {
-              if (c.company_name && !existingNames.has(String(c.company_name).toLowerCase())) {
-                allData.push(normalizeRecord(c));
-                existingNames.add(String(c.company_name).toLowerCase());
-                added = true;
-              }
-            });
-            if (added) {
-              rebuildIndustryDropdown();
-              updateProductCategories();
-              saveStars();
-              renderList();
-            }
-          }
-        })
-        .catch(function() {});
-    })();
-  </script>
 </body>
 </html>
