@@ -72,3 +72,8 @@
    - White-stroke transparent icons extracted from Gamma AI must be wrapped in a rich teal/slate badge (`background: #168765; width: 42px; height: 42px; border-radius: 50%; padding: 9px;`) so they stand out crisply against the `*sc` pastel gradient background.
 4. **No Muddy Outer Wrapper Boxes:**
    - Render sections directly on the `*sc` pastel gradient background separated by subtle hairlines, keeping the page airy, natural, and executive-ready.
+
+### 5.1 Zero-Error PPTX Extraction Rules (True Slide Order & Pixel Entropy Filtering)
+- **Rule A — True Slide Order (`ppt/presentation.xml`):** Never rely on `slide1.xml .. slide30.xml` filenames for slide numbering, as slide edits reorder XML files. Always resolve `<p:sldIdLst>` inside `ppt/presentation.xml` + `ppt/_rels/presentation.xml.rels` to map the exact 1..N slide sequence.
+- **Rule B — Pixel-Entropy Noise Rejection:** Gamma AI exports decorative card borders, number chevrons (`1`, `2`, `3`), CTA buttons, and blurry background blobs as PNGs. Automatically measure pixel color diversity (`Buckets`), blank/white ratio (`BlankRate`), and edge sharpness (`Sharpness`) via `System.Drawing.Bitmap` to reject decorative shapes and keep only genuine illustrations, photos, logos, and icons.
+- **Rule C — Coordinate Sorting (`<a:off x y>`):** Sort extracted visuals on each slide by `Y` band and `X` coordinate so multi-column cards (Left, Center, Right) always receive their exact corresponding image.
