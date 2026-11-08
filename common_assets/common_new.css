@@ -104,3 +104,47 @@ main, .sc-doc, .doc-container, .content-wrap {
   text-indent: -1.25em !important;
   margin-bottom: 14px !important;
 }
+
+/* === SC_NAV_FONT_SCALE_START === */
+:root {
+  --sc-nav-width: 260px;
+}
+#sc-left-nav {
+  width: 260px !important;
+}
+body.sc-nav-open {
+  padding-left: 260px !important;
+}
+@media (max-width: 768px) {
+  body.sc-nav-open,
+  body.sc-nav-folded {
+    padding-left: 44px !important;
+  }
+}
+#sc-left-nav .sc-brand-full {
+  font-size: 1.06rem !important;
+  font-weight: 700 !important;
+}
+#sc-left-nav .sc-l1-link {
+  font-size: 1.0rem !important;
+  line-height: 1.45 !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+#sc-left-nav .sc-l2-link {
+  font-size: 0.98rem !important;
+  line-height: 1.42 !important;
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+}
+#sc-left-nav .sc-l3-link {
+  font-size: 0.95rem !important;
+  line-height: 1.4 !important;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+#sc-left-nav .sc-search-input,
+#sc-left-nav .sc-search-item-t {
+  font-size: 0.98rem !important;
+}
+/* === SC_NAV_FONT_SCALE_END === */
