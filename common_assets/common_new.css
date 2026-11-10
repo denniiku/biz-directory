@@ -80,17 +80,17 @@ body.sc-nav-folded .sc-nav-scroll { display: none; }
   content: "";
   position: absolute;
   left: 28px;
-  right: 8px;
-  bottom: 1px;
-  height: 1.5px;
+  right: 9px;
+  bottom: 2px;
+  height: 0.8px;
   border-radius: 999px;
-  background: linear-gradient(90deg, rgba(16, 185, 129, 0) 0%, rgba(22, 135, 101, 0.35) 20%, rgba(16, 185, 129, 0.85) 50%, rgba(22, 135, 101, 0.35) 80%, rgba(16, 185, 129, 0) 100%);
-  box-shadow: 0 0 8px rgba(16, 185, 129, 0.55), 0 0 3px rgba(22, 135, 101, 0.35);
+  background: linear-gradient(90deg, rgba(22, 135, 101, 0) 0%, rgba(22, 135, 101, 0.22) 22%, rgba(22, 135, 101, 0.48) 50%, rgba(22, 135, 101, 0.22) 78%, rgba(22, 135, 101, 0) 100%);
+  box-shadow: none !important;
   opacity: 0;
-  transform: scaleX(0.72);
+  transform: scaleX(0.85);
   transform-origin: center center;
   pointer-events: none;
-  transition: opacity 0.32s cubic-bezier(0.22, 1, 0.36, 1), transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+  transition: opacity 0.28s ease, transform 0.28s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 .sc-l1-link:hover::after,
