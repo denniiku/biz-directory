@@ -17,7 +17,7 @@
       var s = document.createElement('script'); s.src = base + 'nav_new.js?v=' + Date.now(); s.defer = true; document.head.appendChild(s);
     })();
   </script>
-  <script src="./directory_data.js"></script>
+  <script src="./directory_data.js?v=20261110_180757"></script>
   <style>
     .bd-main { padding: 48px 5vw 80px; max-width: 1360px; }
     .bd-eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; color: #526D82; letter-spacing: 0.04em; margin-bottom: 6px; text-transform: none; }
@@ -286,6 +286,156 @@
       .bd-col-pcat { display: none; }
     }
   </style>
+<!-- === SC_HIERARCHY_CSS_START === -->
+<style>
+  #bd-m-summary, ul[id*="summary"] {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin: 0 !important;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .bd-line-meta {
+    list-style: none !important;
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #166534;
+    font-size: 0.84rem;
+    font-weight: 700;
+    padding: 6px 12px;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    display: inline-block;
+    align-self: flex-start;
+  }
+  .bd-line-prod {
+    list-style: none !important;
+    font-size: 0.98rem;
+    font-weight: 800;
+    color: #0f172a;
+    background: #f8fafc;
+    border-left: 4px solid #168765;
+    padding: 8px 12px;
+    border-radius: 0 8px 8px 0;
+    margin-top: 8px;
+    margin-bottom: 2px;
+  }
+  .bd-line-sec {
+    list-style: none !important;
+    font-size: 0.92rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin-top: 10px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #f1f5f9;
+  }
+  .bd-line-subsec {
+    list-style: none !important;
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #334155;
+    padding-left: 12px;
+    margin-top: 4px;
+  }
+  .bd-line-bullet {
+    list-style: none !important;
+    position: relative;
+    padding-left: 16px;
+    font-size: 0.88rem;
+    color: #334155;
+    line-height: 1.6;
+  }
+  .bd-line-bullet::before {
+    content: "•";
+    position: absolute;
+    left: 2px;
+    color: #168765;
+    font-weight: 700;
+  }
+  .bd-line-dash {
+    list-style: none !important;
+    position: relative;
+    padding-left: 30px;
+    font-size: 0.86rem;
+    color: #475569;
+    line-height: 1.55;
+  }
+  .bd-line-dash::before {
+    content: "–";
+    position: absolute;
+    left: 16px;
+    color: #94a3b8;
+    font-weight: 700;
+  }
+  .bd-line-tag {
+    list-style: none !important;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #1e40af;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin-top: 4px;
+    display: inline-block;
+    align-self: flex-start;
+  }
+</style>
+<!-- === SC_HIERARCHY_CSS_END === -->
+<!-- === SC_RESPONSIVE_FILTER_START === -->
+<style>
+  .sc-filter-bar-fixed {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    align-items: center !important;
+  }
+  .sc-filter-bar-fixed > * {
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+  }
+  .sc-filter-bar-fixed > select,
+  .sc-filter-bar-fixed > .bd-select-wrap {
+    flex: 1 1 115px !important;
+    min-width: 105px !important;
+  }
+  .sc-filter-bar-fixed > input[type="text"],
+  .sc-filter-bar-fixed > input[type="search"],
+  .sc-filter-bar-fixed > .bd-search-wrap {
+    flex: 1.2 1 130px !important;
+    min-width: 115px !important;
+  }
+  .sc-filter-bar-fixed > button {
+    flex: 0 0 auto !important;
+    white-space: nowrap !important;
+  }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // country: all 드롭다운이나 inquiry for 버튼의 바로 위 부모 컨테이너(흰색 필터 박스)를 정확히 찾아 클래스 부여
+    var selects = document.querySelectorAll("select");
+    for (var i = 0; i < selects.length; i++) {
+      if (selects[i].textContent.indexOf("country") !== -1) {
+        var bar = selects[i].parentElement;
+        if (bar && bar.tagName === "DIV" && bar.children.length < 3 && bar.parentElement) {
+          bar = bar.parentElement;
+        }
+        if (bar) {
+          bar.classList.add("sc-filter-bar-fixed");
+          for (var c = 0; c < bar.children.length; c++) {
+            bar.children[c].style.minWidth = "0";
+          }
+        }
+        break;
+      }
+    }
+  });
+</script>
+<!-- === SC_RESPONSIVE_FILTER_END === -->
 </head>
 <body class="sc-nav-open">
   <main class="bd-main">
@@ -592,8 +742,22 @@
           return;
         }
         let htmlBtns = '<button type="button" class="bd-page-btn" data-page="' + (currentPage - 1) + '"' + (currentPage === 1 ? ' disabled' : '') + '>&lt;</button>';
-        for (let p = 1; p <= totalPages; p++) {
+        const blockStart = Math.floor((currentPage - 1) / 10) * 10 + 1;
+        const blockEnd = Math.min(totalPages, blockStart + 9);
+        if (blockStart > 1) {
+          htmlBtns += '<button type="button" class="bd-page-btn" data-page="1">1</button>';
+          if (blockStart > 2) {
+            htmlBtns += '<span style="display:inline-flex;align-items:center;padding:0 6px;color:#64748b;font-weight:700;font-size:0.85rem;user-select:none;">...</span>';
+          }
+        }
+        for (let p = blockStart; p <= blockEnd; p++) {
           htmlBtns += '<button type="button" class="bd-page-btn' + (p === currentPage ? ' active' : '') + '" data-page="' + p + '">' + p + '</button>';
+        }
+        if (blockEnd < totalPages) {
+          if (blockEnd < totalPages - 1) {
+            htmlBtns += '<span style="display:inline-flex;align-items:center;padding:0 6px;color:#64748b;font-weight:700;font-size:0.85rem;user-select:none;">...</span>';
+          }
+          htmlBtns += '<button type="button" class="bd-page-btn" data-page="' + totalPages + '">' + totalPages + '</button>';
         }
         htmlBtns += '<button type="button" class="bd-page-btn" data-page="' + (currentPage + 1) + '"' + (currentPage === totalPages ? ' disabled' : '') + '>&gt;</button>';
         elPag.innerHTML = htmlBtns;
@@ -722,8 +886,29 @@
           mGallery.appendChild(wrap);
         });
 
-        const rawSum = String(item.summary || '').split(/\r?\n|•/).map(function(s) { return s.trim(); }).filter(Boolean);
-        mSummary.innerHTML = rawSum.map(function(line) { return '<li>' + line + '</li>'; }).join('');
+        const rawSum = String(item.summary || '').split(/\r?\n/).map(function(s) { return s.replace(/^[•]\s*/, '').trim(); }).filter(Boolean);
+        mSummary.innerHTML = rawSum.map(function(line) {
+          if (/^(Business\s*(Focus|Type)|Overview)\s*:/i.test(line)) {
+            return '<li class="bd-line-meta">' + line + '</li>';
+          }
+          if (/^(■\s*Product\s*:|Product\s*—)/i.test(line)) {
+            var cleanProd = line.replace(/^■\s*/, '');
+            return '<li class="bd-line-prod">' + cleanProd + '</li>';
+          }
+          if (/^\d+\.\s+[A-Z]/.test(line)) {
+            return '<li class="bd-line-sec">' + line + '</li>';
+          }
+          if (/^(\d+\)|[A-Z]\.)\s+[A-Z]/.test(line)) {
+            return '<li class="bd-line-subsec">' + line + '</li>';
+          }
+          if (/^-\s+/.test(line)) {
+            return '<li class="bd-line-dash">' + line.replace(/^-\s+/, '') + '</li>';
+          }
+          if (/^(HS\s*Code|Certifications?)\s*:/i.test(line)) {
+            return '<li class="bd-line-tag">' + line + '</li>';
+          }
+          return '<li class="bd-line-bullet">' + line + '</li>';
+        }).join('');
 
         const tUrl = item.target_url || 'https://biz-galaxy.sistarcompany.com';
         mUrl.href = tUrl;
