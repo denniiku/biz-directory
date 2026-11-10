@@ -62,3 +62,19 @@
   2. **Image-Free / Pure Vector Harmony:** By default, do NOT rely on fragile external/extracted raster images. Use crisp typography, hairline editorial grids, KPI counters, and inline SVG vector badges directly on the signature `*sc` pastel gradient background.
   3. **On-Demand Visual Generation:** Generate custom AI visuals or bespoke inline SVG architecture diagrams only when specifically requested.
   4. **Automated Sync:** Update folder structure, run `build_nav_new.ps1`, and run `sync_all.ps1` to keep local folders, Navigator, Search, and GitHub 100% synchronized.
+
+---
+
+## 6. CENTRALIZED `common_assets` UI/UX GOVERNANCE (ZERO INLINE PATCH RULE)
+> **[CRITICAL ARCHITECTURE RULE — 100% ACTIVE]**
+> All global navigation, language switcher, breadcrumb routing, and typography scaling across the 12-domain universe MUST be controlled exclusively from `C:\projects\sc_web\common_assets\`.
+
+- **Strict Prohibition of Per-Page HTML/JS Hacks:**
+  - **NEVER** inject ad-hoc `<style>` or `<script>` patches into individual `<page>/index.html` files for global UI features (navigator, language bar, breadcrumbs).
+  - Individual `index.html` files must remain pure semantic content documents loading `common_new.css` and `nav_new.js`.
+- **Single Source of Truth Files in `common_assets`:**
+  1. `common_new.css`: Controls all layout, left navigator (`#sc-left-nav`), L1/L2/L3 typography, hover underline bars (`#168765`), and language bar (`.sc-lang-bar`) styling.
+  2. `nav_new.js`: Controls the `MENU_STRUCTURE` tree, sidebar rendering, top route breadcrumb (`p.sc-route`) auto-linking, and loads `sc_translator.js`.
+  3. `sc_translator.js` & `sc_translations.js`: Controls the multi-language switcher (`en`, `kr`, `id`, `vn`, `cn`, `jp`) and translation state.
+- **Mandatory Synchronization After Any `common_assets` Update:**
+  - Every modification to `common_assets` MUST be followed by running `sync_all.ps1` (or mirroring `common_assets` to all 12 domain folders and syncing with GitHub) so local and production domains stay 100% identical.
