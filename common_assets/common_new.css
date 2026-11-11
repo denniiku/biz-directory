@@ -278,3 +278,91 @@ body.sc-nav-folded .sc-lang-bar,
 }
 @media print { .sc-lang-bar { display: none !important; } }
 /* === SC_HEADER_TRANSLATOR_END === */
+
+/* === MOBILE FLOATING NAV & RESPONSIVE TABLE SCROLL === */
+@media (max-width: 768px) {
+  /* 1) 모바일에서는 본문이 항상 전체 화면(100% 폭)을 사용하도록 좌측 여백 제거 */
+  body.sc-nav-open,
+  body.sc-nav-folded {
+    padding-left: 0 !important;
+  }
+
+  /* 2) Fold(접힘) 상태: 왼쪽 반투명 박스/하단 아이콘을 없애고 좌상단에 *sc 와 ≡ 버튼만 Floating */
+  body.sc-nav-folded #sc-left-nav {
+    width: auto !important;
+    height: auto !important;
+    bottom: auto !important;
+    background: transparent !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    border-right: none !important;
+    box-shadow: none !important;
+    pointer-events: none !important;
+  }
+
+  body.sc-nav-folded #sc-left-nav .sc-nav-top {
+    pointer-events: auto !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    margin: 10px 0 0 12px !important;
+    padding: 6px 10px !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  body.sc-nav-folded #sc-left-nav .sc-brand-full,
+  body.sc-nav-folded #sc-left-nav .sc-search-btn,
+  body.sc-nav-folded #sc-left-nav .sc-search-wrap,
+  body.sc-nav-folded #sc-left-nav .sc-lang-bar,
+  body.sc-nav-folded #sc-left-nav #sc-lang-bar,
+  body.sc-nav-folded #sc-left-nav .sc-nav-scroll,
+  body.sc-nav-folded #sc-left-nav .sc-nav-bottom {
+    display: none !important;
+  }
+
+  body.sc-nav-folded #sc-left-nav .sc-brand-short {
+    display: inline-block !important;
+    font-size: 15.5px !important;
+    font-weight: 700 !important;
+  }
+
+  /* 3) Unfold(펼침) 상태: 기존처럼 본문 위에 반투명 사이드바가 Floating */
+  body.sc-nav-open #sc-left-nav {
+    width: 236px !important;
+    height: 100vh !important;
+    bottom: 0 !important;
+    background: rgba(221, 230, 237, 0.94) !important;
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    border-right: 1px solid var(--sc-border) !important;
+    box-shadow: 12px 0 32px rgba(39, 55, 77, 0.22) !important;
+    pointer-events: auto !important;
+  }
+
+  /* 4) 모바일에서 좌상단 Floating *sc ≡ 버튼과 본문 첫 줄이 겹치지 않도록 상단 여백 확보 */
+  main {
+    padding-top: 52px !important;
+  }
+
+  /* 5) biz-directory 등 모바일에서 표(Table)가 잘리지 않고 좌우 터치 스크롤되도록 설정 */
+  .sc-table-wrap,
+  .table-wrap,
+  .table-container,
+  .dir-table-wrap,
+  .bd-table-wrap,
+  .sc-dir-table-wrap,
+  main div:has(> table) {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    display: block !important;
+  }
+
+  main table {
+    min-width: 640px !important;
+    width: max-content !important;
+  }
+}
