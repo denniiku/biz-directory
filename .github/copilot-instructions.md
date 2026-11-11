@@ -136,3 +136,20 @@
     1. Auto-pins the latest `master_prd.md` and `master_skill.md` into VS Code (`.github/copilot-instructions.md`, `.vscode/settings.json`) and AGY CLI (`AGENTS.md`, `GEMINI.md`, `CLAUDE.md`, `.agy/instructions.md`).
     2. Runs `common_assets\build_nav_new.ps1` to dynamically scan all 12 domain folders and update `common_assets\nav_new.js` (preserving `SC_TR_LOAD` and custom labels).
     3. Mirrors `common_assets` across all 12 domain repositories (automatically removing deleted files via `robocopy /MIR`) and commits/pushes all changes to GitHub.
+
+## 🛡️ [MANDATORY] CENTRALIZED COMMON_ASSETS GOVERNANCE & NAVIGATOR INTEGRITY
+
+### 1. Default Target Scope (12 Public Domains Only — Strict `mgnt` Exclusion)
+- **Default Scope = 12 Public Domains**: Unless the user explicitly states **"for `mgnt`"** (or `mgnt.sistarcompany.com`), ALL instructions, edits, CSS/JS updates, and `sc-sync` operations apply strictly to the **12 public domains** (`sc-sistarcompany`, `qubit-algorithm`, `intelligence-core`, `scarlet-ai`, `qubit-biz`, `biz-galaxy`, `biz-hub`, `challengers`, `partnership`, `ir-pitchdeck`, `biz-directory`, `media`) via `C:\projects\sc_web\common_assets`.
+- **Complete Isolation of `mgnt`**: `C:\projects\sc_web\mgnt` is an independent repository with its own `mgnt\common_assets`. Never overwrite or sync `mgnt` during 12-domain operations.
+
+### 2. Absolute Prohibition of Per-HTML Overrides (Single Source of Truth)
+- **Strict Reliance on `common_assets`**: The left navigator (`#sc-left-nav`), language bar (`.sc-lang-bar`), global background gradient, root typography (`html { font-size: 16px !important; }`), and sidebar spacing (`236px` open / `64px` folded) MUST follow `common_assets/common_new.css` and `common_assets/nav_new.js` exclusively.
+- **NEVER Override in Individual HTML Files**:
+  - NEVER write custom CSS rules targeting `#sc-left-nav`, `.sc-l1-link`, `.sc-l2-link`, `.sc-l3-link`, `.sc-brand-link`, or `.sc-lang-bar` inside any individual `index.html`.
+  - NEVER use conflicting sidebar padding values (such as `220px`, `240px`, `260px`) in individual HTML `<head>` blocks; always keep the standard `236px` open / `64px` folded metrics governed by `common_new.css`.
+  - NEVER inject `main { opacity: 0; }` or dynamic cache-busting query strings (`?v=" + Date.now()`) into HTML `<head>` loaders, as they cause font-size swapping (FOUT) and layout jitter during page transitions.
+
+### 3. Navigator Behavior & Dropdown Time-Delay Preservation
+- **Dropdown Hover Delays**: Always preserve the deliberate hover time-delays in `build_nav_new.ps1` (`OPEN_DELAY = 480`, `CLOSE_DELAY = 420` for L1; `380ms` open / `350ms` close for L2) so submenus never open abruptly when the cursor passes over them.
+- **Zero-Jolt Synchronous Rendering**: Keep the language bar (`#sc-lang-bar`) pre-rendered inside the initial `nav_new.js` markup and keep `Space Grotesk` font preloaded with `display=block` so the navigator never shifts or changes font size after page load.
