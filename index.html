@@ -113,7 +113,7 @@
     }
     .bd-row {
       display: grid; min-width: 720px;
-      grid-template-columns: 38px 95px 165px 220px 1fr;
+      grid-template-columns: 38px 95px 165px 220px minmax(220px, 1fr); min-width: 760px;
       align-items: center; gap: 12px;
       padding: 11px 16px;
       border-bottom: 1px solid rgba(157, 178, 191, 0.28);
@@ -283,8 +283,6 @@
       .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
       .bd-search-wrap { flex: 1 1 100%; }
       .bd-bar-btn-size { flex: 1 1 calc(50% - 6px); justify-content: center; }
-      .bd-row { grid-template-columns: 32px 70px 100px 1fr; gap: 8px; padding: 10px 10px; }
-      .bd-col-pcat { display: none; }
     }
   </style>
 <!-- === SC_HIERARCHY_CSS_START === -->

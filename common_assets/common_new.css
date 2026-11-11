@@ -299,32 +299,49 @@ html {
   height: 0 !important;
 }
 
-/* Global Responsive Table Standard (Prevents text clipping on narrow screens) */
 .sc-table-wrap,
 .table-wrap,
 .table-container,
 .dir-table-wrap,
 .bd-table-wrap,
-.bd-list-box, main div:has(> table) {
+.bd-list-box,
+main div:has(> table) {
   width: 100%;
   max-width: 100%;
   overflow-x: auto !important;
   -webkit-overflow-scrolling: touch;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   :root {
     --sc-nav-folded-w: 0px;
   }
 
-  /* Main content always occupies 100% full viewport width on mobile */
   body.sc-nav-open,
   body.sc-nav-folded {
     padding-left: 0 !important;
   }
 
+  .sc-main-stage {
+    height: auto !important;
+    min-height: 100vh !important;
+    padding: 54px 6vw 48px !important;
+  }
+
+  .sc-hero-heading {
+    font-size: clamp(2rem, 8.2vw, 3rem) !important;
+    line-height: 1.12 !important;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  .sc-hero-subline {
+    font-size: clamp(1rem, 4.2vw, 1.25rem) !important;
+  }
+
+  body > main,
   main {
-    padding-top: 54px !important;
+    padding: 54px 5vw 80px !important;
   }
 
   /* Mobile Unfolded: Floating translucent sidebar over main */
@@ -342,7 +359,7 @@ html {
     pointer-events: auto !important;
   }
 
-  /* Mobile Folded: Remove translucent sidebar box; float ONLY *sc and ≡ at top-left */
+  /* Mobile Folded: Remove left translucent bar; float ONLY *sc and ≡ at top-left */
   body.sc-nav-folded #sc-left-nav {
     width: auto !important;
     height: auto !important;
@@ -384,14 +401,5 @@ html {
   body.sc-nav-folded #sc-left-nav .sc-nav-scroll,
   body.sc-nav-folded #sc-left-nav .sc-nav-bottom {
     display: none !important;
-  }
-
-  /* Ensure wide data tables scroll smoothly horizontally on mobile without cutting off columns */
-  main table {
-    display: block !important;
-    width: 100% !important;
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch !important;
-    white-space: nowrap !important;
   }
 }
