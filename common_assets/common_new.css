@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=block');
 :root { --sc-ink: #27374D; --sc-muted: #526D82; --sc-border: rgba(157, 178, 191, 0.48); --sc-nav-bg: rgba(221, 230, 237, 0.68); --sc-nav-w: 236px; --sc-nav-folded-w: 64px; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html, body { width: 100%; min-height: 100vh; overflow-x: hidden; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: var(--sc-ink); background: linear-gradient(to right, #f0acf7, #acf7f0, #f7f0ac); transition: padding-left 0.32s cubic-bezier(0.22, 1, 0.36, 1); }
+html, body { width: 100%; min-height: 100vh; overflow-x: hidden; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: var(--sc-ink); background: linear-gradient(to right, #f0acf7, #acf7f0, #f7f0ac);  }
 body.sc-nav-open { padding-left: var(--sc-nav-w) !important; }
 body.sc-nav-folded { padding-left: var(--sc-nav-folded-w) !important; }
 @keyframes scStationaryFadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
@@ -11,7 +11,7 @@ body.sc-page-leaving > main, body.sc-page-leaving > section, body.sc-page-leavin
 body.sc-nav-folded #sc-left-nav { width: var(--sc-nav-folded-w) !important; }
 .sc-nav-top { display: flex; align-items: center; justify-content: space-between; padding: 14px 12px 6px; min-height: 46px; }
 body.sc-nav-folded .sc-nav-top { padding: 14px 8px 10px 10px !important; justify-content: space-between !important; gap: 2px; }
-.sc-brand-link { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 0.96rem; color: var(--sc-ink); text-decoration: none; letter-spacing: -0.02em; white-space: nowrap; }
+.sc-brand-link { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 15.5px !important; color: var(--sc-ink); text-decoration: none; letter-spacing: -0.02em; white-space: nowrap; }
 body.sc-nav-folded .sc-brand-full { display: none; }
 body.sc-nav-open .sc-brand-short { display: none; }
 .sc-brand-short { font-weight: 700; font-size: 0.95rem !important; padding-left: 2px !important; }
@@ -47,7 +47,7 @@ body.sc-nav-folded .sc-nav-scroll { display: none; }
   padding: 5px 9px;
   border-radius: 0 !important;
   font-family: 'Space Grotesk', sans-serif !important;
-  font-size: 0.92rem !important;
+  font-size: 14.5px !important;
   font-weight: 600 !important;
   line-height: 1.4 !important;
   color: var(--sc-ink) !important;
@@ -248,7 +248,7 @@ body { top: 0px !important; position: static !important; }
   border-bottom: 2px solid transparent !important;
   padding: 2px 0 3px 0 !important;
   font-family: "Space Grotesk", sans-serif !important;
-  font-size: 0.84rem !important;
+  font-size: 13.5px !important;
   font-weight: 600 !important;
   text-transform: lowercase !important;
   color: var(--sc-muted) !important;
@@ -278,53 +278,3 @@ body.sc-nav-folded .sc-lang-bar,
 }
 @media print { .sc-lang-bar { display: none !important; } }
 /* === SC_HEADER_TRANSLATOR_END === */
-
-/* === STRICT PIXEL LOCK FOR NAVIGATOR (ZERO JITTER ACROSS ALL PAGES) === */
-:root {
-  --sc-nav-w: 236px !important;
-  --sc-nav-folded-w: 64px !important;
-}
-html {
-  font-size: 16px !important;
-}
-body.sc-nav-open {
-  padding-left: 236px !important;
-}
-body.sc-nav-folded {
-  padding-left: 64px !important;
-}
-@media (max-width: 768px) {
-  body.sc-nav-open,
-  body.sc-nav-folded {
-    padding-left: 64px !important;
-  }
-}
-main, .sc-doc, .sc-auto-page, .sc-test02-main {
-  opacity: 1 !important;
-  transform: none !important;
-  transition: none !important;
-}
-#sc-left-nav {
-  width: 236px !important;
-  font-size: 14.5px !important;
-  transition: width 0.24s cubic-bezier(0.22, 1, 0.36, 1) !important;
-}
-body.sc-nav-folded #sc-left-nav {
-  width: 64px !important;
-}
-#sc-left-nav .sc-brand-link,
-#sc-left-nav .sc-brand-full {
-  font-family: 'Space Grotesk', sans-serif !important;
-  font-size: 15.5px !important;
-  font-weight: 700 !important;
-  letter-spacing: -0.02em !important;
-}
-#sc-left-nav .sc-l1-link,
-#sc-left-nav .sc-l2-link,
-#sc-left-nav .sc-l3-link {
-  font-family: 'Space Grotesk', sans-serif !important;
-  font-size: 14.5px !important;
-  font-weight: 600 !important;
-  line-height: 20px !important;
-  padding: 5px 9px !important;
-}

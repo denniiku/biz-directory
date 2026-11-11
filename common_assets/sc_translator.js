@@ -7,7 +7,7 @@
   }
   var p=location.pathname.replace(/\\/g,"/"), b="/common_assets/";
   if(location.protocol==="file:"){var idx=p.toLowerCase().indexOf("/sc_web/");b=idx!==-1?"file://"+p.substring(0,idx+8)+"common_assets/":"./common_assets/";}
-  var ds=document.createElement("script"); ds.src=b+"sc_translations.js?v="+Date.now(); document.head.appendChild(ds);
+  var ds=document.createElement("script"); ds.src=b+"sc_translations.js"; document.head.appendChild(ds);
 
   function normKey(s){
     return (s||"").toLowerCase().replace(/[^a-z0-9]+/g,"");

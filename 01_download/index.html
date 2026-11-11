@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=block" rel="stylesheet">
   <title>*sc | download — biz-directory - download</title>
   <meta name="description" content="Official *sc (sistar company) download center for web apps, corporate brochures, and product catalogs." />
   <script type="application/ld+json">
@@ -29,7 +30,7 @@
         base = i !== -1 ? "file://" + p.substring(0, i + 8) + "common_assets/" : "./common_assets/";
       }
       document.write("<link rel=\"stylesheet\" href=\"" + base + "common_new.css\">");
-      var s = document.createElement("script"); s.src = base + "nav_new.js"; s.defer = true; document.head.appendChild(s);
+      document.write("<script src=\"" + base + "nav_new.js\" defer><\/script><script src=\"" + base + "sc_translator.js\" defer><\/script>");
     })();
   </script>
   <style>
