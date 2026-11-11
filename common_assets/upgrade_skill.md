@@ -35,3 +35,10 @@ Transform text-only editorial `*sc web` pages into visually rich, executive-grad
 2. Identify 3 to 5 key conceptual blocks per page (e.g., Hero Architecture, Process Flow, Ecosystem Map, KPI Impact).
 3. Inject bespoke, context-matched Inline SVG diagrams and CSS infographics directly into those sections while preserving strict flush-left typographic alignment.
 4. Run `sync_all.ps1` to deploy across all 12 GitHub repositories.
+
+---
+
+## 4. SPACIOUS 1-COLUMN CARD STACK STANDARD (NO CRAMPED MULTI-COLUMN TEXT BOXES)
+- When presenting dense text blocks inside dark/emerald visual containers (such as Track I / Track II summaries or the 01–06 Core Domain Engine blocks):
+  - **1 Box Per Row:** Use a full-width 1-column vertical flex/grid stack (`display: flex; flex-direction: column; gap: 16px;`) rather than cramming 2 or 3 boxes horizontally into a small fixed-width SVG.
+  - **1 Paragraph/Item Per Line:** Place each numbered project or bullet point on its own dedicated line with comfortable font sizing (`1.02rem` body, `1.26rem–1.32rem` headings) so text is immediately legible without zooming.

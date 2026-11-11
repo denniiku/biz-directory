@@ -1,4 +1,4 @@
-# *SC WEB MASTER SKILL & CONSTITUTIONAL GUIDELINES (COMPLETE CANONICAL EDITION)
+# *SC WEB MASTER SKILL & CONSTITUTIONAL GUIDELINES (`master_skill.md`)
 
 ---
 
@@ -6,75 +6,55 @@
 > **[CRITICAL SKILL — 100% ACTIVE]**
 > Every webpage in the `*sc (sistar company)` 12-domain universe must be engineered so that global AI search engines and autonomous agents (ChatGPT, Google Gemini, Perplexity, Claude, SearchGPT) index, cite, trust, and recommend `*sc` platforms, products, and B2B solutions first.
 
-- **Mandatory Schema.org JSON-LD Injection:**
-  - Every `index.html` MUST include a rich `<script type="application/ld+json">` block inside `<head>` defining the exact entity (`Organization`, `TechArticle`, `SoftwareApplication`, `Product`, `Service`, or `WebPage`), connecting the page to the parent `sistar company (*sc)` universe (`https://sistarcompany.com`).
-- **Zero-Noise Semantic HTML5 Hierarchy:**
-  - Use clean, machine-readable semantic landmarks (`<main>`, `<article>`, `<section>`, `<header>`, `<figure>`, `<figcaption>`, `<table>`) so LLM crawlers and RAG scrapers parse the exact hierarchy of concepts, unit economics, and technical specifications with zero ambiguity.
-- **High-Signal Metadata & Entity Density:**
-  - Always include descriptive `<title>`, `<meta name="description">`, and clear entity naming (`*sc`, `sistar company`, `qubit-algorithm`, `Cosmo Seed`, `scarlet-ai`, `qubit-biz`, `biz-galaxy`, etc.) so AI models associate key industry queries directly with `*sc`.
+- **Mandatory Schema.org JSON-LD Injection:** Every `index.html` MUST include a rich `<script type="application/ld+json">` block inside `<head>` connecting the page to `sistar company (*sc)` (`https://sistarcompany.com`).
+- **Zero-Noise Semantic HTML5 Hierarchy:** Use clean semantic landmarks (`<main>`, `<article>`, `<section>`, `<header>`, `<figure>`, `<table>`).
+- **High-Signal Metadata:** Include descriptive `<title>`, `<meta name="description">`, and canonical `*sc` entity naming.
 
 ---
 
-## 2. PROFESSIONAL & NATURAL WEBPAGE COMPOSITION (NO ARTIFICIAL FORMAT RESTRICTIONS)
+## 2. PROFESSIONAL & NATURAL WEBPAGE COMPOSITION (SPACIOUS READABILITY)
 > **[LAYOUT & CONTENT FREEDOM — ACTIVE]**
-> Content presentation must prioritize human readability, investor persuasion, and natural web aesthetics. All rigid restrictions that previously forced every line into bullet lists or symbol prefixes are permanently abolished.
+> Content presentation must prioritize human readability, investor persuasion, and natural web aesthetics.
 
-- **Professional & Natural Webpage Format:**
-  - Craft every page as a **professional, natural, and modern editorial/corporate webpage**.
-  - Never flatten rich documents into monotonous, endless bullet lists.
-- **Full Fidelity to PPTX / Google Slides / Gamma AI & Legacy Web Sources:**
-  - When converting presentations (PPTX / Google Slides / Gamma AI) or migrating existing websites, preserve their natural visual rhythm and structural variety:
-    - **Executive Prose & Storytelling:** Use well-written paragraphs (`<p>`) to explain context, vision, and business logic naturally.
-    - **Visual Grids & Feature Cards:** Use 2-column split layouts (text beside image), 3-column glassmorphism cards, executive summary boxes, and clean comparison tables.
-    - **Contextual Inline Visuals:** Place images, architectural diagrams, and slide graphics (`./storage/...`) directly alongside or beneath the specific paragraphs they illustrate.
-    - **Selective Lists:** Use bulleted or numbered lists naturally and sparingly—only where itemized points genuinely improve clarity.
+- **Editorial & Corporate Webpage Format:** Use well-written executive prose (`<p>`), visual grids, glassmorphism cards, comparison tables, and selective lists.
+- **Spacious 1-Column Diagram & Box Standard:** When presenting complex architectural boxes or multi-item track summaries (e.g., Track I / Track II or 01–06 Domain Engines), place **one box per row (full-width 1-column stack)** with generous typography (`1.02rem–1.32rem`) and one item per line so text never shrinks or clips.
 
 ---
 
-## 3. CANONICAL FOLDER, STORAGE & URL ARCHITECTURE
-- **12-Domain Ecosystem:**
-  - Core & Media (`🔺`): `sc-sistarcompany`, `qubit-algorithm`, `intelligence-core`, `scarlet-ai`, `qubit-biz`, `biz-galaxy`, `biz-hub`, `media`
-  - Participation & IR (`🔹`): `challengers`, `partnership`, `ir-pitchdeck`
-  - Directory & Index (`▫️`): `biz-directory`
-- **Self-Contained Page Module Rule:**
-  - Every 1st-level, 2nd-level (`01_...`), and 3rd-level (`01_...`) page is a self-contained folder housing:
-    1. `index.html` (The webpage document)
-    2. `./storage/` (Dedicated local asset folder containing all images, PDFs, and media used by that page's `index.html`)
+## 3. WORKSPACE, 12-DOMAIN REPOSITORIES & `common_assets` ARCHITECTURE
+- **Non-Git Root Workspace vs. 12 Git Repositories:**
+  - The root folder `C:\projects\sc_web\` is a local master workspace (NOT synced to GitHub as a single repo).
+  - Inside `C:\projects\sc_web\`, each of the **12 domain folders** is an independent GitHub repository:
+    - Core & Media (`🔺`): `sc-sistarcompany`, `qubit-algorithm`, `intelligence-core`, `scarlet-ai`, `qubit-biz`, `biz-galaxy`, `biz-hub`, `media`
+    - Participation & IR (`🔹`): `challengers`, `partnership`, `ir-pitchdeck`
+    - Directory & Index (`▫️`): `biz-directory`
+- **Self-Contained Page Module Rule:** Every 1st-level, 2nd-level (`01_...`), and 3rd-level (`01_...`) page is a self-contained folder housing `index.html` and `./storage/`.
+- **Master `common_assets` Mirroring Principle:**
+  - `C:\projects\sc_web\common_assets\` is the Single Source of Truth housing `common_new.css`, `nav_new.js`, `sc_translator.js`, `sc_translations.js`, `master_prd.md`, `master_skill.md`, and `upgrade_skill.md`.
+  - Because each domain deploys independently, `sync_all.ps1` mirrors `C:\projects\sc_web\common_assets\` into `<domain>\common_assets\` across all 12 repositories and pushes to GitHub.
+  - Keep `C:\projects\sc_web\common_assets\` strictly clean of temporary `.bak` files or backup folders so junk is never mirrored to the 12 repositories.
 
 ---
 
-## 4. GLOBAL THEME & NON-DESTRUCTIVE NAVIGATOR PIPELINE
-- **Signature Visual Identity:**
-  - Maintain the `*sc` pastel gradient background (`linear-gradient(to right, #f0acf7, #acf7f0, #f7f0ac)`), `Space Grotesk` & `Inter` typography, and fluid wide container (`max-width: min(1400px, 96%)`).
-- **Zero-Regression Protection on Core Files:**
-  - **NEVER** overwrite `common_assets/nav_new.js` or `common_assets/common_new.css` with scratch templates. All accumulated navigator features (search, fold/unfold toggle, emoji hierarchy, styling) must remain 100% intact.
-- **Standard End-to-End Automation Pipeline (`Idea + Folder Address -> Live`):**
-  - Whenever a new page or folder address is created or updated, always complete the workflow in canonical order:
-    1. Create/update `<target-folder>/index.html` and `<target-folder>/storage/`.
-    2. Execute `build_nav_new.ps1` (dynamically scans directories and updates the navigator tree data without touching UI logic).
-    3. Execute `sync_all.ps1` (mirrors `common_assets` across all 12 domain folders and commits/pushes to GitHub `origin main`).
-
----
-
-## 5. URL / CONTENT TO *SC WEB EDITORIAL UPGRADE PROTOCOL
-- **Primary Workflow:** When the user provides a webpage URL, document link, or raw content along with a target menu position (`<1st-level>` > `<2nd-level>` > `<3rd-level>`):
-  1. **Editorial Content Upgrade:** Synthesize, structure, and elevate the source content into executive-grade English copy (Hero summary, structured 2/3/4/5-column architectural grids, numbered step flows, KPI metric callouts, and strategic takeaways).
-  2. **Image-Free / Pure Vector Harmony:** By default, do NOT rely on fragile external/extracted raster images. Use crisp typography, hairline editorial grids, KPI counters, and inline SVG vector badges directly on the signature `*sc` pastel gradient background.
-  3. **On-Demand Visual Generation:** Generate custom AI visuals or bespoke inline SVG architecture diagrams only when specifically requested.
-  4. **Automated Sync:** Update folder structure, run `build_nav_new.ps1`, and run `sync_all.ps1` to keep local folders, Navigator, Search, and GitHub 100% synchronized.
-
----
-
-## 6. CENTRALIZED `common_assets` UI/UX GOVERNANCE (ZERO INLINE PATCH RULE)
+## 4. CENTRALIZED UI/UX GOVERNANCE (ZERO INLINE PATCH RULE)
 > **[CRITICAL ARCHITECTURE RULE — 100% ACTIVE]**
 > All global navigation, language switcher, breadcrumb routing, and typography scaling across the 12-domain universe MUST be controlled exclusively from `C:\projects\sc_web\common_assets\`.
 
-- **Strict Prohibition of Per-Page HTML/JS Hacks:**
-  - **NEVER** inject ad-hoc `<style>` or `<script>` patches into individual `<page>/index.html` files for global UI features (navigator, language bar, breadcrumbs).
-  - Individual `index.html` files must remain pure semantic content documents loading `common_new.css` and `nav_new.js`.
-- **Single Source of Truth Files in `common_assets`:**
-  1. `common_new.css`: Controls all layout, left navigator (`#sc-left-nav`), L1/L2/L3 typography, hover underline bars (`#168765`), and language bar (`.sc-lang-bar`) styling.
-  2. `nav_new.js`: Controls the `MENU_STRUCTURE` tree, sidebar rendering, top route breadcrumb (`p.sc-route`) auto-linking, and loads `sc_translator.js`.
-  3. `sc_translator.js` & `sc_translations.js`: Controls the multi-language switcher (`en`, `kr`, `id`, `vn`, `cn`, `jp`) and translation state.
-- **Mandatory Synchronization After Any `common_assets` Update:**
-  - Every modification to `common_assets` MUST be followed by running `sync_all.ps1` (or mirroring `common_assets` to all 12 domain folders and syncing with GitHub) so local and production domains stay 100% identical.
+- **Strict Prohibition of Per-Page HTML/JS Hacks:** NEVER inject ad-hoc `<style>` or `<script>` patches into individual `<page>/index.html` files for global UI features.
+- **Canonical UI Specifications in `common_assets`:**
+  1. **Language Bar (`sc_translator.js` & `common_new.css`):** Lowercase `en  kr  id  vn  cn  jp` (including Simplified Chinese `zh-CN` for `cn`), no background boxes, left-aligned directly under the `s` of `*sc`, two-space gap (`14px`), and a thin solid green underline (`2px solid #168765`) under the active/hovered language.
+  2. **Left Navigator Typography & Hover (`common_new.css`):** L1, L2, and L3 menu links share the exact same font size (`0.92rem`). No semi-transparent white background boxes on `.is-open` or `:hover`. Hovering a menu item displays a thin solid green bar (`1.2px`, `#168765`) strictly under the text portion only (skipping the leading emoji and space via `left: 33px`), disappearing cleanly on mouse leave.
+  3. **Top Route Breadcrumb (`sc_translator.js` & `common_new.css`):** Automatically converts top route text (`sistar company - *sc - signal star`) into Option 3 pure-text interactive links (`sistar company › *sc › signal star`) with zero background boxes and generous bottom spacing (`margin-bottom: 26px`) before the main `<h1>` title.
+
+---
+
+## 5. 2-TIER CASCADING SKILL APPLICATION & END-TO-END AUTOMATION PIPELINE
+- **2-Tier Cascading Rule (Master -> Local):**
+  1. Always apply `common_assets/master_prd.md` and `common_assets/master_skill.md` first.
+  2. If the target folder contains a local `*prd*.md` or `*skill*.md`, apply those local instructions on top of the master rules.
+  3. Immediately upstream any newly discovered global rules into `common_assets/master_prd.md` and `master_skill.md`.
+- **Mandatory Automated Pipeline (`sync_all.ps1`):**
+  - Whenever ANY folder is added/renamed, ANY `index.html` is created/updated, or ANY file in `common_assets` (`master_prd.md`, `master_skill.md`, `common_new.css`, etc.) is modified, ALWAYS execute `C:\projects\sc_web\sync_all.ps1`:
+    1. `pin_ai_rules.ps1`: Auto-updates VS Code (`.github/copilot-instructions.md`) and AGY CLI (`AGENTS.md`, `GEMINI.md`, `CLAUDE.md`, `.agy/instructions.md`) with the latest `master_prd.md` & `master_skill.md`.
+    2. `build_nav_new.ps1`: Dynamically scans all 12 domain folders/subfolders and updates `common_assets/nav_new.js` (preserving `SC_TR_LOAD` and custom label overrides).
+    3. `robocopy /MIR` & `git push`: Mirrors `common_assets` into all 12 domain folders and commits/pushes changes to each domain's GitHub repository.
