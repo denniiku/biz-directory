@@ -278,3 +278,53 @@ body.sc-nav-folded .sc-lang-bar,
 }
 @media print { .sc-lang-bar { display: none !important; } }
 /* === SC_HEADER_TRANSLATOR_END === */
+
+/* === STRICT PIXEL LOCK FOR NAVIGATOR (ZERO JITTER ACROSS ALL PAGES) === */
+:root {
+  --sc-nav-w: 236px !important;
+  --sc-nav-folded-w: 64px !important;
+}
+html {
+  font-size: 16px !important;
+}
+body.sc-nav-open {
+  padding-left: 236px !important;
+}
+body.sc-nav-folded {
+  padding-left: 64px !important;
+}
+@media (max-width: 768px) {
+  body.sc-nav-open,
+  body.sc-nav-folded {
+    padding-left: 64px !important;
+  }
+}
+main, .sc-doc, .sc-auto-page, .sc-test02-main {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+#sc-left-nav {
+  width: 236px !important;
+  font-size: 14.5px !important;
+  transition: width 0.24s cubic-bezier(0.22, 1, 0.36, 1) !important;
+}
+body.sc-nav-folded #sc-left-nav {
+  width: 64px !important;
+}
+#sc-left-nav .sc-brand-link,
+#sc-left-nav .sc-brand-full {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 15.5px !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+}
+#sc-left-nav .sc-l1-link,
+#sc-left-nav .sc-l2-link,
+#sc-left-nav .sc-l3-link {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 14.5px !important;
+  font-weight: 600 !important;
+  line-height: 20px !important;
+  padding: 5px 9px !important;
+}

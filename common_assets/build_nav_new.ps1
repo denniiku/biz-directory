@@ -17,7 +17,7 @@ $orderedDomains = @(
     @{ repo = "media";             label = "\uD83D\uDD3A media" }
 )
 
-$ignoreDirs = @(".git", "common_assets", "mgt", "mgnt", "common_assets_web", "storage", "varients", "reverse_engineering", "legacy_staging", "node_modules")
+$ignoreDirs = @(".git", "common_assets", "common_assets_web", "storage", "varients", "reverse_engineering", "legacy_staging", "node_modules")
 
 function Format-MenuTitle($folderName, $prefixIcon) {
     $clean = $folderName -replace '^\d+[_-]', ''
@@ -226,14 +226,13 @@ $navNewJs = @"
           sessionStorage.setItem('sc_nav_scroll', document.getElementById('sc-nav-scroll').scrollTop);
         } catch(err) {}
 
-        document.body.classList.add('sc-page-leaving');
-        setTimeout(() => { window.location.href = targetUrl; }, 180);
+        window.location.href = targetUrl;
       });
     });
 
     // Desktop Hover Timers (Disabled on touch devices so submenus never auto-close or conflict)
-    const OPEN_DELAY = 480;
-    const CLOSE_DELAY = 420;
+    const OPEN_DELAY = 140;
+    const CLOSE_DELAY = 260;
     let l1OpenTimer = null, l1CloseTimer = null;
 
     l1Items.forEach(item => {
@@ -263,7 +262,7 @@ $navNewJs = @"
         l2OpenTimer = setTimeout(() => {
           item.parentElement.querySelectorAll('.sc-l2-item').forEach(sib => { if (sib !== item) sib.classList.remove('is-open'); });
           item.classList.add('is-open');
-        }, 380);
+        }, 120);
       });
       item.addEventListener('mouseleave', () => {
         if (isTouchDevice()) return;
@@ -387,4 +386,17 @@ if (Test-Path $navJsFile) {
     $nj = $nj.Replace('"rewards spirits & community"', '"rewards, spirits & community"')
     $nj = $nj.Replace('"the sistar herald & kpop hunters"', '"the sistar herald & k-pop hunters"')
     [System.IO.File]::WriteAllText($navJsFile, $nj, [System.Text.UTF8Encoding]::new($false))
+}
+
+# Ensure SC_TR_LOAD translator loader is embedded before copying to domains
+$trLoaderLine = '/* SC_TR_LOAD */(function(){try{var p=location.pathname.replace(/\\/g,"/"),b="/common_assets/";if(location.protocol==="file:"){var i=p.toLowerCase().indexOf("/sc_web/");b=i!==-1?"file://"+p.substring(0,i+8)+"common_assets/":"./common_assets/";}var s=document.createElement("script");s.src=b+"sc_translator.js";s.defer=true;document.head.appendChild(s);}catch(e){}})();'
+$currNav = [System.IO.File]::ReadAllText("$masterCommon\nav_new.js", $utf8)
+if ($currNav -notmatch 'SC_TR_LOAD') {
+    [System.IO.File]::WriteAllText("$masterCommon\nav_new.js", $currNav.TrimEnd() + "`r`n" + $trLoaderLine + "`r`n", $utf8)
+}
+foreach ($d in $orderedDomains) {
+    $dCommon = Join-Path $root "$($d.repo)\common_assets"
+    if (Test-Path $dCommon) {
+        Copy-Item -Path "$masterCommon\nav_new.js" -Destination "$dCommon\nav_new.js" -Force
+    }
 }

@@ -1,8 +1,8 @@
 # MANDATORY *SC WEB SYSTEM CONSTITUTION (AUTO-PINNED FROM common_assets)
 > [100% STRICT ENFORCEMENT FOR AGY CLI & VS CODE COPILOT]
 > 1. 2-Tier Cascading Rule: Always obey common_assets/master_prd.md and common_assets/master_skill.md first (Base Layer), then layer any local folder *prd*.md or *skill*.md on top.
-> 2. Centralized common_assets Governance: NEVER inject ad-hoc <style> or <script> blocks into individual <page>/index.html files for global UI. Edit global UI ONLY in C:\projects\sc_web\common_assets\.
-> 3. Mandatory Sync: After any folder, HTML, or common_assets modification, ALWAYS run C:\projects\sc_web\common_assets\sync_all.ps1 (or sc-sync).
+> 2. Centralized common_assets Governance: NEVER inject ad-hoc <style> or <script> blocks into individual <page>/index.html files for global UI.
+> 3. Mandatory Sync: After any folder, HTML, or common_assets modification in the 12 public domains, run sc-sync.
 
 ---
 
