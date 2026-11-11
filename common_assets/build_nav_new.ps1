@@ -17,7 +17,7 @@ $orderedDomains = @(
     @{ repo = "media";             label = "\uD83D\uDD3A media" }
 )
 
-$ignoreDirs = @(".git", "common_assets", "common_assets_web", "storage", "varients", "reverse_engineering", "legacy_staging", "node_modules")
+$ignoreDirs = @(".git", "common_assets", "mgt", "mgnt", "common_assets_web", "storage", "varients", "reverse_engineering", "legacy_staging", "node_modules")
 
 function Format-MenuTitle($folderName, $prefixIcon) {
     $clean = $folderName -replace '^\d+[_-]', ''
