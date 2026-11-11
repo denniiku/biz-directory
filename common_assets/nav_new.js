@@ -69,8 +69,7 @@
         const savedScroll = sessionStorage.getItem('sc_nav_scroll');
         if (savedRepo) {
           const activeL1 = nav.querySelector('.sc-l1-item[data-repo="' + savedRepo + '"]');
-          if (activeL1) {
-            activeL1.classList.add('is-open');
+          if (activeL1 && activeL1.querySelector('.sc-l2-item')) { activeL1.classList.add('is-open');
             if (savedL2) {
               const activeL2 = activeL1.querySelector('.sc-l2-item[data-l2="' + savedL2 + '"]');
               if (activeL2) activeL2.classList.add('is-open');
@@ -152,8 +151,7 @@
         clearTimeout(l1CloseTimer); clearTimeout(l1OpenTimer);
         l1OpenTimer = setTimeout(() => {
           l1Items.forEach(o => { if (o !== item) { o.classList.remove('is-open'); o.querySelectorAll('.sc-l2-item.is-open').forEach(s => s.classList.remove('is-open')); } });
-          item.classList.add('is-open');
-        }, OPEN_DELAY);
+          if (item.querySelector('.sc-l2-item')) item.classList.add('is-open'); }, OPEN_DELAY);
       });
       item.addEventListener('mouseleave', () => {
         if (isTouchDevice()) return;

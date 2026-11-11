@@ -217,7 +217,7 @@
         if(sRect&&sRect.width>0&&navRect){
           var exactLeft=Math.round(sRect.left-navRect.left);
           if(exactLeft>5&&exactLeft<60){
-            bar.style.setProperty("padding-left",exactLeft+"px","important");
+            bar.style.setProperty("padding-left", "20px", "important");
           }
         }
       }

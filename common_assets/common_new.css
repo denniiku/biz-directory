@@ -278,3 +278,31 @@ body.sc-nav-folded .sc-lang-bar,
 }
 @media print { .sc-lang-bar { display: none !important; } }
 /* === SC_HEADER_TRANSLATOR_END === */
+/* === ZERO MICRO-SHIFT FIX (PREVENT EMPTY SUBMENU 6PX GAP & FONT JITTER) === */
+.sc-l2-inner:empty,
+.sc-l3-inner:empty,
+.sc-l1-item.is-open > .sc-l2-wrap > .sc-l2-inner:empty {
+  padding: 0 !important;
+  margin: 0 !important;
+  height: 0 !important;
+  min-height: 0 !important;
+  border: none !important;
+}
+#sc-left-nav .sc-l1-link.is-current,
+#sc-left-nav .sc-l2-link.is-current,
+#sc-left-nav .sc-l3-link.is-current {
+  font-weight: 600 !important;
+  color: var(--sc-ink) !important;
+}
+#sc-left-nav .sc-l1-link.is-current::after,
+#sc-left-nav .sc-l2-link.is-current::after,
+#sc-left-nav .sc-l3-link.is-current::after {
+  opacity: 1 !important;
+}
+#sc-left-nav #sc-lang-bar,
+#sc-left-nav .sc-lang-bar {
+  padding: 0 12px 8px 20px !important;
+  margin: 0 0 4px 0 !important;
+  height: 26px !important;
+  box-sizing: border-box !important;
+}
