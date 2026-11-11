@@ -113,7 +113,7 @@
     }
     .bd-row {
       display: grid; min-width: 720px;
-      grid-template-columns: 38px 95px 165px 220px minmax(220px, 1fr); min-width: 760px;
+      grid-template-columns: 36px minmax(68px, 0.7fr) minmax(95px, 1.1fr) minmax(120px, 1.4fr) minmax(150px, 1.8fr);
       align-items: center; gap: 12px;
       padding: 11px 16px;
       border-bottom: 1px solid rgba(157, 178, 191, 0.28);
@@ -279,7 +279,59 @@
     .bd-inq-send { width: 100%; justify-content: center; padding: 10px 16px; font-size: 0.85rem; }
 
     @media (max-width: 768px) {
-      .bd-filter-bar { flex-wrap: wrap; }
+        .bd-filter-bar { flex-wrap: wrap; }
+        .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
+        .bd-search-wrap { flex: 1 1 100%; }
+        .bd-bar-btn-size { flex: 1 1 calc(50% - 6px); justify-content: center; }
+
+        /* 헤더는 첫 칸(전체선택 체크박스)과 안내 라벨만 심플하게 표시 */
+        .bd-row-head {
+          grid-template-columns: 32px 1fr;
+          padding: 10px 12px;
+        }
+        .bd-row-head > div:nth-child(2)::before {
+          content: "company / country • industry • category";
+        }
+        .bd-row-head > div:nth-child(2) {
+          font-size: 0.72rem;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        .bd-row-head > div:nth-child(n+3) {
+          display: none;
+        }
+
+        /* 데이터 행: 가로 스크롤 없이 윗줄에 [체크박스 + 회사명], 아랫줄에 [국가 + 산업 + 제품카테고리] 모두 표시 */
+        .bd-row-item {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 6px 8px;
+          padding: 12px 12px;
+        }
+        .bd-row-item > .bd-chk-cell {
+          order: 1;
+          width: 24px;
+        }
+        .bd-row-item > .bd-cname {
+          order: 2;
+          width: calc(100% - 34px);
+          font-size: 0.9rem;
+          line-height: 1.3;
+          word-break: keep-all;
+          overflow-wrap: break-word;
+        }
+        .bd-row-item > div:nth-child(2),
+        .bd-row-item > div:nth-child(3),
+        .bd-row-item > .bd-col-pcat {
+          order: 3;
+          display: inline-flex;
+        }
+        .bd-row-item > div:nth-child(2) {
+          margin-left: 32px;
+        }
+      }
       .bd-select { flex: 1 1 calc(50% - 6px); min-width: 120px; }
       .bd-search-wrap { flex: 1 1 100%; }
       .bd-bar-btn-size { flex: 1 1 calc(50% - 6px); justify-content: center; }
