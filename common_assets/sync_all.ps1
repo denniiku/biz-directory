@@ -87,11 +87,12 @@ foreach ($d in $domainDirs) {
 
     Push-Location $d.FullName
     git config core.autocrlf false
+    git config gc.auto 0
     git add -A
     $status = git status --porcelain
     if ($status) {
         git commit -m "Consolidate upgrade_skill into master_skill.md & sync clean common_assets" | Out-Null
-        git push | Out-Null
+        git push -u origin main | Out-Null
         Write-Host "  [SYNCED & PUSHED] $($d.Name)" -ForegroundColor Green
     } else {
         Write-Host "  [UP-TO-DATE]      $($d.Name)" -ForegroundColor Cyan
