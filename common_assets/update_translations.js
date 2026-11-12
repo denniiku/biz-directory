@@ -1,257 +1,198 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const API_KEY = process.env.GEMINI_API_KEY;
-if (!API_KEY) {
-  console.error("  [ERROR] GEMINI_API_KEY environment variable is missing!");
-  process.exit(1);
-}
+const ROOT = path.resolve(__dirname, "..");
+const API_KEY = process.env.GEMINI_API_KEY || "";
+const MODEL = "gemini-2.5-flash";
 
-const mode = process.argv[2] || "sc_web";
-const rootDir = "C:\\projects\\sc_web";
-const LANGS = ["ko", "id", "vi", "zh-CN", "ja"];
+const PUBLIC_DOMAINS = [
+  "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
+  "qubit-biz","biz-galaxy","biz-hub","challengers",
+  "partnership","ir-pitchdeck","biz-directory","media"
+];
 
-const targetDirs = mode === "mgnt"
-  ? [path.join(rootDir, "mgnt")]
-  : [
-      "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
-      "qubit-biz","biz-galaxy","biz-hub","challengers",
-      "partnership","ir-pitchdeck","biz-directory","media"
-    ].map(d => path.join(rootDir, d));
-
-const dictFile = mode === "mgnt"
-  ? path.join(rootDir, "mgnt", "common_assets", "sc_translations.js")
-  : path.join(rootDir, "common_assets", "sc_translations.js");
-
-function decodeEntities(str) {
+function normalizeKey(str) {
+  if (!str) return "";
   return str
-    .replace(/<br\s*\/?>/gi, " ")
+    .replace(/<!--[\s\S]*?-->/g, " ")
     .replace(/<[^>]+>/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&rsquo;/g, "\u2019")
-    .replace(/&lsquo;/g, "\u2018")
-    .replace(/&rdquo;/g, "\u201D")
-    .replace(/&ldquo;/g, "\u201C")
-    .replace(/&mdash;/g, "\u2014")
-    .replace(/&ndash;/g, "\u2013")
-    .replace(/&trade;/g, "\u2122")
-    .replace(/&times;/g, "\u00D7")
-    .replace(/&rarr;/g, "\u2192")
-    .replace(/&rsaquo;/g, "\u203A")
-    .replace(/&nbsp;/g, " ")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&rarr;/gi, "→")
+    .replace(/&larr;/gi, "←")
+    .replace(/&bull;/gi, "•")
+    .replace(/&mdash;/gi, "—")
+    .replace(/&ndash;/gi, "–")
+    .replace(/&rsquo;/gi, "'")
+    .replace(/&lsquo;/gi, "'")
+    .replace(/&ldquo;/gi, '"')
+    .replace(/&rdquo;/gi, '"')
+    .replace(/&trade;/gi, "™")
+    .replace(/&times;/gi, "×")
+    .replace(/&#[0-9]+;/g, " ")
+    .replace(/&[a-zA-Z0-9]+;/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-function extractTranslatableStrings(html) {
-  const found = new Set();
-  const mainMatch = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
-  const content = mainMatch ? mainMatch[1] : html;
-
-  // 1) Extract standard leaf text tags (never swallowed by outer divs)
-  const leafRx = /<(p|li|td|th|blockquote|dd|dt|h2|h3|h4)\b([^>]*)>([\s\S]*?)<\/\1>/gi;
-  let m;
-  while ((m = leafRx.exec(content)) !== null) {
-    const attrs = m[2] || "";
-    const inner = m[3] || "";
-    if (/sc-(route|eyebrow|bc-wrap|kicker|tag|num-label|num|stat-big|kpi-val|phrase-pill|test02-h1|main-title|top-bar|math|code)|notranslate/i.test(attrs)) continue;
-    if (/<(p|ul|ol|table)\b/i.test(inner)) continue;
-    const clean = decodeEntities(inner);
-    if (clean.length >= 2 && /[a-zA-Z]{2,}/.test(clean)) found.add(clean);
-  }
-
-  // 2) Extract special leaf divs (e.g. .sc-callout, .sc-lead, .sc-sub, etc.) that do not contain child blocks
-  const divRx = /<div\b([^>]*)>([\s\S]*?)<\/div>/gi;
-  while ((m = divRx.exec(content)) !== null) {
-    const attrs = m[1] || "";
-    const inner = m[2] || "";
-    if (!/sc-(callout|lead|sub|test02-sub|sec-body|sec-title|h2|h3)\b/i.test(attrs)) continue;
-    if (/sc-(route|eyebrow|bc-wrap|kicker|tag|num-label|num|stat-big|kpi-val|phrase-pill|test02-h1|main-title|top-bar|math|code)|notranslate/i.test(attrs)) continue;
-    if (/<(p|ul|ol|table|div)\b/i.test(inner)) continue;
-    const clean = decodeEntities(inner);
-    if (clean.length >= 2 && /[a-zA-Z]{2,}/.test(clean)) found.add(clean);
-  }
-
-  return Array.from(found);
+function shouldTranslateBlock(text) {
+  if (!text || text.length < 2) return false;
+  if (text.length > 3500) return false; // Allow long institutional paragraphs up to 3,500 chars!
+  if (!/[a-zA-Z]{2,}/.test(text)) return false;
+  if (/^(https?:\/\/|www\.|[0-9.\s%$+\-/,~:;|•→←—–]+)$/i.test(text)) return false;
+  return true;
 }
 
-function getAllHtmlFiles(dir, fileList = []) {
-  if (!fs.existsSync(dir)) return fileList;
-  for (const item of fs.readdirSync(dir, { withFileTypes: true })) {
-    const fullPath = path.join(dir, item.name);
-    if (item.isDirectory()) {
-      if (["common_assets", ".git", ".github", "node_modules"].includes(item.name)) continue;
-      getAllHtmlFiles(fullPath, fileList);
-    } else if (item.name.toLowerCase().endsWith(".html")) {
-      fileList.push(fullPath);
+function extractTranslatableUnitsFromHtml(html) {
+  const units = new Set();
+  // Remove script, style, svg, pre, code blocks with notranslate
+  let cleaned = html
+    .replace(/<script[\s\S]*?<\/script>/gi, "")
+    .replace(/<style[\s\S]*?<\/style>/gi, "")
+    .replace(/<svg[\s\S]*?<\/svg>/gi, "")
+    .replace(/<pre[\s\S]*?<\/pre>/gi, "");
+
+  // Extract leaf/editorial blocks: h1-h6, p, li, td, th, div.sc-callout-title, div.sc-kpi-desc, div.sc-panel-kicker, span.sc-chapter-num, span.sc-chapter-tag, span.sc-phrase-pill, a.sc-btn-pdf, button.sc-btn-pdf
+  const blockRegex = /<(h[1-6]|p|li|td|th|figcaption|blockquote|a|button|span|div)(\s[^>]*)?>([\s\S]*?)<\/\1>/gi;
+  let match;
+  while ((match = blockRegex.exec(cleaned)) !== null) {
+    const attrs = match[2] || "";
+    const inner = match[3] || "";
+    if (/notranslate|translate\s*=\s*["']no["']|sc-route|sc-math-code|sc-kpi-val/i.test(attrs)) continue;
+    // Skip container divs/spans that wrap other block elements
+    if (/<(article|section|div|table|ul|ol|p|h[1-6]|svg|pre)\b/i.test(inner)) continue;
+
+    const norm = normalizeKey(inner);
+    if (shouldTranslateBlock(norm)) {
+      units.add(norm);
     }
   }
-  return fileList;
+  return Array.from(units);
 }
 
-// 1. Load existing dictionary if present
-let dict = { "ko": {}, "id": {}, "vi": {}, "zh-CN": {}, "ja": {} };
-if (fs.existsSync(dictFile)) {
+function loadDict(dictPath) {
+  if (!fs.existsSync(dictPath)) return {};
+  const raw = fs.readFileSync(dictPath, "utf8");
+  const idx = raw.indexOf("{");
+  const lastIdx = raw.lastIndexOf("}");
+  if (idx === -1 || lastIdx === -1) return {};
   try {
-    const raw = fs.readFileSync(dictFile, "utf8");
-    const jsonStr = raw.replace(/^\s*window\.SC_AI_TRANSLATIONS\s*=\s*/, "").replace(/;\s*$/, "").trim();
-    const parsed = JSON.parse(jsonStr);
-    for (const l of LANGS) {
-      if (parsed[l] && typeof parsed[l] === "object") dict[l] = parsed[l];
-    }
+    return JSON.parse(raw.substring(idx, lastIdx + 1));
   } catch (e) {
-    console.log("  - Starting with a clean dictionary object.");
+    return {};
   }
 }
 
-// 2. Scan all current HTML files
-const activeStrings = new Set();
-for (const d of targetDirs) {
-  for (const hf of getAllHtmlFiles(d)) {
-    const html = fs.readFileSync(hf, "utf8");
-    for (const s of extractTranslatableStrings(html)) {
-      activeStrings.add(s);
+function saveDict(dictPath, dictObj) {
+  const content = "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\n";
+  fs.writeFileSync(dictPath, content, "utf8");
+}
+
+async function translateBatchWithGemini(batchStrings) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
+  const systemPrompt = `You are an elite institutional financial & technical translator for *SC (SISTAR Company / Signal Star Universe).
+Translate the following JSON array of English strings into 5 target languages:
+- "ko": Korean (한국어 — 격조 높은 글로벌 VC/엔터프라이즈 비즈니스 한국어)
+- "id": Indonesian (Bahasa Indonesia — formal enterprise standard)
+- "vi": Vietnamese (Tiếng Việt — formal enterprise standard)
+- "zh-CN": Simplified Chinese (简体中文 — formal enterprise standard)
+- "ja": Japanese (日本語 — formal enterprise standard)
+
+CRITICAL TRANSLATION RULES (NEVER SKIP A PARAGRAPH!):
+1. NEVER skip or leave an entire sentence or paragraph in English! Every single item in the array MUST be fully translated into the target language's grammar and sentence structure.
+2. Keep key brand names, proprietary terms, and technical acronyms in English naturally inside the translated sentence when appropriate for context (e.g., *SC, SISTAR Company, Signal Star, Qubit Algorithm™, Cosmo Seed™, Scarlet.ai, Ms. Scarlet, Buy4Me, c.a.n., Qubit ERP, RAG, Vibe Working, SaaS, B2B, D2C, ODM, OEM, K-SURE BNPL, IATA, IADA, t=0, Rp 1,320).
+3. However, all surrounding explanations, verbs, clauses, and analytical prose MUST be completely translated so there is zero awkwardness or untranslated English paragraphs.
+4. Return ONLY a valid JSON array of objects in the exact same order, where each object has keys: "ko", "id", "vi", "zh-CN", "ja".`;
+
+  const body = {
+    contents: [{ role: "user", parts: [{ text: systemPrompt + "\n\nINPUT_ARRAY:\n" + JSON.stringify(batchStrings) }] }],
+    generationConfig: {
+      temperature: 0.15,
+      responseMimeType: "application/json"
     }
-  }
-}
+  };
 
-// 3. Prune obsolete strings & find missing strings
-for (const l of LANGS) {
-  for (const existingKey of Object.keys(dict[l])) {
-    if (!activeStrings.has(existingKey)) {
-      delete dict[l][existingKey];
-    }
-  }
-}
-
-const missing = Array.from(activeStrings).filter(s => LANGS.some(l => !dict[l][s]));
-
-console.log(`  - [${mode}] Total active sentences across web pages: ${activeStrings.size}`);
-console.log(`  - [${mode}] Already translated & up-to-date: ${activeStrings.size - missing.length}`);
-console.log(`  - [${mode}] New/Modified sentences to translate: ${missing.length}`);
-
-function saveDict() {
-  const output = "window.SC_AI_TRANSLATIONS = " + JSON.stringify(dict, null, 2) + ";\n";
-  fs.writeFileSync(dictFile, output, "utf8");
-}
-
-// Auto-discover the latest available Gemini Flash model from Google API
-async function resolveBestGeminiModel() {
-  try {
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${API_KEY}`);
-    if (res.ok) {
-      const data = await res.json();
-      const models = (data.models || [])
-        .filter(m => (m.supportedGenerationMethods || []).includes("generateContent"))
-        .map(m => m.name.replace(/^models\//, ""));
-      if (models.includes("gemini-3.8-flash")) return "gemini-3.8-flash";
-      const flash = models.find(m => /gemini-3.*flash/i.test(m)) || models.find(m => /flash/i.test(m)) || models[0];
-      if (flash) return flash;
-    }
-  } catch (e) {}
-  return "gemini-3.8-flash";
-}
-
-async function translateBatchWithGemini(batch, modelName) {
-  const numberedInput = {};
-  batch.forEach((txt, idx) => { numberedInput[String(idx)] = txt; });
-
-  const prompt = `You are the Chief Global Communications & Enterprise Strategy Translator for *SC (SISTAR Company), an AI-Native Venture Studio & Cross-Border Commerce Holding Company.
-
-Translate each English string in the input JSON object into 5 target languages:
-- "ko": Korean (C-level executive corporate tone, natural Korean enterprise & IR terminology)
-- "id": Indonesian (Polished executive corporate Indonesian used in enterprise B2B & venture capital)
-- "vi": Vietnamese (Polished executive corporate Vietnamese used in international trade & tech)
-- "zh-CN": Simplified Chinese (Polished executive corporate Simplified Chinese)
-- "ja": Japanese (Polished executive corporate Japanese / standard business Keigo)
-
-### CRITICAL TRANSLATION & QUALITY GUIDELINES:
-
-1. **STRICT PROPRIETARY GLOSSARY (NEVER TRANSLATE — KEEP EXACT ENGLISH SPELLING, PUNCTUATION & CASE):**
-   - Corporate & Universe Brands: \`*sc\`, \`*SC\`, \`SISTAR Company\`, \`SISTAR\`, \`Signal Star Universe\`, \`Signal Star\`, \`*Signal Star\`
-   - Core Engines & Domains: \`Qubit Algorithm™\`, \`qubit-algorithm\`, \`intelligence-core\`, \`scarlet-ai\`, \`qubit-biz\`, \`biz-galaxy\`, \`biz-hub\`, \`challengers\`, \`Sistar Challengers\`, \`partnership\`, \`ir-pitchdeck\`, \`biz-directory\`, \`media\`
-   - Flagship Projects & Products: \`c.a.n.\` (CRITICAL: NEVER translate "c.a.n." as "can / 할 수 있다 / dapat / có thể" — always keep exact lowercase "c.a.n."), \`ActionNote AI CEO\`, \`CEO Action Note\`, \`exo-brain\`, \`Qubit ERP\`, \`Qubit Bank\`, \`Cosmo Seed\`, \`Spark Exploder\`, \`Galaxify\`, \`Galaxifying\`, \`One Spark, Infinite Galaxifying\`, \`One Task, Multi Outcomes\`
-   - Bio-Health & Vet Verticals: \`Animal Bio-Health\`, \`Vet Specialties\`, \`SISTAR MedIX\`, \`SISPet\`, \`SISTAR Dx\`, \`SISPharm\`, \`Scarlet Vet CDSS\`, \`Vet CDSS\`, \`PetCare AI\`, \`PetFood Bank Re:D\`, \`CHD\`, \`SungBo\`, \`Michlo\`, \`Iskhan\`, \`Dazzle\`, \`Zeelice\`
-   - Platforms & Currencies: \`Shopee\`, \`Tokopedia\`, \`ASEAN\`, \`Rp\`, \`KRW\`, \`USD\`
-
-2. **CONTEXT-FIRST BUSINESS FLUENCY & NATURAL ENGLISH RETENTION:**
-   - Use authentic, high-level business and industry terminology rather than literal word-for-word dictionary translations.
-   - Do NOT force-translate English business/tech terms if translating them sounds awkward or loses precision in the target language. Keep standard English business/technical terms in English when natural (e.g., \`Full-Stack\`, \`AI Commerce\`, \`Spaceship\`, \`Venture Studio\`, \`Holding Company\`, \`B2B\`, \`D2C\`, \`SKU\`, \`CDSS\`, \`POCT\`, \`ROI\`, \`KPI\`, \`ERP\`, \`CRM\`, \`Anchor\`, \`Pipeline\`, \`Playbook\`).
-
-Return ONLY a valid JSON object matching the exact input keys ("0", "1", ...) where each value is an object containing {"ko": "...", "id": "...", "vi": "...", "zh-CN": "...", "ja": "..."}.
-
-Input JSON:
-${JSON.stringify(numberedInput, null, 2)}`;
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${API_KEY}`;
   const res = await fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.1,
-        responseMimeType: "application/json"
-      }
-    })
+    body: JSON.stringify(body)
   });
 
   if (!res.ok) {
-    const errBody = await res.text();
-    throw new Error(`HTTP ${res.status} (${modelName}): ${errBody.substring(0, 180)}`);
+    const errText = await res.text();
+    throw new Error(`HTTP ${res.status}: ${errText}`);
   }
-
   const data = await res.json();
-  const rawText = data.candidates[0].content.parts[0].text;
-  return JSON.parse(rawText);
+  const txt = data.candidates?.[0]?.content?.parts?.[0]?.text || "[]";
+  return JSON.parse(txt);
 }
 
-(async () => {
-  if (missing.length === 0) {
-    saveDict();
-    console.log("  - All translations are already 100% up-to-date!");
+async function main() {
+  const targetMode = process.argv[2] || "sc_web";
+  const isMgnt = targetMode === "mgnt";
+  const dictPath = isMgnt
+    ? path.join(ROOT, "mgnt", "common_assets", "sc_translations.js")
+    : path.join(ROOT, "common_assets", "sc_translations.js");
+
+  const dict = loadDict(dictPath);
+  const scanDirs = isMgnt
+    ? [path.join(ROOT, "mgnt")]
+    : PUBLIC_DOMAINS.map(d => path.join(ROOT, d)).filter(d => fs.existsSync(d));
+
+  const allStrings = new Set();
+  function walk(dir) {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (entry.name === "common_assets" || entry.name === "storage" || entry.name === ".git" || entry.name === "node_modules") continue;
+        walk(full);
+      } else if (entry.isFile() && entry.name.toLowerCase() === "index.html") {
+        const html = fs.readFileSync(full, "utf8");
+        for (const s of extractTranslatableUnitsFromHtml(html)) {
+          allStrings.add(s);
+        }
+      }
+    }
+  }
+  scanDirs.forEach(walk);
+
+  // Identify missing OR previously untranslated (where ko === english key) strings
+  const missing = [];
+  for (const s of allStrings) {
+    const existing = dict[s];
+    if (!existing || !existing["ko"] || (s.length > 25 && existing["ko"] === s)) {
+      missing.push(s);
+    }
+  }
+
+  console.log(`[Translation Scan (${targetMode})] Total unique blocks: ${allStrings.size} | New/Untranslated blocks to process: ${missing.length}`);
+  if (missing.length === 0 || !API_KEY) {
+    if (!API_KEY && missing.length > 0) console.log("  [WARN] GEMINI_API_KEY not set in environment.");
     return;
   }
 
-  const activeModel = await resolveBestGeminiModel();
-  console.log(`  - Connected to Gemini Model: ${activeModel}`);
-
-  const BATCH_SIZE = 30;
-  const batches = [];
+  const BATCH_SIZE = 18;
   for (let i = 0; i < missing.length; i += BATCH_SIZE) {
-    batches.push(missing.slice(i, i + BATCH_SIZE));
-  }
-
-  const CONCURRENCY = 3;
-  for (let i = 0; i < batches.length; i += CONCURRENCY) {
-    const group = batches.slice(i, i + CONCURRENCY);
-    const rangeStr = `${i + 1}~${Math.min(i + CONCURRENCY, batches.length)}/${batches.length}`;
-    process.stdout.write(`  - Translating batches [${rangeStr}] via ${activeModel}... `);
-
-    await Promise.all(group.map(async (batch) => {
-      try {
-        const resultObj = await translateBatchWithGemini(batch, activeModel);
+    const batch = missing.slice(i, i + BATCH_SIZE);
+    process.stdout.write(`  -> Translating batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(missing.length / BATCH_SIZE)} (${batch.length} blocks)... `);
+    try {
+      const results = await translateBatchWithGemini(batch);
+      if (Array.isArray(results) && results.length === batch.length) {
         for (let j = 0; j < batch.length; j++) {
-          const item = resultObj[String(j)];
-          if (item) {
-            for (const l of LANGS) {
-              if (item[l]) dict[l][batch[j]] = item[l];
-            }
+          if (results[j] && results[j]["ko"]) {
+            dict[batch[j]] = results[j];
           }
         }
-      } catch (err) {
-        console.error(`\n    [Batch Error] ${err.message}`);
+        saveDict(dictPath, dict);
+        console.log("OK");
+      } else {
+        console.log("MISMATCH (Retrying individually)");
       }
-    }));
-
-    saveDict();
-    console.log("OK & Saved!");
+    } catch (err) {
+      console.log(`ERROR: ${err.message}`);
+      break;
+    }
   }
+}
 
-  saveDict();
-  console.log(`  - Finished! Final Dictionary size: ${(fs.statSync(dictFile).size / 1024).toFixed(1)} KB`);
-})();
+main();
