@@ -1,3 +1,7 @@
+
+> **CRITICAL PROTECTED PAGES IN intelligence-core (DO NOT OVERWRITE):**
+> - 05_agent-builder and 12_web-builder: Preserve 100% of the restored original HTML, Google Apps Script (GAS) links, forms, and interactive UI. NEVER overwrite these files with generic monograph prose!
+
 # *SC (SISTAR COMPANY) — UPGRADED DOMAIN PROMPT (WITH L1xL2xL3 BLUEPRINT & UNLIMITED DEPTH): `intelligence-core`
 
 > **File Name:** `agy_upgrade_prompt_intelligence-core.md`
