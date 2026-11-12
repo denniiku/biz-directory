@@ -234,4 +234,4 @@
 
   if (document.body) buildNavigator(); else document.addEventListener('DOMContentLoaded', buildNavigator);
 })();
-/* SC_TR_LOAD */(function(){try{var p=location.pathname.replace(/\\/g,"/"),b="/common_assets/";if(location.protocol==="file:"){var i=p.toLowerCase().indexOf("/sc_web/");b=i!==-1?"file://"+p.substring(0,i+8)+"common_assets/":"./common_assets/";}var s=document.createElement("script");s.src=b+"sc_translator.js?v=2.5";s.defer=true;document.head.appendChild(s);}catch(e){}})();
+/* SC_TR_LOAD */(function(){try{var p=location.pathname.replace(/\\/g,"/"),b="/common_assets/";if(location.protocol==="file:"){var i=p.toLowerCase().indexOf("/sc_web/");b=i!==-1?"file://"+p.substring(0,i+8)+"common_assets/":"./common_assets/";}var s=document.createElement("script");s.src=b+"sc_translator.js";s.defer=true;document.head.appendChild(s);}catch(e){}})();
