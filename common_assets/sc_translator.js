@@ -1,6 +1,6 @@
 (function(){
-  if (window.__scTransInit) return;
-  window.__scTransInit = true;
+  if (window.__scPureStaticInitV4) return;
+  window.__scPureStaticInitV4 = true;
 
   // 1. Clean up any leftover ?sc_lang=... from the address bar immediately
   try {
@@ -151,9 +151,9 @@
   function applyDict(lang) {
     try {
       upgradeBreadcrumb();
-      // Navigator (#sc-left-nav) is never queried here — its font size and layout remain 100% untouched.
       var selector = "main p, main li, main td, main th, main blockquote, main dd, main dt, main .sc-callout, main .sc-lead, main .sc-sub, main .sc-test02-sub, main .sc-sec-body, main .sc-sec-title, main .sc-h2, main .sc-h3, main h2, main h3, main h4";
       var elements = document.querySelectorAll(selector);
+      if (!elements || elements.length === 0) return;
 
       var rawDict = (window.SC_AI_TRANSLATIONS && window.SC_AI_TRANSLATIONS[lang]) ? window.SC_AI_TRANSLATIONS[lang] : null;
       var normDict = {};
@@ -216,7 +216,6 @@
     }
   }, true);
 
-  // Original alignment function: aligns language bar directly under the 's' of '*sc - sistar company'
   function alignUnderBrandS(nav, bar) {
     try {
       var brandFull = nav.querySelector(".sc-brand-full");
@@ -271,10 +270,13 @@
   }
 
   var ds = document.createElement("script");
-  ds.src = b + "sc_translations.js?v=" + Date.now();
+  ds.src = b + "sc_translations.js?v=4.0";
   ds.onload = function() {
     var cur = getLang();
-    if (cur !== "en") applyDict(cur);
+    if (cur !== "en") {
+      applyDict(cur);
+      setTimeout(function() { applyDict(getLang()); }, 120);
+    }
   };
   document.head.appendChild(ds);
 
