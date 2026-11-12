@@ -1,8 +1,9 @@
 (function(){
   if(window.__scTransInit)return; window.__scTransInit=true;
+
   if(!document.getElementById("sc-tr-css")){
     var st=document.createElement("style"); st.id="sc-tr-css";
-    st.textContent="iframe.goog-te-banner-frame,.goog-te-banner-frame,#goog-gt-tt,.goog-te-balloon-frame,.VIpgJd-ZVi9od-ORHb-OEVmcd{display:none!important;visibility:hidden!important;}body{top:0!important;position:static!important;}#google_translate_element_hidden{display:none!important;}.sc-lang-bar{display:flex!important;align-items:center!important;justify-content:flex-start!important;padding:0 12px 8px 20px!important;margin:0 0 4px 0!important;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0!important;font-family:'Space Grotesk',sans-serif!important;box-sizing:border-box!important;}.sc-lang-btns{display:flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;gap:14px!important;}.sc-lang-btn{flex:0 0 auto!important;text-align:left!important;background:transparent!important;border:none!important;border-bottom:2px solid transparent!important;padding:2px 0 3px 0!important;font-family:'Space Grotesk',sans-serif!important;font-size:13.5px!important;font-weight:600!important;text-transform:lowercase!important;color:#526D82!important;border-radius:0!important;cursor:pointer!important;line-height:1.1!important;transition:color 0.15s ease,border-color 0.15s ease!important;}.sc-lang-btn:hover{background:transparent!important;color:#27374D!important;border-bottom:2px solid #168765!important;}.sc-lang-btn.active{background:transparent!important;color:#27374D!important;font-weight:700!important;border-bottom:2px solid #168765!important;}body.sc-nav-folded .sc-lang-bar,#sc-left-nav.folded .sc-lang-bar,#sc-left-nav.sc-folded .sc-lang-bar{display:none!important;}@media print{.sc-lang-bar{display:none!important;}}";
+    st.textContent=".sc-lang-bar{display:flex!important;align-items:center!important;justify-content:flex-start!important;padding:0 12px 8px 20px!important;margin:0 0 4px 0!important;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0!important;font-family:'Space Grotesk',sans-serif!important;box-sizing:border-box!important;}.sc-lang-btns{display:flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;gap:14px!important;}.sc-lang-btn{flex:0 0 auto!important;text-align:left!important;background:transparent!important;border:none!important;border-bottom:2px solid transparent!important;padding:2px 0 3px 0!important;font-family:'Space Grotesk',sans-serif!important;font-size:13.5px!important;font-weight:600!important;text-transform:lowercase!important;color:#526D82!important;border-radius:0!important;cursor:pointer!important;line-height:1.1!important;transition:color 0.15s ease,border-color 0.15s ease!important;}.sc-lang-btn:hover{background:transparent!important;color:#27374D!important;border-bottom:2px solid #168765!important;}.sc-lang-btn.active{background:transparent!important;color:#27374D!important;font-weight:700!important;border-bottom:2px solid #168765!important;}body.sc-nav-folded .sc-lang-bar,#sc-left-nav.folded .sc-lang-bar,#sc-left-nav.sc-folded .sc-lang-bar{display:none!important;}@media print{.sc-lang-bar{display:none!important;}}";
     document.head.appendChild(st);
   }
 
@@ -82,51 +83,9 @@
     }catch(e){}
   }
 
-  function lockRoutesAndTitles(){
-    try{
-      upgradeBreadcrumb();
-      var nav=document.getElementById("sc-left-nav");
-      if(nav){nav.classList.add("notranslate");nav.setAttribute("translate","no");}
-      var q=".sc-route,.sc-eyebrow,.sc-bc-wrap,.sc-kicker,.sc-tag,.sc-num-label,.sc-num,.sc-stat-big,.sc-kpi-val,.sc-phrase-pill,.sc-action-btns,.sc-minimal-dl-item>summary,.sc-minimal-dl-actions,.sc-test02-h1,.sc-main-title,svg,code,pre,.sc-code,.sc-math,.sc-top-bar";
-      var ns=document.querySelectorAll(q);
-      for(var i=0;i<ns.length;i++){ns[i].classList.add("notranslate");ns[i].setAttribute("translate","no");}
-    }catch(e){}
-  }
-
-  var liveCache = {};
-
-  function fetchLiveTranslation(text, targetLang, callback){
-    if(!text || text.length < 2) return;
-    var cacheKey = targetLang + "||" + text;
-    if(liveCache[cacheKey]){ callback(liveCache[cacheKey]); return; }
-    try{
-      var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=" + encodeURIComponent(targetLang) + "&dt=t&q=" + encodeURIComponent(text);
-      fetch(url).then(function(r){ return r.json(); }).then(function(data){
-        if(data && Array.isArray(data[0])){
-          var translated = data[0].map(function(seg){ return seg[0]; }).join("");
-          if(translated){
-            liveCache[cacheKey] = translated;
-            callback(translated);
-          }
-        }
-      }).catch(function(){});
-    }catch(e){}
-  }
-
-  function polishTermsOnElement(el){
-    try{
-      var reps=[[/시스타\s*컴퍼니|시스타\s*회사/g,"SISTAR Company"],[/시그널\s*스타\s*유니버스|신호별\s*우주/g,"Signal Star Universe"],[/시그널\s*스타|신호별/g,"Signal Star"],[/큐비트\s*알고리즘|양자비트\s*알고리즘/g,"Qubit Algorithm™"],[/큐비트\s*비즈/g,"qubit-biz"],[/큐비트\s*ERP/g,"Qubit ERP"],[/큐비트\s*뱅크/g,"Qubit Bank"],[/스칼렛\s*AI|스칼렛-ai/gi,"scarlet-ai"],[/인텔리전스\s*코어|지능\s*코어/g,"intelligence-core"],[/비즈\s*갤럭시/g,"biz-galaxy"],[/비즈\s*허브/g,"biz-hub"],[/코스모\s*시드/g,"Cosmo Seed"],[/그만큼\s*(Signal\s*Star)/g,"$1"]];
-      var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null,false), n;
-      while((n=w.nextNode())){
-        var v=n.nodeValue, ch=false;
-        for(var r=0;r<reps.length;r++){if(reps[r][0].test(v)){v=v.replace(reps[r][0],reps[r][1]);ch=true;}}
-        if(ch)n.nodeValue=v;
-      }
-    }catch(e){}
-  }
-
   function applyDict(lang){
     try{
+      upgradeBreadcrumb();
       var rawDict=(window.SC_AI_TRANSLATIONS&&window.SC_AI_TRANSLATIONS[lang])?window.SC_AI_TRANSLATIONS[lang]:null;
       var normDict={};
       if(rawDict){
@@ -143,6 +102,7 @@
       for(var i=0;i<ts.length;i++){
         var el=ts[i];
         if(el.closest&&(el.closest(".sc-top-bar")||el.closest(".sc-bc-wrap")||el.closest(".sc-math")||el.closest(".sc-code")))continue;
+        if(el.classList&&(el.classList.contains("sc-route")||el.classList.contains("sc-eyebrow")||el.classList.contains("sc-kicker")||el.classList.contains("sc-tag")||el.classList.contains("sc-num-label")||el.classList.contains("sc-num")||el.classList.contains("sc-stat-big")||el.classList.contains("sc-kpi-val")||el.classList.contains("sc-phrase-pill")||el.classList.contains("sc-test02-h1")||el.classList.contains("sc-main-title")))continue;
         if(el.querySelector && el.querySelector("p, ul, ol, table, .sc-grid-2x2"))continue;
 
         if(!el.getAttribute("data-sc-oh")){
@@ -153,7 +113,6 @@
         if(lang==="en"){
           var oh=el.getAttribute("data-sc-oh");
           if(oh!==null)el.innerHTML=oh;
-          el.removeAttribute("data-sc-pre");
           continue;
         }
 
@@ -163,16 +122,6 @@
 
         if(rawDict && (rawDict[ot] || normDict[ck])){
           el.textContent = rawDict[ot] || normDict[ck];
-          el.setAttribute("data-sc-pre","1");
-        } else {
-          (function(targetEl, origText){
-            fetchLiveTranslation(origText, lang, function(translatedText){
-              if(getLang() === lang){
-                targetEl.textContent = translatedText;
-                polishTermsOnElement(targetEl);
-              }
-            });
-          })(el, ot);
         }
       }
     }catch(e){}
@@ -199,7 +148,6 @@
     return "en";
   }
 
-  // Load dictionary and re-apply immediately when loaded
   var ds=document.createElement("script");
   ds.src=b+"sc_translations.js";
   ds.onload=function(){
@@ -222,7 +170,6 @@
 
   function switchLang(l){
     var nl=normLangCode(l);
-    lockRoutesAndTitles();
     saveLang(nl);
     var bs=document.querySelectorAll(".sc-lang-btn");
     for(var i=0;i<bs.length;i++)bs[i].classList.toggle("active",bs[i].getAttribute("data-lang")===nl);
@@ -250,7 +197,7 @@
   }
 
   function mountBar(){
-    lockRoutesAndTitles();
+    upgradeBreadcrumb();
     var nav=document.getElementById("sc-left-nav");
     if(!nav)return false;
     var bar=nav.querySelector(".sc-lang-bar");

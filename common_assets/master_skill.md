@@ -97,3 +97,15 @@
 ### 3. Navigator Behavior & Dropdown Time-Delay Preservation
 - **Dropdown Hover Delays**: Always preserve the deliberate hover time-delays in `build_nav_new.ps1` (`OPEN_DELAY = 480`, `CLOSE_DELAY = 420` for L1; `380ms` open / `350ms` close for L2) so submenus never open abruptly when the cursor passes over them.
 - **Zero-Jolt Synchronous Rendering**: Keep the language bar (`#sc-lang-bar`) pre-rendered inside the initial `nav_new.js` markup and keep `Space Grotesk` font preloaded with `display=block` so the navigator never shifts or changes font size after page load.
+
+---
+
+## [MANDATORY RULE] Pre-Inspection of Existing Web Structure & Format Before Structural Changes
+
+1. **Content Generation vs. Structural Modification:**
+   - **Standard Content Creation:** When simply generating or updating webpage text and standard page content, refer directly to `master_prd.md` and `master_skill.md`.
+   - **Structural & Format Changes (CRITICAL):** Whenever modifying web structure, layout formats, responsive grids, navigation, translation pipelines, or shared CSS/JS architecture, you **MUST FIRST inspect and reference the existing web files and architecture** before writing any code.
+
+2. **Zero Blind Overwrites / Zero Hacky Injections:**
+   - Never assume how a feature works or invent a parallel/redundant mechanism (e.g., do not inject runtime workarounds when a build-time pipeline already exists).
+   - Always read the target HTML, `common_new.css`, `nav_new.js`, `sc_translator.js`, and build scripts first, and strictly follow the established structure, naming conventions, and data flow of the existing system.

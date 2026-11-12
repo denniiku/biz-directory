@@ -1,4 +1,4 @@
-window.SC_AI_TRANSLATIONS = window.SC_AI_TRANSLATIONS || {
+window.SC_AI_TRANSLATIONS = {
   "ko": {
     "One Task, Multi Outcomes — Full-Stack AI Commerce & International AI Trading Spaceship.": "하나의 과업으로 다중의 성과를 창출하는 풀스택 AI 커머스 & 글로벌 AI 트레이딩 스페이스십.",
     "*sc - sistar company is fully integrating the SISTAR family groups and proudly launching our new corporate identity.": "*SC - SISTAR COMPANY는 기존 SISTAR 패밀리 그룹을 하나로 완벽히 통합하며 새로운 기업 아이덴티티(CI)를 공식 출범합니다.",
@@ -19,5 +19,8 @@ window.SC_AI_TRANSLATIONS = window.SC_AI_TRANSLATIONS || {
     "“The Signal Star Universe — Inspired by quantum mechanics, our biz-galaxy architecture shapes the Signal Star Universe, guided by the central Signal Star (*sc) and illuminated by the twinkling stars of every global partner.”": "“Signal Star Universe — Terinspirasi oleh mekanika kuantum, arsitektur biz-galaxy kami membentuk Signal Star Universe, dipandu oleh bintang utama Signal Star (*SC) dan diterangi oleh bintang-bintang dari setiap mitra global yang terhubung.”",
     "Powered by our proprietary core business engine - the qubit-algorithm, forged from 30 years of hands-on international trading mastery - we pioneer entirely new paradigms in how global business is built and how the world works.": "Didukung oleh mesin bisnis inti milik kami - qubit-algorithm, yang ditempa dari 30 tahun penguasaan perdagangan internasional - kami memelopori paradigma baru dalam membangun bisnis global.",
     "Engineered by the qubit-algorithm, our *SC intelligence-core ignites scarlet-ai - the nexus where magic happens. Casting a new spell over AI commerce and automated cross-border trading, it generates Cosmo Seed business models: qubit-biz, the launchpad where your boldest ideas are realized into reality.": "Dirancang dengan qubit-algorithm, *SC intelligence-core kami menyalakan scarlet-ai - pusat di mana keajaiban terjadi. Menghadirkan terobosan baru dalam AI commerce dan perdagangan lintas batas otomatis, mesin ini melahirkan model bisnis Cosmo Seed di qubit-biz."
-  }
+  },
+  "vi": {},
+  "zh-CN": {},
+  "ja": {}
 };
