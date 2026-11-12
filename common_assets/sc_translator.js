@@ -1,5 +1,17 @@
 (function(){
   if(window.__scTransInit)return; window.__scTransInit=true;
+
+  // 1) Clear any leftover Google Translate cookies so browser widget never hijacks text
+  try {
+    var ex="; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+    document.cookie="googtrans="+ex;
+    if(location.hostname&&location.hostname.indexOf(".")!==-1){
+      document.cookie="googtrans="+ex+"; domain="+location.hostname;
+      var ps=location.hostname.split(".");
+      if(ps.length>=2)document.cookie="googtrans="+ex+"; domain=."+ps.slice(-2).join(".");
+    }
+  } catch(e){}
+
   if(!document.getElementById("sc-tr-css")){
     var st=document.createElement("style"); st.id="sc-tr-css";
     st.textContent="iframe.goog-te-banner-frame,.goog-te-banner-frame,#goog-gt-tt,.goog-te-balloon-frame,.VIpgJd-ZVi9od-ORHb-OEVmcd{display:none!important;visibility:hidden!important;}body{top:0!important;position:static!important;}#google_translate_element_hidden{display:none!important;}.sc-lang-bar{display:flex!important;align-items:center!important;justify-content:flex-start!important;padding:0 12px 8px 20px!important;margin:0 0 4px 0!important;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0!important;font-family:'Space Grotesk',sans-serif!important;box-sizing:border-box!important;}.sc-lang-btns{display:flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;gap:14px!important;}.sc-lang-btn{flex:0 0 auto!important;text-align:left!important;background:transparent!important;border:none!important;border-bottom:2px solid transparent!important;padding:2px 0 3px 0!important;font-family:'Space Grotesk',sans-serif!important;font-size:13.5px!important;font-weight:600!important;text-transform:lowercase!important;color:#526D82!important;border-radius:0!important;cursor:pointer!important;line-height:1.1!important;transition:color 0.15s ease,border-color 0.15s ease!important;}.sc-lang-btn:hover{background:transparent!important;color:#27374D!important;border-bottom:2px solid #168765!important;}.sc-lang-btn.active{background:transparent!important;color:#27374D!important;font-weight:700!important;border-bottom:2px solid #168765!important;}body.sc-nav-folded .sc-lang-bar,#sc-left-nav.folded .sc-lang-bar,#sc-left-nav.sc-folded .sc-lang-bar{display:none!important;}@media print{.sc-lang-bar{display:none!important;}}";
@@ -17,6 +29,86 @@
     }else{
       b="./common_assets/";
     }
+  }
+
+  // === [*SC PROPRIETARY GLOSSARY LOCK (CUMULATIVE)] ===
+  // Notice: No trailing \b after period in c.a.n. so it matches 100% accurately!
+  var SC_GLOSSARY_LOCK = [
+    { rx: /\bc\s*\.\s*a\s*\.\s*n\.?/gi, keep: "c.a.n." },
+    { rx: /\baction\s*note\s+ai\s+ceo\b/gi, keep: "ActionNote AI CEO" },
+    { rx: /\bceo\s+action\s+notes?\b/gi, keep: "CEO Action Note" },
+    { rx: /\bsistar\s+challengers\b/gi, keep: "Sistar Challengers" },
+    { rx: /\bvet\s+specialties\b/gi, keep: "Vet Specialties" },
+    { rx: /\banimal\s+bio[\s-]health\b/gi, keep: "Animal Bio-Health" },
+    { rx: /\bexo[\s-]brain\b/gi, keep: "exo-brain" },
+    { rx: /\*sc\b/gi, keep: "*sc" },
+    { rx: /\bsistar\s+company\b/gi, keep: "SISTAR Company" },
+    { rx: /\bsignal\s+star\s+universe\b/gi, keep: "Signal Star Universe" },
+    { rx: /\bsignal\s+star\b/gi, keep: "Signal Star" },
+    { rx: /\bqubit[\s-]algorithm(?:™)?\b/gi, keep: "Qubit Algorithm™" },
+    { rx: /\bqubit[\s-]biz\b/gi, keep: "qubit-biz" },
+    { rx: /\bqubit\s+erp\b/gi, keep: "Qubit ERP" },
+    { rx: /\bqubit\s+bank\b/gi, keep: "Qubit Bank" },
+    { rx: /\bscarlet[\s-]ai\b/gi, keep: "scarlet-ai" },
+    { rx: /\bintelligence[\s-]core\b/gi, keep: "intelligence-core" },
+    { rx: /\bbiz[\s-]galaxy\b/gi, keep: "biz-galaxy" },
+    { rx: /\bbiz[\s-]hub\b/gi, keep: "biz-hub" },
+    { rx: /\bbiz[\s-]directory\b/gi, keep: "biz-directory" },
+    { rx: /\bcosmo\s+seed\b/gi, keep: "Cosmo Seed" }
+  ];
+
+  function maskGlossary(text){
+    var masked = text, tokens = [];
+    for(var i=0; i<SC_GLOSSARY_LOCK.length; i++){
+      var item = SC_GLOSSARY_LOCK[i];
+      masked = masked.replace(item.rx, function(){
+        var id = tokens.length;
+        tokens.push(item.keep);
+        return "ZXQGLOSS" + id + "ZXQ";
+      });
+    }
+    return { text: masked, tokens: tokens };
+  }
+
+  function unmaskGlossary(translated, tokens){
+    var res = translated;
+    for(var i=0; i<tokens.length; i++){
+      var rx = new RegExp("ZXQGLOSS\\s*" + i + "\\s*ZXQ", "gi");
+      res = res.replace(rx, tokens[i]);
+    }
+    return res;
+  }
+
+  function polishTermsOnElement(el){
+    try{
+      var reps=[
+        [/할\s*수\s*있다\.?\s*-\s*/g,"c.a.n. - "],
+        [/\|\s*할\s*수\s*있다\.?/g,"| c.a.n."],
+        [/시스타\s*챌린저스/g,"Sistar Challengers"],
+        [/수의학?\s*전문\s*분야|수의\s*스페셜티/g,"Vet Specialties"],
+        [/동물\s*바이오\s*헬스/g,"Animal Bio-Health"],
+        [/엑소\s*브레인|외뇌/g,"exo-brain"],
+        [/시스타\s*컴퍼니|시스타\s*회사/g,"SISTAR Company"],
+        [/시그널\s*스타\s*유니버스|신호별\s*우주/g,"Signal Star Universe"],
+        [/시그널\s*스타|신호별/g,"Signal Star"],
+        [/큐비트\s*알고리즘|양자비트\s*알고리즘/g,"Qubit Algorithm™"],
+        [/큐비트\s*비즈/g,"qubit-biz"],
+        [/큐비트\s*ERP/g,"Qubit ERP"],
+        [/큐비트\s*뱅크/g,"Qubit Bank"],
+        [/스칼렛\s*AI|스칼렛-ai/gi,"scarlet-ai"],
+        [/인텔리전스\s*코어|지능\s*코어/g,"intelligence-core"],
+        [/비즈\s*갤럭시/g,"biz-galaxy"],
+        [/비즈\s*허브/g,"biz-hub"],
+        [/코스모\s*시드/g,"Cosmo Seed"],
+        [/그만큼\s*(Signal\s*Star)/g,"$1"]
+      ];
+      var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null,false), n;
+      while((n=w.nextNode())){
+        var v=n.nodeValue, ch=false;
+        for(var r=0;r<reps.length;r++){if(reps[r][0].test(v)){v=v.replace(reps[r][0],reps[r][1]);ch=true;}}
+        if(ch)n.nodeValue=v;
+      }
+    }catch(e){}
   }
 
   function normKey(s){
@@ -95,51 +187,6 @@
 
   var liveCache = {};
 
-  // === [*SC PROPRIETARY GLOSSARY LOCK (CUMULATIVE PRE-MASKING)] ===
-  var SC_GLOSSARY_LOCK = [
-    { rx: /\bc\.a\.n\.?\b/gi, keep: "c.a.n." },
-    { rx: /\bsistar\s+challengers\b/gi, keep: "Sistar Challengers" },
-    { rx: /\bvet\s+specialties\b/gi, keep: "Vet Specialties" },
-    { rx: /\banimal\s+bio[\s-]health\b/gi, keep: "Animal Bio-Health" },
-    { rx: /\bexo[\s-]brain\b/gi, keep: "exo-brain" },
-    { rx: /\*sc\b/gi, keep: "*sc" },
-    { rx: /\bsistar\s+company\b/gi, keep: "SISTAR Company" },
-    { rx: /\bsignal\s+star\s+universe\b/gi, keep: "Signal Star Universe" },
-    { rx: /\bsignal\s+star\b/gi, keep: "Signal Star" },
-    { rx: /\bqubit[\s-]algorithm(?:™)?\b/gi, keep: "Qubit Algorithm™" },
-    { rx: /\bqubit[\s-]biz\b/gi, keep: "qubit-biz" },
-    { rx: /\bqubit\s+erp\b/gi, keep: "Qubit ERP" },
-    { rx: /\bqubit\s+bank\b/gi, keep: "Qubit Bank" },
-    { rx: /\bscarlet[\s-]ai\b/gi, keep: "scarlet-ai" },
-    { rx: /\bintelligence[\s-]core\b/gi, keep: "intelligence-core" },
-    { rx: /\bbiz[\s-]galaxy\b/gi, keep: "biz-galaxy" },
-    { rx: /\bbiz[\s-]hub\b/gi, keep: "biz-hub" },
-    { rx: /\bbiz[\s-]directory\b/gi, keep: "biz-directory" },
-    { rx: /\bcosmo\s+seed\b/gi, keep: "Cosmo Seed" }
-  ];
-
-  function maskGlossary(text){
-    var masked = text, tokens = [];
-    for(var i=0; i<SC_GLOSSARY_LOCK.length; i++){
-      var item = SC_GLOSSARY_LOCK[i];
-      masked = masked.replace(item.rx, function(){
-        var id = tokens.length;
-        tokens.push(item.keep);
-        return " __SCT" + id + "__ ";
-      });
-    }
-    return { text: masked, tokens: tokens };
-  }
-
-  function unmaskGlossary(translated, tokens){
-    var res = translated;
-    for(var i=0; i<tokens.length; i++){
-      var rx = new RegExp("\\s*__\\s*SCT\\s*" + i + "\\s*__\\s*", "gi");
-      res = res.replace(rx, " " + tokens[i] + " ");
-    }
-    return res.replace(/\s+/g, " ").trim();
-  }
-
   function fetchLiveTranslation(text, targetLang, callback){
     if(!text || text.length < 2) return;
     var cacheKey = targetLang + "||" + text;
@@ -160,18 +207,6 @@
     }catch(e){}
   }
 
-  function polishTermsOnElement(el){
-    try{
-      var reps=[[/시스타\s*컴퍼니|시스타\s*회사/g,"SISTAR Company"],[/시그널\s*스타\s*유니버스|신호별\s*우주/g,"Signal Star Universe"],[/시그널\s*스타|신호별/g,"Signal Star"],[/큐비트\s*알고리즘|양자비트\s*알고리즘/g,"Qubit Algorithm™"],[/큐비트\s*비즈/g,"qubit-biz"],[/큐비트\s*ERP/g,"Qubit ERP"],[/큐비트\s*뱅크/g,"Qubit Bank"],[/스칼렛\s*AI|스칼렛-ai/gi,"scarlet-ai"],[/인텔리전스\s*코어|지능\s*코어/g,"intelligence-core"],[/비즈\s*갤럭시/g,"biz-galaxy"],[/비즈\s*허브/g,"biz-hub"],[/코스모\s*시드/g,"Cosmo Seed"],[/그만큼\s*(Signal\s*Star)/g,"$1"]];
-      var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null,false), n;
-      while((n=w.nextNode())){
-        var v=n.nodeValue, ch=false;
-        for(var r=0;r<reps.length;r++){if(reps[r][0].test(v)){v=v.replace(reps[r][0],reps[r][1]);ch=true;}}
-        if(ch)n.nodeValue=v;
-      }
-    }catch(e){}
-  }
-
   function applyDict(lang){
     try{
       var rawDict=(window.SC_AI_TRANSLATIONS&&window.SC_AI_TRANSLATIONS[lang])?window.SC_AI_TRANSLATIONS[lang]:null;
@@ -184,7 +219,7 @@
         }
       }
 
-      var selector = "main p, main li, main td, main th, main blockquote, main dd, main dt, main .sc-callout, main .sc-lead, main .sc-sub, main .sc-test02-sub, main .sc-sec-body, main .sc-sec-title, main .sc-h2, main .sc-h3, main h2, main h3, main h4";
+      var selector = "main h1, main h2, main h3, main h4, main p, main li, main td, main th, main blockquote, main dd, main dt, main .sc-callout, main .sc-lead, main .sc-sub, main .sc-test02-sub, main .sc-sec-body, main .sc-sec-title, main .sc-h2, main .sc-h3";
       var ts=document.querySelectorAll(selector);
 
       for(var i=0;i<ts.length;i++){
@@ -210,6 +245,7 @@
 
         if(rawDict && (rawDict[ot] || normDict[ck])){
           el.textContent = rawDict[ot] || normDict[ck];
+          polishTermsOnElement(el);
           el.setAttribute("data-sc-pre","1");
         } else {
           (function(targetEl, origText){
@@ -246,7 +282,6 @@
     return "en";
   }
 
-  // Load dictionary and re-apply immediately when loaded
   var ds=document.createElement("script");
   ds.src=b+"sc_translations.js";
   ds.onload=function(){
