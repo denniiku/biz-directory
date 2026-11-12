@@ -6,84 +6,78 @@
 
 ---
 
-# *SC - SISTAR COMPANY: MASTER PRD & CONTENT BIBLE (`master_prd.md`)
+# *SC - SISTAR COMPANY: MASTER PRD & CONSTITUTIONAL BIBLE (`master_prd.md`)
+
+> **Canonical Governance Notice:**
+> This document is the supreme constitutional bible for all 12 domains of `*SC (SISTAR Company / Signal Star Universe)`. Every AI agent (AGY CLI, VS Code Copilot, MCP servers) MUST read and internalize this document before generating or upgrading any webpage.
 
 ---
 
-## 1. CORPORATE IDENTITY, PHILOSOPHY & THE QUANTUM THESIS
-- **Corporate Name & Universe:** `*SC - SISTAR COMPANY` (`*Signal Star Universe`)
-- **Master Slogan:** *"One Spark, Infinite Galaxifying — One Task, Multi Outcomes."*
-- **Core Identity Statement:**
-  `*SC (SISTAR Company)` is a Quantum-Inspired AI Venture Studio, Autonomous Enterprise OS, and Cross-Border Commerce & International Trading Holding Company. Forged from **20+ years of on-the-ground international business development, overseas residency, and cross-border trading execution**, `*SC` fuses deep real-world trade domain mastery with autonomous multi-agent AI (`*SC AI Centers International`).
-- **The Answer to the Core VC Question (*"How can one company execute across so many verticals simultaneously?"*):**
-  - Under conventional **Newtonian Linear Physics** ($A \rightarrow B \rightarrow C$: Capital $\rightarrow$ R&D $\rightarrow$ Inventory $\rightarrow$ Customs $\rightarrow$ Wholesale $\rightarrow$ Retail), executing 15+ projects simultaneously is impossible without massive capital and bloated headcount.
-  - However, `*SC` does not run disconnected businesses manually. `*SC` provides the **fundamental Quantum Operating Principle (`Qubit Algorithm™` & `Cosmo Seed™` Business Architecture)** that governs and automates business creation itself.
-  - Just as the physical universe originated from a **Quantum Fluctuation** in a vacuum state ($\hat{H}_{\text{fluctuation}}|0\rangle = E_0|\Psi_{\text{spark}}\rangle$), a single human insight or market intent (**One Spark**) inside `*SC` triggers **Quantum Superposition** (simultaneous multi-party profit realization at $t=0$), **Quantum Entanglement** (where data/execution in Project A automatically resolves regulatory, logistics, or commercial actions in Projects B, C, and D), and **Quantum Tunneling** (bypassing upfront capital and inventory barriers via pre-aggregated demand data).
-  - Because the underlying mathematical and AI execution principle is identical across verticals, **refusing to limit industry boundaries maximizes cross-project entanglement synergy** (*One Spark, Infinite Galaxifying*).
-- **Global Alliance Against AI Monopolies (*"Together, Against Global AI Giants"*):**
-  - While the global AI economy is increasingly monopolized by trillion-dollar tech giants, `*SC` empowers regional manufacturers, clinics, merchants, and global talent (`International Sistar Challengers`) to unite in an open, federated AI alliance.
-  - **New Ways in Working & Trading:** Humans focus strictly on high-level ideation, consciousness, and strategic insights (**Human-in-the-Loop for Vision**), while autonomous AI agents execute ERP, RAG data feeding, B2B matchmaking, customs compliance, and direct cross-border trade 24/7 (**"Let your AI work for AI Commerce & Trading — Do International Trading Directly"**).
+## PART I. CORPORATE IDENTITY, SIGNATURES & THE QUANTUM PARADIGM (`sc-sistarcompany`)
+
+### 1.1 Corporate Identity & Master Slogans
+- **Corporate Name:** `*SC - SISTAR COMPANY` (`*Signal Star Universe` — Success In Shared Talent, AI-driven Relationships)
+- **Master Slogans:**
+  - *"One Spark, Infinite Galaxifying — One Task, Multi Outcomes."*
+  - *"Beyond Linear Trade, Quantum Value Entanglement."*
+  - *"Human to Focus on Ideas & Insights; Let Your AI Work for AI Commerce & International Trading."*
+  - *"Together, Against Global AI Giants — Do International Trading Directly."*
+- **Core Positioning:**
+  Forged from **20+ years of lived overseas residency, on-the-ground international business development, and cross-border trading execution**, `*SC` fuses deep real-world trade domain mastery with autonomous multi-agent AI (`*SC AI Centers International`) and our proprietary `Qubit Algorithm™`.
+
+### 1.2 The 4 Core Pillars of `*SC` (`04_sc-4-pillars`)
+1. **Pillar I — The Quantum Paradigm Shift:** Moving from Newtonian Linearity ($A -> B -> C$) to Quantum Business Mechanics (`Qubit Algorithm™`).
+2. **Pillar II — 20+ Years of International Mastery Meets Autonomous AI:** Two decades of solving real customs, regulatory, and B2B distribution pain points encoded into `*SC AI Centers Int'l`.
+3. **Pillar III — The Federated Alliance ("Ants United Against Global AI Giants"):** Uniting regional manufacturers, clinics, merchants, and `International Sistar Challengers` (`IATA` & `IADA`) to defeat tech monopolies via shared AI firepower.
+4. **Pillar IV — The 15 Entangled Founder Projects:** 15 foundational Phase-I nodes across 4 Tiers that build permanent internal AI/ERP/RAG capabilities while generating immediate B2B/SaaS cashflow.
 
 ---
 
-## 2. THE 11 SIGNATURE PILLARS OF *SC (`identity-signatures`)
-1. **AI-Native Autonomous Execution (`AI`):** 24/7 multi-agent orchestration where AI works for AI across data centralization, RAG analysis, and commercial execution.
-2. **20+ Years of International Mastery (`International / Int'l`):** Two decades of lived overseas business development across Korea, Indonesia, Vietnam, Japan, China, and the US—solving real-world regulatory, customs, and distribution pain points.
-3. **New Paradigms in Commerce & Trading:** Transitioning from sequential, broker-heavy linear trade to quantum-concurrent direct trade (`Zero-Inventory`, `Zero-Wastage`, `Advance-Fund`).
-4. **New Ways in Working (`Vibe Working`):** Eliminating bureaucratic overhead; humans dedicate minutes to strategic insight while AI agents handle 100% of operational execution.
-5. **SISTAR AI Centers International:** The distributed neural backbone (`intelligence-core`, `Data Factory`, `RAG Simulators`) powering all internal and partner ventures.
-6. **Qubit Algorithm™ & Cosmo Seed™ Biz Models:** Applying Quantum Fluctuation, Superposition ($t=0$), Entanglement, Wave-Particle Duality, and Tunneling to business engineering.
-7. **Federated Alliance — Together Against Global AI Giants:** Uniting agile regional players ("Ants") with shared AI infrastructure to outperform slow, capital-heavy monopolies ("Giants").
-8. **Let Your AI Work for AI Commerce & Trading:** Delegating product sourcing, dynamic pricing, reverse-auction group buying (`Buy4Me`), and B2B negotiation to autonomous agents.
-9. **Do Biz Directly / Do International Trading Directly:** Removing middlemen and payment lags through direct AI-matched B2B container deals and `Qubit Offsetting` (4-way ledger bartering).
-10. **Human Focus on Ideas & Strategic Insights:** Elevating human capital from manual labor to supreme orchestration and creative spark generation.
-11. **One Spark, Infinite Galaxifying:** Turning a single validated insight into a self-reinforcing constellation of global micro-brands, SaaS tools, and trade pipelines.
+## PART II. GENESIS & MATHEMATICAL FORMALISM OF THE QUBIT ALGORITHM™ (`qubit-algorithm`)
+
+### 2.1 Empirical Genesis: Solving the Real-World Pain of Market Players
+- Across 20+ years of pioneering global markets, our founder witnessed capable manufacturers, creators, veterinary clinics, and distributors repeatedly fail to reach their potential because they were trapped in **Classical Newtonian Business Rules** (sequential friction $A -> B -> C$, working-capital crunches, inventory traps, and middlemen tollgates).
+- The **world's first `Qubit Algorithm™`** and **`Cosmo Seed™` Business Models** were invented to liberate market players and upgrade them into AI-driven, simultaneous value realization.
+- **Why Quantum Mechanics + AI Is the Ideal Practical Match:** In the AI era, autonomous agents process data, match counterparties, and execute code concurrently across borders. Replacing linear business rules with **Quantum Fluctuation, Superposition ($t=0$), Entanglement, Quantization, and Tunneling** is the most realistic, mathematically proven architecture for AI commerce and international trading.
+
+### 2.2 The 5 Quantum Laws Engineered into `Cosmo Seed™` Business Models
+1. **Quantum Fluctuation (`One Spark, Infinite Galaxifying`):** $\hat{H}_{\text{fluctuation}} |0\rangle = E_0 |\Psi_{\text{spark}}\rangle$ ($E_0 > 0$ at $V_{\text{capital}} = 0$). A single human insight (`One Spark`) in a zero-capital vacuum spawns dozens of autonomous derivative projects.
+2. **Quantum Superposition (`t = 0 Multi-Player Profit`):** $|\Phi_{\text{Market}}\rangle = \sum c_i |B_i M_i L_i F_i\rangle$. Buyer, Manufacturer, Logistics, and Bank settle and realize profit simultaneously at $t = 0$.
+3. **Quantum Entanglement (`One Task, Multi Outcomes`):** $|\Phi^+\rangle_{AB} = \frac{1}{\sqrt{2}}(|0\rangle_A|0\rangle_B + |1\rangle_A|1\rangle_B)$. Data or action in Project A instantaneously determines execution in Projects B, C, and D across borders.
+4. **Quantum Tunneling & Quantization (`Zero-Capital Entry`):** $T \approx \exp(-\frac{2}{\hbar}\int_0^a \sqrt{2m(V_0 - E_{\text{intent}})}\,dx) -> 1$ and $E_n = n^2 E_1$. Pre-aggregated demand (50% advance deposit) tunnels through capital/inventory walls; pricing and credit lock into discrete quantum levels.
+5. **Wave-Particle Duality & Destructive Interference:** Demand waves collapse into concrete contract particles upon AI measurement, while middlemen markups and PG fee noise are canceled out.
 
 ---
 
-## 3. THE 15 FOUNDER PROJECTS (4-TIER QUANTUM ENTANGLED ARCHITECTURE)
-*Engineered with `*SC` Identity Signatures. Powered by `*SC AI Centers International`.*
-Selected specifically to **reinforce foundational company capabilities** in Phase I so that every subsequent venture scales faster, cheaper, and with higher entanglement synergy:
+## PART III. THE 12-DOMAIN ECOSYSTEM ARCHITECTURE (6 STRATEGIC LAYERS)
 
-### Tier I: Enterprise AI Core & Cognitive OS (Projects 01–06)
-- **01 • Qubit ERP:** AI-native enterprise resource planning & cross-border shared logistics/financial ledger (`intelligence-core` / `qubit-biz`).
-- **02 • Company RAG Solution:** Zero-entropy enterprise knowledge base converting 20+ years of trade, regulatory, and operational data into actionable JSON workflows.
-- **03 • Agent Builder & AI Secretary:** No-code digital workforce generator and autonomous executive secretary (`Ms. Scarlet` / `SISTAR AB`).
-- **04 • c.a.n. — CEO ActionNote:** Quantum-command app transforming a single CEO voice memo or note (*One Spark*) into synchronized multi-project tasks.
-- **05 • Exo-Brain & Wearable Physical AI:** Multimodal cognitive extension and `[& I]` wearable edge-AI hardware capturing real-world telemetry.
-- **06 • Mind Company:** Human-AI cognitive alignment, mental resilience (`Mind Navi`, `NFQ`), and next-gen AI education (`FlexKids AI`).
-
-### Tier II: Vertical Deep-Tech & Bio-Veterinary Anchors (Projects 07–09)
-- **07 • Auto Formulator for Vet:** AI-driven nutritional, feed, and clinical supplement formulation & micro-sachet ODM engine (`Rp 1,320` Quantum Tunneling SKU).
-- **08 • Vet Special AI Prescription Services:** Clinical Decision Support System (`Scarlet Vet CDSS`) & bespoke AI diagnostic/prescription workflows for veterinary clinics.
-- **09 • R&D & Manufacturing for Vet Clinics:** End-to-end veterinary R&D, co-branded OEM/ODM manufacturing, and direct clinic supply chain (`SISTAR MedIX`, `SISPet`, `SISPharm`).
-
-### Tier III: Autonomous Cross-Border Trade & Federated Networks (Projects 10–13)
-- **10 • International Sistar Challenger Networks:** Borderless alliance of local market executors, regional directors, and fractional specialists ("Astronauts").
-- **11 • Import & Distribute — AI Trade International:** AI-curated cross-border sourcing, automated regulatory clearance, and direct B2B national distribution.
-- **12 • AI Commerce International Platform:** Next-generation conversational D2C/B2B commerce & demand-aggregated group buying ecosystem (`Scarlet.ai`).
-- **13 • AI Trade International Platform:** 3-way simultaneous cross-border trade, K-SURE BNPL financing, and multilateral `Qubit Offsetting` clearinghouse (`Qubit Trade Int'l`).
-
-### Tier IV: Hyper-Growth Launchpad & GTM Multipliers (Projects 14–15)
-- **14 • Daily 1 VIP Launching Factory:** 24/7 autonomous venture cloning and auto-reskinning factory deploying one turnkey VIP brand, app, or commerce portal daily.
-- **15 • Marketing Tool Package by Project:** Modular, plug-and-play programmatic AI marketing, short-form media (`SISTAR Studio`), and CRM growth suite tailored per project.
+1. **`01 sc-sistarcompany` (Corporate Flagship & Global Alliances):** Introduces `*SC`'s Identity & Signatures, 8 Global Bases (`SCK, SCI, SCV, SG, SCC, SCJ, SCU, IN`), and Federated Alliances (`IATA` & `IADA`) to convince Business Partners and VCs.
+2. **`02 qubit-algorithm` (Mathematical & Theoretical Propulsion Engine):** Proves the theoretical, mathematical, and empirical validity of the `Qubit Algorithm™` and `Cosmo Seed™` models (`Optimization of Business Process Wavefunctions` academic paper).
+3. **`03 intelligence-core` (The Core AI Asset Vault & Engine Room):** Houses `*SC`'s proprietary AI technologies and capabilities (`*SC AI Centers Int'l`, `Company RAG`, `Qubit ERP`, `Overnight Data Factory`, `Agent Builder`, `Exo-Brain`, `SISTAR Studio`) that power `scarlet-ai` and `qubit-biz`.
+4. **`04 scarlet-ai` (AI Commerce & AI Trade Int'l Marketplace Platform):** Industry-specific and function-specific AI commerce platforms solving legacy bottlenecks via **Volume-Wise Deals, Group Buying (`Buy4Me`), K-SURE BNPL, 70/30 PG Cashback, and `Ms. Scarlet` 24/7 AI closing**.
+5. **`05 qubit-biz` (`Cosmo Seed™` Business Model Showcase & Cross-Project Platform):** The open showcase and execution platform where `One Spark` ideas grow into `Cosmo Seed™` business models and cross-project entanglement (`Qubit Factory`, `Qubit Commerce`, `Qubit Star`, `Qubit Link`, `Qubit Flow`, `4-Way Qubit Offsetting`) so global players can freely adopt and co-create synergy.
+6. **`06 biz-galaxy` (The Shining Constellation of Industry Verticals & Players):** Showcases active commercial verticals (`SISTAR MedIX`, `SISPet`, `SISPharm`, `Mind Company`, `Aquasis`, `SisAyurvedic`, etc.) and participating players by industry—inspiring partners to turn ideas into shining stars within a massive interconnected business galaxy.
+7. **`07 biz-hub` ("Together Gets Stronger" — Co-Creation & Shared Value Hub):** Where players unite around shared goals and values to solve problems together (`Auto-Formulator`, Joint ODM Manufacturing, `Rp 1,320` Micro-Sachet Repacking, `PetFood Bank Re:D`, `Space Sharing`, `Mint` Franchises).
+8. **`08 challengers` (International SISTAR Family & Vibe Working Portal):** Motivates global talent to onboard not as mere employees or freelancers, but as **International SISTAR Family (`SISTAR Challengers`)**—enjoying **Vibe Working**, career growth, profit sharing, and the joy of building together (`S1-S6 Franchise-ship`).
+9. **`09 partnership` (Global Business Partners Motivation Gateway):** Inspires manufacturers, distributors, clinics, and brands across industries to partner with `*SC` and unlock exponential cross-border growth.
+10. **`10 ir-pitchdeck` (Institutional & VC Investment Conviction Hub):** Presents flexible investment structures (Holding Equity, Project SPVs, Joint Ventures) and answers every critical VC due-diligence question with crystal clarity to secure investment conviction.
+11. **`11 biz-directory` (Open B2B Proposal & Corporate Directory):** Category-by-category business proposals and open corporate listings connecting global enterprises with `scarlet-ai` and `qubit-biz` *(Protected Structure: preserve existing completed directory pages)*.
+12. **`12 media` (Content Forge & Media Activity Archive):** Chronicles `*SC`'s AI content production (`SISTAR Studio`, 10 daily media assets) and global media/journalism activities (`The SIGNAL STAR Post`).
 
 ---
 
-## 4. 6 CORE DOMAIN ENGINES & 2-TIER PRD GOVERNANCE
-- **6 Core Domain Engines:** `01 *SC HQ` | `02 Qubit-Algorithm` | `03 Intelligence-Core` | `04 Scarlet-AI` | `05 Qubit-Biz` | `06 Biz-Galaxy & Biz-Hub`.
-- **International Standard Requirement:** Every HTML deliverable must adhere to global top-tier VC and enterprise editorial standards—combining mathematical/architectural rigor, concrete unit economics, and executive clarity without parochial or fragmented listing.
+## PART IV. THE 15 FOUNDER PROJECTS (4-TIER CAPABILITY MULTIPLIER)
+- **Tier I (Enterprise AI Core & Cognitive OS):** `01 Qubit ERP` | `02 Company RAG Solution` | `03 Agent Builder & AI Secretary` | `04 c.a.n. CEO ActionNote` | `05 Exo-Brain & Wearable Physical AI` | `06 Mind Company`.
+- **Tier II (Vet Specialties & Bio-Health Anchors):** `07 Auto Formulator for Vet` | `08 Vet Special AI Prescription Services` | `09 R&D & Manufacturing for Vet Clinics`.
+- **Tier III (Direct AI Commerce & Int'l Trade Platforms):** `10 International Sistar Challenger Networks` | `11 Import & Distribute: AI Trade Int'l` | `12 AI Commerce International Platform` | `13 AI Trade International Platform`.
+- **Tier IV (Hyper-Growth GTM Multipliers):** `14 Daily 1 VIP Launching Factory` | `15 Marketing Tool Package by Project`.
+
 ---
 
-## 5. CANONICAL L3 MENU ORDER UNDER `01_sc (*sc)`
-1. `01_signal-star` (**signal star**) — The Guiding Star & 12-Domain Cosmic Architecture
-2. `02_sistar-company` (**sistar company**) — Corporate Holding Structure, Dual-Return & Fintech Clearing
-3. `03_identity-signatures` (**identity signatures**) — The Quantum Business Manifesto & 11 Core Signatures
-4. `04_sc-4-pillars` (**sc 4 pillars**) — Deep-Dive into the 4 Architectural Pillars of *SC
-5. `05_sc-master-brochure-_ver03` (**sc master brochure**) — Executive VC Submission Master Brochure
-6. `06_sc-founder-projects-_ver02` (**sc founder projects**) — In-Depth Portfolio of the 15 Entangled Founder Projects
-7. `07_sistar-crm` (**sistar crm**) — 24/7 Autonomous Data Factory & Multi-Agent Conversion CRM
-8. `08_sistar-heritage` (**sistar heritage**) — 20+ Years of International Business & Trade Heritage
+## PART V. VISUAL, FORMATTING & ROLE-SPLIT GOVERNANCE
+- **All Arrows:** Always use `->` for directional arrows in prose, equations, and diagrams.
+- **Visual Standard:** Inherit `.sc-monograph`, `.sc-chapter`, `.sc-exec-hero`, `.sc-kpi-strip`, `.sc-panel`, `.sc-math-box`, `.sc-table`, and custom Inline `<svg viewBox="0 0 960 340" class="notranslate" translate="no">` blueprints.
+- **Role Split (Token Optimization):** AGY CLI focuses 100% on HTML/SVG generation within the target domain and DOES NOT run `sync_all.ps1`. Post-generation navigator rebuild, 5-language Gemini translation, and GitHub push are executed separately via PowerShell.
 
 
 ---

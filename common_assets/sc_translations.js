@@ -13412,11 +13412,11 @@ window.SC_TRANSLATIONS = {
     "ja": "統合バックエンド・コードベースと自己修復型 LLM CI/CD パイプラインを活用し、ローカライズされたマイクロ SaaS、クリニックポータル、ブランドストアフロントを数か月ではなく数時間で自動リスキン（Re-skin）してデプロイします。"
   },
   "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)": {
-    "ko": "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)",
+    "ko": "2. Qubit Commerce™ (Scarlet AI 및 Qubit Ads)",
     "id": "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)",
     "vi": "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)",
-    "zh-CN": "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)",
-    "ja": "2. Qubit Commerce™ (Scarlet AI & Qubit Ads)"
+    "zh-CN": "2. Qubit Commerce™ (Scarlet AI 及 Qubit Ads)",
+    "ja": "2. Qubit Commerce™ (Scarlet AI および Qubit Ads)"
   },
   "Conversational Procurement & Viral Shoppable Media": {
     "ko": "대화형 조달 및 바이럴 쇼퍼블 미디어(Shoppable Media)",
@@ -13433,11 +13433,11 @@ window.SC_TRANSLATIONS = {
     "ja": "手動検索を AI 購買エージェント、Buy4Me による需要集約、そしてペイド広告依存を脱却する自動ショート動画ファネルへと置き換えます。"
   },
   "3. Qubit Star™ (Qubit the Intelligent)": {
-    "ko": "3. Qubit Star™ (Qubit the Intelligent)",
+    "ko": "3. Qubit Star™ (지능형 Qubit)",
     "id": "3. Qubit Star™ (Qubit the Intelligent)",
     "vi": "3. Qubit Star™ (Qubit the Intelligent)",
-    "zh-CN": "3. Qubit Star™ (Qubit the Intelligent)",
-    "ja": "3. Qubit Star™ (Qubit the Intelligent)"
+    "zh-CN": "3. Qubit Star™ (智能 Qubit)",
+    "ja": "3. Qubit Star™ (インテリジェント Qubit)"
   },
   "Fractional Global Talent Matching & “Intelligence on Tap”": {
     "ko": "프랙셔널(Fractional) 글로벌 인재 매칭 및 “Intelligence on Tap”",
@@ -13790,11 +13790,11 @@ window.SC_TRANSLATIONS = {
     "ja": "ドメイン：qubit.sistarcompany.com。B2Bコンテナ大口取引、K-SURE BNPL貿易金融、4-Way Qubit Offsettingバーター決済、Qubit Bank（Time/Space/Idea/Petfood）を統括。"
   },
   "Biz Galaxy, Hub & Challengers": {
-    "ko": "Biz Galaxy, Hub & Challengers",
+    "ko": "비즈 갤럭시, 허브 및 챌린저스",
     "id": "Biz Galaxy, Hub & Challengers",
     "vi": "Biz Galaxy, Hub & Challengers",
-    "zh-CN": "Biz Galaxy, Hub & Challengers",
-    "ja": "Biz Galaxy, Hub & Challengers"
+    "zh-CN": "Biz Galaxy, Hub 及 Challengers",
+    "ja": "Biz Galaxy, Hub および Challengers"
   },
   "Domains: biz , bizhub , challengers , biz-directory . Scales Vet Specialties ( MedIX, SISPet, SISPharm ), Auto-Formulator , Mind Company , and Sistar Challengers Int’l .": {
     "ko": "도메인: biz, bizhub, challengers, biz-directory. Vet Specialties(MedIX, SISPet, SISPharm), Auto-Formulator, Mind Company 및 Sistar Challengers Int’l의 확장을 주도합니다.",
@@ -14665,11 +14665,11 @@ window.SC_TRANSLATIONS = {
     "ja": "生涯認知記憶拡張＆エッジ AI ウェアラブルハードウェア ( [& I] )"
   },
   "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE": {
-    "ko": "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE",
-    "id": "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE",
-    "vi": "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE",
-    "zh-CN": "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE",
-    "ja": "THE SIGNAL STAR UNIVERSE (*SC) • SUPREME COMMAND ARCHITECTURE"
+    "ko": "시그널 스타 유니버스 (*SC) • 최고 사령부 아키텍처",
+    "id": "SIGNAL STAR UNIVERSE (*SC) • ARSITEKTUR KOMANDO TERTINGGI",
+    "vi": "VŨ TRỤ SIGNAL STAR (*SC) • KIẾN TRÚC BỘ CHỈ HUY TỐI CAO",
+    "zh-CN": "信号星宇宙 (*SC) • 最高指挥架构",
+    "ja": "シグナル・スター・ユニバース (*SC) • 最高司令部アーキテクチャ"
   },
   "Signal Star (*SC): The Guiding North Star of Quantum AI Commerce": {
     "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 길잡이, 북극성",
@@ -15057,18 +15057,18 @@ window.SC_TRANSLATIONS = {
     "ja": "創業者の「One Spark（最初の火花）」を細分化されたプロジェクトパッケージに変換し、トップ1%のグローバル・フリーランサーおよびSistar Challengersと従量課金制で意味的にマッチングします。"
   },
   "4. Qubit Link™ (Qubit Trade Int'l)": {
-    "ko": "4. Qubit Link™ (Qubit Trade Int'l)",
+    "ko": "4. Qubit Link™ (Qubit 국제 무역)",
     "id": "4. Qubit Link™ (Qubit Trade Int'l)",
     "vi": "4. Qubit Link™ (Qubit Trade Int'l)",
-    "zh-CN": "4. Qubit Link™ (Qubit Trade Int'l)",
-    "ja": "4. Qubit Link™ (Qubit Trade Int'l)"
+    "zh-CN": "4. Qubit Link™ (Qubit 国际贸易)",
+    "ja": "4. Qubit Link™ (Qubit 国際貿易)"
   },
   "5. Qubit Flow™ (Cubit Arbitrage Int'l)": {
-    "ko": "5. Qubit Flow™ (Cubit Arbitrage Int'l)",
+    "ko": "5. Qubit Flow™ (Cubit 국제 차익거래)",
     "id": "5. Qubit Flow™ (Cubit Arbitrage Int'l)",
     "vi": "5. Qubit Flow™ (Cubit Arbitrage Int'l)",
-    "zh-CN": "5. Qubit Flow™ (Cubit Arbitrage Int'l)",
-    "ja": "5. Qubit Flow™ (Cubit Arbitrage Int'l)"
+    "zh-CN": "5. Qubit Flow™ (Cubit 国际套利)",
+    "ja": "5. Qubit Flow™ (Cubit 国際アービトラージ)"
   },
   "Figure 3. The Cosmo Seed™ 5 Core Operational Engines Infinite Synergetic Loop and the 6 Orbital Domain Engines governing the 12-Domain Universe.": {
     "ko": "그림 3. Cosmo Seed™ 5대 핵심 운영 엔진의 무한 시너지 루프와 12개 도메인 유니버스를 관장하는 6개 궤도 도메인 엔진.",
@@ -18563,7 +18563,7 @@ window.SC_TRANSLATIONS = {
     "ja": "PT. SISTAR Indonesia は、*SC (SISTAR Company) の東南アジアにおける旗艦運営法人として、Sistar Biopharm、Sispharm、SisCart、BiOnDi、Petcentric、S-Quick、Studio Butter、Iruka、および Sistar Pet World を、当社の量子マイクロサシェ ODM エンジンおよび全国的な獣医流通ネットワークと統合しています。"
   },
   "Biopharm, Sispharm, SisCart, BiOnDi, Petcentric, S-Quick, Butter, Iruka, Pet World": {
-    "ko": "Biopharm, Sispharm, SisCart, BiOnDi, Petcentric, S-Quick, Butter, Iruka, Pet World",
+    "ko": "바이오팜, 시스팜, 시스카트, 비온디, 펫센트릭, S-퀵, 버터, 이루카, 펫 월드",
     "id": "Biopharm, Sispharm, SisCart, BiOnDi, Petcentric, S-Quick, Butter, Iruka, Pet World",
     "vi": "Biopharm, Sispharm, SisCart, BiOnDi, Petcentric, S-Quick, Butter, Iruka, Pet World",
     "zh-CN": "Biopharm, Sispharm, SisCart, BiOnDi, Petcentric, S-Quick, Butter, Iruka, Pet World",
@@ -20031,11 +20031,11 @@ window.SC_TRANSLATIONS = {
     "ja": "アイデンティティ：在庫ゼロのグローバル・プログラマティック・コマースおよびマーケティングコンテンツファクトリー。ビジネスモデル：TikTokやInstagram全体のソーシャルバイラルシグナルをマイニングして急上昇中のトレンド商品をソーシングし、多言語生成AIメディア（ショート動画、コピー）を制作して直接販売を促進。メカニズム：購入者の目標支払意思額（$P_{\\text{target}}$）と待機許容時間（$t_{\\text{wait}}$）をパラメータとするAI逆オークションおよび条件付き需要集約エンジンを運用。"
   },
   "Qubit the Intelligent (Intelligence on Tap)": {
-    "ko": "Qubit the Intelligent (Intelligence on Tap)",
+    "ko": "지능형 Qubit (온디맨드 인텔리전스)",
     "id": "Qubit the Intelligent (Intelligence on Tap)",
     "vi": "Qubit the Intelligent (Intelligence on Tap)",
-    "zh-CN": "Qubit the Intelligent (Intelligence on Tap)",
-    "ja": "Qubit the Intelligent (Intelligence on Tap)"
+    "zh-CN": "智能 Qubit (按需智能)",
+    "ja": "インテリジェント Qubit (オンデマンド・インテリジェンス)"
   },
   "Identity: On-demand global talent linker and gig-worker semantic matching platform. Business Model: Converts a single idea spark ( One Spark ) into a concrete project package and automatically matches it with global open-source contributors and freelancer pools. Mechanism: Screens reputation data across GitHub and developer forums -> runs semantic matchmaking algorithms to auto-build project teams and auto-publish multilingual IR pitch decks.": {
     "ko": "정체성: 온디맨드 글로벌 인재 연결 및 긱 워커 의미론적 매칭 플랫폼. 비즈니스 모델: 단일 아이디어 스파크(One Spark)를 구체적인 프로젝트 패키지로 변환하고, 이를 글로벌 오픈소스 기여자 및 프리랜서 풀과 자동으로 매칭. 메커니즘: GitHub 및 개발자 포럼 전반의 평판 데이터를 스크리닝 -> 의미론적 매칭 알고리즘을 실행하여 프로젝트 팀을 자동 구성하고 다국어 IR 피치덱을 자동 게시.",
@@ -20759,39 +20759,39 @@ window.SC_TRANSLATIONS = {
     "ja": "引用および書誌記録"
   },
   "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press.": {
-    "ko": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press.",
-    "id": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press.",
-    "vi": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press.",
-    "zh-CN": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press.",
-    "ja": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information . Cambridge University Press."
+    "ko": "Nielsen, M. A., & Chuang, I. L. (2010). 양자 계산 및 양자 정보. Cambridge University Press.",
+    "id": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.",
+    "vi": "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.",
+    "zh-CN": "Nielsen, M. A., & Chuang, I. L. (2010). 量子计算与量子信息. Cambridge University Press.",
+    "ja": "Nielsen, M. A., & Chuang, I. L. (2010). 量子計算と量子情報. Cambridge University Press."
   },
   "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press.": {
-    "ko": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press.",
-    "id": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press.",
-    "vi": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press.",
-    "zh-CN": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press.",
-    "ja": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics . Oxford University Press."
+    "ko": "Dirac, P. A. M. (1981). 양자 역학의 원리. Oxford University Press.",
+    "id": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics. Oxford University Press.",
+    "vi": "Dirac, P. A. M. (1981). The Principles of Quantum Mechanics. Oxford University Press.",
+    "zh-CN": "Dirac, P. A. M. (1981). 量子力学原理. Oxford University Press.",
+    "ja": "Dirac, P. A. M. (1981). 量子力学の原理. Oxford University Press."
   },
   "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) .": {
-    "ko": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) .",
-    "id": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) .",
-    "vi": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) .",
-    "zh-CN": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) .",
-    "ja": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS) ."
+    "ko": "Vaswani, A., 외 (2017). \"Attention is All You Need.\" 신경 정보 처리 시스템의 발전 (NeurIPS).",
+    "id": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS).",
+    "vi": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" Advances in Neural Information Processing Systems (NeurIPS).",
+    "zh-CN": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" 神经信息处理系统进展 (NeurIPS).",
+    "ja": "Vaswani, A., et al. (2017). \"Attention is All You Need.\" 神経情報処理システムにおける進歩 (NeurIPS)."
   },
   "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups .": {
-    "ko": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups .",
-    "id": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups .",
-    "vi": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups .",
-    "zh-CN": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups .",
-    "ja": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups ."
+    "ko": "시그널 스타 컴퍼니 (*SC). (2026). Qubit 알고리즘 및 Cosmo Seed™ 비즈니스 아키텍처 가이드: 1인 유니콘 스타트업을 위한 청사진.",
+    "id": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups.",
+    "vi": "Signal Star Company (*SC). (2026). The Qubit Algorithm & Cosmo Seed™ Business Architecture Guide: A Blueprint for One-Man Unicorn Startups.",
+    "zh-CN": "Signal Star Company (*SC). (2026). Qubit 算法与 Cosmo Seed™ 商业架构指南：一人独角兽初创企业的蓝图.",
+    "ja": "Signal Star Company (*SC). (2026). Qubit アルゴリズムおよび Cosmo Seed™ ビジネスアーキテクチャガイド：1人ユニコーンスタートアップのための青写真."
   },
   "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan .": {
-    "ko": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan .",
-    "id": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan .",
-    "vi": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan .",
-    "zh-CN": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan .",
-    "ja": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan ."
+    "ko": "시스타 컴퍼니. (2026). 시스타 포트폴리오 및 크로스 플랫폼 자동화 생태계 마스터 플랜.",
+    "id": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan.",
+    "vi": "SISTAR Company. (2026). SISTAR Portfolio & Cross-Platform Automation Ecosystem Master Plan.",
+    "zh-CN": "SISTAR Company. (2026). SISTAR 投资组合与跨平台自动化生态系统总体规划.",
+    "ja": "SISTAR Company. (2026). SISTAR ポートフォリオおよびクロスプラットフォーム自動化エコシステムマスタープラン."
   },
   "INSTITUTIONAL IR, PARTNERSHIP & MEDIA GATEWAY": {
     "ko": "기관 투자자 IR, 파트너십 및 미디어 게이트웨이",
@@ -21354,7 +21354,7 @@ window.SC_TRANSLATIONS = {
     "ja": "グローバルタレントクラウド • SISTAR Challengers Int'l"
   },
   "*SC - SISTAR Challengers Intl": {
-    "ko": "*SC - SISTAR Challengers Intl",
+    "ko": "*SC - 시스타 챌린저스 인터내셔널",
     "id": "*SC - SISTAR Challengers Intl",
     "vi": "*SC - SISTAR Challengers Intl",
     "zh-CN": "*SC - SISTAR Challengers Intl",

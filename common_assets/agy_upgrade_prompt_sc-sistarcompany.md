@@ -1,78 +1,51 @@
-# *SC (SISTAR COMPANY) — DOMAIN 01 (`sc-sistarcompany`) SPECIALIZED AGY CLI UPGRADE PROMPT
+# *SC (SISTAR COMPANY) — DOMAIN SPECIALIZED AGY CLI PROMPT: `sc-sistarcompany`
 
 > **File Name:** `agy_upgrade_prompt_sc-sistarcompany.md`
-> **Target Domain:** `C:\projects\sc_web\sc-sistarcompany` (`https://sistarcompany.com`)
-> **Core Purpose:**
-> `sc-sistarcompany` is the **Supreme Corporate Flagship & Executive Introduction Portal** of `*SC (SISTAR Company / Signal Star Universe)`.
-> Above all, **`01_sc\05_sc-master-brochure-_ver03`** and **`01_sc\06_sc-founder-projects-_ver02`** are our **TOP-PRIORITY VC SUBMISSION DELIVERABLES**. They must be engineered to the highest global Venture Capital & Institutional Investment Committee (Goldman Sachs CIM / Sequoia / a16z Deal Book) standard.
+> **Target Domain Path:** `C:\projects\sc_web\sc-sistarcompany`
+> **Domain Title & Role:** **01. Corporate Flagship, 8 Global Bases & Federated Alliances (sistarcompany.com)**
+> **Execution Policy (Token Optimization):** AGY CLI must focus **100% of its tokens on upgrading/building the HTML & Inline SVG files** inside `sc-sistarcompany`. **DO NOT run `sync_all.ps1`, translation scripts, or `git push`** inside AGY CLI—those will be run separately after HTML completion.
 
 ---
 
-## 1. DOMAIN-SPECIFIC PROMPT TO COPY & PASTE INTO AGY CLI
+## 1. PROMPT TO COPY & PASTE INTO AGY CLI
 
 ```markdown
-[SYSTEM MISSION: DOMAIN 01 (`sc-sistarcompany`) VC-GRADE FLAGSHIP UPGRADE — TOP PRIORITY ON MASTER BROCHURE & 15 FOUNDER PROJECTS]
+[SYSTEM MISSION: INSTITUTIONAL MONOGRAPH & INLINE SVG VISUAL UPGRADE FOR DOMAIN `sc-sistarcompany`]
 
-You are upgrading `C:\projects\sc_web\sc-sistarcompany` (`sistarcompany.com`), the flagship corporate introduction domain of `*SC (SISTAR Company / Signal Star Universe)`.
-You MUST actively invoke your registered MCP servers (`sequential-thinking`, `repomix`, `context7`, `playwright`, `eslint`, `github`) throughout this workflow.
+You are upgrading the web pages inside `C:\projects\sc_web\sc-sistarcompany` (01. Corporate Flagship, 8 Global Bases & Federated Alliances (sistarcompany.com)) for `*SC (SISTAR Company / Signal Star Universe)`.
+You MUST actively invoke your registered MCP servers (`sequential-thinking`, `repomix`, `context7`, `playwright`, `eslint`) during this workflow.
 
 ================================================================================
 PHASE 1. MANDATORY MCP PRE-READ & DESIGN SYSTEM LOCK-IN
 ================================================================================
-1. Invoke `sequential-thinking` MCP first to plan your execution sequence.
-2. Read the following canonical files BEFORE modifying any HTML file:
-   - `C:\projects\sc_web\common_assets\master_prd.md` (Master Corporate Constitution)
-   - `C:\projects\sc_web\common_assets\master_skill.md` (UI/UX, Navigator, and Static Translation ?v=5.0 Rules)
-   - `C:\projects\sc_web\sc-sistarcompany\01_sc\03_identity-signatures\index.html` & `04_sc-4-pillars\index.html`
+1. Invoke `sequential-thinking` MCP first to list and inspect all directories and `index.html` files inside `C:\projects\sc_web\sc-sistarcompany`.
+2. Read the following 3 canonical files BEFORE modifying any HTML file:
+   - `C:\projects\sc_web\common_assets\master_prd.md` (The Supreme Corporate Constitution covering all 12 domains, Qubit Algorithm™, Cosmo Seed™, and 15 Founder Projects).
+   - `C:\projects\sc_web\common_assets\master_skill.md` (UI/UX, Navigator, Static Translation `?v=5.0`, and folder cleanliness rules).
+   - `C:\projects\sc_web\sc-sistarcompany\01_sc\05_sc-master-brochure-_ver03\index.html`
+     (GOLDEN DESIGN TEMPLATE: Inherit 100% of its `<head>` CSS stylesheet, `@media print` multi-page A4 rules, and component classes: `.sc-monograph`, `.sc-chapter`, `.sc-chapter-meta`, `.sc-exec-hero`, `.sc-kpi-strip`, `.sc-panel`, `.sc-math-box`, `.sc-table`, `.sc-callout`, `.sc-dossier-card`).
 
 ================================================================================
-PHASE 2. PRIORITY TIER 0 — VC SUBMISSION FLAGSHIPS (EXECUTE THESE TWO FIRST!)
+PHASE 2. DOMAIN-SPECIFIC IDENTITY, NARRATIVE & EXECUTION DIRECTIVES (`sc-sistarcompany`)
 ================================================================================
-The following two pages are being submitted directly to Venture Capital (VC) General Partners this week. Give them your highest level of analytical rigor, executive polish, and visual sophistication:
+- **Core Role:** `sc-sistarcompany` is the **Supreme Corporate Introduction Portal** of `*SC`. Its primary goal is to convince **Business Partners (`partnership`)** and **Institutional Investors / VCs (`ir-pitchdeck`)** of who `*SC` is and why our model wins.
+- **Narrative Arc:** Demonstrate how our **Identity & Signatures** (`01_sc`) are physically realized through **Country-by-Country Partnerships (`02_sistar-intl`: KR, ID, VN, SG, CN, JP, US, IN)** and **Global Federated Alliances (`03_intl-alliance`: IATA & IADA — 'Together, Against Global AI Giants')**.
 
-1. **`01_sc\05_sc-master-brochure-_ver03\index.html` (VC Master Corporate Brochure — 12+ Pages):**
-   - Preserve all 11 existing institutional chapters and text 100%, and elevate the page into a breathtaking **Global VC Investment Memorandum**:
-   - Inject **4 bespoke, ultra-crisp Inline `<svg viewBox="0 0 960 360" class="notranslate" translate="no">` Executive Diagrams**:
-     (SVG 1) **Newtonian Linear Value Chain ($A \to B \to C$) vs. *SC Quantum Superposition ($t=0$) & Tunneling ($T \to 1$) Architecture**
-     (SVG 2) **The 24/7 Unmanned Data Factory & Enterprise RAG Pipeline (10 PM Scraping -> 4 AM Vector RAG -> 8 AM c.a.n. Spark -> 9 AM Multi-Agent Execution)**
-     (SVG 3) **The Cosmo Seed 5 Core Engines Infinite Synergetic Loop & 6 Orbital Domain Topology**
-     (SVG 4) **Proprietary Fintech Clearing Topology: K-SURE BNPL + 4-Way Qubit Offsetting Barter Matrix + 70/30 PG Fee Cashback Loop**
-   - Add a dedicated **VC Investment Committee Summary & Unit Economics Matrix** highlighting Capital Efficiency (Near-$0 Fixed Overhead), Dual-Return Margins (75-85% SaaS GM + 45-65% Physical Trade/Vet GM), and Defensible Moats (20+ Years Lived International BD + Proprietary RAG).
-
-2. **`01_sc\06_sc-founder-projects-_ver02\index.html` (Companion VC Dossier: The 15 Entangled Founder Projects — 12+ Pages):**
-   - Preserve all 15 Founder Project dossiers (`FP-01` through `FP-15`) 100%, and elevate their VC presentation:
-   - Inject **4 bespoke Inline `<svg viewBox="0 0 960 360" class="notranslate" translate="no">` Tier Entanglement Blueprints** (one at the start of each Tier I, II, III, and IV) visually mapping how data, clinical prescriptions, B2B orders, and daily brand cloning flow between the 15 projects (Bell-State Entanglement $\vert{}\Phi^+\rangle_{AB}$: *One Task, Multi Outcomes*).
-   - Add a comprehensive **Master VC Portfolio Financial & Synergy Matrix Table** comparing all 15 projects across: [Foundational Capability Built for *SC | Primary Revenue Stream | Target Gross Margin | Quantum Entanglement Trigger | Scalability Moat].
+- **PRIORITY TIER 0 (VC Submission Flagships):** In `01_sc\05_sc-master-brochure-_ver03\index.html` and `01_sc\06_sc-founder-projects-_ver02\index.html`, preserve 100% of existing text and inject 4 bespoke Inline `<svg>` diagrams + a VC Investment Committee Summary Matrix.
+- **Mode A (100% Text Preservation + 2-3 Inline SVGs):** Apply to `01_sc\01` through `08` and `02_sistar-intl\09_pt-sistar-indonesia`.
+- **Mode B (Full 6-8 Chapter Monograph Rebuild):** Apply to root `index.html`, `01_sc\index.html`, `02_sistar-intl\index.html`, `02_sistar-intl\01_sc-korea` through `08_sc-india`, and all 3 files in `03_intl-alliance`.
 
 ================================================================================
-PHASE 3. STRICT DUAL-MODE EXECUTION FOR REMAINING FILES IN `sc-sistarcompany`
+PHASE 3. MANDATORY VISUAL, STRUCTURAL & BACKUP STANDARDS (PURE HTML/SVG FOCUS)
 ================================================================================
-
-### [MODE A: ADDITIVE VISUAL & SVG INJECTION + PARTNER/IR SYNERGY ENRICHMENT — 100% TEXT PRESERVATION]
-Target Files for Mode A:
-- `01_sc\01_signal-star\index.html`
-- `01_sc\02_sistar-company\index.html`
-- `01_sc\03_identity-signatures\index.html`
-- `01_sc\04_sc-4-pillars\index.html`
-- `01_sc\07_sistar-crm\index.html`
-- `01_sc\08_sistar-heritage\index.html`
-- `02_sistar-intl\09_pt-sistar-indonesia\index.html`
-Rules: Preserve 100% of existing text; inject 2 to 3 bespoke Inline `<svg class="notranslate" translate="no">` architectural diagrams per page; wrap `08_sistar-heritage` and `09_pt-sistar-indonesia` into the Golden Template (`.sc-monograph`, `.sc-exec-hero`, `.sc-kpi-strip`).
-
-### [MODE B: FULL INSTITUTIONAL MONOGRAPH REBUILD (6 TO 8 CHAPTERS + INLINE SVGs + PARTNER/IR THESIS)]
-Target Files for Mode B (Currently thin 80 to 250 line placeholders):
-- `index.html` (Root Landing Portal of `sistarcompany.com`)
-- `01_sc\index.html` (L2 Command Hub Overview)
-- `02_sistar-intl\index.html` & `01_sc-korea` through `08_sc-india` (8 Global Cross-Border Corridors)
-- `03_intl-alliance\index.html`, `01_intl-ai-trade-alliance` (IATA), `02_intl-ai-data-alliance` (IADA)
-Rules: Rebuild into 6 to 8 Chapter Institutional Monographs (650 to 950+ lines) with `.sc-exec-hero`, `.sc-kpi-strip`, 2-3 Inline `<svg class="notranslate" translate="no">` diagrams, `.sc-math-box`, and dedicated chapters for **Business Partner Onboarding** and **VC/IR Investment Thesis**.
-
-================================================================================
-PHASE 4. TRANSLATION INTEGRITY RULE & FINAL SYNCHRONIZATION
-================================================================================
-1. HTML Structure for Zero-Skip Translation: Write clean `<p class="sc-p">`, `<p class="sc-lead">`, `<td>`, and `<li>` blocks without nesting block-level `<div>` tags inside `<p>`, ensuring `update_translations.js` extracts and translates 100% of paragraphs without skipping a single paragraph.
-2. Verify `./storage/index_golden_backup.html` exists before saving any file.
-3. Upon completion, run:
-   `powershell -ExecutionPolicy Bypass -File "C:\projects\sc_web\common_assets\sync_all.ps1"`
-   so that the navigator updates, every English paragraph is translated into Korean/Indonesian/Vietnamese/Chinese/Japanese (keeping key technical terms naturally in context but NEVER skipping whole paragraphs), and all changes push to GitHub.
+1. **Safety Backup First:** Before modifying any `index.html`, verify that `./storage/index_golden_backup.html` exists in that directory (copy current `index.html` there if missing).
+2. **Arrow Formatting Rule:** Always use `->` for all directional arrows in text, formulas, and diagrams.
+3. **Mandatory Visual Density per Page (for all rebuilt or upgraded pages):**
+   - Exact `<head>` asset loader (`common_new.css?v=2.2`, `nav_new.js?v=2.2`, `sc_translator.js?v=5.0`) and exact `<p class="sc-route">` breadcrumb.
+   - **Dark Quantum Executive Hero (`.sc-exec-hero`)** + **4-Cell KPI Bento Strip (`.sc-kpi-strip`)**.
+   - **2 to 3 Bespoke Inline `<svg viewBox="0 0 960 340" class="notranslate" translate="no">` Architectural Diagrams** (Dark Navy `#0f172a`, Emerald `#10b981`, Cyan `#38bdf8`).
+   - **At least 1 `.sc-math-box`** or algorithmic workflow block connecting the page topic to the `Qubit Algorithm™` (t=0 Superposition, Bell-State Entanglement, WKB Tunneling).
+   - **At least 2 comprehensive `.sc-table` matrices** and multi-column `.sc-panel` grids across **6 to 8 substantial Chapters (`.sc-chapter`, 650–950+ lines per file)**. Never use juvenile headings like '1. What it is / 2. Why we do it'.
+4. **Zero-Skip Translation HTML Rule:** Write clean `<p class="sc-p">`, `<p class="sc-lead">`, `<td>`, and `<li>` blocks without nesting block-level `<div>` tags inside `<p>`.
+5. **STOP AFTER HTML/SVG COMPLETION (SAVE TOKENS):** Do NOT run `sync_all.ps1`, `update_translations.js`, or `git push`. Simply validate HTML/SVG tag closure and finish.
 ```
