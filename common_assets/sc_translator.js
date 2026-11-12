@@ -1,7 +1,6 @@
 (function(){
   if(window.__scTransInit)return; window.__scTransInit=true;
 
-  // 1) Clear any leftover Google Translate cookies so browser widget never hijacks text
   try {
     var ex="; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
     document.cookie="googtrans="+ex;
@@ -14,7 +13,7 @@
 
   if(!document.getElementById("sc-tr-css")){
     var st=document.createElement("style"); st.id="sc-tr-css";
-    st.textContent="iframe.goog-te-banner-frame,.goog-te-banner-frame,#goog-gt-tt,.goog-te-balloon-frame,.VIpgJd-ZVi9od-ORHb-OEVmcd{display:none!important;visibility:hidden!important;}body{top:0!important;position:static!important;}#google_translate_element_hidden{display:none!important;}.sc-lang-bar{display:flex!important;align-items:center!important;justify-content:flex-start!important;padding:0 12px 8px 20px!important;margin:0 0 4px 0!important;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0!important;font-family:'Space Grotesk',sans-serif!important;box-sizing:border-box!important;}.sc-lang-btns{display:flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;gap:14px!important;}.sc-lang-btn{flex:0 0 auto!important;text-align:left!important;background:transparent!important;border:none!important;border-bottom:2px solid transparent!important;padding:2px 0 3px 0!important;font-family:'Space Grotesk',sans-serif!important;font-size:13.5px!important;font-weight:600!important;text-transform:lowercase!important;color:#526D82!important;border-radius:0!important;cursor:pointer!important;line-height:1.1!important;transition:color 0.15s ease,border-color 0.15s ease!important;}.sc-lang-btn:hover{background:transparent!important;color:#27374D!important;border-bottom:2px solid #168765!important;}.sc-lang-btn.active{background:transparent!important;color:#27374D!important;font-weight:700!important;border-bottom:2px solid #168765!important;}body.sc-nav-folded .sc-lang-bar,#sc-left-nav.folded .sc-lang-bar,#sc-left-nav.sc-folded .sc-lang-bar{display:none!important;}@media print{.sc-lang-bar{display:none!important;}}";
+    st.textContent="iframe.goog-te-banner-frame,.goog-te-banner-frame,#goog-gt-tt,.goog-te-balloon-frame,.VIpgJd-ZVi9od-ORHb-OEVmcd{display:none!important;visibility:hidden!important;}body{top:0!important;position:static!important;}#google_translate_element_hidden{display:none!important;}.sc-lang-bar{display:flex!important;align-items:center!important;justify-content:flex-start!important;padding:0 12px 8px 20px!important;margin:0 0 4px 0!important;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0!important;font-family:'Space Grotesk',sans-serif!important;box-sizing:border-box!important;}.sc-lang-btns{display:flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;gap:14px!important;}.sc-lang-btn{flex:0 0 auto!important;text-align:left!important;background:transparent!important;border:none!important;border-bottom:2px solid transparent!important;padding:2px 0 3px 0!important;font-family:'Space Grotesk',sans-serif!important;font-size:13.5px!important;font-weight:600!important;text-transform:lowercase!important;color:#526D82!important;border-radius:0!important;cursor:pointer!important;line-height:1.1!important;transition:color 0.15s ease,border-color 0.15s ease!important;}.sc-lang-btn:hover{background:transparent!important;color:#27374D!important;border-bottom:2px solid #168765!important;}.sc-lang-btn.active{background:transparent!important;color:#27374D!important;font-weight:700!important;border-bottom:2px solid #168765!important;}body.sc-nav-folded .sc-lang-bar,#sc-left-nav.folded .sc-lang-bar,#sc-left-nav.sc-folded .sc-lang-bar{display:none!important;}@media print{.sc-lang-bar{display:none !important;}}";
     document.head.appendChild(st);
   }
 
@@ -31,8 +30,6 @@
     }
   }
 
-  // === [*SC PROPRIETARY GLOSSARY LOCK (CUMULATIVE)] ===
-  // Notice: No trailing \b after period in c.a.n. so it matches 100% accurately!
   var SC_GLOSSARY_LOCK = [
     { rx: /\bc\s*\.\s*a\s*\.\s*n\.?/gi, keep: "c.a.n." },
     { rx: /\baction\s*note\s+ai\s+ceo\b/gi, keep: "ActionNote AI CEO" },
@@ -100,7 +97,7 @@
         [/비즈\s*갤럭시/g,"biz-galaxy"],
         [/비즈\s*허브/g,"biz-hub"],
         [/코스모\s*시드/g,"Cosmo Seed"],
-        [/그만큼\s*(Signal\s*Star)/g,"$1"]
+        [/그만큼\s*Signal\s*Star/g,"Signal Star"]
       ];
       var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null,false), n;
       while((n=w.nextNode())){
@@ -119,64 +116,8 @@
     return (s||"").replace(/[\u2018\u2019']/g,"'").replace(/[\u201C\u201D"]/g,'"').replace(/[\u2013\u2014]/g,"-").replace(/\s+/g," ").trim();
   }
 
-  function upgradeBreadcrumb(){
-    try{
-      var nav=document.getElementById("sc-left-nav");
-      var m=document.querySelector("main");
-      if(!nav||!m)return;
-      var routeEl=m.querySelector(".sc-route,.sc-eyebrow,.breadcrumb,.page-path");
-      if(!routeEl){
-        var h1=m.querySelector("h1"), ps=m.querySelectorAll("p,div");
-        for(var i=0;i<Math.min(ps.length,6);i++){
-          var el=ps[i], tx=(el.textContent||"").trim();
-          var bH1=h1&&(el.compareDocumentPosition(h1)&Node.DOCUMENT_POSITION_FOLLOWING);
-          if(bH1&&tx.length>3&&tx.length<140&&tx.indexOf(" - ")!==-1&&!el.querySelector("p,div,h1")){
-            routeEl=el; break;
-          }
-        }
-      }
-      if(!routeEl||routeEl.querySelector(".sc-bc-wrap"))return;
-
-      var raw=(routeEl.textContent||"").replace(/_ver\d+/gi,"").trim();
-      var parts=raw.split(/\s+-\s+|\s+›\s+|\s+>\s+/);
-      if(parts.length<=1)return;
-
-      var linkMap={};
-      var navLinks=nav.querySelectorAll("a.sc-l1-link,a.sc-l2-link,a.sc-l3-link");
-      for(var k=0;k<navLinks.length;k++){
-        var a=navLinks[k], nk=normKey(a.textContent||"");
-        if(nk&&!linkMap[nk])linkMap[nk]=a.getAttribute("href");
-      }
-
-      var isFile=(location.protocol==="file:");
-      var html='<span class="sc-bc-wrap notranslate" translate="no">';
-      for(var idx=0;idx<parts.length;idx++){
-        var lbl=parts[idx].trim();
-        var isLast=(idx===parts.length-1);
-        if(idx>0)html+='<span class="sc-bc-sep">&rsaquo;</span>';
-        if(isLast){
-          html+='<span class="sc-bc-curr">'+lbl+'</span>';
-        }else{
-          var key=normKey(lbl);
-          var href=linkMap[key]||"";
-          if(!href){
-            var up=(parts.length-1)-idx, pre="";
-            for(var u=0;u<up;u++)pre+="../";
-            href=isFile?(pre+"index.html"):pre;
-          }
-          html+='<a class="sc-bc-item" href="'+href+'">'+lbl+'</a>';
-        }
-      }
-      html+='</span>';
-      routeEl.innerHTML=html;
-      routeEl.classList.add("notranslate");
-      routeEl.setAttribute("translate","no");
-    }catch(e){}
-  }
-
   function lockRoutesAndTitles(){
     try{
-      upgradeBreadcrumb();
       var nav=document.getElementById("sc-left-nav");
       if(nav){nav.classList.add("notranslate");nav.setAttribute("translate","no");}
       var q=".sc-route,.sc-eyebrow,.sc-bc-wrap,.sc-kicker,.sc-tag,.sc-num-label,.sc-num,.sc-stat-big,.sc-kpi-val,.sc-phrase-pill,.sc-action-btns,.sc-minimal-dl-item>summary,.sc-minimal-dl-actions,.sc-test02-h1,.sc-main-title,svg,code,pre,.sc-code,.sc-math,.sc-top-bar";
@@ -283,24 +224,12 @@
   }
 
   var ds=document.createElement("script");
-  ds.src=b+"sc_translations.js?v=2.4";
+  ds.src=b+"sc_translations.js?v=2.5";
   ds.onload=function(){
     var cur=getLang();
     if(cur&&cur!=="en") applyDict(cur);
   };
   document.head.appendChild(ds);
-
-  document.addEventListener("click",function(e){
-    var a=e.target&&e.target.closest?e.target.closest("a[href]"):null; if(!a)return;
-    var h=a.getAttribute("href");
-    if(!h||h.indexOf("#")===0||h.indexOf("javascript:")===0||h.indexOf("mailto:")===0||a.hasAttribute("download"))return;
-    var l=getLang(); saveLang(l);
-    if(l&&l!=="en"){
-      var ch=h.replace(/([?&])sc_lang=[a-zA-Z-]+&?/i,"$1").replace(/[?&]$/,"");
-      var sp=ch.indexOf("?")===-1?"?":"&", hi=ch.indexOf("#");
-      a.setAttribute("href",hi!==-1?ch.substring(0,hi)+sp+"sc_lang="+l+ch.substring(hi):ch+sp+"sc_lang="+l);
-    }
-  },true);
 
   function switchLang(l){
     var nl=normLangCode(l);

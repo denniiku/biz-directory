@@ -388,7 +388,7 @@ if (Test-Path $navJsFile) {
 }
 
 # Ensure SC_TR_LOAD translator loader is embedded before copying to domains
-$trLoaderLine = '/* SC_TR_LOAD */(function(){try{var p=location.pathname.replace(/\\/g,"/"),b="/common_assets/";if(location.protocol==="file:"){var i=p.toLowerCase().indexOf("/sc_web/");b=i!==-1?"file://"+p.substring(0,i+8)+"common_assets/":"./common_assets/";}var s=document.createElement("script");s.src=b+"sc_translator.js?v=2.4";s.defer=true;document.head.appendChild(s);}catch(e){}})();'
+$trLoaderLine = '/* SC_TR_LOAD */(function(){try{var p=location.pathname.replace(/\\/g,"/"),b="/common_assets/";if(location.protocol==="file:"){var i=p.toLowerCase().indexOf("/sc_web/");b=i!==-1?"file://"+p.substring(0,i+8)+"common_assets/":"./common_assets/";}var s=document.createElement("script");s.src=b+"sc_translator.js?v=2.5";s.defer=true;document.head.appendChild(s);}catch(e){}})();'
 $currNav = [System.IO.File]::ReadAllText("$masterCommon\nav_new.js", $utf8)
 if ($currNav -notmatch 'SC_TR_LOAD') {
     [System.IO.File]::WriteAllText("$masterCommon\nav_new.js", $currNav.TrimEnd() + "`r`n" + $trLoaderLine + "`r`n", $utf8)
