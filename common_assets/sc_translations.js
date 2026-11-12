@@ -1,5 +1,10 @@
 window.SC_AI_TRANSLATIONS = window.SC_AI_TRANSLATIONS || {
   "ko": {
+    "exo-brain": "exo-brain",
+    "Animal Bio-Health": "Animal Bio-Health",
+    "Vet Specialties": "Vet Specialties",
+    "Sistar Challengers": "Sistar Challengers",
+    "c.a.n.": "c.a.n.",
     "One Task, Multi Outcomes — Full-Stack AI Commerce & International AI Trading Spaceship.": "하나의 과업으로 다중의 성과를 창출하는 풀스택 AI 커머스 & 글로벌 AI 트레이딩 스페이스십.",
     "*sc - sistar company is fully integrating the SISTAR family groups and proudly launching our new corporate identity.": "*SC - SISTAR COMPANY는 기존 SISTAR 패밀리 그룹을 하나로 완벽히 통합하며 새로운 기업 아이덴티티(CI)를 공식 출범합니다.",
     "Pioneering new ways of working and doing global business, *sc operates as a Full-Stack AI Commerce & International AI Trading enterprise—equipped with our proprietary Qubit Algorithm™, developed by *sc for brand-new AI commerce and global trading.": "일하는 방식과 글로벌 비즈니스의 새로운 패러다임을 개척하는 *SC는 차세대 AI 커머스와 국제 무역을 위해 자체 개발한 독자적 Qubit Algorithm™을 탑재한 풀스택 AI 커머스 및 글로벌 AI 트레이딩 기업입니다.",
@@ -13,6 +18,11 @@ window.SC_AI_TRANSLATIONS = window.SC_AI_TRANSLATIONS || {
     "Five foundational signatures define why *SC scales faster, safer, and more profitably than traditional enterprises or high-burn startups.": "*SC가 전통적인 무역·제조 기업이나 고정비 소모가 큰 일반 스타트업보다 훨씬 빠르고 안전하며 높은 수익성으로 스케일업할 수 있는 이유는 다음 5가지 핵심 시그니처에 있습니다."
   },
   "id": {
+    "exo-brain": "exo-brain",
+    "Animal Bio-Health": "Animal Bio-Health",
+    "Vet Specialties": "Vet Specialties",
+    "Sistar Challengers": "Sistar Challengers",
+    "c.a.n.": "c.a.n.",
     "One Task, Multi Outcomes — Full-Stack AI Commerce & International AI Trading Spaceship.": "Satu Tugas, Multi Hasil — Kapal Luar Angkasa AI Commerce Full-Stack & Perdagangan AI Internasional.",
     "*sc - sistar company is fully integrating the SISTAR family groups and proudly launching our new corporate identity.": "*SC - SISTAR COMPANY mengintegrasikan seluruh grup keluarga SISTAR secara penuh dan dengan bangga meluncurkan identitas korporat baru kami.",
     "Pioneering new ways of working and doing global business, *sc operates as a Full-Stack AI Commerce & International AI Trading enterprise—equipped with our proprietary Qubit Algorithm™, developed by *sc for brand-new AI commerce and global trading.": "Memelopori cara baru dalam bekerja dan berbisnis global, *SC beroperasi sebagai perusahaan Full-Stack AI Commerce & Perdagangan AI Internasional—dilengkapi dengan Qubit Algorithm™ milik kami untuk perdagangan global generasi baru.",

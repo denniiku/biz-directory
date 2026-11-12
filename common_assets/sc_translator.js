@@ -95,18 +95,65 @@
 
   var liveCache = {};
 
+  // === [*SC PROPRIETARY GLOSSARY LOCK (CUMULATIVE PRE-MASKING)] ===
+  var SC_GLOSSARY_LOCK = [
+    { rx: /\bc\.a\.n\.?\b/gi, keep: "c.a.n." },
+    { rx: /\bsistar\s+challengers\b/gi, keep: "Sistar Challengers" },
+    { rx: /\bvet\s+specialties\b/gi, keep: "Vet Specialties" },
+    { rx: /\banimal\s+bio[\s-]health\b/gi, keep: "Animal Bio-Health" },
+    { rx: /\bexo[\s-]brain\b/gi, keep: "exo-brain" },
+    { rx: /\*sc\b/gi, keep: "*sc" },
+    { rx: /\bsistar\s+company\b/gi, keep: "SISTAR Company" },
+    { rx: /\bsignal\s+star\s+universe\b/gi, keep: "Signal Star Universe" },
+    { rx: /\bsignal\s+star\b/gi, keep: "Signal Star" },
+    { rx: /\bqubit[\s-]algorithm(?:™)?\b/gi, keep: "Qubit Algorithm™" },
+    { rx: /\bqubit[\s-]biz\b/gi, keep: "qubit-biz" },
+    { rx: /\bqubit\s+erp\b/gi, keep: "Qubit ERP" },
+    { rx: /\bqubit\s+bank\b/gi, keep: "Qubit Bank" },
+    { rx: /\bscarlet[\s-]ai\b/gi, keep: "scarlet-ai" },
+    { rx: /\bintelligence[\s-]core\b/gi, keep: "intelligence-core" },
+    { rx: /\bbiz[\s-]galaxy\b/gi, keep: "biz-galaxy" },
+    { rx: /\bbiz[\s-]hub\b/gi, keep: "biz-hub" },
+    { rx: /\bbiz[\s-]directory\b/gi, keep: "biz-directory" },
+    { rx: /\bcosmo\s+seed\b/gi, keep: "Cosmo Seed" }
+  ];
+
+  function maskGlossary(text){
+    var masked = text, tokens = [];
+    for(var i=0; i<SC_GLOSSARY_LOCK.length; i++){
+      var item = SC_GLOSSARY_LOCK[i];
+      masked = masked.replace(item.rx, function(){
+        var id = tokens.length;
+        tokens.push(item.keep);
+        return " __SCT" + id + "__ ";
+      });
+    }
+    return { text: masked, tokens: tokens };
+  }
+
+  function unmaskGlossary(translated, tokens){
+    var res = translated;
+    for(var i=0; i<tokens.length; i++){
+      var rx = new RegExp("\\s*__\\s*SCT\\s*" + i + "\\s*__\\s*", "gi");
+      res = res.replace(rx, " " + tokens[i] + " ");
+    }
+    return res.replace(/\s+/g, " ").trim();
+  }
+
   function fetchLiveTranslation(text, targetLang, callback){
     if(!text || text.length < 2) return;
     var cacheKey = targetLang + "||" + text;
     if(liveCache[cacheKey]){ callback(liveCache[cacheKey]); return; }
     try{
-      var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=" + encodeURIComponent(targetLang) + "&dt=t&q=" + encodeURIComponent(text);
+      var m = maskGlossary(text);
+      var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=" + encodeURIComponent(targetLang) + "&dt=t&q=" + encodeURIComponent(m.text);
       fetch(url).then(function(r){ return r.json(); }).then(function(data){
         if(data && Array.isArray(data[0])){
-          var translated = data[0].map(function(seg){ return seg[0]; }).join("");
-          if(translated){
-            liveCache[cacheKey] = translated;
-            callback(translated);
+          var rawTranslated = data[0].map(function(seg){ return seg[0]; }).join("");
+          if(rawTranslated){
+            var finalTranslated = unmaskGlossary(rawTranslated, m.tokens);
+            liveCache[cacheKey] = finalTranslated;
+            callback(finalTranslated);
           }
         }
       }).catch(function(){});
