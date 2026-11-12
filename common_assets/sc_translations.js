@@ -21494,11 +21494,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Layer 2 コア AI アセット・ボルト"
   },
   "03 • intelligence-core intelligence.sistarcompany.com": {
-    "ko": "03 • intelligence-core intelligence.sistarcompany.com",
-    "id": "03 • intelligence-core intelligence.sistarcompany.com",
-    "vi": "03 • intelligence-core intelligence.sistarcompany.com",
-    "zh-CN": "03 • intelligence-core intelligence.sistarcompany.com",
-    "ja": "03 • intelligence-core intelligence.sistarcompany.com"
+    "ko": "03 • Intelligence Core intelligence.sistarcompany.com",
+    "id": "03 • Intelligence Core intelligence.sistarcompany.com",
+    "vi": "03 • Intelligence Core intelligence.sistarcompany.com",
+    "zh-CN": "03 • Intelligence Core intelligence.sistarcompany.com",
+    "ja": "03 • Intelligence Core intelligence.sistarcompany.com"
   },
   "Proprietary AI Asset Vault & Engine Room": {
     "ko": "독점 AI 자산 저장소 및 엔진 룸",
@@ -21522,11 +21522,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Layer 3 デュアル商用プラットフォーム"
   },
   "04 • scarlet-ai scarlet.sistarcompany.com": {
-    "ko": "04 • scarlet-ai scarlet.sistarcompany.com",
-    "id": "04 • scarlet-ai scarlet.sistarcompany.com",
-    "vi": "04 • scarlet-ai scarlet.sistarcompany.com",
-    "zh-CN": "04 • scarlet-ai scarlet.sistarcompany.com",
-    "ja": "04 • scarlet-ai scarlet.sistarcompany.com"
+    "ko": "04 • Scarlet.ai scarlet.sistarcompany.com",
+    "id": "04 • Scarlet.ai scarlet.sistarcompany.com",
+    "vi": "04 • Scarlet.ai scarlet.sistarcompany.com",
+    "zh-CN": "04 • Scarlet.ai scarlet.sistarcompany.com",
+    "ja": "04 • Scarlet.ai scarlet.sistarcompany.com"
   },
   "AI Commerce & AI Trade Int'l Marketplace Platform": {
     "ko": "AI 커머스 및 AI 무역 국제 마켓플레이스 플랫폼",
@@ -21543,11 +21543,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Volume-Wise Deals、共同購入（Buy4Me）、K-SURE BNPL、70/30 PG キャッシュバック、および同時 t = 0 決済を通じて、従来の貿易上のボトルネックを解消する業界・機能特化型 AI コマースです。"
   },
   "05 • qubit-biz qubit.sistarcompany.com": {
-    "ko": "05 • qubit-biz qubit.sistarcompany.com",
-    "id": "05 • qubit-biz qubit.sistarcompany.com",
-    "vi": "05 • qubit-biz qubit.sistarcompany.com",
-    "zh-CN": "05 • qubit-biz qubit.sistarcompany.com",
-    "ja": "05 • qubit-biz qubit.sistarcompany.com"
+    "ko": "05 • Qubit Biz qubit.sistarcompany.com",
+    "id": "05 • Qubit Biz qubit.sistarcompany.com",
+    "vi": "05 • Qubit Biz qubit.sistarcompany.com",
+    "zh-CN": "05 • Qubit Biz qubit.sistarcompany.com",
+    "ja": "05 • Qubit Biz qubit.sistarcompany.com"
   },
   "Cosmo Seed™ Biz Model Showcase & Cross-Project Platform": {
     "ko": "Cosmo Seed™ 비즈니스 모델 쇼케이스 및 교차 프로젝트 플랫폼",
@@ -21571,11 +21571,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Layer 4 エコシステム・アリーナ"
   },
   "06 • biz-galaxy biz.sistarcompany.com": {
-    "ko": "06 • biz-galaxy biz.sistarcompany.com",
-    "id": "06 • biz-galaxy biz.sistarcompany.com",
-    "vi": "06 • biz-galaxy biz.sistarcompany.com",
-    "zh-CN": "06 • biz-galaxy biz.sistarcompany.com",
-    "ja": "06 • biz-galaxy biz.sistarcompany.com"
+    "ko": "06 • Biz Galaxy biz.sistarcompany.com",
+    "id": "06 • Biz Galaxy biz.sistarcompany.com",
+    "vi": "06 • Biz Galaxy biz.sistarcompany.com",
+    "zh-CN": "06 • Biz Galaxy biz.sistarcompany.com",
+    "ja": "06 • Biz Galaxy biz.sistarcompany.com"
   },
   "Shining Constellation of Industry Verticals & Players": {
     "ko": "산업 버티컬 및 플레이어들의 빛나는 성단",
@@ -21592,11 +21592,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Cosmo Seed™ モデルと市場プレイヤーが、Qubit Algorithm™ の下でアクティブなバーティカル（SISTAR MedIX, SISPet, SISPharm, Aquasis, SisAyurvedic, Mind Company, FlexKids AI, SISMii）全体でそれぞれの役割を果たす場所です。"
   },
   "07 • biz-hub bizhub.sistarcompany.com": {
-    "ko": "07 • biz-hub bizhub.sistarcompany.com",
-    "id": "07 • biz-hub bizhub.sistarcompany.com",
-    "vi": "07 • biz-hub bizhub.sistarcompany.com",
-    "zh-CN": "07 • biz-hub bizhub.sistarcompany.com",
-    "ja": "07 • biz-hub bizhub.sistarcompany.com"
+    "ko": "07 • Biz Hub bizhub.sistarcompany.com",
+    "id": "07 • Biz Hub bizhub.sistarcompany.com",
+    "vi": "07 • Biz Hub bizhub.sistarcompany.com",
+    "zh-CN": "07 • Biz Hub bizhub.sistarcompany.com",
+    "ja": "07 • Biz Hub bizhub.sistarcompany.com"
   },
   "\"Together Gets Stronger\" Co-Creation Hub": {
     "ko": "\"함께하면 더 강해진다\" 공동 창조 허브",
@@ -21620,11 +21620,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Layer 5 3つの柱となる参加者"
   },
   "08 • challengers challengers.sistarcompany.com": {
-    "ko": "08 • challengers challengers.sistarcompany.com",
-    "id": "08 • challengers challengers.sistarcompany.com",
-    "vi": "08 • challengers challengers.sistarcompany.com",
-    "zh-CN": "08 • challengers challengers.sistarcompany.com",
-    "ja": "08 • challengers challengers.sistarcompany.com"
+    "ko": "08 • Challengers challengers.sistarcompany.com",
+    "id": "08 • Challengers challengers.sistarcompany.com",
+    "vi": "08 • Challengers challengers.sistarcompany.com",
+    "zh-CN": "08 • Challengers challengers.sistarcompany.com",
+    "ja": "08 • Challengers challengers.sistarcompany.com"
   },
   "International SISTAR Family & Vibe Working Portal": {
     "ko": "국제 SISTAR 패밀리 및 Vibe Working 포털",
@@ -21641,11 +21641,11 @@ window.SC_TRANSLATIONS = {
     "ja": "グローバルな人材を、従業員やフリーランサーとしてではなく、Vibe Working を実践し、キャリアを築き、S1-S6 フランチャイズシップを通じて利益を共有する国際的な SISTAR Family（SISTAR Challengers）としてオンボーディングします。"
   },
   "09 • partnership partnership.sistarcompany.com": {
-    "ko": "09 • partnership partnership.sistarcompany.com",
-    "id": "09 • partnership partnership.sistarcompany.com",
-    "vi": "09 • partnership partnership.sistarcompany.com",
-    "zh-CN": "09 • partnership partnership.sistarcompany.com",
-    "ja": "09 • partnership partnership.sistarcompany.com"
+    "ko": "09 • Partnership partnership.sistarcompany.com",
+    "id": "09 • Partnership partnership.sistarcompany.com",
+    "vi": "09 • Partnership partnership.sistarcompany.com",
+    "zh-CN": "09 • Partnership partnership.sistarcompany.com",
+    "ja": "09 • Partnership partnership.sistarcompany.com"
   },
   "Global Business Partners Motivation Gateway": {
     "ko": "글로벌 비즈니스 파트너 동기 부여 게이트웨이",
@@ -21788,11 +21788,11 @@ window.SC_TRANSLATIONS = {
     "ja": "レイヤー1 ルートアイデンティティおよびコア法"
   },
   "01 • sc-sistarcompany sistarcompany.com": {
-    "ko": "01 • sc-sistarcompany sistarcompany.com",
-    "id": "01 • sc-sistarcompany sistarcompany.com",
-    "vi": "01 • sc-sistarcompany sistarcompany.com",
-    "zh-CN": "01 • sc-sistarcompany sistarcompany.com",
-    "ja": "01 • sc-sistarcompany sistarcompany.com"
+    "ko": "01 • SC-SISTAR Company sistarcompany.com",
+    "id": "01 • SC-SISTAR Company sistarcompany.com",
+    "vi": "01 • SC-SISTAR Company sistarcompany.com",
+    "zh-CN": "01 • SC-SISTAR Company sistarcompany.com",
+    "ja": "01 • SC-SISTAR Company sistarcompany.com"
   },
   "Supreme Corporate Flagship & Global Alliances": {
     "ko": "최고 기업 플래그십 및 글로벌 동맹",
@@ -21809,11 +21809,11 @@ window.SC_TRANSLATIONS = {
     "ja": "20年以上の国際BD実務と貿易の熟練度；8つのグローバル拠点（SCK, SCI, SCV, SG, SCC, SCJ, SCU, IN）；フェデレーション同盟（IATA & IADA — 「グローバルAI巨人に立ち向かう、共に」）；4つのピラーおよび15の創設プロジェクトの背骨。"
   },
   "02 • qubit-algorithm qubitalgorithm.sistarcompany.com": {
-    "ko": "02 • qubit-algorithm qubitalgorithm.sistarcompany.com",
-    "id": "02 • qubit-algorithm qubitalgorithm.sistarcompany.com",
-    "vi": "02 • qubit-algorithm qubitalgorithm.sistarcompany.com",
-    "zh-CN": "02 • qubit-algorithm qubitalgorithm.sistarcompany.com",
-    "ja": "02 • qubit-algorithm qubitalgorithm.sistarcompany.com"
+    "ko": "02 • Qubit Algorithm™ qubitalgorithm.sistarcompany.com",
+    "id": "02 • Qubit Algorithm™ qubitalgorithm.sistarcompany.com",
+    "vi": "02 • Qubit Algorithm™ qubitalgorithm.sistarcompany.com",
+    "zh-CN": "02 • Qubit Algorithm™ qubitalgorithm.sistarcompany.com",
+    "ja": "02 • Qubit Algorithm™ qubitalgorithm.sistarcompany.com"
   },
   "Mathematical & Theoretical Propulsion Engine": {
     "ko": "수학적 및 이론적 추진 엔진",
@@ -21830,11 +21830,11 @@ window.SC_TRANSLATIONS = {
     "ja": "グローバル市場全体のメーカー、流通業者、動物病院、ブランドオーナーに対し、即時の収益創出、ODM、AI Dx、およびクロスボーダー貿易の優位性を実証し、意欲を喚起します。"
   },
   "10 • ir-pitchdeck ir.sistarcompany.com": {
-    "ko": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "id": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "vi": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "zh-CN": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "ja": "10 • ir-pitchdeck ir.sistarcompany.com"
+    "ko": "10 • IR Pitch Deck ir.sistarcompany.com",
+    "id": "10 • IR Pitch Deck ir.sistarcompany.com",
+    "vi": "10 • IR Pitch Deck ir.sistarcompany.com",
+    "zh-CN": "10 • IR Pitch Deck ir.sistarcompany.com",
+    "ja": "10 • IR Pitch Deck ir.sistarcompany.com"
   },
   "VC & Institutional Investment Conviction Hub": {
     "ko": "VC 및 기관 투자 확신 허브",
@@ -21858,11 +21858,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Layer 6 Open Directory & Media"
   },
   "11 • biz-directory directory.sistarcompany.com": {
-    "ko": "11 • biz-directory directory.sistarcompany.com",
-    "id": "11 • biz-directory directory.sistarcompany.com",
-    "vi": "11 • biz-directory directory.sistarcompany.com",
-    "zh-CN": "11 • biz-directory directory.sistarcompany.com",
-    "ja": "11 • biz-directory directory.sistarcompany.com"
+    "ko": "11 • Biz Directory directory.sistarcompany.com",
+    "id": "11 • Biz Directory directory.sistarcompany.com",
+    "vi": "11 • Biz Directory directory.sistarcompany.com",
+    "zh-CN": "11 • Biz Directory directory.sistarcompany.com",
+    "ja": "11 • Biz Directory directory.sistarcompany.com"
   },
   "Open B2B Proposal & Corporate Directory": {
     "ko": "오픈 B2B 제안 및 기업 디렉토리",
@@ -21879,11 +21879,11 @@ window.SC_TRANSLATIONS = {
     "ja": "グローバル企業をscarlet-aiおよびqubit-bizの実行パイプラインに直接接続する、カテゴリー別のビジネス提案およびオープンな企業リストです。"
   },
   "12 • media media.sistarcompany.com": {
-    "ko": "12 • media media.sistarcompany.com",
-    "id": "12 • media media.sistarcompany.com",
-    "vi": "12 • media media.sistarcompany.com",
-    "zh-CN": "12 • media media.sistarcompany.com",
-    "ja": "12 • media media.sistarcompany.com"
+    "ko": "12 • Media media.sistarcompany.com",
+    "id": "12 • Media media.sistarcompany.com",
+    "vi": "12 • Media media.sistarcompany.com",
+    "zh-CN": "12 • Media media.sistarcompany.com",
+    "ja": "12 • Media media.sistarcompany.com"
   },
   "Content Forge & Media Activity Archive": {
     "ko": "콘텐츠 포지 및 미디어 활동 아카이브",

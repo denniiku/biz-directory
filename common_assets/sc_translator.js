@@ -7,6 +7,7 @@
     cn: "zh-CN",
     jp: "ja"
   };
+  var LANG_LIST = ["en", "kr", "id", "vn", "cn", "jp"];
 
   function getBaseAssetsPath() {
     var p = location.pathname.replace(/\\/g, "/");
@@ -18,6 +19,87 @@
       return "./common_assets/";
     }
     return "/common_assets/";
+  }
+
+  function injectLangStyles() {
+    if (document.getElementById("sc-lang-bar-styles")) return;
+    var style = document.createElement("style");
+    style.id = "sc-lang-bar-styles";
+    style.textContent = [
+      "#sc-left-nav .sc-lang-bar {",
+      "  display: flex !important;",
+      "  align-items: center !important;",
+      "  gap: 13px !important;",
+      "  padding: 6px 18px 12px 18px !important;",
+      "  margin: 0 !important;",
+      "  border-bottom: 1px solid rgba(15, 23, 42, 0.08) !important;",
+      "  font-family: 'Space Grotesk', 'Inter', sans-serif !important;",
+      "  font-size: 13.5px !important;",
+      "  line-height: 1.2 !important;",
+      "  user-select: none !important;",
+      "}",
+      "body.sc-nav-folded #sc-left-nav .sc-lang-bar {",
+      "  display: none !important;",
+      "}",
+      "#sc-left-nav .sc-lang-bar .sc-lang-btn {",
+      "  cursor: pointer !important;",
+      "  color: #475569 !important;",
+      "  font-weight: 500 !important;",
+      "  text-decoration: none !important;",
+      "  padding: 2px 1px 4px 1px !important;",
+      "  border-bottom: 2px solid transparent !important;",
+      "  transition: all 0.15s ease !important;",
+      "  text-transform: lowercase !important;",
+      "  background: transparent !important;",
+      "  border-top: none !important; border-left: none !important; border-right: none !important;",
+      "}",
+      "#sc-left-nav .sc-lang-bar .sc-lang-btn:hover {",
+      "  color: #0f172a !important;",
+      "}",
+      "#sc-left-nav .sc-lang-bar .sc-lang-btn.active {",
+      "  color: #0f5132 !important;",
+      "  font-weight: 700 !important;",
+      "  border-bottom: 2px solid #0f5132 !important;",
+      "}"
+    ].join("\n");
+    document.head.appendChild(style);
+  }
+
+  function ensureLangBarInNav() {
+    injectLangStyles();
+    var nav = document.getElementById("sc-left-nav");
+    if (!nav) return false;
+
+    var existing = nav.querySelector(".sc-lang-bar");
+    if (existing) return true;
+
+    var bar = document.createElement("div");
+    bar.className = "sc-lang-bar notranslate";
+    bar.setAttribute("translate", "no");
+
+    var currentLang = "en";
+    try { currentLang = (localStorage.getItem("sc_lang") || "en").toLowerCase(); } catch (e) {}
+    if (!LANG_MAP[currentLang]) currentLang = "en";
+
+    for (var i = 0; i < LANG_LIST.length; i++) {
+      var code = LANG_LIST[i];
+      var btn = document.createElement("span");
+      btn.className = "sc-lang-btn" + (code === currentLang ? " active" : "");
+      btn.setAttribute("data-sc-lang", code);
+      btn.textContent = code;
+      bar.appendChild(btn);
+    }
+
+    // Insert right after the top header row inside #sc-left-nav
+    var headerEl = nav.querySelector(".sc-nav-header, .sc-brand-header, .nav-header, header") || nav.firstElementChild;
+    if (headerEl && headerEl.nextSibling) {
+      nav.insertBefore(bar, headerEl.nextSibling);
+    } else if (headerEl) {
+      nav.appendChild(bar);
+    } else {
+      nav.insertBefore(bar, nav.firstChild);
+    }
+    return true;
   }
 
   function normalizeText(str) {
@@ -32,29 +114,12 @@
   var normalizedDictCache = null;
   function getNormalizedDict() {
     if (normalizedDictCache) return normalizedDictCache;
-    var raw = window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS || {};
+    var raw = window.SC_TRANSLATIONS || {};
     var map = {};
-    var langs = ["ko", "id", "vi", "zh-CN", "ja"];
-    if (raw.ko && typeof raw.ko === "object" && !raw.ko.ko) {
-      for (var l = 0; l < langs.length; l++) {
-        var langKey = langs[l];
-        var langObj = raw[langKey];
-        if (langObj && typeof langObj === "object") {
-          var enKeys = Object.keys(langObj);
-          for (var j = 0; j < enKeys.length; j++) {
-            var ek = enKeys[j];
-            var nk = normalizeText(ek);
-            if (!map[nk]) map[nk] = {};
-            map[nk][langKey] = langObj[ek];
-          }
-        }
-      }
-    } else {
-      var keys = Object.keys(raw);
-      for (var i = 0; i < keys.length; i++) {
-        var k = keys[i];
-        map[normalizeText(k)] = raw[k];
-      }
+    var keys = Object.keys(raw);
+    for (var i = 0; i < keys.length; i++) {
+      var k = keys[i];
+      map[normalizeText(k)] = raw[k];
     }
     normalizedDictCache = map;
     return map;
@@ -74,7 +139,6 @@
       if (el.closest("#sc-left-nav") || el.closest(".notranslate") || el.closest("[translate='no']") || el.closest("svg") || el.closest("pre")) continue;
       if (el.classList && (el.classList.contains("notranslate") || el.classList.contains("sc-route") || el.classList.contains("sc-math-code") || el.classList.contains("sc-kpi-val"))) continue;
 
-      // Skip container elements that hold block children
       if (el.querySelector("article, section, div, table, ul, ol, p, h1, h2, h3, h4, h5, h6, svg, pre")) continue;
 
       if (!el.hasAttribute("data-sc-orig-html")) {
@@ -100,6 +164,7 @@
   }
 
   function updateLangButtonsUI(activeLang) {
+    ensureLangBarInNav();
     var btns = document.querySelectorAll("[data-sc-lang], .sc-lang-bar span, .sc-lang-bar a, .sc-lang-bar button, #sc-left-nav .lang-btn");
     for (var i = 0; i < btns.length; i++) {
       var b = btns[i];
@@ -107,12 +172,8 @@
       if (LANG_MAP[code]) {
         if (code === activeLang) {
           b.classList.add("active");
-          b.style.fontWeight = "700";
-          b.style.borderBottom = "2px solid #0f5132";
         } else {
           b.classList.remove("active");
-          b.style.fontWeight = "";
-          b.style.borderBottom = "";
         }
       }
     }
@@ -134,13 +195,13 @@
 
   var dictLoading = false;
   function ensureDictionaryLoaded(cb) {
-    if (window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS) {
+    if (window.SC_TRANSLATIONS) {
       cb();
       return;
     }
     if (dictLoading) {
       var timer = setInterval(function () {
-        if (window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS) {
+        if (window.SC_TRANSLATIONS) {
           clearInterval(timer);
           cb();
         }
@@ -158,8 +219,9 @@
     document.addEventListener("click", function (e) {
       var t = e.target;
       if (!t) return;
-      var txt = (t.getAttribute("data-sc-lang") || t.textContent || "").trim().toLowerCase();
-      if (LANG_MAP[txt] && (t.closest("#sc-left-nav") || t.closest(".sc-lang-bar"))) {
+      var btn = t.closest("[data-sc-lang]") || t;
+      var txt = (btn.getAttribute("data-sc-lang") || btn.textContent || "").trim().toLowerCase();
+      if (LANG_MAP[txt] && (btn.closest("#sc-left-nav") || btn.closest(".sc-lang-bar"))) {
         e.preventDefault();
         e.stopPropagation();
         window.scSetLanguage(txt);
@@ -167,10 +229,20 @@
     }, true);
   }
 
+  function watchNavMount() {
+    ensureLangBarInNav();
+    var obs = new MutationObserver(function () {
+      ensureLangBarInNav();
+    });
+    obs.observe(document.documentElement || document.body, { childList: true, subtree: true });
+  }
+
   function init() {
     bindNavLangClicks();
+    watchNavMount();
     var saved = "en";
     try { saved = localStorage.getItem("sc_lang") || "en"; } catch (e) {}
+    updateLangButtonsUI(saved && LANG_MAP[saved] ? saved : "en");
     if (saved && saved !== "en" && LANG_MAP[saved]) {
       window.scSetLanguage(saved);
     }
