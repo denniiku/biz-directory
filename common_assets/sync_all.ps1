@@ -50,6 +50,12 @@ if (Test-Path $navJsPath) {
     }
 }
 
+# 2.5 공개 12개 도메인 증분 번역 자동 업데이트 (변경/추가된 문장만 Gemini API로 번역)
+if ((Test-Path "$root\update_translations.js") -and $env:GEMINI_API_KEY) {
+    Write-Host "  [TRANSLATIONS] Checking for new/modified English text across 12 domains..." -ForegroundColor Yellow
+    node "$root\update_translations.js" sc_web
+}
+
 # 3. 오직 공개 12개 도메인만 미러링 및 GitHub Push (mgnt는 100% 제외하여 절대 간섭하지 않음)
 $publicDomains = Get-ChildItem -Path $root -Directory | Where-Object {
     $_.Name -notin @("common_assets", "mgnt", "mgt", ".github", ".vscode", ".agy") -and (Test-Path (Join-Path $_.FullName ".git"))

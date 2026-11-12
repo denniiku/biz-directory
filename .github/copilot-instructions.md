@@ -165,3 +165,21 @@
 2. **Zero Blind Overwrites / Zero Hacky Injections:**
    - Never assume how a feature works or invent a parallel/redundant mechanism (e.g., do not inject runtime workarounds when a build-time pipeline already exists).
    - Always read the target HTML, `common_new.css`, `nav_new.js`, `sc_translator.js`, and build scripts first, and strictly follow the established structure, naming conventions, and data flow of the existing system.
+
+---
+
+## [MANDATORY RULE] Pre-Built Static Translation Architecture & Executive Business Quality
+
+1. **Architecture Principle (Zero Runtime API / Navigator Integrity):**
+   - All multi-language translations (`en`, `ko/kr`, `id`, `vi/vn`, `zh-CN/cn`, `ja/jp`) operate strictly on a **100% Pre-Translated Static Dictionary (`common_assets/sc_translations.js`)** generated via the paid Gemini API (`C:\projects\sc_web\update_translations.js`).
+   - NEVER use runtime Google Translate (`translate.googleapis.com`), cookies, or URL query string mutation (`?sc_lang=...`).
+   - NEVER alter the font size, spacing, or layout of the left navigator (`#sc-left-nav`).
+   - `common_assets/sc_translator.js` must remain a pure static viewer that reads `localStorage.getItem("sc_preferred_lang")` and swaps main content text instantaneously from `window.SC_AI_TRANSLATIONS`.
+
+2. **Executive Business Tone & Context-Aware Glossary Rules:**
+   - Translations must use authentic C-level business, international trade, and AI venture studio terminology.
+   - If translating an English technical or business term sounds unnatural in context (e.g., `Full-Stack`, `B2B`, `D2C`, `SKU`, `CDSS`, `POCT`, `ROI`, `ERP`, `Anchor`), retain the English term naturally.
+   - Strictly preserve all proprietary brand and project names in their exact English form (`*sc`, `SISTAR Company`, `Signal Star Universe`, `Qubit Algorithm™`, `c.a.n.`, `ActionNote AI CEO`, `Sistar Challengers`, `Vet Specialties`, `Animal Bio-Health`, `exo-brain`, `SISTAR MedIX`, `SISPet`, `SISTAR Dx`, `SISPharm`, `Scarlet Vet CDSS`, etc.).
+
+3. **Incremental Update Workflow:**
+   - Whenever English HTML pages are added or modified, running `node C:\projects\sc_web\update_translations.js sc_web` (or `sc-sync`) automatically translates ONLY newly added or modified English sentences and keeps `sc_translations.js` up to date.
