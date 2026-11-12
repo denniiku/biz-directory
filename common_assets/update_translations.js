@@ -3,7 +3,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const API_KEY = process.env.GEMINI_API_KEY || "";
-const MODEL = "gemini-3.1-flash-lite";
+const MODEL = "gemini-2.5-flash";
 
 const PUBLIC_DOMAINS = [
   "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
@@ -11,58 +11,89 @@ const PUBLIC_DOMAINS = [
   "partnership","ir-pitchdeck","biz-directory","media"
 ];
 
-function normalizeKey(str) {
+function decodeHtmlEntities(str) {
   if (!str) return "";
   return str
-    .replace(/<!--[\s\S]*?-->/g, " ")
-    .replace(/<[^>]+>/g, " ")
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .replace(/<br\s*\/?>/gi, " ")
+    .replace(/<\/?(p|div|li|tr|td|th|h[1-6])\b[^>]*>/gi, " ")
+    .replace(/<[^>]+>/g, "") // Strip inline tags (<strong>, <em>, <span>) WITHOUT adding extra spaces, matching browser el.textContent!
     .replace(/&nbsp;/gi, " ")
     .replace(/&amp;/gi, "&")
     .replace(/&rarr;/gi, "→")
     .replace(/&larr;/gi, "←")
+    .replace(/&harr;/gi, "↔")
+    .replace(/&rArr;/gi, "⇒")
     .replace(/&bull;/gi, "•")
     .replace(/&mdash;/gi, "—")
     .replace(/&ndash;/gi, "–")
-    .replace(/&rsquo;/gi, "'")
-    .replace(/&lsquo;/gi, "'")
-    .replace(/&ldquo;/gi, '"')
-    .replace(/&rdquo;/gi, '"')
+    .replace(/&rsquo;/gi, "’")
+    .replace(/&lsquo;/gi, "‘")
+    .replace(/&ldquo;/gi, "“")
+    .replace(/&rdquo;/gi, "”")
     .replace(/&trade;/gi, "™")
     .replace(/&times;/gi, "×")
-    .replace(/&#[0-9]+;/g, " ")
-    .replace(/&[a-zA-Z0-9]+;/g, " ")
+    .replace(/&otimes;/gi, "⊗")
+    .replace(/&Sigma;/g, "Σ")
+    .replace(/&Delta;/g, "Δ")
+    .replace(/&Psi;/g, "Ψ")
+    .replace(/&Phi;/g, "Φ")
+    .replace(/&psi;/g, "ψ")
+    .replace(/&phi;/g, "φ")
+    .replace(/&rho;/g, "ρ")
+    .replace(/&omega;/g, "ω")
+    .replace(/&langle;/gi, "⟨")
+    .replace(/&rangle;/gi, "⟩")
+    .replace(/&radic;/gi, "√")
+    .replace(/&int;/gi, "∫")
+    .replace(/&approx;/gi, "≈")
+    .replace(/&forall;/gi, "∀")
+    .replace(/&isin;/gi, "∈")
+    .replace(/&dagger;/gi, "†")
+    .replace(/&gt;/gi, ">")
+    .replace(/&lt;/gi, "<")
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(parseInt(dec, 10)))
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function shouldTranslateBlock(text) {
   if (!text || text.length < 2) return false;
-  if (text.length > 3500) return false; // Allow long institutional paragraphs up to 3,500 chars!
+  if (text.length > 4000) return false;
   if (!/[a-zA-Z]{2,}/.test(text)) return false;
   if (/^(https?:\/\/|www\.|[0-9.\s%$+\-/,~:;|•→←—–]+)$/i.test(text)) return false;
   return true;
 }
 
+function isKoreanProperlyTranslated(enText, koText) {
+  if (!koText || typeof koText !== "string") return false;
+  if (koText.trim() === enText.trim()) return false;
+  // For sentences/paragraphs longer than 35 chars, require Korean Hangul characters to be present
+  if (enText.length > 35) {
+    const hangulMatches = koText.match(/[\uAC00-\uD7AF]/g);
+    const hangulCount = hangulMatches ? hangulMatches.length : 0;
+    if (hangulCount < 4) return false;
+  }
+  return true;
+}
+
 function extractTranslatableUnitsFromHtml(html) {
   const units = new Set();
-  // Remove script, style, svg, pre, code blocks with notranslate
   let cleaned = html
     .replace(/<script[\s\S]*?<\/script>/gi, "")
     .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<svg[\s\S]*?<\/svg>/gi, "")
     .replace(/<pre[\s\S]*?<\/pre>/gi, "");
 
-  // Extract leaf/editorial blocks: h1-h6, p, li, td, th, div.sc-callout-title, div.sc-kpi-desc, div.sc-panel-kicker, span.sc-chapter-num, span.sc-chapter-tag, span.sc-phrase-pill, a.sc-btn-pdf, button.sc-btn-pdf
   const blockRegex = /<(h[1-6]|p|li|td|th|figcaption|blockquote|a|button|span|div)(\s[^>]*)?>([\s\S]*?)<\/\1>/gi;
   let match;
   while ((match = blockRegex.exec(cleaned)) !== null) {
     const attrs = match[2] || "";
     const inner = match[3] || "";
     if (/notranslate|translate\s*=\s*["']no["']|sc-route|sc-math-code|sc-kpi-val/i.test(attrs)) continue;
-    // Skip container divs/spans that wrap other block elements
     if (/<(article|section|div|table|ul|ol|p|h[1-6]|svg|pre)\b/i.test(inner)) continue;
 
-    const norm = normalizeKey(inner);
+    const norm = decodeHtmlEntities(inner);
     if (shouldTranslateBlock(norm)) {
       units.add(norm);
     }
@@ -77,58 +108,37 @@ function loadDict(dictPath) {
   const lastIdx = raw.lastIndexOf("}");
   if (idx === -1 || lastIdx === -1) return {};
   try {
-    const parsed = JSON.parse(raw.substring(idx, lastIdx + 1));
-    const langs = ["ko", "id", "vi", "zh-CN", "ja"];
-    if (parsed.ko && typeof parsed.ko === "object" && !parsed.ko.ko) {
-      const unified = {};
-      for (const l of langs) {
-        if (parsed[l] && typeof parsed[l] === "object") {
-          for (const [enKey, val] of Object.entries(parsed[l])) {
-            const nk = normalizeKey(enKey);
-            if (!nk) continue;
-            if (!unified[nk]) unified[nk] = {};
-            unified[nk][l] = val;
-          }
-        }
-      }
-      return unified;
-    }
-    const normalized = {};
-    for (const [k, v] of Object.entries(parsed)) {
-      const nk = normalizeKey(k);
-      if (nk) normalized[nk] = v;
-    }
-    return normalized;
+    return JSON.parse(raw.substring(idx, lastIdx + 1));
   } catch (e) {
     return {};
   }
 }
 
 function saveDict(dictPath, dictObj) {
-  const content = "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\nwindow.SC_AI_TRANSLATIONS = window.SC_TRANSLATIONS;\n";
+  const content = "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\n";
   fs.writeFileSync(dictPath, content, "utf8");
 }
 
 async function translateBatchWithGemini(batchStrings) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
-  const systemPrompt = `You are an elite institutional financial & technical translator for *SC (SISTAR Company / Signal Star Universe).
+  const systemPrompt = `You are the Chief Institutional Translator for *SC (SISTAR Company / Signal Star Universe).
 Translate the following JSON array of English strings into 5 target languages:
-- "ko": Korean (한국어 — 격조 높은 글로벌 VC/엔터프라이즈 비즈니스 한국어)
+- "ko": Korean (한국어 — 격조 높은 글로벌 VC/투자은행 보고서 수준의 자연스러운 비즈니스 한국어)
 - "id": Indonesian (Bahasa Indonesia — formal enterprise standard)
 - "vi": Vietnamese (Tiếng Việt — formal enterprise standard)
 - "zh-CN": Simplified Chinese (简体中文 — formal enterprise standard)
 - "ja": Japanese (日本語 — formal enterprise standard)
 
-CRITICAL TRANSLATION RULES (NEVER SKIP A PARAGRAPH!):
-1. NEVER skip or leave an entire sentence or paragraph in English! Every single item in the array MUST be fully translated into the target language's grammar and sentence structure.
-2. Keep key brand names, proprietary terms, and technical acronyms in English naturally inside the translated sentence when appropriate for context (e.g., *SC, SISTAR Company, Signal Star, Qubit Algorithm™, Cosmo Seed™, Scarlet.ai, Ms. Scarlet, Buy4Me, c.a.n., Qubit ERP, RAG, Vibe Working, SaaS, B2B, D2C, ODM, OEM, K-SURE BNPL, IATA, IADA, t=0, Rp 1,320).
-3. However, all surrounding explanations, verbs, clauses, and analytical prose MUST be completely translated so there is zero awkwardness or untranslated English paragraphs.
-4. Return ONLY a valid JSON array of objects in the exact same order, where each object has keys: "ko", "id", "vi", "zh-CN", "ja".`;
+ABSOLUTE TRANSLATION CONSTITUTION (ZERO SKIPPING ALLOWED):
+1. NEVER return an English paragraph or sentence untranslated! Even if a paragraph contains mathematical formulas (e.g., $A \\rightarrow B \\rightarrow C$, $t=0$, $T \\to 1$), acronyms, or brand names, you MUST translate the entire sentence structure, verbs, adjectives, and explanatory prose into the target language.
+2. Keep ONLY specific proprietary brand names, math expressions, and core technical terms in English where natural (e.g., *SC, SISTAR, Signal Star, Qubit Algorithm™, Cosmo Seed™, One Spark, One Task Multi Outcomes, Vibe Working, RAG, ERP, SaaS, B2B, ODM, OEM, K-SURE BNPL, IATA, IADA, $A \\rightarrow B \\rightarrow C$, $t=0$, Rp 1,320), while translating all surrounding words into fluent Korean/Indonesian/Vietnamese/Chinese/Japanese.
+3. For example, in Korean ("ko"), EVERY sentence and paragraph MUST end with proper Korean predicates (예: ~입니다, ~합니다, ~극대화합니다) and read as 100% fluent Korean prose.
+4. Return ONLY a valid JSON array of objects in the exact same order, with keys: "ko", "id", "vi", "zh-CN", "ja".`;
 
   const body = {
     contents: [{ role: "user", parts: [{ text: systemPrompt + "\n\nINPUT_ARRAY:\n" + JSON.stringify(batchStrings) }] }],
     generationConfig: {
-      temperature: 0.15,
+      temperature: 0.1,
       responseMimeType: "application/json"
     }
   };
@@ -177,51 +187,42 @@ async function main() {
   }
   scanDirs.forEach(walk);
 
-  // Identify missing OR previously untranslated (where ko === english key) strings
+  // Identify missing OR poorly translated (skipped English paragraphs) entries
   const missing = [];
   for (const s of allStrings) {
     const existing = dict[s];
-    if (!existing || !existing["ko"] || (s.length > 25 && existing["ko"] === s)) {
+    if (!existing || !isKoreanProperlyTranslated(s, existing["ko"])) {
       missing.push(s);
     }
   }
 
-  console.log(`[Translation Scan (${targetMode})] Total unique blocks: ${allStrings.size} | New/Untranslated blocks to process: ${missing.length}`);
-  saveDict(dictPath, dict);
+  console.log(`[Translation Scan (${targetMode})] Total unique blocks: ${allStrings.size} | Untranslated/Skipped blocks to fix: ${missing.length}`);
   if (missing.length === 0 || !API_KEY) {
     if (!API_KEY && missing.length > 0) console.log("  [WARN] GEMINI_API_KEY not set in environment.");
     return;
   }
 
-  const BATCH_SIZE = 25;
-  const CONCURRENCY = 4;
-  const batches = [];
+  const BATCH_SIZE = 15;
   for (let i = 0; i < missing.length; i += BATCH_SIZE) {
-    batches.push({ idx: Math.floor(i / BATCH_SIZE) + 1, items: missing.slice(i, i + BATCH_SIZE) });
-  }
-  const totalBatches = batches.length;
-
-  for (let w = 0; w < batches.length; w += CONCURRENCY) {
-    const wave = batches.slice(w, w + CONCURRENCY);
-    console.log(`  -> Translating wave ${Math.floor(w / CONCURRENCY) + 1}/${Math.ceil(totalBatches / CONCURRENCY)} (batches ${wave[0].idx}..${wave[wave.length - 1].idx} of ${totalBatches})...`);
-    await Promise.all(wave.map(async (b) => {
-      try {
-        const results = await translateBatchWithGemini(b.items);
-        if (Array.isArray(results) && results.length === b.items.length) {
-          for (let j = 0; j < b.items.length; j++) {
-            if (results[j] && results[j]["ko"]) {
-              dict[b.items[j]] = results[j];
-            }
+    const batch = missing.slice(i, i + BATCH_SIZE);
+    process.stdout.write(`  -> Translating batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(missing.length / BATCH_SIZE)} (${batch.length} blocks)... `);
+    try {
+      const results = await translateBatchWithGemini(batch);
+      if (Array.isArray(results) && results.length === batch.length) {
+        for (let j = 0; j < batch.length; j++) {
+          if (results[j] && results[j]["ko"]) {
+            dict[batch[j]] = results[j];
           }
-          console.log(`     [Batch ${b.idx}/${totalBatches}] OK (${b.items.length} blocks)`);
-        } else {
-          console.log(`     [Batch ${b.idx}/${totalBatches}] MISMATCH (${Array.isArray(results) ? results.length : 0}/${b.items.length})`);
         }
-      } catch (err) {
-        console.log(`     [Batch ${b.idx}/${totalBatches}] ERROR: ${err.message}`);
+        saveDict(dictPath, dict);
+        console.log("OK");
+      } else {
+        console.log("MISMATCH");
       }
-    }));
-    saveDict(dictPath, dict);
+    } catch (err) {
+      console.log(`ERROR: ${err.message}`);
+      break;
+    }
   }
 }
 

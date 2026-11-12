@@ -90,7 +90,6 @@
       bar.appendChild(btn);
     }
 
-    // Insert right after the top header row inside #sc-left-nav
     var headerEl = nav.querySelector(".sc-nav-header, .sc-brand-header, .nav-header, header") || nav.firstElementChild;
     if (headerEl && headerEl.nextSibling) {
       nav.insertBefore(bar, headerEl.nextSibling);
@@ -111,18 +110,29 @@
       .trim();
   }
 
-  var normalizedDictCache = null;
-  function getNormalizedDict() {
-    if (normalizedDictCache) return normalizedDictCache;
+  // Canonical key strips all punctuation/spaces/symbols so minor HTML tag boundary or quote differences NEVER break lookup
+  function canonicalKey(str) {
+    if (!str) return "";
+    return str.toLowerCase().replace(/[^a-z0-9]+/g, "");
+  }
+
+  var exactDictCache = null;
+  var canonDictCache = null;
+  function ensureCaches() {
+    if (exactDictCache && canonDictCache) return;
     var raw = window.SC_TRANSLATIONS || {};
-    var map = {};
+    exactDictCache = {};
+    canonDictCache = {};
     var keys = Object.keys(raw);
     for (var i = 0; i < keys.length; i++) {
       var k = keys[i];
-      map[normalizeText(k)] = raw[k];
+      var val = raw[k];
+      exactDictCache[normalizeText(k)] = val;
+      var ck = canonicalKey(k);
+      if (ck.length >= 4) {
+        canonDictCache[ck] = val;
+      }
     }
-    normalizedDictCache = map;
-    return map;
   }
 
   function applyStaticTranslations(uiLang) {
@@ -132,7 +142,7 @@
 
     var selector = "h1, h2, h3, h4, h5, h6, p, li, td, th, figcaption, blockquote, a, button, span, div";
     var elements = root.querySelectorAll(selector);
-    var dict = getNormalizedDict();
+    ensureCaches();
 
     for (var i = 0; i < elements.length; i++) {
       var el = elements[i];
@@ -146,6 +156,7 @@
         if (!normOrig || normOrig.length < 2) continue;
         el.setAttribute("data-sc-orig-html", el.innerHTML);
         el.setAttribute("data-sc-norm-key", normOrig);
+        el.setAttribute("data-sc-canon-key", canonicalKey(normOrig));
       }
 
       if (targetCode === "en") {
@@ -154,8 +165,9 @@
           el.innerHTML = origHtml;
         }
       } else {
-        var key = el.getAttribute("data-sc-norm-key");
-        var entry = dict[key];
+        var nKey = el.getAttribute("data-sc-norm-key");
+        var cKey = el.getAttribute("data-sc-canon-key");
+        var entry = exactDictCache[nKey] || (cKey ? canonDictCache[cKey] : null);
         if (entry && entry[targetCode]) {
           el.textContent = entry[targetCode];
         }
