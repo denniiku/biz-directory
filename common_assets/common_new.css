@@ -403,3 +403,17 @@ main div:has(> table) {
     display: none !important;
   }
 }
+
+/* === CLEAN LAYOUT OVERRIDES (NO TOP-RIGHT BUTTONS, NO FULL-PAGE WHITE WRAPPER, KEEP INNER CARDS) === */
+.sc-top-actions {
+  display: none !important;
+}
+.sc-monograph,
+.sc-monograph > .sc-chapter {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

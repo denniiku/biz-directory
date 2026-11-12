@@ -59,7 +59,7 @@ function decodeHtmlEntities(str) {
 
 function shouldTranslateBlock(text) {
   if (!text || text.length < 2) return false;
-  if (text.length > 4000) return false;
+  // No upper character limit
   if (!/[a-zA-Z]{2,}/.test(text)) return false;
   if (/^(https?:\/\/|www\.|[0-9.\s%$+\-/,~:;|•→←—–]+)$/i.test(text)) return false;
   return true;
