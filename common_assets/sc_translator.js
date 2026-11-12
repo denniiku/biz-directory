@@ -283,7 +283,7 @@
   }
 
   var ds=document.createElement("script");
-  ds.src=b+"sc_translations.js";
+  ds.src=b+"sc_translations.js?v=2.4";
   ds.onload=function(){
     var cur=getLang();
     if(cur&&cur!=="en") applyDict(cur);
