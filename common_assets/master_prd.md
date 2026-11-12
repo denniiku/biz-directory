@@ -65,3 +65,14 @@ Selected specifically to **reinforce foundational company capabilities** in Phas
 ## 4. 6 CORE DOMAIN ENGINES & 2-TIER PRD GOVERNANCE
 - **6 Core Domain Engines:** `01 *SC HQ` | `02 Qubit-Algorithm` | `03 Intelligence-Core` | `04 Scarlet-AI` | `05 Qubit-Biz` | `06 Biz-Galaxy & Biz-Hub`.
 - **International Standard Requirement:** Every HTML deliverable must adhere to global top-tier VC and enterprise editorial standards—combining mathematical/architectural rigor, concrete unit economics, and executive clarity without parochial or fragmented listing.
+---
+
+## 5. CANONICAL L3 MENU ORDER UNDER `01_sc (*sc)`
+1. `01_signal-star` (**signal star**) — The Guiding Star & 12-Domain Cosmic Architecture
+2. `02_sistar-company` (**sistar company**) — Corporate Holding Structure, Dual-Return & Fintech Clearing
+3. `03_identity-signatures` (**identity signatures**) — The Quantum Business Manifesto & 11 Core Signatures
+4. `04_sc-4-pillars` (**sc 4 pillars**) — Deep-Dive into the 4 Architectural Pillars of *SC
+5. `05_sc-master-brochure-_ver03` (**sc master brochure**) — Executive VC Submission Master Brochure
+6. `06_sc-founder-projects-_ver02` (**sc founder projects**) — In-Depth Portfolio of the 15 Entangled Founder Projects
+7. `07_sistar-crm` (**sistar crm**) — 24/7 Autonomous Data Factory & Multi-Agent Conversion CRM
+8. `08_sistar-heritage` (**sistar heritage**) — 20+ Years of International Business & Trade Heritage
