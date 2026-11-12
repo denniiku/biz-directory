@@ -3,7 +3,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const API_KEY = process.env.GEMINI_API_KEY || "";
-const MODEL = "gemini-2.5-flash";
+const MODEL = "gemini-3.1-flash-lite";
 
 const PUBLIC_DOMAINS = [
   "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
@@ -77,14 +77,35 @@ function loadDict(dictPath) {
   const lastIdx = raw.lastIndexOf("}");
   if (idx === -1 || lastIdx === -1) return {};
   try {
-    return JSON.parse(raw.substring(idx, lastIdx + 1));
+    const parsed = JSON.parse(raw.substring(idx, lastIdx + 1));
+    const langs = ["ko", "id", "vi", "zh-CN", "ja"];
+    if (parsed.ko && typeof parsed.ko === "object" && !parsed.ko.ko) {
+      const unified = {};
+      for (const l of langs) {
+        if (parsed[l] && typeof parsed[l] === "object") {
+          for (const [enKey, val] of Object.entries(parsed[l])) {
+            const nk = normalizeKey(enKey);
+            if (!nk) continue;
+            if (!unified[nk]) unified[nk] = {};
+            unified[nk][l] = val;
+          }
+        }
+      }
+      return unified;
+    }
+    const normalized = {};
+    for (const [k, v] of Object.entries(parsed)) {
+      const nk = normalizeKey(k);
+      if (nk) normalized[nk] = v;
+    }
+    return normalized;
   } catch (e) {
     return {};
   }
 }
 
 function saveDict(dictPath, dictObj) {
-  const content = "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\n";
+  const content = "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\nwindow.SC_AI_TRANSLATIONS = window.SC_TRANSLATIONS;\n";
   fs.writeFileSync(dictPath, content, "utf8");
 }
 
@@ -166,32 +187,41 @@ async function main() {
   }
 
   console.log(`[Translation Scan (${targetMode})] Total unique blocks: ${allStrings.size} | New/Untranslated blocks to process: ${missing.length}`);
+  saveDict(dictPath, dict);
   if (missing.length === 0 || !API_KEY) {
     if (!API_KEY && missing.length > 0) console.log("  [WARN] GEMINI_API_KEY not set in environment.");
     return;
   }
 
-  const BATCH_SIZE = 18;
+  const BATCH_SIZE = 25;
+  const CONCURRENCY = 4;
+  const batches = [];
   for (let i = 0; i < missing.length; i += BATCH_SIZE) {
-    const batch = missing.slice(i, i + BATCH_SIZE);
-    process.stdout.write(`  -> Translating batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(missing.length / BATCH_SIZE)} (${batch.length} blocks)... `);
-    try {
-      const results = await translateBatchWithGemini(batch);
-      if (Array.isArray(results) && results.length === batch.length) {
-        for (let j = 0; j < batch.length; j++) {
-          if (results[j] && results[j]["ko"]) {
-            dict[batch[j]] = results[j];
+    batches.push({ idx: Math.floor(i / BATCH_SIZE) + 1, items: missing.slice(i, i + BATCH_SIZE) });
+  }
+  const totalBatches = batches.length;
+
+  for (let w = 0; w < batches.length; w += CONCURRENCY) {
+    const wave = batches.slice(w, w + CONCURRENCY);
+    console.log(`  -> Translating wave ${Math.floor(w / CONCURRENCY) + 1}/${Math.ceil(totalBatches / CONCURRENCY)} (batches ${wave[0].idx}..${wave[wave.length - 1].idx} of ${totalBatches})...`);
+    await Promise.all(wave.map(async (b) => {
+      try {
+        const results = await translateBatchWithGemini(b.items);
+        if (Array.isArray(results) && results.length === b.items.length) {
+          for (let j = 0; j < b.items.length; j++) {
+            if (results[j] && results[j]["ko"]) {
+              dict[b.items[j]] = results[j];
+            }
           }
+          console.log(`     [Batch ${b.idx}/${totalBatches}] OK (${b.items.length} blocks)`);
+        } else {
+          console.log(`     [Batch ${b.idx}/${totalBatches}] MISMATCH (${Array.isArray(results) ? results.length : 0}/${b.items.length})`);
         }
-        saveDict(dictPath, dict);
-        console.log("OK");
-      } else {
-        console.log("MISMATCH (Retrying individually)");
+      } catch (err) {
+        console.log(`     [Batch ${b.idx}/${totalBatches}] ERROR: ${err.message}`);
       }
-    } catch (err) {
-      console.log(`ERROR: ${err.message}`);
-      break;
-    }
+    }));
+    saveDict(dictPath, dict);
   }
 }
 

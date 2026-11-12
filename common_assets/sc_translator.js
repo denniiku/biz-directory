@@ -32,12 +32,29 @@
   var normalizedDictCache = null;
   function getNormalizedDict() {
     if (normalizedDictCache) return normalizedDictCache;
-    var raw = window.SC_TRANSLATIONS || {};
+    var raw = window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS || {};
     var map = {};
-    var keys = Object.keys(raw);
-    for (var i = 0; i < keys.length; i++) {
-      var k = keys[i];
-      map[normalizeText(k)] = raw[k];
+    var langs = ["ko", "id", "vi", "zh-CN", "ja"];
+    if (raw.ko && typeof raw.ko === "object" && !raw.ko.ko) {
+      for (var l = 0; l < langs.length; l++) {
+        var langKey = langs[l];
+        var langObj = raw[langKey];
+        if (langObj && typeof langObj === "object") {
+          var enKeys = Object.keys(langObj);
+          for (var j = 0; j < enKeys.length; j++) {
+            var ek = enKeys[j];
+            var nk = normalizeText(ek);
+            if (!map[nk]) map[nk] = {};
+            map[nk][langKey] = langObj[ek];
+          }
+        }
+      }
+    } else {
+      var keys = Object.keys(raw);
+      for (var i = 0; i < keys.length; i++) {
+        var k = keys[i];
+        map[normalizeText(k)] = raw[k];
+      }
     }
     normalizedDictCache = map;
     return map;
@@ -117,13 +134,13 @@
 
   var dictLoading = false;
   function ensureDictionaryLoaded(cb) {
-    if (window.SC_TRANSLATIONS) {
+    if (window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS) {
       cb();
       return;
     }
     if (dictLoading) {
       var timer = setInterval(function () {
-        if (window.SC_TRANSLATIONS) {
+        if (window.SC_TRANSLATIONS || window.SC_AI_TRANSLATIONS) {
           clearInterval(timer);
           cb();
         }
