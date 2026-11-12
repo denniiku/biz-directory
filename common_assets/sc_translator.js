@@ -83,11 +83,29 @@
     }catch(e){}
   }
 
+  function getDictForLang(lang){
+    if(!window.SC_AI_TRANSLATIONS) return null;
+    if(window.SC_AI_TRANSLATIONS[lang]) return window.SC_AI_TRANSLATIONS[lang];
+    var aliases = { "ko": ["kr"], "vi": ["vn"], "zh-CN": ["cn","zh","zh-cn"], "ja": ["jp"] };
+    var list = aliases[lang] || [];
+    for(var i=0;i<list.length;i++){
+      if(window.SC_AI_TRANSLATIONS[list[i]]) return window.SC_AI_TRANSLATIONS[list[i]];
+    }
+    return null;
+  }
+
+  function extractCleanText(el){
+    var clone = el.cloneNode(true);
+    var brs = clone.querySelectorAll("br");
+    for(var i=0;i<brs.length;i++) brs[i].replaceWith(" ");
+    return (clone.textContent||"").replace(/\s+/g," ").trim();
+  }
+
   function applyDict(lang){
     try{
       upgradeBreadcrumb();
-      var rawDict=(window.SC_AI_TRANSLATIONS&&window.SC_AI_TRANSLATIONS[lang])?window.SC_AI_TRANSLATIONS[lang]:null;
-      var normDict={};
+      var rawDict = getDictForLang(lang);
+      var normDict = {};
       if(rawDict){
         for(var k in rawDict){
           if(Object.prototype.hasOwnProperty.call(rawDict,k)){
@@ -97,17 +115,17 @@
       }
 
       var selector = "main p, main li, main td, main th, main blockquote, main dd, main dt, main .sc-callout, main .sc-lead, main .sc-sub, main .sc-test02-sub, main .sc-sec-body, main .sc-sec-title, main .sc-h2, main .sc-h3, main h2, main h3, main h4";
-      var ts=document.querySelectorAll(selector);
+      var ts = document.querySelectorAll(selector);
 
       for(var i=0;i<ts.length;i++){
-        var el=ts[i];
+        var el = ts[i];
         if(el.closest&&(el.closest(".sc-top-bar")||el.closest(".sc-bc-wrap")||el.closest(".sc-math")||el.closest(".sc-code")))continue;
         if(el.classList&&(el.classList.contains("sc-route")||el.classList.contains("sc-eyebrow")||el.classList.contains("sc-kicker")||el.classList.contains("sc-tag")||el.classList.contains("sc-num-label")||el.classList.contains("sc-num")||el.classList.contains("sc-stat-big")||el.classList.contains("sc-kpi-val")||el.classList.contains("sc-phrase-pill")||el.classList.contains("sc-test02-h1")||el.classList.contains("sc-main-title")))continue;
         if(el.querySelector && el.querySelector("p, ul, ol, table, .sc-grid-2x2"))continue;
 
         if(!el.getAttribute("data-sc-oh")){
-          el.setAttribute("data-sc-oh",el.innerHTML);
-          el.setAttribute("data-sc-ot",(el.textContent||"").replace(/\s+/g," ").trim());
+          el.setAttribute("data-sc-oh", el.innerHTML);
+          el.setAttribute("data-sc-ot", extractCleanText(el));
         }
 
         if(lang==="en"){
@@ -129,12 +147,13 @@
 
   function normLangCode(raw){
     if(!raw)return "en";
-    var l=raw.trim();
-    if(l.toLowerCase()==="zh-cn"||l.toLowerCase()==="cn"||l.toLowerCase()==="zh")return "zh-CN";
-    if(l.toLowerCase()==="kr")return "ko";
-    if(l.toLowerCase()==="vn")return "vi";
-    if(l.toLowerCase()==="jp")return "ja";
-    return l.toLowerCase();
+    var l=raw.trim().toLowerCase();
+    if(l==="zh-cn"||l==="cn"||l==="zh")return "zh-CN";
+    if(l==="kr"||l==="ko")return "ko";
+    if(l==="vn"||l==="vi")return "vi";
+    if(l==="jp"||l==="ja")return "ja";
+    if(l==="id")return "id";
+    return "en";
   }
 
   function saveLang(l){try{var nl=normLangCode(l);window.name="sc_lang:"+nl;localStorage.setItem("sc_preferred_lang",nl);}catch(e){}}
@@ -149,7 +168,7 @@
   }
 
   var ds=document.createElement("script");
-  ds.src=b+"sc_translations.js";
+  ds.src=b+"sc_translations.js?v=3.0";
   ds.onload=function(){
     var cur=getLang();
     if(cur&&cur!=="en") applyDict(cur);
