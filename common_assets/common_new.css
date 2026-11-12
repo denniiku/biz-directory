@@ -417,3 +417,85 @@ main div:has(> table) {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
+
+/* === VISUAL ENHANCEMENT MICRO-UI COMPONENTS (VS CODE COPILOT v2.0) === */
+.sc-bento-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+  margin: 22px 0;
+}
+.sc-bento-card {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  border-radius: 14px;
+  padding: 20px 22px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
+  backdrop-filter: blur(8px);
+}
+.sc-bento-card.sc-dark-card {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: #f8fafc;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+.sc-pipeline-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 12px;
+  margin: 20px 0;
+}
+.sc-pipeline-step {
+  background: rgba(255, 255, 255, 0.85);
+  border-left: 4px solid #0f5132;
+  border-top: 1px solid rgba(15, 23, 42, 0.08);
+  border-right: 1px solid rgba(15, 23, 42, 0.08);
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+.sc-step-num {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #0f5132;
+  background: rgba(16, 185, 129, 0.12);
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-bottom: 6px;
+}
+.sc-compare-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 18px;
+  margin: 22px 0;
+}
+.sc-compare-legacy {
+  background: rgba(254, 242, 242, 0.78);
+  border: 1px solid rgba(220, 38, 38, 0.22);
+  border-left: 4px solid #dc2626;
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.sc-compare-quantum {
+  background: rgba(236, 253, 245, 0.85);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-left: 4px solid #059669;
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.sc-pill-emerald, .sc-pill-gold, .sc-pill-slate, .sc-pill-crimson {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 2px 9px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.sc-pill-emerald { background: rgba(16, 185, 129, 0.15); color: #065f46; border: 1px solid rgba(16, 185, 129, 0.3); }
+.sc-pill-gold    { background: rgba(245, 158, 11, 0.16); color: #92400e; border: 1px solid rgba(245, 158, 11, 0.35); }
+.sc-pill-slate   { background: rgba(15, 23, 42, 0.08);   color: #334155; border: 1px solid rgba(15, 23, 42, 0.15); }
+.sc-pill-crimson { background: rgba(239, 68, 68, 0.12);  color: #991b1b; border: 1px solid rgba(239, 68, 68, 0.25); }
