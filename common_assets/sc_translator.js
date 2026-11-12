@@ -46,7 +46,7 @@
       if(!routeEl||routeEl.querySelector(".sc-bc-wrap"))return;
 
       var raw=(routeEl.textContent||"").replace(/_ver\d+/gi,"").trim();
-      var parts=raw.split(/\s+-\s+|\s+??s+|\s+>\s+/);
+      var parts=raw.split(/\s+-\s+|\s+›\s+|\s+>\s+/);
       if(parts.length<=1)return;
 
       var linkMap={};
@@ -115,7 +115,7 @@
 
   function polishTermsOnElement(el){
     try{
-      var reps=[[/?쒖뒪?\s*而댄띁???쒖뒪?\s*?뚯궗/g,"SISTAR Company"],[/?쒓렇??s*?ㅽ?\s*?좊땲踰꾩뒪|?좏샇蹂?s*?곗＜/g,"Signal Star Universe"],[/?쒓렇??s*?ㅽ?|?좏샇蹂?g,"Signal Star"],[/?먮퉬??s*?뚭퀬由ъ쬁|?묒옄鍮꾪듃\s*?뚭퀬由ъ쬁/g,"Qubit Algorithm??],[/?먮퉬??s*鍮꾩쫰/g,"qubit-biz"],[/?먮퉬??s*ERP/g,"Qubit ERP"],[/?먮퉬??s*諭낇겕/g,"Qubit Bank"],[/?ㅼ뭡??s*AI|?ㅼ뭡??ai/gi,"scarlet-ai"],[/?명뀛由ъ쟾??s*肄붿뼱|吏??s*肄붿뼱/g,"intelligence-core"],[/鍮꾩쫰\s*媛ㅻ윮??g,"biz-galaxy"],[/鍮꾩쫰\s*?덈툕/g,"biz-hub"],[/肄붿뒪紐?s*?쒕뱶/g,"Cosmo Seed"],[/洹몃쭔??s*(Signal\s*Star)/g,"$1"]];
+      var reps=[[/시스타\s*컴퍼니|시스타\s*회사/g,"SISTAR Company"],[/시그널\s*스타\s*유니버스|신호별\s*우주/g,"Signal Star Universe"],[/시그널\s*스타|신호별/g,"Signal Star"],[/큐비트\s*알고리즘|양자비트\s*알고리즘/g,"Qubit Algorithm™"],[/큐비트\s*비즈/g,"qubit-biz"],[/큐비트\s*ERP/g,"Qubit ERP"],[/큐비트\s*뱅크/g,"Qubit Bank"],[/스칼렛\s*AI|스칼렛-ai/gi,"scarlet-ai"],[/인텔리전스\s*코어|지능\s*코어/g,"intelligence-core"],[/비즈\s*갤럭시/g,"biz-galaxy"],[/비즈\s*허브/g,"biz-hub"],[/코스모\s*시드/g,"Cosmo Seed"],[/그만큼\s*(Signal\s*Star)/g,"$1"]];
       var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null,false), n;
       while((n=w.nextNode())){
         var v=n.nodeValue, ch=false;
