@@ -2,9 +2,6 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
-const API_KEY = process.env.GEMINI_API_KEY || "";
-let WORKING_GEMINI_MODEL = "";
-
 const PUBLIC_DOMAINS = [
   "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
   "qubit-biz","biz-galaxy","biz-hub","challengers",
@@ -12,61 +9,7 @@ const PUBLIC_DOMAINS = [
 ];
 
 const TARGET_LANGS = ["ko", "id", "vi", "zh-CN", "ja"];
-
-// Step 1: Actually test candidate models with a 1-word live request to guarantee 100% working model!
-async function findVerifiedWorkingGeminiModel() {
-  if (!API_KEY) return "";
-  try {
-    const listRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${API_KEY}`);
-    if (!listRes.ok) {
-      console.log(`  [PROBE] Model list HTTP ${listRes.status}`);
-      return "";
-    }
-    const data = await listRes.json();
-    const allModels = (data.models || [])
-      .filter(m => (m.supportedGenerationMethods || []).includes("generateContent"))
-      .map(m => m.name.replace("models/", ""))
-      .filter(m => m.includes("flash") && !m.includes("image") && !m.includes("tts") && !m.includes("audio") && !m.includes("thinking"));
-
-    // Prioritize latest live models (skipping deprecated 2.5-flash if it 404s)
-    const testOrder = [
-      "gemini-3-flash-preview",
-      "gemini-flash-latest",
-      "gemini-3.1-flash-lite-preview",
-      "gemini-2.5-flash-lite",
-      "gemini-2.0-flash",
-      ...allModels
-    ];
-    const uniqueOrder = [...new Set(testOrder)].filter(m => allModels.includes(m));
-
-    console.log(`  [PROBE] Testing live generation across candidates: ${uniqueOrder.slice(0, 6).join(", ")}...`);
-    for (const model of uniqueOrder) {
-      try {
-        const testUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${API_KEY}`;
-        const res = await fetch(testUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            contents: [{ role: "user", parts: [{ text: "Reply OK" }] }],
-            generationConfig: { maxOutputTokens: 10 }
-          })
-        });
-        if (res.ok) {
-          console.log(`  [PROBE SUCCESS] Model '${model}' responded HTTP 200 OK!`);
-          return model;
-        } else {
-          const errTxt = await res.text();
-          console.log(`  [PROBE SKIP] '${model}' -> HTTP ${res.status} (${errTxt.replace(/\s+/g, " ").substring(0, 70)})`);
-        }
-      } catch (e) {
-        console.log(`  [PROBE ERR] '${model}' -> ${e.message}`);
-      }
-    }
-  } catch (err) {
-    console.log(`  [PROBE FAILED] ${err.message}`);
-  }
-  return "";
-}
+const DELIM = "\n ||| \n";
 
 function decodeHtmlEntities(str) {
   if (!str) return "";
@@ -174,67 +117,59 @@ function saveDict(dictPath, dictObj) {
   fs.writeFileSync(dictPath, content, "utf8");
 }
 
-// High-speed GTX Neural fallback so 0 blocks are EVER skipped!
-async function gtxTranslateSingle(text, tl) {
-  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${encodeURIComponent(tl)}&dt=t&q=${encodeURIComponent(text)}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`GTX HTTP ${res.status}`);
+// Fetch with hard 12-second timeout so it NEVER hangs!
+async function fetchWithTimeout(url, options = {}, timeoutMs = 12000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function translateSingleText(text, tl) {
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${encodeURIComponent(tl)}&dt=t`;
+  const body = new URLSearchParams({ q: text }).toString();
+  const res = await fetchWithTimeout(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8" },
+    body
+  }, 12000);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const data = await res.json();
   if (!Array.isArray(data) || !Array.isArray(data[0])) return text;
   return data[0].map(seg => seg[0] || "").join("");
 }
 
-async function gtxTranslateBatch(batchStrings) {
-  return Promise.all(batchStrings.map(async (enText) => {
-    const obj = {};
-    await Promise.all(TARGET_LANGS.map(async (lang) => {
-      try {
-        obj[lang] = await gtxTranslateSingle(enText, lang);
-      } catch (e) {
-        obj[lang] = enText;
-      }
-    }));
-    return obj;
+// Translate an array of strings into 1 language in a single bulk POST call (with automatic per-item fallback)
+async function translateBulkForLang(strings, tl) {
+  const joined = strings.join(DELIM);
+  try {
+    const bulkOut = await translateSingleText(joined, tl);
+    const parts = bulkOut.split(/\s*\|\|\|\s*/);
+    if (parts.length === strings.length) {
+      return parts.map(p => p.trim());
+    }
+  } catch (e) {}
+  // Fallback to individual parallel calls if bulk split count differed
+  return Promise.all(strings.map(async (s) => {
+    try { return await translateSingleText(s, tl); } catch (e) { return s; }
   }));
 }
 
-async function geminiTranslateBatch(batchStrings) {
-  if (!WORKING_GEMINI_MODEL) throw new Error("No verified Gemini model");
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${WORKING_GEMINI_MODEL}:generateContent?key=${API_KEY}`;
-  const systemPrompt = `You are the Chief Institutional Translator for *SC (SISTAR Company).
-Translate the following JSON array of ${batchStrings.length} English strings into 5 target languages:
-- "ko": Korean (한국어 — 격조 높은 글로벌 비즈니스 한국어)
-- "id": Indonesian (Bahasa Indonesia)
-- "vi": Vietnamese (Tiếng Việt)
-- "zh-CN": Simplified Chinese (简体中文)
-- "ja": Japanese (日本語)
-
-Keep proprietary brand names/math in English (*SC, SISTAR, Qubit Algorithm™, Cosmo Seed™, One Spark, Vibe Working, K-SURE BNPL, t=0, Rp 1,320).
-Return ONLY a valid JSON array of EXACTLY ${batchStrings.length} objects with keys: "ko", "id", "vi", "zh-CN", "ja".`;
-
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      contents: [{ role: "user", parts: [{ text: systemPrompt + "\n\nINPUT_ARRAY:\n" + JSON.stringify(batchStrings) }] }],
-      generationConfig: {
-        temperature: 0.1,
-        maxOutputTokens: 8192,
-        responseMimeType: "application/json"
-      }
-    })
-  });
-
-  if (!res.ok) {
-    throw new Error(`Gemini HTTP ${res.status}`);
-  }
-  const data = await res.json();
-  const txt = data.candidates?.[0]?.content?.parts?.[0]?.text || "[]";
-  const parsed = JSON.parse(txt);
-  if (!Array.isArray(parsed) || parsed.length !== batchStrings.length) {
-    throw new Error(`Length mismatch`);
-  }
-  return parsed;
+async function translateGroup5Langs(strings) {
+  const langResults = {};
+  await Promise.all(TARGET_LANGS.map(async (lang) => {
+    langResults[lang] = await translateBulkForLang(strings, lang);
+  }));
+  return strings.map((_, idx) => ({
+    ko: langResults["ko"][idx],
+    id: langResults["id"][idx],
+    vi: langResults["vi"][idx],
+    "zh-CN": langResults["zh-CN"][idx],
+    ja: langResults["ja"][idx]
+  }));
 }
 
 async function main() {
@@ -243,14 +178,6 @@ async function main() {
   const dictPath = isMgnt
     ? path.join(ROOT, "mgnt", "common_assets", "sc_translations.js")
     : path.join(ROOT, "common_assets", "sc_translations.js");
-
-  console.log("\n=== [STEP 1] Live Probing Gemini API Models ===");
-  WORKING_GEMINI_MODEL = await findVerifiedWorkingGeminiModel();
-  if (WORKING_GEMINI_MODEL) {
-    console.log(`=== [PRIMARY ENGINE]: Gemini (${WORKING_GEMINI_MODEL}) + Instant GTX Backup ===`);
-  } else {
-    console.log(`=== [PRIMARY ENGINE]: Direct High-Speed GTX Neural Engine (Gemini API Key Quota/Billing Pending) ===`);
-  }
 
   const dict = loadDict(dictPath);
   const domainFilter = (!isMgnt && targetMode !== "sc_web") ? [targetMode] : PUBLIC_DOMAINS;
@@ -304,41 +231,33 @@ async function main() {
     return;
   }
 
-  const BATCH_SIZE = 8;
-  const CONCURRENCY = 4; // 32 blocks per round
-  const batches = [];
-  for (let i = 0; i < missing.length; i += BATCH_SIZE) {
-    batches.push(missing.slice(i, i + BATCH_SIZE));
+  // Group 8 strings per bulk request x 8 concurrent groups = 64 blocks translated every ~1.5 seconds!
+  const GROUP_SIZE = 8;
+  const CONCURRENCY = 8;
+  const groups = [];
+  for (let i = 0; i < missing.length; i += GROUP_SIZE) {
+    groups.push(missing.slice(i, i + GROUP_SIZE));
   }
 
-  for (let i = 0; i < batches.length; i += CONCURRENCY) {
-    const chunk = batches.slice(i, i + CONCURRENCY);
-    const rangeStr = `Batches ${i + 1}..${Math.min(i + CONCURRENCY, batches.length)}/${batches.length}`;
-    const totalInChunk = chunk.reduce((a, b) => a + b.length, 0);
-    process.stdout.write(`  -> Translating ${rangeStr} (${totalInChunk} blocks)... `);
+  for (let i = 0; i < groups.length; i += CONCURRENCY) {
+    const chunk = groups.slice(i, i + CONCURRENCY);
+    const totalInRound = chunk.reduce((a, b) => a + b.length, 0);
+    const pctDone = Math.round(((i * GROUP_SIZE) / missing.length) * 100);
+    process.stdout.write(`  -> [${String(pctDone).padStart(2)}%] Round ${Math.floor(i / CONCURRENCY) + 1}/${Math.ceil(groups.length / CONCURRENCY)} (${totalInRound} blocks)... `);
 
-    const settled = await Promise.all(chunk.map(async (batch) => {
-      // Try verified Gemini model first; if it fails or truncates, seamlessly complete via GTX Neural so 0 blocks are ever lost!
-      if (WORKING_GEMINI_MODEL) {
-        try {
-          const gemRes = await geminiTranslateBatch(batch);
-          return { batch, res: gemRes, engine: "Gemini" };
-        } catch (e) {
-          if (e.message.includes("402") || e.message.includes("429")) {
-            WORKING_GEMINI_MODEL = ""; // Switch remaining batches to high-speed GTX without waiting
-          }
-        }
+    const settled = await Promise.all(chunk.map(async (grp) => {
+      try {
+        const res = await translateGroup5Langs(grp);
+        return { grp, res };
+      } catch (e) {
+        return { grp, res: [] };
       }
-      const gtxRes = await gtxTranslateBatch(batch);
-      return { batch, res: gtxRes, engine: "GTX-Neural" };
     }));
 
     let savedInRound = 0;
-    let enginesUsed = new Set();
     for (const item of settled) {
-      enginesUsed.add(item.engine);
-      for (let j = 0; j < item.batch.length; j++) {
-        const enKey = item.batch[j];
+      for (let j = 0; j < item.grp.length; j++) {
+        const enKey = item.grp[j];
         const newEntry = item.res[j];
         if (newEntry && newEntry["ko"] && newEntry["ko"] !== enKey) {
           if (dict[enKey] && isKoreanProperlyTranslated(enKey, dict[enKey]["ko"])) {
@@ -350,9 +269,15 @@ async function main() {
       }
     }
 
-    saveDict(dictPath, dict);
-    console.log(`SAVED +${savedInRound}/${totalInChunk} blocks! [${Array.from(enginesUsed).join("+")}]`);
+    // Save to disk every 3 rounds or at the very end for maximum speed
+    if ((i / CONCURRENCY) % 3 === 0 || (i + CONCURRENCY) >= groups.length) {
+      saveDict(dictPath, dict);
+    }
+    console.log(`SAVED +${savedInRound}/${totalInRound}!`);
   }
+
+  saveDict(dictPath, dict);
+  console.log("\n=== [TRANSLATION ENGINE FINISHED] ===");
 }
 
 main();
