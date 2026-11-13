@@ -1861,12 +1861,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "Project 09 | SISTAR Challengers & Global Franchise Net：30%净利润分享人才云、SISTAR Camp AI Academy 与 S1–S6 全球连锁加盟网络。",
     "ja": "Project 09 | SISTAR Challengers & Global Franchise Net：純利益30%分配型タレントクラウド、SISTAR Camp AI Academy、およびS1〜S6フランチャイズ展開。"
   },
-  "Direct Executive & Investor Relations Gateway: Corporate HQ Portal: https://sistarcompany.com • AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com Executive Contact: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)": {
-    "ko": "경영진 및 IR 직통 게이트웨이: 본사 공식 포털: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com 경영진 연락처: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
-    "id": "Gerbang Langsung Eksekutif & Investor Relations: Portal Kantor Pusat: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com Kontak Eksekutif: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
-    "vi": "Cổng thông tin trực tiếp dành cho Lãnh đạo & Quan hệ Cổ đông (IR): Cổng thông tin Trụ sở chính: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com Liên hệ Điều hành: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
-    "zh-CN": "管理层与投资者关系（IR）直通入口：集团总部门户：https://sistarcompany.com &bull; AI Commerce & Launchpad：https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com 高管联络：DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
-    "ja": "経営陣およびインベスター・リレーションズ（IR）直通窓口：本社公式ポータル：https://sistarcompany.com &bull; AI Commerce & Launchpad：https://scarlet-ai.sistarcompany.com | https://qubit-biz.sistarcompany.com 経営幹部連絡先：DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)"
+  "Direct Executive & Investor Relations Gateway: Corporate HQ Portal: https://sistarcompany.com • AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com Executive Contact: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)": {
+    "ko": "경영진 및 IR 직통 게이트웨이: 본사 공식 포털: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com 경영진 연락처: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
+    "id": "Gerbang Langsung Eksekutif & Investor Relations: Portal Kantor Pusat: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com Kontak Eksekutif: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
+    "vi": "Cổng thông tin trực tiếp dành cho Lãnh đạo & Quan hệ Cổ đông (IR): Cổng thông tin Trụ sở chính: https://sistarcompany.com &bull; AI Commerce & Launchpad: https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com Liên hệ Điều hành: DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
+    "zh-CN": "管理层与投资者关系（IR）直通入口：集团总部门户：https://sistarcompany.com &bull; AI Commerce & Launchpad：https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com 高管联络：DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)",
+    "ja": "経営陣およびインベスター・リレーションズ（IR）直通窓口：本社公式ポータル：https://sistarcompany.com &bull; AI Commerce & Launchpad：https://scarlet-ai.sistarcompany.com | https://qubit-biz-galaxy.sistarcompany.com 経営幹部連絡先：DennyKu, Director — PT. SISTAR Indonesia & *SC - SISTAR COMPANY (denniiku@sistarcompany.com)"
   },
   "These nine priority projects do not operate in isolation; they form a single unified Dual-Return Master Plan . Track I (Projects 01–05) builds the autonomous AI, ERP, RAG, and executive operating infrastructure that runs *SC at near-$0 fixed cost while monetizing externally as high-margin B2B SaaS. Track II (Projects 06–09) rides directly on top of Track I to capture immediate B2B container cashflow, hardware leasing, clinical/school subscriptions, and global franchise royalties.": {
     "ko": "이 9대 핵심 프로젝트들은 개별적으로 작동하지 않으며, 단일한 통합 Dual-Return Master Plan 을 구성합니다. Track I(Project 01–05)은 *SC 를 고정비 거의 $0로 가동하는 동시에 외부에 고마진 B2B SaaS로 수익화하는 자율 AI, ERP, RAG 및 경영 운영 인프라를 구축합니다. Track II(Project 06–09)는 Track I을 직접 레버리지하여 즉각적인 B2B 컨테이너 현금 흐름, 하드웨어 리스, 클리닉/교육기관 구독료, 글로벌 프랜차이즈 로열티를 확보합니다.",
@@ -2757,12 +2757,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "• 北美跨境品牌网关：通过零库存需求聚合模式，将美国零售买家和 D2C 消费者直接连接至我们的 biz-galaxy 大健康、宠物护理及 K-Beauty 供应链。",
     "ja": "• North American Cross-Border Brand Gateway：在庫ゼロ（zero-inventory）の需要集約を通じ、米国の小売バイヤーおよびD2Cオーディエンスを弊社のbiz-galaxyウェルネス、ペットケア、K-Beautyサプライチェーンに直接接続。"
   },
-  "• High-Multiple SaaS & Digital Asset Liquidity: Combines recurring B2B/B2C SaaS subscription streams across scarlet.sistarcompany.com and qubit.sistarcompany.com with systematic micro-SaaS app-flipping exits.": {
-    "ko": "• High-Multiple SaaS & 디지털 자산 유동화: scarlet.sistarcompany.com 및 qubit.sistarcompany.com 전반의 반복적인 B2B/B2C SaaS 구독 수익원과 체계적인 마이크로 SaaS 앱 플리핑(app-flipping) 엑시트를 결합.",
-    "id": "• High-Multiple SaaS & Likuiditas Aset Digital: Menggabungkan arus pendapatan langganan SaaS B2B/B2C berulang di scarlet.sistarcompany.com dan qubit.sistarcompany.com dengan exit app-flipping micro-SaaS yang sistematis.",
-    "vi": "• SaaS Định giá Đa bội số cao & Thanh khoản Tài sản số: Kết hợp dòng doanh thu định kỳ từ thuê bao SaaS B2B/B2C trên scarlet.sistarcompany.com và qubit.sistarcompany.com với chiến lược thoái vốn app-flipping micro-SaaS có hệ thống.",
-    "zh-CN": "• 高估值倍数 SaaS 与数字资产流动性：将 scarlet.sistarcompany.com 和 qubit.sistarcompany.com 的经常性 B2B/B2C SaaS 订阅流与系统化的 Micro-SaaS app-flipping 退出机制相结合。",
-    "ja": "• High-Multiple SaaS ＆ デジタルアセット流動性：scarlet.sistarcompany.com および qubit.sistarcompany.com にわたるリカーリングなB2B/B2C SaaSサブスクリプション収益と、体系的なマイクロSaaSのアプリフリッピング（app-flipping）イグジットを融合。"
+  "• High-Multiple SaaS & Digital Asset Liquidity: Combines recurring B2B/B2C SaaS subscription streams across scarlet-ai.sistarcompany.com and qubit-biz.sistarcompany.com with systematic micro-SaaS app-flipping exits.": {
+    "ko": "• High-Multiple SaaS & 디지털 자산 유동화: scarlet-ai.sistarcompany.com 및 qubit-biz.sistarcompany.com 전반의 반복적인 B2B/B2C SaaS 구독 수익원과 체계적인 마이크로 SaaS 앱 플리핑(app-flipping) 엑시트를 결합.",
+    "id": "• High-Multiple SaaS & Likuiditas Aset Digital: Menggabungkan arus pendapatan langganan SaaS B2B/B2C berulang di scarlet-ai.sistarcompany.com dan qubit-biz.sistarcompany.com dengan exit app-flipping micro-SaaS yang sistematis.",
+    "vi": "• SaaS Định giá Đa bội số cao & Thanh khoản Tài sản số: Kết hợp dòng doanh thu định kỳ từ thuê bao SaaS B2B/B2C trên scarlet-ai.sistarcompany.com và qubit-biz.sistarcompany.com với chiến lược thoái vốn app-flipping micro-SaaS có hệ thống.",
+    "zh-CN": "• 高估值倍数 SaaS 与数字资产流动性：将 scarlet-ai.sistarcompany.com 和 qubit-biz.sistarcompany.com 的经常性 B2B/B2C SaaS 订阅流与系统化的 Micro-SaaS app-flipping 退出机制相结合。",
+    "ja": "• High-Multiple SaaS ＆ デジタルアセット流動性：scarlet-ai.sistarcompany.com および qubit-biz.sistarcompany.com にわたるリカーリングなB2B/B2C SaaSサブスクリプション収益と、体系的なマイクロSaaSのアプリフリッピング（app-flipping）イグジットを融合。"
   },
   "• AI-First Semantic Dominance: High-velocity, Schema.org JSON-LD structured web portals ensure North American LLMs and AI search engines index and recommend *sc partner brands with near-zero customer acquisition cost (CAC).": {
     "ko": "• AI-First 시맨틱 주도권(Semantic Dominance): 초고속 Schema.org JSON-LD 구조화 웹 포털을 통해 북미 LLM 및 AI 검색 엔진이 거의 0에 가까운 고객획득비용(CAC)으로 *sc 파트너 브랜드를 색인하고 추천하도록 보장.",
@@ -12102,12 +12102,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "02 &bull; Qubit Algorithm™",
     "ja": "02 &bull; Qubit Algorithm™"
   },
-  "qubitalgorithm.sistarcompany.com": {
-    "ko": "qubitalgorithm.sistarcompany.com",
-    "id": "qubitalgorithm.sistarcompany.com",
-    "vi": "qubitalgorithm.sistarcompany.com",
-    "zh-CN": "qubitalgorithm.sistarcompany.com",
-    "ja": "qubitalgorithm.sistarcompany.com"
+  "qubit-algorithm.sistarcompany.com": {
+    "ko": "qubit-algorithm.sistarcompany.com",
+    "id": "qubit-algorithm.sistarcompany.com",
+    "vi": "qubit-algorithm.sistarcompany.com",
+    "zh-CN": "qubit-algorithm.sistarcompany.com",
+    "ja": "qubit-algorithm.sistarcompany.com"
   },
   "Mathematical formalism of Quantum Fluctuation, Superposition ($t=0$), Entanglement, and Tunneling.": {
     "ko": "양자 요동(Quantum Fluctuation), 중첩($t=0$), 얽힘(Entanglement), 터널링(Tunneling)의 수학적 정식화(Formalism).",
@@ -12123,7 +12123,7 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "03 &bull; Intelligence Core",
     "ja": "03 &bull; Intelligence Core"
   },
-  "intelligence.sistarcompany.com • media": {
+  "intelligence-core.sistarcompany.com • media": {
     "ko": "Intelligence.sistarcompany.com • 미디어",
     "id": "intelijen.sistarcompany.com • media",
     "vi": "Intelligence.sistarcompany.com • phương tiện truyền thông",
@@ -12144,11 +12144,11 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "04 &bull; Scarlet AI",
     "ja": "04 &bull; Scarlet AI"
   },
-  "scarlet.sistarcompany.com": {
+  "scarlet-ai.sistarcompany.com": {
     "ko": "Scarlet.sistarcompany.com",
     "id": "Scarlet.sistarcompany.com",
     "vi": "Scarlet.sistarcompany.com",
-    "zh-CN": "scarlet.sistarcompany.com",
+    "zh-CN": "scarlet-ai.sistarcompany.com",
     "ja": "スカーレット.sistarcompany.com"
   },
   "AI Commerce International Platform, Ms. Scarlet secretary, and Buy4Me demand aggregation.": {
@@ -12165,12 +12165,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "05 &bull; Qubit Biz (Cosmo Seed™)",
     "ja": "05 &bull; Qubit Biz (Cosmo Seed™)"
   },
-  "qubit.sistarcompany.com": {
-    "ko": "qubit.sistarcompany.com",
-    "id": "qubit.sistarcompany.com",
-    "vi": "qubit.sistarcompany.com",
-    "zh-CN": "qubit.sistarcompany.com",
-    "ja": "qubit.sistarcompany.com"
+  "qubit-biz.sistarcompany.com": {
+    "ko": "qubit-biz.sistarcompany.com",
+    "id": "qubit-biz.sistarcompany.com",
+    "vi": "qubit-biz.sistarcompany.com",
+    "zh-CN": "qubit-biz.sistarcompany.com",
+    "ja": "qubit-biz.sistarcompany.com"
   },
   "AI Trade International Platform, K-SURE BNPL financing, and 4-way Qubit Offsetting clearinghouse.": {
     "ko": "AI Trade International Platform, K-SURE BNPL 파이낸싱 및 4자간 Qubit Offsetting 청산 결제소.",
@@ -13740,12 +13740,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "量子比特算法™",
     "ja": "量子ビットアルゴリズム™"
   },
-  "Domain: qubitalgorithm.sistarcompany.com . Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
-    "ko": "도메인: qubitalgorithm.sistarcompany.com. 수리물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거, WKB 터널링 증명을 발행합니다.",
-    "id": "Domain: qubitalgorithm.sistarcompany.com. Menerbitkan whitepaper fisika matematis, model superposisi ruang Hilbert, pemicu keterikatan keadaan Bell, dan pembuktian penerobosan WKB kami.",
-    "vi": "Tên miền: qubitalgorithm.sistarcompany.com. Công bố các sách trắng vật lý toán học, mô hình chồng chập không gian Hilbert, trình kích hoạt vướng víu trạng thái Bell và các chứng minh đường hầm WKB của chúng tôi.",
-    "zh-CN": "域名：qubitalgorithm.sistarcompany.com。发布我们的数理物理学白皮书、希尔伯特空间叠加态模型、贝尔态纠缠触发器及 WKB 隧穿证明。",
-    "ja": "ドメイン：qubitalgorithm.sistarcompany.com。数理物理学ホワイトペーパー、ヒルベルト空間重ね合わせモデル、ベル状態もつれトリガー、WKBトンネリング証明を公開。"
+  "Domain: qubit-algorithm.sistarcompany.com . Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
+    "ko": "도메인: qubit-algorithm.sistarcompany.com. 수리물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거, WKB 터널링 증명을 발행합니다.",
+    "id": "Domain: qubit-algorithm.sistarcompany.com. Menerbitkan whitepaper fisika matematis, model superposisi ruang Hilbert, pemicu keterikatan keadaan Bell, dan pembuktian penerobosan WKB kami.",
+    "vi": "Tên miền: qubit-algorithm.sistarcompany.com. Công bố các sách trắng vật lý toán học, mô hình chồng chập không gian Hilbert, trình kích hoạt vướng víu trạng thái Bell và các chứng minh đường hầm WKB của chúng tôi.",
+    "zh-CN": "域名：qubit-algorithm.sistarcompany.com。发布我们的数理物理学白皮书、希尔伯特空间叠加态模型、贝尔态纠缠触发器及 WKB 隧穿证明。",
+    "ja": "ドメイン：qubit-algorithm.sistarcompany.com。数理物理学ホワイトペーパー、ヒルベルト空間重ね合わせモデル、ベル状態もつれトリガー、WKBトンネリング証明を公開。"
   },
   "Intelligence Core & Media": {
     "ko": "인텔리전스 코어 및 미디어",
@@ -13754,12 +13754,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "智能核心与媒体",
     "ja": "インテリジェンス・コア＆メディア"
   },
-  "Domains: intelligence.sistarcompany.com , media . Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post , and SISTAR Studio .": {
-    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studio를 운영합니다.",
-    "id": "Domain: intelligence.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
-    "vi": "Tên miền: intelligence.sistarcompany.com, media. Vận hành *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
-    "zh-CN": "域名：intelligence.sistarcompany.com、media。运营 *SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post 以及 SISTAR Studio。",
-    "ja": "ドメイン：intelligence.sistarcompany.com、media。*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post、SISTAR Studioを運用。"
+  "Domains: intelligence-core.sistarcompany.com , media . Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post , and SISTAR Studio .": {
+    "ko": "도메인: intelligence-core.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studio를 운영합니다.",
+    "id": "Domain: intelligence-core.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
+    "vi": "Tên miền: intelligence-core.sistarcompany.com, media. Vận hành *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
+    "zh-CN": "域名：intelligence-core.sistarcompany.com、media。运营 *SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post 以及 SISTAR Studio。",
+    "ja": "ドメイン：intelligence-core.sistarcompany.com、media。*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post、SISTAR Studioを運用。"
   },
   "Scarlet AI": {
     "ko": "스칼렛 AI",
@@ -13768,12 +13768,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "猩红人工智能",
     "ja": "スカーレットAI"
   },
-  "Domain: scarlet.sistarcompany.com . Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy , and vertical portals ( petclinic. , ayurvedic. ).": {
-    "ko": "도메인: scarlet.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동구매, sisCart NearBuy, 버티컬 포털(petclinic., ayurvedic.)을 구동합니다.",
-    "id": "Domain: scarlet.sistarcompany.com. Mendorong commerce B2B/D2C percakapan, closing 24/7 Ms. Scarlet, pembelian bersama Buy4Me, sisCart NearBuy, dan portal vertikal (petclinic., ayurvedic.).",
-    "vi": "Tên miền: scarlet.sistarcompany.com. Thúc đẩy thương mại B2B/D2C hội thoại, chốt đơn 24/7 Ms. Scarlet, mua chung Buy4Me, sisCart NearBuy và các cổng chuyên biệt (petclinic., ayurvedic.).",
-    "zh-CN": "域名：scarlet.sistarcompany.com。驱动对话式 B2B/D2C 商业、Ms. Scarlet 24/7 交易促成、Buy4Me 拼团采购、sisCart NearBuy 以及垂直行业门户（petclinic.、ayurvedic.）。",
-    "ja": "ドメイン：scarlet.sistarcompany.com。対話型B2B/D2Cコマース、Ms. Scarlet 24/7クロージング、Buy4Me共同購買、sisCart NearBuy、およびバーティカルポータル（petclinic.、ayurvedic.）を推進。"
+  "Domain: scarlet-ai.sistarcompany.com . Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy , and vertical portals ( petclinic. , ayurvedic. ).": {
+    "ko": "도메인: scarlet-ai.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동구매, sisCart NearBuy, 버티컬 포털(petclinic., ayurvedic.)을 구동합니다.",
+    "id": "Domain: scarlet-ai.sistarcompany.com. Mendorong commerce B2B/D2C percakapan, closing 24/7 Ms. Scarlet, pembelian bersama Buy4Me, sisCart NearBuy, dan portal vertikal (petclinic., ayurvedic.).",
+    "vi": "Tên miền: scarlet-ai.sistarcompany.com. Thúc đẩy thương mại B2B/D2C hội thoại, chốt đơn 24/7 Ms. Scarlet, mua chung Buy4Me, sisCart NearBuy và các cổng chuyên biệt (petclinic., ayurvedic.).",
+    "zh-CN": "域名：scarlet-ai.sistarcompany.com。驱动对话式 B2B/D2C 商业、Ms. Scarlet 24/7 交易促成、Buy4Me 拼团采购、sisCart NearBuy 以及垂直行业门户（petclinic.、ayurvedic.）。",
+    "ja": "ドメイン：scarlet-ai.sistarcompany.com。対話型B2B/D2Cコマース、Ms. Scarlet 24/7クロージング、Buy4Me共同購買、sisCart NearBuy、およびバーティカルポータル（petclinic.、ayurvedic.）を推進。"
   },
   "Qubit Biz (Cosmo Seed™)": {
     "ko": "큐비트비즈(코스모씨드™)",
@@ -13782,12 +13782,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "量子比特商业 (Cosmo Seed™)",
     "ja": "Qubit Biz (Cosmo Seed™)"
   },
-  "Domain: qubit.sistarcompany.com . Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
-    "ko": "도메인: qubit.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE 연계 BNPL 무역 금융, 4-Way Qubit Offsetting 물물교환, Qubit Bank(Time/Space/Idea/Petfood)를 총괄 통제합니다.",
-    "id": "Domain: qubit.sistarcompany.com. Memimpin transaksi kontainer B2B volume besar, pembiayaan perdagangan BNPL K-SURE, barter 4-Way Qubit Offsetting, dan Qubit Bank (Time/Space/Idea/Petfood).",
-    "vi": "Tên miền: qubit.sistarcompany.com. Điều phối các giao dịch khối lượng lớn container B2B, tài trợ thương mại BNPL K-SURE, bù trừ hàng đổi hàng 4-Way Qubit Offsetting và Qubit Bank (Time/Space/Idea/Petfood).",
-    "zh-CN": "域名：qubit.sistarcompany.com。主导 B2B 集装箱大宗交易、K-SURE BNPL 贸易融资、4-Way Qubit Offsetting 易货对冲结算以及 Qubit Bank（Time/Space/Idea/Petfood）。",
-    "ja": "ドメイン：qubit.sistarcompany.com。B2Bコンテナ大口取引、K-SURE BNPL貿易金融、4-Way Qubit Offsettingバーター決済、Qubit Bank（Time/Space/Idea/Petfood）を統括。"
+  "Domain: qubit-biz.sistarcompany.com . Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
+    "ko": "도메인: qubit-biz.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE 연계 BNPL 무역 금융, 4-Way Qubit Offsetting 물물교환, Qubit Bank(Time/Space/Idea/Petfood)를 총괄 통제합니다.",
+    "id": "Domain: qubit-biz.sistarcompany.com. Memimpin transaksi kontainer B2B volume besar, pembiayaan perdagangan BNPL K-SURE, barter 4-Way Qubit Offsetting, dan Qubit Bank (Time/Space/Idea/Petfood).",
+    "vi": "Tên miền: qubit-biz.sistarcompany.com. Điều phối các giao dịch khối lượng lớn container B2B, tài trợ thương mại BNPL K-SURE, bù trừ hàng đổi hàng 4-Way Qubit Offsetting và Qubit Bank (Time/Space/Idea/Petfood).",
+    "zh-CN": "域名：qubit-biz.sistarcompany.com。主导 B2B 集装箱大宗交易、K-SURE BNPL 贸易融资、4-Way Qubit Offsetting 易货对冲结算以及 Qubit Bank（Time/Space/Idea/Petfood）。",
+    "ja": "ドメイン：qubit-biz.sistarcompany.com。B2Bコンテナ大口取引、K-SURE BNPL貿易金融、4-Way Qubit Offsettingバーター決済、Qubit Bank（Time/Space/Idea/Petfood）を統括。"
   },
   "Biz Galaxy, Hub & Challengers": {
     "ko": "비즈 갤럭시, 허브 및 챌린저스",
@@ -15084,12 +15084,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "第七章 • 企业数字拓扑结构 *SC机构专论 • 第07 / 11节",
     "ja": "第7章 • エンタープライズ・デジタル・トポロジー *SC機関モノグラフ • セクション 07 / 11"
   },
-  "Domains: intelligence.sistarcompany.com , media . Operates *SC AI Centers Int'l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post , and SISTAR Studio .": {
-    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studio를 운영합니다.",
-    "id": "Domain: intelligence.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
-    "vi": "Tên miền: intelligence.sistarcompany.com, media. Vận hành *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
-    "zh-CN": "域名：intelligence.sistarcompany.com, media。运营 *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 以及 SISTAR Studio。",
-    "ja": "ドメイン：intelligence.sistarcompany.com, media。*SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studioを運営。"
+  "Domains: intelligence-core.sistarcompany.com , media . Operates *SC AI Centers Int'l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post , and SISTAR Studio .": {
+    "ko": "도메인: intelligence-core.sistarcompany.com, media. *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studio를 운영합니다.",
+    "id": "Domain: intelligence-core.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
+    "vi": "Tên miền: intelligence-core.sistarcompany.com, media. Vận hành *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
+    "zh-CN": "域名：intelligence-core.sistarcompany.com, media。运营 *SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 以及 SISTAR Studio。",
+    "ja": "ドメイン：intelligence-core.sistarcompany.com, media。*SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, SISTAR Studioを運営。"
   },
   "Domains: biz , bizhub , challengers , biz-directory . Scales Vet Specialties ( MedIX, SISPet, SISPharm ), Auto-Formulator , Mind Company , and Sistar Challengers Int'l .": {
     "ko": "도메인: biz, bizhub, challengers, biz-directory. Vet Specialties(MedIX, SISPet, SISPharm), Auto-Formulator, Mind Company, Sistar Challengers Int'l을 확장합니다.",
@@ -21493,7 +21493,7 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "第 2 层核心 AI 资产库",
     "ja": "レイヤー 2 コア AI アセット・ヴォルト"
   },
-  "03 • intelligence-core intelligence.sistarcompany.com": {
+  "03 • intelligence-core intelligence-core.sistarcompany.com": {
     "ko": "03 • 인텔리전스-코어 Intelligence.sistarcompany.com",
     "id": "03 • intelijen-inti intelijen.sistarcompany.com",
     "vi": "03 • Intelligence-core Intelligence.sistarcompany.com",
@@ -21521,7 +21521,7 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "第 3 层双重商业平台",
     "ja": "レイヤー 3 デュアル・コマーシャル・プラットフォーム"
   },
-  "04 • scarlet-ai scarlet.sistarcompany.com": {
+  "04 • scarlet-ai scarlet-ai.sistarcompany.com": {
     "ko": "04 • 스칼렛아이 Scarlet.sistarcompany.com",
     "id": "04 • Scarlet-ai Scarlet.sistarcompany.com",
     "vi": "04 • Scarlet-ai Scarlet.sistarcompany.com",
@@ -21542,12 +21542,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "通过 Volume-Wise Deals、集体团购（Buy4Me）、K-SURE BNPL、70/30 PG 返现以及同步 t = 0 结算，解决传统贸易瓶颈的行业与功能导向型 AI 商业平台。",
     "ja": "Volume-Wise Deals、共同購入（Buy4Me）、K-SURE BNPL、70/30 PG キャッシュバック、および同時 t = 0 決済を通じて、従来の貿易上のボトルネックを解消する業界・機能特化型 AI コマースです。"
   },
-  "05 • qubit-biz qubit.sistarcompany.com": {
-    "ko": "05 • 큐비트비즈 qubit.sistarcompany.com",
-    "id": "05 • qubit-biz qubit.sistarcompany.com",
-    "vi": "05 • qubit-biz qubit.sistarcompany.com",
-    "zh-CN": "05 • qubit-biz qubit.sistarcompany.com",
-    "ja": "05 • qubit-biz qubit.sistarcompany.com"
+  "05 • qubit-biz qubit-biz.sistarcompany.com": {
+    "ko": "05 • 큐비트비즈 qubit-biz.sistarcompany.com",
+    "id": "05 • qubit-biz qubit-biz.sistarcompany.com",
+    "vi": "05 • qubit-biz qubit-biz.sistarcompany.com",
+    "zh-CN": "05 • qubit-biz qubit-biz.sistarcompany.com",
+    "ja": "05 • qubit-biz qubit-biz.sistarcompany.com"
   },
   "Cosmo Seed™ Biz Model Showcase & Cross-Project Platform": {
     "ko": "Cosmo Seed™ 비즈니스 모델 쇼케이스 및 교차 프로젝트 플랫폼",
@@ -21570,12 +21570,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "Layer 4 生态竞技场",
     "ja": "レイヤー4 エコシステム・アリーナ"
   },
-  "06 • biz-galaxy biz.sistarcompany.com": {
-    "ko": "06 • 비즈-갤럭시 biz.sistarcompany.com",
-    "id": "06 • biz-galaxy biz.sistarcompany.com",
-    "vi": "06 • biz-galaxy biz.sistarcompany.com",
-    "zh-CN": "06 • 商业银河 biz.sistarcompany.com",
-    "ja": "06 – ビズギャラクシーbiz.sistarcompany.com"
+  "06 • biz-galaxy biz-galaxy.sistarcompany.com": {
+    "ko": "06 • 비즈-갤럭시 biz-galaxy.sistarcompany.com",
+    "id": "06 • biz-galaxy biz-galaxy.sistarcompany.com",
+    "vi": "06 • biz-galaxy biz-galaxy.sistarcompany.com",
+    "zh-CN": "06 • 商业银河 biz-galaxy.sistarcompany.com",
+    "ja": "06 – ビズギャラクシーbiz-galaxy.sistarcompany.com"
   },
   "Shining Constellation of Industry Verticals & Players": {
     "ko": "산업 버티컬 및 플레이어들의 빛나는 성단",
@@ -21591,12 +21591,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "Cosmo Seed™ 模型与市场参与者在 Qubit Algorithm™ 的驱动下，在各个活跃垂直领域（SISTAR MedIX, SISPet, SISPharm, Aquasis, SisAyurvedic, Mind Company, FlexKids AI, SISMii）履行其职责的场所。",
     "ja": "Cosmo Seed™ モデルと市場プレイヤーが、Qubit Algorithm™ の下でアクティブなバーティカル（SISTAR MedIX, SISPet, SISPharm, Aquasis, SisAyurvedic, Mind Company, FlexKids AI, SISMii）全体でそれぞれの役割を果たす場所です。"
   },
-  "07 • biz-hub bizhub.sistarcompany.com": {
-    "ko": "07 • 비즈허브 bizhub.sistarcompany.com",
-    "id": "07 • biz-hub bizhub.sistarcompany.com",
-    "vi": "07 • biz-hub bizhub.sistarcompany.com",
-    "zh-CN": "07 • biz-hub bizhub.sistarcompany.com",
-    "ja": "07 • ビズハブ bizhub.sistarcompany.com"
+  "07 • biz-hub biz-hub.sistarcompany.com": {
+    "ko": "07 • 비즈허브 biz-hub.sistarcompany.com",
+    "id": "07 • biz-hub biz-hub.sistarcompany.com",
+    "vi": "07 • biz-hub biz-hub.sistarcompany.com",
+    "zh-CN": "07 • biz-hub biz-hub.sistarcompany.com",
+    "ja": "07 • ビズハブ biz-hub.sistarcompany.com"
   },
   "\"Together Gets Stronger\" Co-Creation Hub": {
     "ko": "\"함께하면 더 강해진다\" 공동 창조 허브",
@@ -21619,12 +21619,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "Layer 5 三大支柱参与者",
     "ja": "レイヤー5 3大柱の参加者"
   },
-  "08 • challengers challengers.sistarcompany.com": {
+  "08 • challengers challenger.sistarcompany.com": {
     "ko": "08 • 챌린저스 Challengers.sistarcompany.com",
     "id": "08 • penantang penantang.sistarcompany.com",
-    "vi": "08 • người thách đấu challengers.sistarcompany.com",
+    "vi": "08 • người thách đấu challenger.sistarcompany.com",
     "zh-CN": "08 • 挑战者 Challengers.sistarcompany.com",
-    "ja": "08 – 挑戦者たちchallengers.sistarcompany.com"
+    "ja": "08 – 挑戦者たちchallenger.sistarcompany.com"
   },
   "International SISTAR Family & Vibe Working Portal": {
     "ko": "국제 SISTAR 패밀리 및 Vibe Working 포털",
@@ -21808,12 +21808,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "20年以上国际BD实战与贸易精通；8个全球基地（SCK, SCI, SCV, SG, SCC, SCJ, SCU, IN）；联邦联盟（IATA & IADA — “携手，对抗全球AI巨头”）；4大支柱与15个创始项目骨干。",
     "ja": "20年以上の国際BD実務と貿易の熟練度；8つのグローバル拠点（SCK, SCI, SCV, SG, SCC, SCJ, SCU, IN）；フェデレーション同盟（IATA & IADA — 「グローバルAI巨人に立ち向かう、共に」）；4つのピラーおよび15の創設プロジェクトの背骨。"
   },
-  "02 • qubit-algorithm qubitalgorithm.sistarcompany.com": {
-    "ko": "02 • 큐비트-알고리즘 qubitalgorithm.sistarcompany.com",
-    "id": "02 • algoritma qubit qubitalgorithm.sistarcompany.com",
-    "vi": "02 • thuật toán qubit qubitalgorithm.sistarcompany.com",
-    "zh-CN": "02 • 量子位算法 qubitalgorithm.sistarcompany.com",
-    "ja": "02 • 量子ビットアルゴリズム qubitalgorithm.sistarcompany.com"
+  "02 • qubit-algorithm qubit-algorithm.sistarcompany.com": {
+    "ko": "02 • 큐비트-알고리즘 qubit-algorithm.sistarcompany.com",
+    "id": "02 • algoritma qubit qubit-algorithm.sistarcompany.com",
+    "vi": "02 • thuật toán qubit qubit-algorithm.sistarcompany.com",
+    "zh-CN": "02 • 量子位算法 qubit-algorithm.sistarcompany.com",
+    "ja": "02 • 量子ビットアルゴリズム qubit-algorithm.sistarcompany.com"
   },
   "Mathematical & Theoretical Propulsion Engine": {
     "ko": "수학적 및 이론적 추진 엔진",
@@ -21829,12 +21829,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "展示即时收入、ODM、AI Dx 和跨境贸易优势，以激励全球市场的制造商、分销商、兽医诊所和品牌所有者。",
     "ja": "グローバル市場全体のメーカー、流通業者、動物病院、ブランドオーナーに対し、即時の収益創出、ODM、AI Dx、およびクロスボーダー貿易の優位性を実証し、意欲を喚起します。"
   },
-  "10 • ir-pitchdeck ir.sistarcompany.com": {
-    "ko": "10 • IR 피치덱 ir.sistarcompany.com",
-    "id": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "vi": "10 • ir-pitchdeck ir.sistarcompany.com",
-    "zh-CN": "10 • IR 融资演示文稿 ir.sistarcompany.com",
-    "ja": "10 • IRピッチデック ir.sistarcompany.com"
+  "10 • ir-pitchdeck ir-pitchdeck.sistarcompany.com": {
+    "ko": "10 • IR 피치덱 ir-pitchdeck.sistarcompany.com",
+    "id": "10 • ir-pitchdeck ir-pitchdeck.sistarcompany.com",
+    "vi": "10 • ir-pitchdeck ir-pitchdeck.sistarcompany.com",
+    "zh-CN": "10 • IR 融资演示文稿 ir-pitchdeck.sistarcompany.com",
+    "ja": "10 • IRピッチデック ir-pitchdeck.sistarcompany.com"
   },
   "VC & Institutional Investment Conviction Hub": {
     "ko": "VC 및 기관 투자 확신 허브",
@@ -21857,12 +21857,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "第 6 层开放目录和媒体",
     "ja": "レイヤ 6 オープン ディレクトリとメディア"
   },
-  "11 • biz-directory directory.sistarcompany.com": {
-    "ko": "11 • 비즈니스 디렉토리 directory.sistarcompany.com",
+  "11 • biz-directory biz-directory.sistarcompany.com": {
+    "ko": "11 • 비즈니스 디렉토리 biz-directory.sistarcompany.com",
     "id": "11 • direktori biz-direktori.sistarcompany.com",
-    "vi": "11 • thư mục biz.sistarcompany.com",
-    "zh-CN": "11 • biz-directorydirectory.sistarcompany.com",
-    "ja": "11 • biz ディレクトリ directory.sistarcompany.com"
+    "vi": "11 • thư mục biz-galaxy.sistarcompany.com",
+    "zh-CN": "11 • biz-directorybiz-directory.sistarcompany.com",
+    "ja": "11 • biz ディレクトリ biz-directory.sistarcompany.com"
   },
   "Open B2B Proposal & Corporate Directory": {
     "ko": "오픈 B2B 제안 및 기업 디렉토리",
@@ -21962,12 +21962,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "通过世界首个 Qubit Algorithm™ 将市场参与者从牛顿线性摩擦中解放出来",
     "ja": "世界初のQubit Algorithm™を通じて、市場参加者をニュートン力学的な線形摩擦から解放する"
   },
-  "qubit-algorithm ( qubitalgorithm.sistarcompany.com ) was born from a profound empirical observation across two decades of international commerce: capable manufacturers, innovative creators, veterinary clinics, and regional distributors repeatedly fail to reach their potential not because their products lack merit, but because they are trapped inside Classical Newtonian Business Rules ( A -> B -> C ). Sequential supply chains impose working-capital crunches, speculative inventory deadweight, multi-tier middleman markups, and 60-to-120-day settlement delays.": {
-    "ko": "qubit-algorithm (qubitalgorithm.sistarcompany.com)은 20년간의 국제 상거래에 대한 심오한 경험적 관찰에서 탄생했습니다. 유능한 제조사, 혁신적인 창작자, 동물병원 및 지역 유통업체들이 제품의 우수성에도 불구하고 잠재력을 발휘하지 못하는 이유는 제품의 결함 때문이 아니라, 그들이 고전적인 뉴턴식 비즈니스 규칙(A -> B -> C)에 갇혀 있기 때문입니다. 순차적인 공급망은 운전 자본 압박, 투기적 재고 부담, 다단계 중간 상인의 마진, 60~120일의 결제 지연을 초래합니다.",
-    "id": "qubit-algorithm (qubitalgorithm.sistarcompany.com) lahir dari pengamatan empiris yang mendalam selama dua dekade perdagangan internasional: produsen yang cakap, kreator inovatif, klinik hewan, dan distributor regional berulang kali gagal mencapai potensi mereka bukan karena produk mereka kurang bernilai, tetapi karena mereka terjebak dalam Aturan Bisnis Newtonian Klasik (A -> B -> C). Rantai pasokan sekuensial memaksakan tekanan modal kerja, beban inventaris spekulatif, markup perantara multi-tingkat, dan penundaan penyelesaian 60 hingga 120 hari.",
-    "vi": "qubit-algorithm (qubitalgorithm.sistarcompany.com) ra đời từ quan sát thực nghiệm sâu sắc trong hai thập kỷ thương mại quốc tế: các nhà sản xuất có năng lực, những người sáng tạo đổi mới, các phòng khám thú y và các nhà phân phối khu vực liên tục không đạt được tiềm năng của họ không phải vì sản phẩm thiếu giá trị, mà vì họ bị mắc kẹt trong các Quy tắc Kinh doanh Newton Cổ điển (A -> B -> C). Chuỗi cung ứng tuần tự gây ra áp lực vốn lưu động, hàng tồn kho đầu cơ, chi phí trung gian nhiều tầng và độ trễ thanh toán từ 60 đến 120 ngày.",
-    "zh-CN": "qubit-algorithm (qubitalgorithm.sistarcompany.com) 诞生于对二十年国际贸易的深刻实证观察：有能力的制造商、创新创作者、兽医诊所和区域分销商之所以屡屡无法发挥潜力，并非因为产品缺乏价值，而是因为他们被困在经典的牛顿商业规则（A -> B -> C）中。顺序供应链带来了营运资金紧缩、投机性库存负担、多层中间商加价以及 60 到 120 天的结算延迟。",
-    "ja": "qubit-algorithm (qubitalgorithm.sistarcompany.com) は、20年にわたる国際商取引における深い経験的観察から生まれました。有能なメーカー、革新的なクリエイター、動物病院、地域の流通業者が、製品の優秀さにもかかわらず潜在能力を発揮できないのは、製品の欠陥ではなく、彼らが古典的なニュートン力学的なビジネスルール（A -> B -> C）に囚われているからです。順次的なサプライチェーンは、運転資金の圧迫、投機的な在庫の重荷、多層的な中間業者のマージン、そして60〜120日の決済遅延を強いています。"
+  "qubit-algorithm ( qubit-algorithm.sistarcompany.com ) was born from a profound empirical observation across two decades of international commerce: capable manufacturers, innovative creators, veterinary clinics, and regional distributors repeatedly fail to reach their potential not because their products lack merit, but because they are trapped inside Classical Newtonian Business Rules ( A -> B -> C ). Sequential supply chains impose working-capital crunches, speculative inventory deadweight, multi-tier middleman markups, and 60-to-120-day settlement delays.": {
+    "ko": "qubit-algorithm (qubit-algorithm.sistarcompany.com)은 20년간의 국제 상거래에 대한 심오한 경험적 관찰에서 탄생했습니다. 유능한 제조사, 혁신적인 창작자, 동물병원 및 지역 유통업체들이 제품의 우수성에도 불구하고 잠재력을 발휘하지 못하는 이유는 제품의 결함 때문이 아니라, 그들이 고전적인 뉴턴식 비즈니스 규칙(A -> B -> C)에 갇혀 있기 때문입니다. 순차적인 공급망은 운전 자본 압박, 투기적 재고 부담, 다단계 중간 상인의 마진, 60~120일의 결제 지연을 초래합니다.",
+    "id": "qubit-algorithm (qubit-algorithm.sistarcompany.com) lahir dari pengamatan empiris yang mendalam selama dua dekade perdagangan internasional: produsen yang cakap, kreator inovatif, klinik hewan, dan distributor regional berulang kali gagal mencapai potensi mereka bukan karena produk mereka kurang bernilai, tetapi karena mereka terjebak dalam Aturan Bisnis Newtonian Klasik (A -> B -> C). Rantai pasokan sekuensial memaksakan tekanan modal kerja, beban inventaris spekulatif, markup perantara multi-tingkat, dan penundaan penyelesaian 60 hingga 120 hari.",
+    "vi": "qubit-algorithm (qubit-algorithm.sistarcompany.com) ra đời từ quan sát thực nghiệm sâu sắc trong hai thập kỷ thương mại quốc tế: các nhà sản xuất có năng lực, những người sáng tạo đổi mới, các phòng khám thú y và các nhà phân phối khu vực liên tục không đạt được tiềm năng của họ không phải vì sản phẩm thiếu giá trị, mà vì họ bị mắc kẹt trong các Quy tắc Kinh doanh Newton Cổ điển (A -> B -> C). Chuỗi cung ứng tuần tự gây ra áp lực vốn lưu động, hàng tồn kho đầu cơ, chi phí trung gian nhiều tầng và độ trễ thanh toán từ 60 đến 120 ngày.",
+    "zh-CN": "qubit-algorithm (qubit-algorithm.sistarcompany.com) 诞生于对二十年国际贸易的深刻实证观察：有能力的制造商、创新创作者、兽医诊所和区域分销商之所以屡屡无法发挥潜力，并非因为产品缺乏价值，而是因为他们被困在经典的牛顿商业规则（A -> B -> C）中。顺序供应链带来了营运资金紧缩、投机性库存负担、多层中间商加价以及 60 到 120 天的结算延迟。",
+    "ja": "qubit-algorithm (qubit-algorithm.sistarcompany.com) は、20年にわたる国際商取引における深い経験的観察から生まれました。有能なメーカー、革新的なクリエイター、動物病院、地域の流通業者が、製品の優秀さにもかかわらず潜在能力を発揮できないのは、製品の欠陥ではなく、彼らが古典的なニュートン力学的なビジネスルール（A -> B -> C）に囚われているからです。順次的なサプライチェーンは、運転資金の圧迫、投機的な在庫の重荷、多層的な中間業者のマージン、そして60〜120日の決済遅延を強いています。"
   },
   "To dismantle this structural bottleneck, *SC invented the world's first Qubit Algorithm™ and codified its rigorous mathematical proof in our foundational monograph, Optimization of Business Process Wavefunctions . Why is quantum mechanics combined with autonomous AI the ideal practical match for modern commerce? Because in the AI era, autonomous agents process multi-lingual market signals, match cross-border counterparties, and execute smart clearing code concurrently. Replacing linear step-by-step trade with the 5 Quantum Laws —(1) Quantum Fluctuation ( One Spark zero-capital genesis), (2) t = 0 Superposition (simultaneous multi-party profit state), (3) Bell-State Entanglement ( One Task, Multi Outcomes cross-project synchronization), (4) WKB Quantum Tunneling (pre-order deposits bypassing capital barriers), and (5) Discrete Quantization & Wave-Particle Duality (collapsing demand waves into deterministic contract particles while canceling middleman noise)—transforms international business from a high-risk linear gamble into a mathematically deterministic engine.": {
     "ko": "이러한 구조적 병목 현상을 해소하기 위해, *SC는 세계 최초의 Qubit Algorithm™을 발명하고 그 엄격한 수학적 증명을 기초 논문인 '비즈니스 프로세스 파동 함수의 최적화(Optimization of Business Process Wavefunctions)'에 성문화했습니다. 왜 양자 역학을 자율 AI와 결합하는 것이 현대 상거래에 이상적인 실질적 조합일까요? AI 시대에는 자율 에이전트가 다국어 시장 신호를 처리하고, 국가 간 거래 상대방을 매칭하며, 스마트 클리어링 코드를 동시에 실행하기 때문입니다. 선형적인 단계별 무역을 5가지 양자 법칙으로 대체함으로써—(1) 양자 요동(원 스파크 제로 자본 생성), (2) t=0 중첩(동시 다자간 이익 상태), (3) 벨 상태 얽힘(원 태스크, 멀티 결과 교차 프로젝트 동기화), (4) WKB 양자 터널링(자본 장벽을 우회하는 선주문 예치금), (5) 이산 양자화 및 파동-입자 이중성(수요 파동을 결정론적 계약 입자로 붕괴시키고 중간 상인의 노이즈를 제거)—국제 비즈니스를 고위험 선형 도박에서 수학적으로 결정론적인 엔진으로 변환합니다.",
@@ -22039,12 +22039,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "驱动 Scarlet-AI 和 Qubit-Biz 的专有 AI 技术主库",
     "ja": "Scarlet-AIとQubit-Bizを駆動する独自AI技術のマスター保管庫"
   },
-  "intelligence-core ( intelligence.sistarcompany.com ) is the master technological vault cataloging and orchestrating *SC's core artificial intelligence assets, enterprise software engines, and physical AI hardware. Rather than renting generic third-party SaaS tools that leak corporate memory and charge punitive per-seat fees, *SC engineered a sovereign, full-stack cognitive infrastructure designed specifically for cross-border trade, automated enterprise resource planning, and 24/7 commercial execution.": {
-    "ko": "intelligence-core (intelligence.sistarcompany.com)는 *SC의 핵심 인공지능 자산, 엔터프라이즈 소프트웨어 엔진 및 물리적 AI 하드웨어를 분류하고 조정하는 마스터 기술 볼트입니다. 기업 메모리를 유출하고 좌석당 징벌적 수수료를 부과하는 일반적인 타사 SaaS 도구를 임대하는 대신, *SC는 국경 간 무역, 자동화된 전사적 자원 관리 및 24/7 상업적 실행을 위해 특별히 설계된 주권적 풀스택 인지 인프라를 구축했습니다.",
-    "id": "intelligence-core (intelligence.sistarcompany.com) adalah brankas teknologi utama yang mengkatalogkan dan mengoordinasikan aset kecerdasan buatan inti *SC, mesin perangkat lunak perusahaan, dan perangkat keras AI fisik. Alih-alih menyewa alat SaaS pihak ketiga generik yang membocorkan memori perusahaan dan mengenakan biaya per-kursi yang menghukum, *SC merekayasa infrastruktur kognitif full-stack berdaulat yang dirancang khusus untuk perdagangan lintas batas, perencanaan sumber daya perusahaan otomatis, dan eksekusi komersial 24/7.",
-    "vi": "intelligence-core (intelligence.sistarcompany.com) là kho lưu trữ công nghệ chính giúp lập danh mục và điều phối các tài sản trí tuệ nhân tạo cốt lõi, công cụ phần mềm doanh nghiệp và phần cứng AI vật lý của *SC. Thay vì thuê các công cụ SaaS của bên thứ ba thông thường làm rò rỉ bộ nhớ doanh nghiệp và tính phí theo đầu người mang tính trừng phạt, *SC đã thiết kế một cơ sở hạ tầng nhận thức toàn diện (full-stack) có chủ quyền, được thiết kế đặc biệt cho thương mại xuyên biên giới, lập kế hoạch nguồn lực doanh nghiệp tự động và thực thi thương mại 24/7.",
-    "zh-CN": "intelligence-core (intelligence.sistarcompany.com) 是编目和协调 *SC 核心人工智能资产、企业软件引擎和物理 AI 硬件的主技术库。*SC 没有租用那些会泄露企业记忆并收取惩罚性按席位费用的通用第三方 SaaS 工具，而是构建了一个主权级的全栈认知基础设施，专为跨境贸易、自动化企业资源规划和 24/7 全天候商业执行而设计。",
-    "ja": "intelligence-core (intelligence.sistarcompany.com) は、*SCのコア人工知能資産、エンタープライズソフトウェアエンジン、および物理AIハードウェアをカタログ化し、調整するマスター技術保管庫です。企業メモリを流出させ、座席ごとに懲罰的な料金を課す一般的なサードパーティ製SaaSツールを借りる代わりに、*SCは国境を越えた貿易、自動化されたエンタープライズリソースプランニング、および24時間365日の商用実行のために特別に設計された、主権を持つフルスタックの認知インフラストラクチャを構築しました。"
+  "intelligence-core ( intelligence-core.sistarcompany.com ) is the master technological vault cataloging and orchestrating *SC's core artificial intelligence assets, enterprise software engines, and physical AI hardware. Rather than renting generic third-party SaaS tools that leak corporate memory and charge punitive per-seat fees, *SC engineered a sovereign, full-stack cognitive infrastructure designed specifically for cross-border trade, automated enterprise resource planning, and 24/7 commercial execution.": {
+    "ko": "intelligence-core (intelligence-core.sistarcompany.com)는 *SC의 핵심 인공지능 자산, 엔터프라이즈 소프트웨어 엔진 및 물리적 AI 하드웨어를 분류하고 조정하는 마스터 기술 볼트입니다. 기업 메모리를 유출하고 좌석당 징벌적 수수료를 부과하는 일반적인 타사 SaaS 도구를 임대하는 대신, *SC는 국경 간 무역, 자동화된 전사적 자원 관리 및 24/7 상업적 실행을 위해 특별히 설계된 주권적 풀스택 인지 인프라를 구축했습니다.",
+    "id": "intelligence-core (intelligence-core.sistarcompany.com) adalah brankas teknologi utama yang mengkatalogkan dan mengoordinasikan aset kecerdasan buatan inti *SC, mesin perangkat lunak perusahaan, dan perangkat keras AI fisik. Alih-alih menyewa alat SaaS pihak ketiga generik yang membocorkan memori perusahaan dan mengenakan biaya per-kursi yang menghukum, *SC merekayasa infrastruktur kognitif full-stack berdaulat yang dirancang khusus untuk perdagangan lintas batas, perencanaan sumber daya perusahaan otomatis, dan eksekusi komersial 24/7.",
+    "vi": "intelligence-core (intelligence-core.sistarcompany.com) là kho lưu trữ công nghệ chính giúp lập danh mục và điều phối các tài sản trí tuệ nhân tạo cốt lõi, công cụ phần mềm doanh nghiệp và phần cứng AI vật lý của *SC. Thay vì thuê các công cụ SaaS của bên thứ ba thông thường làm rò rỉ bộ nhớ doanh nghiệp và tính phí theo đầu người mang tính trừng phạt, *SC đã thiết kế một cơ sở hạ tầng nhận thức toàn diện (full-stack) có chủ quyền, được thiết kế đặc biệt cho thương mại xuyên biên giới, lập kế hoạch nguồn lực doanh nghiệp tự động và thực thi thương mại 24/7.",
+    "zh-CN": "intelligence-core (intelligence-core.sistarcompany.com) 是编目和协调 *SC 核心人工智能资产、企业软件引擎和物理 AI 硬件的主技术库。*SC 没有租用那些会泄露企业记忆并收取惩罚性按席位费用的通用第三方 SaaS 工具，而是构建了一个主权级的全栈认知基础设施，专为跨境贸易、自动化企业资源规划和 24/7 全天候商业执行而设计。",
+    "ja": "intelligence-core (intelligence-core.sistarcompany.com) は、*SCのコア人工知能資産、エンタープライズソフトウェアエンジン、および物理AIハードウェアをカタログ化し、調整するマスター技術保管庫です。企業メモリを流出させ、座席ごとに懲罰的な料金を課す一般的なサードパーティ製SaaSツールを借りる代わりに、*SCは国境を越えた貿易、自動化されたエンタープライズリソースプランニング、および24時間365日の商用実行のために特別に設計された、主権を持つフルスタックの認知インフラストラクチャを構築しました。"
   },
   "Every technology inside intelligence-core serves a dual mandate: first, it achieves 100% internal administrative and ERP cost elimination across all *SC global bases; second, it is packaged as a high-margin ( 75%~85% Gross Margin ) B2B SaaS and licensing suite for external enterprises across our federated alliances.": {
     "ko": "intelligence-core 내부의 모든 기술은 이중 임무를 수행합니다. 첫째, 모든 *SC 글로벌 거점에서 100% 내부 관리 및 ERP 비용 절감을 달성하며, 둘째, 연합 동맹 전반의 외부 기업을 위한 고마진(75%~85% 매출 총이익) B2B SaaS 및 라이선스 제품군으로 패키징됩니다.",
@@ -22158,12 +22158,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "通过 Volume-Wise Deals、Buy4Me、K-SURE BNPL 和 t = 0 结算解决历史商业瓶颈",
     "ja": "Volume-Wise Deals、Buy4Me、K-SURE BNPL、およびt = 0決済による歴史的な商取引のボトルネックの解消"
   },
-  "scarlet-ai ( scarlet.sistarcompany.com ) deploys function-specific and industry-specific AI commerce and international trading platforms powered by intelligence-core and governed by the Qubit Algorithm™ . Traditional B2B and B2C marketplaces extract predatory take-rates (15%~35%), trap merchants in price wars, and leave cross-border buyers exposed to credit and customs friction. scarlet-ai re-engineers the marketplace mechanics from the ground up so that every participant's business volume and net profitability expand simultaneously.": {
-    "ko": "scarlet-ai(scarlet.sistarcompany.com)는 intelligence-core에 의해 구동되고 Qubit Algorithm™에 의해 통제되는 기능별 및 산업별 AI 상거래 및 국제 무역 플랫폼을 배포합니다. 전통적인 B2B 및 B2C 마켓플레이스는 약탈적인 수수료(15%~35%)를 추출하고, 상인을 가격 전쟁에 가두며, 국경 간 구매자를 신용 및 관세 마찰에 노출시킵니다. scarlet-ai는 모든 참가자의 비즈니스 규모와 순수익성이 동시에 확장되도록 마켓플레이스 메커니즘을 근본부터 재설계합니다.",
-    "id": "scarlet-ai (scarlet.sistarcompany.com) menyebarkan platform perdagangan AI dan perdagangan internasional khusus fungsi dan industri yang didukung oleh intelligence-core dan diatur oleh Qubit Algorithm™. Pasar B2B dan B2C tradisional mengekstraksi tingkat pengambilan yang predator (15%~35%), menjebak pedagang dalam perang harga, dan membiarkan pembeli lintas batas terpapar pada gesekan kredit dan bea cukai. scarlet-ai merekayasa ulang mekanisme pasar dari bawah ke atas sehingga volume bisnis dan profitabilitas bersih setiap peserta berkembang secara bersamaan.",
-    "vi": "scarlet-ai (scarlet.sistarcompany.com) triển khai các nền tảng thương mại AI và giao dịch quốc tế theo chức năng và ngành cụ thể, được cung cấp năng lượng bởi intelligence-core và được điều khiển bởi Qubit Algorithm™. Các thị trường B2B và B2C truyền thống trích xuất tỷ lệ phí mang tính săn mồi (15%~35%), bẫy thương nhân vào các cuộc chiến giá cả và khiến người mua xuyên biên giới phải đối mặt với các rào cản về tín dụng và hải quan. scarlet-ai tái thiết kế các cơ chế thị trường từ đầu để khối lượng kinh doanh và lợi nhuận ròng của mọi người tham gia đều mở rộng đồng thời.",
-    "zh-CN": "scarlet-ai (scarlet.sistarcompany.com) 部署由 intelligence-core 驱动并受 Qubit Algorithm™ 支配的功能特定和行业特定的 AI 商业与国际贸易平台。传统的 B2B 和 B2C 市场提取掠夺性的抽成（15%~35%），将商家困在价格战中，并使跨境买家暴露在信贷和海关摩擦中。scarlet-ai 从根本上重新设计了市场机制，使每位参与者的业务规模和净盈利能力能够同步增长。",
-    "ja": "scarlet-ai (scarlet.sistarcompany.com) は、intelligence-coreによって駆動され、Qubit Algorithm™によって制御される、機能別および業界別のAIコマースおよび国際貿易プラットフォームを展開します。従来のB2BおよびB2Cマーケットプレイスは、略奪的なテイクレート（15%~35%）を抽出し、商人を価格競争に陥れ、国境を越えた購入者を信用および関税の摩擦にさらします。scarlet-aiは、すべての参加者のビジネス規模と純利益が同時に拡大するように、マーケットプレイスのメカニズムを根本から再設計します。"
+  "scarlet-ai ( scarlet-ai.sistarcompany.com ) deploys function-specific and industry-specific AI commerce and international trading platforms powered by intelligence-core and governed by the Qubit Algorithm™ . Traditional B2B and B2C marketplaces extract predatory take-rates (15%~35%), trap merchants in price wars, and leave cross-border buyers exposed to credit and customs friction. scarlet-ai re-engineers the marketplace mechanics from the ground up so that every participant's business volume and net profitability expand simultaneously.": {
+    "ko": "scarlet-ai(scarlet-ai.sistarcompany.com)는 intelligence-core에 의해 구동되고 Qubit Algorithm™에 의해 통제되는 기능별 및 산업별 AI 상거래 및 국제 무역 플랫폼을 배포합니다. 전통적인 B2B 및 B2C 마켓플레이스는 약탈적인 수수료(15%~35%)를 추출하고, 상인을 가격 전쟁에 가두며, 국경 간 구매자를 신용 및 관세 마찰에 노출시킵니다. scarlet-ai는 모든 참가자의 비즈니스 규모와 순수익성이 동시에 확장되도록 마켓플레이스 메커니즘을 근본부터 재설계합니다.",
+    "id": "scarlet-ai (scarlet-ai.sistarcompany.com) menyebarkan platform perdagangan AI dan perdagangan internasional khusus fungsi dan industri yang didukung oleh intelligence-core dan diatur oleh Qubit Algorithm™. Pasar B2B dan B2C tradisional mengekstraksi tingkat pengambilan yang predator (15%~35%), menjebak pedagang dalam perang harga, dan membiarkan pembeli lintas batas terpapar pada gesekan kredit dan bea cukai. scarlet-ai merekayasa ulang mekanisme pasar dari bawah ke atas sehingga volume bisnis dan profitabilitas bersih setiap peserta berkembang secara bersamaan.",
+    "vi": "scarlet-ai (scarlet-ai.sistarcompany.com) triển khai các nền tảng thương mại AI và giao dịch quốc tế theo chức năng và ngành cụ thể, được cung cấp năng lượng bởi intelligence-core và được điều khiển bởi Qubit Algorithm™. Các thị trường B2B và B2C truyền thống trích xuất tỷ lệ phí mang tính săn mồi (15%~35%), bẫy thương nhân vào các cuộc chiến giá cả và khiến người mua xuyên biên giới phải đối mặt với các rào cản về tín dụng và hải quan. scarlet-ai tái thiết kế các cơ chế thị trường từ đầu để khối lượng kinh doanh và lợi nhuận ròng của mọi người tham gia đều mở rộng đồng thời.",
+    "zh-CN": "scarlet-ai (scarlet-ai.sistarcompany.com) 部署由 intelligence-core 驱动并受 Qubit Algorithm™ 支配的功能特定和行业特定的 AI 商业与国际贸易平台。传统的 B2B 和 B2C 市场提取掠夺性的抽成（15%~35%），将商家困在价格战中，并使跨境买家暴露在信贷和海关摩擦中。scarlet-ai 从根本上重新设计了市场机制，使每位参与者的业务规模和净盈利能力能够同步增长。",
+    "ja": "scarlet-ai (scarlet-ai.sistarcompany.com) は、intelligence-coreによって駆動され、Qubit Algorithm™によって制御される、機能別および業界別のAIコマースおよび国際貿易プラットフォームを展開します。従来のB2BおよびB2Cマーケットプレイスは、略奪的なテイクレート（15%~35%）を抽出し、商人を価格競争に陥れ、国境を越えた購入者を信用および関税の摩擦にさらします。scarlet-aiは、すべての参加者のビジネス規模と純利益が同時に拡大するように、マーケットプレイスのメカニズムを根本から再設計します。"
   },
   "Volume-Wise Deals & Buy4Me Reverse Auctions": {
     "ko": "대량 거래 및 Buy4Me 역경매",
@@ -22207,19 +22207,19 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "架构维度",
     "ja": "建築的次元"
   },
-  "06 • biz-galaxy ( biz.sistarcompany.com ) [Autonomous Vertical Stars]": {
-    "ko": "06 • biz-galaxy ( biz.sistarcompany.com ) [자율적 수직적 별들]",
-    "id": "06 • biz-galaxy ( biz.sistarcompany.com ) [Bintang Vertikal Otonom]",
-    "vi": "06 • biz-galaxy ( biz.sistarcompany.com ) [Các Ngôi sao Dọc Tự chủ]",
-    "zh-CN": "06 • biz-galaxy ( biz.sistarcompany.com ) [自主垂直之星]",
-    "ja": "06 • biz-galaxy ( biz.sistarcompany.com ) [自律的垂直星]"
+  "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [Autonomous Vertical Stars]": {
+    "ko": "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [자율적 수직적 별들]",
+    "id": "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [Bintang Vertikal Otonom]",
+    "vi": "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [Các Ngôi sao Dọc Tự chủ]",
+    "zh-CN": "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [自主垂直之星]",
+    "ja": "06 • biz-galaxy ( biz-galaxy.sistarcompany.com ) [自律的垂直星]"
   },
-  "07 • biz-hub ( bizhub.sistarcompany.com ) [Collective Co-Creation & Shared Infrastructure]": {
-    "ko": "07 • biz-hub ( bizhub.sistarcompany.com ) [집단적 공동 창조 및 공유 인프라]",
-    "id": "07 • biz-hub ( bizhub.sistarcompany.com ) [Kreasi Bersama Kolektif & Infrastruktur Bersama]",
-    "vi": "07 • biz-hub ( bizhub.sistarcompany.com ) [Đồng sáng tạo Tập thể & Cơ sở hạ tầng Chia sẻ]",
-    "zh-CN": "07 • biz-hub ( bizhub.sistarcompany.com ) [集体共创与共享基础设施]",
-    "ja": "07 • biz-hub ( bizhub.sistarcompany.com ) [集団的共創および共有インフラ]"
+  "07 • biz-hub ( biz-hub.sistarcompany.com ) [Collective Co-Creation & Shared Infrastructure]": {
+    "ko": "07 • biz-hub ( biz-hub.sistarcompany.com ) [집단적 공동 창조 및 공유 인프라]",
+    "id": "07 • biz-hub ( biz-hub.sistarcompany.com ) [Kreasi Bersama Kolektif & Infrastruktur Bersama]",
+    "vi": "07 • biz-hub ( biz-hub.sistarcompany.com ) [Đồng sáng tạo Tập thể & Cơ sở hạ tầng Chia sẻ]",
+    "zh-CN": "07 • biz-hub ( biz-hub.sistarcompany.com ) [集体共创与共享基础设施]",
+    "ja": "07 • biz-hub ( biz-hub.sistarcompany.com ) [集団的共創および共有インフラ]"
   },
   "Core Governing Ethos": {
     "ko": "핵심 운영 철학",
@@ -22333,12 +22333,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "Vibe Working 与国际 SISTAR 家族：超越雇佣关系，迈向玩家所有权",
     "ja": "Vibe Workingと国際SISTARファミリー：雇用を超えたプレイヤーオーナーシップへ"
   },
-  "challengers ( challengers.sistarcompany.com ) inaugurates a radical new paradigm for human work in the age of autonomous AI: Vibe Working ( \"Human to focus on ideas & insights; Let your AI work\" ). Traditional corporations treat talent either as salaried cogs burdened by repetitive administrative drudgery or as disposable gig freelancers with zero long-term equity. In stark contrast, challengers invites ambitious global professionals, trade specialists, marketers, and young entrepreneurs across 8 countries to onboard not as mere employees or freelancers, but as International SISTAR Family ( SISTAR Challengers ) .": {
-    "ko": "챌린저(challengers.sistarcompany.com)는 자율 AI 시대의 인간 노동을 위한 급진적인 새로운 패러다임을 시작합니다: Vibe Working (\"인간은 아이디어와 통찰력에 집중하고, AI가 일하게 하라\"). 전통적인 기업은 인재를 반복적인 행정 업무에 시달리는 급여를 받는 톱니바퀴로 취급하거나, 장기적인 지분이 없는 일회용 긱 프리랜서로 취급합니다. 이와 극명하게 대조적으로, 챌린저는 8개국의 야심 찬 글로벌 전문가, 무역 전문가, 마케터 및 젊은 기업가들을 단순한 직원이나 프리랜서가 아닌 국제 SISTAR 가족(SISTAR Challengers)으로 온보딩하도록 초대합니다.",
-    "id": "Challengers (challengers.sistarcompany.com) meresmikan paradigma baru yang radikal untuk pekerjaan manusia di era AI otonom: Vibe Working (\"Manusia fokus pada ide & wawasan; Biarkan AI Anda bekerja\"). Perusahaan tradisional memperlakukan talenta sebagai roda penggerak bergaji yang dibebani dengan pekerjaan administratif yang berulang atau sebagai pekerja lepas gig yang dapat dibuang tanpa ekuitas jangka panjang. Sangat kontras, challengers mengundang para profesional global, spesialis perdagangan, pemasar, dan pengusaha muda yang ambisius di 8 negara untuk bergabung bukan sebagai karyawan atau pekerja lepas biasa, melainkan sebagai Keluarga SISTAR Internasional (SISTAR Challengers).",
-    "vi": "Challengers (challengers.sistarcompany.com) khởi xướng một mô hình mới triệt để cho công việc của con người trong kỷ nguyên AI tự chủ: Vibe Working (\"Con người tập trung vào ý tưởng & hiểu biết sâu sắc; Hãy để AI của bạn làm việc\"). Các tập đoàn truyền thống coi nhân tài là những bánh răng được trả lương bị gánh nặng bởi công việc hành chính lặp đi lặp lại hoặc là những người làm việc tự do tạm thời không có vốn chủ sở hữu dài hạn. Ngược lại, challengers mời gọi các chuyên gia toàn cầu, chuyên gia thương mại, nhà tiếp thị và doanh nhân trẻ đầy tham vọng trên 8 quốc gia tham gia không phải với tư cách là nhân viên hay người làm tự do đơn thuần, mà là Gia đình SISTAR Quốc tế (SISTAR Challengers).",
-    "zh-CN": "Challengers (challengers.sistarcompany.com) 开创了自主AI时代人类工作的一种激进新范式：Vibe Working（“人类专注于创意与洞察；让你的AI去工作”）。传统企业将人才视为背负重复性行政琐事的受薪齿轮，或是没有长期股权的一次性零工自由职业者。与此形成鲜明对比的是，Challengers 邀请来自8个国家的雄心勃勃的全球专业人士、贸易专家、营销人员和年轻企业家加入，他们不是作为普通的员工或自由职业者，而是作为国际 SISTAR 家族 (SISTAR Challengers) 的一员。",
-    "ja": "Challengers (challengers.sistarcompany.com) は、自律型AI時代における人間の労働のための急進的で新しいパラダイムを提唱します：Vibe Working（「人間はアイデアと洞察に集中し、AIに仕事をさせよ」）。従来の企業は、才能ある人材を反復的な事務作業に追われる給与所得の歯車として、あるいは長期的な株式を持たない使い捨てのギグワーカーとして扱います。これとは対照的に、Challengersは8カ国の野心的なグローバルプロフェッショナル、貿易スペシャリスト、マーケター、若手起業家を、単なる従業員やフリーランサーとしてではなく、国際SISTARファミリー（SISTAR Challengers）として迎え入れます。"
+  "challengers ( challenger.sistarcompany.com ) inaugurates a radical new paradigm for human work in the age of autonomous AI: Vibe Working ( \"Human to focus on ideas & insights; Let your AI work\" ). Traditional corporations treat talent either as salaried cogs burdened by repetitive administrative drudgery or as disposable gig freelancers with zero long-term equity. In stark contrast, challengers invites ambitious global professionals, trade specialists, marketers, and young entrepreneurs across 8 countries to onboard not as mere employees or freelancers, but as International SISTAR Family ( SISTAR Challengers ) .": {
+    "ko": "챌린저(challenger.sistarcompany.com)는 자율 AI 시대의 인간 노동을 위한 급진적인 새로운 패러다임을 시작합니다: Vibe Working (\"인간은 아이디어와 통찰력에 집중하고, AI가 일하게 하라\"). 전통적인 기업은 인재를 반복적인 행정 업무에 시달리는 급여를 받는 톱니바퀴로 취급하거나, 장기적인 지분이 없는 일회용 긱 프리랜서로 취급합니다. 이와 극명하게 대조적으로, 챌린저는 8개국의 야심 찬 글로벌 전문가, 무역 전문가, 마케터 및 젊은 기업가들을 단순한 직원이나 프리랜서가 아닌 국제 SISTAR 가족(SISTAR Challengers)으로 온보딩하도록 초대합니다.",
+    "id": "Challengers (challenger.sistarcompany.com) meresmikan paradigma baru yang radikal untuk pekerjaan manusia di era AI otonom: Vibe Working (\"Manusia fokus pada ide & wawasan; Biarkan AI Anda bekerja\"). Perusahaan tradisional memperlakukan talenta sebagai roda penggerak bergaji yang dibebani dengan pekerjaan administratif yang berulang atau sebagai pekerja lepas gig yang dapat dibuang tanpa ekuitas jangka panjang. Sangat kontras, challengers mengundang para profesional global, spesialis perdagangan, pemasar, dan pengusaha muda yang ambisius di 8 negara untuk bergabung bukan sebagai karyawan atau pekerja lepas biasa, melainkan sebagai Keluarga SISTAR Internasional (SISTAR Challengers).",
+    "vi": "Challengers (challenger.sistarcompany.com) khởi xướng một mô hình mới triệt để cho công việc của con người trong kỷ nguyên AI tự chủ: Vibe Working (\"Con người tập trung vào ý tưởng & hiểu biết sâu sắc; Hãy để AI của bạn làm việc\"). Các tập đoàn truyền thống coi nhân tài là những bánh răng được trả lương bị gánh nặng bởi công việc hành chính lặp đi lặp lại hoặc là những người làm việc tự do tạm thời không có vốn chủ sở hữu dài hạn. Ngược lại, challengers mời gọi các chuyên gia toàn cầu, chuyên gia thương mại, nhà tiếp thị và doanh nhân trẻ đầy tham vọng trên 8 quốc gia tham gia không phải với tư cách là nhân viên hay người làm tự do đơn thuần, mà là Gia đình SISTAR Quốc tế (SISTAR Challengers).",
+    "zh-CN": "Challengers (challenger.sistarcompany.com) 开创了自主AI时代人类工作的一种激进新范式：Vibe Working（“人类专注于创意与洞察；让你的AI去工作”）。传统企业将人才视为背负重复性行政琐事的受薪齿轮，或是没有长期股权的一次性零工自由职业者。与此形成鲜明对比的是，Challengers 邀请来自8个国家的雄心勃勃的全球专业人士、贸易专家、营销人员和年轻企业家加入，他们不是作为普通的员工或自由职业者，而是作为国际 SISTAR 家族 (SISTAR Challengers) 的一员。",
+    "ja": "Challengers (challenger.sistarcompany.com) は、自律型AI時代における人間の労働のための急進的で新しいパラダイムを提唱します：Vibe Working（「人間はアイデアと洞察に集中し、AIに仕事をさせよ」）。従来の企業は、才能ある人材を反復的な事務作業に追われる給与所得の歯車として、あるいは長期的な株式を持たない使い捨てのギグワーカーとして扱います。これとは対照的に、Challengersは8カ国の野心的なグローバルプロフェッショナル、貿易スペシャリスト、マーケター、若手起業家を、単なる従業員やフリーランサーとしてではなく、国際SISTARファミリー（SISTAR Challengers）として迎え入れます。"
   },
   "Equipped with their own personal AI agent stack from intelligence-core ( Ms. Scarlet , SISTAR AB , SISTAR Studio ), every Challenger voluntarily participates as an autonomous market player—sourcing cross-border deals, launching local micro-verticals, progressing through the structured S1-S6 Franchise-ship career and equity ladder, sharing directly in net transaction profits, and experiencing the genuine fulfillment of building a global galaxy together.": {
     "ko": "intelligence-core(Ms. Scarlet, SISTAR AB, SISTAR Studio)의 개인 AI 에이전트 스택을 갖춘 모든 챌린저는 자율적인 시장 플레이어로서 자발적으로 참여합니다. 국경 간 거래를 소싱하고, 지역 마이크로 수직 브랜드를 출시하며, 구조화된 S1-S6 프랜차이즈 경력 및 지분 사다리를 통해 발전하고, 순 거래 수익을 직접 공유하며, 글로벌 갤럭시를 함께 구축하는 진정한 성취감을 경험합니다.",
@@ -22403,12 +22403,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "多轨道投资工具与机构尽职调查信心",
     "ja": "マルチトラック投資手段および機関投資家のデューデリジェンスへの確信"
   },
-  "ir-pitchdeck ( ir.sistarcompany.com ) is engineered specifically for Venture Capitalists, Private Equity committees, Family Offices, and Strategic Corporate Investors. Institutional investors evaluating complex AI and cross-border holding architectures require absolute transparency across five core due-diligence dimensions: (1) Total Addressable Market (TAM) & Structural Timing , (2) Proprietary Technological & Mathematical Moat ( Qubit Algorithm™ + intelligence-core ), (3) Dual-Return Unit Economics (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Physical Volume), (4) Capital-Efficient Scalability via SISTAR Challengers , and (5) Multi-Path Liquidity & Exit Horizons .": {
-    "ko": "ir-pitchdeck (ir.sistarcompany.com)은 벤처 캐피털리스트, 사모펀드 위원회, 패밀리 오피스 및 전략적 기업 투자자를 위해 특별히 설계되었습니다. 복잡한 AI 및 국경 간 지주 구조를 평가하는 기관 투자자는 5가지 핵심 실사 차원에서 절대적인 투명성을 요구합니다: (1) 총 주소 가능 시장(TAM) 및 구조적 타이밍, (2) 독점적 기술 및 수학적 해자(Qubit Algorithm™ + intelligence-core), (3) 이중 수익 단위 경제성(Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 물리적 볼륨), (4) SISTAR Challengers를 통한 자본 효율적 확장성, (5) 다중 경로 유동성 및 엑시트 전망.",
-    "id": "ir-pitchdeck (ir.sistarcompany.com) dirancang khusus untuk Venture Capitalist, komite Private Equity, Family Office, dan Investor Korporat Strategis. Investor institusional yang mengevaluasi AI kompleks dan struktur holding lintas batas memerlukan transparansi mutlak di lima dimensi uji tuntas inti: (1) Total Addressable Market (TAM) & Waktu Struktural, (2) Parit Teknologi & Matematika Eksklusif (Qubit Algorithm™ + intelligence-core), (3) Ekonomi Unit Pengembalian Ganda (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Volume Fisik), (4) Skalabilitas Efisien Modal melalui SISTAR Challengers, dan (5) Likuiditas Multi-Jalur & Cakrawala Keluar.",
-    "vi": "ir-pitchdeck (ir.sistarcompany.com) được thiết kế đặc biệt cho các Nhà đầu tư mạo hiểm, ủy ban Vốn cổ phần tư nhân, Văn phòng gia đình và Nhà đầu tư doanh nghiệp chiến lược. Các nhà đầu tư tổ chức đánh giá các cấu trúc AI phức tạp và cấu trúc nắm giữ xuyên biên giới đòi hỏi sự minh bạch tuyệt đối trên năm khía cạnh thẩm định cốt lõi: (1) Tổng thị trường có thể tiếp cận (TAM) & Thời điểm cấu trúc, (2) Lợi thế công nghệ & toán học độc quyền (Qubit Algorithm™ + intelligence-core), (3) Kinh tế đơn vị lợi nhuận kép (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Khối lượng vật lý), (4) Khả năng mở rộng hiệu quả vốn thông qua SISTAR Challengers, và (5) Tính thanh khoản đa kênh & Triển vọng thoái vốn.",
-    "zh-CN": "ir-pitchdeck (ir.sistarcompany.com) 专为风险投资家、私募股权委员会、家族办公室和战略企业投资者设计。评估复杂 AI 和跨境控股架构的机构投资者要求在五个核心尽职调查维度上实现绝对透明：(1) 总潜在市场 (TAM) 与结构性时机，(2) 专有技术与数学护城河 (Qubit Algorithm™ + intelligence-core)，(3) 双重回报单位经济效益（Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 物理交易量），(4) 通过 SISTAR Challengers 实现资本高效的可扩展性，以及 (5) 多路径流动性与退出前景。",
-    "ja": "ir-pitchdeck (ir.sistarcompany.com) は、ベンチャーキャピタリスト、プライベートエクイティ委員会、ファミリーオフィス、および戦略的企業投資家のために特別に設計されています。複雑なAIおよび国境を越えた持株構造を評価する機関投資家は、5つのコアデューデリジェンス次元において絶対的な透明性を必要とします：(1) 総アドレス可能市場 (TAM) および構造的タイミング、(2) 独自の技術的および数学的参入障壁 (Qubit Algorithm™ + intelligence-core)、(3) 二重収益ユニットエコノミクス (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 物理的ボリューム)、(4) SISTAR Challengersを通じた資本効率の高いスケーラビリティ、および (5) マルチパス流動性および出口戦略。"
+  "ir-pitchdeck ( ir-pitchdeck.sistarcompany.com ) is engineered specifically for Venture Capitalists, Private Equity committees, Family Offices, and Strategic Corporate Investors. Institutional investors evaluating complex AI and cross-border holding architectures require absolute transparency across five core due-diligence dimensions: (1) Total Addressable Market (TAM) & Structural Timing , (2) Proprietary Technological & Mathematical Moat ( Qubit Algorithm™ + intelligence-core ), (3) Dual-Return Unit Economics (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Physical Volume), (4) Capital-Efficient Scalability via SISTAR Challengers , and (5) Multi-Path Liquidity & Exit Horizons .": {
+    "ko": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com)은 벤처 캐피털리스트, 사모펀드 위원회, 패밀리 오피스 및 전략적 기업 투자자를 위해 특별히 설계되었습니다. 복잡한 AI 및 국경 간 지주 구조를 평가하는 기관 투자자는 5가지 핵심 실사 차원에서 절대적인 투명성을 요구합니다: (1) 총 주소 가능 시장(TAM) 및 구조적 타이밍, (2) 독점적 기술 및 수학적 해자(Qubit Algorithm™ + intelligence-core), (3) 이중 수익 단위 경제성(Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 물리적 볼륨), (4) SISTAR Challengers를 통한 자본 효율적 확장성, (5) 다중 경로 유동성 및 엑시트 전망.",
+    "id": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) dirancang khusus untuk Venture Capitalist, komite Private Equity, Family Office, dan Investor Korporat Strategis. Investor institusional yang mengevaluasi AI kompleks dan struktur holding lintas batas memerlukan transparansi mutlak di lima dimensi uji tuntas inti: (1) Total Addressable Market (TAM) & Waktu Struktural, (2) Parit Teknologi & Matematika Eksklusif (Qubit Algorithm™ + intelligence-core), (3) Ekonomi Unit Pengembalian Ganda (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Volume Fisik), (4) Skalabilitas Efisien Modal melalui SISTAR Challengers, dan (5) Likuiditas Multi-Jalur & Cakrawala Keluar.",
+    "vi": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) được thiết kế đặc biệt cho các Nhà đầu tư mạo hiểm, ủy ban Vốn cổ phần tư nhân, Văn phòng gia đình và Nhà đầu tư doanh nghiệp chiến lược. Các nhà đầu tư tổ chức đánh giá các cấu trúc AI phức tạp và cấu trúc nắm giữ xuyên biên giới đòi hỏi sự minh bạch tuyệt đối trên năm khía cạnh thẩm định cốt lõi: (1) Tổng thị trường có thể tiếp cận (TAM) & Thời điểm cấu trúc, (2) Lợi thế công nghệ & toán học độc quyền (Qubit Algorithm™ + intelligence-core), (3) Kinh tế đơn vị lợi nhuận kép (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Khối lượng vật lý), (4) Khả năng mở rộng hiệu quả vốn thông qua SISTAR Challengers, và (5) Tính thanh khoản đa kênh & Triển vọng thoái vốn.",
+    "zh-CN": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) 专为风险投资家、私募股权委员会、家族办公室和战略企业投资者设计。评估复杂 AI 和跨境控股架构的机构投资者要求在五个核心尽职调查维度上实现绝对透明：(1) 总潜在市场 (TAM) 与结构性时机，(2) 专有技术与数学护城河 (Qubit Algorithm™ + intelligence-core)，(3) 双重回报单位经济效益（Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 物理交易量），(4) 通过 SISTAR Challengers 实现资本高效的可扩展性，以及 (5) 多路径流动性与退出前景。",
+    "ja": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) は、ベンチャーキャピタリスト、プライベートエクイティ委員会、ファミリーオフィス、および戦略的企業投資家のために特別に設計されています。複雑なAIおよび国境を越えた持株構造を評価する機関投資家は、5つのコアデューデリジェンス次元において絶対的な透明性を必要とします：(1) 総アドレス可能市場 (TAM) および構造的タイミング、(2) 独自の技術的および数学的参入障壁 (Qubit Algorithm™ + intelligence-core)、(3) 二重収益ユニットエコノミクス (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 物理的ボリューム)、(4) SISTAR Challengersを通じた資本効率の高いスケーラビリティ、および (5) マルチパス流動性および出口戦略。"
   },
   "Furthermore, ir-pitchdeck presents flexible, institutional-grade investment structures—allowing capital partners to allocate into *SC Supreme Holding Equity , ring-fenced Project-Specific SPVs (across any of the 15 Founder Projects), or Country-Specific Regional Joint Ventures (JVs) with verifiable real-time ledger visibility via Qubit ERP .": {
     "ko": "또한, ir-pitchdeck은 유연하고 기관급의 투자 구조를 제시하여 자본 파트너가 *SC Supreme Holding Equity, 프로젝트별로 격리된 SPV(15개 창업자 프로젝트 전반), 또는 Qubit ERP를 통한 검증 가능한 실시간 원장 가시성을 갖춘 국가별 지역 합작 투자(JV)에 자금을 배분할 수 있도록 합니다.",
@@ -22466,12 +22466,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "按类别划分的 B2B 提案与开放企业名录",
     "ja": "カテゴリー別B2B提案およびオープン企業リスト"
   },
-  "biz-directory ( directory.sistarcompany.com ) is the open, machine-readable B2B directory and structured proposal clearinghouse of the Signal Star Universe. Organized meticulously category by category across veterinary bio-health, functional nutrition, pharmaceutical raw materials, smart packaging, logistics, and AI software services, biz-directory allows any verified global enterprise to publish its corporate profile, production capabilities, and commercial proposals directly into the *SC ecosystem.": {
-    "ko": "biz-directory (directory.sistarcompany.com)는 Signal Star Universe의 개방형 기계 판독 가능 B2B 디렉토리이자 구조화된 제안 청산소입니다. 수의학 바이오 헬스, 기능성 영양, 제약 원료, 스마트 패키징, 물류 및 AI 소프트웨어 서비스 전반에 걸쳐 카테고리별로 세심하게 구성된 biz-directory를 통해, 검증된 모든 글로벌 기업은 자신의 기업 프로필, 생산 능력 및 상업적 제안을 *SC 생태계에 직접 게시할 수 있습니다.",
-    "id": "biz-directory (directory.sistarcompany.com) adalah direktori B2B terbuka yang dapat dibaca mesin dan pusat kliring proposal terstruktur dari Signal Star Universe. Disusun dengan cermat berdasarkan kategori di seluruh kesehatan bio veteriner, nutrisi fungsional, bahan baku farmasi, kemasan pintar, logistik, dan layanan perangkat lunak AI, biz-directory memungkinkan setiap perusahaan global yang terverifikasi untuk mempublikasikan profil perusahaan, kemampuan produksi, dan proposal komersial mereka langsung ke dalam ekosistem *SC.",
-    "vi": "biz-directory (directory.sistarcompany.com) là danh mục B2B mở, có thể đọc bằng máy và là trung tâm thanh toán đề xuất có cấu trúc của Signal Star Universe. Được tổ chức tỉ mỉ theo từng danh mục trong các lĩnh vực sức khỏe sinh học thú y, dinh dưỡng chức năng, nguyên liệu dược phẩm, bao bì thông minh, logistics và dịch vụ phần mềm AI, biz-directory cho phép bất kỳ doanh nghiệp toàn cầu nào đã được xác minh đều có thể xuất bản hồ sơ công ty, năng lực sản xuất và các đề xuất thương mại trực tiếp vào hệ sinh thái *SC.",
-    "zh-CN": "biz-directory (directory.sistarcompany.com) 是 Signal Star Universe 的开放式、机器可读 B2B 目录和结构化提案结算中心。biz-directory 在兽医生物健康、功能性营养、医药原料、智能包装、物流和 AI 软件服务等领域按类别精心组织，允许任何经过验证的全球企业将其公司简介、生产能力和商业提案直接发布到 *SC 生态系统中。",
-    "ja": "biz-directory (directory.sistarcompany.com) は、Signal Star Universeのオープンで機械可読なB2Bディレクトリであり、構造化された提案のクリアリングハウスです。獣医バイオヘルス、機能性栄養、医薬品原料、スマートパッケージング、物流、AIソフトウェアサービス全体にわたってカテゴリーごとに細心の注意を払って構成されたbiz-directoryにより、検証済みのあらゆるグローバル企業は、自社の企業プロフィール、生産能力、および商業的提案を*SCエコシステムに直接公開することができます。"
+  "biz-directory ( biz-directory.sistarcompany.com ) is the open, machine-readable B2B directory and structured proposal clearinghouse of the Signal Star Universe. Organized meticulously category by category across veterinary bio-health, functional nutrition, pharmaceutical raw materials, smart packaging, logistics, and AI software services, biz-directory allows any verified global enterprise to publish its corporate profile, production capabilities, and commercial proposals directly into the *SC ecosystem.": {
+    "ko": "biz-directory (biz-directory.sistarcompany.com)는 Signal Star Universe의 개방형 기계 판독 가능 B2B 디렉토리이자 구조화된 제안 청산소입니다. 수의학 바이오 헬스, 기능성 영양, 제약 원료, 스마트 패키징, 물류 및 AI 소프트웨어 서비스 전반에 걸쳐 카테고리별로 세심하게 구성된 biz-directory를 통해, 검증된 모든 글로벌 기업은 자신의 기업 프로필, 생산 능력 및 상업적 제안을 *SC 생태계에 직접 게시할 수 있습니다.",
+    "id": "biz-directory (biz-directory.sistarcompany.com) adalah direktori B2B terbuka yang dapat dibaca mesin dan pusat kliring proposal terstruktur dari Signal Star Universe. Disusun dengan cermat berdasarkan kategori di seluruh kesehatan bio veteriner, nutrisi fungsional, bahan baku farmasi, kemasan pintar, logistik, dan layanan perangkat lunak AI, biz-directory memungkinkan setiap perusahaan global yang terverifikasi untuk mempublikasikan profil perusahaan, kemampuan produksi, dan proposal komersial mereka langsung ke dalam ekosistem *SC.",
+    "vi": "biz-directory (biz-directory.sistarcompany.com) là danh mục B2B mở, có thể đọc bằng máy và là trung tâm thanh toán đề xuất có cấu trúc của Signal Star Universe. Được tổ chức tỉ mỉ theo từng danh mục trong các lĩnh vực sức khỏe sinh học thú y, dinh dưỡng chức năng, nguyên liệu dược phẩm, bao bì thông minh, logistics và dịch vụ phần mềm AI, biz-directory cho phép bất kỳ doanh nghiệp toàn cầu nào đã được xác minh đều có thể xuất bản hồ sơ công ty, năng lực sản xuất và các đề xuất thương mại trực tiếp vào hệ sinh thái *SC.",
+    "zh-CN": "biz-directory (biz-directory.sistarcompany.com) 是 Signal Star Universe 的开放式、机器可读 B2B 目录和结构化提案结算中心。biz-directory 在兽医生物健康、功能性营养、医药原料、智能包装、物流和 AI 软件服务等领域按类别精心组织，允许任何经过验证的全球企业将其公司简介、生产能力和商业提案直接发布到 *SC 生态系统中。",
+    "ja": "biz-directory (biz-directory.sistarcompany.com) は、Signal Star Universeのオープンで機械可読なB2Bディレクトリであり、構造化された提案のクリアリングハウスです。獣医バイオヘルス、機能性栄養、医薬品原料、スマートパッケージング、物流、AIソフトウェアサービス全体にわたってカテゴリーごとに細心の注意を払って構成されたbiz-directoryにより、検証済みのあらゆるグローバル企業は、自社の企業プロフィール、生産能力、および商業的提案を*SCエコシステムに直接公開することができます。"
   },
   "Every listing and proposal inside biz-directory is automatically indexed by intelligence-core 's Company RAG and routed into scarlet-ai (for immediate Buy4Me reverse-auction matching and volume-wise procurement) and qubit-biz (for Cosmo Seed™ cross-project bundling). This architecture transforms a static yellow-pages directory into an active, self-matching B2B liquidity pool.": {
     "ko": "biz-directory 내의 모든 목록과 제안은 intelligence-core의 Company RAG에 의해 자동으로 인덱싱되며, scarlet-ai(즉각적인 Buy4Me 역경매 매칭 및 볼륨별 조달을 위해)와 qubit-biz(Cosmo Seed™ 교차 프로젝트 번들링을 위해)로 라우팅됩니다. 이 아키텍처는 정적인 옐로우 페이지 디렉토리를 활성 상태의 자체 매칭 B2B 유동성 풀로 변환합니다.",
@@ -22578,12 +22578,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "“One Spark”如何成长为 Cosmo Seed™ 商业模式与跨项目纠缠",
     "ja": "「One Spark」がCosmo Seed™ビジネスモデルとクロスプロジェクト・エンタングルメントへと成長する場所"
   },
-  "qubit-biz ( qubit.sistarcompany.com ) is the architectural launchpad where a single human insight ( One Spark ) germinates into a standardized, mathematically validated business project and entangles across adjacent projects to achieve One Task, Multi Outcomes . Rather than hoarding business innovation behind closed doors, qubit-biz serves as an open showcase and adoption platform for Cosmo Seed™ Business Models —allowing global market players, manufacturers, and entrepreneurs to freely adopt our modular quantum business blueprints into their own enterprises and generate immediate cross-project synergy.": {
-    "ko": "qubit-biz (qubit.sistarcompany.com)은 단일 인간의 통찰력(One Spark)이 표준화되고 수학적으로 검증된 비즈니스 프로젝트로 발아하여 인접 프로젝트와 얽혀 'One Task, Multi Outcomes'를 달성하는 아키텍처 런치패드입니다. 비즈니스 혁신을 폐쇄적인 환경에 가두는 대신, qubit-biz는 Cosmo Seed™ 비즈니스 모델을 위한 오픈 쇼케이스 및 채택 플랫폼 역할을 합니다. 이를 통해 글로벌 시장 플레이어, 제조업체 및 기업가는 당사의 모듈형 양자 비즈니스 청사진을 자신의 기업에 자유롭게 도입하고 즉각적인 교차 프로젝트 시너지를 창출할 수 있습니다.",
-    "id": "qubit-biz (qubit.sistarcompany.com) adalah landasan peluncuran arsitektural di mana wawasan manusia tunggal (One Spark) berkecambah menjadi proyek bisnis yang terstandarisasi dan tervalidasi secara matematis, serta terjalin di seluruh proyek yang berdekatan untuk mencapai One Task, Multi Outcomes. Alih-alih menimbun inovasi bisnis di balik pintu tertutup, qubit-biz berfungsi sebagai etalase terbuka dan platform adopsi untuk Model Bisnis Cosmo Seed™ — memungkinkan pemain pasar global, produsen, dan wirausahawan untuk secara bebas mengadopsi cetak biru bisnis kuantum modular kami ke dalam perusahaan mereka sendiri dan menghasilkan sinergi lintas proyek secara instan.",
-    "vi": "qubit-biz (qubit.sistarcompany.com) là bệ phóng kiến trúc nơi một hiểu biết sâu sắc của con người (One Spark) nảy mầm thành một dự án kinh doanh được tiêu chuẩn hóa, xác thực về mặt toán học và đan xen giữa các dự án liền kề để đạt được One Task, Multi Outcomes. Thay vì tích trữ đổi mới kinh doanh sau những cánh cửa đóng kín, qubit-biz đóng vai trò là nền tảng trưng bày và áp dụng mở cho các Mô hình Kinh doanh Cosmo Seed™ — cho phép các nhà chơi thị trường toàn cầu, nhà sản xuất và doanh nhân tự do áp dụng các bản thiết kế kinh doanh lượng tử mô-đun của chúng tôi vào doanh nghiệp của riêng họ và tạo ra sự cộng hưởng liên dự án tức thì.",
-    "zh-CN": "qubit-biz (qubit.sistarcompany.com) 是一个架构启动平台，单一的人类洞察（One Spark）在此萌芽为标准化的、经数学验证的商业项目，并与相邻项目纠缠，从而实现 One Task, Multi Outcomes。qubit-biz 不会将商业创新束之高阁，而是作为 Cosmo Seed™ 商业模式的开放展示与采用平台，使全球市场参与者、制造商和企业家能够自由地将我们的模块化量子商业蓝图引入其自身企业，并即时产生跨项目协同效应。",
-    "ja": "qubit-biz (qubit.sistarcompany.com) は、単一の人間の洞察（One Spark）が標準化され数学的に検証されたビジネスプロジェクトへと発芽し、隣接するプロジェクトと絡み合って「One Task, Multi Outcomes」を達成するためのアーキテクチャ・ランチパッドです。ビジネスイノベーションを閉ざされた環境に留めるのではなく、qubit-bizはCosmo Seed™ビジネスモデルのためのオープンなショーケースおよび採用プラットフォームとして機能します。これにより、グローバル市場のプレイヤー、メーカー、起業家は、当社のモジュール式量子ビジネスの青写真を自社に自由に導入し、即座にクロスプロジェクトのシナジーを生み出すことができます。"
+  "qubit-biz ( qubit-biz.sistarcompany.com ) is the architectural launchpad where a single human insight ( One Spark ) germinates into a standardized, mathematically validated business project and entangles across adjacent projects to achieve One Task, Multi Outcomes . Rather than hoarding business innovation behind closed doors, qubit-biz serves as an open showcase and adoption platform for Cosmo Seed™ Business Models —allowing global market players, manufacturers, and entrepreneurs to freely adopt our modular quantum business blueprints into their own enterprises and generate immediate cross-project synergy.": {
+    "ko": "qubit-biz (qubit-biz.sistarcompany.com)은 단일 인간의 통찰력(One Spark)이 표준화되고 수학적으로 검증된 비즈니스 프로젝트로 발아하여 인접 프로젝트와 얽혀 'One Task, Multi Outcomes'를 달성하는 아키텍처 런치패드입니다. 비즈니스 혁신을 폐쇄적인 환경에 가두는 대신, qubit-biz는 Cosmo Seed™ 비즈니스 모델을 위한 오픈 쇼케이스 및 채택 플랫폼 역할을 합니다. 이를 통해 글로벌 시장 플레이어, 제조업체 및 기업가는 당사의 모듈형 양자 비즈니스 청사진을 자신의 기업에 자유롭게 도입하고 즉각적인 교차 프로젝트 시너지를 창출할 수 있습니다.",
+    "id": "qubit-biz (qubit-biz.sistarcompany.com) adalah landasan peluncuran arsitektural di mana wawasan manusia tunggal (One Spark) berkecambah menjadi proyek bisnis yang terstandarisasi dan tervalidasi secara matematis, serta terjalin di seluruh proyek yang berdekatan untuk mencapai One Task, Multi Outcomes. Alih-alih menimbun inovasi bisnis di balik pintu tertutup, qubit-biz berfungsi sebagai etalase terbuka dan platform adopsi untuk Model Bisnis Cosmo Seed™ — memungkinkan pemain pasar global, produsen, dan wirausahawan untuk secara bebas mengadopsi cetak biru bisnis kuantum modular kami ke dalam perusahaan mereka sendiri dan menghasilkan sinergi lintas proyek secara instan.",
+    "vi": "qubit-biz (qubit-biz.sistarcompany.com) là bệ phóng kiến trúc nơi một hiểu biết sâu sắc của con người (One Spark) nảy mầm thành một dự án kinh doanh được tiêu chuẩn hóa, xác thực về mặt toán học và đan xen giữa các dự án liền kề để đạt được One Task, Multi Outcomes. Thay vì tích trữ đổi mới kinh doanh sau những cánh cửa đóng kín, qubit-biz đóng vai trò là nền tảng trưng bày và áp dụng mở cho các Mô hình Kinh doanh Cosmo Seed™ — cho phép các nhà chơi thị trường toàn cầu, nhà sản xuất và doanh nhân tự do áp dụng các bản thiết kế kinh doanh lượng tử mô-đun của chúng tôi vào doanh nghiệp của riêng họ và tạo ra sự cộng hưởng liên dự án tức thì.",
+    "zh-CN": "qubit-biz (qubit-biz.sistarcompany.com) 是一个架构启动平台，单一的人类洞察（One Spark）在此萌芽为标准化的、经数学验证的商业项目，并与相邻项目纠缠，从而实现 One Task, Multi Outcomes。qubit-biz 不会将商业创新束之高阁，而是作为 Cosmo Seed™ 商业模式的开放展示与采用平台，使全球市场参与者、制造商和企业家能够自由地将我们的模块化量子商业蓝图引入其自身企业，并即时产生跨项目协同效应。",
+    "ja": "qubit-biz (qubit-biz.sistarcompany.com) は、単一の人間の洞察（One Spark）が標準化され数学的に検証されたビジネスプロジェクトへと発芽し、隣接するプロジェクトと絡み合って「One Task, Multi Outcomes」を達成するためのアーキテクチャ・ランチパッドです。ビジネスイノベーションを閉ざされた環境に留めるのではなく、qubit-bizはCosmo Seed™ビジネスモデルのためのオープンなショーケースおよび採用プラットフォームとして機能します。これにより、グローバル市場のプレイヤー、メーカー、起業家は、当社のモジュール式量子ビジネスの青写真を自社に自由に導入し、即座にクロスプロジェクトのシナジーを生み出すことができます。"
   },
   "Standardized Quantum Business Blueprints": {
     "ko": "표준화된 양자 비즈니스 청사진",
@@ -22655,12 +22655,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "礼赞兽医生物健康、教育科技、健康与机器人领域的每一颗闪耀之星",
     "ja": "獣医バイオヘルス、エデュテック、ウェルネス、ロボティクス全体で輝くすべての星を称えて"
   },
-  "biz-galaxy ( biz.sistarcompany.com ) is the living commercial constellation where Cosmo Seed™ business models and independent market players fulfill their respective roles under the Qubit Algorithm™ . Rather than forcing every brand into a monolithic corporate mold, biz-galaxy showcases real-world businesses and specialized industry players by vertical—offering tangible business inspiration and turnkey actualization pathways while celebrating each participant as a shining star in its own right.": {
-    "ko": "biz-galaxy (biz.sistarcompany.com)은 Cosmo Seed™ 비즈니스 모델과 독립적인 시장 플레이어가 Qubit Algorithm™ 하에서 각자의 역할을 수행하는 살아있는 상업 성단입니다. 모든 브랜드를 획일적인 기업 틀에 강제로 맞추는 대신, biz-galaxy는 실제 비즈니스와 전문 산업 플레이어를 수직별로 선보이며, 유형의 비즈니스 영감과 턴키 방식의 실현 경로를 제공하는 동시에 각 참가자를 그 자체로 빛나는 별로 기념합니다.",
-    "id": "biz-galaxy (biz.sistarcompany.com) adalah konstelasi komersial hidup di mana model bisnis Cosmo Seed™ dan pemain pasar independen memenuhi peran masing-masing di bawah Qubit Algorithm™. Alih-alih memaksa setiap merek ke dalam cetakan perusahaan monolitik, biz-galaxy memamerkan bisnis dunia nyata dan pemain industri khusus berdasarkan vertikal—menawarkan inspirasi bisnis yang nyata dan jalur aktualisasi siap pakai sambil merayakan setiap peserta sebagai bintang yang bersinar dengan caranya sendiri.",
-    "vi": "biz-galaxy (biz.sistarcompany.com) là chòm sao thương mại sống động nơi các mô hình kinh doanh Cosmo Seed™ và các nhà chơi thị trường độc lập thực hiện vai trò tương ứng của họ dưới Qubit Algorithm™. Thay vì ép buộc mọi thương hiệu vào một khuôn mẫu doanh nghiệp nguyên khối, biz-galaxy giới thiệu các doanh nghiệp thực tế và các nhà chơi ngành chuyên biệt theo chiều dọc—cung cấp cảm hứng kinh doanh hữu hình và các lộ trình hiện thực hóa chìa khóa trao tay đồng thời tôn vinh mỗi người tham gia như một ngôi sao tỏa sáng theo cách riêng của mình.",
-    "zh-CN": "biz-galaxy (biz.sistarcompany.com) 是一个充满活力的商业星系，Cosmo Seed™ 商业模式和独立市场参与者在 Qubit Algorithm™ 下履行各自的角色。biz-galaxy 不会将每个品牌强行纳入单一的企业模具，而是按垂直领域展示现实世界的企业和专业行业参与者，提供切实的商业灵感和交钥匙式的实现路径，同时礼赞每一位参与者作为其自身闪耀之星的价值。",
-    "ja": "biz-galaxy (biz.sistarcompany.com) は、Cosmo Seed™ビジネスモデルと独立した市場プレイヤーがQubit Algorithm™の下でそれぞれの役割を果たす、生き生きとした商業星座です。すべてのブランドを画一的な企業型に強制的に当てはめるのではなく、biz-galaxyは現実世界のビジネスと専門的な業界プレイヤーを垂直別に紹介し、具体的なビジネスのインスピレーションとターンキー方式の実現経路を提供すると同時に、各参加者をそれ自体が輝く星として称えます。"
+  "biz-galaxy ( biz-galaxy.sistarcompany.com ) is the living commercial constellation where Cosmo Seed™ business models and independent market players fulfill their respective roles under the Qubit Algorithm™ . Rather than forcing every brand into a monolithic corporate mold, biz-galaxy showcases real-world businesses and specialized industry players by vertical—offering tangible business inspiration and turnkey actualization pathways while celebrating each participant as a shining star in its own right.": {
+    "ko": "biz-galaxy (biz-galaxy.sistarcompany.com)은 Cosmo Seed™ 비즈니스 모델과 독립적인 시장 플레이어가 Qubit Algorithm™ 하에서 각자의 역할을 수행하는 살아있는 상업 성단입니다. 모든 브랜드를 획일적인 기업 틀에 강제로 맞추는 대신, biz-galaxy는 실제 비즈니스와 전문 산업 플레이어를 수직별로 선보이며, 유형의 비즈니스 영감과 턴키 방식의 실현 경로를 제공하는 동시에 각 참가자를 그 자체로 빛나는 별로 기념합니다.",
+    "id": "biz-galaxy (biz-galaxy.sistarcompany.com) adalah konstelasi komersial hidup di mana model bisnis Cosmo Seed™ dan pemain pasar independen memenuhi peran masing-masing di bawah Qubit Algorithm™. Alih-alih memaksa setiap merek ke dalam cetakan perusahaan monolitik, biz-galaxy memamerkan bisnis dunia nyata dan pemain industri khusus berdasarkan vertikal—menawarkan inspirasi bisnis yang nyata dan jalur aktualisasi siap pakai sambil merayakan setiap peserta sebagai bintang yang bersinar dengan caranya sendiri.",
+    "vi": "biz-galaxy (biz-galaxy.sistarcompany.com) là chòm sao thương mại sống động nơi các mô hình kinh doanh Cosmo Seed™ và các nhà chơi thị trường độc lập thực hiện vai trò tương ứng của họ dưới Qubit Algorithm™. Thay vì ép buộc mọi thương hiệu vào một khuôn mẫu doanh nghiệp nguyên khối, biz-galaxy giới thiệu các doanh nghiệp thực tế và các nhà chơi ngành chuyên biệt theo chiều dọc—cung cấp cảm hứng kinh doanh hữu hình và các lộ trình hiện thực hóa chìa khóa trao tay đồng thời tôn vinh mỗi người tham gia như một ngôi sao tỏa sáng theo cách riêng của mình.",
+    "zh-CN": "biz-galaxy (biz-galaxy.sistarcompany.com) 是一个充满活力的商业星系，Cosmo Seed™ 商业模式和独立市场参与者在 Qubit Algorithm™ 下履行各自的角色。biz-galaxy 不会将每个品牌强行纳入单一的企业模具，而是按垂直领域展示现实世界的企业和专业行业参与者，提供切实的商业灵感和交钥匙式的实现路径，同时礼赞每一位参与者作为其自身闪耀之星的价值。",
+    "ja": "biz-galaxy (biz-galaxy.sistarcompany.com) は、Cosmo Seed™ビジネスモデルと独立した市場プレイヤーがQubit Algorithm™の下でそれぞれの役割を果たす、生き生きとした商業星座です。すべてのブランドを画一的な企業型に強制的に当てはめるのではなく、biz-galaxyは現実世界のビジネスと専門的な業界プレイヤーを垂直別に紹介し、具体的なビジネスのインスピレーションとターンキー方式の実現経路を提供すると同時に、各参加者をそれ自体が輝く星として称えます。"
   },
   "Key commercial constellations actively orbiting within biz-galaxy include: Veterinary & Animal Bio-Health ( SISTAR MedIX AI clinical diagnostics, SISPet premium companion nutrition, SISPharm veterinary pharmaceuticals, and Aquasis smart aquaculture); Human Health, Beauty & Wellness ( SisAyurvedic standardized phytomedicine and SISMii K-beauty/personal care); and Cognitive EdTech, DX & Robotics ( Mind Company psychological/aptitude AI, FlexKids AI & SISTAR Edu adaptive learning, SISTAR DX , SisLoa , and SR Robotics ).": {
     "ko": "biz-galaxy 내에서 활발하게 궤도를 도는 주요 상업 성단은 다음과 같습니다: 수의학 및 동물 바이오 헬스(SISTAR MedIX AI 임상 진단, SISPet 프리미엄 반려동물 영양, SISPharm 수의학 제약, Aquasis 스마트 양식); 인간 건강, 미용 및 웰니스(SisAyurvedic 표준화 식물 의학 및 SISMii K-뷰티/퍼스널 케어); 그리고 인지 에듀테크, DX 및 로봇 공학(Mind Company 심리/적성 AI, FlexKids AI 및 SISTAR Edu 적응형 학습, SISTAR DX, SisLoa 및 SR Robotics).",
@@ -22690,12 +22690,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "“Together Gets Stronger” — 通过集体基础设施解决共同的行业瓶颈",
     "ja": "「Together Gets Stronger」 — 集団的インフラを通じて共有された業界のボトルネックを解決"
   },
-  "While biz-galaxy illuminates individual vertical brands and players, biz-hub ( bizhub.sistarcompany.com ) operates on the foundational principle that \"Together gets stronger.\" It is the gravitational co-creation center where independent clinics, regional factories, logistics operators, and franchise entrepreneurs gather around shared values and common economic goals to solve structural problems that no single small-or-medium player could conquer alone.": {
-    "ko": "biz-galaxy가 개별 수직 브랜드와 플레이어를 조명하는 동안, biz-hub (bizhub.sistarcompany.com)은 \"함께하면 더 강해진다\"는 기본 원칙에 따라 운영됩니다. 이곳은 독립 클리닉, 지역 공장, 물류 운영자 및 프랜차이즈 기업가가 공유 가치와 공통 경제 목표를 중심으로 모여, 단일 중소기업이 단독으로 해결할 수 없는 구조적 문제를 해결하는 중력적 공동 창조 센터입니다.",
-    "id": "Sementara biz-galaxy menerangi merek dan pemain vertikal individu, biz-hub (bizhub.sistarcompany.com) beroperasi berdasarkan prinsip dasar bahwa \"Together gets stronger.\" Ini adalah pusat ko-kreasi gravitasi di mana klinik independen, pabrik regional, operator logistik, dan wirausahawan waralaba berkumpul di sekitar nilai-nilai bersama dan tujuan ekonomi umum untuk memecahkan masalah struktural yang tidak dapat ditaklukkan oleh satu pemain kecil-atau-menengah sendirian.",
-    "vi": "Trong khi biz-galaxy làm nổi bật các thương hiệu và nhà chơi dọc riêng lẻ, biz-hub (bizhub.sistarcompany.com) hoạt động dựa trên nguyên tắc cơ bản rằng \"Together gets stronger.\" Đây là trung tâm đồng sáng tạo trọng lực nơi các phòng khám độc lập, nhà máy khu vực, nhà vận hành logistics và doanh nhân nhượng quyền tập hợp xung quanh các giá trị chung và mục tiêu kinh tế chung để giải quyết các vấn đề cấu trúc mà không một nhà chơi vừa và nhỏ nào có thể tự mình chinh phục.",
-    "zh-CN": "当 biz-galaxy 照亮各个垂直品牌和参与者时，biz-hub (bizhub.sistarcompany.com) 则基于“Together gets stronger”这一基本原则运行。这是一个引力共创中心，独立的诊所、区域工厂、物流运营商和特许经营企业家围绕共同的价值观和经济目标聚集在一起，解决任何单一中小企业无法独自克服的结构性问题。",
-    "ja": "biz-galaxyが個々の垂直ブランドやプレイヤーを照らす一方で、biz-hub (bizhub.sistarcompany.com)は「Together gets stronger」という基本原則に基づいて運営されています。ここは、独立系クリニック、地域工場、物流事業者、フランチャイズ起業家が共有価値と共通の経済目標を軸に集まり、単独の中小企業では克服できない構造的な問題を解決するための重力的な共創センターです。"
+  "While biz-galaxy illuminates individual vertical brands and players, biz-hub ( biz-hub.sistarcompany.com ) operates on the foundational principle that \"Together gets stronger.\" It is the gravitational co-creation center where independent clinics, regional factories, logistics operators, and franchise entrepreneurs gather around shared values and common economic goals to solve structural problems that no single small-or-medium player could conquer alone.": {
+    "ko": "biz-galaxy가 개별 수직 브랜드와 플레이어를 조명하는 동안, biz-hub (biz-hub.sistarcompany.com)은 \"함께하면 더 강해진다\"는 기본 원칙에 따라 운영됩니다. 이곳은 독립 클리닉, 지역 공장, 물류 운영자 및 프랜차이즈 기업가가 공유 가치와 공통 경제 목표를 중심으로 모여, 단일 중소기업이 단독으로 해결할 수 없는 구조적 문제를 해결하는 중력적 공동 창조 센터입니다.",
+    "id": "Sementara biz-galaxy menerangi merek dan pemain vertikal individu, biz-hub (biz-hub.sistarcompany.com) beroperasi berdasarkan prinsip dasar bahwa \"Together gets stronger.\" Ini adalah pusat ko-kreasi gravitasi di mana klinik independen, pabrik regional, operator logistik, dan wirausahawan waralaba berkumpul di sekitar nilai-nilai bersama dan tujuan ekonomi umum untuk memecahkan masalah struktural yang tidak dapat ditaklukkan oleh satu pemain kecil-atau-menengah sendirian.",
+    "vi": "Trong khi biz-galaxy làm nổi bật các thương hiệu và nhà chơi dọc riêng lẻ, biz-hub (biz-hub.sistarcompany.com) hoạt động dựa trên nguyên tắc cơ bản rằng \"Together gets stronger.\" Đây là trung tâm đồng sáng tạo trọng lực nơi các phòng khám độc lập, nhà máy khu vực, nhà vận hành logistics và doanh nhân nhượng quyền tập hợp xung quanh các giá trị chung và mục tiêu kinh tế chung để giải quyết các vấn đề cấu trúc mà không một nhà chơi vừa và nhỏ nào có thể tự mình chinh phục.",
+    "zh-CN": "当 biz-galaxy 照亮各个垂直品牌和参与者时，biz-hub (biz-hub.sistarcompany.com) 则基于“Together gets stronger”这一基本原则运行。这是一个引力共创中心，独立的诊所、区域工厂、物流运营商和特许经营企业家围绕共同的价值观和经济目标聚集在一起，解决任何单一中小企业无法独自克服的结构性问题。",
+    "ja": "biz-galaxyが個々の垂直ブランドやプレイヤーを照らす一方で、biz-hub (biz-hub.sistarcompany.com)は「Together gets stronger」という基本原則に基づいて運営されています。ここは、独立系クリニック、地域工場、物流事業者、フランチャイズ起業家が共有価値と共通の経済目標を軸に集まり、単独の中小企業では克服できない構造的な問題を解決するための重力的な共創センターです。"
   },
   "Flagship co-creation engines inside biz-hub include: (1) Auto-Formulator for Vet & Joint ODM Manufacturing (enabling independent veterinary clinics to co-develop custom clinical prescriptions and small-batch functional supplements using shared R&D labs and GMP lines); (2) the Rp 1,320 Micro-Sachet Repacking Protocol (unlocking mass emerging-market affordability in Indonesia and Vietnam by converting expensive bulk bottles into daily single-dose sachets at ~62% gross margin); (3) Space Sharing & Deliver Together (pooling cold-chain warehouse hubs and last-mile delivery routes across partner brands to slash logistics overhead by up to 40%); and (4) PetFood Bank Re:D & Mint Franchises (aligning ESG community impact with standardized micro-franchise retail nodes).": {
     "ko": "biz-hub 내의 주요 공동 창조 엔진은 다음과 같습니다: (1) 수의학 및 조인트 ODM 제조를 위한 자동 제형기(독립 동물병원이 공유 R&D 연구소와 GMP 라인을 사용하여 맞춤형 임상 처방 및 소량 기능성 보충제를 공동 개발할 수 있도록 지원); (2) Rp 1,320 마이크로 사셰 재포장 프로토콜(비싼 대용량 병을 일일 1회분 사셰로 변환하여 인도네시아와 베트남의 대규모 신흥 시장 경제성을 약 62% 매출 총이익으로 실현); (3) 공간 공유 및 함께 배송(파트너 브랜드 간 콜드체인 창고 허브와 라스트 마일 배송 경로를 통합하여 물류 오버헤드를 최대 40% 절감); (4) PetFood Bank Re:D 및 Mint 프랜차이즈(ESG 커뮤니티 영향력과 표준화된 마이크로 프랜차이즈 소매 노드를 조정).",
@@ -23138,12 +23138,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "为了给全球商业合作伙伴和风险投资家绝对的信心，该领域围绕三个基本支柱构建：(1) *SC 核心身份（01_sc：Signal Star 愿景、创始人致辞、四大支柱、SC 架构、主手册和15个创始人项目）；(2) 国别战略合作伙伴关系（02_sistar-intl：在8个战略国家基地——SCK韩国、SCI印度尼西亚、SCV越南、SG新加坡、SCC中国、SCJ日本、SCU美国和IN印度——进行本地化法律和运营执行）；(3) 全球联邦联盟（03_intl-alliance：国际 AI 贸易联盟 IATA 和国际 AI 开发联盟 IADA）。在“团结对抗全球 AI 巨头——直接进行国际贸易”的旗帜下，sc-sistarcompany 证明了区域制造商、诊所和商家如何团结成一个主权全球联邦。",
     "ja": "グローバルなビジネスパートナーやベンチャーキャピタリストに絶対的な確信を与えるために、このドメインは3つの基盤となる柱を中心に構成されています。(1) *SC コアアイデンティティ (01_sc: Signal Star のビジョン、創業者メッセージ、4つの柱、SC アーキテクチャ、マスターパンフレット、および15の創業者プロジェクト)。(2) 国別の戦略的パートナーシップ (02_sistar-intl: 8つの戦略的国家拠点—SCK 韓国、SCI インドネシア、SCV ベトナム、SG シンガポール、SCC 中国、SCJ 日本、SCU 米国、IN インドにおけるローカライズされた法的および運用的実行)。(3) グローバル連合同盟 (03_intl-alliance: 国際 AI 貿易連盟 IATA および国際 AI 開発連盟 IADA)。「共に、グローバル AI 巨大企業に立ち向かう — 国際貿易を直接行おう」という旗印の下、sc-sistarcompany は、地域のメーカー、クリニック、商人がどのようにして主権的なグローバル連合へと団結するかを証明します。"
   },
-  "qubit-algorithm (qubitalgorithm.sistarcompany.com) was born from a profound empirical observation across two decades of international commerce: capable manufacturers, innovative creators, veterinary clinics, and regional distributors repeatedly fail to reach their potential not because their products lack merit, but because they are trapped inside Classical Newtonian Business Rules (A -> B -> C). Sequential supply chains impose working-capital crunches, speculative inventory deadweight, multi-tier middleman markups, and 60-to-120-day settlement delays.": {
-    "ko": "qubit-algorithm(qubitalgorithm.sistarcompany.com)은 20년 간의 국제 상거래를 통한 깊은 실증적 관찰에서 탄생했습니다. 유능한 제조업체, 혁신적인 창작자, 동물병원 및 지역 유통업체들이 잠재력을 발휘하지 못하는 이유는 제품의 가치가 부족해서가 아니라, 고전적인 뉴턴식 비즈니스 규칙(A -> B -> C)에 갇혀 있기 때문입니다. 순차적인 공급망은 운전 자본 부족, 투기적 재고 부담, 다단계 중간 마진, 60~120일의 결제 지연을 강요합니다.",
-    "id": "qubit-algorithm (qubitalgorithm.sistarcompany.com) lahir dari pengamatan empiris yang mendalam selama dua dekade perdagangan internasional: produsen yang cakap, pencipta inovatif, klinik hewan, dan distributor regional berulang kali gagal mencapai potensi mereka bukan karena produk mereka kurang bernilai, tetapi karena mereka terjebak di dalam Aturan Bisnis Newtonian Klasik (A -> B -> C). Rantai pasokan berurutan memaksakan krisis modal kerja, beban inventaris spekulatif, markup perantara bertingkat, dan penundaan penyelesaian 60 hingga 120 hari.",
-    "vi": "qubit-algorithm (qubitalgorithm.sistarcompany.com) được ra đời từ một quan sát thực nghiệm sâu sắc qua hai thập kỷ thương mại quốc tế: các nhà sản xuất có năng lực, những người sáng tạo đổi mới, các phòng khám thú y và các nhà phân phối khu vực liên tục thất bại trong việc đạt được tiềm năng của mình không phải vì sản phẩm của họ thiếu giá trị, mà vì họ bị mắc kẹt bên trong các Quy tắc Kinh doanh kiểu Newton Cổ điển (A -> B -> C). Chuỗi cung ứng tuần tự gây ra tình trạng thiếu hụt vốn lưu động, gánh nặng hàng tồn kho đầu cơ, mức tăng giá của trung gian nhiều tầng và sự chậm trễ thanh toán từ 60 đến 120 ngày.",
-    "zh-CN": "qubit-algorithm (qubitalgorithm.sistarcompany.com) 诞生于对二十年国际贸易的深刻经验观察：有能力的制造商、创新的创作者、兽医诊所和区域分销商之所以屡屡未能发挥潜力，并非因为他们的产品缺乏价值，而是因为他们被困在经典的牛顿式商业规则（A -> B -> C）中。顺序供应链带来了营运资金紧缩、投机性库存负担、多级中间商加价以及60至120天的结算延迟。",
-    "ja": "qubit-algorithm (qubitalgorithm.sistarcompany.com) は、20年にわたる国際商取引の深い実証的観察から誕生しました。有能なメーカー、革新的なクリエイター、動物病院、地域のディストリビューターが潜在能力を発揮できないのは、製品に価値がないからではなく、古典的なニュートン力学的ビジネスルール (A -> B -> C) に囚われているからです。連続的なサプライチェーンは、運転資金の不足、投機的な在庫の重荷、多層的な中間マージン、そして60日から120日の決済遅延を強いています。"
+  "qubit-algorithm (qubit-algorithm.sistarcompany.com) was born from a profound empirical observation across two decades of international commerce: capable manufacturers, innovative creators, veterinary clinics, and regional distributors repeatedly fail to reach their potential not because their products lack merit, but because they are trapped inside Classical Newtonian Business Rules (A -> B -> C). Sequential supply chains impose working-capital crunches, speculative inventory deadweight, multi-tier middleman markups, and 60-to-120-day settlement delays.": {
+    "ko": "qubit-algorithm(qubit-algorithm.sistarcompany.com)은 20년 간의 국제 상거래를 통한 깊은 실증적 관찰에서 탄생했습니다. 유능한 제조업체, 혁신적인 창작자, 동물병원 및 지역 유통업체들이 잠재력을 발휘하지 못하는 이유는 제품의 가치가 부족해서가 아니라, 고전적인 뉴턴식 비즈니스 규칙(A -> B -> C)에 갇혀 있기 때문입니다. 순차적인 공급망은 운전 자본 부족, 투기적 재고 부담, 다단계 중간 마진, 60~120일의 결제 지연을 강요합니다.",
+    "id": "qubit-algorithm (qubit-algorithm.sistarcompany.com) lahir dari pengamatan empiris yang mendalam selama dua dekade perdagangan internasional: produsen yang cakap, pencipta inovatif, klinik hewan, dan distributor regional berulang kali gagal mencapai potensi mereka bukan karena produk mereka kurang bernilai, tetapi karena mereka terjebak di dalam Aturan Bisnis Newtonian Klasik (A -> B -> C). Rantai pasokan berurutan memaksakan krisis modal kerja, beban inventaris spekulatif, markup perantara bertingkat, dan penundaan penyelesaian 60 hingga 120 hari.",
+    "vi": "qubit-algorithm (qubit-algorithm.sistarcompany.com) được ra đời từ một quan sát thực nghiệm sâu sắc qua hai thập kỷ thương mại quốc tế: các nhà sản xuất có năng lực, những người sáng tạo đổi mới, các phòng khám thú y và các nhà phân phối khu vực liên tục thất bại trong việc đạt được tiềm năng của mình không phải vì sản phẩm của họ thiếu giá trị, mà vì họ bị mắc kẹt bên trong các Quy tắc Kinh doanh kiểu Newton Cổ điển (A -> B -> C). Chuỗi cung ứng tuần tự gây ra tình trạng thiếu hụt vốn lưu động, gánh nặng hàng tồn kho đầu cơ, mức tăng giá của trung gian nhiều tầng và sự chậm trễ thanh toán từ 60 đến 120 ngày.",
+    "zh-CN": "qubit-algorithm (qubit-algorithm.sistarcompany.com) 诞生于对二十年国际贸易的深刻经验观察：有能力的制造商、创新的创作者、兽医诊所和区域分销商之所以屡屡未能发挥潜力，并非因为他们的产品缺乏价值，而是因为他们被困在经典的牛顿式商业规则（A -> B -> C）中。顺序供应链带来了营运资金紧缩、投机性库存负担、多级中间商加价以及60至120天的结算延迟。",
+    "ja": "qubit-algorithm (qubit-algorithm.sistarcompany.com) は、20年にわたる国際商取引の深い実証的観察から誕生しました。有能なメーカー、革新的なクリエイター、動物病院、地域のディストリビューターが潜在能力を発揮できないのは、製品に価値がないからではなく、古典的なニュートン力学的ビジネスルール (A -> B -> C) に囚われているからです。連続的なサプライチェーンは、運転資金の不足、投機的な在庫の重荷、多層的な中間マージン、そして60日から120日の決済遅延を強いています。"
   },
   "To dismantle this structural bottleneck, *SC invented the world's first Qubit Algorithm™ and codified its rigorous mathematical proof in our foundational monograph, Optimization of Business Process Wavefunctions. Why is quantum mechanics combined with autonomous AI the ideal practical match for modern commerce? Because in the AI era, autonomous agents process multi-lingual market signals, match cross-border counterparties, and execute smart clearing code concurrently. Replacing linear step-by-step trade with the 5 Quantum Laws—(1) Quantum Fluctuation (One Spark zero-capital genesis), (2) t = 0 Superposition (simultaneous multi-party profit state), (3) Bell-State Entanglement (One Task, Multi Outcomes cross-project synchronization), (4) WKB Quantum Tunneling (pre-order deposits bypassing capital barriers), and (5) Discrete Quantization & Wave-Particle Duality (collapsing demand waves into deterministic contract particles while canceling middleman noise)—transforms international business from a high-risk linear gamble into a mathematically deterministic engine.": {
     "ko": "이러한 구조적 병목 현상을 해소하기 위해 *SC는 세계 최초의 Qubit Algorithm™을 발명하고 기초 논문인 '비즈니스 프로세스 파동함수의 최적화'에 엄격한 수학적 증명을 명문화했습니다. 왜 양자 역학과 자율 AI의 결합이 현대 상거래에 가장 이상적인 실용적 조합일까요? AI 시대에는 자율 에이전트가 다국어 시장 신호를 처리하고, 국경 간 거래 상대방을 매칭하며, 스마트 클리어링 코드를 동시에 실행하기 때문입니다. 선형적인 단계별 무역을 5가지 양자 법칙—(1) 양자 요동(One Spark 제로 자본 발생), (2) t = 0 중첩(다자간 동시 이익 상태), (3) 벨 상태 얽힘(One Task, Multi Outcomes 프로젝트 간 동기화), (4) WKB 양자 터널링(자본 장벽을 우회하는 선주문 예치금), (5) 이산 양자화 및 파동-입자 이중성(수요 파동을 결정론적 계약 입자로 붕괴시키며 중간 소음 제거)—으로 대체함으로써 국제 비즈니스를 고위험 선형 도박에서 수학적으로 결정론적인 엔진으로 변화시킵니다.",
@@ -23180,12 +23180,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "如果说第1层是 Signal Star Universe 的宪法和数学物理基础，那么第2层（03 intelligence-core）就是驱动其下方每个商业平台和垂直竞技场的核反应堆和认知大脑。没有 intelligence-core，scarlet-ai 和 qubit-biz 只是静态网站；有了 intelligence-core，它们就成为了自主、自优化的多智能体有机体。",
     "ja": "レイヤー1が Signal Star Universe の憲法であり数学的物理学であるならば、レイヤー2 (03 intelligence-core) は、その下にあるすべての商業プラットフォームと垂直アリーナを駆動する原子炉であり認知脳です。intelligence-core がなければ、scarlet-ai と qubit-biz は単なる静的なウェブサイトに過ぎませんが、intelligence-core があれば、それらは自律的で自己最適化するマルチエージェント有機体として機能します。"
   },
-  "intelligence-core (intelligence.sistarcompany.com) is the master technological vault cataloging and orchestrating *SC's core artificial intelligence assets, enterprise software engines, and physical AI hardware. Rather than renting generic third-party SaaS tools that leak corporate memory and charge punitive per-seat fees, *SC engineered a sovereign, full-stack cognitive infrastructure designed specifically for cross-border trade, automated enterprise resource planning, and 24/7 commercial execution.": {
-    "ko": "intelligence-core(intelligence.sistarcompany.com)는 *SC의 핵심 인공지능 자산, 기업용 소프트웨어 엔진 및 물리적 AI 하드웨어를 카탈로그화하고 오케스트레이션하는 마스터 기술 금고입니다. 기업의 기억을 유출하고 과도한 사용자당 수수료를 부과하는 일반적인 타사 SaaS 도구를 빌려 쓰는 대신, *SC는 국경 간 무역, 자동화된 전사적 자원 관리(ERP) 및 24시간 상업 실행을 위해 특별히 설계된 독자적인 풀스택 인지 인프라를 구축했습니다.",
-    "id": "intelligence-core (intelligence.sistarcompany.com) adalah brankas teknologi utama yang mengatalogkan dan mengatur aset kecerdasan buatan inti *SC, mesin perangkat lunak perusahaan, dan perangkat keras AI fisik. Daripada menyewa alat SaaS pihak ketiga generik yang membocorkan memori perusahaan dan mengenakan biaya per kursi yang menghukum, *SC merekayasa infrastruktur kognitif tumpukan penuh yang berdaulat yang dirancang khusus untuk perdagangan lintas batas, perencanaan sumber daya perusahaan otomatis, dan eksekusi komersial 24/7.",
-    "vi": "intelligence-core (intelligence.sistarcompany.com) là kho lưu trữ công nghệ chính lập danh mục và điều phối các tài sản trí tuệ nhân tạo cốt lõi của *SC, các công cụ phần mềm doanh nghiệp và phần cứng AI vật lý. Thay vì thuê các công cụ SaaS của bên thứ ba thông thường làm rò rỉ bộ nhớ doanh nghiệp và tính phí cắt cổ trên mỗi người dùng, *SC đã thiết kế một cơ sở hạ tầng nhận thức full-stack có chủ quyền được thiết kế đặc biệt cho thương mại xuyên biên giới, lập kế hoạch nguồn lực doanh nghiệp tự động và thực thi thương mại 24/7.",
-    "zh-CN": "intelligence-core (intelligence.sistarcompany.com) 是编目和编排 *SC 核心人工智能资产、企业软件引擎和物理 AI 硬件的主技术库。*SC 没有租用那些会泄露公司记忆并收取惩罚性席位费的通用第三方 SaaS 工具，而是设计了一个主权的全栈认知基础设施，专门用于跨境贸易、自动化企业资源规划和 24/7 商业执行。",
-    "ja": "intelligence-core (intelligence.sistarcompany.com) は、*SC のコア人工知能アセット、エンタープライズ・ソフトウェア・エンジン、および物理的な AI ハードウェアをカタログ化し、オーケストレーションするマスター・テクノロジー・ヴォルトです。企業の記憶を漏洩させ、高額なユーザー単位の料金を課す一般的なサードパーティ SaaS ツールをレンタルするのではなく、*SC は、国境を越えた貿易、自動化された企業資源計画 (ERP)、および24時間365日の商業実行のために特別に設計された、主権的なフルスタック認知インフラを構築しました。"
+  "intelligence-core (intelligence-core.sistarcompany.com) is the master technological vault cataloging and orchestrating *SC's core artificial intelligence assets, enterprise software engines, and physical AI hardware. Rather than renting generic third-party SaaS tools that leak corporate memory and charge punitive per-seat fees, *SC engineered a sovereign, full-stack cognitive infrastructure designed specifically for cross-border trade, automated enterprise resource planning, and 24/7 commercial execution.": {
+    "ko": "intelligence-core(intelligence-core.sistarcompany.com)는 *SC의 핵심 인공지능 자산, 기업용 소프트웨어 엔진 및 물리적 AI 하드웨어를 카탈로그화하고 오케스트레이션하는 마스터 기술 금고입니다. 기업의 기억을 유출하고 과도한 사용자당 수수료를 부과하는 일반적인 타사 SaaS 도구를 빌려 쓰는 대신, *SC는 국경 간 무역, 자동화된 전사적 자원 관리(ERP) 및 24시간 상업 실행을 위해 특별히 설계된 독자적인 풀스택 인지 인프라를 구축했습니다.",
+    "id": "intelligence-core (intelligence-core.sistarcompany.com) adalah brankas teknologi utama yang mengatalogkan dan mengatur aset kecerdasan buatan inti *SC, mesin perangkat lunak perusahaan, dan perangkat keras AI fisik. Daripada menyewa alat SaaS pihak ketiga generik yang membocorkan memori perusahaan dan mengenakan biaya per kursi yang menghukum, *SC merekayasa infrastruktur kognitif tumpukan penuh yang berdaulat yang dirancang khusus untuk perdagangan lintas batas, perencanaan sumber daya perusahaan otomatis, dan eksekusi komersial 24/7.",
+    "vi": "intelligence-core (intelligence-core.sistarcompany.com) là kho lưu trữ công nghệ chính lập danh mục và điều phối các tài sản trí tuệ nhân tạo cốt lõi của *SC, các công cụ phần mềm doanh nghiệp và phần cứng AI vật lý. Thay vì thuê các công cụ SaaS của bên thứ ba thông thường làm rò rỉ bộ nhớ doanh nghiệp và tính phí cắt cổ trên mỗi người dùng, *SC đã thiết kế một cơ sở hạ tầng nhận thức full-stack có chủ quyền được thiết kế đặc biệt cho thương mại xuyên biên giới, lập kế hoạch nguồn lực doanh nghiệp tự động và thực thi thương mại 24/7.",
+    "zh-CN": "intelligence-core (intelligence-core.sistarcompany.com) 是编目和编排 *SC 核心人工智能资产、企业软件引擎和物理 AI 硬件的主技术库。*SC 没有租用那些会泄露公司记忆并收取惩罚性席位费的通用第三方 SaaS 工具，而是设计了一个主权的全栈认知基础设施，专门用于跨境贸易、自动化企业资源规划和 24/7 商业执行。",
+    "ja": "intelligence-core (intelligence-core.sistarcompany.com) は、*SC のコア人工知能アセット、エンタープライズ・ソフトウェア・エンジン、および物理的な AI ハードウェアをカタログ化し、オーケストレーションするマスター・テクノロジー・ヴォルトです。企業の記憶を漏洩させ、高額なユーザー単位の料金を課す一般的なサードパーティ SaaS ツールをレンタルするのではなく、*SC は、国境を越えた貿易、自動化された企業資源計画 (ERP)、および24時間365日の商業実行のために特別に設計された、主権的なフルスタック認知インフラを構築しました。"
   },
   "Every technology inside intelligence-core serves a dual mandate: first, it achieves 100% internal administrative and ERP cost elimination across all *SC global bases; second, it is packaged as a high-margin (75%~85% Gross Margin) B2B SaaS and licensing suite for external enterprises across our federated alliances.": {
     "ko": "intelligence-core 내부의 모든 기술은 이원적 책무를 수행합니다. 첫째, *SC의 모든 글로벌 거점에서 내부 행정 및 ERP 비용을 100% 제거하며, 둘째, 연합 동맹 전반의 외부 기업을 위한 고마진(매출총이익률 75%~85%) B2B SaaS 및 라이선싱 스위트로 패키징되어 제공됩니다.",
@@ -23208,12 +23208,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "我们的无代码/低代码 Agent Builder (SISTAR AB) 可生成专门的领域代理——其中最著名的是 Ms. Scarlet，她是 24/7 多语言对话式贸易达成者和高管 AI 秘书，能够自主谈判 MOQ、开具形式发票并路由 K-SURE BNPL 信用审批。",
     "ja": "当社のノーコード/ローコード Agent Builder (SISTAR AB) は、専門化されたドメインエージェントを生成します。特に Ms. Scarlet は、24 時間 365 日対応の多言語対話型トレードクローザー兼エグゼクティブ AI 秘書であり、MOQ の交渉、プロフォルマインボイスの発行、および K-SURE BNPL 信用承認のルーティングを自律的に実行できます。"
   },
-  "scarlet-ai (scarlet.sistarcompany.com) deploys function-specific and industry-specific AI commerce and international trading platforms powered by intelligence-core and governed by the Qubit Algorithm™. Traditional B2B and B2C marketplaces extract predatory take-rates (15%~35%), trap merchants in price wars, and leave cross-border buyers exposed to credit and customs friction. scarlet-ai re-engineers the marketplace mechanics from the ground up so that every participant's business volume and net profitability expand simultaneously.": {
-    "ko": "scarlet-ai (scarlet.sistarcompany.com)는 intelligence-core를 기반으로 하고 Qubit Algorithm™에 의해 관리되는 기능 및 산업별 AI 커머스 및 국제 무역 플랫폼을 배포합니다. 기존 B2B 및 B2C 마켓플레이스는 약탈적인 수수료(15%~35%)를 취하고 판매자를 가격 전쟁에 가두며 교차 국경 구매자를 신용 및 통관 마찰에 노출시킵니다. scarlet-ai는 마켓플레이스 메커니즘을 근본적으로 재설계하여 모든 참여자의 거래량과 순이익이 동시에 확대되도록 합니다.",
-    "id": "scarlet-ai (scarlet.sistarcompany.com) menyebarkan platform perdagangan AI dan perdagangan internasional khusus fungsi dan industri yang didukung oleh intelligence-core dan diatur oleh Qubit Algorithm™. Marketplace B2B dan B2C tradisional mengambil take-rate predator (15%~35%), menjebak pedagang dalam perang harga, dan membiarkan pembeli lintas batas terpapar pada gesekan kredit dan bea cukai. scarlet-ai merekayasa ulang mekanika pasar dari awal sehingga volume bisnis dan profitabilitas bersih setiap peserta berkembang secara bersamaan.",
-    "vi": "scarlet-ai (scarlet.sistarcompany.com) triển khai các nền tảng thương mại AI và giao dịch quốc tế chuyên biệt theo chức năng và ngành nghề, được vận hành bởi intelligence-core và quản trị bởi Qubit Algorithm™. Các sàn thương mại điện tử B2B và B2C truyền thống thường thu phí chiết khấu cao (15%~35%), đẩy người bán vào cuộc chiến giá cả và khiến người mua xuyên biên giới gặp rủi ro về tín dụng và thủ tục hải quan. scarlet-ai tái cấu trúc cơ chế thị trường từ nền tảng để khối lượng kinh doanh và lợi nhuận ròng của mọi người tham gia đều tăng trưởng đồng thời.",
-    "zh-CN": "scarlet-ai (scarlet.sistarcompany.com) 部署了由 intelligence-core 驱动并受 Qubit Algorithm™ 管理的特定功能和行业的 AI 商务及国际贸易平台。传统的 B2B 和 B2C 市场提取掠夺性的费率（15%~35%），将商家困在价格战中，并使跨境买家面临信用和海关摩擦。scarlet-ai 从底层重新设计了市场机制，使每个参与者的业务量和净利润同时扩大。",
-    "ja": "scarlet-ai (scarlet.sistarcompany.com) は、intelligence-core を動力源とし、Qubit Algorithm™ によって管理される、機能別および業界別の AI コマースおよび国際貿易プラットフォームを展開します。従来の B2B および B2C マーケットプレイスは、略奪的なテイクレート（15%〜35%）を抽出し、加盟店を価格競争に陥れ、クロスボーダーのバイヤーを信用や通関の摩擦にさらしたままにします。scarlet-ai はマーケットプレイスのメカニズムを根本から再構築し、すべての参加者の取引量と純利益が同時に拡大するようにします。"
+  "scarlet-ai (scarlet-ai.sistarcompany.com) deploys function-specific and industry-specific AI commerce and international trading platforms powered by intelligence-core and governed by the Qubit Algorithm™. Traditional B2B and B2C marketplaces extract predatory take-rates (15%~35%), trap merchants in price wars, and leave cross-border buyers exposed to credit and customs friction. scarlet-ai re-engineers the marketplace mechanics from the ground up so that every participant's business volume and net profitability expand simultaneously.": {
+    "ko": "scarlet-ai (scarlet-ai.sistarcompany.com)는 intelligence-core를 기반으로 하고 Qubit Algorithm™에 의해 관리되는 기능 및 산업별 AI 커머스 및 국제 무역 플랫폼을 배포합니다. 기존 B2B 및 B2C 마켓플레이스는 약탈적인 수수료(15%~35%)를 취하고 판매자를 가격 전쟁에 가두며 교차 국경 구매자를 신용 및 통관 마찰에 노출시킵니다. scarlet-ai는 마켓플레이스 메커니즘을 근본적으로 재설계하여 모든 참여자의 거래량과 순이익이 동시에 확대되도록 합니다.",
+    "id": "scarlet-ai (scarlet-ai.sistarcompany.com) menyebarkan platform perdagangan AI dan perdagangan internasional khusus fungsi dan industri yang didukung oleh intelligence-core dan diatur oleh Qubit Algorithm™. Marketplace B2B dan B2C tradisional mengambil take-rate predator (15%~35%), menjebak pedagang dalam perang harga, dan membiarkan pembeli lintas batas terpapar pada gesekan kredit dan bea cukai. scarlet-ai merekayasa ulang mekanika pasar dari awal sehingga volume bisnis dan profitabilitas bersih setiap peserta berkembang secara bersamaan.",
+    "vi": "scarlet-ai (scarlet-ai.sistarcompany.com) triển khai các nền tảng thương mại AI và giao dịch quốc tế chuyên biệt theo chức năng và ngành nghề, được vận hành bởi intelligence-core và quản trị bởi Qubit Algorithm™. Các sàn thương mại điện tử B2B và B2C truyền thống thường thu phí chiết khấu cao (15%~35%), đẩy người bán vào cuộc chiến giá cả và khiến người mua xuyên biên giới gặp rủi ro về tín dụng và thủ tục hải quan. scarlet-ai tái cấu trúc cơ chế thị trường từ nền tảng để khối lượng kinh doanh và lợi nhuận ròng của mọi người tham gia đều tăng trưởng đồng thời.",
+    "zh-CN": "scarlet-ai (scarlet-ai.sistarcompany.com) 部署了由 intelligence-core 驱动并受 Qubit Algorithm™ 管理的特定功能和行业的 AI 商务及国际贸易平台。传统的 B2B 和 B2C 市场提取掠夺性的费率（15%~35%），将商家困在价格战中，并使跨境买家面临信用和海关摩擦。scarlet-ai 从底层重新设计了市场机制，使每个参与者的业务量和净利润同时扩大。",
+    "ja": "scarlet-ai (scarlet-ai.sistarcompany.com) は、intelligence-core を動力源とし、Qubit Algorithm™ によって管理される、機能別および業界別の AI コマースおよび国際貿易プラットフォームを展開します。従来の B2B および B2C マーケットプレイスは、略奪的なテイクレート（15%〜35%）を抽出し、加盟店を価格競争に陥れ、クロスボーダーのバイヤーを信用や通関の摩擦にさらしたままにします。scarlet-ai はマーケットプレイスのメカニズムを根本から再構築し、すべての参加者の取引量と純利益が同時に拡大するようにします。"
   },
   "Through Volume-Wise Deals and Collective Group Buying (Buy4Me reverse auctions), fragmented orders from hundreds of independent veterinary clinics, pharmacies, or regional retailers are pre-aggregated into a single sovereign master order. Guided 24/7 by Ms. Scarlet on SisCart, Nearbuy, and mall.sisTV, buyers post their target price and volume while pre-verified global factories bid downward to win the guaranteed production batch.": {
     "ko": "Volume-Wise Deals 및 공동 구매(Buy4Me 역경매)를 통해 수백 개의 독립 동물 병원, 약국 또는 지역 소매업체의 파편화된 주문이 하나의 거대한 마스터 주문으로 사전 통합됩니다. SisCart, Nearbuy, mall.sisTV에서 Ms. Scarlet의 24시간 안내를 받으며 구매자가 목표 가격과 수량을 게시하면, 사전 검증된 글로벌 공장들이 보장된 생산 배치를 확보하기 위해 하향 입찰을 진행합니다.",
@@ -23229,12 +23229,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "为了消除资本壁垒（WKB Quantum Tunneling），scarlet-ai 整合了 K-SURE（韩国贸易保险公社）支持的 BNPL 融资以及 50% 的预付款协议，在保证工厂立即获得生产现金流的同时，给予海外买家 60 至 90 天的信用期。此外，我们的 70/30 PG Fee Cashback 机制将支付网关利润的 70% 直接返还给生态系统参与者，最终实现多方利润的同时（t = 0）达成。",
     "ja": "資本の障壁を排除するために（WKB Quantum Tunneling）、scarlet-ai は K-SURE（韓国貿易保険公社）が支援する BNPL ファイナンスと 50% 前払プロトコルを統合し、工場には即時の生産キャッシュフローを保証し、海外バイヤーには 60〜90 日間の信用供与を行います。さらに、当社の 70/30 PG Fee Cashback メカニズムは、決済ゲートウェイのマージンの 70% をエコシステム参加者に直接還元し、多者間の利益実現を同時（t = 0）に達成します。"
   },
-  "qubit-biz (qubit.sistarcompany.com) is the architectural launchpad where a single human insight (One Spark) germinates into a standardized, mathematically validated business project and entangles across adjacent projects to achieve One Task, Multi Outcomes. Rather than hoarding business innovation behind closed doors, qubit-biz serves as an open showcase and adoption platform for Cosmo Seed™ Business Models—allowing global market players, manufacturers, and entrepreneurs to freely adopt our modular quantum business blueprints into their own enterprises and generate immediate cross-project synergy.": {
-    "ko": "qubit-biz (qubit.sistarcompany.com)는 단 하나의 인간적 통찰(One Spark)이 표준화되고 수학적으로 검증된 비즈니스 프로젝트로 발아하여 인접 프로젝트들과 얽힘으로써 One Task, Multi Outcomes를 달성하는 아키텍처적 런치패드입니다. 비즈니스 혁신을 폐쇄적으로 독점하는 대신, qubit-biz는 Cosmo Seed™ 비즈니스 모델의 오픈 쇼케이스 및 채택 플랫폼 역할을 하여 글로벌 시장 참여자, 제조업체 및 기업가가 당사의 모듈형 양자 비즈니스 청사진을 자신의 기업에 자유롭게 채택하고 즉각적인 프로젝트 간 시너지를 창출할 수 있도록 합니다.",
-    "id": "qubit-biz (qubit.sistarcompany.com) adalah landasan peluncuran arsitektural di mana satu wawasan manusia (One Spark) berkecambah menjadi proyek bisnis yang terstandarisasi dan tervalidasi secara matematis serta terjerat di seluruh proyek yang berdekatan untuk mencapai One Task, Multi Outcomes. Alih-alih menimbun inovasi bisnis di balik pintu tertutup, qubit-biz berfungsi sebagai etalase terbuka dan platform adopsi untuk Cosmo Seed™ Business Models—memungkinkan pelaku pasar global, produsen, dan pengusaha untuk secara bebas mengadopsi cetak biru bisnis kuantum modular kami ke dalam perusahaan mereka sendiri dan menghasilkan sinergi lintas proyek secara instan.",
-    "vi": "qubit-biz (qubit.sistarcompany.com) là bệ phóng kiến trúc nơi một ý tưởng sáng tạo của con người (One Spark) nảy mầm thành một dự án kinh doanh được tiêu chuẩn hóa, được xác thực về mặt toán học và liên kết với các dự án lân cận để đạt được One Task, Multi Outcomes. Thay vì giữ kín các đổi mới kinh doanh, qubit-biz đóng vai trò là một nền tảng trưng bày và áp dụng mở cho Cosmo Seed™ Business Models—cho phép các bên tham gia thị trường toàn cầu, nhà sản xuất và doanh nhân tự do áp dụng các bản thiết kế kinh doanh lượng tử mô-đun của chúng tôi vào doanh nghiệp của chính họ và tạo ra sức mạnh cộng hưởng tức thì giữa các dự án.",
-    "zh-CN": "qubit-biz (qubit.sistarcompany.com) 是一个架构发射台，在这里，单一的人类洞察（One Spark）发芽成为标准化的、经过数学验证的商业项目，并与相邻项目纠缠在一起，以实现 One Task, Multi Outcomes。qubit-biz 并不关起门来垄断商业创新，而是作为 Cosmo Seed™ Business Models 的开放展示和采用平台——允许全球市场参与者、制造商和企业家自由地将我们的模块化量子商业蓝图采用到他们自己的企业中，并产生即时的跨项目协同效应。",
-    "ja": "qubit-biz (qubit.sistarcompany.com) は、単一の人間的洞察（One Spark）が標準化され数学的に検証されたビジネスプロジェクトへと発芽し、隣接するプロジェクトと絡み合うことで One Task, Multi Outcomes を達成するアーキテクチャ上のローンチパッドです。ビジネスの革新を閉鎖的に独占するのではなく、qubit-biz は Cosmo Seed™ Business Models のオープンなショーケースおよび採用プラットフォームとして機能し、グローバルな市場プレーヤー、製造業者、起業家が当社のモジュール式量子ビジネス設計図を自社に自由に採用し、即座にプロジェクト間の相乗効果を生み出すことを可能にします。"
+  "qubit-biz (qubit-biz.sistarcompany.com) is the architectural launchpad where a single human insight (One Spark) germinates into a standardized, mathematically validated business project and entangles across adjacent projects to achieve One Task, Multi Outcomes. Rather than hoarding business innovation behind closed doors, qubit-biz serves as an open showcase and adoption platform for Cosmo Seed™ Business Models—allowing global market players, manufacturers, and entrepreneurs to freely adopt our modular quantum business blueprints into their own enterprises and generate immediate cross-project synergy.": {
+    "ko": "qubit-biz (qubit-biz.sistarcompany.com)는 단 하나의 인간적 통찰(One Spark)이 표준화되고 수학적으로 검증된 비즈니스 프로젝트로 발아하여 인접 프로젝트들과 얽힘으로써 One Task, Multi Outcomes를 달성하는 아키텍처적 런치패드입니다. 비즈니스 혁신을 폐쇄적으로 독점하는 대신, qubit-biz는 Cosmo Seed™ 비즈니스 모델의 오픈 쇼케이스 및 채택 플랫폼 역할을 하여 글로벌 시장 참여자, 제조업체 및 기업가가 당사의 모듈형 양자 비즈니스 청사진을 자신의 기업에 자유롭게 채택하고 즉각적인 프로젝트 간 시너지를 창출할 수 있도록 합니다.",
+    "id": "qubit-biz (qubit-biz.sistarcompany.com) adalah landasan peluncuran arsitektural di mana satu wawasan manusia (One Spark) berkecambah menjadi proyek bisnis yang terstandarisasi dan tervalidasi secara matematis serta terjerat di seluruh proyek yang berdekatan untuk mencapai One Task, Multi Outcomes. Alih-alih menimbun inovasi bisnis di balik pintu tertutup, qubit-biz berfungsi sebagai etalase terbuka dan platform adopsi untuk Cosmo Seed™ Business Models—memungkinkan pelaku pasar global, produsen, dan pengusaha untuk secara bebas mengadopsi cetak biru bisnis kuantum modular kami ke dalam perusahaan mereka sendiri dan menghasilkan sinergi lintas proyek secara instan.",
+    "vi": "qubit-biz (qubit-biz.sistarcompany.com) là bệ phóng kiến trúc nơi một ý tưởng sáng tạo của con người (One Spark) nảy mầm thành một dự án kinh doanh được tiêu chuẩn hóa, được xác thực về mặt toán học và liên kết với các dự án lân cận để đạt được One Task, Multi Outcomes. Thay vì giữ kín các đổi mới kinh doanh, qubit-biz đóng vai trò là một nền tảng trưng bày và áp dụng mở cho Cosmo Seed™ Business Models—cho phép các bên tham gia thị trường toàn cầu, nhà sản xuất và doanh nhân tự do áp dụng các bản thiết kế kinh doanh lượng tử mô-đun của chúng tôi vào doanh nghiệp của chính họ và tạo ra sức mạnh cộng hưởng tức thì giữa các dự án.",
+    "zh-CN": "qubit-biz (qubit-biz.sistarcompany.com) 是一个架构发射台，在这里，单一的人类洞察（One Spark）发芽成为标准化的、经过数学验证的商业项目，并与相邻项目纠缠在一起，以实现 One Task, Multi Outcomes。qubit-biz 并不关起门来垄断商业创新，而是作为 Cosmo Seed™ Business Models 的开放展示和采用平台——允许全球市场参与者、制造商和企业家自由地将我们的模块化量子商业蓝图采用到他们自己的企业中，并产生即时的跨项目协同效应。",
+    "ja": "qubit-biz (qubit-biz.sistarcompany.com) は、単一の人間的洞察（One Spark）が標準化され数学的に検証されたビジネスプロジェクトへと発芽し、隣接するプロジェクトと絡み合うことで One Task, Multi Outcomes を達成するアーキテクチャ上のローンチパッドです。ビジネスの革新を閉鎖的に独占するのではなく、qubit-biz は Cosmo Seed™ Business Models のオープンなショーケースおよび採用プラットフォームとして機能し、グローバルな市場プレーヤー、製造業者、起業家が当社のモジュール式量子ビジネス設計図を自社に自由に採用し、即座にプロジェクト間の相乗効果を生み出すことを可能にします。"
   },
   "Execution across multiple entangled projects is orchestrated via c.a.n. (CEO ActionNote), which transforms a single voice or text directive from leadership into parallel task trees across 8 countries. Financially, qubit-biz operates the 4-Way Qubit Bank Offsetting Clearinghouse, netting receivables and payables across Buyer, Supplier, Logistics, and Platform across borders with near-zero FX wire leakage.": {
     "ko": "여러 얽힌 프로젝트 전반의 실행은 c.a.n. (CEO ActionNote)을 통해 조율되며, 이는 리더십의 단일 음성 또는 텍스트 지시를 8개국에 걸친 병렬 작업 트리로 변환합니다. 재무적으로 qubit-biz는 4-Way Qubit Bank Offsetting Clearinghouse를 운영하여 구매자, 공급업체, 물류 및 플랫폼 간의 채권과 채무를 국경을 넘어 상계 처리함으로써 외환 송금 누수를 거의 제로에 가깝게 관리합니다.",
@@ -23250,12 +23250,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "当第 3 层（Layer 3）的商业平台（scarlet-ai 和 qubit-biz）应用于现实世界的实体产业时，它们在第 4 层（Layer 4）表现为两个互补的生态系统领域：06 biz-galaxy（各个垂直品牌和市场参与者在互联的星系中作为自主的恒星闪耀）和 07 biz-hub（引力中心，参与者围绕共同价值观和公共基础设施聚集，因为“在一起更强大”）。",
     "ja": "レイヤー 3 の商業プラットフォーム（scarlet-ai および qubit-biz）が現実世界の物理的産業に適用されると、レイヤー 4 では 2 つの補完的なエコシステムアリーナとして現れます。06 biz-galaxy（個々の垂直ブランドや市場プレーヤーが、相互接続された星座の中で自律的な星として輝く場所）と、07 biz-hub（「共にあることでより強くなる」という共有価値と共通インフラを中心にプレーヤーが集まる重力の中心）です。"
   },
-  "biz-galaxy (biz.sistarcompany.com) is the living commercial constellation where Cosmo Seed™ business models and independent market players fulfill their respective roles under the Qubit Algorithm™. Rather than forcing every brand into a monolithic corporate mold, biz-galaxy showcases real-world businesses and specialized industry players by vertical—offering tangible business inspiration and turnkey actualization pathways while celebrating each participant as a shining star in its own right.": {
-    "ko": "biz-galaxy (biz.sistarcompany.com)는 Cosmo Seed™ 비즈니스 모델과 독립적인 시장 참여자들이 Qubit Algorithm™ 하에서 각자의 역할을 수행하는 살아있는 상업 성단입니다. 모든 브랜드를 획일적인 기업 틀에 맞추는 대신, biz-galaxy는 수직 계열별로 실제 비즈니스와 전문 산업 참여자들을 선보이며, 각 참여자를 그 자체로 빛나는 별로 존중하는 동시에 구체적인 비즈니스 영감과 즉시 실행 가능한 경로를 제공합니다.",
-    "id": "biz-galaxy (biz.sistarcompany.com) adalah rasi bintang komersial yang hidup di mana model bisnis Cosmo Seed™ dan pelaku pasar independen memenuhi peran masing-masing di bawah Qubit Algorithm™. Alih-alih memaksa setiap merek ke dalam cetakan korporat monolitik, biz-galaxy menampilkan bisnis dunia nyata dan pelaku industri khusus berdasarkan vertikal—menawarkan inspirasi bisnis yang nyata dan jalur aktualisasi turnkey sambil merayakan setiap peserta sebagai bintang yang bersinar dengan haknya sendiri.",
-    "vi": "biz-galaxy (biz.sistarcompany.com) là một chòm sao thương mại sống động, nơi các mô hình kinh doanh Cosmo Seed™ và các bên tham gia thị trường độc lập thực hiện vai trò tương ứng của mình dưới Qubit Algorithm™. Thay vì ép buộc mọi thương hiệu vào một khuôn mẫu doanh nghiệp đơn khối, biz-galaxy giới thiệu các doanh nghiệp thực tế và các bên tham gia ngành chuyên biệt theo chiều dọc—mang lại cảm hứng kinh doanh hữu hình và các lộ trình hiện thực hóa chìa khóa trao tay, đồng thời tôn vinh mỗi người tham gia như một ngôi sao sáng theo cách riêng của họ.",
-    "zh-CN": "biz-galaxy (biz.sistarcompany.com) 是一个活跃的商业星系，Cosmo Seed™ 商业模式和独立的市场参与者在 Qubit Algorithm™ 的指导下履行各自的角色。biz-galaxy 并不强迫每个品牌进入单一的公司模式，而是按垂直领域展示现实世界的业务和专业行业参与者——提供切实的商业灵感和开箱即用的实现路径，同时赞美每个参与者作为一颗闪亮的恒星所拥有的独特价值。",
-    "ja": "biz-galaxy (biz.sistarcompany.com) は、Cosmo Seed™ ビジネスモデルと独立した市場プレーヤーが Qubit Algorithm™ の下でそれぞれの役割を果たす、生きた商業星座です。すべてのブランドを画一的な企業の型に押し込むのではなく、biz-galaxy は垂直分野ごとに現実世界のビジネスや専門業界のプレーヤーを紹介し、各参加者をそれ自体で輝く星として称えながら、具体的なビジネスのインスピレーションとターンキーな実現経路を提供します。"
+  "biz-galaxy (biz-galaxy.sistarcompany.com) is the living commercial constellation where Cosmo Seed™ business models and independent market players fulfill their respective roles under the Qubit Algorithm™. Rather than forcing every brand into a monolithic corporate mold, biz-galaxy showcases real-world businesses and specialized industry players by vertical—offering tangible business inspiration and turnkey actualization pathways while celebrating each participant as a shining star in its own right.": {
+    "ko": "biz-galaxy (biz-galaxy.sistarcompany.com)는 Cosmo Seed™ 비즈니스 모델과 독립적인 시장 참여자들이 Qubit Algorithm™ 하에서 각자의 역할을 수행하는 살아있는 상업 성단입니다. 모든 브랜드를 획일적인 기업 틀에 맞추는 대신, biz-galaxy는 수직 계열별로 실제 비즈니스와 전문 산업 참여자들을 선보이며, 각 참여자를 그 자체로 빛나는 별로 존중하는 동시에 구체적인 비즈니스 영감과 즉시 실행 가능한 경로를 제공합니다.",
+    "id": "biz-galaxy (biz-galaxy.sistarcompany.com) adalah rasi bintang komersial yang hidup di mana model bisnis Cosmo Seed™ dan pelaku pasar independen memenuhi peran masing-masing di bawah Qubit Algorithm™. Alih-alih memaksa setiap merek ke dalam cetakan korporat monolitik, biz-galaxy menampilkan bisnis dunia nyata dan pelaku industri khusus berdasarkan vertikal—menawarkan inspirasi bisnis yang nyata dan jalur aktualisasi turnkey sambil merayakan setiap peserta sebagai bintang yang bersinar dengan haknya sendiri.",
+    "vi": "biz-galaxy (biz-galaxy.sistarcompany.com) là một chòm sao thương mại sống động, nơi các mô hình kinh doanh Cosmo Seed™ và các bên tham gia thị trường độc lập thực hiện vai trò tương ứng của mình dưới Qubit Algorithm™. Thay vì ép buộc mọi thương hiệu vào một khuôn mẫu doanh nghiệp đơn khối, biz-galaxy giới thiệu các doanh nghiệp thực tế và các bên tham gia ngành chuyên biệt theo chiều dọc—mang lại cảm hứng kinh doanh hữu hình và các lộ trình hiện thực hóa chìa khóa trao tay, đồng thời tôn vinh mỗi người tham gia như một ngôi sao sáng theo cách riêng của họ.",
+    "zh-CN": "biz-galaxy (biz-galaxy.sistarcompany.com) 是一个活跃的商业星系，Cosmo Seed™ 商业模式和独立的市场参与者在 Qubit Algorithm™ 的指导下履行各自的角色。biz-galaxy 并不强迫每个品牌进入单一的公司模式，而是按垂直领域展示现实世界的业务和专业行业参与者——提供切实的商业灵感和开箱即用的实现路径，同时赞美每个参与者作为一颗闪亮的恒星所拥有的独特价值。",
+    "ja": "biz-galaxy (biz-galaxy.sistarcompany.com) は、Cosmo Seed™ ビジネスモデルと独立した市場プレーヤーが Qubit Algorithm™ の下でそれぞれの役割を果たす、生きた商業星座です。すべてのブランドを画一的な企業の型に押し込むのではなく、biz-galaxy は垂直分野ごとに現実世界のビジネスや専門業界のプレーヤーを紹介し、各参加者をそれ自体で輝く星として称えながら、具体的なビジネスのインスピレーションとターンキーな実現経路を提供します。"
   },
   "Key commercial constellations actively orbiting within biz-galaxy include: Veterinary & Animal Bio-Health (SISTAR MedIX AI clinical diagnostics, SISPet premium companion nutrition, SISPharm veterinary pharmaceuticals, and Aquasis smart aquaculture); Human Health, Beauty & Wellness (SisAyurvedic standardized phytomedicine and SISMii K-beauty/personal care); and Cognitive EdTech, DX & Robotics (Mind Company psychological/aptitude AI, FlexKids AI & SISTAR Edu adaptive learning, SISTAR DX, SisLoa, and SR Robotics).": {
     "ko": "biz-galaxy 내에서 활발히 궤도를 돌고 있는 주요 상업 성단은 다음과 같습니다: 수의학 및 동물 바이오 헬스(SISTAR MedIX AI 임상 진단, SISPet 프리미엄 반려동물 영양, SISPharm 수의약품 및 Aquasis 스마트 양식); 휴먼 헬스, 뷰티 및 웰니스(SisAyurvedic 표준화 식물 의약품 및 SISMii K-뷰티/퍼스널 케어); 그리고 인지 에듀테크, DX 및 로보틱스(Mind Company 심리/적성 AI, FlexKids AI 및 SISTAR Edu 적응형 학습, SISTAR DX, SisLoa 및 SR Robotics).",
@@ -23264,19 +23264,19 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "在 biz-galaxy 内活跃运行的主要商业星系包括：兽医与动物生物健康（SISTAR MedIX AI 临床诊断、SISPet 高端宠物营养、SISPharm 兽药和 Aquasis 智能水产养殖）；人类健康、美容与福祉（SisAyurvedic 标准化植物医药和 SISMii K-beauty/个人护理）；以及认知教育科技、DX 与机器人（Mind Company 心理/能力 AI、FlexKids AI 和 SISTAR Edu 适应性学习、SISTAR DX、SisLoa 和 SR Robotics）。",
     "ja": "biz-galaxy 内で活発に軌道を回っている主な商業星座には、以下が含まれます：獣医・動物バイオヘルス（SISTAR MedIX AI 臨床診断、SISPet プレミアムペット栄養、SISPharm 獣医薬品、Aquasis スマート養殖）、ヒューマンヘルス・ビューティー＆ウェルネス（SisAyurvedic 標準化植物医薬品、SISMii K-beauty/パーソナルケア）、および認知エドテック・DX＆ロボティクス（Mind Company 心理・適性 AI、FlexKids AI ＆ SISTAR Edu 適応型学習、SISTAR DX、SisLoa、SR Robotics）。"
   },
-  "While biz-galaxy illuminates individual vertical brands and players, biz-hub (bizhub.sistarcompany.com) operates on the foundational principle that \"Together gets stronger.\" It is the gravitational co-creation center where independent clinics, regional factories, logistics operators, and franchise entrepreneurs gather around shared values and common economic goals to solve structural problems that no single small-or-medium player could conquer alone.": {
-    "ko": "biz-galaxy가 개별 수직 브랜드와 참여자를 조명한다면, biz-hub (bizhub.sistarcompany.com)는 \"함께하면 더 강해진다\"는 근본 원칙에 따라 운영됩니다. 이곳은 독립 클리닉, 지역 공장, 물류 운영자 및 프랜차이즈 기업가들이 공유 가치와 공동의 경제적 목표를 중심으로 모여, 단일 중소 규모 참여자가 혼자서는 해결할 수 없는 구조적 문제를 해결하는 중력적 공동 창조 센터입니다.",
-    "id": "Sementara biz-galaxy menerangi merek dan pemain vertikal individu, biz-hub (bizhub.sistarcompany.com) beroperasi pada prinsip dasar bahwa \"Bersama menjadi lebih kuat.\" Ini adalah pusat ko-kreasi gravitasi di mana klinik independen, pabrik regional, operator logistik, dan pengusaha waralaba berkumpul di sekitar nilai-nilai bersama dan tujuan ekonomi umum untuk memecahkan masalah struktural yang tidak dapat ditaklukkan oleh satu pemain kecil atau menengah sendirian.",
-    "vi": "Trong khi biz-galaxy làm nổi bật các thương hiệu và bên tham gia theo chiều dọc riêng lẻ, biz-hub (bizhub.sistarcompany.com) hoạt động dựa trên nguyên tắc cơ bản rằng \"Cùng nhau sẽ mạnh mẽ hơn\". Đây là trung tâm đồng sáng tạo trọng lực, nơi các phòng khám độc lập, nhà máy khu vực, nhà vận hành logistics và các doanh nhân nhượng quyền tập hợp xung quanh các giá trị chia sẻ và mục tiêu kinh tế chung để giải quyết các vấn đề cấu trúc mà không một bên tham gia quy mô vừa và nhỏ nào có thể tự mình vượt qua.",
-    "zh-CN": "虽然 biz-galaxy 照亮了各个垂直品牌和参与者，但 biz-hub (bizhub.sistarcompany.com) 遵循“在一起更强大”的基本原则运作。它是一个引力共创中心，独立的诊所、区域工厂、物流运营商和特许经营企业家围绕共同的价值观和共同的经济目标聚集在一起，解决任何单一中小企业都无法独自克服的结构性问题。",
-    "ja": "biz-galaxy が個々の垂直ブランドやプレーヤーを照らし出す一方で、biz-hub (bizhub.sistarcompany.com) は「共にあることでより強くなる」という基本原則に基づいて運営されています。ここは、独立したクリニック、地域の工場、物流業者、フランチャイズ起業家が、共有の価値観と共通の経済的目標を中心に集まり、単一の中小規模プレーヤーでは解決できない構造的な問題を解決する、重力的な共創センターです。"
+  "While biz-galaxy illuminates individual vertical brands and players, biz-hub (biz-hub.sistarcompany.com) operates on the foundational principle that \"Together gets stronger.\" It is the gravitational co-creation center where independent clinics, regional factories, logistics operators, and franchise entrepreneurs gather around shared values and common economic goals to solve structural problems that no single small-or-medium player could conquer alone.": {
+    "ko": "biz-galaxy가 개별 수직 브랜드와 참여자를 조명한다면, biz-hub (biz-hub.sistarcompany.com)는 \"함께하면 더 강해진다\"는 근본 원칙에 따라 운영됩니다. 이곳은 독립 클리닉, 지역 공장, 물류 운영자 및 프랜차이즈 기업가들이 공유 가치와 공동의 경제적 목표를 중심으로 모여, 단일 중소 규모 참여자가 혼자서는 해결할 수 없는 구조적 문제를 해결하는 중력적 공동 창조 센터입니다.",
+    "id": "Sementara biz-galaxy menerangi merek dan pemain vertikal individu, biz-hub (biz-hub.sistarcompany.com) beroperasi pada prinsip dasar bahwa \"Bersama menjadi lebih kuat.\" Ini adalah pusat ko-kreasi gravitasi di mana klinik independen, pabrik regional, operator logistik, dan pengusaha waralaba berkumpul di sekitar nilai-nilai bersama dan tujuan ekonomi umum untuk memecahkan masalah struktural yang tidak dapat ditaklukkan oleh satu pemain kecil atau menengah sendirian.",
+    "vi": "Trong khi biz-galaxy làm nổi bật các thương hiệu và bên tham gia theo chiều dọc riêng lẻ, biz-hub (biz-hub.sistarcompany.com) hoạt động dựa trên nguyên tắc cơ bản rằng \"Cùng nhau sẽ mạnh mẽ hơn\". Đây là trung tâm đồng sáng tạo trọng lực, nơi các phòng khám độc lập, nhà máy khu vực, nhà vận hành logistics và các doanh nhân nhượng quyền tập hợp xung quanh các giá trị chia sẻ và mục tiêu kinh tế chung để giải quyết các vấn đề cấu trúc mà không một bên tham gia quy mô vừa và nhỏ nào có thể tự mình vượt qua.",
+    "zh-CN": "虽然 biz-galaxy 照亮了各个垂直品牌和参与者，但 biz-hub (biz-hub.sistarcompany.com) 遵循“在一起更强大”的基本原则运作。它是一个引力共创中心，独立的诊所、区域工厂、物流运营商和特许经营企业家围绕共同的价值观和共同的经济目标聚集在一起，解决任何单一中小企业都无法独自克服的结构性问题。",
+    "ja": "biz-galaxy が個々の垂直ブランドやプレーヤーを照らし出す一方で、biz-hub (biz-hub.sistarcompany.com) は「共にあることでより強くなる」という基本原則に基づいて運営されています。ここは、独立したクリニック、地域の工場、物流業者、フランチャイズ起業家が、共有の価値観と共通の経済的目標を中心に集まり、単一の中小規模プレーヤーでは解決できない構造的な問題を解決する、重力的な共創センターです。"
   },
-  "challengers (challengers.sistarcompany.com) inaugurates a radical new paradigm for human work in the age of autonomous AI: Vibe Working (\"Human to focus on ideas & insights; Let your AI work\"). Traditional corporations treat talent either as salaried cogs burdened by repetitive administrative drudgery or as disposable gig freelancers with zero long-term equity. In stark contrast, challengers invites ambitious global professionals, trade specialists, marketers, and young entrepreneurs across 8 countries to onboard not as mere employees or freelancers, but as International SISTAR Family (SISTAR Challengers).": {
-    "ko": "challengers (challengers.sistarcompany.com)는 자율 AI 시대의 인간 노동에 대한 급진적인 새로운 패러다임인 Vibe Working(\"인간은 아이디어와 통찰에 집중하고, 업무는 AI에게 맡기세요\")을 개시합니다. 기존 기업은 인재를 반복적인 행정 업무에 시달리는 월급쟁이 부속품이나 장기적 지분이 없는 일회용 긱 프리랜서로 취급합니다. 이와 극명하게 대조적으로, challengers는 8개국의 야심 찬 글로벌 전문가, 무역 전문가, 마케터 및 젊은 기업가들을 단순한 직원이나 프리랜서가 아닌 International SISTAR Family (SISTAR Challengers)로 초대합니다.",
-    "id": "challengers (challengers.sistarcompany.com) meresmikan paradigma baru yang radikal untuk pekerjaan manusia di era AI otonom: Vibe Working (\"Manusia fokus pada ide & wawasan; Biarkan AI Anda bekerja\"). Korporasi tradisional memperlakukan talenta baik sebagai sekrup bergaji yang dibebani oleh tugas administratif berulang yang membosankan atau sebagai freelancer gig sekali pakai dengan ekuitas jangka panjang nol. Sebaliknya, challengers mengundang para profesional global yang ambisius, spesialis perdagangan, pemasar, dan pengusaha muda di 8 negara untuk bergabung bukan sebagai karyawan atau freelancer belaka, tetapi sebagai International SISTAR Family (SISTAR Challengers).",
-    "vi": "challengers (challengers.sistarcompany.com) mở ra một mô hình mới mang tính đột phá cho lao động của con người trong kỷ nguyên AI tự trị: Vibe Working (\"Con người tập trung vào ý tưởng và thông tin chi tiết; Hãy để AI của bạn làm việc\"). Các tập đoàn truyền thống coi nhân tài là những mắt xích nhận lương bị đè nặng bởi các công việc hành chính lặp đi lặp lại nhàm chán hoặc là những người làm tự do thời vụ không có cổ phần lâu dài. Ngược lại, challengers mời gọi các chuyên gia toàn cầu đầy tham vọng, các chuyên gia thương mại, nhà tiếp thị và các doanh nhân trẻ tại 8 quốc gia tham gia không chỉ với tư cách là nhân viên hay người làm tự do, mà là International SISTAR Family (SISTAR Challengers).",
-    "zh-CN": "challengers (challengers.sistarcompany.com) 开启了自主 AI 时代人类工作的一种激进新范式：Vibe Working（“人类专注于创意和洞察；让你的 AI 去工作”）。传统公司将人才视为受重复性行政琐事困扰的受薪螺丝钉，或者是长期股权为零的可丢弃零工自由职业者。与之形成鲜明对比的是，challengers 邀请来自 8 个国家的雄心勃勃的全球专业人士、贸易专家、营销人员和年轻企业家加入，他们不仅仅是员工或自由职业者，而是作为 International SISTAR Family (SISTAR Challengers)。",
-    "ja": "challengers (challengers.sistarcompany.com) は、自律型 AI 時代の人間労働における急進的な新しいパラダイム、Vibe Working（「人間はアイデアと洞察に集中し、仕事は AI に任せる」）を開始します。従来の企業は、人材を繰り返しの事務作業に追われる給与労働者の歯車か、長期的な持分がゼロの使い捨てのギグ・フリーランサーとして扱います。対照的に、challengers は 8 か国の野心的なグローバル専門家、貿易スペシャリスト、マーケター、若手起業家を、単なる従業員やフリーランサーとしてではなく、International SISTAR Family (SISTAR Challengers) として招待します。"
+  "challengers (challenger.sistarcompany.com) inaugurates a radical new paradigm for human work in the age of autonomous AI: Vibe Working (\"Human to focus on ideas & insights; Let your AI work\"). Traditional corporations treat talent either as salaried cogs burdened by repetitive administrative drudgery or as disposable gig freelancers with zero long-term equity. In stark contrast, challengers invites ambitious global professionals, trade specialists, marketers, and young entrepreneurs across 8 countries to onboard not as mere employees or freelancers, but as International SISTAR Family (SISTAR Challengers).": {
+    "ko": "challengers (challenger.sistarcompany.com)는 자율 AI 시대의 인간 노동에 대한 급진적인 새로운 패러다임인 Vibe Working(\"인간은 아이디어와 통찰에 집중하고, 업무는 AI에게 맡기세요\")을 개시합니다. 기존 기업은 인재를 반복적인 행정 업무에 시달리는 월급쟁이 부속품이나 장기적 지분이 없는 일회용 긱 프리랜서로 취급합니다. 이와 극명하게 대조적으로, challengers는 8개국의 야심 찬 글로벌 전문가, 무역 전문가, 마케터 및 젊은 기업가들을 단순한 직원이나 프리랜서가 아닌 International SISTAR Family (SISTAR Challengers)로 초대합니다.",
+    "id": "challengers (challenger.sistarcompany.com) meresmikan paradigma baru yang radikal untuk pekerjaan manusia di era AI otonom: Vibe Working (\"Manusia fokus pada ide & wawasan; Biarkan AI Anda bekerja\"). Korporasi tradisional memperlakukan talenta baik sebagai sekrup bergaji yang dibebani oleh tugas administratif berulang yang membosankan atau sebagai freelancer gig sekali pakai dengan ekuitas jangka panjang nol. Sebaliknya, challengers mengundang para profesional global yang ambisius, spesialis perdagangan, pemasar, dan pengusaha muda di 8 negara untuk bergabung bukan sebagai karyawan atau freelancer belaka, tetapi sebagai International SISTAR Family (SISTAR Challengers).",
+    "vi": "challengers (challenger.sistarcompany.com) mở ra một mô hình mới mang tính đột phá cho lao động của con người trong kỷ nguyên AI tự trị: Vibe Working (\"Con người tập trung vào ý tưởng và thông tin chi tiết; Hãy để AI của bạn làm việc\"). Các tập đoàn truyền thống coi nhân tài là những mắt xích nhận lương bị đè nặng bởi các công việc hành chính lặp đi lặp lại nhàm chán hoặc là những người làm tự do thời vụ không có cổ phần lâu dài. Ngược lại, challengers mời gọi các chuyên gia toàn cầu đầy tham vọng, các chuyên gia thương mại, nhà tiếp thị và các doanh nhân trẻ tại 8 quốc gia tham gia không chỉ với tư cách là nhân viên hay người làm tự do, mà là International SISTAR Family (SISTAR Challengers).",
+    "zh-CN": "challengers (challenger.sistarcompany.com) 开启了自主 AI 时代人类工作的一种激进新范式：Vibe Working（“人类专注于创意和洞察；让你的 AI 去工作”）。传统公司将人才视为受重复性行政琐事困扰的受薪螺丝钉，或者是长期股权为零的可丢弃零工自由职业者。与之形成鲜明对比的是，challengers 邀请来自 8 个国家的雄心勃勃的全球专业人士、贸易专家、营销人员和年轻企业家加入，他们不仅仅是员工或自由职业者，而是作为 International SISTAR Family (SISTAR Challengers)。",
+    "ja": "challengers (challenger.sistarcompany.com) は、自律型 AI 時代の人間労働における急進的な新しいパラダイム、Vibe Working（「人間はアイデアと洞察に集中し、仕事は AI に任せる」）を開始します。従来の企業は、人材を繰り返しの事務作業に追われる給与労働者の歯車か、長期的な持分がゼロの使い捨てのギグ・フリーランサーとして扱います。対照的に、challengers は 8 か国の野心的なグローバル専門家、貿易スペシャリスト、マーケター、若手起業家を、単なる従業員やフリーランサーとしてではなく、International SISTAR Family (SISTAR Challengers) として招待します。"
   },
   "Equipped with their own personal AI agent stack from intelligence-core (Ms. Scarlet, SISTAR AB, SISTAR Studio), every Challenger voluntarily participates as an autonomous market player—sourcing cross-border deals, launching local micro-verticals, progressing through the structured S1-S6 Franchise-ship career and equity ladder, sharing directly in net transaction profits, and experiencing the genuine fulfillment of building a global galaxy together.": {
     "ko": "intelligence-core의 개인용 AI 에이전트 스택(Ms. Scarlet, SISTAR AB, SISTAR Studio)을 갖춘 모든 Challenger는 자율적인 시장 참여자로서 자발적으로 참여합니다. 이들은 국경 간 거래를 소싱하고, 로컬 마이크로 버티컬을 런칭하며, 구조화된 S1-S6 Franchise-ship 커리어 및 지분 사다리를 통해 성장하고, 순 거래 이익을 직접 공유하며, 글로벌 성단을 함께 구축하는 진정한 성취감을 경험합니다.",
@@ -23299,12 +23299,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "对于制造商和 ODM 工厂，与 *SC 合作可以获得预先聚合的 Buy4Me 主订单、50% 的预付款以及 K-SURE BNPL 支付担保，且无需任何营销支出。对于宠物医院和药房，它提供了对 SISTAR MedIX AI 诊断、定制 Auto-Formulator 处方配制以及 SISPet/SISPharm 自有品牌收入流的开箱即用访问。对于韩国、印度尼西亚、越南和印度的区域分销商，它提供了由自动化的 SISTAR Studio 本地化营销包支持的独家跨境产品管线。",
     "ja": "製造業者および ODM 工場にとって、*SC との提携は、マーケティング費用ゼロで、事前集約された Buy4Me マスターオーダー、50% の前払金、および K-SURE BNPL 支払い保証を解放します。動物病院や薬局にとっては、SISTAR MedIX AI 診断、カスタム Auto-Formulator 処方調剤、および SISPet/SISPharm プライベートブランド収益源へのターンキーアクセスを提供します。韓国、インドネシア、ベトナム、インドの地域ディストリビューターには、自動化された SISTAR Studio ローカライズマーケティングパッケージに支えられた独占的なクロスボーダー製品パイプラインを提供します。"
   },
-  "ir-pitchdeck (ir.sistarcompany.com) is engineered specifically for Venture Capitalists, Private Equity committees, Family Offices, and Strategic Corporate Investors. Institutional investors evaluating complex AI and cross-border holding architectures require absolute transparency across five core due-diligence dimensions: (1) Total Addressable Market (TAM) & Structural Timing, (2) Proprietary Technological & Mathematical Moat (Qubit Algorithm™ + intelligence-core), (3) Dual-Return Unit Economics (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Physical Volume), (4) Capital-Efficient Scalability via SISTAR Challengers, and (5) Multi-Path Liquidity & Exit Horizons.": {
-    "ko": "ir-pitchdeck (ir.sistarcompany.com)는 벤처 캐피털(VC), 사모펀드(PE) 위원회, 패밀리 오피스 및 전략적 기업 투자자를 위해 설계되었습니다. 복잡한 AI 및 교차 국경 지주 구조를 평가하는 기관 투자자는 다섯 가지 핵심 실사 차원에서 절대적인 투명성을 요구합니다: (1) 전체 시장 규모(TAM) 및 구조적 타이밍, (2) 독점적 기술 및 수학적 해자(Qubit Algorithm™ + intelligence-core), (3) 이중 수익 유닛 이코노믹스(Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 물리적 거래량), (4) SISTAR Challengers를 통한 자본 효율적 확장성, (5) 다중 경로 유동성 및 엑시트 전망.",
-    "id": "ir-pitchdeck (ir.sistarcompany.com) dirancang khusus untuk Venture Capitalist, komite Private Equity, Family Office, dan Investor Korporat Strategis. Investor institusi yang mengevaluasi arsitektur holding AI dan lintas batas yang kompleks memerlukan transparansi mutlak di lima dimensi uji tuntas inti: (1) Total Addressable Market (TAM) & Waktu Struktural, (2) Parit Teknologi & Matematika Milik Sendiri (Qubit Algorithm™ + intelligence-core), (3) Ekonomi Unit Pengembalian Ganda (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Volume Fisik), (4) Skalabilitas Efisien Modal melalui SISTAR Challengers, dan (5) Likuiditas Multi-Jalur & Horizon Exit.",
-    "vi": "ir-pitchdeck (ir.sistarcompany.com) được thiết kế đặc biệt cho các Quỹ đầu tư mạo hiểm (VC), các ủy ban Đầu tư tư nhân (PE), Family Offices và các Nhà đầu tư chiến lược của doanh nghiệp. Các nhà đầu tư tổ chức khi đánh giá cấu trúc nắm giữ AI và xuyên biên giới phức tạp đòi hỏi sự minh bạch tuyệt đối trên năm khía cạnh thẩm định cốt lõi: (1) Tổng thị trường có thể tiếp cận (TAM) & Thời điểm cấu trúc, (2) Hào kỹ thuật & toán học độc quyền (Qubit Algorithm™ + intelligence-core), (3) Kinh tế đơn vị lợi nhuận kép (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Khối lượng vật lý), (4) Khả năng mở rộng hiệu quả vốn thông qua SISTAR Challengers, và (5) Thanh khoản đa kênh & Tầm nhìn thoái vốn.",
-    "zh-CN": "ir-pitchdeck (ir.sistarcompany.com) 专门为风险投资 (VC)、私募股权 (PE) 委员会、家族办公室和战略企业投资者设计。评估复杂的 AI 和跨境控股架构的机构投资者需要在五个核心尽职调查维度上保持绝对透明：(1) 可服务市场总量 (TAM) 和结构性时机，(2) 专有的技术和数学护城河 (Qubit Algorithm™ + intelligence-core)，(3) 双重回报单元经济 (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 实体业务量)，(4) 通过 SISTAR Challengers 实现的资本高效扩张性，以及 (5) 多路径流动性和退出前景。",
-    "ja": "ir-pitchdeck (ir.sistarcompany.com) は、ベンチャーキャピタル、プライベートエクイティ委員会、ファミリーオフィス、および戦略的企業投資家向けに特別に設計されています。複雑な AI およびクロスボーダーのホールディングアーキテクチャを評価する機関投資家は、5 つの主要なデューデリジェンス次元において絶対的な透明性を必要とします：(1) 総獲得可能市場（TAM）と構造的タイミング、(2) 独自の技術的・数学的堀（Qubit Algorithm™ + intelligence-core）、(3) 二重収益ユニットエコノミクス（トラック I 75%〜85% GM B2B SaaS + トラック II 45%〜65% GM 物理的ボリューム）、(4) SISTAR Challengers による資本効率の高い拡張性、(5) マルチパスな流動性と出口戦略。"
+  "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) is engineered specifically for Venture Capitalists, Private Equity committees, Family Offices, and Strategic Corporate Investors. Institutional investors evaluating complex AI and cross-border holding architectures require absolute transparency across five core due-diligence dimensions: (1) Total Addressable Market (TAM) & Structural Timing, (2) Proprietary Technological & Mathematical Moat (Qubit Algorithm™ + intelligence-core), (3) Dual-Return Unit Economics (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Physical Volume), (4) Capital-Efficient Scalability via SISTAR Challengers, and (5) Multi-Path Liquidity & Exit Horizons.": {
+    "ko": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com)는 벤처 캐피털(VC), 사모펀드(PE) 위원회, 패밀리 오피스 및 전략적 기업 투자자를 위해 설계되었습니다. 복잡한 AI 및 교차 국경 지주 구조를 평가하는 기관 투자자는 다섯 가지 핵심 실사 차원에서 절대적인 투명성을 요구합니다: (1) 전체 시장 규모(TAM) 및 구조적 타이밍, (2) 독점적 기술 및 수학적 해자(Qubit Algorithm™ + intelligence-core), (3) 이중 수익 유닛 이코노믹스(Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 물리적 거래량), (4) SISTAR Challengers를 통한 자본 효율적 확장성, (5) 다중 경로 유동성 및 엑시트 전망.",
+    "id": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) dirancang khusus untuk Venture Capitalist, komite Private Equity, Family Office, dan Investor Korporat Strategis. Investor institusi yang mengevaluasi arsitektur holding AI dan lintas batas yang kompleks memerlukan transparansi mutlak di lima dimensi uji tuntas inti: (1) Total Addressable Market (TAM) & Waktu Struktural, (2) Parit Teknologi & Matematika Milik Sendiri (Qubit Algorithm™ + intelligence-core), (3) Ekonomi Unit Pengembalian Ganda (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Volume Fisik), (4) Skalabilitas Efisien Modal melalui SISTAR Challengers, dan (5) Likuiditas Multi-Jalur & Horizon Exit.",
+    "vi": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) được thiết kế đặc biệt cho các Quỹ đầu tư mạo hiểm (VC), các ủy ban Đầu tư tư nhân (PE), Family Offices và các Nhà đầu tư chiến lược của doanh nghiệp. Các nhà đầu tư tổ chức khi đánh giá cấu trúc nắm giữ AI và xuyên biên giới phức tạp đòi hỏi sự minh bạch tuyệt đối trên năm khía cạnh thẩm định cốt lõi: (1) Tổng thị trường có thể tiếp cận (TAM) & Thời điểm cấu trúc, (2) Hào kỹ thuật & toán học độc quyền (Qubit Algorithm™ + intelligence-core), (3) Kinh tế đơn vị lợi nhuận kép (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM Khối lượng vật lý), (4) Khả năng mở rộng hiệu quả vốn thông qua SISTAR Challengers, và (5) Thanh khoản đa kênh & Tầm nhìn thoái vốn.",
+    "zh-CN": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) 专门为风险投资 (VC)、私募股权 (PE) 委员会、家族办公室和战略企业投资者设计。评估复杂的 AI 和跨境控股架构的机构投资者需要在五个核心尽职调查维度上保持绝对透明：(1) 可服务市场总量 (TAM) 和结构性时机，(2) 专有的技术和数学护城河 (Qubit Algorithm™ + intelligence-core)，(3) 双重回报单元经济 (Track I 75%~85% GM B2B SaaS + Track II 45%~65% GM 实体业务量)，(4) 通过 SISTAR Challengers 实现的资本高效扩张性，以及 (5) 多路径流动性和退出前景。",
+    "ja": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) は、ベンチャーキャピタル、プライベートエクイティ委員会、ファミリーオフィス、および戦略的企業投資家向けに特別に設計されています。複雑な AI およびクロスボーダーのホールディングアーキテクチャを評価する機関投資家は、5 つの主要なデューデリジェンス次元において絶対的な透明性を必要とします：(1) 総獲得可能市場（TAM）と構造的タイミング、(2) 独自の技術的・数学的堀（Qubit Algorithm™ + intelligence-core）、(3) 二重収益ユニットエコノミクス（トラック I 75%〜85% GM B2B SaaS + トラック II 45%〜65% GM 物理的ボリューム）、(4) SISTAR Challengers による資本効率の高い拡張性、(5) マルチパスな流動性と出口戦略。"
   },
   "Furthermore, ir-pitchdeck presents flexible, institutional-grade investment structures—allowing capital partners to allocate into *SC Supreme Holding Equity, ring-fenced Project-Specific SPVs (across any of the 15 Founder Projects), or Country-Specific Regional Joint Ventures (JVs) with verifiable real-time ledger visibility via Qubit ERP.": {
     "ko": "또한, ir-pitchdeck은 유연한 기관급 투자 구조를 제시합니다. 자본 파트너는 *SC Supreme Holding Equity, 특정 프로젝트에 국한된 SPV(15개 창립 프로젝트 전반), 또는 Qubit ERP를 통해 실시간 원장 가시성이 검증되는 국가별 지역 합작 투자(JV)에 자본을 할당할 수 있습니다.",
@@ -23313,12 +23313,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "此外，ir-pitchdeck 展示了灵活的机构级投资结构——允许资本合作伙伴分配到 *SC Supreme Holding Equity、隔离的项目特定 SPV（涵盖 15 个创始人项目中的任何一个）或特定国家的区域合资企业 (JV)，并通过 Qubit ERP 提供可验证的实时账本可见性。",
     "ja": "さらに、ir-pitchdeck は柔軟な機関投資家レベルの投資構造を提示します。資本パートナーは、*SC Supreme Holding Equity、リングフェンスされたプロジェクト固有の SPV（15 の創設者プロジェクトのいずれか）、または Qubit ERP を通じて検証可能なリアルタイムの台帳可視性を備えた国別の地域合弁事業（JV）に資金を割り当てることができます。"
   },
-  "biz-directory (directory.sistarcompany.com) is the open, machine-readable B2B directory and structured proposal clearinghouse of the Signal Star Universe. Organized meticulously category by category across veterinary bio-health, functional nutrition, pharmaceutical raw materials, smart packaging, logistics, and AI software services, biz-directory allows any verified global enterprise to publish its corporate profile, production capabilities, and commercial proposals directly into the *SC ecosystem.": {
-    "ko": "biz-directory (directory.sistarcompany.com)는 Signal Star Universe의 개방형 기계 판독 가능 B2B 디렉토리이자 구조화된 제안 청산소입니다. 수의학 바이오 헬스, 기능성 영양제, 제약 원료, 스마트 패키징, 물류 및 AI 소프트웨어 서비스에 이르기까지 카테고리별로 세심하게 정리된 biz-directory를 통해 검증된 글로벌 기업은 기업 프로필, 생산 능력 및 상업적 제안을 *SC 생태계에 직접 게시할 수 있습니다.",
-    "id": "biz-directory (directory.sistarcompany.com) adalah direktori B2B terbuka yang dapat dibaca mesin dan clearinghouse proposal terstruktur dari Signal Star Universe. Disusun dengan teliti kategori demi kategori mulai dari bio-kesehatan hewan, nutrisi fungsional, bahan baku farmasi, pengemasan cerdas, logistik, hingga layanan perangkat lunak AI, biz-directory memungkinkan perusahaan global mana pun yang terverifikasi untuk mempublikasikan profil perusahaan, kemampuan produksi, dan proposal komersial mereka secara langsung ke dalam ekosistem *SC.",
-    "vi": "biz-directory (directory.sistarcompany.com) là danh bạ B2B mở, máy có thể đọc được và là trung tâm xử lý các đề xuất có cấu trúc của Signal Star Universe. Được tổ chức tỉ mỉ theo từng danh mục từ sinh học sức khỏe thú y, dinh dưỡng chức năng, nguyên liệu dược phẩm, bao bì thông minh, logistics đến các dịch vụ phần mềm AI, biz-directory cho phép bất kỳ doanh nghiệp toàn cầu nào đã được xác minh đăng tải hồ sơ công ty, năng lực sản xuất và các đề xuất thương mại trực tiếp vào hệ sinh thái *SC.",
-    "zh-CN": "biz-directory (directory.sistarcompany.com) 是 Signal Star Universe 的开放式、机器可读的 B2B 目录和结构化提案结算中心。biz-directory 按类别精心组织，涵盖兽医生物健康、功能性营养、医药原料、智能包装、物流和 AI 软件服务，允许任何经过验证的全球企业将其公司简介、生产能力和商业提案直接发布到 *SC 生态系统中。",
-    "ja": "biz-directory (directory.sistarcompany.com) は、Signal Star Universe のオープンでマシンリーダブルな B2B ディレクトリおよび構造化されたプロポーザル・クリアリングハウスです。獣医バイオヘルス、機能性栄養、医薬品原料、スマートパッケージング、物流、AI ソフトウェアサービスに至るまで、カテゴリーごとに細心の注意を払って整理されており、検証済みのグローバル企業が自社の企業プロフィール、生産能力、および商業的提案を *SC エコシステムに直接公開することを可能にします。"
+  "biz-directory (biz-directory.sistarcompany.com) is the open, machine-readable B2B directory and structured proposal clearinghouse of the Signal Star Universe. Organized meticulously category by category across veterinary bio-health, functional nutrition, pharmaceutical raw materials, smart packaging, logistics, and AI software services, biz-directory allows any verified global enterprise to publish its corporate profile, production capabilities, and commercial proposals directly into the *SC ecosystem.": {
+    "ko": "biz-directory (biz-directory.sistarcompany.com)는 Signal Star Universe의 개방형 기계 판독 가능 B2B 디렉토리이자 구조화된 제안 청산소입니다. 수의학 바이오 헬스, 기능성 영양제, 제약 원료, 스마트 패키징, 물류 및 AI 소프트웨어 서비스에 이르기까지 카테고리별로 세심하게 정리된 biz-directory를 통해 검증된 글로벌 기업은 기업 프로필, 생산 능력 및 상업적 제안을 *SC 생태계에 직접 게시할 수 있습니다.",
+    "id": "biz-directory (biz-directory.sistarcompany.com) adalah direktori B2B terbuka yang dapat dibaca mesin dan clearinghouse proposal terstruktur dari Signal Star Universe. Disusun dengan teliti kategori demi kategori mulai dari bio-kesehatan hewan, nutrisi fungsional, bahan baku farmasi, pengemasan cerdas, logistik, hingga layanan perangkat lunak AI, biz-directory memungkinkan perusahaan global mana pun yang terverifikasi untuk mempublikasikan profil perusahaan, kemampuan produksi, dan proposal komersial mereka secara langsung ke dalam ekosistem *SC.",
+    "vi": "biz-directory (biz-directory.sistarcompany.com) là danh bạ B2B mở, máy có thể đọc được và là trung tâm xử lý các đề xuất có cấu trúc của Signal Star Universe. Được tổ chức tỉ mỉ theo từng danh mục từ sinh học sức khỏe thú y, dinh dưỡng chức năng, nguyên liệu dược phẩm, bao bì thông minh, logistics đến các dịch vụ phần mềm AI, biz-directory cho phép bất kỳ doanh nghiệp toàn cầu nào đã được xác minh đăng tải hồ sơ công ty, năng lực sản xuất và các đề xuất thương mại trực tiếp vào hệ sinh thái *SC.",
+    "zh-CN": "biz-directory (biz-directory.sistarcompany.com) 是 Signal Star Universe 的开放式、机器可读的 B2B 目录和结构化提案结算中心。biz-directory 按类别精心组织，涵盖兽医生物健康、功能性营养、医药原料、智能包装、物流和 AI 软件服务，允许任何经过验证的全球企业将其公司简介、生产能力和商业提案直接发布到 *SC 生态系统中。",
+    "ja": "biz-directory (biz-directory.sistarcompany.com) は、Signal Star Universe のオープンでマシンリーダブルな B2B ディレクトリおよび構造化されたプロポーザル・クリアリングハウスです。獣医バイオヘルス、機能性栄養、医薬品原料、スマートパッケージング、物流、AI ソフトウェアサービスに至るまで、カテゴリーごとに細心の注意を払って整理されており、検証済みのグローバル企業が自社の企業プロフィール、生産能力、および商業的提案を *SC エコシステムに直接公開することを可能にします。"
   },
   "Every listing and proposal inside biz-directory is automatically indexed by intelligence-core's Company RAG and routed into scarlet-ai (for immediate Buy4Me reverse-auction matching and volume-wise procurement) and qubit-biz (for Cosmo Seed™ cross-project bundling). This architecture transforms a static yellow-pages directory into an active, self-matching B2B liquidity pool.": {
     "ko": "biz-directory 내의 모든 리스팅과 제안은 intelligence-core의 Company RAG에 의해 자동으로 색인화되며, scarlet-ai(즉각적인 Buy4Me 역경매 매칭 및 거래량 기반 조달용) 및 qubit-biz(Cosmo Seed™ 교차 프로젝트 번들링용)로 라우팅됩니다. 이러한 아키텍처는 정적인 옐로우 페이지 디렉토리를 능동적이고 자가 매칭되는 B2B 유동성 풀로 변모시킵니다.",
@@ -23432,19 +23432,19 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "参与者汇集最小起订量 (MOQ)，共同利用 GMP 配方生产线，共享仓库/配送路线，并参与 PetFood Bank Re:D & Mint。",
     "ja": "プレイヤーはMOQを集約し、GMP製剤ラインを共同利用し、倉庫・配送ルートを共有し、PetFood Bank Re:D & Mintに参加します。"
   },
-  "06 • biz-galaxy (biz.sistarcompany.com) [Autonomous Vertical Stars]": {
-    "ko": "06 • biz-galaxy (biz.sistarcompany.com) [자율적 버티컬 스타즈]",
-    "id": "06 • biz-galaxy (biz.sistarcompany.com) [Bintang Vertikal Otonom]",
-    "vi": "06 • biz-galaxy (biz.sistarcompany.com) [Các ngôi sao ngành dọc tự trị]",
-    "zh-CN": "06 • biz-galaxy (biz.sistarcompany.com) [自主垂直之星]",
-    "ja": "06 • biz-galaxy (biz.sistarcompany.com) [自律的バーティカル・スターズ]"
+  "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [Autonomous Vertical Stars]": {
+    "ko": "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [자율적 버티컬 스타즈]",
+    "id": "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [Bintang Vertikal Otonom]",
+    "vi": "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [Các ngôi sao ngành dọc tự trị]",
+    "zh-CN": "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [自主垂直之星]",
+    "ja": "06 • biz-galaxy (biz-galaxy.sistarcompany.com) [自律的バーティカル・スターズ]"
   },
-  "07 • biz-hub (bizhub.sistarcompany.com) [Collective Co-Creation & Shared Infrastructure]": {
-    "ko": "07 • biz-hub (bizhub.sistarcompany.com) [집단적 공동 창조 및 공유 인프라]",
-    "id": "07 • biz-hub (bizhub.sistarcompany.com) [Kreasi Bersama Kolektif & Infrastruktur Bersama]",
-    "vi": "07 • biz-hub (bizhub.sistarcompany.com) [Đồng sáng tạo tập thể & Cơ sở hạ tầng chia sẻ]",
-    "zh-CN": "07 • biz-hub (bizhub.sistarcompany.com) [集体共创与共享基础设施]",
-    "ja": "07 • biz-hub (bizhub.sistarcompany.com) [集団的共創および共有インフラストラクチャ]"
+  "07 • biz-hub (biz-hub.sistarcompany.com) [Collective Co-Creation & Shared Infrastructure]": {
+    "ko": "07 • biz-hub (biz-hub.sistarcompany.com) [집단적 공동 창조 및 공유 인프라]",
+    "id": "07 • biz-hub (biz-hub.sistarcompany.com) [Kreasi Bersama Kolektif & Infrastruktur Bersama]",
+    "vi": "07 • biz-hub (biz-hub.sistarcompany.com) [Đồng sáng tạo tập thể & Cơ sở hạ tầng chia sẻ]",
+    "zh-CN": "07 • biz-hub (biz-hub.sistarcompany.com) [集体共创与共享基础设施]",
+    "ja": "07 • biz-hub (biz-hub.sistarcompany.com) [集団的共創および共有インフラストラクチャ]"
   },
   "Figure 1.1 — Master 6-Layer -> 12-Domain Architectural Blueprint of the Signal Star Universe (*SC), illustrating top-down mathematical governance and continuous quantum entanglement across all 12 web repositories.": {
     "ko": "그림 1.1 — Signal Star Universe(*SC)의 마스터 6계층 -> 12도메인 아키텍처 청사진: 모든 12개 웹 저장소에 걸친 하향식 수학적 거버넌스와 지속적인 양자 얽힘을 설명함.",
@@ -23523,12 +23523,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 02 • 第 1 层数学引擎",
     "ja": "ドメイン 02 • レイヤー1 数学エンジン"
   },
-  "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [Mathematical & Theoretical Engine]": {
-    "ko": "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [수학 및 이론 엔진]",
-    "id": "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [Mesin Matematis & Teoritis]",
-    "vi": "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [Công cụ toán học & lý thuyết]",
-    "zh-CN": "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [数学与理论引擎]",
-    "ja": "qubit-algorithm (qubitalgorithm.sistarcompany.com) — [数学的・理論的エンジン]"
+  "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [Mathematical & Theoretical Engine]": {
+    "ko": "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [수학 및 이론 엔진]",
+    "id": "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [Mesin Matematis & Teoritis]",
+    "vi": "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [Công cụ toán học & lý thuyết]",
+    "zh-CN": "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [数学与理论引擎]",
+    "ja": "qubit-algorithm (qubit-algorithm.sistarcompany.com) — [数学的・理論的エンジン]"
   },
   "CHAPTER III • LAYER 2 — CORE AI ASSET VAULT": {
     "ko": "제3장 • 레이어 2 — 핵심 AI 자산 금고",
@@ -23551,12 +23551,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 03 • 第2层引擎室",
     "ja": "ドメイン03 • レイヤー2 エンジンルーム"
   },
-  "intelligence-core (intelligence.sistarcompany.com) — [The Proprietary AI Asset Vault & Engine Room]": {
-    "ko": "intelligence-core (intelligence.sistarcompany.com) — [독점적 AI 자산 금고 및 엔진룸]",
-    "id": "intelligence-core (intelligence.sistarcompany.com) — [Brankas Aset AI & Ruang Mesin Proprietari]",
-    "vi": "intelligence-core (intelligence.sistarcompany.com) — [Kho Lưu Trữ Tài Sản AI & Phòng Động Cơ Độc Quyền]",
-    "zh-CN": "intelligence-core (intelligence.sistarcompany.com) — [专有 AI 资产库与引擎室]",
-    "ja": "intelligence-core (intelligence.sistarcompany.com) — [独自AIアセット・ヴォルトおよびエンジンルーム]"
+  "intelligence-core (intelligence-core.sistarcompany.com) — [The Proprietary AI Asset Vault & Engine Room]": {
+    "ko": "intelligence-core (intelligence-core.sistarcompany.com) — [독점적 AI 자산 금고 및 엔진룸]",
+    "id": "intelligence-core (intelligence-core.sistarcompany.com) — [Brankas Aset AI & Ruang Mesin Proprietari]",
+    "vi": "intelligence-core (intelligence-core.sistarcompany.com) — [Kho Lưu Trữ Tài Sản AI & Phòng Động Cơ Độc Quyền]",
+    "zh-CN": "intelligence-core (intelligence-core.sistarcompany.com) — [专有 AI 资产库与引擎室]",
+    "ja": "intelligence-core (intelligence-core.sistarcompany.com) — [独自AIアセット・ヴォルトおよびエンジンルーム]"
   },
   "CHAPTER IV • LAYER 3 — DUAL COMMERCIAL PLATFORMS": {
     "ko": "제4장 • 레이어 3 — 이원화된 상업 플랫폼",
@@ -23579,12 +23579,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 04 • 第3层市场枢纽",
     "ja": "ドメイン04 • レイヤー3 マーケットプレイス・ネクサス"
   },
-  "scarlet-ai (scarlet.sistarcompany.com) — [AI Commerce & AI Trade Int'l Marketplace Platform]": {
-    "ko": "scarlet-ai (scarlet.sistarcompany.com) — [AI 커머스 및 AI 무역 국제 마켓플레이스 플랫폼]",
-    "id": "scarlet-ai (scarlet.sistarcompany.com) — [Platform Pasar Internasional Perdagangan AI & Komersial AI]",
-    "vi": "scarlet-ai (scarlet.sistarcompany.com) — [Nền tảng Thị trường Quốc tế Thương mại AI & Thương mại điện tử AI]",
-    "zh-CN": "scarlet-ai (scarlet.sistarcompany.com) — [AI 商务与 AI 贸易国际市场平台]",
-    "ja": "scarlet-ai (scarlet.sistarcompany.com) — [AIコマース & AIトレード国際マーケットプレイス・プラットフォーム]"
+  "scarlet-ai (scarlet-ai.sistarcompany.com) — [AI Commerce & AI Trade Int'l Marketplace Platform]": {
+    "ko": "scarlet-ai (scarlet-ai.sistarcompany.com) — [AI 커머스 및 AI 무역 국제 마켓플레이스 플랫폼]",
+    "id": "scarlet-ai (scarlet-ai.sistarcompany.com) — [Platform Pasar Internasional Perdagangan AI & Komersial AI]",
+    "vi": "scarlet-ai (scarlet-ai.sistarcompany.com) — [Nền tảng Thị trường Quốc tế Thương mại AI & Thương mại điện tử AI]",
+    "zh-CN": "scarlet-ai (scarlet-ai.sistarcompany.com) — [AI 商务与 AI 贸易国际市场平台]",
+    "ja": "scarlet-ai (scarlet-ai.sistarcompany.com) — [AIコマース & AIトレード国際マーケットプレイス・プラットフォーム]"
   },
   "DOMAIN 05 • LAYER 3 VENTURE & CLEARING ENGINE": {
     "ko": "도메인 05 • 레이어 3 벤처 및 클리어링 엔진",
@@ -23593,12 +23593,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 05 • 第3层创业与清算引擎",
     "ja": "ドメイン05 • レイヤー3 ベンチャー & クリアリング・エンジン"
   },
-  "qubit-biz (qubit.sistarcompany.com) — [Cosmo Seed™ Biz Model Showcase & Cross-Project Platform]": {
-    "ko": "qubit-biz (qubit.sistarcompany.com) — [Cosmo Seed™ 비즈니스 모델 쇼케이스 및 크로스 프로젝트 플랫폼]",
-    "id": "qubit-biz (qubit.sistarcompany.com) — [Showcase Model Bisnis Cosmo Seed™ & Platform Lintas Proyek]",
-    "vi": "qubit-biz (qubit.sistarcompany.com) — [Trưng bày Mô hình Kinh doanh Cosmo Seed™ & Nền tảng Liên dự án]",
-    "zh-CN": "qubit-biz (qubit.sistarcompany.com) — [Cosmo Seed™ 商业模式展示与跨项目平台]",
-    "ja": "qubit-biz (qubit.sistarcompany.com) — [Cosmo Seed™ ビジネスモデル・ショーケース & クロスプロジェクト・プラットフォーム]"
+  "qubit-biz (qubit-biz.sistarcompany.com) — [Cosmo Seed™ Biz Model Showcase & Cross-Project Platform]": {
+    "ko": "qubit-biz (qubit-biz.sistarcompany.com) — [Cosmo Seed™ 비즈니스 모델 쇼케이스 및 크로스 프로젝트 플랫폼]",
+    "id": "qubit-biz (qubit-biz.sistarcompany.com) — [Showcase Model Bisnis Cosmo Seed™ & Platform Lintas Proyek]",
+    "vi": "qubit-biz (qubit-biz.sistarcompany.com) — [Trưng bày Mô hình Kinh doanh Cosmo Seed™ & Nền tảng Liên dự án]",
+    "zh-CN": "qubit-biz (qubit-biz.sistarcompany.com) — [Cosmo Seed™ 商业模式展示与跨项目平台]",
+    "ja": "qubit-biz (qubit-biz.sistarcompany.com) — [Cosmo Seed™ ビジネスモデル・ショーケース & クロスプロジェクト・プラットフォーム]"
   },
   "CHAPTER V • LAYER 4 — ECOSYSTEM ARENAS": {
     "ko": "제5장 • 레이어 4 — 생태계 아레나",
@@ -23621,12 +23621,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 06 • 第4层垂直星座",
     "ja": "ドメイン06 • レイヤー4 バーティカル・コンステレーション"
   },
-  "biz-galaxy (biz.sistarcompany.com) — [The Shining Constellation of Verticals & Players]": {
-    "ko": "biz-galaxy (biz.sistarcompany.com) — [버티컬 및 플레이어들의 빛나는 성단]",
-    "id": "biz-galaxy (biz.sistarcompany.com) — [Konstelasi Vertikal & Pemain yang Bersinar]",
-    "vi": "biz-galaxy (biz.sistarcompany.com) — [Chòm sao Sáng chói của các Ngành dọc & Người chơi]",
-    "zh-CN": "biz-galaxy (biz.sistarcompany.com) — [垂直领域与参与者的璀璨星座]",
-    "ja": "biz-galaxy (biz.sistarcompany.com) — [バーティカルとプレイヤーの輝く星座]"
+  "biz-galaxy (biz-galaxy.sistarcompany.com) — [The Shining Constellation of Verticals & Players]": {
+    "ko": "biz-galaxy (biz-galaxy.sistarcompany.com) — [버티컬 및 플레이어들의 빛나는 성단]",
+    "id": "biz-galaxy (biz-galaxy.sistarcompany.com) — [Konstelasi Vertikal & Pemain yang Bersinar]",
+    "vi": "biz-galaxy (biz-galaxy.sistarcompany.com) — [Chòm sao Sáng chói của các Ngành dọc & Người chơi]",
+    "zh-CN": "biz-galaxy (biz-galaxy.sistarcompany.com) — [垂直领域与参与者的璀璨星座]",
+    "ja": "biz-galaxy (biz-galaxy.sistarcompany.com) — [バーティカルとプレイヤーの輝く星座]"
   },
   "DOMAIN 07 • LAYER 4 CO-CREATION GRAVITY CENTER": {
     "ko": "도메인 07 • 레이어 4 공동 창조 중력 센터",
@@ -23635,12 +23635,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 07 • 第4层共创引力中心",
     "ja": "ドメイン07 • レイヤー4 共創グラビティ・センター"
   },
-  "biz-hub (bizhub.sistarcompany.com) — [The \"Together\" Co-Creation Hub]": {
-    "ko": "biz-hub (bizhub.sistarcompany.com) — [\"함께\"하는 공동 창조 허브]",
-    "id": "biz-hub (bizhub.sistarcompany.com) — [Hub Kreasi Bersama \"Bersama\"]",
-    "vi": "biz-hub (bizhub.sistarcompany.com) — [Trung tâm Đồng sáng tạo \"Cùng nhau\"]",
-    "zh-CN": "biz-hub (bizhub.sistarcompany.com) — [“携手”共创枢纽]",
-    "ja": "biz-hub (bizhub.sistarcompany.com) — [「共に」創る共創ハブ]"
+  "biz-hub (biz-hub.sistarcompany.com) — [The \"Together\" Co-Creation Hub]": {
+    "ko": "biz-hub (biz-hub.sistarcompany.com) — [\"함께\"하는 공동 창조 허브]",
+    "id": "biz-hub (biz-hub.sistarcompany.com) — [Hub Kreasi Bersama \"Bersama\"]",
+    "vi": "biz-hub (biz-hub.sistarcompany.com) — [Trung tâm Đồng sáng tạo \"Cùng nhau\"]",
+    "zh-CN": "biz-hub (biz-hub.sistarcompany.com) — [“携手”共创枢纽]",
+    "ja": "biz-hub (biz-hub.sistarcompany.com) — [「共に」創る共創ハブ]"
   },
   "CHAPTER VI • LAYER 5 — 3-PILLAR PARTICIPANTS": {
     "ko": "제6장 • 레이어 5 — 3대 핵심 참여자",
@@ -23663,12 +23663,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 08 • 第5层人才与加盟支柱",
     "ja": "ドメイン08 • レイヤー5 タレント & フランチャイズの柱"
   },
-  "challengers (challengers.sistarcompany.com) — [International SISTAR Family & Vibe Working Onboarding]": {
-    "ko": "challengers (challengers.sistarcompany.com) — [글로벌 SISTAR 패밀리 및 Vibe Working 온보딩]",
-    "id": "challengers (challengers.sistarcompany.com) — [Keluarga SISTAR Internasional & Onboarding Vibe Working]",
-    "vi": "challengers (challengers.sistarcompany.com) — [Gia đình SISTAR Quốc tế & Quy trình Gia nhập Vibe Working]",
-    "zh-CN": "challengers (challengers.sistarcompany.com) — [国际 SISTAR 家族与 Vibe Working 入职培训]",
-    "ja": "challengers (challengers.sistarcompany.com) — [グローバル SISTAR ファミリー & Vibe Working オンボーディング]"
+  "challengers (challenger.sistarcompany.com) — [International SISTAR Family & Vibe Working Onboarding]": {
+    "ko": "challengers (challenger.sistarcompany.com) — [글로벌 SISTAR 패밀리 및 Vibe Working 온보딩]",
+    "id": "challengers (challenger.sistarcompany.com) — [Keluarga SISTAR Internasional & Onboarding Vibe Working]",
+    "vi": "challengers (challenger.sistarcompany.com) — [Gia đình SISTAR Quốc tế & Quy trình Gia nhập Vibe Working]",
+    "zh-CN": "challengers (challenger.sistarcompany.com) — [国际 SISTAR 家族与 Vibe Working 入职培训]",
+    "ja": "challengers (challenger.sistarcompany.com) — [グローバル SISTAR ファミリー & Vibe Working オンボーディング]"
   },
   "DOMAIN 09 • LAYER 5 COMMERCIAL COUNTERPARTY PILLAR": {
     "ko": "도메인 09 • 레이어 5 커머셜 카운터파티 필러",
@@ -23691,12 +23691,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 10 • 第 5 层 机构资本支柱",
     "ja": "ドメイン 10 • レイヤー 5 機関投資家資本ピラー"
   },
-  "ir-pitchdeck (ir.sistarcompany.com) — [VC & Institutional Investment Conviction Hub]": {
-    "ko": "ir-pitchdeck (ir.sistarcompany.com) — [VC 및 기관 투자 확신 허브]",
-    "id": "ir-pitchdeck (ir.sistarcompany.com) — [Pusat Keyakinan Investasi VC & Institusional]",
-    "vi": "ir-pitchdeck (ir.sistarcompany.com) — [Trung Tâm Thuyết Phục Đầu Tư VC & Thể Chế]",
-    "zh-CN": "ir-pitchdeck (ir.sistarcompany.com) — [VC 与机构投资信心枢纽]",
-    "ja": "ir-pitchdeck (ir.sistarcompany.com) — [VC・機関投資家投資確信ハブ]"
+  "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [VC & Institutional Investment Conviction Hub]": {
+    "ko": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [VC 및 기관 투자 확신 허브]",
+    "id": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [Pusat Keyakinan Investasi VC & Institusional]",
+    "vi": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [Trung Tâm Thuyết Phục Đầu Tư VC & Thể Chế]",
+    "zh-CN": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [VC 与机构投资信心枢纽]",
+    "ja": "ir-pitchdeck (ir-pitchdeck.sistarcompany.com) — [VC・機関投資家投資確信ハブ]"
   },
   "CHAPTER VII • LAYER 6 — OPEN DIRECTORY & MEDIA FORGE": {
     "ko": "제7장 • 레이어 6 — 오픈 디렉토리 및 미디어 포지",
@@ -23719,12 +23719,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "领域 11 • 第 6 层 开放式 B2B 流动性门户",
     "ja": "ドメイン 11 • レイヤー 6 オープン B2B 流動性ゲートウェイ"
   },
-  "biz-directory (directory.sistarcompany.com) — [Open B2B Proposal & Corporate Directory]": {
-    "ko": "biz-directory (directory.sistarcompany.com) — [오픈 B2B 제안 및 기업 디렉토리]",
-    "id": "biz-directory (directory.sistarcompany.com) — [Proposal B2B Terbuka & Direktori Perusahaan]",
-    "vi": "biz-directory (directory.sistarcompany.com) — [Đề Xuất B2B Mở & Danh Bạ Doanh Nghiệp]",
-    "zh-CN": "biz-directory (directory.sistarcompany.com) — [开放式 B2B 提案与企业名录]",
-    "ja": "biz-directory (directory.sistarcompany.com) — [オープン B2B プロポーザル＆企業ディレクトリ]"
+  "biz-directory (biz-directory.sistarcompany.com) — [Open B2B Proposal & Corporate Directory]": {
+    "ko": "biz-directory (biz-directory.sistarcompany.com) — [오픈 B2B 제안 및 기업 디렉토리]",
+    "id": "biz-directory (biz-directory.sistarcompany.com) — [Proposal B2B Terbuka & Direktori Perusahaan]",
+    "vi": "biz-directory (biz-directory.sistarcompany.com) — [Đề Xuất B2B Mở & Danh Bạ Doanh Nghiệp]",
+    "zh-CN": "biz-directory (biz-directory.sistarcompany.com) — [开放式 B2B 提案与企业名录]",
+    "ja": "biz-directory (biz-directory.sistarcompany.com) — [オープン B2B プロポーザル＆企業ディレクトリ]"
   },
   "DOMAIN 12 • LAYER 6 CONTENT FORGE & PRESS ARCHIVE": {
     "ko": "도메인 12 • 레이어 6 콘텐츠 포지 및 프레스 아카이브",
@@ -23852,33 +23852,33 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "域名：sistarcompany.com, partnership, ir-pitchdeck。承载公司治理、四大支柱 (4 Pillars) 学说、投资者关系以及 8 个国际基地的全球 B2B 合作伙伴入驻。",
     "ja": "ドメイン: sistarcompany.com, partnership, ir-pitchdeck。コーポレートガバナンス、4つの柱 (4 Pillars) ドクトリン、投資家情報 (IR)、および 8 つの国際拠点にわたるグローバル B2B パートナーシップのオンボーディングを管理します。"
   },
-  "Domain: qubitalgorithm.sistarcompany.com. Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
-    "ko": "도메인: qubitalgorithm.sistarcompany.com. 당사의 수리 물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거 및 WKB 터널링 증명을 게시합니다.",
-    "id": "Domain: qubitalgorithm.sistarcompany.com. Menerbitkan whitepaper fisika matematika kami, model superposisi ruang Hilbert, pemicu keterikatan status Bell, dan bukti tunneling WKB.",
-    "vi": "Tên miền: qubitalgorithm.sistarcompany.com. Xuất bản các sách trắng vật lý toán học, mô hình chồng chập không gian Hilbert, các kích hoạt vướng mắc trạng thái Bell và các bằng chứng đường hầm WKB của chúng tôi.",
-    "zh-CN": "域名：qubitalgorithm.sistarcompany.com。发布我们的数学物理白皮书、希尔伯特空间叠加模型、贝尔态纠缠触发器和 WKB 隧穿证明。",
-    "ja": "ドメイン: qubitalgorithm.sistarcompany.com。当社の数理物理学ホワイトペーパー、ヒルベルト空間重ね合わせモデル、ベル状態もつれトリガー、および WKB トンネル効果の証明を公開します。"
+  "Domain: qubit-algorithm.sistarcompany.com. Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
+    "ko": "도메인: qubit-algorithm.sistarcompany.com. 당사의 수리 물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거 및 WKB 터널링 증명을 게시합니다.",
+    "id": "Domain: qubit-algorithm.sistarcompany.com. Menerbitkan whitepaper fisika matematika kami, model superposisi ruang Hilbert, pemicu keterikatan status Bell, dan bukti tunneling WKB.",
+    "vi": "Tên miền: qubit-algorithm.sistarcompany.com. Xuất bản các sách trắng vật lý toán học, mô hình chồng chập không gian Hilbert, các kích hoạt vướng mắc trạng thái Bell và các bằng chứng đường hầm WKB của chúng tôi.",
+    "zh-CN": "域名：qubit-algorithm.sistarcompany.com。发布我们的数学物理白皮书、希尔伯特空间叠加模型、贝尔态纠缠触发器和 WKB 隧穿证明。",
+    "ja": "ドメイン: qubit-algorithm.sistarcompany.com。当社の数理物理学ホワイトペーパー、ヒルベルト空間重ね合わせモデル、ベル状態もつれトリガー、および WKB トンネル効果の証明を公開します。"
   },
-  "Domains: intelligence.sistarcompany.com, media. Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post, and SISTAR Studio.": {
-    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 및 SISTAR Studio를 운영합니다.",
-    "id": "Domain: intelligence.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
-    "vi": "Tên miền: intelligence.sistarcompany.com, media. Vận hành *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
-    "zh-CN": "域名：intelligence.sistarcompany.com, media。运营 *SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post 和 SISTAR Studio。",
-    "ja": "ドメイン: intelligence.sistarcompany.com, media。*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post、および SISTAR Studio を運営します。"
+  "Domains: intelligence-core.sistarcompany.com, media. Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post, and SISTAR Studio.": {
+    "ko": "도메인: intelligence-core.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 및 SISTAR Studio를 운영합니다.",
+    "id": "Domain: intelligence-core.sistarcompany.com, media. Mengoperasikan *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post, dan SISTAR Studio.",
+    "vi": "Tên miền: intelligence-core.sistarcompany.com, media. Vận hành *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post và SISTAR Studio.",
+    "zh-CN": "域名：intelligence-core.sistarcompany.com, media。运营 *SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post 和 SISTAR Studio。",
+    "ja": "ドメイン: intelligence-core.sistarcompany.com, media。*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post、および SISTAR Studio を運営します。"
   },
-  "Domain: scarlet.sistarcompany.com. Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy, and vertical portals (petclinic., ayurvedic.).": {
-    "ko": "도메인: scarlet.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동 구매, sisCart NearBuy 및 수직적 포털(petclinic., ayurvedic.)을 구동합니다.",
-    "id": "Domain: scarlet.sistarcompany.com. Mendorong perdagangan B2B/D2C percakapan, penutupan Ms. Scarlet 24/7, pembelian grup Buy4Me, sisCart NearBuy, dan portal vertikal (petclinic., ayurvedic.).",
-    "vi": "Tên miền: scarlet.sistarcompany.com. Thúc đẩy thương mại B2B/D2C hội thoại, chốt đơn Ms. Scarlet 24/7, mua chung Buy4Me, sisCart NearBuy và các cổng thông tin dọc (petclinic., ayurvedic.).",
-    "zh-CN": "域名：scarlet.sistarcompany.com。驱动对话式 B2B/D2C 商务、Ms. Scarlet 24/7 成交、Buy4Me 团购、sisCart NearBuy 以及垂直门户（petclinic., ayurvedic.）。",
-    "ja": "ドメイン: scarlet.sistarcompany.com。対話型 B2B/D2C コマース、Ms. Scarlet による 24/7 クロージング、Buy4Me 共同購入、sisCart NearBuy、および垂直ポータル (petclinic., ayurvedic.) を推進します。"
+  "Domain: scarlet-ai.sistarcompany.com. Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy, and vertical portals (petclinic., ayurvedic.).": {
+    "ko": "도메인: scarlet-ai.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동 구매, sisCart NearBuy 및 수직적 포털(petclinic., ayurvedic.)을 구동합니다.",
+    "id": "Domain: scarlet-ai.sistarcompany.com. Mendorong perdagangan B2B/D2C percakapan, penutupan Ms. Scarlet 24/7, pembelian grup Buy4Me, sisCart NearBuy, dan portal vertikal (petclinic., ayurvedic.).",
+    "vi": "Tên miền: scarlet-ai.sistarcompany.com. Thúc đẩy thương mại B2B/D2C hội thoại, chốt đơn Ms. Scarlet 24/7, mua chung Buy4Me, sisCart NearBuy và các cổng thông tin dọc (petclinic., ayurvedic.).",
+    "zh-CN": "域名：scarlet-ai.sistarcompany.com。驱动对话式 B2B/D2C 商务、Ms. Scarlet 24/7 成交、Buy4Me 团购、sisCart NearBuy 以及垂直门户（petclinic., ayurvedic.）。",
+    "ja": "ドメイン: scarlet-ai.sistarcompany.com。対話型 B2B/D2C コマース、Ms. Scarlet による 24/7 クロージング、Buy4Me 共同購入、sisCart NearBuy、および垂直ポータル (petclinic., ayurvedic.) を推進します。"
   },
-  "Domain: qubit.sistarcompany.com. Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
-    "ko": "도메인: qubit.sistarcompany.com. B2B 컨테이너 물량 거래, K-SURE BNPL 무역 금융, 4-Way Qubit Offsetting 바터 거래 및 Qubit Bank(시간/공간/아이디어/펫푸드)를 총괄합니다.",
-    "id": "Domain: qubit.sistarcompany.com. Memerintahkan kesepakatan volume kontainer B2B, pembiayaan perdagangan K-SURE BNPL, barter 4-Way Qubit Offsetting, dan Qubit Bank (Waktu/Ruang/Ide/Makanan Hewan).",
-    "vi": "Tên miền: qubit.sistarcompany.com. Chỉ huy các giao dịch khối lượng container B2B, tài trợ thương mại K-SURE BNPL, hàng đổi hàng 4-Way Qubit Offsetting và Qubit Bank (Thời gian/Không gian/Ý tưởng/Thức ăn thú cưng).",
-    "zh-CN": "域名：qubit.sistarcompany.com。指挥 B2B 集装箱大宗交易、K-SURE BNPL 贸易融资、4-Way Qubit Offsetting 物物交换以及 Qubit Bank（时间/空间/创意/宠物食品）。",
-    "ja": "ドメイン: qubit.sistarcompany.com。B2B コンテナボリューム取引、K-SURE BNPL 貿易金融、4-Way Qubit Offsetting バーター取引、および Qubit Bank (時間/空間/アイデア/ペットフード) を統括します。"
+  "Domain: qubit-biz.sistarcompany.com. Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
+    "ko": "도메인: qubit-biz.sistarcompany.com. B2B 컨테이너 물량 거래, K-SURE BNPL 무역 금융, 4-Way Qubit Offsetting 바터 거래 및 Qubit Bank(시간/공간/아이디어/펫푸드)를 총괄합니다.",
+    "id": "Domain: qubit-biz.sistarcompany.com. Memerintahkan kesepakatan volume kontainer B2B, pembiayaan perdagangan K-SURE BNPL, barter 4-Way Qubit Offsetting, dan Qubit Bank (Waktu/Ruang/Ide/Makanan Hewan).",
+    "vi": "Tên miền: qubit-biz.sistarcompany.com. Chỉ huy các giao dịch khối lượng container B2B, tài trợ thương mại K-SURE BNPL, hàng đổi hàng 4-Way Qubit Offsetting và Qubit Bank (Thời gian/Không gian/Ý tưởng/Thức ăn thú cưng).",
+    "zh-CN": "域名：qubit-biz.sistarcompany.com。指挥 B2B 集装箱大宗交易、K-SURE BNPL 贸易融资、4-Way Qubit Offsetting 物物交换以及 Qubit Bank（时间/空间/创意/宠物食品）。",
+    "ja": "ドメイン: qubit-biz.sistarcompany.com。B2B コンテナボリューム取引、K-SURE BNPL 貿易金融、4-Way Qubit Offsetting バーター取引、および Qubit Bank (時間/空間/アイデア/ペットフード) を統括します。"
   },
   "Domains: biz, bizhub, challengers, biz-directory. Scales Vet Specialties (MedIX, SISPet, SISPharm), Auto-Formulator, Mind Company, and Sistar Challengers Int’l.": {
     "ko": "도메인: biz, bizhub, challengers, biz-directory. 수의학 전문 분야(MedIX, SISPet, SISPharm), Auto-Formulator, Mind Company 및 Sistar Challengers Int’l을 확장합니다.",
@@ -24643,12 +24643,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "创始人项目 12 • AI 电子商务国际平台",
     "ja": "ファウンダープロジェクト 12 • AI コマース国際プラットフォーム"
   },
-  "Primary Nodes: scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)": {
-    "ko": "주요 노드: scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)",
-    "id": "Node Utama: scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)",
-    "vi": "Các nút chính: scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)",
-    "zh-CN": "主要节点：scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)",
-    "ja": "主要ノード: scarlet-ai (scarlet.sistarcompany.com / sisMall.ai)"
+  "Primary Nodes: scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)": {
+    "ko": "주요 노드: scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)",
+    "id": "Node Utama: scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)",
+    "vi": "Các nút chính: scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)",
+    "zh-CN": "主要节点：scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)",
+    "ja": "主要ノード: scarlet-ai (scarlet-ai.sistarcompany.com / sisMall.ai)"
   },
   "FOUNDER PROJECT 13 • AI TRADE INTERNATIONAL PLATFORM": {
     "ko": "파운더 프로젝트 13 • AI 무역 국제 플랫폼",
@@ -24657,12 +24657,12 @@ window.SC_TRANSLATIONS = {
     "zh-CN": "创始人项目 13 • AI 贸易国际平台",
     "ja": "ファウンダープロジェクト 13 • AI 貿易国際プラットフォーム"
   },
-  "Primary Nodes: qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)": {
-    "ko": "주요 노드: qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)",
-    "id": "Node Utama: qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)",
-    "vi": "Các nút chính: qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)",
-    "zh-CN": "主要节点：qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)",
-    "ja": "主要ノード：qubit-biz (qubit.sistarcompany.com / Qubit Link & Flow)"
+  "Primary Nodes: qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)": {
+    "ko": "주요 노드: qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)",
+    "id": "Node Utama: qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)",
+    "vi": "Các nút chính: qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)",
+    "zh-CN": "主要节点：qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)",
+    "ja": "主要ノード：qubit-biz (qubit-biz.sistarcompany.com / Qubit Link & Flow)"
   },
   "TIER IV • HYPER-GROWTH LAUNCHPAD & GTM MULTIPLIERS (PROJECTS 14–15)": {
     "ko": "TIER IV • 초고성능 성장 런치패드 및 GTM 멀티플라이어 (프로젝트 14–15)",
