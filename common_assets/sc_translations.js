@@ -38551,5 +38551,278 @@ window.SC_TRANSLATIONS = {
     "vi": "Tập đoàn siêu thị, hiệp hội bệnh viện thú y quốc gia",
     "zh-CN": "超市财团、全国兽医院协会",
     "ja": "スーパーマーケット・コングロマリット、全国動物病院協会"
+  },
+  "executive summary": {
+    "ko": "executive summary",
+    "id": "executive summary",
+    "vi": "executive summary",
+    "zh-CN": "executive summary",
+    "ja": "executive summary"
+  },
+  "[Open Letter] Our Answer to the Question: \"How Can You Possibly Manage All of These Projects Simultaneously?\"": {
+    "ko": "[Open Letter] \"어떻게 이 많은 사업을 동시에 다 할 수 있습니까?\"라는 질문에 대한 우리의 대답",
+    "id": "[Open Letter] Our Answer to the Question: \"How Can You Possibly Manage All of These Projects Simultaneously?\"",
+    "vi": "[Open Letter] Our Answer to the Question: \"How Can You Possibly Manage All of These Projects Simultaneously?\"",
+    "zh-CN": "[Open Letter] Our Answer to the Question: \"How Can You Possibly Manage All of These Projects Simultaneously?\"",
+    "ja": "[Open Letter] Our Answer to the Question: \"How Can You Possibly Manage All of These Projects Simultaneously?\""
+  },
+  "Dear Esteemed Business Partner Presidents and Visionary Investors,": {
+    "ko": "존경하는 비즈니스 파트너 대표님, 그리고 현명한 투자자 여러분께 (Dear Esteemed Presidents, Partners, and Visionary Investors,)",
+    "id": "Dear Esteemed Business Partner Presidents and Visionary Investors,",
+    "vi": "Dear Esteemed Business Partner Presidents and Visionary Investors,",
+    "zh-CN": "Dear Esteemed Business Partner Presidents and Visionary Investors,",
+    "ja": "Dear Esteemed Business Partner Presidents and Visionary Investors,"
+  },
+  "Greetings from *SC (SISTAR Company — Signal Star Universe).": {
+    "ko": "안녕하십니까. *SC (SISTAR Company — Signal Star Universe) 입니다.",
+    "id": "Greetings from *SC (SISTAR Company — Signal Star Universe).",
+    "vi": "Greetings from *SC (SISTAR Company — Signal Star Universe).",
+    "zh-CN": "Greetings from *SC (SISTAR Company — Signal Star Universe).",
+    "ja": "Greetings from *SC (SISTAR Company — Signal Star Universe)."
+  },
+  "Whenever domestic and international partner executives or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 foundational Founder Projects, and our 12-domain Business Galaxy, they inevitably ask one sharp, fundamental question:": {
+    "ko": "최근 저희의 *SC 마스터 브로슈어(SC Master Brochure)와 15개의 핵심 과제를 담은 창립자 프로젝트(Founder Projects), 그리고 12개 도메인으로 이루어진 비즈니스 은하계(Business Galaxy)를 처음 접하신 국내외 파트너사 대표님들과 VC 심사역분들께서는 예외 없이 단 하나의 날카로운 질문을 던지십니다.",
+    "id": "Whenever domestic and international partner executives or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 foundational Founder Projects, and our 12-domain Business Galaxy, they inevitably ask one sharp, fundamental question:",
+    "vi": "Whenever domestic and international partner executives or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 foundational Founder Projects, and our 12-domain Business Galaxy, they inevitably ask one sharp, fundamental question:",
+    "zh-CN": "Whenever domestic and international partner executives or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 foundational Founder Projects, and our 12-domain Business Galaxy, they inevitably ask one sharp, fundamental question:",
+    "ja": "Whenever domestic and international partner executives or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 foundational Founder Projects, and our 12-domain Business Galaxy, they inevitably ask one sharp, fundamental question:"
+  },
+  "\"The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?\"": {
+    "ko": "\"아이디어와 비전은 놀랍습니다. 하지만 현실적으로 이 많은 프로젝트를 어떻게 동시에 다 관리할 수 있습니까? 너무 마구잡이식(문어발식) 확장이 아닙니까?\"",
+    "id": "\"The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?\"",
+    "vi": "\"The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?\"",
+    "zh-CN": "\"The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?\"",
+    "ja": "\"The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?\""
+  },
+  "If we were attempting to execute these initiatives using the conventional approach—hiring dozens of new staff for every project, deploying massive upfront capital to build isolated factories and warehouses, and passing documents step-by-step under Classical Newtonian Linear Business Rules (A -> B -> C)—your concern would be 100% valid. It would not merely be difficult; it would be guaranteed to fail.": {
+    "ko": "만약 저희가 과거의 전통적인 방식—즉, 프로젝트마다 수십 명의 직원을 새로 채용하고, 막대한 초기 자본을 들여 공장과 창고를 짓고, 단계별로 서류를 넘기는 ‘고전적 선형 비즈니스(Newtonian Linear Business: A -> B -> C)’ 방식으로 이 일들을 하려 했다면, 대표님의 우려가 100% 맞습니다. 불가능할뿐더러 반드시 실패할 것입니다.",
+    "id": "If we were attempting to execute these initiatives using the conventional approach—hiring dozens of new staff for every project, deploying massive upfront capital to build isolated factories and warehouses, and passing documents step-by-step under Classical Newtonian Linear Business Rules (A -> B -> C)—your concern would be 100% valid. It would not merely be difficult; it would be guaranteed to fail.",
+    "vi": "If we were attempting to execute these initiatives using the conventional approach—hiring dozens of new staff for every project, deploying massive upfront capital to build isolated factories and warehouses, and passing documents step-by-step under Classical Newtonian Linear Business Rules (A -> B -> C)—your concern would be 100% valid. It would not merely be difficult; it would be guaranteed to fail.",
+    "zh-CN": "If we were attempting to execute these initiatives using the conventional approach—hiring dozens of new staff for every project, deploying massive upfront capital to build isolated factories and warehouses, and passing documents step-by-step under Classical Newtonian Linear Business Rules (A -> B -> C)—your concern would be 100% valid. It would not merely be difficult; it would be guaranteed to fail.",
+    "ja": "If we were attempting to execute these initiatives using the conventional approach—hiring dozens of new staff for every project, deploying massive upfront capital to build isolated factories and warehouses, and passing documents step-by-step under Classical Newtonian Linear Business Rules (A -> B -> C)—your concern would be 100% valid. It would not merely be difficult; it would be guaranteed to fail."
+  },
+  "However, we are NOT running 15 separate, unrelated businesses. We have engineered a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).": {
+    "ko": "하지만 저희는 15개의 서로 다른 사업을 벌이고 있는 것이 아닙니다. 단 하나의 수리적·기술적 핵심 원리(Qubit Algorithm™ & AI Intelligence-Core)를 구축하고, 그 하나의 엔진이 서로 다른 산업 좌표에서 동시에 발현(One Spark, Infinite Galaxifying)되도록 설계한 것입니다.",
+    "id": "However, we are NOT running 15 separate, unrelated businesses. We have engineered a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "vi": "However, we are NOT running 15 separate, unrelated businesses. We have engineered a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "zh-CN": "However, we are NOT running 15 separate, unrelated businesses. We have engineered a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "ja": "However, we are NOT running 15 separate, unrelated businesses. We have engineered a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying)."
+  },
+  "Through this open letter, we wish to share the four definitive proofs of why our architecture is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies required to operate this vast ecosystem in reality.": {
+    "ko": "이 짧은 편지를 통해 왜 이것이 문어발식 확장이 아닌 ‘AI 시대의 필연적인 비즈니스 표준’인지, 그리고 왜 *SC만이 이 거대한 생태계를 현실로 구동할 수 있는지 그 4가지 확실한 근거를 말씀드리고자 합니다.",
+    "id": "Through this open letter, we wish to share the four definitive proofs of why our architecture is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies required to operate this vast ecosystem in reality.",
+    "vi": "Through this open letter, we wish to share the four definitive proofs of why our architecture is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies required to operate this vast ecosystem in reality.",
+    "zh-CN": "Through this open letter, we wish to share the four definitive proofs of why our architecture is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies required to operate this vast ecosystem in reality.",
+    "ja": "Through this open letter, we wish to share the four definitive proofs of why our architecture is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies required to operate this vast ecosystem in reality."
+  },
+  "1. Paradigm Shift: From Newtonian Sequential Rules to Quantum Simultaneity (Qubit Algorithm™)": {
+    "ko": "1. 패러다임의 전환: 뉴턴의 순차적 법칙에서 『양자역학적 동시성(Qubit Algorithm™)』으로",
+    "id": "1. Paradigm Shift: From Newtonian Sequential Rules to Quantum Simultaneity (Qubit Algorithm™)",
+    "vi": "1. Paradigm Shift: From Newtonian Sequential Rules to Quantum Simultaneity (Qubit Algorithm™)",
+    "zh-CN": "1. Paradigm Shift: From Newtonian Sequential Rules to Quantum Simultaneity (Qubit Algorithm™)",
+    "ja": "1. Paradigm Shift: From Newtonian Sequential Rules to Quantum Simultaneity (Qubit Algorithm™)"
+  },
+  "Conventional trade and business remain trapped in sequential friction and time delay (Delta t > 0): Capital Injection -> Manufacturing -> Customs -> Distribution -> Settlement. Yet the moment autonomous AI is integrated into business architecture, commerce transcends the limits of classical physics and operates according to the core principles of Quantum Mechanics.": {
+    "ko": "기존의 무역과 비즈니스는 자본 투입 -> 제조 -> 통관 -> 유통 -> 정산으로 이어지는 순차적 마찰과 시간 지연(Delta t > 0)에 갇혀 있습니다. 그러나 자율형 AI가 접목되는 순간, 비즈니스는 고전 물리학의 한계를 넘어 양자역학(Quantum Mechanics)의 핵심 원리로 작동할 수 있습니다.",
+    "id": "Conventional trade and business remain trapped in sequential friction and time delay (Delta t > 0): Capital Injection -> Manufacturing -> Customs -> Distribution -> Settlement. Yet the moment autonomous AI is integrated into business architecture, commerce transcends the limits of classical physics and operates according to the core principles of Quantum Mechanics.",
+    "vi": "Conventional trade and business remain trapped in sequential friction and time delay (Delta t > 0): Capital Injection -> Manufacturing -> Customs -> Distribution -> Settlement. Yet the moment autonomous AI is integrated into business architecture, commerce transcends the limits of classical physics and operates according to the core principles of Quantum Mechanics.",
+    "zh-CN": "Conventional trade and business remain trapped in sequential friction and time delay (Delta t > 0): Capital Injection -> Manufacturing -> Customs -> Distribution -> Settlement. Yet the moment autonomous AI is integrated into business architecture, commerce transcends the limits of classical physics and operates according to the core principles of Quantum Mechanics.",
+    "ja": "Conventional trade and business remain trapped in sequential friction and time delay (Delta t > 0): Capital Injection -> Manufacturing -> Customs -> Distribution -> Settlement. Yet the moment autonomous AI is integrated into business architecture, commerce transcends the limits of classical physics and operates according to the core principles of Quantum Mechanics."
+  },
+  "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our commercial execution engine:": {
+    "ko": "저희의 정체성(Identity & Signatures)이자 핵심 기술인 Qubit Algorithm™ 은 양자역학의 5대 원리를 비즈니스 엔진으로 이식했습니다:",
+    "id": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our commercial execution engine:",
+    "vi": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our commercial execution engine:",
+    "zh-CN": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our commercial execution engine:",
+    "ja": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our commercial execution engine:"
+  },
+  "Quantum Fluctuation (One Spark, Infinite Galaxifying): Even from a state without massive initial capital or physical inventory (|0>), a single sharp human insight (One Spark) combined with our AI Data Factory simultaneously differentiates and germinates into dozens of derivative business models (Cosmo Seed™).": {
+    "ko": "양자 요동 (Quantum Fluctuation — One Spark, Infinite Galaxifying): 막대한 초기 자본이나 재고가 없는 상태(|0>)에서도, 인간의 날카로운 통찰 하나(One Spark)가 AI 데이터 팩토리와 결합하면 수십 개의 파생 비즈니스 모델(Cosmo Seed™)로 동시에 분화·창발합니다.",
+    "id": "Quantum Fluctuation (One Spark, Infinite Galaxifying): Even from a state without massive initial capital or physical inventory (|0>), a single sharp human insight (One Spark) combined with our AI Data Factory simultaneously differentiates and germinates into dozens of derivative business models (Cosmo Seed™).",
+    "vi": "Quantum Fluctuation (One Spark, Infinite Galaxifying): Even from a state without massive initial capital or physical inventory (|0>), a single sharp human insight (One Spark) combined with our AI Data Factory simultaneously differentiates and germinates into dozens of derivative business models (Cosmo Seed™).",
+    "zh-CN": "Quantum Fluctuation (One Spark, Infinite Galaxifying): Even from a state without massive initial capital or physical inventory (|0>), a single sharp human insight (One Spark) combined with our AI Data Factory simultaneously differentiates and germinates into dozens of derivative business models (Cosmo Seed™).",
+    "ja": "Quantum Fluctuation (One Spark, Infinite Galaxifying): Even from a state without massive initial capital or physical inventory (|0>), a single sharp human insight (One Spark) combined with our AI Data Factory simultaneously differentiates and germinates into dozens of derivative business models (Cosmo Seed™)."
+  },
+  "Quantum Entanglement (One Task, Multi Outcomes): This is the definitive answer to \"how we manage it all.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).": {
+    "ko": "양자 얽힘 (Quantum Entanglement — One Task, Multi Outcomes): 이것이 \"어떻게 다 관리하느냐\"에 대한 핵심 해답입니다. 프로젝트 A에서 발생한 데이터나 단 한 번의 의사결정(One Task)이 얽혀 있는 프로젝트 B(인허가·처방), 프로젝트 C(글로벌 B2B 발주), 프로젝트 D(10종의 다국어 마케팅 콘텐츠 생성)의 결과를 동시에 결정짓습니다. 중복 노동과 버려지는 데이터가 제로(Zero-Wasting)에 수렴합니다.",
+    "id": "Quantum Entanglement (One Task, Multi Outcomes): This is the definitive answer to \"how we manage it all.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "vi": "Quantum Entanglement (One Task, Multi Outcomes): This is the definitive answer to \"how we manage it all.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "zh-CN": "Quantum Entanglement (One Task, Multi Outcomes): This is the definitive answer to \"how we manage it all.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "ja": "Quantum Entanglement (One Task, Multi Outcomes): This is the definitive answer to \"how we manage it all.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting)."
+  },
+  "Quantum Superposition & Tunneling (t = 0 Superposition & Tunneling): By pre-aggregating pre-order demand and purchase intent energy (E_intent), we tunnel through traditional capital, inventory, and regulatory barriers without speculative risk—allowing manufacturers, distributors, financiers, and buyers to realize profit simultaneously (t = 0) upon deal confirmation.": {
+    "ko": "양자 중첩과 터널링 (t=0 Superposition & Tunneling): 선주문 수요와 구매 의도 에너지(E_intent)를 먼저 집적해 자본·재고·규제의 벽을 리스크 없이 관통(Tunneling)하고, 제조사·유통사·금융·구매자가 거래 확정과 동시에(t=0) 이익을 나누어 갖습니다.",
+    "id": "Quantum Superposition & Tunneling (t = 0 Superposition & Tunneling): By pre-aggregating pre-order demand and purchase intent energy (E_intent), we tunnel through traditional capital, inventory, and regulatory barriers without speculative risk—allowing manufacturers, distributors, financiers, and buyers to realize profit simultaneously (t = 0) upon deal confirmation.",
+    "vi": "Quantum Superposition & Tunneling (t = 0 Superposition & Tunneling): By pre-aggregating pre-order demand and purchase intent energy (E_intent), we tunnel through traditional capital, inventory, and regulatory barriers without speculative risk—allowing manufacturers, distributors, financiers, and buyers to realize profit simultaneously (t = 0) upon deal confirmation.",
+    "zh-CN": "Quantum Superposition & Tunneling (t = 0 Superposition & Tunneling): By pre-aggregating pre-order demand and purchase intent energy (E_intent), we tunnel through traditional capital, inventory, and regulatory barriers without speculative risk—allowing manufacturers, distributors, financiers, and buyers to realize profit simultaneously (t = 0) upon deal confirmation.",
+    "ja": "Quantum Superposition & Tunneling (t = 0 Superposition & Tunneling): By pre-aggregating pre-order demand and purchase intent energy (E_intent), we tunnel through traditional capital, inventory, and regulatory barriers without speculative risk—allowing manufacturers, distributors, financiers, and buyers to realize profit simultaneously (t = 0) upon deal confirmation."
+  },
+  "In short, placing no artificial ceiling on applicable industry verticals is the greatest strength of this algorithm. Because the underlying governing principle is singular, the effort required to run 1 project is sufficient to simultaneously power 15—and ultimately 100—synergistic projects.": {
+    "ko": "즉, 적용되는 산업 분야에 제한을 두지 않는 것이야말로 이 알고리즘의 가장 큰 무기입니다. 근본 원리가 단 하나이기 때문에, 1개의 프로젝트를 돌리는 노력이면 15개, 나아가 100개의 시너지 프로젝트를 동시에 구동할 수 있습니다.",
+    "id": "In short, placing no artificial ceiling on applicable industry verticals is the greatest strength of this algorithm. Because the underlying governing principle is singular, the effort required to run 1 project is sufficient to simultaneously power 15—and ultimately 100—synergistic projects.",
+    "vi": "In short, placing no artificial ceiling on applicable industry verticals is the greatest strength of this algorithm. Because the underlying governing principle is singular, the effort required to run 1 project is sufficient to simultaneously power 15—and ultimately 100—synergistic projects.",
+    "zh-CN": "In short, placing no artificial ceiling on applicable industry verticals is the greatest strength of this algorithm. Because the underlying governing principle is singular, the effort required to run 1 project is sufficient to simultaneously power 15—and ultimately 100—synergistic projects.",
+    "ja": "In short, placing no artificial ceiling on applicable industry verticals is the greatest strength of this algorithm. Because the underlying governing principle is singular, the effort required to run 1 project is sufficient to simultaneously power 15—and ultimately 100—synergistic projects."
+  },
+  "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second": {
+    "ko": "** 학술적 체계화의 배경 (선(先) 실전 솔루션 도출, 후(後) 수리적 정립)",
+    "id": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
+    "vi": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
+    "zh-CN": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
+    "ja": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second"
+  },
+  "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era.": {
+    "ko": "이는 단순히 비즈니스 현장에서 일어나는 일들을 양자역학이라는 학문에 짜맞추기식으로 갖다 붙인 마케팅 용어가 아닙니다. 20년 이상의 경험을 통해 발견한 문제점들과 해결방안에 대한 고민들, 그리고 급변하는 AI 시대와 바뀌는 패러다임에 우리가 나아가야 할 길에 대한 장고의 연구 끝에 나온 실전 해결책들이 핵심입니다. 이 해결책의 핵심이 만물 우주를 구성하는 양자역학과 궤를 같이한다는 것을 발견했고, 이를 결합해서 더욱 수치적인 접근으로 시대의 솔루션을 학문적으로 체계화한 것입니다.",
+    "id": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era.",
+    "vi": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era.",
+    "zh-CN": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era.",
+    "ja": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era."
+  },
+  "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI": {
+    "ko": "2. 왜 다른 IT 기업은 못 하고 *SC만 가능한가? — 『20년의 글로벌 실전 내공 × 자율형 AI 엔진』",
+    "id": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI",
+    "vi": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI",
+    "zh-CN": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI",
+    "ja": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI"
+  },
+  "Silicon Valley AI startups that only know how to write code do not understand customs friction, non-tariff regulatory barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.": {
+    "ko": "코딩만 할 줄 아는 실리콘밸리의 AI 스타트업들은 국제 무역 현장의 통관 마찰, 국가별 비관세 장벽, 현지 유통상들의 자금 경색, 그리고 각 시장 플레이어들이 겪는 진짜 고통(Pain Points)을 모릅니다. 반대로 전통 무역상사들은 AI 아키텍처를 설계할 줄 모릅니다.",
+    "id": "Silicon Valley AI startups that only know how to write code do not understand customs friction, non-tariff regulatory barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
+    "vi": "Silicon Valley AI startups that only know how to write code do not understand customs friction, non-tariff regulatory barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
+    "zh-CN": "Silicon Valley AI startups that only know how to write code do not understand customs friction, non-tariff regulatory barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
+    "ja": "Silicon Valley AI startups that only know how to write code do not understand customs friction, non-tariff regulatory barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems."
+  },
+  "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this structural bottleneck in the AI era.": {
+    "ko": "저희는 지난 20년 이상 해외 현지에 직접 거주하며 국제 무역과 글로벌 비즈니스 개발(BD)을 최전선에서 지휘해 왔습니다. 한국, 인도네시아, 베트남, 싱가포르, 중국, 일본, 미국, 인도 등 8대 거점(SISTAR Int'l)의 플레이어들이 왜 좋은 제품을 가지고도 자금과 유통의 벽에 막혀 무너지는지 뼈저리게 목격했고, AI 시대에 이 문제를 어떻게 풀어야 할지 치열하게 고민해 왔습니다.",
+    "id": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this structural bottleneck in the AI era.",
+    "vi": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this structural bottleneck in the AI era.",
+    "zh-CN": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this structural bottleneck in the AI era.",
+    "ja": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this structural bottleneck in the AI era."
+  },
+  "The answer born from that synthesis is the heart of *SC: Intelligence-Core:": {
+    "ko": "그 해답으로 탄생한 것이 *SC의 심장부인 Intelligence-Core 입니다:",
+    "id": "The answer born from that synthesis is the heart of *SC: Intelligence-Core:",
+    "vi": "The answer born from that synthesis is the heart of *SC: Intelligence-Core:",
+    "zh-CN": "The answer born from that synthesis is the heart of *SC: Intelligence-Core:",
+    "ja": "The answer born from that synthesis is the heart of *SC: Intelligence-Core:"
+  },
+  "Vibe Working: Humans Focus on Insights, AI Executes 24/7": {
+    "ko": "인간은 오직 아이디어와 인사이트에만 집중하고, 실무와 관리는 24시간 AI가 수행합니다 (Vibe Working)",
+    "id": "Vibe Working: Humans Focus on Insights, AI Executes 24/7",
+    "vi": "Vibe Working: Humans Focus on Insights, AI Executes 24/7",
+    "zh-CN": "Vibe Working: Humans Focus on Insights, AI Executes 24/7",
+    "ja": "Vibe Working: Humans Focus on Insights, AI Executes 24/7"
+  },
+  "Humans focus exclusively on ideas and strategic insights while autonomous AI handles operations and management 24 hours a day (Vibe Working). When a single directive is issued via c.a.n. (CEO ActionNote), our corporate memory brain (Company RAG), autonomous ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, financial settlements, and 10 daily multilingual marketing packages per project.": {
+    "ko": "대표의 한 줄 지시(c.a.n. CEO ActionNote)가 떨어지면, 사내 지식 뇌(Company RAG)와 자율 경영 원장(Qubit ERP), 그리고 밤 10시부터 아침 8시까지 스스로 돌아가는 심야 데이터 팩토리(Overnight Data Factory)와 SISTAR Studio가 기획서, 정산, 프로젝트별 일일 10종의 다국어 마케팅 패키지까지 자동으로 완성합니다.",
+    "id": "Humans focus exclusively on ideas and strategic insights while autonomous AI handles operations and management 24 hours a day (Vibe Working). When a single directive is issued via c.a.n. (CEO ActionNote), our corporate memory brain (Company RAG), autonomous ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, financial settlements, and 10 daily multilingual marketing packages per project.",
+    "vi": "Humans focus exclusively on ideas and strategic insights while autonomous AI handles operations and management 24 hours a day (Vibe Working). When a single directive is issued via c.a.n. (CEO ActionNote), our corporate memory brain (Company RAG), autonomous ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, financial settlements, and 10 daily multilingual marketing packages per project.",
+    "zh-CN": "Humans focus exclusively on ideas and strategic insights while autonomous AI handles operations and management 24 hours a day (Vibe Working). When a single directive is issued via c.a.n. (CEO ActionNote), our corporate memory brain (Company RAG), autonomous ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, financial settlements, and 10 daily multilingual marketing packages per project.",
+    "ja": "Humans focus exclusively on ideas and strategic insights while autonomous AI handles operations and management 24 hours a day (Vibe Working). When a single directive is issued via c.a.n. (CEO ActionNote), our corporate memory brain (Company RAG), autonomous ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, financial settlements, and 10 daily multilingual marketing packages per project."
+  },
+  "The 15 Founder Projects: A Foundational Capability Multiplier": {
+    "ko": "15개의 Founder Projects는 문어발이 아니라 ‘기초 체력 완성 장치’입니다",
+    "id": "The 15 Founder Projects: A Foundational Capability Multiplier",
+    "vi": "The 15 Founder Projects: A Foundational Capability Multiplier",
+    "zh-CN": "The 15 Founder Projects: A Foundational Capability Multiplier",
+    "ja": "The 15 Founder Projects: A Foundational Capability Multiplier"
+  },
+  "Our initial 15 Founder Projects are not scattered ventures; they are a precision-engineered capability engine designed to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary clinical data in high-margin veterinary and bio-health specialties where we hold 20 years of expertise, and (3) scale into global AI trade platforms and a Daily Launching Factory.": {
+    "ko": "초기 15개 프로젝트는 ① 우리의 자체 AI·ERP 운영체제를 완벽히 내재화(관리 비용 100% 절감)하고, ② 저희가 20년 노하우를 가진 가장 확실한 고수익 시장(수의·바이오 스페셜티)에서 즉각적인 캐시카우와 독점 데이터를 창출하며, ③ 이를 글로벌 AI 무역 플랫폼과 일일 런칭 팩토리로 폭발시키기 위해 가장 시너지가 높은 핵심 노드들만 정밀하게 맞물려 놓은 것입니다.",
+    "id": "Our initial 15 Founder Projects are not scattered ventures; they are a precision-engineered capability engine designed to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary clinical data in high-margin veterinary and bio-health specialties where we hold 20 years of expertise, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
+    "vi": "Our initial 15 Founder Projects are not scattered ventures; they are a precision-engineered capability engine designed to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary clinical data in high-margin veterinary and bio-health specialties where we hold 20 years of expertise, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
+    "zh-CN": "Our initial 15 Founder Projects are not scattered ventures; they are a precision-engineered capability engine designed to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary clinical data in high-margin veterinary and bio-health specialties where we hold 20 years of expertise, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
+    "ja": "Our initial 15 Founder Projects are not scattered ventures; they are a precision-engineered capability engine designed to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary clinical data in high-margin veterinary and bio-health specialties where we hold 20 years of expertise, and (3) scale into global AI trade platforms and a Daily Launching Factory."
+  },
+  "3. Achieving Big-Tech Performance Through Solidarity — Global Alliance & A New Standard of Work": {
+    "ko": "3. 거대 플랫폼과 대등한 퍼포먼스를 내는 새로운 기회의 창 — 『글로벌 연대(Global Alliance)와 새로운 일하는 표준』",
+    "id": "3. Achieving Big-Tech Performance Through Solidarity — Global Alliance & A New Standard of Work",
+    "vi": "3. Achieving Big-Tech Performance Through Solidarity — Global Alliance & A New Standard of Work",
+    "zh-CN": "3. Achieving Big-Tech Performance Through Solidarity — Global Alliance & A New Standard of Work",
+    "ja": "3. Achieving Big-Tech Performance Through Solidarity — Global Alliance & A New Standard of Work"
+  },
+  "Today's AI and commerce industries are dominated by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and regional market players to struggle alone under heavy platform fees and marketing costs.": {
+    "ko": "지금의 AI 산업은 천문학적 자본을 앞세운 소수 글로벌 빅테크 기업들이 독점하고 있으며, 개별 중소 제조사와 로컬 플레이어들은 플랫폼 수수료를 바치는 소작농으로 전락하고 있습니다.",
+    "id": "Today's AI and commerce industries are dominated by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and regional market players to struggle alone under heavy platform fees and marketing costs.",
+    "vi": "Today's AI and commerce industries are dominated by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and regional market players to struggle alone under heavy platform fees and marketing costs.",
+    "zh-CN": "Today's AI and commerce industries are dominated by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and regional market players to struggle alone under heavy platform fees and marketing costs.",
+    "ja": "Today's AI and commerce industries are dominated by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and regional market players to struggle alone under heavy platform fees and marketing costs."
+  },
+  "Our perspective is fundamentally constructive: we have no reason to wage an exhausting war against giant platforms. Rather, the convergence of autonomous AI and the Qubit Algorithm™ has opened a historic window of opportunity—where independent market players, simply by uniting in solidarity (Int'l Alliance), can generate global performance on par with—or even surpassing—giant platforms without requiring massive capital.": {
+    "ko": "저희의 확신은 명확합니다. \"개별 기업 혼자서는 거대 자본을 이길 수 없지만, 전 세계 시장 플레이어들이 하나의 AI 인프라와 양자 비즈니스 모델로 연대(Alliance)한다면 얼마든지 빅테크에 준해서 시장을 주도할 수 있습니다.\" 싸워 이기자는 전략이 아니라, 오히려 거대 플랫폼과 대등한 퍼포먼스를 낼 수 있는 기회의 창이 열렸으니 연대를 통해 이를 적극 활용하자는 것입니다.",
+    "id": "Our perspective is fundamentally constructive: we have no reason to wage an exhausting war against giant platforms. Rather, the convergence of autonomous AI and the Qubit Algorithm™ has opened a historic window of opportunity—where independent market players, simply by uniting in solidarity (Int'l Alliance), can generate global performance on par with—or even surpassing—giant platforms without requiring massive capital.",
+    "vi": "Our perspective is fundamentally constructive: we have no reason to wage an exhausting war against giant platforms. Rather, the convergence of autonomous AI and the Qubit Algorithm™ has opened a historic window of opportunity—where independent market players, simply by uniting in solidarity (Int'l Alliance), can generate global performance on par with—or even surpassing—giant platforms without requiring massive capital.",
+    "zh-CN": "Our perspective is fundamentally constructive: we have no reason to wage an exhausting war against giant platforms. Rather, the convergence of autonomous AI and the Qubit Algorithm™ has opened a historic window of opportunity—where independent market players, simply by uniting in solidarity (Int'l Alliance), can generate global performance on par with—or even surpassing—giant platforms without requiring massive capital.",
+    "ja": "Our perspective is fundamentally constructive: we have no reason to wage an exhausting war against giant platforms. Rather, the convergence of autonomous AI and the Qubit Algorithm™ has opened a historic window of opportunity—where independent market players, simply by uniting in solidarity (Int'l Alliance), can generate global performance on par with—or even surpassing—giant platforms without requiring massive capital."
+  },
+  "To turn this opportunity into immediate reality for every participant, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture):": {
+    "ko": "이를 위해 *SC는 단순한 웹사이트가 아닌, 모든 참여자가 각자의 위치에서 즉시 수익과 시너지를 창출할 수 있는 6계층 12대 도메인 아키텍처(SC Architecture) 를 완성했습니다:",
+    "id": "To turn this opportunity into immediate reality for every participant, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture):",
+    "vi": "To turn this opportunity into immediate reality for every participant, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture):",
+    "zh-CN": "To turn this opportunity into immediate reality for every participant, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture):",
+    "ja": "To turn this opportunity into immediate reality for every participant, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture):"
+  },
+  "4. Our Proposal to You: Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy": {
+    "ko": "4. 대표님께 드리는 제안: 구경꾼이 아닌, 새로운 은하계의 주역(Star)으로 함께해 주십시오",
+    "id": "4. Our Proposal to You: Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
+    "vi": "4. Our Proposal to You: Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
+    "zh-CN": "4. Our Proposal to You: Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
+    "ja": "4. Our Proposal to You: Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy"
+  },
+  "Dear Presidents and Investors, our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language static localization engine, and autonomous overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.": {
+    "ko": "존경하는 대표님, 그리고 투자자 여러분. \"이 많은 것을 어떻게 다 할 수 있느냐\"는 질문에 대한 저희의 대답은 이미 말과 글이 아닌 살아 움직이는 시스템으로 증명되어 있습니다. 지금 보고 계신 이 12개 도메인의 방대한 아키텍처와 6개 국어 시스템, 그리고 매일 밤 가동되는 AI 데이터 팩토리 자체가 바로 저희가 만든 Qubit Algorithm™과 Vibe Working 방식으로 탄생한 첫 번째 실증 결과물이기 때문입니다.",
+    "id": "Dear Presidents and Investors, our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language static localization engine, and autonomous overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "vi": "Dear Presidents and Investors, our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language static localization engine, and autonomous overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "zh-CN": "Dear Presidents and Investors, our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language static localization engine, and autonomous overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "ja": "Dear Presidents and Investors, our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language static localization engine, and autonomous overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm."
+  },
+  "To Business Partner Presidents": {
+    "ko": "비즈니스 파트너 대표님께",
+    "id": "To Business Partner Presidents",
+    "vi": "To Business Partner Presidents",
+    "zh-CN": "To Business Partner Presidents",
+    "ja": "To Business Partner Presidents"
+  },
+  "Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously.": {
+    "ko": "더 이상 혼자서 막대한 마케팅비와 재고 리스크, 해외 개척 비용을 감당하지 마십시오. *SC의 Scarlet-AI와 Biz-Hub에 올라타십시오. 대표님의 훌륭한 제품과 역량이 저희의 AI 엔진과 만나는 순간, 전 세계 8개국 시장이 동시에 열리는 양자 얽힘의 시너지를 경험하실 것입니다.",
+    "id": "Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously.",
+    "vi": "Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously.",
+    "zh-CN": "Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously.",
+    "ja": "Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously."
+  },
+  "To Venture Capital & Institutional Investors": {
+    "ko": "VC 및 투자자 여러분께",
+    "id": "To Venture Capital & Institutional Investors",
+    "vi": "To Venture Capital & Institutional Investors",
+    "zh-CN": "To Venture Capital & Institutional Investors",
+    "ja": "To Venture Capital & Institutional Investors"
+  },
+  "Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal administrative bloat via AI while simultaneously generating high-margin B2B AI SaaS returns (75%~85% GM) and physical global trade cashflows (45%~65% GM). (Explore IR Pitchdeck ->)": {
+    "ko": "단일 아이템 하나에 도박을 거는 스타트업이 아니라, 내부 고정비를 AI로 100% 절감하면서 고수익 B2B AI 솔루션(마진 75~85%)과 실물 글로벌 교역 캐시카우(마진 45~65%)를 동시에 창출하는 ‘실패할 수 없는 양자 지주 아키텍처’에 투자하십시오. (IR Pitchdeck 바로가기 ->)",
+    "id": "Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal administrative bloat via AI while simultaneously generating high-margin B2B AI SaaS returns (75%~85% GM) and physical global trade cashflows (45%~65% GM). (Explore IR Pitchdeck ->)",
+    "vi": "Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal administrative bloat via AI while simultaneously generating high-margin B2B AI SaaS returns (75%~85% GM) and physical global trade cashflows (45%~65% GM). (Explore IR Pitchdeck ->)",
+    "zh-CN": "Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal administrative bloat via AI while simultaneously generating high-margin B2B AI SaaS returns (75%~85% GM) and physical global trade cashflows (45%~65% GM). (Explore IR Pitchdeck ->)",
+    "ja": "Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal administrative bloat via AI while simultaneously generating high-margin B2B AI SaaS returns (75%~85% GM) and physical global trade cashflows (45%~65% GM). (Explore IR Pitchdeck ->)"
+  },
+  "We cordially invite you to join this thrilling journey—where a single spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.": {
+    "ko": "하나의 작은 불꽃(One Spark)이 거대한 비즈니스 은하계(Infinite Galaxifying)로 팽창하는 이 가슴 뛰는 여정에, 대표님을 가장 중요한 파트너이자 가족으로 정중히 초대합니다.",
+    "id": "We cordially invite you to join this thrilling journey—where a single spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.",
+    "vi": "We cordially invite you to join this thrilling journey—where a single spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.",
+    "zh-CN": "We cordially invite you to join this thrilling journey—where a single spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.",
+    "ja": "We cordially invite you to join this thrilling journey—where a single spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member."
+  },
+  "Sincerely yours,": {
+    "ko": "감사합니다.",
+    "id": "Sincerely yours,",
+    "vi": "Sincerely yours,",
+    "zh-CN": "Sincerely yours,",
+    "ja": "Sincerely yours,"
+  },
+  "Founder & CEO": {
+    "ko": "대표 드림",
+    "id": "Founder & CEO",
+    "vi": "Founder & CEO",
+    "zh-CN": "Founder & CEO",
+    "ja": "Founder & CEO"
   }
 };
