@@ -22,8 +22,7 @@ async function initModels() {
     .map(m => m.name.replace("models/", ""))
     .filter(m => m.includes("flash") && !m.includes("image") && !m.includes("tts") && !m.includes("audio") && !m.includes("thinking"));
 
-  // Prefer stable high-quota models first, then preview models
-  const priority = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-2.5-flash", "gemini-3-flash"];
+  const priority = ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-3-flash-preview", "gemini-flash-latest"];
   for (const p of priority) {
     for (const m of available) {
       if ((m === p || m.startsWith(p)) && !CANDIDATE_MODELS.includes(m)) {
@@ -34,7 +33,7 @@ async function initModels() {
   for (const m of available) {
     if (!CANDIDATE_MODELS.includes(m)) CANDIDATE_MODELS.push(m);
   }
-  if (CANDIDATE_MODELS.length === 0) CANDIDATE_MODELS = ["gemini-2.0-flash"];
+  if (CANDIDATE_MODELS.length === 0) CANDIDATE_MODELS = ["gemini-2.5-flash"];
 }
 
 function getActiveModel() {
@@ -44,7 +43,6 @@ function getActiveModel() {
 function rotateModel() {
   if (CANDIDATE_MODELS.length > 1) {
     CURRENT_MODEL_IDX = (CURRENT_MODEL_IDX + 1) % CANDIDATE_MODELS.length;
-    console.log(`    [SWITCH MODEL] Switched to -> ${getActiveModel()}`);
   }
 }
 
@@ -146,11 +144,7 @@ function loadDict(dictPath) {
   const idx = raw.indexOf("{");
   const lastIdx = raw.lastIndexOf("}");
   if (idx === -1 || lastIdx === -1) return {};
-  try {
-    return JSON.parse(raw.substring(idx, lastIdx + 1));
-  } catch (e) {
-    return {};
-  }
+  try { return JSON.parse(raw.substring(idx, lastIdx + 1)); } catch (e) { return {}; }
 }
 
 function saveDict(dictPath, dictObj) {
@@ -163,18 +157,19 @@ const sleep = (ms) => new Promise(res => setTimeout(res, ms));
 async function translateBatchWithGemini(batchStrings, attempt = 1) {
   const model = getActiveModel();
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${API_KEY}`;
-  const systemPrompt = `You are the Chief Institutional Translator for *SC (SISTAR Company).
-Translate the following JSON array of ${batchStrings.length} English strings into 5 languages:
-- "ko": Korean (한국어 — 자연스러운 격조 높은 비즈니스 한국어)
-- "id": Indonesian (Bahasa Indonesia)
-- "vi": Vietnamese (Tiếng Việt)
-- "zh-CN": Simplified Chinese (简体中文)
-- "ja": Japanese (日本語)
+  const systemPrompt = `You are the Chief Institutional Translator for *SC (SISTAR Company / Signal Star Universe).
+Translate the following JSON array of ${batchStrings.length} English strings into 5 target languages:
+- "ko": Korean (한국어 — 격조 높은 글로벌 VC/투자은행 보고서 수준의 자연스러운 비즈니스 한국어)
+- "id": Indonesian (Bahasa Indonesia — formal enterprise standard)
+- "vi": Vietnamese (Tiếng Việt — formal enterprise standard)
+- "zh-CN": Simplified Chinese (简体中文 — formal enterprise standard)
+- "ja": Japanese (日本語 — formal enterprise standard)
 
 RULES:
-1. Translate the full sentence structure into each target language.
-2. Keep brand names/math in English (*SC, SISTAR, Qubit Algorithm™, Cosmo Seed™, One Spark, Vibe Working, K-SURE BNPL, t=0, Rp 1,320).
-3. Return ONLY a valid JSON array of EXACTLY ${batchStrings.length} objects with keys: "ko", "id", "vi", "zh-CN", "ja".`;
+1. NEVER return an English sentence untranslated! Translate the full sentence structure into each target language.
+2. Keep proprietary brand names/math in English where natural (*SC, SISTAR, Qubit Algorithm™, Cosmo Seed™, One Spark, Vibe Working, K-SURE BNPL, t=0, Rp 1,320).
+3. In Korean ("ko"), EVERY sentence MUST end with natural Korean predicates (~입니다, ~합니다, ~구축합니다).
+4. Return ONLY a valid JSON array of EXACTLY ${batchStrings.length} objects in the exact same order with keys: "ko", "id", "vi", "zh-CN", "ja".`;
 
   const body = {
     contents: [{ role: "user", parts: [{ text: systemPrompt + "\n\nINPUT_ARRAY:\n" + JSON.stringify(batchStrings) }] }],
@@ -193,14 +188,17 @@ RULES:
 
   if (!res.ok) {
     const errText = await res.text();
-    if (res.status === 429 || res.status === 503) {
+    if (res.status === 402) {
+      throw new Error(`HTTP 402 (Billing/Spend Limit still active on API key)`);
+    }
+    if (res.status === 429 || res.status >= 500) {
       rotateModel();
-      if (attempt <= 3) {
-        await sleep(4000 * attempt);
+      if (attempt <= 4) {
+        await sleep(3000 * attempt);
         return translateBatchWithGemini(batchStrings, attempt + 1);
       }
     }
-    throw new Error(`HTTP ${res.status} (${model}): ${errText.substring(0, 90)}`);
+    throw new Error(`HTTP ${res.status} (${model}): ${errText.substring(0, 80)}`);
   }
 
   const data = await res.json();
@@ -208,9 +206,27 @@ RULES:
   return JSON.parse(txt);
 }
 
+async function translateBatchSafely(batch) {
+  try {
+    const res = await translateBatchWithGemini(batch);
+    if (Array.isArray(res) && res.length === batch.length) {
+      return res;
+    }
+  } catch (e) {
+    if (e.message.includes("HTTP 402")) throw e;
+  }
+  // If batch of 10 failed or had length mismatch, split in half and retry!
+  if (batch.length > 2) {
+    const mid = Math.ceil(batch.length / 2);
+    const left = await translateBatchSafely(batch.slice(0, mid));
+    const right = await translateBatchSafely(batch.slice(mid));
+    if (left && right) return left.concat(right);
+  }
+  return null;
+}
+
 async function main() {
   const targetMode = process.argv[2] || "sc_web";
-  const maxBatchesArg = parseInt(process.argv[3] || "9999", 10);
   const isMgnt = targetMode === "mgnt";
   const dictPath = isMgnt
     ? path.join(ROOT, "mgnt", "common_assets", "sc_translations.js")
@@ -222,7 +238,7 @@ async function main() {
   }
 
   await initModels();
-  console.log(`\n=== [AVAILABLE FLASH MODELS]: ${CANDIDATE_MODELS.join(" -> ")} ===`);
+  console.log(`\n=== [ACTIVE GEMINI FLASH MODELS]: ${CANDIDATE_MODELS.slice(0, 4).join(" -> ")} ===`);
 
   const dict = loadDict(dictPath);
   const domainFilter = (!isMgnt && targetMode !== "sc_web") ? [targetMode] : PUBLIC_DOMAINS;
@@ -255,7 +271,7 @@ async function main() {
     let domMissing = 0;
     for (const s of domStrings) {
       const ex = dict[s];
-      if (!ex || !isKoreanProperlyTranslated(s, ex["ko"])) domMissing++;
+      if (!ex || !isKoreanProperlyTranslated(s, ex["ko"]) || !ex["id"] || ex["id"] === s) domMissing++;
     }
     const doneCount = domStrings.size - domMissing;
     const pct = domStrings.size > 0 ? Math.round((doneCount / domStrings.size) * 100) : 100;
@@ -264,64 +280,65 @@ async function main() {
 
   const missing = [];
   for (const s of allStrings) {
-    const existing = dict[s];
-    if (!existing || !isKoreanProperlyTranslated(s, existing["ko"])) {
+    const ex = dict[s];
+    if (!ex || !isKoreanProperlyTranslated(s, ex["ko"]) || !ex["id"] || ex["id"] === s) {
       missing.push(s);
     }
   }
 
   console.log(`\n[SUMMARY] Scanned: ${allStrings.size} | Missing: ${missing.length}\n`);
-  if (missing.length === 0 || maxBatchesArg === 0) return;
+  if (missing.length === 0) {
+    console.log("  [100% COMPLETE] Zero missing blocks!");
+    return;
+  }
 
-  // Smaller batch size (8 blocks) prevents 5-language JSON output truncation!
-  const BATCH_SIZE = 8;
-  const CONCURRENCY = 3;
+  const BATCH_SIZE = 10;
+  const CONCURRENCY = 4; // 4 parallel batches (40 blocks per round)
   const batches = [];
   for (let i = 0; i < missing.length; i += BATCH_SIZE) {
     batches.push(missing.slice(i, i + BATCH_SIZE));
   }
 
-  const limit = Math.min(batches.length, maxBatchesArg);
-  for (let i = 0; i < limit; i += CONCURRENCY) {
-    const chunk = batches.slice(i, Math.min(i + CONCURRENCY, limit));
-    const rangeStr = `Batches ${i + 1}..${i + chunk.length}/${batches.length}`;
+  for (let i = 0; i < batches.length; i += CONCURRENCY) {
+    const chunk = batches.slice(i, i + CONCURRENCY);
+    const rangeStr = `Batches ${i + 1}..${Math.min(i + CONCURRENCY, batches.length)}/${batches.length}`;
     process.stdout.write(`  -> [${getActiveModel()}] ${rangeStr} (${chunk.reduce((a,b)=>a+b.length,0)} blocks)... `);
 
-    let lastErr = "";
-    const promises = chunk.map(async (batch) => {
+    let billingErr = false;
+    const settled = await Promise.all(chunk.map(async (batch) => {
       try {
-        const res = await translateBatchWithGemini(batch);
-        if (Array.isArray(res) && res.length === batch.length) {
-          return { batch, res, ok: true };
-        } else {
-          lastErr = `Length mismatch (${Array.isArray(res) ? res.length : 0}/${batch.length})`;
-        }
+        const res = await translateBatchSafely(batch);
+        if (res) return { batch, res, ok: true };
       } catch (e) {
-        lastErr = e.message;
+        if (e.message.includes("HTTP 402")) billingErr = true;
       }
       return { batch, res: null, ok: false };
-    });
+    }));
 
-    const settled = await Promise.all(promises);
+    if (billingErr) {
+      console.log(`\n  [CRITICAL] Google API still returned HTTP 402 (Billing propagation delay). Wait 1-2 mins or check Google Cloud Billing console.`);
+      break;
+    }
+
     let savedInRound = 0;
     for (const item of settled) {
       if (item.ok) {
         for (let j = 0; j < item.batch.length; j++) {
-          if (item.res[j] && item.res[j]["ko"]) {
-            dict[item.batch[j]] = item.res[j];
+          const enKey = item.batch[j];
+          const newEntry = item.res[j];
+          if (newEntry && newEntry["ko"]) {
+            // Preserve pre-approved Korean if already present
+            if (dict[enKey] && isKoreanProperlyTranslated(enKey, dict[enKey]["ko"])) {
+              newEntry["ko"] = dict[enKey]["ko"];
+            }
+            dict[enKey] = newEntry;
             savedInRound++;
           }
         }
       }
     }
-    if (savedInRound > 0) {
-      saveDict(dictPath, dict);
-      console.log(`SAVED +${savedInRound} blocks!`);
-    } else {
-      console.log(`0 saved (${lastErr.substring(0, 70)})`);
-      rotateModel();
-      await sleep(3000);
-    }
+    saveDict(dictPath, dict);
+    console.log(`SAVED +${savedInRound} blocks!`);
   }
 }
 
