@@ -67664,5 +67664,82 @@ window.SC_TRANSLATIONS = {
     "vi": "ceo, dennii ku",
     "zh-CN": "ceo, dennii ku",
     "ja": "ceo, dennii ku"
+  },
+  "CEO COMMENTS & EXECUTIVE INTRODUCTION": {
+    "ko": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
+    "id": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
+    "vi": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
+    "zh-CN": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
+    "ja": "CEO COMMENTS & EXECUTIVE INTRODUCTION"
+  },
+  "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"": {
+    "ko": "\"문어발식 확장이 아닌 단 하나의 양자 엔진 — AI 시대의 새로운 글로벌 비즈니스 표준, *SC (SISTAR Company)\"",
+    "id": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
+    "vi": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
+    "zh-CN": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
+    "ja": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\""
+  },
+  "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).": {
+    "ko": "\"안녕하십니까. *SC (SISTAR Company — Signal Star Universe)의 비즈니스 생태계에 오신 것을 환영합니다.",
+    "id": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
+    "vi": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
+    "zh-CN": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
+    "ja": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe)."
+  },
+  "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:": {
+    "ko": "최근 저희의 *SC 마스터 브로슈어(SC Master Brochure)와 15개의 핵심 과제를 담은 창립자 프로젝트(Founder Projects), 그리고 12개 도메인으로 이루어진 비즈니스 은하계(Business Galaxy)를 처음 접하신 국내외 파트너사 대표님들과 VC 심사역분들께서는 예외 없이 저에게 단 하나의 날카로운 질문을 던지십니다.",
+    "id": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
+    "vi": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
+    "zh-CN": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
+    "ja": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:"
+  },
+  "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'": {
+    "ko": "'아이디어와 비전은 놀랍습니다. 하지만 현실적으로 이 많은 프로젝트를 어떻게 동시에 다 관리할 수 있습니까? 너무 마구잡이식(문어발식) 확장이 아닙니까?'",
+    "id": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
+    "vi": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
+    "zh-CN": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
+    "ja": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'"
+  },
+  "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).": {
+    "ko": "하지만 저희는 15개의 서로 다른 사업을 벌이고 있는 것이 아닙니다. 단 하나의 수리적·기술적 핵심 원리(Qubit Algorithm™ & AI Intelligence-Core)를 구축하고, 그 하나의 엔진이 서로 다른 산업 좌표에서 동시에 발현(One Spark, Infinite Galaxifying)되도록 설계한 것입니다.",
+    "id": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "vi": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "zh-CN": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
+    "ja": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying)."
+  },
+  "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.": {
+    "ko": "왜 이것이 문어발식 확장이 아닌 ‘AI 시대의 필연적인 비즈니스 표준’인지, 그리고 왜 *SC만이 이 거대한 생태계를 현실로 구동할 수 있는지 그 4가지 확실한 근거를 말씀드리고자 합니다.",
+    "id": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
+    "vi": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
+    "zh-CN": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
+    "ja": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality."
+  },
+  "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).": {
+    "ko": "양자 얽힘 (Quantum Entanglement — One Task, Multi Outcomes): 이것이 '어떻게 다 관리하느냐'에 대한 핵심 해답입니다. 프로젝트 A에서 발생한 데이터나 단 한 번의 의사결정(One Task)이 얽혀 있는 프로젝트 B(인허가·처방), 프로젝트 C(글로벌 B2B 발주), 프로젝트 D(10종의 다국어 마케팅 콘텐츠 생성)의 결과를 동시에 결정짓습니다. 중복 노동과 버려지는 데이터가 제로(Zero-Wasting)에 수렴합니다.",
+    "id": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "vi": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "zh-CN": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
+    "ja": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting)."
+  },
+  "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.": {
+    "ko": "하지만 저희의 시각은 다릅니다. 거대 플랫폼과 소모적으로 싸워 이기자는 전략이 아닙니다. 오히려 AI와 양자 알고리즘의 결합으로 인해, 개별 플레이어들이 연대(Alliance)하기만 하면 막대한 자본 없이도 거대 플랫폼과 대등한—심지어 그 이상의—글로벌 퍼포먼스를 낼 수 있는 역사적 기회의 창이 열렸다는 것입니다. (Int'l Alliance)",
+    "id": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
+    "vi": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
+    "zh-CN": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
+    "ja": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital."
+  },
+  "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.": {
+    "ko": "'이 많은 것을 어떻게 다 할 수 있느냐'는 질문에 대한 저희의 대답은 이미 말과 글이 아닌 살아 움직이는 시스템으로 증명되어 있습니다. 지금 보고 계신 이 12개 도메인의 방대한 아키텍처와 6개 국어 시스템, 그리고 매일 밤 가동되는 AI 데이터 팩토리 자체가 바로 저희가 만든 Qubit Algorithm™과 Vibe Working 방식으로 탄생한 첫 번째 실증 결과물이기 때문입니다.",
+    "id": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "vi": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "zh-CN": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
+    "ja": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm."
+  },
+  "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"": {
+    "ko": "하나의 작은 불꽃(One Spark)이 거대한 비즈니스 은하계(Infinite Galaxifying)로 팽창하는 이 가슴 뛰는 여정에, 대표님을 가장 중요한 파트너이자 가족으로 정중히 초대합니다.\"",
+    "id": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
+    "vi": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
+    "zh-CN": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
+    "ja": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\""
   }
 };
