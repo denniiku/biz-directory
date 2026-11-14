@@ -3836,11 +3836,11 @@ window.SC_TRANSLATIONS = {
     "ja": "Intl Alliance は、100% 構築済みのクラウド/AI インフラストラクチャと検証可能な日次 NAV 監査を基盤に、グローバル投資家、製造パートナー、地域卸売業者、メディアオーディエンスを *SC (SISTAR Company) ユニバースと接続する機関向けインターフェースとして機能します。"
   },
   "One Task, Multi Outcomes — Full-Stack AI Commerce & International AI Trading Spaceship.": {
-    "ko": "One Task, Multi Outcomes — Full-Stack AI Commerce & International AI Trading Spaceship.",
-    "id": "Satu Tugas, Beragam Hasil — Full-Stack AI Commerce & Pesawat Ruang Angkasa Perdagangan AI Internasional.",
-    "vi": "Một nhiệm vụ, Đa kết quả — Thương mại AI Full-Stack & Tàu vũ trụ giao dịch AI quốc tế.",
-    "zh-CN": "一项任务，多种成果 — 全栈 AI 商业与国际 AI 贸易飞船。",
-    "ja": "一つのタスク、多重の成果 — フルスタックAIコマースおよび国際AI貿易宇宙船。"
+    "ko": "하나의 과업, 다중 성과 — 풀스택 AI 커머스 & 국제 AI 트레이딩 스페이스십.",
+    "id": "Satu Tugas, Berbagai Hasil — Full-Stack AI Commerce & International AI Trading Spaceship.",
+    "vi": "Một nhiệm vụ, nhiều kết quả — Full-Stack AI Commerce & International AI Trading Spaceship.",
+    "zh-CN": "一项任务，多重成果 —— 全栈 AI 商务与国际 AI 贸易飞船。",
+    "ja": "一つのタスク、複数の成果 — フルスタックAIコマース＆国際AIトレーディング・スペースシップ。"
   },
   "\"Optimization of Business Process Wavefunctions based on Quantum Field Theory and Information Theory: Mathematical Physics Formalism of Qubit Algorithm™ and Empirical Demonstration in the Cosmo Seed™ Ecosystem — By DennyKu (*SC)\"": {
     "ko": "\"양자장론 및 정보이론에 기반한 비즈니스 프로세스 파동함수 최적화: Qubit Algorithm™의 수리물리학적 정식화 및 Cosmo Seed™ 생태계에서의 실증적 검증 — By DennyKu (*SC)\"",
@@ -9793,7 +9793,7 @@ window.SC_TRANSLATIONS = {
     "ja": "Agentic AI、Enterprise RAG、Model Context Protocol (MCP)、Physical AI における最新のブレークスルーを迅速に取り込み、高利益率のクロスボーダー貿易および B2B/B2C AI commerce へとダイレクトに実装します。"
   },
   "1. *SC Head Quarter (SCK - Seoul)": {
-    "ko": "1. *SC Head Quarter (SCK - 서울)",
+    "ko": "1. *SC 본사 (SCK - 서울)",
     "id": "1. Kantor Pusat *SC (SCK - Seoul)",
     "vi": "1. Trụ sở chính *SC (SCK - Seoul)",
     "zh-CN": "1. *SC 总部 (SCK - 首尔)",
@@ -20748,8 +20748,8 @@ window.SC_TRANSLATIONS = {
     "ko": "참고.",
     "id": "Ref.",
     "vi": "Tham chiếu",
-    "zh-CN": "参考号",
-    "ja": "参照。"
+    "zh-CN": "参考",
+    "ja": "参照"
   },
   "Citation & Bibliographic Record": {
     "ko": "인용 및 서지 기록",
@@ -25599,8 +25599,8 @@ window.SC_TRANSLATIONS = {
     "ko": "인도네시아 (SCI), 베트남 (SCV), 인도 (SCN)",
     "id": "Indonesia (SCI), Vietnam (SCV), India (SCN)",
     "vi": "Indonesia (SCI), Việt Nam (SCV), Ấn Độ (SCN)",
-    "zh-CN": "印度尼西亚 (SCI)、越南 (SCV)、印度 (SCN)",
-    "ja": "インドネシア (SCI)、ベトナム (SCV)、インド (SCN)"
+    "zh-CN": "印度尼西亚 (SCI), 越南 (SCV), 印度 (SCN)",
+    "ja": "インドネシア (SCI), ベトナム (SCV), インド (SCN)"
   },
   "SCK-V03": {
     "ko": "SCK-V03",
@@ -26705,8 +26705,8 @@ window.SC_TRANSLATIONS = {
     "ko": "한국SC(SCK), SC인도네시아(SCI), SC베트남(SCV)",
     "id": "SC Korea (SCK), SC Indonesia (SCI), SC Vietnam (SCV)",
     "vi": "SC Hàn Quốc (SCK), SC Indonesia (SCI), SC Việt Nam (SCV)",
-    "zh-CN": "SC 韩国 (SCK)、SC 印度尼西亚 (SCI)、SC 越南 (SCV)",
-    "ja": "SC韓国（SCK）、SCインドネシア（SCI）、SCベトナム（SCV）"
+    "zh-CN": "SC 韩国 (SCK), SC 印度尼西亚 (SCI), SC 越南 (SCV)",
+    "ja": "SC 韓国 (SCK), SC インドネシア (SCI), SC ベトナム (SCV)"
   },
   "Finished product allocations & SaaS revenue-share rights": {
     "ko": "완제품 배정 및 SaaS 수익 공유 권리",
@@ -27097,8 +27097,8 @@ window.SC_TRANSLATIONS = {
     "ko": "인도네시아 (SCI), 한국 (SCK), 인도 (SCN)",
     "id": "Indonesia (SCI), Korea (SCK), India (SCN)",
     "vi": "Indonesia (SCI), Hàn Quốc (SCK), Ấn Độ (SCN)",
-    "zh-CN": "印度尼西亚 (SCI)、韩国 (SCK)、印度 (SCN)",
-    "ja": "インドネシア (SCI)、韓国 (SCK)、インド (SCN)"
+    "zh-CN": "印度尼西亚 (SCI), 韩国 (SCK), 印度 (SCN)",
+    "ja": "インドネシア (SCI), 韓国 (SCK), インド (SCN)"
   },
   "Cuts packaging BOM cost by 38% via direct mill allocation": {
     "ko": "직접 공장 할당을 통해 패키징 BOM 비용 38% 절감",
@@ -28601,7 +28601,7 @@ window.SC_TRANSLATIONS = {
   "01_sc-korea": {
     "ko": "01_sc-한국",
     "id": "01_sc-korea",
-    "vi": "01_sc-Hàn Quốc",
+    "vi": "01_sc-hàn quốc",
     "zh-CN": "01_sc-韩国",
     "ja": "01_sc-韓国"
   },
@@ -28671,7 +28671,7 @@ window.SC_TRANSLATIONS = {
   "03_sc-vietnam": {
     "ko": "03_sc-베트남",
     "id": "03_sc-vietnam",
-    "vi": "03_sc-vietnam",
+    "vi": "03_sc-việt nam",
     "zh-CN": "03_sc-越南",
     "ja": "03_sc-ベトナム"
   },
@@ -28679,8 +28679,8 @@ window.SC_TRANSLATIONS = {
     "ko": "SCV (베트남)",
     "id": "SCV (Vietnam)",
     "vi": "SCV (Việt Nam)",
-    "zh-CN": "SCV（越南）",
-    "ja": "SCV（ベトナム）"
+    "zh-CN": "SCV (越南)",
+    "ja": "SCV (ベトナム)"
   },
   "Aquaculture/Livestock Biologics Demand, Challenger Sales Teams, AI Dev Hours": {
     "ko": "수산/축산 바이오 제제 수요, 챌린저 영업팀, AI 개발 시간",
@@ -28741,7 +28741,7 @@ window.SC_TRANSLATIONS = {
   "05_sc-china": {
     "ko": "05_sc-중국",
     "id": "05_sc-china",
-    "vi": "05_sc-china",
+    "vi": "05_sc-trung quốc",
     "zh-CN": "05_sc-中国",
     "ja": "05_sc-中国"
   },
@@ -28846,7 +28846,7 @@ window.SC_TRANSLATIONS = {
   "08_sc-india": {
     "ko": "08_sc-인도",
     "id": "08_sc-india",
-    "vi": "08_sc-Ấn Độ",
+    "vi": "08_sc-ấn độ",
     "zh-CN": "08_sc-印度",
     "ja": "08_sc-インド"
   },
@@ -28854,7 +28854,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCN (인도)",
     "id": "SCN (India)",
     "vi": "SCN (Ấn Độ)",
-    "zh-CN": "SCN（印度）",
+    "zh-CN": "SCN (印度)",
     "ja": "SCN (インド)"
   },
   "Standardized Ayurvedic Extracts (IndoHerbs), Vet APIs, AI Engineering Talent": {
@@ -28887,10 +28887,10 @@ window.SC_TRANSLATIONS = {
   },
   "PT Sistar Indonesia": {
     "ko": "PT 씨스타 인도네시아",
-    "id": "PT Sistar Indonesia",
-    "vi": "PT Sistar Indonesia",
-    "zh-CN": "印度尼西亚西斯塔公司",
-    "ja": "PT シスター インドネシア"
+    "id": "PT SISTAR Indonesia",
+    "vi": "PT SISTAR Indonesia",
+    "zh-CN": "PT SISTAR 印度尼西亚",
+    "ja": "PT SISTAR インドネシア"
   },
   "13+ Years Licensed Operating Entity, Local Bank/PG Rails, Hospital & Retail Network": {
     "ko": "13년 이상의 라이선스 운영 법인, 현지 은행/PG 레일, 병원 및 리테일 네트워크",
@@ -33241,10 +33241,10 @@ window.SC_TRANSLATIONS = {
   },
   "One Spark, Biz Galaxifying": {
     "ko": "One Spark, 비즈니스 은하화 (Biz Galaxifying)",
-    "id": "One Spark, Biz Galaxifying",
-    "vi": "One Spark, Biz Galaxifying",
-    "zh-CN": "One Spark, 商业银河化 (Biz Galaxifying)",
-    "ja": "One Spark, ビジネス・ギャラクシファイング"
+    "id": "Satu Percikan, Galaksifikasi Bisnis",
+    "vi": "Một Tia Sáng, Thiên Hà Hóa Kinh Doanh",
+    "zh-CN": "一点星火，业务银河化",
+    "ja": "一筋の火花、ビジネスの銀河化"
   },
   "Paper: Biz Quantum Mechanics": {
     "ko": "논문: 비즈니스 양자역학",
@@ -35392,7 +35392,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCK • 한국 (서울)",
     "id": "SCK • Korea (Seoul)",
     "vi": "SCK • Hàn Quốc (Seoul)",
-    "zh-CN": "SCK • 韩国（首尔）",
+    "zh-CN": "SCK • 韩国 (首尔)",
     "ja": "SCK • 韓国 (ソウル)"
   },
   "K-Beauty OEM/ODM formulations, veterinary bio-actives, MFDS drug ledgers": {
@@ -35420,7 +35420,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCI • 인도네시아 (자카르타)",
     "id": "SCI • Indonesia (Jakarta)",
     "vi": "SCI • Indonesia (Jakarta)",
-    "zh-CN": "SCI • 印度尼西亚（雅加达）",
+    "zh-CN": "SCI • 印度尼西亚 (雅加达)",
     "ja": "SCI • インドネシア (ジャカルタ)"
   },
   "Shopee/Tokopedia SKU scrapers, BPOM food/vet dossiers, rupiah spot rates": {
@@ -35448,7 +35448,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCV • 베트남 (호치민)",
     "id": "SCV • Vietnam (HCMC)",
     "vi": "SCV • Việt Nam (TP.HCM)",
-    "zh-CN": "SCV • 越南（胡志明市）",
+    "zh-CN": "SCV • 越南 (胡志明市)",
     "ja": "SCV • ベトナム (ホーチミン)"
   },
   "Packaging plastics, sea freight container consolidation, agricultural sourcing": {
@@ -35588,7 +35588,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCIND • 인도 (뭄바이)",
     "id": "SCIND • India (Mumbai)",
     "vi": "SCIND • Ấn Độ (Mumbai)",
-    "zh-CN": "SCIND • 印度（孟买）",
+    "zh-CN": "SCIND • 印度 (孟买)",
     "ja": "SCIND • インド (ムンバイ)"
   },
   "Bulk active pharmaceutical ingredients (API), Ayurvedic bio-extracts, core AI code": {
@@ -36439,11 +36439,11 @@ window.SC_TRANSLATIONS = {
     "ja": "獣医処方AI、クリニックアライアンス"
   },
   "`vault_hr_payroll_sop`": {
-    "ko": "`vault_hr_payroll_sop`",
-    "id": "`vault_hr_payroll_sop`",
-    "vi": "`vault_hr_payroll_sop`",
-    "zh-CN": "`vault_hr_payroll_sop`",
-    "ja": "`vault_hr_payroll_sop`"
+    "ko": "vault_인사_급여_표준운영절차",
+    "id": "vault_hr_penggajian_sop",
+    "vi": "vault_hr_lương_sop",
+    "zh-CN": "vault_人力资源_薪资_标准作业程序",
+    "ja": "vault_人事_給与_標準作業手順書"
   },
   "25th payroll statutory formulas, BPJS/tax brackets across 8 nations": {
     "ko": "25일 급여 법정 산식, 8개국 BPJS/세율 구간",
@@ -36467,11 +36467,11 @@ window.SC_TRANSLATIONS = {
     "ja": "チーム05 (人事・給与自動化)"
   },
   "`vault_marketing_media`": {
-    "ko": "`vault_marketing_media`",
-    "id": "`vault_marketing_media`",
-    "vi": "`vault_marketing_media`",
-    "zh-CN": "`vault_marketing_media`",
-    "ja": "`vault_marketing_media`"
+    "ko": "vault_마케팅_미디어",
+    "id": "vault_pemasaran_media",
+    "vi": "vault_tiếp_thị_truyền_thông",
+    "zh-CN": "vault_营销_媒体",
+    "ja": "vault_マーケティング_メディア"
   },
   "SISTAR Studio scripts, mall.sisTV broadcast copy, Sismii guidelines": {
     "ko": "SISTAR Studio 스크립트, mall.sisTV 방송 원고, Sismii 가이드라인",
@@ -36495,11 +36495,11 @@ window.SC_TRANSLATIONS = {
     "ja": "チーム06 (マーケティング), SISTAR Studio"
   },
   "`vault_master_constitution`": {
-    "ko": "`vault_master_constitution`",
-    "id": "`vault_master_constitution`",
-    "vi": "`vault_master_constitution`",
-    "zh-CN": "`vault_master_constitution`",
-    "ja": "`vault_master_constitution`"
+    "ko": "vault_마스터_정관",
+    "id": "vault_anggaran_dasar_induk",
+    "vi": "vault_điều_lệ_chính",
+    "zh-CN": "vault_主章程",
+    "ja": "vault_基本定款"
   },
   "Master PRD, Qubit Algorithm mathematical proofs, sovereign charter": {
     "ko": "마스터 PRD, Qubit Algorithm™ 수학적 증명, 주권 헌장",
@@ -37442,7 +37442,7 @@ window.SC_TRANSLATIONS = {
   "DOMAIN 03 -> DOMAIN 04 (SCARLET-AI) & DOMAIN 05 (QUBIT-BIZ)": {
     "ko": "도메인 03 -> 도메인 04 (SCARLET-AI) & 도메인 05 (QUBIT-BIZ)",
     "id": "DOMAIN 03 -> DOMAIN 04 (SCARLET-AI) & DOMAIN 05 (QUBIT-BIZ)",
-    "vi": "TÊN MIỀN 03 -> TÊN MIỀN 04 (SCARLET-AI) & TÊN MIỀN 05 (QUBIT-BIZ)",
+    "vi": "DOMAIN 03 -> DOMAIN 04 (SCARLET-AI) & DOMAIN 05 (QUBIT-BIZ)",
     "zh-CN": "领域 03 -> 领域 04 (SCARLET-AI) & 领域 05 (QUBIT-BIZ)",
     "ja": "ドメイン 03 -> ドメイン 04 (SCARLET-AI) & ドメイン 05 (QUBIT-BIZ)"
   },
@@ -39731,9 +39731,9 @@ window.SC_TRANSLATIONS = {
   "Busan / Incheon → Jakarta (Tanjung Priok)": {
     "ko": "부산 / 인천 → 자카르타 (Tanjung Priok)",
     "id": "Busan / Incheon → Jakarta (Tanjung Priok)",
-    "vi": "Busan/Incheon → Jakarta (Tanjung Priok)",
-    "zh-CN": "釜山 / 仁川 → 雅加达 (丹绒不碌)",
-    "ja": "釜山/仁川 → ジャカルタ(タンジュンプリオク)"
+    "vi": "Busan / Incheon → Jakarta (Tanjung Priok)",
+    "zh-CN": "釜山 / 仁川 → 雅加达 (丹戎不碌)",
+    "ja": "釜山 / 仁川 → ジャカルタ (タンジュン・プリオク)"
   },
   "12 – 14 Days": {
     "ko": "12 – 14일",
@@ -39752,9 +39752,9 @@ window.SC_TRANSLATIONS = {
   "Busan / Incheon → Ho Chi Minh (Cat Lai)": {
     "ko": "부산 / 인천 → 호치민 (깟라이)",
     "id": "Busan / Incheon → Ho Chi Minh (Cat Lai)",
-    "vi": "Busan/Incheon → Hồ Chí Minh (Cát Lái)",
-    "zh-CN": "釜山 / 仁川 → 胡志明市 (吉莱)",
-    "ja": "釜山/仁川 → ホーチミン(カットライ)"
+    "vi": "Busan / Incheon → Hồ Chí Minh (Cát Lái)",
+    "zh-CN": "釜山 / 仁川 → 胡志明 (卡莱)",
+    "ja": "釜山 / 仁川 → ホーチミン (カットライ)"
   },
   "6 – 8 Days": {
     "ko": "6 – 8일",
@@ -39774,7 +39774,7 @@ window.SC_TRANSLATIONS = {
     "ko": "이우 / 닝보 → 자카르타 / 수라바야",
     "id": "Yiwu / Ningbo → Jakarta / Surabaya",
     "vi": "Nghĩa Ô / Ninh Ba → Jakarta / Surabaya",
-    "zh-CN": "义乌/宁波 → 雅加达/泗水",
+    "zh-CN": "义乌 / 宁波 → 雅加达 / 泗水",
     "ja": "義烏 / 寧波 → ジャカルタ / スラバヤ"
   },
   "10 – 12 Days": {
@@ -40355,7 +40355,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCI • 자카르타(마룬다/치카랑)",
     "id": "SCI • Jakarta (Marunda/Cikarang)",
     "vi": "SCI • Jakarta (Marunda/Cikarang)",
-    "zh-CN": "SCI • 雅加达（马伦达/西卡朗）",
+    "zh-CN": "SCI • 雅加达 (马伦达/芝卡朗)",
     "ja": "SCI • ジャカルタ (マルンダ/チカラン)"
   },
   "Tanjung Priok Port (18 km)": {
@@ -40382,9 +40382,9 @@ window.SC_TRANSLATIONS = {
   "SCK • Seoul / Incheon (Songdo)": {
     "ko": "SCK • 서울/인천(송도)",
     "id": "SCK • Seoul / Incheon (Songdo)",
-    "vi": "SCK • Seoul/Incheon (Songdo)",
-    "zh-CN": "SCK • 首尔/仁川（松岛）",
-    "ja": "SCK • ソウル / 仁川（松島）"
+    "vi": "SCK • Seoul / Incheon (Songdo)",
+    "zh-CN": "SCK • 首尔 / 仁川 (松岛)",
+    "ja": "SCK • ソウル / 仁川 (松島)"
   },
   "Incheon Port / ICN Airport (12 km)": {
     "vi": "Cảng Inch / Sân bay ICN (12 km)",
@@ -40411,7 +40411,7 @@ window.SC_TRANSLATIONS = {
     "ko": "SCV • 호치민(깟라이)",
     "id": "SCV • Ho Chi Minh (Cat Lai)",
     "vi": "SCV • Hồ Chí Minh (Cát Lái)",
-    "zh-CN": "SCV • 胡志明市（吉莱）",
+    "zh-CN": "SCV • 胡志明 (卡莱)",
     "ja": "SCV • ホーチミン (カットライ)"
   },
   "Cat Lai Maritime Port (8 km)": {
@@ -44828,8 +44828,8 @@ window.SC_TRANSLATIONS = {
     "ko": "인도네시아 (자카르타)",
     "id": "Indonesia (Jakarta)",
     "vi": "Indonesia (Jakarta)",
-    "zh-CN": "印度尼西亚（雅加达）",
-    "ja": "インドネシア（ジャカルタ）"
+    "zh-CN": "印度尼西亚 (雅加达)",
+    "ja": "インドネシア (ジャカルタ)"
   },
   "BPOM RI (Health/Vet), Halal MUI, Indonesian Customs": {
     "ko": "BPOM RI (보건/검역), Halal MUI, 인도네시아 세관",
@@ -44842,8 +44842,8 @@ window.SC_TRANSLATIONS = {
     "ko": "베트남 (호치민)",
     "id": "Vietnam (Ho Chi Minh)",
     "vi": "Việt Nam (Hồ Chí Minh)",
-    "zh-CN": "越南（胡志明市）",
-    "ja": "ベトナム（ホーチミン）"
+    "zh-CN": "越南 (胡志明市)",
+    "ja": "ベトナム (ホーチミン)"
   },
   "Vietnam MOH, General Department of Vietnam Customs": {
     "ko": "베트남 보건부(MOH), 베트남 관세총국",
@@ -44940,7 +44940,7 @@ window.SC_TRANSLATIONS = {
     "ko": "인도 (뭄바이)",
     "id": "India (Mumbai)",
     "vi": "Ấn Độ (Mumbai)",
-    "zh-CN": "印度（孟买）",
+    "zh-CN": "印度 (孟买)",
     "ja": "インド (ムンバイ)"
   },
   "India-Korea CEPA (IK-CEPA)": {
@@ -53340,8 +53340,8 @@ window.SC_TRANSLATIONS = {
     "ko": "인도 (벵갈루루)",
     "id": "India (Bengaluru)",
     "vi": "Ấn Độ (Bengaluru)",
-    "zh-CN": "印度（班加罗尔）",
-    "ja": "インド (バンガロール)"
+    "zh-CN": "印度 (班加罗尔)",
+    "ja": "インド (ベンガルール)"
   },
   "South Asian IT/Algorithm Support & Sourcing Hub": {
     "ko": "남아시아 IT/알고리즘 지원 및 소싱 허브",
@@ -54809,8 +54809,8 @@ window.SC_TRANSLATIONS = {
   "biz-hub": {
     "ko": "비즈허브",
     "id": "biz-hub",
-    "vi": "trung tâm biz",
-    "zh-CN": "商务中心",
+    "vi": "biz-hub",
+    "zh-CN": "商务枢纽",
     "ja": "ビズハブ"
   },
   "challengers": {
@@ -54830,14 +54830,14 @@ window.SC_TRANSLATIONS = {
   "ir-pitchdeck": {
     "ko": "IR 피치덱",
     "id": "ir-pitchdeck",
-    "vi": "ir-sân hiên",
-    "zh-CN": "IR-Pitchdeck",
-    "ja": "IRピッチデッキ"
+    "vi": "ir-pitchdeck",
+    "zh-CN": "IR 演示文稿",
+    "ja": "IRピッチデック"
   },
   "media": {
     "ko": "미디어",
     "id": "media",
-    "vi": "phương tiện truyền thông",
+    "vi": "truyền thông",
     "zh-CN": "媒体",
     "ja": "メディア"
   },
@@ -54852,7 +54852,7 @@ window.SC_TRANSLATIONS = {
     "ko": "비즈허브",
     "id": "Biz-Hub",
     "vi": "Biz-Hub",
-    "zh-CN": "商务中心",
+    "zh-CN": "商务枢纽",
     "ja": "ビズハブ"
   },
   "Explore IR Pitchdeck ->": {
@@ -57512,8 +57512,8 @@ window.SC_TRANSLATIONS = {
     "ko": "SCI(자카르타/마룬다)",
     "id": "SCI (Jakarta / Marunda)",
     "vi": "SCI (Jakarta / Marunda)",
-    "zh-CN": "SCI（雅加达/马伦达）",
-    "ja": "SCI（ジャカルタ/マルンダ）"
+    "zh-CN": "SCI (雅加达 / 马伦达)",
+    "ja": "SCI (ジャカルタ / マルンダ)"
   },
   "Bonded Import & Cluster Hub": {
     "ko": "보세수입 및 클러스터 허브",
@@ -57547,8 +57547,8 @@ window.SC_TRANSLATIONS = {
     "ko": "SCS (창이 FTZ)",
     "id": "SCS (Changi FTZ)",
     "vi": "SCS (Changi FTZ)",
-    "zh-CN": "SCS（樟宜自由贸易区）",
-    "ja": "SCS (チャンギFTZ)"
+    "zh-CN": "SCS (樟宜 FTZ)",
+    "ja": "SCS (チャンギ FTZ)"
   },
   "International Transshipment": {
     "ko": "국제 환적",
@@ -61082,7 +61082,7 @@ window.SC_TRANSLATIONS = {
     "ko": "박닌 / 하노이, 베트남",
     "id": "Bac Ninh / Hanoi, Vietnam",
     "vi": "Bắc Ninh / Hà Nội, Việt Nam",
-    "zh-CN": "北宁/河内, 越南",
+    "zh-CN": "越南北宁 / 河内",
     "ja": "バクニン / ハノイ、ベトナム"
   },
   "High-Density SMT Lines, Multi-Layer PCBs, 800G Transceivers": {
@@ -61242,16 +61242,16 @@ window.SC_TRANSLATIONS = {
   "SCK (Seoul / Incheon)": {
     "ko": "SCK (서울/인천)",
     "id": "SCK (Seoul / Incheon)",
-    "vi": "SCK (Seoul/Incheon)",
-    "zh-CN": "SCK（首尔/仁川）",
-    "ja": "SCK（ソウル・仁川）"
+    "vi": "SCK (Seoul / Incheon)",
+    "zh-CN": "SCK (首尔 / 仁川)",
+    "ja": "SCK (ソウル / 仁川)"
   },
   "SCI (Jakarta / Cikarang)": {
     "ko": "SCI(자카르타/치카랑)",
     "id": "SCI (Jakarta / Cikarang)",
     "vi": "SCI (Jakarta / Cikarang)",
-    "zh-CN": "SCI（雅加达/西卡朗）",
-    "ja": "SCI（ジャカルタ/チカラン）"
+    "zh-CN": "SCI (雅加达 / 芝加浪)",
+    "ja": "SCI (ジャカルタ / チカラン)"
   },
   "SCU (California / Silicon Valley)": {
     "ko": "SCU(캘리포니아/실리콘밸리)",
@@ -63712,10 +63712,10 @@ window.SC_TRANSLATIONS = {
   },
   "Google Workspace Master Cash Ledger & BCA/Wise Bank Queue": {
     "ko": "Google Workspace Master Cash Ledger 및 BCA/Wise Bank 대기열",
-    "id": "Google Workspace Master Cash Ledger & BCA/Wise Bank Queue",
-    "vi": "Sổ cái tiền mặt chính của Google Workspace và hàng đợi BCA/Wise Bank",
-    "zh-CN": "Google Workspace Master Cash Ledger 和 BCA/Wise Bank Queue",
-    "ja": "Google Workspace Master Cash Ledger と BCA/Wise Bank Queue"
+    "id": "Buku Besar Kas Utama Google Workspace & Antrean Bank BCA/Wise",
+    "vi": "Sổ cái tiền mặt chính của Google Workspace & Hàng đợi ngân hàng BCA/Wise",
+    "zh-CN": "Google Workspace 主现金账本及 BCA/Wise 银行队列",
+    "ja": "Google Workspace マスター現金出納帳および BCA/Wise 銀行キュー"
   },
   "Auto-generates signed PDF purchase order draft for 1-click CEO approval.": {
     "ko": "원클릭 CEO 승인을 위해 서명된 PDF 구매 주문 초안을 자동 생성합니다.",
@@ -63789,10 +63789,10 @@ window.SC_TRANSLATIONS = {
   },
   "Audits Challenger tier status (S1-S6), past deliverable verification, and payroll tax rules.": {
     "ko": "Challenger 계층 상태(S1-S6), 과거 결과물 확인 및 급여세 규칙을 감사합니다.",
-    "id": "Audits Challenger tier status (S1-S6), past deliverable verification, and payroll tax rules.",
-    "vi": "Kiểm tra trạng thái cấp Người thách thức (S1-S6), xác minh khả năng chuyển giao trước đây và các quy tắc về thuế bảng lương.",
-    "zh-CN": "审核挑战者等级状态 (S1-S6)、过去的可交付成果验证和工资税规则。",
-    "ja": "チャレンジャー層のステータス (S1 ～ S6)、過去の成果物の検証、および給与税ルールを監査します。"
+    "id": "Audit status tingkat Challenger (S1-S6), verifikasi hasil kerja masa lalu, dan aturan pajak penggajian.",
+    "vi": "Kiểm tra trạng thái cấp bậc Challenger (S1-S6), xác minh sản phẩm bàn giao trước đây và các quy tắc thuế lương.",
+    "zh-CN": "审核 Challenger 层级状态 (S1-S6)、过往交付成果验证及薪资税务规则。",
+    "ja": "チャレンジャーティアステータス（S1-S6）、過去の成果物の検証、および給与税規則の監査。"
   },
   "HR Master Sheet & 25th Payroll Disbursal Queue": {
     "ko": "HR 마스터 시트 및 25차 급여 지급 대기열",
@@ -64153,10 +64153,10 @@ window.SC_TRANSLATIONS = {
   },
   "Autonomous Work Generation Triggers": {
     "ko": "자율적인 작업 생성 트리거",
-    "id": "Autonomous Work Generation Triggers",
+    "id": "Pemicu Pembuatan Pekerjaan Otonom",
     "vi": "Trình kích hoạt tạo công việc tự động",
     "zh-CN": "自主工作生成触发器",
-    "ja": "自律的な作業生成のトリガー"
+    "ja": "自律的ワーク生成トリガー"
   },
   "Automated Ledger Consolidation": {
     "ko": "자동화된 원장 통합",
@@ -64202,10 +64202,10 @@ window.SC_TRANSLATIONS = {
   },
   "Specialists adapt K-Beauty cosmetic claims into colloquial Bahasa Indonesia or Vietnamese, verify halal ingredient terminologies, and design viral TikTok visual assets.": {
     "ko": "전문가들은 K-뷰티 화장품 관련 주장을 인도네시아어 또는 베트남어 구어체로 적용하고, 할랄 성분 용어를 검증하고, 바이럴 TikTok 시각적 자산을 디자인합니다.",
-    "id": "Specialists adapt K-Beauty cosmetic claims into colloquial Bahasa Indonesia or Vietnamese, verify halal ingredient terminologies, and design viral TikTok visual assets.",
-    "vi": "Các chuyên gia điều chỉnh các tuyên bố về mỹ phẩm K-Beauty sang tiếng Bahasa Indonesia hoặc tiếng Việt thông tục, xác minh thuật ngữ thành phần halal và thiết kế nội dung hình ảnh TikTok mang tính lan truyền.",
-    "zh-CN": "专家将 K-Beauty 化妆品声明改编成印度尼西亚语或越南语口语，验证清真成分术语，并设计病毒式 TikTok 视觉资产。",
-    "ja": "専門家は、K-Beautyの化粧品の主張を口語的なインドネシア語またはベトナム語に適応させ、ハラル成分の用語を検証し、バイラルなTikTokビジュアルアセットをデザインします。"
+    "id": "Spesialis mengadaptasi klaim kosmetik K-Beauty ke dalam bahasa Indonesia atau Vietnam sehari-hari, memverifikasi terminologi bahan halal, dan merancang aset visual TikTok yang viral.",
+    "vi": "Các chuyên gia điều chỉnh các tuyên bố về mỹ phẩm K-Beauty sang tiếng Indonesia hoặc tiếng Việt thông dụng, xác minh thuật ngữ thành phần halal và thiết kế các tài sản hình ảnh TikTok lan truyền.",
+    "zh-CN": "专家将 K-Beauty 化妆品宣称转化为通俗的印度尼西亚语或越南语，验证清真成分术语，并设计病毒式传播的 TikTok 视觉资产。",
+    "ja": "専門家が K-Beauty 化粧品のクレームを口語的なインドネシア語やベトナム語に適応させ、ハラール成分の用語を検証し、バイラルな TikTok ビジュアルアセットをデザインします。"
   },
   "Licensed veterinarians and customs brokers validate clinical dosage formulations for SISPet and clear containerized freight through Tanjung Priok or Incheon customs.": {
     "ko": "자격을 갖춘 수의사와 통관업자가 SISPet의 임상 투여량 제제를 검증하고 Tanjung Priok 또는 인천 세관을 통해 컨테이너 화물을 통관합니다.",
@@ -64251,17 +64251,17 @@ window.SC_TRANSLATIONS = {
   },
   "High-performing Challengers with consistent 5-star AI delivery scores unlock S4-S6 franchise rights, entitling them to co-found regional *SC project SPVs and participate in long-term profit dividends.": {
     "ko": "일관된 5성 AI 제공 점수를 보유한 우수한 성과를 내는 도전자는 S4-S6 프랜차이즈 권한을 잠금 해제하여 지역 *SC 프로젝트 SPV를 공동 창립하고 장기적인 이익 배당금에 참여할 수 있는 자격을 얻습니다.",
-    "id": "High-performing Challengers with consistent 5-star AI delivery scores unlock S4-S6 franchise rights, entitling them to co-found regional *SC project SPVs and participate in long-term profit dividends.",
-    "vi": "Những Người thách thức có hiệu suất cao với điểm phân phối AI 5 sao nhất quán sẽ mở khóa quyền nhượng quyền S4-S6, cho phép họ tham gia các SPV dự án *SC đồng sáng lập trong khu vực và tham gia chia cổ tức lợi nhuận dài hạn.",
-    "zh-CN": "具有一致的 5 星级 AI 交付分数的高绩效挑战者可解锁 ​​S4-S6 特许经营权，使他们有权共同创立区域 *SC 项目 SPV 并参与长期利润分红。",
-    "ja": "AI デリバリー スコアが一貫して 5 つ星で成績の高いチャレンジャーは、S4 ～ S6 のフランチャイズ権を解除し、地域 *SC プロジェクトの SPV を共同設立し、長期的な利益配当に参加する権利を与えられます。"
+    "id": "Challenger berkinerja tinggi dengan skor pengiriman AI bintang 5 yang konsisten membuka hak waralaba S4-S6, yang memberi mereka hak untuk mendirikan SPV proyek *SC regional dan berpartisipasi dalam dividen laba jangka panjang.",
+    "vi": "Những Challenger có hiệu suất cao với điểm số phân phối AI 5 sao nhất quán sẽ mở khóa quyền nhượng quyền S4-S6, cho phép họ đồng sáng lập các SPV dự án *SC khu vực và tham gia vào cổ tức lợi nhuận dài hạn.",
+    "zh-CN": "拥有持续 5 星级 AI 交付评分的高绩效 Challenger 可解锁 S4-S6 特许经营权，使其有权共同创立区域 *SC 项目 SPV 并参与长期利润分红。",
+    "ja": "一貫して 5 つ星の AI デリバリースコアを獲得している高パフォーマンスの Challenger は、S4-S6 フランチャイズ権をアンロックし、地域の *SC プロジェクト SPV を共同設立して長期的な利益配当に参加する権利を得ます。"
   },
   "By eliminating recruiting agencies and headhunters, *SC saves over $60,000 monthly in variable staffing costs. Concurrently, Qubit Marketplace Work opens its verified Challenger network to external global brands entering Southeast Asia and East Asia.": {
     "ko": "채용 대행사와 헤드헌터를 제거함으로써 *SC는 가변적인 인력 비용에서 매달 $60,000 이상을 절약합니다. 동시에 Qubit Marketplace Work는 검증된 Challenger 네트워크를 동남아시아 및 동아시아에 진출하는 외부 글로벌 브랜드에 공개합니다.",
-    "id": "By eliminating recruiting agencies and headhunters, *SC saves over $60,000 monthly in variable staffing costs. Concurrently, Qubit Marketplace Work opens its verified Challenger network to external global brands entering Southeast Asia and East Asia.",
-    "vi": "Bằng cách loại bỏ các cơ quan tuyển dụng và công ty săn đầu người, *SC tiết kiệm được hơn 60.000 USD hàng tháng cho các chi phí nhân sự thay đổi. Đồng thời, Qubit Marketplace Work mở mạng lưới Challenger đã được xác minh của mình cho các thương hiệu toàn cầu bên ngoài đang thâm nhập vào Đông Nam Á và Đông Á.",
-    "zh-CN": "通过消除招聘机构和猎头公司，*SC 每月可节省超过 60,000 美元的可变人员成本。与此同时，Qubit Marketplace Work 向进入东南亚和东亚的外部全球品牌开放其经过验证的挑战者网络。",
-    "ja": "人材紹介会社とヘッドハンターを排除することで、*SC は変動する人件費を毎月 60,000 ドル以上節約しています。同時に、Qubit Marketplace Work は、検証済みの Challenger ネットワークを東南アジアおよび東アジアに参入する外部のグローバル ブランドに公開します。"
+    "id": "Dengan meniadakan agen perekrutan dan headhunter, *SC menghemat lebih dari $60.000 setiap bulan dalam biaya staf variabel. Secara bersamaan, Qubit Marketplace Work membuka jaringan Challenger yang terverifikasi untuk merek global eksternal yang memasuki Asia Tenggara dan Asia Timur.",
+    "vi": "Bằng cách loại bỏ các đại lý tuyển dụng và thợ săn đầu người, *SC tiết kiệm hơn 60.000 đô la mỗi tháng chi phí nhân sự biến đổi. Đồng thời, Qubit Marketplace Work mở mạng lưới Challenger đã được xác minh cho các thương hiệu toàn cầu bên ngoài đang thâm nhập Đông Nam Á và Đông Á.",
+    "zh-CN": "通过取消招聘机构和猎头，*SC 每月可节省超过 60,000 美元的可变人员成本。同时，Qubit Marketplace Work 向进入东南亚和东亚的外部全球品牌开放其经过验证的 Challenger 网络。",
+    "ja": "採用代理店やヘッドハンターを排除することで、*SC は毎月 60,000 ドル以上の変動人件費を節約しています。同時に、Qubit Marketplace Work は、東南アジアや東アジアに進出する外部のグローバルブランドに対して、検証済みの Challenger ネットワークを開放します。"
   },
   "All work transactions executed through Qubit Marketplace Work are isolated within regional operating SPVs under the *SC Dual-Track Legal Firewall. Holding intellectual property and sovereign algorithms remain 100% shielded from any contractor disputes or local labor arbitration.": {
     "ko": "Qubit Marketplace Work를 통해 실행되는 모든 작업 거래는 *SC 이중 트랙 법적 방화벽에 따라 지역 운영 SPV 내에서 격리됩니다. 지적 재산 보유 및 주권 알고리즘은 계약자 분쟁이나 현지 노동 중재로부터 100% 보호됩니다.",
@@ -64573,10 +64573,10 @@ window.SC_TRANSLATIONS = {
   },
   "All Labor Variable & Tied to Milestones or Sales GMV": {
     "ko": "모든 노동 변수 및 이정표 또는 판매 GMV에 연결",
-    "id": "All Labor Variable & Tied to Milestones or Sales GMV",
-    "vi": "Tất cả các biến lao động và gắn liền với các mốc quan trọng hoặc GMV bán hàng",
-    "zh-CN": "所有劳动力变量均与里程碑或销售 GMV 挂钩",
-    "ja": "すべての労働変数とマイルストーンまたは売上総額に関連する"
+    "id": "Semua Tenaga Kerja Variabel & Terikat pada Milestone atau GMV Penjualan",
+    "vi": "Tất cả lao động là biến đổi & gắn liền với các cột mốc hoặc GMV bán hàng",
+    "zh-CN": "所有劳动力均为变量，并与里程碑或销售 GMV 挂钩",
+    "ja": "すべての労働力は変動制であり、マイルストーンまたは売上 GMV に連動"
   },
   "Average Micro-Bounty Lifecycle from Posting to Verification": {
     "ko": "게시부터 검증까지 평균 마이크로 포상금 수명주기",
@@ -64587,10 +64587,10 @@ window.SC_TRANSLATIONS = {
   },
   "Instant Automated Split Payout via Bank / Wise Webhooks": {
     "ko": "은행/현명한 웹후크를 통한 즉시 자동 분할 지급",
-    "id": "Instant Automated Split Payout via Bank / Wise Webhooks",
-    "vi": "Thanh toán chia tự động tức thì qua ngân hàng / Wise Webhooks",
-    "zh-CN": "通过 Bank / Wise Webhooks 即时自动分割付款",
-    "ja": "銀行 / Wise Webhook を介した即時自動分割支払い"
+    "id": "Pembayaran Split Otomatis Instan melalui Bank / Wise Webhooks",
+    "vi": "Thanh toán chia nhỏ tự động tức thì qua Bank / Wise Webhooks",
+    "zh-CN": "通过银行 / Wise Webhooks 实现即时自动分账支付",
+    "ja": "銀行 / Wise Webhooks を介した即時自動分割支払い"
   },
   "Chapter 02 • Task Quantization Atomic Execution Architecture": {
     "ko": "02장 • 태스크 양자화 원자적 실행 아키텍처",
@@ -64608,10 +64608,10 @@ window.SC_TRANSLATIONS = {
   },
   "Chapter 04 • AI Quality Gate Dual-Engine Verification": {
     "ko": "Chapter 04 • AI 품질 게이트 듀얼 엔진 검증",
-    "id": "Chapter 04 • AI Quality Gate Dual-Engine Verification",
-    "vi": "Chương 04 • Xác minh động cơ kép cổng chất lượng AI",
-    "zh-CN": "第04章AI质量门双引擎验证",
-    "ja": "第 04 章 • AI Quality Gate デュアルエンジン検証"
+    "id": "Bab 04 • Verifikasi Dual-Engine AI Quality Gate",
+    "vi": "Chương 04 • Xác minh động cơ kép AI Quality Gate",
+    "zh-CN": "第 04 章 • AI Quality Gate 双引擎验证",
+    "ja": "第04章 • AI Quality Gate デュアルエンジン検証"
   },
   "Chapter 05 • Enterprise Sync 8-Team Departmental Integration": {
     "ko": "05장 • Enterprise Sync 8개 팀 부서 통합",
@@ -64664,10 +64664,10 @@ window.SC_TRANSLATIONS = {
   },
   "How One Player Journey Entangles 12 Commercial Verticals": {
     "ko": "한 플레이어의 여정이 12개의 상업용 업종을 얽히게 하는 방법",
-    "id": "How One Player Journey Entangles 12 Commercial Verticals",
-    "vi": "Hành trình của một người chơi liên quan đến 12 ngành thương mại như thế nào",
-    "zh-CN": "《单人游戏之旅》如何涉及 12 个商业垂直领域",
-    "ja": "1 人のプレーヤーの旅が 12 の商業分野にどのように絡むか"
+    "id": "Bagaimana Satu Perjalanan Pemain Melibatkan 12 Vertikal Komersial",
+    "vi": "Cách một hành trình của người chơi liên kết với 12 lĩnh vực thương mại dọc",
+    "zh-CN": "一个玩家旅程如何牵动 12 个商业垂直领域",
+    "ja": "1人のプレイヤーのジャーニーが12の商業的垂直分野をどのように巻き込むか"
   },
   "Financial Clearing & Unit Economics of Gamified RWA Commerce": {
     "ko": "게임화된 RWA 상거래의 금융 청산 및 단위 경제학",
@@ -64902,10 +64902,10 @@ window.SC_TRANSLATIONS = {
   },
   "Every transaction inside Qubit Planet Games—whether an in-app battle-pass upgrade, a squad gift bundle, or a physical RWA redemption top-up—settles through the Qubit-Biz Financial Clearinghouse. By combining Smart ODM factory-floor economics (Rp 1,320 unit cost) with our proprietary PG 70/30 Fee Split and Qubit Affiliators Program, the platform transforms gaming from a cost center into a high-margin cashflow engine.": {
     "ko": "인앱 배틀 패스 업그레이드, 팀 선물 번들, 실제 RWA 상환 충전 등 Qubit Planet Games 내부의 모든 거래는 Qubit-Biz Financial Clearinghouse를 통해 정산됩니다. Smart ODM 공장 현장 경제성(Rp 1,320 단위 비용)을 당사의 독점 PG 70/30 수수료 분할 및 Qubit 제휴 프로그램과 결합함으로써 플랫폼은 게임을 비용 센터에서 고수익 현금 흐름 엔진으로 전환합니다.",
-    "id": "Every transaction inside Qubit Planet Games—whether an in-app battle-pass upgrade, a squad gift bundle, or a physical RWA redemption top-up—settles through the Qubit-Biz Financial Clearinghouse. By combining Smart ODM factory-floor economics (Rp 1,320 unit cost) with our proprietary PG 70/30 Fee Split and Qubit Affiliators Program, the platform transforms gaming from a cost center into a high-margin cashflow engine.",
-    "vi": "Mọi giao dịch trong Qubit Planet Games—dù là nâng cấp battle-pass trong ứng dụng, gói quà tặng đội hay nạp tiền quy đổi RWA vật lý—đều được giải quyết thông qua Cơ quan thanh toán tài chính Qubit-Biz. Bằng cách kết hợp tính kinh tế tại nhà máy Smart ODM (chi phí đơn vị 1.320 Rp) với Chương trình phân chia phí PG 70/30 và Chương trình liên kết Qubit độc quyền của chúng tôi, nền tảng này sẽ biến hoạt động chơi game từ một trung tâm chi phí thành một công cụ dòng tiền có lợi nhuận cao.",
-    "zh-CN": "Qubit Planet Games 内的每笔交易（无论是应用内战斗通行证升级、小队礼品包还是实体 RWA 兑换充值）均通过 Qubit-Biz 金融清算所进行结算。通过将智能 ODM 工厂经济（单位成本 1,320 卢比）与我们专有的 PG 70/30 费用分割和 Qubit 附属计划相结合，该平台将游戏从成本中心转变为高利润现金流引擎。",
-    "ja": "Qubit Planet Games 内のすべてのトランザクションは、アプリ内バトルパスのアップグレード、スクワッド ギフト バンドル、または物理的な RWA 引き換えトップアップのいずれであっても、Qubit-Biz Financial Clearinghouse を通じて決済されます。スマート ODM 工場現場の経済性 (単価 1,320 ルピア) と当社独自の PG 70/30 手数料分割および Qubit アフィリエイター プログラムを組み合わせることで、このプラットフォームはゲームをコスト センターから利益率の高いキャッシュフロー エンジンに変換します。"
+    "id": "Setiap transaksi di dalam Qubit Planet Games—baik itu upgrade battle-pass dalam aplikasi, bundel hadiah skuad, atau top-up penukaran RWA fisik—diselesaikan melalui Qubit-Biz Financial Clearinghouse. Dengan menggabungkan ekonomi lantai pabrik Smart ODM (biaya unit Rp 1.320) dengan PG 70/30 Fee Split dan Qubit Affiliators Program milik kami, platform ini mengubah gaming dari pusat biaya menjadi mesin arus kas margin tinggi.",
+    "vi": "Mọi giao dịch trong Qubit Planet Games—cho dù là nâng cấp battle-pass trong ứng dụng, gói quà tặng đội nhóm hay nạp tiền đổi thưởng RWA vật lý—đều được quyết toán thông qua Qubit-Biz Financial Clearinghouse. Bằng cách kết hợp kinh tế quy mô nhà máy Smart ODM (chi phí đơn vị Rp 1.320) với PG 70/30 Fee Split độc quyền và Qubit Affiliators Program của chúng tôi, nền tảng này biến trò chơi từ một trung tâm chi phí thành một động cơ dòng tiền biên lợi nhuận cao.",
+    "zh-CN": "Qubit Planet Games 内部的所有交易——无论是应用内战斗通行证升级、小队礼包，还是实体 RWA 兑换充值——都通过 Qubit-Biz Financial Clearinghouse 进行结算。通过将 Smart ODM 工厂经济（单位成本 Rp 1,320）与我们专有的 PG 70/30 Fee Split 和 Qubit Affiliators Program 相结合，该平台将游戏从成本中心转变为高利润的现金流引擎。",
+    "ja": "Qubit Planet Games 内のすべてのトランザクション（アプリ内のバトルパスアップグレード、スクアッドギフトバンドル、物理的な RWA 引き換えトップアップなど）は、Qubit-Biz Financial Clearinghouse を通じて決済されます。Smart ODM の工場フロア経済（ユニットコスト Rp 1,320）を、独自の PG 70/30 Fee Split および Qubit Affiliators Program と組み合わせることで、このプラットフォームはゲーミングをコストセンターから高マージンのキャッシュフローエンジンへと変貌させます。"
   },
   "Whenever a player purchases a Star Pass or unlocks an instant physical RWA bundle inside Qubit Planet Games, payment processing fees are recaptured via the PG 70/30 Split (returning 70% of fee rebates to the ecosystem treasury and 30% as player cashback credits). Furthermore, players who contribute creative quest designs to the Idea Bank or sponsor stray-animal meals via the Petfood Bank automatically receive legendary planetary artifacts—unifying entertainment, commerce, and ESG impact in a single ledger.": {
     "ko": "플레이어가 스타 패스를 구매하거나 Qubit Planet Games 내에서 즉시 실제 RWA 번들을 잠금 해제할 때마다 결제 처리 수수료는 PG 70/30 분할을 통해 회수됩니다(수수료 환불의 70%를 생태계 재무부에 반환하고 30%를 플레이어 캐시백 크레딧으로 반환). 또한 Idea Bank에 창의적인 퀘스트 디자인을 제공하거나 Petfood Bank를 통해 길 잃은 동물 식사를 후원하는 플레이어는 엔터테인먼트, 상업 및 ESG 영향을 단일 원장에 통합하여 전설적인 행성 유물을 자동으로 받습니다.",
@@ -65042,10 +65042,10 @@ window.SC_TRANSLATIONS = {
   },
   "Geofenced Nearbuy routing + POS terminal sync.": {
     "ko": "지오펜싱 Nearbuy 라우팅 + POS 터미널 동기화.",
-    "id": "Geofenced Nearbuy routing + POS terminal sync.",
-    "vi": "Định tuyến Nearbuy được định vị địa lý + đồng bộ hóa thiết bị đầu cuối POS.",
-    "zh-CN": "地理围栏 Nearbuy 路由 + POS 终端同步。",
-    "ja": "ジオフェンスで囲まれた Nearbuy ルーティング + POS ターミナルの同期。"
+    "id": "Perutean Geofenced Nearbuy + sinkronisasi terminal POS.",
+    "vi": "Định tuyến Geofenced Nearbuy + đồng bộ hóa thiết bị đầu cuối POS.",
+    "zh-CN": "Geofenced Nearbuy 路由 + POS 终端同步。",
+    "ja": "Geofenced Nearbuy ルーティング + POS 端末同期。"
   },
   "+58% offline foot traffic to partner S1–S6 franchise stores.": {
     "ko": "파트너 S1~S6 프랜차이즈 매장의 오프라인 매장 방문 횟수가 58% 증가합니다.",
@@ -65070,10 +65070,10 @@ window.SC_TRANSLATIONS = {
   },
   "Top-voted player formulas are physically manufactured by biz-hub Smart ODM.": {
     "ko": "최고 투표 선수 공식은 비즈허브 Smart ODM에서 물리적으로 제조됩니다.",
-    "id": "Top-voted player formulas are physically manufactured by biz-hub Smart ODM.",
-    "vi": "Các công thức dành cho người chơi được bình chọn hàng đầu được sản xuất thực tế bởi biz-hub Smart ODM.",
-    "zh-CN": "投票最高的球员配方由 biz-hub Smart ODM 实体制造。",
-    "ja": "投票数の多いプレーヤーのフォーミュラは、biz-hub Smart ODM によって物理的に製造されます。"
+    "id": "Formula pemain dengan suara terbanyak diproduksi secara fisik oleh biz-hub Smart ODM.",
+    "vi": "Các công thức của người chơi được bình chọn cao nhất được sản xuất vật lý bởi biz-hub Smart ODM.",
+    "zh-CN": "投票最高的玩家配方由 biz-hub Smart ODM 实体制造。",
+    "ja": "最多投票を得たプレイヤーのフォーミュラは、biz-hub Smart ODM によって物理的に製造されます。"
   },
   "Auto-Formulator R1 BOM calculator + Idea Bank IP registry.": {
     "ko": "Auto-Formulator R1 BOM 계산기 + Idea Bank IP 등록.",
@@ -65182,59 +65182,59 @@ window.SC_TRANSLATIONS = {
   },
   "-$0.12 Net Effective CAC (Rp 1,320 sachet cost offset by in-game micro-transactions & viral K=2.4).": {
     "ko": "-$0.12 순 유효 CAC(게임 내 소액 거래 및 바이럴 K=2.4로 상쇄되는 Rp 1,320 향 주머니 비용).",
-    "id": "-$0.12 Net Effective CAC (Rp 1,320 sachet cost offset by in-game micro-transactions & viral K=2.4).",
-    "vi": "-$0,12 CAC hiệu quả ròng (chi phí gói 1.320 Rp được bù đắp bằng các giao dịch vi mô trong trò chơi & K=2,4 lan truyền).",
-    "zh-CN": "- 0.12 美元净有效 CAC（1,320 盾的成本由游戏内微交易和病毒式传播 K=2.4 抵消）。",
-    "ja": "-0.12 ドルの正味有効 CAC (ゲーム内のマイクロトランザクションとバイラル K=2.4 によって相殺される Rp 1,320 サシェのコスト)。"
+    "id": "-$0,12 Net Effective CAC (biaya sachet Rp 1.320 yang dikompensasi oleh mikro-transaksi dalam game & viral K=2,4).",
+    "vi": "-$0,12 Net Effective CAC (chi phí gói nhỏ Rp 1.320 được bù đắp bằng các giao dịch vi mô trong trò chơi & lan truyền K=2,4).",
+    "zh-CN": "-$0.12 净有效 CAC（Rp 1,320 的小包装成本被游戏内微交易和病毒式传播 K=2.4 所抵消）。",
+    "ja": "-$0.12 純有効 CAC（ゲーム内マイクロトランザクションとバイラル K=2.4 によって相殺された Rp 1,320 のサシェコスト）。"
   },
   "Reward Backing & Floor Value": {
     "ko": "보상 지원 및 최소 가치",
-    "id": "Reward Backing & Floor Value",
-    "vi": "Hỗ trợ phần thưởng & Giá trị sàn",
-    "zh-CN": "奖励支持和底值",
-    "ja": "Reward Backing & Floor Value"
+    "id": "Dukungan Reward & Nilai Dasar (Floor Value)",
+    "vi": "Bảo chứng phần thưởng & Giá trị sàn (Floor Value)",
+    "zh-CN": "奖励支持与底价 (Floor Value)",
+    "ja": "リワードバッキングとフロアバリュー (Floor Value)"
   },
   "None (ad impressions vanish instantly after viewing).": {
     "ko": "없음(광고 노출은 시청 후 즉시 사라집니다).",
-    "id": "None (ad impressions vanish instantly after viewing).",
-    "vi": "Không có (số lần hiển thị quảng cáo biến mất ngay lập tức sau khi xem).",
-    "zh-CN": "无（广告印象在观看后立即消失）。",
-    "ja": "なし (広告のインプレッションは表示後すぐに消えます)。"
+    "id": "Tidak ada (tayangan iklan langsung hilang setelah dilihat).",
+    "vi": "Không có (lượt hiển thị quảng cáo biến mất ngay lập tức sau khi xem).",
+    "zh-CN": "无（广告展示在观看后立即消失）。",
+    "ja": "なし（広告インプレッションは視聴後すぐに消滅します）。"
   },
   "Unbacked governance tokens prone to 95%+ hyperinflationary crash.": {
     "ko": "지원되지 않는 거버넌스 토큰은 95% 이상의 초인플레이션 붕괴 가능성이 있습니다.",
-    "id": "Unbacked governance tokens prone to 95%+ hyperinflationary crash.",
-    "vi": "Token quản trị không được hỗ trợ có khả năng xảy ra sự cố siêu lạm phát hơn 95%.",
-    "zh-CN": "无支持的治理代币容易出现 95% 以上的恶性通货膨胀崩溃。",
-    "ja": "裏付けのないガバナンストークンは95%以上のハイパーインフレの暴落に見舞われやすい。"
+    "id": "Token tata kelola tanpa jaminan yang rentan terhadap kehancuran hiperinflasi 95%+.",
+    "vi": "Các token quản trị không được bảo đảm có nguy cơ sụp đổ do siêu lạm phát trên 95%.",
+    "zh-CN": "缺乏支持的治理代币，容易发生 95% 以上的高通胀崩溃。",
+    "ja": "95%以上のハイパーインフレによる暴落のリスクがある、裏付けのないガバナンストークン。"
   },
   "100% Physical RWA Backing verified by Qubit ERP & CCTV Vision Stock Opname.": {
     "ko": "Qubit ERP 및 CCTV Vision Stock Opname으로 검증된 100% 실제 RWA 지원.",
-    "id": "100% Physical RWA Backing verified by Qubit ERP & CCTV Vision Stock Opname.",
-    "vi": "Hỗ trợ RWA vật lý 100% được xác minh bởi Qubit ERP & CCTV Vision Stock Opname.",
-    "zh-CN": "100% 物理 RWA 支持由 Qubit ERP 和 CCTV Vision Stock Opname 验证。",
-    "ja": "Qubit ERP および CCTV Vision Stock Opname によって 100% 物理 RWA 裏付けが検証されています。"
+    "id": "Dukungan RWA Fisik 100% yang diverifikasi oleh Qubit ERP & CCTV Vision Stock Opname.",
+    "vi": "100% bảo chứng RWA vật lý được xác minh bởi Qubit ERP & CCTV Vision Stock Opname.",
+    "zh-CN": "由 Qubit ERP 和 CCTV Vision Stock Opname 验证的 100% 实体 RWA 支持。",
+    "ja": "Qubit ERP および CCTV Vision Stock Opname によって検証された 100% 物理 RWA 裏付け。"
   },
   "Day-30 (D30) User Retention": {
     "ko": "30일(D30) 사용자 유지",
-    "id": "Day-30 (D30) User Retention",
+    "id": "Retensi Pengguna Hari ke-30 (D30)",
     "vi": "Tỷ lệ giữ chân người dùng ngày thứ 30 (D30)",
-    "zh-CN": "第 30 天 (D30) 用户保留",
-    "ja": "30 日目 (D30) ユーザー維持率"
+    "zh-CN": "第 30 天 (D30) 用户留存率",
+    "ja": "30日目 (D30) ユーザー維持率"
   },
   "3.5% – 6.0% for standard casual branded mini-games.": {
     "ko": "표준 캐주얼 브랜드 미니게임의 경우 3.5% – 6.0%.",
-    "id": "3.5% – 6.0% for standard casual branded mini-games.",
-    "vi": "3,5% – 6,0% cho các trò chơi nhỏ mang thương hiệu thông thường tiêu chuẩn.",
+    "id": "3,5% – 6,0% untuk mini-game bermerek kasual standar.",
+    "vi": "3,5% – 6,0% cho các trò chơi nhỏ có thương hiệu thông thường tiêu chuẩn.",
     "zh-CN": "标准休闲品牌迷你游戏为 3.5% – 6.0%。",
-    "ja": "標準的なカジュアル ブランド ミニゲームの場合は 3.5% ～ 6.0%。"
+    "ja": "標準的なカジュアルブランドのミニゲームで 3.5% ～ 6.0%。"
   },
   "8.0% – 12.0% (collapses as soon as token price declines).": {
     "ko": "8.0% – 12.0% (토큰 가격이 하락하자마자 붕괴됨)",
-    "id": "8.0% – 12.0% (collapses as soon as token price declines).",
+    "id": "8,0% – 12,0% (runtuh segera setelah harga token turun).",
     "vi": "8,0% – 12,0% (sụp đổ ngay khi giá token giảm).",
-    "zh-CN": "8.0% – 12.0%（一旦代币价格下跌就会崩溃）。",
-    "ja": "8.0% – 12.0% (トークン価格が下落するとすぐに崩壊)。"
+    "zh-CN": "8.0% – 12.0%（代币价格下跌时立即崩溃）。",
+    "ja": "8.0% ～ 12.0%（トークン価格が下落するとすぐに崩壊します）。"
   },
   "Live-Ops & Content Production Cost": {
     "ko": "라이브 운영 및 콘텐츠 제작 비용",
@@ -65315,10 +65315,10 @@ window.SC_TRANSLATIONS = {
   },
   "Legacy Web3 Play-to-Earn (Speculative Token GameFi)": {
     "ko": "레거시 Web3 Play-to-Earn(투기 토큰 GameFi)",
-    "id": "Legacy Web3 Play-to-Earn (Speculative Token GameFi)",
-    "vi": "Chơi để kiếm tiền Web3 kế thừa (GameFi mã thông báo đầu cơ)",
-    "zh-CN": "旧版 Web3 Play-to-Earn（投机代币 GameFi）",
-    "ja": "レガシー Web3 Play-to-Earn (投機的トークン GameFi)"
+    "id": "Web3 Play-to-Earn Warisan (GameFi Token Spekulatif)",
+    "vi": "Web3 Play-to-Earn truyền thống (GameFi mã thông báo đầu cơ)",
+    "zh-CN": "传统 Web3 Play-to-Earn（投机性代币 GameFi）",
+    "ja": "レガシー Web3 Play-to-Earn（投機的トークン GameFi）"
   },
   "*SC Qubit Planet Games™ (RWA-Entangled Cosmo Seed™)": {
     "ko": "*SC Qubit Planet Games™(RWA-Entangled Cosmo Seed™)",
@@ -65329,45 +65329,45 @@ window.SC_TRANSLATIONS = {
   },
   "Figure 2.1: While traditional ad spend evaporates into fleeting impressions and Web3 tokens collapse from unbacked inflation, Qubit Planet Games™ entangles gameplay directly with CCTV-verified physical SKU inventory and reverse QR pouch scanning.": {
     "ko": "그림 2.1: 전통적인 광고 지출이 일시적인 인상으로 증발하고 Web3 토큰이 지원되지 않는 인플레이션으로 인해 무너지는 반면, Qubit Planet Games™는 CCTV로 확인된 실제 SKU 인벤토리 및 역방향 QR 파우치 스캐닝을 통해 게임플레이를 직접 얽습니다.",
-    "id": "Figure 2.1: While traditional ad spend evaporates into fleeting impressions and Web3 tokens collapse from unbacked inflation, Qubit Planet Games™ entangles gameplay directly with CCTV-verified physical SKU inventory and reverse QR pouch scanning.",
-    "vi": "Hình 2.1: Trong khi chi tiêu quảng cáo truyền thống bốc hơi thành những lần hiển thị thoáng qua và mã thông báo Web3 sụp đổ do lạm phát không được hỗ trợ, Qubit Planet Games™ trực tiếp can thiệp vào lối chơi với kho lưu trữ SKU vật lý đã được CCTV xác minh và quét túi QR ngược.",
-    "zh-CN": "图 2.1：虽然传统广告支出蒸发为转瞬即逝的印象，Web3 代币因无保障的通货膨胀而崩溃，但 Qubit Planet Games™ 将游戏玩法直接与经过 CCTV 验证的物理 SKU 库存和反向 QR 袋扫描结合在一起。",
-    "ja": "図 2.1: 従来の広告費は一時的なインプレッションに蒸発し、Web3 トークンは裏付けのないインフレによって崩壊しますが、Qubit Planet Games™ はゲームプレイを CCTV で検証された物理的な SKU インベントリとリバース QR パウチ スキャンと直接結びつけます。"
+    "id": "Gambar 2.1: Sementara pengeluaran iklan tradisional menguap menjadi tayangan sekilas dan token Web3 runtuh karena inflasi tanpa jaminan, Qubit Planet Games™ mengaitkan gameplay secara langsung dengan inventaris SKU fisik yang diverifikasi CCTV dan pemindaian kantong QR terbalik.",
+    "vi": "Hình 2.1: Trong khi chi tiêu quảng cáo truyền thống bốc hơi thành những ấn tượng thoáng qua và các token Web3 sụp đổ do lạm phát không được bảo chứng, Qubit Planet Games™ liên kết trực tiếp lối chơi với kho hàng SKU vật lý được xác minh qua CCTV và quét túi QR ngược.",
+    "zh-CN": "图 2.1：当传统的广告支出蒸发为转瞬即逝的印象，且 Web3 代币因缺乏支撑的通货膨胀而崩溃时，Qubit Planet Games™ 将游戏玩法直接与经过 CCTV 验证的实体 SKU 库存和反向 QR 袋扫描挂钩。",
+    "ja": "図 2.1：従来の広告費がはかないインプレッションとして蒸発し、Web3 トークンが裏付けのないインフレによって崩壊する一方で、Qubit Planet Games™ はゲームプレイを CCTV で検証された物理的な SKU 在庫および逆 QR パウチスキャンと直接結び付けます。"
   },
   "Figure 3.1: End-to-end technical pipeline connecting the 24/7 Overnight Data Factory, Dual-Engine Vector RAG, and CCTV Vision Stock Opname to the Qubit Planet Games runtime and physical RWA clearing.": {
     "ko": "그림 3.1: 연중무휴 야간 데이터 팩토리, 이중 엔진 벡터 RAG 및 CCTV Vision Stock Opname을 Qubit Planet Games 런타임 및 물리적 RWA 청산에 연결하는 엔드투엔드 기술 파이프라인.",
-    "id": "Figure 3.1: End-to-end technical pipeline connecting the 24/7 Overnight Data Factory, Dual-Engine Vector RAG, and CCTV Vision Stock Opname to the Qubit Planet Games runtime and physical RWA clearing.",
-    "vi": "Hình 3.1: Đường ống kỹ thuật đầu cuối kết nối Nhà máy dữ liệu qua đêm 24/7, RAG Vector động cơ kép và CCTV Vision Stock Opname với thời gian chạy Trò chơi Qubit Planet Games và thanh toán bù trừ RWA vật lý.",
-    "zh-CN": "图 3.1：将 24/7 隔夜数据工厂、双引擎 Vector RAG 和 CCTV Vision Stock Opname 连接到 Qubit Planet Games 运行时和物理 RWA 清算的端到端技术管道。",
-    "ja": "図 3.1: 24/7 Overnight Data Factory、デュアルエンジン Vector RAG、CCTV Vision Stock Opname を Qubit Planet Games ランタイムと物理 RWA クリアに接続するエンドツーエンドの技術パイプライン。"
+    "id": "Gambar 3.1: Saluran teknis end-to-end yang menghubungkan 24/7 Overnight Data Factory, Dual-Engine Vector RAG, dan CCTV Vision Stock Opname ke runtime Qubit Planet Games dan penyelesaian RWA fisik.",
+    "vi": "Hình 3.1: Quy trình kỹ thuật đầu cuối kết nối 24/7 Overnight Data Factory, Dual-Engine Vector RAG và CCTV Vision Stock Opname với thời gian chạy của Qubit Planet Games và thanh toán RWA vật lý.",
+    "zh-CN": "图 3.1：连接 24/7 Overnight Data Factory、Dual-Engine Vector RAG 和 CCTV Vision Stock Opname 到 Qubit Planet Games 运行时和物理 RWA 结算的端到端技术管道。",
+    "ja": "図 3.1：24/7 Overnight Data Factory、Dual-Engine Vector RAG、および CCTV Vision Stock Opname を Qubit Planet Games ランタイムおよび物理的な RWA クリアリングに接続するエンドツーエンドのテクニカルパイプライン。"
   },
   "Figure 5.1: The 6 Planetary Biomes of Qubit Planet Games™, illustrating how a single player avatar traverses beauty, veterinary, F&B franchise, ODM co-creation, ed-tech, and bio-wellness verticals.": {
     "ko": "그림 5.1: 싱글 플레이어 아바타가 미용, 수의학, F&B 프랜차이즈, ODM 공동 제작, 교육 기술 및 바이오 웰니스 분야를 어떻게 횡단하는지 보여주는 Qubit Planet Games™의 6가지 행성 생물군계.",
-    "id": "Figure 5.1: The 6 Planetary Biomes of Qubit Planet Games™, illustrating how a single player avatar traverses beauty, veterinary, F&B franchise, ODM co-creation, ed-tech, and bio-wellness verticals.",
-    "vi": "Hình 5.1: 6 quần xã sinh vật hành tinh của Qubit Planet Games™, minh họa cách một hình đại diện của một người chơi đi qua các ngành làm đẹp, thú y, nhượng quyền thương mại F&B, đồng sáng tạo ODM, công nghệ giáo dục và sức khỏe sinh học.",
-    "zh-CN": "图 5.1：Qubit Planet Games™ 的 6 个行星生物群落，展示了单人角色如何穿越美容、兽医、餐饮特许经营、ODM 共同创造、教育技术和生物健康垂直领域。",
-    "ja": "図 5.1: Qubit Planet Games™ の 6 つの惑星バイオーム。単一プレイヤーのアバターが美容、獣医、F&B フランチャイズ、ODM 共創、エドテック、バイオウェルネス分野をどのように横断するかを示しています。"
+    "id": "Gambar 5.1: 6 Bioma Planet Qubit Planet Games™, mengilustrasikan bagaimana satu avatar pemain melintasi vertikal kecantikan, kedokteran hewan, waralaba F&B, kreasi bersama ODM, ed-tech, dan bio-wellness.",
+    "vi": "Hình 5.1: 6 Sinh quyên Hành tinh của Qubit Planet Games™, minh họa cách một hình đại diện người chơi duy nhất đi qua các lĩnh vực làm đẹp, thú y, nhượng quyền F&B, đồng sáng tạo ODM, ed-tech và chăm sóc sức khỏe sinh học.",
+    "zh-CN": "图 5.1：Qubit Planet Games™ 的 6 个星球生物群落，展示了单个玩家角色如何穿梭于美容、兽医、餐饮特许经营、ODM 共同创作、教育科技和生物健康垂直领域。",
+    "ja": "図 5.1：Qubit Planet Games™ の 6 つの惑星バイオーム。単一のプレイヤーアバターが、美容、獣医、F&B フランチャイズ、ODM 共同制作、エデュテック、およびバイオウェルネスの垂直市場をどのように横断するかを示しています。"
   },
   "CHAPTER I • EXECUTIVE MANIFESTO & RWA GAMEFI GENESIS": {
     "ko": "1장 • 경영진 선언문 및 RWA GAMEFI 창세기",
-    "id": "CHAPTER I • EXECUTIVE MANIFESTO & RWA GAMEFI GENESIS",
-    "vi": "CHƯƠNG I • TUYÊN BỐ ĐIỀU HÀNH & RWA GAMEFI GENESIS",
-    "zh-CN": "第一章 • 执行宣言和 RWA GAMEFI 起源",
-    "ja": "第 1 章 • エグゼクティブマニフェストと RWA GAMEFI の創世記"
+    "id": "BAB I • MANIFESTO EKSEKUTIF & GENESIS GAMEFI RWA",
+    "vi": "CHƯƠNG I • TUYÊN NGÔN ĐIỀU HÀNH & NGUỒN GỐC RWA GAMEFI",
+    "zh-CN": "第一章 • 执行宣言与 RWA GAMEFI 创始",
+    "ja": "第 I 章 • エグゼクティブ・マニフェスト ＆ RWA GAMEFI ジェネシス"
   },
   "DOMAIN 05 • QUBIT-BIZ NODE 04 • PLAY-TO-OWN REAL-WORLD ASSET COMMERCE": {
     "ko": "DOMAIN 05 • QUBIT-BIZ 노드 04 • PLAY-TO-OWN 실제 자산 상거래",
-    "id": "DOMAIN 05 • QUBIT-BIZ NODE 04 • PLAY-TO-OWN REAL-WORLD ASSET COMMERCE",
-    "vi": "MIỀN 05 • QUBIT-BIZ NODE 04 • CHƠI ĐỂ SỞ HỮU TÀI SẢN THẾ GIỚI THỰC",
-    "zh-CN": "领域 05 • 量子商业节点 04 • 玩到拥有的现实世界资产商业",
-    "ja": "ドメイン 05 • QUBIT-BIZ ノード 04 • プレイツーオウンの実世界アセットコマース"
+    "id": "DOMAIN 05 • QUBIT-BIZ NODE 04 • PERDAGANGAN ASET DUNIA NYATA PLAY-TO-OWN",
+    "vi": "MIỀN 05 • QUBIT-BIZ NODE 04 • THƯƠNG MẠI TÀI SẢN THỰC PLAY-TO-OWN",
+    "zh-CN": "领域 05 • QUBIT-BIZ 节点 04 • PLAY-TO-OWN 现实世界资产商业",
+    "ja": "ドメイン 05 • QUBIT-BIZ ノード 04 • PLAY-TO-OWN 現実資産コマース"
   },
   "CHAPTER II • INDUSTRY FAILURE ANALYSIS & QUANTUM PARADIGM SHIFT": {
     "ko": "제2장 • 산업 실패 분석 및 양자 패러다임 전환",
-    "id": "CHAPTER II • INDUSTRY FAILURE ANALYSIS & QUANTUM PARADIGM SHIFT",
-    "vi": "CHƯƠNG II • PHÂN TÍCH THẤT BẠI TRONG NGÀNH & SỰ CHUYỂN ĐỔI LƯỢNG LƯỢNG",
-    "zh-CN": "第二章•行业失败分析和量子范式转变",
-    "ja": "第 2 章 • 業界の失敗分析と量子パラダイムシフト"
+    "id": "BAB II • ANALISIS KEGAGALAN INDUSTRI & PERGESERAN PARADIGMA KUANTUM",
+    "vi": "CHƯƠNG II • PHÂN TÍCH THẤT BẠI TRONG NGÀNH & SỰ CHUYỂN ĐỔI MÔ HÌNH LƯỢNG TỬ",
+    "zh-CN": "第二章 • 行业失败分析与量子范式转移",
+    "ja": "第2章 • 業界の失敗分析と量子パラダイムシフト"
   },
   "CLASSICAL AD-TECH & WEB3 PONZINOMICS VS. RWA-BACKED GAMEFI": {
     "ko": "클래식 AD-TECH 및 WEB3 폰지노믹스 VS. RWA 지원 GameFI",
@@ -65427,10 +65427,10 @@ window.SC_TRANSLATIONS = {
   },
   "8-TEAM AI QUBIT ERP & CCTV VISION STOCK OPNAME": {
     "ko": "8팀 AI QUBIT ERP 및 CCTV 비전 스톡 OPNAME",
-    "id": "8-TEAM AI QUBIT ERP & CCTV VISION STOCK OPNAME",
-    "vi": "8-TEAM AI QUBIT ERP & CCTV VISION STOCK OPNAME",
-    "zh-CN": "8 队 AI QBit ERP 和 CCTV VISION 股票名称",
-    "ja": "8 チーム AI QUBIT ERP および CCTV ビジョンの株式OP名"
+    "id": "8-TEAM AI QUBIT ERP & STOK OPNAME VISI CCTV",
+    "vi": "8-TEAM AI QUBIT ERP & KIỂM KÊ KHO TẦM NHÌN CCTV",
+    "zh-CN": "8团队 AI QUBIT ERP 与 CCTV 视觉库存盘点",
+    "ja": "8チーム AI QUBIT ERP ＆ CCTVビジョン棚卸し"
   },
   "BELL-STATE VIRTUAL-PHYSICAL ENTANGLEMENT & DISCRETE LOOT QUANTIZATION": {
     "ko": "벨 상태의 가상-물리적 얽힘 및 이산 전리품 양자화",
@@ -65455,10 +65455,10 @@ window.SC_TRANSLATIONS = {
   },
   "PG 70/30 SPLIT • K-SURE BNPL • COMPARATIVE PERFORMANCE MATRIX": {
     "ko": "PG 70/30 분할 • K-SURE BNPL • 비교 성능 매트릭스",
-    "id": "PG 70/30 SPLIT • K-SURE BNPL • COMPARATIVE PERFORMANCE MATRIX",
-    "vi": "PG 70/30 SPLIT • K-SURE BNPL • MA TRẬN HIỆU SUẤT SO SÁNH",
-    "zh-CN": "PG 70/30 SPLIT • K-SURE BNPL • 比较性能矩阵",
-    "ja": "PG 70/30 スプリット • K-SURE BNPL • パフォーマンス比較マトリックス"
+    "id": "PEMBAGIAN PG 70/30 • K-SURE BNPL • MATRIKS KINERJA KOMPARATIF",
+    "vi": "CHIA TÁCH PG 70/30 • K-SURE BNPL • MA TRẬN HIỆU SUẤT SO SÁNH",
+    "zh-CN": "PG 70/30 分成 • K-SURE BNPL • 比较性能矩阵",
+    "ja": "PG 70/30分割 • K-SURE BNPL • 比較パフォーマンスマトリックス"
   },
   "CHAPTER VII • PARTNER ADOPTION, CHALLENGERS & IR VALUATION": {
     "ko": "7장 • 파트너 채택, 도전자 및 IR 평가",
@@ -65469,10 +65469,10 @@ window.SC_TRANSLATIONS = {
   },
   "TURNKEY B2B BRAND ONBOARDING • CHALLENGER GUILDS • VC MULTIPLES": {
     "ko": "턴키 B2B 브랜드 온보딩 • 챌린저 길드 • VC 멀티플",
-    "id": "TURNKEY B2B BRAND ONBOARDING • CHALLENGER GUILDS • VC MULTIPLES",
-    "vi": "GIỚI THIỆU THƯƠNG HIỆU B2B CHÌA KHÓA TRUYỀN THÔNG • HỘI DUNG THÁCH THỨC • NHIỀU VC",
-    "zh-CN": "交钥匙 B2B 品牌入驻 • 挑战者公会 • 风险投资多重",
-    "ja": "ターンキー B2B ブランドのオンボーディング • チャレンジャー ギルド • VC マルチプル"
+    "id": "ONBOARDING MEREK B2B TURNKEY • CHALLENGER GUILDS • MULTIPEL VC",
+    "vi": "TRIỂN KHAI THƯƠNG HIỆU B2B TRỌN GÓI • CHALLENGER GUILDS • HỆ SỐ NHÂN VC",
+    "zh-CN": "一站式 B2B 品牌入驻 • 挑战者公会 • VC 倍数",
+    "ja": "ターンキー B2B ブランドオンボーディング • チャレンジャーギルド • VCマルチプル"
   },
   "NODE VERIFICATION • QUBIT-BIZ [04/17]": {
     "ko": "노드 검증 • QUBIT-BIZ [04/17]",
@@ -65511,10 +65511,10 @@ window.SC_TRANSLATIONS = {
   },
   "Autonomous Nightly Quest, Drop-Table & Lore Synthesis via Dify RAG": {
     "ko": "Dify RAG를 통한 자율 야간 퀘스트, 드롭 테이블 및 지식 합성",
-    "id": "Autonomous Nightly Quest, Drop-Table & Lore Synthesis via Dify RAG",
-    "vi": "Nhiệm vụ hàng đêm tự động, Bảng thả & Tổng hợp truyền thuyết thông qua Dify RAG",
-    "zh-CN": "通过 Dify RAG 进行自主夜间任务、掉落表和知识合成",
-    "ja": "Dify RAG を介した自律的な夜間クエスト、ドロップテーブル、ロア合成"
+    "id": "Quest Malam Otonom, Drop-Table & Sintesis Lore melalui Dify RAG",
+    "vi": "Nhiệm vụ Đêm Tự động, Bảng Rơi đồ & Tổng hợp Cốt truyện qua Dify RAG",
+    "zh-CN": "通过 Dify RAG 实现的自主夜间任务、掉落表与背景设定合成",
+    "ja": "Dify RAGによる自律型ナイトリークエスト、ドロップテーブル、およびロア合成"
   },
   "3.8x Industry Benchmark Driven by Physical Delivery & QR Scan-to-Play": {
     "ko": "실제 배송 및 QR 스캔 투 플레이를 통해 업계 벤치마크 3.8배 향상",
@@ -65581,59 +65581,59 @@ window.SC_TRANSLATIONS = {
   },
   "CHAPTER IV • QUANTUM MATHEMATICAL FORMALISM BELL-STATE VIRTUAL-PHYSICAL ENTANGLEMENT & DISCRETE LOOT QUANTIZATION": {
     "ko": "IV장 • 양자 수학적 형식주의 벨 상태 가상-물리적 얽힘 및 이산 전리품 양자화",
-    "id": "CHAPTER IV • QUANTUM MATHEMATICAL FORMALISM BELL-STATE VIRTUAL-PHYSICAL ENTANGLEMENT & DISCRETE LOOT QUANTIZATION",
-    "vi": "CHƯƠNG IV • HÌNH THỨC TOÁN HỌC LƯỢNG TỬ TRẠNG THÁI BELL-TRANG VẬT VẬT LÝ & LƯỢNG TƯỢNG LƯỢNG RÁC BIỆT",
-    "zh-CN": "第四章·量子数学形式主义贝尔态虚拟物理纠缠和离散战利品量化",
-    "ja": "CHAPTER IV • QUANTUM MATHEMATICAL FORMALISM BELL-STATE VIRTUAL-PHYSICAL ENTANGLEMENT & DISCRETE LOOT QUANTIZATION"
+    "id": "BAB IV • FORMALISME MATEMATIKA KUANTUM KETERKAITAN VIRTUAL-FISIK BELL-STATE & KUANTISASI LOOT DISKRIT",
+    "vi": "CHƯƠNG IV • HÌNH THỨC TOÁN HỌC LƯỢNG TỬ SỰ ĐAN XEN VẬT LÝ-ẢO TRẠNG THÁI BELL & LƯỢNG TỬ HÓA VẬT PHẨM RỜI RẠC",
+    "zh-CN": "第四章 • 量子数学形式主义 贝尔态虚实纠缠与离散战利品量子化",
+    "ja": "第IV章 • 量子数学的形式主義 ベル状態の仮想・物理的量子もつれと離散戦利品量子化"
   },
   "CHAPTER V • THE 6 INTERACTIVE PLANETARY BIOMES CROSS-BRAND ENTANGLEMENT ACROSS BIZ-GALAXY & COSMO SEED™ ENGINES": {
     "ko": "V장 • 6가지 대화형 행성 생물군계 BIZ-GALAXY 및 COSMO SEED™ 엔진 전반에 걸친 브랜드 간 얽힘",
-    "id": "CHAPTER V • THE 6 INTERACTIVE PLANETARY BIOMES CROSS-BRAND ENTANGLEMENT ACROSS BIZ-GALAXY & COSMO SEED™ ENGINES",
-    "vi": "CHƯƠNG V • 6 quần thể sinh vật hành tinh tương tác tương tác với sự vướng víu thương hiệu chéo trên các động cơ BIZ-GALAXY & COSMO SEED™",
-    "zh-CN": "第五章 • 跨业务的 6 个交互式行星生物群系跨品牌纠葛 - GALAXY 和 COSMO SEED™ 引擎",
-    "ja": "第 5 章 • Biz-Galaxy および Cosmo Seed™ エンジンにわたる 6 つのインタラクティブな惑星バイオームのブランド間の絡み合い"
+    "id": "BAB V • 6 BIOMA PLANET INTERAKTIF KETERKAITAN LINTAS MEREK DI SELURUH BIZ-GALAXY & MESIN COSMO SEED™",
+    "vi": "CHƯƠNG V • 6 HỆ SINH THÁI HÀNH TINH TƯƠNG TÁC SỰ ĐAN XEN ĐA THƯƠNG HIỆU TRÊN BIZ-GALAXY & ĐỘNG CƠ COSMO SEED™",
+    "zh-CN": "第五章 • 6 个交互式行星生物群落 跨 BIZ-GALAXY 与 COSMO SEED™ 引擎的跨品牌纠缠",
+    "ja": "第V章 • 6つのインタラクティブな惑星バイオーム BIZ-GALAXYおよびCOSMO SEED™エンジンにわたるクロスブランドの量子もつれ"
   },
   "CHAPTER VI • INSTITUTIONAL UNIT ECONOMICS & BENCHMARKING PG 70/30 SPLIT • K-SURE BNPL • COMPARATIVE PERFORMANCE MATRIX": {
     "ko": "VI 장 • 기관 단위 경제 및 벤치마킹 PG 70/30 분할 • K-SURE BNPL • 비교 성과 매트릭스",
-    "id": "CHAPTER VI • INSTITUTIONAL UNIT ECONOMICS & BENCHMARKING PG 70/30 SPLIT • K-SURE BNPL • COMPARATIVE PERFORMANCE MATRIX",
-    "vi": "CHƯƠNG VI • THỂ CHẾ ĐƠN VỊ KINH TẾ & ĐIỂM CHUẨN PG 70/30 SPLIT • K-SURE BNPL • Ma trận HIỆU SUẤT SO SÁNH",
-    "zh-CN": "第六章 • 机构单位经济学和基准 PG 70/30 分割 • K-SURE BNPL • 比较绩效矩阵",
-    "ja": "CHAPTER VI • INSTITUTIONAL UNIT ECONOMICS & BENCHMARKING PG 70/30 SPLIT • K-SURE BNPL • COMPARATIVE PERFORMANCE MATRIX"
+    "id": "BAB VI • EKONOMI UNIT INSTITUSIONAL & TOLOK UKUR PEMBAGIAN PG 70/30 • K-SURE BNPL • MATRIKS KINERJA KOMPARATIF",
+    "vi": "CHƯƠNG VI • KINH TẾ ĐƠN VỊ ĐỊNH CHẾ & ĐÁNH GIÁ CHUẨN CHIA TỶ LỆ PG 70/30 • K-SURE BNPL • MA TRẬN HIỆU SUẤT SO SÁNH",
+    "zh-CN": "第六章 • 机构单位经济学与基准测试 PG 70/30 分成 • K-SURE BNPL • 比较绩效矩阵",
+    "ja": "第VI章 • 機関ユニットエコノミクスとベンチマーク PG 70/30 スプリット • K-SURE BNPL • 比較パフォーマンスマトリックス"
   },
   "CHAPTER VII • PARTNER ADOPTION, CHALLENGERS & IR VALUATION TURNKEY B2B BRAND ONBOARDING • CHALLENGER GUILDS • VC MULTIPLES": {
     "ko": "7장 • 파트너 채택, 도전자 및 IR 가치 평가 턴키 B2B 브랜드 온보딩 • 도전자 길드 • VC 다중",
-    "id": "CHAPTER VII • PARTNER ADOPTION, CHALLENGERS & IR VALUATION TURNKEY B2B BRAND ONBOARDING • CHALLENGER GUILDS • VC MULTIPLES",
-    "vi": "CHƯƠNG VII • THAM GIA ĐỐI TÁC, NGƯỜI THÁCH THỨC & ĐỊNH GIÁ IR CHÌA KHÓA TR trao tay XÁC NHẬN THƯƠNG HIỆU B2B • HƯỚNG DẪN THÁCH THỨC • NHIỀU VC",
-    "zh-CN": "第七章 • 合作伙伴采用、挑战者和 IR 估值 交钥匙 B2B 品牌入职 • 挑战者协会 • 风险投资倍数",
-    "ja": "CHAPTER VII • PARTNER ADOPTION, CHALLENGERS & IR VALUATION TURNKEY B2B BRAND ONBOARDING • CHALLENGER GUILDS • VC MULTIPLES"
+    "id": "BAB VII • ADOPSI MITRA, PENANTANG & VALUASI IR ONBOARDING MEREK B2B TURNKEY • GUILD PENANTANG • MULTIPEL VC",
+    "vi": "CHƯƠNG VII • SỰ CHẤP NHẬN CỦA ĐỐI TÁC, CÁC ĐỐI THỦ THÁCH THỨC & ĐỊNH GIÁ IR TRIỂN KHAI THƯƠNG HIỆU B2B TRỌN GÓI • HỘI THÁCH THỨC • HỆ SỐ VC",
+    "zh-CN": "第七章 • 合作伙伴采纳、挑战者与 IR 估值 一站式 B2B 品牌入驻 • 挑战者公会 • VC 倍数",
+    "ja": "第VII章 • パートナーの採用、チャレンジャー、およびIR評価 ターンキーB2Bブランドオンボーディング • チャレンジャーギルド • VCマルチプル"
   },
   "*SC — Qubit Affiliators Program: Autonomous Creator Commission & Sachet Virality": {
     "ko": "*SC — Qubit 제휴자 프로그램: 자율 창작자 위원회 및 Sachet Virality",
-    "id": "*SC — Qubit Affiliators Program: Autonomous Creator Commission & Sachet Virality",
-    "vi": "*SC — Chương trình liên kết Qubit: Ủy ban sáng tạo tự trị và tính lan truyền của gói",
-    "zh-CN": "*SC — 量子比特附属计划：自主创作者委员会和 Sachet Virality",
-    "ja": "*SC — Qubit Affiliators Program: Autonomous Creator Commission & Sachet Virality"
+    "id": "*SC — Program Qubit Affiliators: Komisi Kreator Otonom & Viralitas Sachet",
+    "vi": "*SC — Chương trình Qubit Affiliators: Hoa hồng Sáng tạo Tự động & Sự lan truyền dạng gói nhỏ",
+    "zh-CN": "*SC — Qubit Affiliators 计划：自主创作者佣金与小包病毒式传播",
+    "ja": "*SC — Qubit Affiliatorsプログラム：自律型クリエイターコミッションとサシェ・バイラリティ"
   },
   "Micro-Affiliate Attribution & The Rp 1,320 Single-Dose Sachet Model": {
     "ko": "마이크로 제휴사 귀속 및 Rp 1,320 단일 용량 향 주머니 모델",
-    "id": "Micro-Affiliate Attribution & The Rp 1,320 Single-Dose Sachet Model",
-    "vi": "Phân bổ liên kết vi mô & Mô hình gói đơn liều 1.320 Rp",
-    "zh-CN": "微附属归因和 Rp 1,320 单剂量小袋模型",
-    "ja": "Micro-Affiliate Attribution & The Rp 1,320 Single-Dose Sachet Model"
+    "id": "Atribusi Mikro-Afiliasi & Model Sachet Dosis Tunggal Rp 1.320",
+    "vi": "Phân bổ Micro-Affiliate & Mô hình gói liều đơn Rp 1.320",
+    "zh-CN": "微分销归因与 Rp 1,320 单剂量小包装模式",
+    "ja": "マイクロアフィリエイト・アトリビューション ＆ Rp 1,320 シングルドーズ・サシェモデル"
   },
   "The 10 PM → 8 AM Overnight Trend Scraping & Script Generation": {
     "ko": "오후 10시 → 오전 8시 밤새 추세 스크래핑 및 스크립트 생성",
-    "id": "The 10 PM → 8 AM Overnight Trend Scraping & Script Generation",
-    "vi": "Quá trình thu thập xu hướng qua đêm và tạo tập lệnh lúc 10 giờ tối → 8 giờ sáng",
-    "zh-CN": "晚上 10 点→上午 8 点过夜趋势抓取和脚本生成",
-    "ja": "The 10 PM → 8 AM Overnight Trend Scraping & Script Generation"
+    "id": "Scraping Tren Semalam & Pembuatan Skrip Jam 10 Malam → 8 Pagi",
+    "vi": "Thu thập xu hướng qua đêm & Tạo kịch bản từ 10 giờ tối → 8 giờ sáng",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜趋势抓取与脚本生成",
+    "ja": "午後10時 → 午前8時 オーバーナイト・トレンドスクレイピング ＆ スクリプト生成"
   },
   "Dual-Engine Vector Grounding: Halal, BPOM & Regulatory Claims": {
     "ko": "이중 엔진 벡터 접지: 할랄, BPOM 및 규제 요구",
-    "id": "Dual-Engine Vector Grounding: Halal, BPOM & Regulatory Claims",
-    "vi": "Nối đất vectơ động cơ kép: Tuyên bố Halal, BPOM & quy định",
-    "zh-CN": "双引擎矢量接地：清真、BPOM 和监管声明",
-    "ja": "Dual-Engine Vector Grounding: Halal, BPOM & Regulatory Claims"
+    "id": "Dual-Engine Vector Grounding: Klaim Halal, BPOM & Regulasi",
+    "vi": "Dual-Engine Vector Grounding: Các khiếu nại về Halal, BPOM & Quy định",
+    "zh-CN": "双引擎向量接地：清真、BPOM 和监管声明",
+    "ja": "デュアルエンジン・ベクターグラウンディング：ハラール、BPOM、および規制上の主張"
   },
   "CCTV Vision Stock Opname Entanglement: Zero Out-of-Stock Disasters": {
     "ko": "CCTV비전 주식오퍼명 얽힘: 품절재난 제로",
@@ -65868,10 +65868,10 @@ window.SC_TRANSLATIONS = {
   },
   "Caps terminology to verified clinical evidence thresholds.": {
     "ko": "검증된 임상 증거 임계값에 맞게 용어를 제한합니다.",
-    "id": "Caps terminology to verified clinical evidence thresholds.",
-    "vi": "Giới hạn thuật ngữ để xác minh ngưỡng bằng chứng lâm sàng.",
-    "zh-CN": "限制术语以验证临床证据阈值。",
-    "ja": "用語は検証された臨床証拠のしきい値に制限されます。"
+    "id": "Membatasi terminologi ke ambang bukti klinis yang terverifikasi.",
+    "vi": "Giới hạn thuật ngữ ở các ngưỡng bằng chứng lâm sàng đã được xác minh.",
+    "zh-CN": "将术语限制在经过验证的临床证据阈值内。",
+    "ja": "用語を検証済みの臨床証拠の閾値に制限します。"
   },
   "US FDA Dietary Supplement": {
     "ko": "미국 FDA 건강보조식품",
@@ -65882,10 +65882,10 @@ window.SC_TRANSLATIONS = {
   },
   "Claiming disease prevention or cure for pet bio-nutrition.": {
     "ko": "애완동물의 생체 영양에 대한 질병 예방 또는 치료를 주장합니다.",
-    "id": "Claiming disease prevention or cure for pet bio-nutrition.",
-    "vi": "Tuyên bố phòng bệnh hoặc chữa bệnh bằng dinh dưỡng sinh học cho thú cưng.",
-    "zh-CN": "声称可以预防或治愈宠物生物营养。",
-    "ja": "ペットのバイオ栄養による病気の予防または治療を主張する。"
+    "id": "Mengklaim pencegahan atau penyembuhan penyakit untuk bio-nutrisi hewan peliharaan.",
+    "vi": "Tuyên bố phòng ngừa hoặc chữa khỏi bệnh cho dinh dưỡng sinh học của thú cưng.",
+    "zh-CN": "声称宠物生物营养具有疾病预防或治愈功效。",
+    "ja": "ペットのバイオ栄養に関する疾病の予防または治療の主張。"
   },
   "Applies strict FDA Structure/Function disclaimer rules.": {
     "ko": "엄격한 FDA 구조/기능 고지 사항 규칙을 적용합니다.",
@@ -65896,24 +65896,24 @@ window.SC_TRANSLATIONS = {
   },
   "Automatically attaches mandatory FDA statutory disclaimer footnote.": {
     "ko": "필수 FDA 법적 고지 사항 각주를 자동으로 첨부합니다.",
-    "id": "Automatically attaches mandatory FDA statutory disclaimer footnote.",
-    "vi": "Tự động đính kèm chú thích từ chối trách nhiệm bắt buộc theo luật định của FDA.",
-    "zh-CN": "自动附加强制性 FDA 法定免责声明脚注。",
-    "ja": "必須の FDA 法定免責事項の脚注を自動的に添付します。"
+    "id": "Secara otomatis melampirkan catatan kaki penafian undang-undang FDA yang wajib.",
+    "vi": "Tự động đính kèm chú thích miễn trừ trách nhiệm theo luật định bắt buộc của FDA.",
+    "zh-CN": "自动附加强制性的 FDA 法定免责声明脚注。",
+    "ja": "義務付けられている FDA 法定免責事項の脚注を自動的に添付します。"
   },
   "Tower 1: Legal & Attribution Integrity": {
     "ko": "타워 1: 법적 및 귀속 무결성",
-    "id": "Tower 1: Legal & Attribution Integrity",
-    "vi": "Tháp 1: Tính toàn vẹn về mặt pháp lý và ghi công",
-    "zh-CN": "塔楼 1：法律和归属完整性",
-    "ja": "タワー 1: 法的および帰属の整合性"
+    "id": "Tower 1: Integritas Hukum & Atribusi",
+    "vi": "Tower 1: Tính toàn vẹn về Pháp lý & Ghi nhận",
+    "zh-CN": "Tower 1：法律与归属完整性",
+    "ja": "Tower 1: 法的および帰属の完全性"
   },
   "Prevents cookie stuffing, bot-click fraud, and self-referral abuse via device fingerprinting and IP velocity checks.": {
     "ko": "장치 지문 인식 및 IP 속도 검사를 통해 쿠키 스터핑, 봇 클릭 사기, 자기 추천 남용을 방지합니다.",
-    "id": "Prevents cookie stuffing, bot-click fraud, and self-referral abuse via device fingerprinting and IP velocity checks.",
-    "vi": "Ngăn chặn việc nhồi nhét cookie, gian lận nhấp chuột vào bot và lạm dụng tự giới thiệu thông qua việc lấy dấu vân tay thiết bị và kiểm tra tốc độ IP.",
-    "zh-CN": "通过设备指纹识别和 IP 速度检查防止 cookie 填充、机器人点击欺诈和自我推荐滥用。",
-    "ja": "デバイスのフィンガープリンティングと IP 速度チェックにより、Cookie スタッフィング、ボットクリック詐欺、自己紹介の悪用を防止します。"
+    "id": "Mencegah cookie stuffing, penipuan klik bot, dan penyalahgunaan referensi mandiri melalui sidik jari perangkat dan pemeriksaan kecepatan IP.",
+    "vi": "Ngăn chặn nhồi nhét cookie, gian lận nhấp chuột bằng bot và lạm dụng tự giới thiệu thông qua lấy dấu vân tay thiết bị và kiểm tra tốc độ IP.",
+    "zh-CN": "通过设备指纹识别和 IP 速度检查，防止 Cookie 填充、机器人点击欺诈和自我推荐滥用。",
+    "ja": "デバイスのフィンガープリントと IP ベロシティチェックにより、クッキースタッフィング、ボットクリック詐欺、および自己紹介の悪用を防止します。"
   },
   "100% genuine consumer conversions; zero payout leak.": {
     "ko": "100% 실제 소비자 전환; 지불금 누출이 없습니다.",
@@ -66008,10 +66008,10 @@ window.SC_TRANSLATIONS = {
   },
   "Chapter 03 • Content Intelligence": {
     "ko": "03장 • 콘텐츠 인텔리전스",
-    "id": "Chapter 03 • Content Intelligence",
-    "vi": "Chương 03 • Nội dung thông minh",
-    "zh-CN": "第 03 章•内容智能",
-    "ja": "第 03 章 • コンテンツ インテリジェンス"
+    "id": "Chapter 03 • Kecerdasan Konten",
+    "vi": "Chương 03 • Trí tuệ nội dung",
+    "zh-CN": "第 03 章 • 内容智能",
+    "ja": "第 03 章 • コンテンツインテリジェンス"
   },
   "Autonomous Creator Scripting": {
     "ko": "자율 창작자 스크립팅",
@@ -66190,10 +66190,10 @@ window.SC_TRANSLATIONS = {
   },
   "No Phantom Promotional Orders": {
     "ko": "팬텀 프로모션 주문 없음",
-    "id": "No Phantom Promotional Orders",
-    "vi": "Không có đơn đặt hàng khuyến mại ảo",
-    "zh-CN": "无虚拟促销订单",
-    "ja": "架空のプロモーション注文はありません"
+    "id": "Tidak Ada Pesanan Promosi Fiktif",
+    "vi": "Không có đơn hàng khuyến mãi ảo",
+    "zh-CN": "无虚假促销订单",
+    "ja": "架空のプロモーション注文なし"
   },
   "Algorithmic Yield Optimization": {
     "ko": "알고리즘 수율 최적화",
@@ -66260,24 +66260,24 @@ window.SC_TRANSLATIONS = {
   },
   "As optical stock opname measures declining inventory on the floor, Qubit Marketing dynamically reduces discount depths and activates scarcity countdown timers, maximizing gross margin on remaining batch lots.": {
     "ko": "광학 재고 opname이 바닥의 재고 감소를 측정함에 따라 Qubit Marketing은 할인 깊이를 동적으로 줄이고 부족 카운트다운 타이머를 활성화하여 남은 배치 로트의 총 마진을 최대화합니다.",
-    "id": "As optical stock opname measures declining inventory on the floor, Qubit Marketing dynamically reduces discount depths and activates scarcity countdown timers, maximizing gross margin on remaining batch lots.",
-    "vi": "Khi opname cổ phiếu quang học đo lường lượng hàng tồn kho đang giảm trên sàn, Qubit Marketing sẽ tự động giảm mức chiết khấu và kích hoạt đồng hồ đếm ngược tình trạng khan hiếm, tối đa hóa tỷ suất lợi nhuận gộp trên các lô còn lại.",
-    "zh-CN": "当光学库存 opname 衡量车间库存下降时，Qubit Marketing 会动态降低折扣深度并激活稀缺倒计时器，从而最大限度地提高剩余批次的毛利率。",
-    "ja": "Optical Stock Opname が現場で減少している在庫を測定すると、Qubit Marketing は割引深度を動的に減らし、希少性カウントダウン タイマーをアクティブにして、残りのバッチ ロットの粗利益を最大化します。"
+    "id": "Saat stock opname optik mengukur penurunan inventaris di lantai, Qubit Marketing secara dinamis mengurangi kedalaman diskon dan mengaktifkan penghitung waktu mundur kelangkaan, memaksimalkan margin kotor pada sisa lot batch.",
+    "vi": "Khi việc kiểm kê kho quang học đo lường lượng hàng tồn kho đang giảm dần trên sàn, Qubit Marketing sẽ linh hoạt giảm mức chiết khấu và kích hoạt đồng hồ đếm ngược sự khan hiếm, tối đa hóa biên lợi nhuận gộp trên các lô hàng còn lại.",
+    "zh-CN": "随着光学库存盘点测量到场内库存下降，Qubit Marketing 动态降低折扣幅度并激活稀缺倒计时器，从而最大限度地提高剩余批次的毛利率。",
+    "ja": "光学的な在庫棚卸しによってフロアの在庫減少が測定されると、Qubit Marketingは動的に割引率を縮小し、希少性カウントダウンタイマーを起動して、残りのバッチロットの売上総利益を最大化します。"
   },
   "Qubit Marketing generates dual returns: internally, it drives corporate customer acquisition cost to zero; externally, its tool stack is commercialized to third-party manufacturers and distributors across Asia.": {
     "ko": "Qubit Marketing은 이중 수익을 창출합니다. 내부적으로는 기업 고객 확보 비용을 0으로 만듭니다. 외부적으로는 도구 스택이 아시아 전역의 제3자 제조업체 및 유통업체에 상용화되었습니다.",
-    "id": "Qubit Marketing generates dual returns: internally, it drives corporate customer acquisition cost to zero; externally, its tool stack is commercialized to third-party manufacturers and distributors across Asia.",
-    "vi": "Qubit Marketing tạo ra lợi nhuận kép: trong nội bộ, nó đẩy chi phí thu hút khách hàng của doanh nghiệp về 0; Ở bên ngoài, kho công cụ của nó được thương mại hóa cho các nhà sản xuất và nhà phân phối bên thứ ba trên khắp châu Á.",
-    "zh-CN": "量子比特营销产生双重回报：对内，推动企业获客成本为零；对内，推动企业获客成本为零；在外部，其工具堆栈已商业化给亚洲各地的第三方制造商和分销商。",
-    "ja": "Qubit Marketing は二重の利益を生み出します。内部的には、企業の顧客獲得コストをゼロにします。対外的には、そのツール スタックはアジア全土のサードパーティ メーカーおよび販売代理店に商品化されています。"
+    "id": "Qubit Marketing menghasilkan pengembalian ganda: secara internal, ia mendorong biaya akuisisi pelanggan korporat menjadi nol; secara eksternal, tumpukan alatnya dikomersialkan ke produsen dan distributor pihak ketiga di seluruh Asia.",
+    "vi": "Qubit Marketing tạo ra lợi nhuận kép: về mặt nội bộ, nó đưa chi phí thu hút khách hàng doanh nghiệp về mức 0; về mặt bên ngoài, bộ công cụ của nó được thương mại hóa cho các nhà sản xuất và nhà phân phối bên thứ ba trên khắp châu Á.",
+    "zh-CN": "Qubit Marketing 产生双重回报：对内，它将企业客户获取成本降至零；对外，其工具栈向全亚洲的第三方制造商和分销商商业化。",
+    "ja": "Qubit Marketingは二重の収益を生み出します。内部的には企業顧客獲得コストをゼロに抑え、外部的にはそのツールスタックをアジア全域のサードパーティの製造業者や流通業者に商用化します。"
   },
   "All promotional campaigns, affiliate contracts, and advertising claims are insulated by the *SC Dual-Track Legal Firewall. Marketing disputes or consumer claims remain strictly cordoned inside regional operating SPVs, protecting holding IP and venture technology.": {
     "ko": "모든 프로모션 캠페인, 제휴 계약 및 광고 주장은 *SC 이중 트랙 법적 방화벽으로 보호됩니다. 마케팅 분쟁이나 소비자 클레임은 지역적으로 운영되는 SPV 내에서 엄격하게 통제되어 보유 IP 및 벤처 기술을 보호합니다.",
-    "id": "All promotional campaigns, affiliate contracts, and advertising claims are insulated by the *SC Dual-Track Legal Firewall. Marketing disputes or consumer claims remain strictly cordoned inside regional operating SPVs, protecting holding IP and venture technology.",
-    "vi": "Tất cả các chiến dịch quảng cáo, hợp đồng liên kết và khiếu nại quảng cáo đều được cách ly bởi *SC Tường lửa pháp lý theo dõi kép. Các tranh chấp tiếp thị hoặc khiếu nại của người tiêu dùng vẫn được xử lý nghiêm ngặt trong các SPV hoạt động trong khu vực, bảo vệ quyền sở hữu trí tuệ và công nghệ mạo hiểm.",
-    "zh-CN": "所有促销活动、附属合同和广告声明均受到 *SC 双轨法律防火墙的隔离。营销纠纷或消费者索赔仍然严格限制在区域运营的特殊目的公司内部，以保护持有的知识产权和风险技术。",
-    "ja": "すべてのプロモーション キャンペーン、アフィリエイト契約、および広告宣伝文句は、*SC Dual-Track Legal Firewall によって隔離されます。マーケティング紛争や消費者からのクレームは、地域で運営されている SPV 内で引き続き厳重に封鎖され、保有する IP とベンチャー技術が保護されています。"
+    "id": "Semua kampanye promosi, kontrak afiliasi, dan klaim iklan diisolasi oleh *SC Dual-Track Legal Firewall. Perselisihan pemasaran atau klaim konsumen tetap dibatasi secara ketat di dalam SPV operasional regional, melindungi IP holding dan teknologi ventura.",
+    "vi": "Tất cả các chiến dịch quảng cáo, hợp đồng liên kết và khiếu nại quảng cáo đều được cách ly bởi *SC Dual-Track Legal Firewall. Các tranh chấp tiếp thị hoặc khiếu nại của người tiêu dùng vẫn được phong tỏa nghiêm ngặt bên trong các SPV điều hành khu vực, bảo vệ IP nắm giữ và công nghệ liên doanh.",
+    "zh-CN": "所有促销活动、联盟合同和广告声明均受 *SC Dual-Track Legal Firewall 保护。营销纠纷或消费者索赔严格限制在区域运营 SPV 内部，从而保护控股 IP 和创业技术。",
+    "ja": "すべてのプロモーションキャンペーン、アフィリエイト契約、および広告上の主張は、*SC Dual-Track Legal Firewallによって隔離されています。マーケティング紛争や消費者からの苦情は、地域の運営SPV内に厳格に封じ込められ、ホールディングIPおよびベンチャー技術を保護します。"
   },
   "Korea (SCK)": {
     "ko": "한국(SCK)",
@@ -66311,15 +66311,15 @@ window.SC_TRANSLATIONS = {
     "ko": "인도네시아(SCI)",
     "id": "Indonesia (SCI)",
     "vi": "Indonesia (SCI)",
-    "zh-CN": "印度尼西亚（SCI）",
+    "zh-CN": "印度尼西亚 (SCI)",
     "ja": "インドネシア (SCI)"
   },
   "Badan Pengawas Obat dan Makanan (BPOM)": {
-    "ko": "Badan Pengawas Obat dan Makanan(BPOM)",
+    "ko": "인도네시아 식약처 (BPOM)",
     "id": "Badan Pengawas Obat dan Makanan (BPOM)",
-    "vi": "Badan Pengawas Obat dan Makanan (BPOM)",
-    "zh-CN": "巴丹彭加瓦斯奥巴特丹马卡南 (BPOM)",
-    "ja": "バダン ペンガワス オバト ダン マカナン (BPOM)"
+    "vi": "Cơ quan Kiểm soát Thực phẩm và Dược phẩm (BPOM)",
+    "zh-CN": "印度尼西亚食品药品监督管理局 (BPOM)",
+    "ja": "インドネシア国家食品医薬品監督庁 (BPOM)"
   },
   "Strict prohibition on drug-like curative claims; mandatory Halal MUI registration.": {
     "ko": "약물과 유사한 치료 효과에 대한 주장을 엄격히 금지합니다. 할랄 MUI 등록이 필수입니다.",
@@ -66414,10 +66414,10 @@ window.SC_TRANSLATIONS = {
   },
   "Tower 2: Treasury & Split Settlement (VAT)": {
     "ko": "타워 2: 재무부 및 분할 정산(VAT)",
-    "id": "Tower 2: Treasury & Split Settlement (VAT)",
-    "vi": "Tháp 2: Kho bạc và quyết toán chia tách (VAT)",
-    "zh-CN": "2 号塔：国库和分摊结算（增值税）",
-    "ja": "Tower 2: Treasury & Split Settlement (VAT)"
+    "id": "Tower 2: Perbendaharaan & Penyelesaian Terpisah (PPN)",
+    "vi": "Tháp 2: Ngân quỹ & Quyết toán phân chia (VAT)",
+    "zh-CN": "塔楼 2：财务与分账结算 (增值税)",
+    "ja": "タワー 2: 財務および分割決済 (VAT)"
   },
   "Automated Verification Gate": {
     "ko": "자동 검증 게이트",
@@ -66582,10 +66582,10 @@ window.SC_TRANSLATIONS = {
   },
   "Formulation & Cosmo Seed™ IP Vault": {
     "ko": "제형 및 Cosmo Seed™ IP Vault",
-    "id": "Formulation & Cosmo Seed™ IP Vault",
-    "vi": "Công thức & Cosmo Seed™ IP Vault",
-    "zh-CN": "Formulation & Cosmo Seed™ IP Vault",
-    "ja": "配合とCosmo Seed™ IP Vault"
+    "id": "Formulasi & Vault IP Cosmo Seed™",
+    "vi": "Công thức & Kho lưu trữ IP Cosmo Seed™",
+    "zh-CN": "配方与 Cosmo Seed™ 知识产权库",
+    "ja": "フォーミュレーションおよび Cosmo Seed™ IP ヴォルト"
   },
   "Perishable Time, Dead Warehouse Air & Dormant IP": {
     "ko": "부패하기 쉬운 시간, 죽은 창고 공기 및 휴면 IP",
@@ -66596,24 +66596,24 @@ window.SC_TRANSLATIONS = {
   },
   "Instantaneous Tri-Partite Collateralization & Offsetting": {
     "ko": "즉각적인 삼자 담보 및 상쇄",
-    "id": "Instantaneous Tri-Partite Collateralization & Offsetting",
-    "vi": "Thế chấp và bù đắp ba bên tức thời",
-    "zh-CN": "Instantaneous Tri-Partite Collateralization & Offsetting",
-    "ja": "三者間の即時担保と相殺"
+    "id": "Kolateralisasi & Penyeimbangan Tiga Pihak Seketika",
+    "vi": "Thế chấp & Bù trừ Ba bên Tức thời",
+    "zh-CN": "即时三方抵押与抵消",
+    "ja": "即時的な三者間担保設定および相殺"
   },
   "How Skill-Weighted Time Tokenization & Deliverable Verification Operate": {
     "ko": "기술 가중치 시간 토큰화 및 제공 가능 검증의 작동 방식",
-    "id": "How Skill-Weighted Time Tokenization & Deliverable Verification Operate",
-    "vi": "Cách hoạt động của mã thông báo thời gian có trọng số kỹ năng và xác minh có thể phân phối",
-    "zh-CN": "技能加权时间标记化和可交付成果验证如何运作",
-    "ja": "スキル加重時間トークン化と成果物の検証の仕組み"
+    "id": "Cara Kerja Tokenisasi Waktu Berbobot Keterampilan & Verifikasi Hasil Kerja",
+    "vi": "Cách thức Hoạt động của Mã hóa Thời gian theo Trọng số Kỹ năng & Xác minh Sản phẩm bàn giao",
+    "zh-CN": "技能加权时间代币化与交付成果验证的运作方式",
+    "ja": "スキル加重時間トークン化および成果物検証の仕組み"
   },
   "Fractionalizing 8-Base Logistics & Retail Geometry": {
     "ko": "8개 기반 물류 및 소매 기하학의 세분화",
-    "id": "Fractionalizing 8-Base Logistics & Retail Geometry",
-    "vi": "Phân số hình học bán lẻ và hậu cần 8 cơ sở",
-    "zh-CN": "细分 8 基物流和零售几何",
-    "ja": "8 ベースの物流および小売ジオメトリの細分化"
+    "id": "Memfraksionalisasi Logistik 8-Base & Geometri Ritel",
+    "vi": "Phân mảnh Logistics 8-Base & Hình học Bán lẻ",
+    "zh-CN": "8-Base 物流与零售几何学的碎片化",
+    "ja": "8-Base ロジスティクスおよびリテール・ジオメトリの分片化"
   },
   "Cryptographic IP Attribution & Micro-Royalty Splits": {
     "ko": "암호화 IP 귀속 및 소액 로열티 분할",
@@ -66631,10 +66631,10 @@ window.SC_TRANSLATIONS = {
   },
   "Sweat & Creativity -> Real Ownership": {
     "ko": "땀과 창의성 -> 실제 소유권",
-    "id": "Sweat & Creativity -> Real Ownership",
+    "id": "Keringat & Kreativitas -> Kepemilikan Nyata",
     "vi": "Mồ hôi & Sáng tạo -> Quyền sở hữu thực sự",
-    "zh-CN": "汗水与创造力 -> 真正的所有权",
-    "ja": "汗と創造性 -> 本当の所有権"
+    "zh-CN": "汗水与创意 -> 真实所有权",
+    "ja": "汗と創造性 -> 真の所有権"
   },
   "Infinite ROIC & Downside Protection": {
     "ko": "무한한 ROIC 및 단점 보호",
@@ -66694,10 +66694,10 @@ window.SC_TRANSLATIONS = {
   },
   "2. Dead Warehouse & Shelf Space: Cross-border 3PL warehouses and veterinary clinics routinely pay fixed monthly leases on 30% to 50% empty pallet bays or under-stocked retail shelves. Landlords demand fiat rent regardless of utilization.": {
     "ko": "2. 죽은 창고 및 선반 공간: 국경을 넘는 3PL 창고 및 동물병원은 정기적으로 30~50%의 빈 팔레트 베이 또는 재고가 부족한 소매 선반에 대해 고정 월 임대료를 지불합니다. 집주인은 활용도에 관계없이 명목 임대료를 요구합니다.",
-    "id": "2. Dead Warehouse & Shelf Space: Cross-border 3PL warehouses and veterinary clinics routinely pay fixed monthly leases on 30% to 50% empty pallet bays or under-stocked retail shelves. Landlords demand fiat rent regardless of utilization.",
-    "vi": "2. Kho không còn tồn tại và không gian kệ: Các kho 3PL xuyên biên giới và phòng khám thú y thường xuyên trả tiền thuê cố định hàng tháng cho các khay pallet trống 30% đến 50% hoặc các kệ bán lẻ chưa đủ hàng. Chủ nhà yêu cầu tiền thuê bất kể việc sử dụng.",
-    "zh-CN": "2. 闲置的仓库和货架空间：跨境 3PL 仓库和兽医诊所通常会为 30% 至 50% 的空托盘位或库存不足的零售货架支付固定的月租。无论利用率如何，房东都要求法定租金。",
-    "ja": "2. デッド倉庫と棚スペース: 国境を越えた 3PL 倉庫と動物病院は、30% ～ 50% の空のパレット ベイまたは在庫不足の小売店の棚に対して、定期的に毎月の固定リース料を支払っています。家主は使用状況に関係なく法定家賃を要求します。"
+    "id": "2. Gudang Mati & Ruang Rak: Gudang 3PL lintas batas dan klinik hewan secara rutin membayar sewa bulanan tetap untuk 30% hingga 50% ruang palet kosong atau rak ritel yang stoknya kurang. Pemilik properti menuntut sewa fiat tanpa memandang pemanfaatan.",
+    "vi": "2. Kho bãi & Không gian kệ chết: Các kho 3PL xuyên biên giới và phòng khám thú y thường xuyên trả tiền thuê cố định hàng tháng cho 30% đến 50% vị trí pallet trống hoặc kệ bán lẻ thiếu hàng. Chủ cho thuê yêu cầu tiền thuê bằng tiền pháp định bất kể mức độ sử dụng.",
+    "zh-CN": "2. 闲置仓库与货架空间：跨境 3PL 仓库和兽医诊所通常需要为 30% 至 50% 的空置托盘位或库存不足的零售货架支付固定月租。无论利用率如何，房东都要求支付法币租金。",
+    "ja": "2. デッド倉庫＆棚スペース：国境を越えた3PL倉庫や動物病院は、30%から50%の空きパレットベイや在庫不足の小売棚に対して、定期的に固定の月額リース料を支払っています。家主は利用状況に関わらず法定通貨での賃料を要求します。"
   },
   "3. Locked R&D & Business Blueprints: Universities, labs, and independent creators possess validated formulations and trade workflows but lack the $250,000+ legal and manufacturing capex required to commercialize them internationally.": {
     "ko": "3. 고정된 R&D 및 비즈니스 청사진: 대학, 연구실 및 독립 창작자는 검증된 공식 및 무역 워크플로를 보유하고 있지만 이를 국제적으로 상용화하는 데 필요한 $250,000 이상의 법적 및 제조 설비 투자가 부족합니다.",
@@ -66715,17 +66715,17 @@ window.SC_TRANSLATIONS = {
   },
   "2. Optical Space Fractionalization (Space Bank): CCTV Vision Stock Opname measures exact cubic-meter vacancy across all 8 Global Bases every night, converting empty racks into tradable QS-CBM storage vouchers.": {
     "ko": "2. 광학 공간 분할(Space Bank): CCTV Vision Stock Opname은 매일 밤 8개 글로벌 기지 전체에서 정확한 입방미터 공석을 측정하여 빈 랙을 거래 가능한 QS-CBM 스토리지 바우처로 변환합니다.",
-    "id": "2. Optical Space Fractionalization (Space Bank): CCTV Vision Stock Opname measures exact cubic-meter vacancy across all 8 Global Bases every night, converting empty racks into tradable QS-CBM storage vouchers.",
-    "vi": "2. Phân chia không gian quang học (Ngân hàng không gian): CCTV Vision Stock Opname đo khoảng trống chính xác theo mét khối trên tất cả 8 Căn cứ toàn cầu mỗi đêm, chuyển đổi các giá trống thành phiếu lưu trữ QS-CBM có thể giao dịch.",
-    "zh-CN": "2. 光学空间碎片化（空间银行）：CCTV Vision Stock Opname 每晚测量全球所有 8 个基地的精确立方米空置率，将空置机架转换为可交易的 QS-CBM 存储凭证。",
-    "ja": "2. 光学的空間分割 (スペースバンク): CCTV Vision Stock Opname は、8 つのグローバル ベースすべての正確な立方メートルの空き状況を毎晩測定し、空のラックを取引可能な QS-CBM ストレージ バウチャーに変換します。"
+    "id": "2. Fraksionalisasi Ruang Optik (Space Bank): CCTV Vision Stock Opname mengukur kekosongan meter kubik yang tepat di seluruh 8 Basis Global setiap malam, mengubah rak kosong menjadi voucher penyimpanan QS-CBM yang dapat diperdagangkan.",
+    "vi": "2. Phân mảnh không gian quang học (Space Bank): CCTV Vision Stock Opname đo lường chính xác số mét khối trống tại tất cả 8 Cơ sở Toàn cầu mỗi đêm, chuyển đổi các kệ trống thành các voucher lưu trữ QS-CBM có thể giao dịch.",
+    "zh-CN": "2. 光学空间碎片化 (Space Bank)：CCTV Vision Stock Opname 每晚测量所有 8 个全球基地的精确立方米空置率，将空置货架转换为可交易的 QS-CBM 存储凭证。",
+    "ja": "2. 光学的空間細分化 (Space Bank)：CCTV Vision Stock Opname は、毎晩全8つのグローバル拠点における正確な立方メートル単位の空き状況を測定し、空きラックを取引可能な QS-CBM ストレージバウチャーに変換します。"
   },
   "3. Automated IP Royalty Entanglement (Idea Bank): Once an idea or formulation is indexed in Dual-Engine Vector RAG (NotebookLM + Dify), any global partner can deploy it immediately while the smart PG gateway routes a 0.5% - 5.0% royalty back to the originator at checkout.": {
     "ko": "3. 자동화된 IP 로열티 얽힘(아이디어 뱅크): 아이디어나 공식이 듀얼 엔진 벡터 RAG(NotebookLM + Dify)에 색인화되면 스마트 PG 게이트웨이가 체크아웃 시 0.5% - 5.0% 로열티를 작성자에게 돌려주는 동안 모든 글로벌 파트너가 이를 즉시 배포할 수 있습니다.",
-    "id": "3. Automated IP Royalty Entanglement (Idea Bank): Once an idea or formulation is indexed in Dual-Engine Vector RAG (NotebookLM + Dify), any global partner can deploy it immediately while the smart PG gateway routes a 0.5% - 5.0% royalty back to the originator at checkout.",
-    "vi": "3. Ràng buộc tiền bản quyền IP tự động (Ngân hàng ý tưởng): Sau khi một ý tưởng hoặc công thức được lập chỉ mục trong RAG Vector động cơ kép (NotebookLM + Dify), bất kỳ đối tác toàn cầu nào cũng có thể triển khai nó ngay lập tức trong khi cổng PG thông minh chuyển trả lại tiền bản quyền 0,5% - 5,0% cho người khởi tạo khi thanh toán.",
-    "zh-CN": "3. 自动知识产权版税纠缠（创意银行）：一旦一个想法或配方在双引擎 Vector RAG (NotebookLM + Dify) 中被索引，任何全球合作伙伴都可以立即部署它，同时智能 PG 网关在结帐时将 0.5% - 5.0% 的版税返回给发起者。",
-    "ja": "3. 自動化された IP ロイヤルティエンタングルメント (アイデアバンク): アイデアや定式化がデュアルエンジン Vector RAG (NotebookLM + Dify) でインデックス付けされると、スマート PG ゲートウェイがチェックアウト時に 0.5% ～ 5.0% のロイヤルティを発信者にルーティングしながら、グローバル パートナーはすぐに展開できます。"
+    "id": "3. Keterlibatan Royalti IP Otomatis (Idea Bank): Setelah ide atau formulasi diindeks dalam Dual-Engine Vector RAG (NotebookLM + Dify), mitra global mana pun dapat menerapkannya segera sementara gerbang PG pintar merutekan royalti 0,5% - 5,0% kembali ke pencetus saat checkout.",
+    "vi": "3. Ràng buộc bản quyền IP tự động (Idea Bank): Khi một ý tưởng hoặc công thức được lập chỉ mục trong Dual-Engine Vector RAG (NotebookLM + Dify), bất kỳ đối tác toàn cầu nào cũng có thể triển khai ngay lập tức trong khi cổng PG thông minh chuyển 0,5% - 5,0% tiền bản quyền trở lại cho người khởi tạo khi thanh toán.",
+    "zh-CN": "3. 自动化知识产权版税关联 (Idea Bank)：一旦创意或配方在 Dual-Engine Vector RAG (NotebookLM + Dify) 中建立索引，任何全球合作伙伴都可以立即部署，同时智能支付网关会在结账时将 0.5% - 5.0% 的版税汇回给发起人。",
+    "ja": "3. 自動化されたIPロイヤリティ・エンタングルメント (Idea Bank)：アイデアや処方が Dual-Engine Vector RAG (NotebookLM + Dify) にインデックスされると、グローバルパートナーは即座にそれを展開でき、スマートPGゲートウェイはチェックアウト時に0.5%〜5.0%のロイヤリティを創案者に還元します。"
   },
   "The Time Bank (QT-HR) is an institutional time-equity reserve integrated directly with 03_qubit-marketplace-work and 01_qubit-erp. Rather than treating human labor as an immediate cash payroll drain or an opaque hourly freelancer invoice, the Time Bank records verified task execution into skill-weighted, deliverable-backed ledger units.": {
     "ko": "Time Bank(QT-HR)는 03_qubit-marketplace-work 및 01_qubit-erp와 직접 통합된 기관의 시간 자산 보유고입니다. 인적 노동을 즉각적인 현금 급여 유출이나 불투명한 시간별 프리랜서 송장으로 취급하는 대신 Time Bank는 검증된 작업 실행을 기술 가중치, 인도 가능 지원 원장 단위로 기록합니다.",
@@ -66841,17 +66841,17 @@ window.SC_TRANSLATIONS = {
   },
   "AI Co-Pilot Amplification Factor (alpha_AI): When a human specialist utilizes our Dual-Engine Vector RAG (NotebookLM + Dify) and 8-Team AI ERP agents to compress a 40-hour manual task into 2 hours of high-precision review, the Time Bank credits the output-equivalent standard hours rather than penalizing speed—rewarding One-Man Unicorn productivity.": {
     "ko": "AI 부조종사 증폭 인자(alpha_AI): 인간 전문가가 듀얼 엔진 벡터 RAG(NotebookLM + Dify) 및 8팀 AI ERP 에이전트를 활용하여 40시간의 수동 작업을 2시간의 고정밀 검토로 압축하면 Time Bank는 속도에 불이익을 주기보다는 출력에 해당하는 표준 시간을 인정하여 One-Man Unicorn 생산성을 보상합니다.",
-    "id": "AI Co-Pilot Amplification Factor (alpha_AI): When a human specialist utilizes our Dual-Engine Vector RAG (NotebookLM + Dify) and 8-Team AI ERP agents to compress a 40-hour manual task into 2 hours of high-precision review, the Time Bank credits the output-equivalent standard hours rather than penalizing speed—rewarding One-Man Unicorn productivity.",
-    "vi": "Hệ số khuếch đại AI Co-Pilot (alpha_AI): Khi một chuyên gia con người sử dụng RAG Vector động cơ kép (NotebookLM + Dify) và các tác nhân AI ERP 8 nhóm của chúng tôi để nén một tác vụ thủ công kéo dài 40 giờ thành 2 giờ đánh giá có độ chính xác cao, Ngân hàng Thời gian ghi nhận số giờ tiêu chuẩn tương đương đầu ra thay vì phạt tốc độ—thưởng năng suất Kỳ lân của một người.",
-    "zh-CN": "AI 副驾驶放大系数 (alpha_AI)：当人类专家利用我们的双引擎 Vector RAG (NotebookLM + Dify) 和 8 团队 AI ERP 代理将 40 小时的手动任务压缩为 2 小时的高精度审核时，时间银行会记入与产出相当的标准时间，而不是惩罚速度，从而奖励单人独角兽的生产力。",
-    "ja": "AI 副操縦士増幅率 (alpha_AI): 人間の専門家が当社のデュアルエンジン Vector RAG (NotebookLM + Dify) と 8 チーム AI ERP エージェントを利用して、40 時間の手動タスクを 2 時間の高精度レビューに圧縮すると、タイム バンクは速度を損なうのではなく、出力に相当する標準時間を評価し、ワンマン ユニコーンの生産性を評価します。"
+    "id": "Faktor Amplifikasi AI Co-Pilot (alpha_AI): Ketika seorang spesialis manusia menggunakan Dual-Engine Vector RAG (NotebookLM + Dify) dan agen AI ERP 8-Tim kami untuk memadatkan tugas manual 40 jam menjadi 2 jam tinjauan presisi tinggi, Time Bank mengkreditkan jam standar yang setara dengan output daripada menghukum kecepatan—memberi penghargaan pada produktivitas One-Man Unicorn.",
+    "vi": "Hệ số khuếch đại AI Co-Pilot (alpha_AI): Khi một chuyên gia con người sử dụng RAG Vector Động cơ kép (NotebookLM + Dify) và các tác nhân AI ERP 8 nhóm của chúng tôi để nén một tác vụ thủ công 40 giờ thành 2 giờ xem xét độ chính xác cao, Time Bank sẽ ghi nhận số giờ tiêu chuẩn tương đương với đầu ra thay vì phạt tốc độ—khen thưởng năng suất One-Man Unicorn.",
+    "zh-CN": "AI副驾驶放大系数 (alpha_AI)：当人类专家利用我们的双引擎向量 RAG (NotebookLM + Dify) 和 8 团队 AI ERP 智能体将 40 小时的手动任务压缩为 2 小时的高精度审核时，Time Bank 会计入与产出等效的标准工时，而不是惩罚速度——以此奖励 One-Man Unicorn 的生产力。",
+    "ja": "AIコパイロット増幅係数 (alpha_AI)：人間のスペシャリストが当社のデュアルエンジン・ベクトル RAG (NotebookLM + Dify) および 8チーム AI ERP エージェントを活用して、40時間の手作業を2時間の高精度レビューに圧縮する場合、Time Bank は速度を罰するのではなく、アウトプット相当の標準時間をクレジットとして付与し、One-Man Unicorn の生産性に報います。"
   },
   "R&D formulation hours, software/AI coding, legal/regulatory filing, design, and Challenger S1-S6 field marketing hours.": {
     "ko": "R&D 공식화 시간, 소프트웨어/AI 코딩, 법률/규제 제출, 디자인 및 Challenger S1-S6 현장 마케팅 시간.",
-    "id": "R&D formulation hours, software/AI coding, legal/regulatory filing, design, and Challenger S1-S6 field marketing hours.",
-    "vi": "Giờ xây dựng R&D, mã hóa phần mềm/AI, nộp hồ sơ pháp lý/quy định, thiết kế và giờ tiếp thị tại hiện trường Challenger S1-S6.",
-    "zh-CN": "研发制定时间、软件/人工智能编码、法律/监管备案、设计和挑战者 S1-S6 现场营销时间。",
-    "ja": "研究開発時間、ソフトウェア/AI コーディング、法的/規制申請、設計、チャレンジャー S1 ～ S6 フィールド マーケティング時間。"
+    "id": "Jam formulasi R&D, pengkodean perangkat lunak/AI, pengajuan hukum/peraturan, desain, dan jam pemasaran lapangan Challenger S1-S6.",
+    "vi": "Giờ lập công thức R&D, mã hóa phần mềm/AI, nộp hồ sơ pháp lý/quy định, thiết kế và giờ tiếp thị thực địa Challenger S1-S6.",
+    "zh-CN": "研发配方工时、软件/AI 编码、法律/监管备案、设计以及 Challenger S1-S6 现场营销工时。",
+    "ja": "R&D処方時間、ソフトウェア/AIコーディング、法務/規制当局への届出、デザイン、および Challenger S1-S6 フィールドマーケティング時間。"
   },
   "Qubit Marketplace Work logs + Overnight Data Factory (10 PM - 8 AM) deliverable RAG audit.": {
     "ko": "Qubit Marketplace 작업 로그 + 야간 데이터 팩토리(오후 10시 - 오전 8시) 제공 가능한 RAG 감사.",
@@ -66939,10 +66939,10 @@ window.SC_TRANSLATIONS = {
   },
   "Project 01 & 02: Qubit ERP & Company RAG (intelligence-core)": {
     "ko": "프로젝트 01 및 02: Qubit ERP 및 회사 RAG(지능-코어)",
-    "id": "Project 01 & 02: Qubit ERP & Company RAG (intelligence-core)",
-    "vi": "Dự án 01 & 02: Qubit ERP & Company RAG (lõi thông minh)",
-    "zh-CN": "项目01&02：Qubit ERP & 公司RAG（智能核心）",
-    "ja": "プロジェクト 01 & 02: Qubit ERP および Company RAG (インテリジェンスコア)"
+    "id": "Proyek 01 & 02: Qubit ERP & RAG Perusahaan (intelligence-core)",
+    "vi": "Dự án 01 & 02: Qubit ERP & RAG Công ty (intelligence-core)",
+    "zh-CN": "项目 01 & 02：Qubit ERP & 企业级 RAG (intelligence-core)",
+    "ja": "プロジェクト 01 & 02: Qubit ERP & 企業向け RAG (intelligence-core)"
   },
   "Automates nightly time-sheet auditing and AI-assisted task multiplier scoring between 10 PM - 8 AM.": {
     "ko": "오후 10시부터 오전 8시 사이에 야간 작업 기록표 감사 및 AI 지원 작업 승수 채점을 자동화합니다.",
@@ -66960,38 +66960,38 @@ window.SC_TRANSLATIONS = {
   },
   "Hosts the Dual-Engine Vector RAG (NotebookLM + Dify) IP registry and citation lineage graph.": {
     "ko": "듀얼 엔진 벡터 RAG(NotebookLM + Dify) IP 레지스트리 및 인용 계보 그래프를 호스팅합니다.",
-    "id": "Hosts the Dual-Engine Vector RAG (NotebookLM + Dify) IP registry and citation lineage graph.",
-    "vi": "Lưu trữ biểu đồ dòng trích dẫn và sổ đăng ký IP Dual-Engine Vector RAG (NotebookLM + Dify).",
-    "zh-CN": "Hosts the Dual-Engine Vector RAG (NotebookLM + Dify) IP registry and citation lineage graph.",
-    "ja": "Hosts the Dual-Engine Vector RAG (NotebookLM + Dify) IP registry and citation lineage graph."
+    "id": "Menghosting registrasi IP RAG Vektor Mesin Ganda (NotebookLM + Dify) dan grafik silsilah kutipan.",
+    "vi": "Lưu trữ sổ đăng ký IP RAG Vector Động cơ kép (NotebookLM + Dify) và biểu đồ phả hệ trích dẫn.",
+    "zh-CN": "托管双引擎向量 RAG (NotebookLM + Dify) IP 注册和引用谱系图。",
+    "ja": "デュアルエンジン・ベクトル RAG (NotebookLM + Dify) IP レジストリおよび引用リネージグラフをホストします。"
   },
   "Project 03: Agent Builder & Ms. Scarlet (scarlet-ai)": {
     "ko": "프로젝트 03: Agent Builder 및 Ms. Scarlet(scarlet-ai)",
-    "id": "Project 03: Agent Builder & Ms. Scarlet (scarlet-ai)",
-    "vi": "Dự án 03: Người xây dựng đặc vụ & Cô Scarlet (scarlet-ai)",
-    "zh-CN": "Project 03: Agent Builder & Ms. Scarlet (scarlet-ai)",
-    "ja": "Project 03: Agent Builder & Ms. Scarlet (scarlet-ai)"
+    "id": "Proyek 03: Agent Builder & Ms. Scarlet (scarlet-ai)",
+    "vi": "Dự án 03: Agent Builder & Ms. Scarlet (scarlet-ai)",
+    "zh-CN": "项目 03：Agent Builder & Ms. Scarlet (scarlet-ai)",
+    "ja": "プロジェクト 03: Agent Builder & Ms. Scarlet (scarlet-ai)"
   },
   "Quantizes live-streamer, creator, and human-in-the-loop closer hours into performance-backed QT-HR units.": {
     "ko": "라이브 스트리머, 크리에이터, 인간 참여형(Human-In-The-Loop) 마감 시간을 성능 지원 QT-HR 단위로 양자화합니다.",
-    "id": "Quantizes live-streamer, creator, and human-in-the-loop closer hours into performance-backed QT-HR units.",
-    "vi": "Lượng tử hóa thời gian của người phát trực tiếp, người sáng tạo và con người trong vòng lặp thành các đơn vị QT-HR được hỗ trợ hiệu suất.",
-    "zh-CN": "Quantizes live-streamer, creator, and human-in-the-loop closer hours into performance-backed QT-HR units.",
-    "ja": "Quantizes live-streamer, creator, and human-in-the-loop closer hours into performance-backed QT-HR units."
+    "id": "Mengkuantisasi jam kerja live-streamer, kreator, dan human-in-the-loop closer ke dalam unit QT-HR yang didukung performa.",
+    "vi": "Định lượng giờ làm việc của người phát trực tiếp, người sáng tạo và người chốt đơn (human-in-the-loop) thành các đơn vị QT-HR dựa trên hiệu suất.",
+    "zh-CN": "将直播主、创作者和人工参与的成交员时长量化为有绩效支持的 QT-HR 单位。",
+    "ja": "ライブストリーマー、クリエイター、ヒューマン・イン・ザ・ループ・クローザーの時間を、パフォーマンスに裏打ちされた QT-HR ユニットに量子化します。"
   },
   "Routes neighborhood Nearbuy group orders to the nearest micro-fulfillment locker or clinic shelf in the Space Bank.": {
     "ko": "인근 Nearbuy 그룹 주문을 Space Bank의 가장 가까운 소액 이행 보관함이나 클리닉 선반으로 라우팅합니다.",
-    "id": "Routes neighborhood Nearbuy group orders to the nearest micro-fulfillment locker or clinic shelf in the Space Bank.",
-    "vi": "Định tuyến các đơn đặt hàng của nhóm Nearbuy trong khu vực lân cận đến tủ đựng đồ vi mô hoặc kệ phòng khám gần nhất trong Ngân hàng Không gian.",
-    "zh-CN": "Routes neighborhood Nearbuy group orders to the nearest micro-fulfillment locker or clinic shelf in the Space Bank.",
-    "ja": "Routes neighborhood Nearbuy group orders to the nearest micro-fulfillment locker or clinic shelf in the Space Bank."
+    "id": "Merutekan pesanan grup Nearbuy lingkungan ke loker pemenuhan mikro atau rak klinik terdekat di Space Bank.",
+    "vi": "Điều hướng các đơn đặt hàng nhóm Nearbuy trong khu phố đến tủ khóa vi mô hoặc kệ phòng khám gần nhất trong Space Bank.",
+    "zh-CN": "将社区 Nearbuy 团购订单路由至 Space Bank 中最近的微型履约储物柜或诊所货架。",
+    "ja": "近隣の Nearbuy グループ注文を、Space Bank 内の最寄りのマイクロフルフィルメントロッカーまたはクリニックの棚にルーティングします。"
   },
   "Licenses high-converting Dify agent scripts and multilingual closing prompts registered in the Idea Bank.": {
     "ko": "Idea Bank에 등록된 전환율이 높은 Dify 에이전트 스크립트 및 다국어 마감 메시지에 대한 라이선스를 부여합니다.",
-    "id": "Licenses high-converting Dify agent scripts and multilingual closing prompts registered in the Idea Bank.",
-    "vi": "Cấp phép cho các tập lệnh tác nhân Dify có khả năng chuyển đổi cao và lời nhắc đóng đa ngôn ngữ đã đăng ký trong Ngân hàng Ý tưởng.",
-    "zh-CN": "Licenses high-converting Dify agent scripts and multilingual closing prompts registered in the Idea Bank.",
-    "ja": "Licenses high-converting Dify agent scripts and multilingual closing prompts registered in the Idea Bank."
+    "id": "Melisensikan skrip agen Dify dengan konversi tinggi dan perintah penutupan multibahasa yang terdaftar di Idea Bank.",
+    "vi": "Cấp phép cho các kịch bản tác nhân Dify có tỷ lệ chuyển đổi cao và các lời nhắc chốt đơn đa ngôn ngữ được đăng ký trong Idea Bank.",
+    "zh-CN": "授权在 Idea Bank 注册的高转化率 Dify 代理脚本和多语言成交提示词。",
+    "ja": "Idea Bank に登録された高コンバージョン Dify エージェントスクリプトおよび多言語クロージングプロンプトをライセンス供与します。"
   },
   "Project 06: Smart ODM & Auto-Formulator R1 (biz-hub / biz-galaxy)": {
     "ko": "프로젝트 06: Smart ODM & Auto-Formulator R1 (biz-hub / biz-galaxy)",
@@ -67002,10 +67002,10 @@ window.SC_TRANSLATIONS = {
   },
   "Allocates chemical engineering and QC inspection hours without upfront cash retainers.": {
     "ko": "선불 현금 보유 없이 화학 엔지니어링 및 QC 검사 시간을 할당합니다.",
-    "id": "Allocates chemical engineering and QC inspection hours without upfront cash retainers.",
-    "vi": "Phân bổ số giờ kiểm tra kỹ thuật hóa học và QC mà không cần trả trước tiền mặt.",
-    "zh-CN": "Allocates chemical engineering and QC inspection hours without upfront cash retainers.",
-    "ja": "Allocates chemical engineering and QC inspection hours without upfront cash retainers."
+    "id": "Mengalokasikan jam teknik kimia dan inspeksi QC tanpa uang muka tunai.",
+    "vi": "Phân bổ giờ kỹ thuật hóa học và kiểm tra QC mà không cần tiền đặt cọc mặt trước.",
+    "zh-CN": "在无需预付现金的情况下分配化学工程和 QC 检验时间。",
+    "ja": "前払いの現金リテイナーなしで、化学工学および QC 検査時間を割り当てます。"
   },
   "Books off-peak factory floor slots and regional bonded warehouse bays via QS-CBM swaps.": {
     "ko": "QS-CBM 스왑을 통해 비수기 공장 슬롯과 지역 보세 창고 베이를 예약합니다.",
@@ -67072,10 +67072,10 @@ window.SC_TRANSLATIONS = {
   },
   "Verification & Oracle Engine": {
     "ko": "검증 및 오라클 엔진",
-    "id": "Verification & Oracle Engine",
-    "vi": "Xác minh & Công cụ Oracle",
-    "zh-CN": "Verification & Oracle Engine",
-    "ja": "検証とOracleエンジン"
+    "id": "Mesin Verifikasi & Oracle",
+    "vi": "Công cụ Xác minh & Oracle",
+    "zh-CN": "验证与预言机引擎",
+    "ja": "検証およびオラクルエンジン"
   },
   "Redemption & Clearing Utility": {
     "ko": "상환 및 청산 유틸리티",
@@ -67086,10 +67086,10 @@ window.SC_TRANSLATIONS = {
   },
   "Founder Priority Project / Domain": {
     "ko": "창립자 우선 프로젝트/도메인",
-    "id": "Founder Priority Project / Domain",
-    "vi": "Dự án ưu tiên của người sáng lập/Miền",
-    "zh-CN": "Founder Priority Project / Domain",
-    "ja": "Founder Priority Project / Domain"
+    "id": "Proyek / Domain Prioritas Pendiri",
+    "vi": "Dự án / Lĩnh vực Ưu tiên của Người sáng lập",
+    "zh-CN": "创始人优先项目 / 领域",
+    "ja": "創設者優先プロジェクト / ドメイン"
   },
   "Time Bank (QT-HR) Integration": {
     "ko": "타임뱅크(QT-HR) 통합",
@@ -67114,10 +67114,10 @@ window.SC_TRANSLATIONS = {
   },
   "Figure 2.1 — Architectural Topology of the *SC Tri-Partite Qubit Banking Protocol: Tokenizing specialist labor (Time Bank), 8-base physical warehousing and shelf geometry (Space Bank), and RAG-verified formulations/models (Idea Bank) into a unified t = 0 clearinghouse.": {
     "ko": "그림 2.1 — *SC 삼자 큐비트 뱅킹 프로토콜의 아키텍처 토폴로지: 전문 인력 토큰화(Time Bank), 8개 기반 물리적 창고 및 선반 기하학(Space Bank), RAG 검증 공식/모델(Idea Bank)을 통합 t = 0 정보센터로 통합합니다.",
-    "id": "Figure 2.1 — Architectural Topology of the *SC Tri-Partite Qubit Banking Protocol: Tokenizing specialist labor (Time Bank), 8-base physical warehousing and shelf geometry (Space Bank), and RAG-verified formulations/models (Idea Bank) into a unified t = 0 clearinghouse.",
-    "vi": "Hình 2.1 - Cấu trúc liên kết kiến ​​trúc của *SC Giao thức ngân hàng Qubit ba bên *SC: Mã hóa lao động chuyên gia (Ngân hàng thời gian), kho vật lý 8 cơ sở và hình học kệ (Ngân hàng không gian) và các công thức/mô hình đã được xác minh RAG (Ngân hàng ý tưởng) thành một trung tâm thanh toán bù trừ thống nhất t = 0.",
-    "zh-CN": "Figure 2.1 — Architectural Topology of the *SC Tri-Partite Qubit Banking Protocol: Tokenizing specialist labor (Time Bank), 8-base physical warehousing and shelf geometry (Space Bank), and RAG-verified formulations/models (Idea Bank) into a unified t = 0 clearinghouse.",
-    "ja": "Figure 2.1 — Architectural Topology of the *SC Tri-Partite Qubit Banking Protocol: Tokenizing specialist labor (Time Bank), 8-base physical warehousing and shelf geometry (Space Bank), and RAG-verified formulations/models (Idea Bank) into a unified t = 0 clearinghouse."
+    "id": "Gambar 2.1 — Topologi Arsitektur Protokol Perbankan Qubit Tri-Partit *SC: Melakukan tokenisasi tenaga kerja spesialis (Time Bank), pergudangan fisik 8-basis dan geometri rak (Space Bank), serta formulasi/model terverifikasi RAG (Idea Bank) ke dalam clearinghouse t = 0 yang terpadu.",
+    "vi": "Hình 2.1 — Cấu trúc liên kết kiến trúc của Giao thức Ngân hàng Qubit ba bên *SC: Mã hóa lao động chuyên gia (Ngân hàng Thời gian), kho bãi vật lý 8 cơ sở và hình học kệ (Ngân hàng Không gian), và các công thức/mô hình được RAG xác minh (Ngân hàng Ý tưởng) thành một trung tâm thanh toán bù trừ t = 0 thống nhất.",
+    "zh-CN": "图 2.1 — *SC 三方 Qubit 银行协议的架构拓扑：将专家劳动力（时间银行）、8 进制物理仓储和货架几何（空间银行）以及经 RAG 验证的配方/模型（创意银行）代币化为统一的 t = 0 结算中心。",
+    "ja": "図 2.1 — *SC 三者間 Qubit バンキングプロトコルの建築トポロジー：専門労働（タイムバンク）、8進法物理倉庫および棚の形状（スペースバンク）、および RAG 検証済みの製法/モデル（アイデアバンク）を、統合された t = 0 清算所にトークン化します。"
   },
   "Figure 4.1 — End-to-End Autonomous Verification Cycle: How the Unmanned Overnight Data Factory (10 PM - 8 AM), Dual-Engine Vector RAG, and CCTV Vision Stock Opname audit and mint Time, Space, and Idea Bank credits before 8:00 AM daily.": {
     "ko": "그림 4.1 — 엔드투엔드 자율 검증 주기: 무인 야간 데이터 팩토리(오후 10시~오전 8시), 듀얼 엔진 벡터 RAG 및 CCTV Vision Stock Opname이 매일 오전 8시 이전에 시간, 공간 및 아이디어 은행 크레딧을 감사하고 발행하는 방법.",
@@ -67171,9 +67171,9 @@ window.SC_TRANSLATIONS = {
   "SPACE BANK (CCTV VISION STOCK OPNAME) & IDEA BANK (DUAL-ENGINE VECTOR RAG)": {
     "ko": "우주 은행(CCTV VISION STOCK OPNAME) 및 아이디어 은행(이중 엔진 벡터 RAG)",
     "id": "SPACE BANK (CCTV VISION STOCK OPNAME) & IDEA BANK (DUAL-ENGINE VECTOR RAG)",
-    "vi": "SPACE BANK (CCTV VISION STOCK OPNAME) & IDEA BANK (DUAL-ENGINE VECTOR RAG)",
-    "zh-CN": "SPACE BANK (CCTV VISION STOCK OPNAME) & IDEA BANK (DUAL-ENGINE VECTOR RAG)",
-    "ja": "SPACE BANK (CCTV VISION STOCK OPNAME) & IDEA BANK (デュアルエンジン Vector RAG)"
+    "vi": "SPACE BANK (KIỂM KÊ KHO TẦM NHÌN CCTV) & IDEA BANK (RAG VECTOR ĐỘNG CƠ KÉP)",
+    "zh-CN": "空间银行 (CCTV 视觉库存盘点) & 创意银行 (双引擎向量 RAG)",
+    "ja": "SPACE BANK (CCTVビジョン在庫棚卸) & IDEA BANK (デュアルエンジン・ベクトルRAG)"
   },
   "CHAPTER V • QUANTUM FINANCIAL MATHEMATICS": {
     "ko": "5장 • 양자금융수학",
@@ -67261,31 +67261,31 @@ window.SC_TRANSLATIONS = {
   },
   "The Re:D Veterinary Protocol: Precision Single-Dose Upcycling": {
     "ko": "Re:D 수의학 프로토콜: 정밀한 단일 용량 업사이클링",
-    "id": "The Re:D Veterinary Protocol: Precision Single-Dose Upcycling",
-    "vi": "Quy trình thú y Re:D: Tái sử dụng liều đơn chính xác",
-    "zh-CN": "Re:D 兽医方案：精准单剂量升级改造",
-    "ja": "The Re:D Veterinary Protocol: Precision Single-Dose Upcycling"
+    "id": "Protokol Veteriner Re:D: Upcycling Dosis Tunggal Presisi",
+    "vi": "Giao thức Thú y Re:D: Tái chế Nâng cấp Liều đơn Chính xác",
+    "zh-CN": "Re:D 兽医协议：精准单剂量上行回收",
+    "ja": "Re:D 獣医プロトコル：精密単回投与アップサイクリング"
   },
   "Dual-Return Economic Engine & Veterinary SaaS Monetization": {
     "ko": "이중 수익 경제 엔진 및 수의학 SaaS 수익 창출",
-    "id": "Dual-Return Economic Engine & Veterinary SaaS Monetization",
-    "vi": "Công cụ kinh tế lợi nhuận kép & kiếm tiền từ SaaS thú y",
-    "zh-CN": "双回报经济引擎&兽医SaaS变现",
-    "ja": "Dual-Return Economic Engine & Veterinary SaaS Monetization"
+    "id": "Mesin Ekonomi Dual-Return & Monetisasi SaaS Veteriner",
+    "vi": "Động cơ Kinh tế Lợi nhuận kép & Mô hình Hóa lợi nhuận SaaS Thú y",
+    "zh-CN": "双重回报经济引擎与兽医 SaaS 货币化",
+    "ja": "デュアルリターン経済エンジン＆獣医SaaSマネタイズ"
   },
   "Re-Engineering Commercial Pet Food from Extractive Waste to Quantum Reserve Value": {
     "ko": "상업용 애완동물 사료를 추출 폐기물에서 양자 보존 가치로 재설계",
-    "id": "Re-Engineering Commercial Pet Food from Extractive Waste to Quantum Reserve Value",
-    "vi": "Tái thiết kế thức ăn cho vật nuôi thương mại từ chất thải khai thác thành giá trị dự trữ lượng tử",
-    "zh-CN": "将商业宠物食品从提取废物重新设计为量子储备价值",
-    "ja": "Re-Engineering Commercial Pet Food from Extractive Waste to Quantum Reserve Value"
+    "id": "Rekayasa Ulang Makanan Hewan Komersial dari Limbah Ekstraktif ke Nilai Cadangan Kuantum",
+    "vi": "Tái cấu trúc Thức ăn Thú cưng Thương mại từ Chất thải Khai thác thành Giá trị Dự trữ Lượng tử",
+    "zh-CN": "商业宠物食品再工程：从榨取性废物到量子储备价值",
+    "ja": "商業用ペットフードの再設計：採取廃棄物から量子予備価値へ"
   },
   "Automated Feed Recovery Pipeline": {
     "ko": "자동 사료 회수 파이프라인",
-    "id": "Automated Feed Recovery Pipeline",
-    "vi": "Đường ống phục hồi nguồn cấp dữ liệu tự động",
-    "zh-CN": "Automated Feed Recovery Pipeline",
-    "ja": "Automated Feed Recovery Pipeline"
+    "id": "Jalur Pemulihan Pakan Otomatis",
+    "vi": "Đường ống thu hồi thức ăn tự động",
+    "zh-CN": "自动化饲料回收管道",
+    "ja": "自動飼料回収パイプライン"
   },
   "Extracts unutilized batches of premium Alaskan wild salmon oil, bovine lactoferrin, and green-lipped mussel powder from human nutraceutical manufacturers under strict Certificate of Analysis (COA) testing.": {
     "ko": "엄격한 COA(Certificate of Analysis) 테스트를 거쳐 인간 기능성 식품 제조업체로부터 미사용 고급 알래스카 야생 연어 오일, 소 락토페린, 초록입 홍합 분말을 추출합니다.",
@@ -67345,24 +67345,24 @@ window.SC_TRANSLATIONS = {
   },
   "Enforcement Parameter": {
     "ko": "시행 매개변수",
-    "id": "Enforcement Parameter",
-    "vi": "Enforcement Parameter",
-    "zh-CN": "Enforcement Parameter",
-    "ja": "Enforcement Parameter"
+    "id": "Parameter Penegakan",
+    "vi": "Thông số thực thi",
+    "zh-CN": "执行参数",
+    "ja": "執行パラメータ"
   },
   "Dual-Engine Vector Grounding: Cryptographic IP & Asset Valuation": {
     "ko": "이중 엔진 벡터 접지: 암호화 IP 및 자산 평가",
-    "id": "Dual-Engine Vector Grounding: Cryptographic IP & Asset Valuation",
-    "vi": "Dual-Engine Vector Grounding: Cryptographic IP & Asset Valuation",
-    "zh-CN": "双引擎矢量接地：加密IP与资产估值",
-    "ja": "デュアルエンジン ベクトル グラウンディング: 暗号化 IP と資産評価"
+    "id": "Dual-Engine Vector Grounding: IP Kriptografi & Valuasi Aset",
+    "vi": "Tiếp đất Vector Động cơ kép: IP Mã hóa & Định giá Tài sản",
+    "zh-CN": "双引擎矢量接地：加密 IP 与资产估值",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：暗号化IPおよび資産評価"
   },
   "CCTV Vision Stock Opname: Space Bank Volumetric Verification": {
     "ko": "CCTV Vision 주식 회사명: Space Bank Volumetric Verification",
-    "id": "CCTV Vision Stock Opname: Space Bank Volumetric Verification",
-    "vi": "CCTV Vision Stock Opname: Space Bank Volumetric Verification",
-    "zh-CN": "CCTV Vision Stock Opname: Space Bank Volumetric Verification",
-    "ja": "CCTV Vision Stock Opname: Space Bank Volumetric Verification"
+    "id": "Stock Opname Visi CCTV: Verifikasi Volumetrik Space Bank",
+    "vi": "Kiểm kê kho bằng CCTV Vision: Xác minh thể tích Space Bank",
+    "zh-CN": "CCTV 视觉库存盘点：Space Bank 体积验证",
+    "ja": "CCTVビジョン在庫棚卸：Space Bank体積検証"
   },
   "Dual-Return Economic Engine & B2B Clearinghouse SaaS": {
     "ko": "이중 수익 경제 엔진 및 B2B 정보센터 SaaS",
@@ -67373,52 +67373,52 @@ window.SC_TRANSLATIONS = {
   },
   "Eradicating the Working-Capital Trap in Cross-Border Trade": {
     "ko": "국경간 무역에서 노동자 자본의 함정을 근절하다",
-    "id": "Eradicating the Working-Capital Trap in Cross-Border Trade",
-    "vi": "Eradicating the Working-Capital Trap in Cross-Border Trade",
-    "zh-CN": "Eradicating the Working-Capital Trap in Cross-Border Trade",
-    "ja": "Eradicating the Working-Capital Trap in Cross-Border Trade"
+    "id": "Memberantas Jebakan Modal Kerja dalam Perdagangan Lintas Batas",
+    "vi": "Loại bỏ bẫy vốn lưu động trong thương mại xuyên biên giới",
+    "zh-CN": "消除跨境贸易中的营运资金陷阱",
+    "ja": "越境貿易における運転資本の罠の根絶"
   },
   "Specialist Human Bandwidth": {
     "ko": "전문가 인간 대역폭",
-    "id": "Specialist Human Bandwidth",
-    "vi": "Specialist Human Bandwidth",
-    "zh-CN": "Specialist Human Bandwidth",
-    "ja": "Specialist Human Bandwidth"
+    "id": "Bandwidth Manusia Spesialis",
+    "vi": "Băng thông nhân sự chuyên gia",
+    "zh-CN": "专业人力带宽",
+    "ja": "専門的な人的リソース（帯域幅）"
   },
   "Logistics & Retail Geometry": {
     "ko": "물류 및 소매 기하학",
-    "id": "Logistics & Retail Geometry",
-    "vi": "Logistics & Retail Geometry",
-    "zh-CN": "Logistics & Retail Geometry",
-    "ja": "Logistics & Retail Geometry"
+    "id": "Geometri Logistik & Ritel",
+    "vi": "Hình học Logistics & Bán lẻ",
+    "zh-CN": "物流与零售几何学",
+    "ja": "物流と小売の幾何学"
   },
   "Formulation & Blueprints": {
     "ko": "공식화 및 청사진",
-    "id": "Formulation & Blueprints",
-    "vi": "Formulation & Blueprints",
-    "zh-CN": "Formulation & Blueprints",
-    "ja": "Formulation & Blueprints"
+    "id": "Formulasi & Cetak Biru",
+    "vi": "Công thức & Bản thiết kế",
+    "zh-CN": "配方与蓝图",
+    "ja": "策定と設計図"
   },
   "Bio-Nutrition Reserves": {
     "ko": "생물영양 매장량",
-    "id": "Bio-Nutrition Reserves",
-    "vi": "Bio-Nutrition Reserves",
-    "zh-CN": "Bio-Nutrition Reserves",
-    "ja": "Bio-Nutrition Reserves"
+    "id": "Cadangan Bio-Nutrisi",
+    "vi": "Dự trữ dinh dưỡng sinh học",
+    "zh-CN": "生物营养储备",
+    "ja": "バイオ栄養備蓄"
   },
   "QS-CBM (Space Unit)": {
     "ko": "QS-CBM(우주유닛)",
-    "id": "QS-CBM (Space Unit)",
-    "vi": "QS-CBM (Space Unit)",
-    "zh-CN": "QS-CBM（空间单元）",
-    "ja": "QS-CBM（宇宙ユニット）"
+    "id": "QS-CBM (Unit Ruang)",
+    "vi": "QS-CBM (Đơn vị không gian)",
+    "zh-CN": "QS-CBM (空间单位)",
+    "ja": "QS-CBM (スペースユニット)"
   },
   "Signal Star Universe One Spark, Infinite Galaxifying.": {
-    "ko": "Signal Star Universe One Spark, Infinite Galaxifying.",
-    "id": "Signal Star Universe One Spark, Infinite Galaxifying.",
-    "vi": "Signal Star Universe One Spark, Infinite Galaxifying.",
-    "zh-CN": "Signal Star Universe One Spark, Infinite Galaxifying.",
-    "ja": "Signal Star Universe One Spark, Infinite Galaxifying."
+    "ko": "Signal Star Universe 하나의 불꽃, 무한한 은하화.",
+    "id": "Signal Star Universe Satu Percikan, Galaxifying Tanpa Batas.",
+    "vi": "Signal Star Universe Một Tia Sáng, Thiên Hà Hóa Vô Tận.",
+    "zh-CN": "Signal Star Universe 一星之火，无限星系化。",
+    "ja": "Signal Star Universe 一つの火花、無限の銀河化。"
   },
   "EXECUTIVE INTRODUCTION & ARCHITECTURAL MANIFESTO": {
     "ko": "EXECUTIVE INTRODUCTION & ARCHITECTURAL MANIFESTO",
@@ -67471,10 +67471,10 @@ window.SC_TRANSLATIONS = {
   },
   "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our business engine:": {
     "ko": "*SC의 정체성(Identity & Signatures)이자 핵심 기술인 Qubit Algorithm™ 은 양자역학의 5대 원리를 비즈니스 엔진으로 이식했습니다:",
-    "id": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our business engine:",
-    "vi": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our business engine:",
-    "zh-CN": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our business engine:",
-    "ja": "Our core Identity & Signatures and proprietary Qubit Algorithm™ transplant the five foundational laws of quantum physics directly into our business engine:"
+    "id": "Identity & Signatures inti kami dan Qubit Algorithm™ milik kami mentransplantasikan lima hukum dasar fisika kuantum secara langsung ke dalam mesin bisnis kami:",
+    "vi": "Identity & Signatures cốt lõi và Qubit Algorithm™ độc quyền của chúng tôi cấy ghép năm định luật nền tảng của vật lý lượng tử trực tiếp vào động cơ kinh doanh của chúng tôi:",
+    "zh-CN": "我们的核心 Identity & Signatures 和专利 Qubit Algorithm™ 将量子物理学的五个基本定律直接移植到我们的商业引擎中：",
+    "ja": "私たちのコアとなる Identity & Signatures と独自の Qubit Algorithm™ は、量子物理学の5つの基礎法則をビジネスエンジンに直接移植します。"
   },
   "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to \"how we manage all of these projects simultaneously.\" Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).": {
     "ko": "양자 얽힘 (Quantum Entanglement — One Task, Multi Outcomes): 이것이 \"어떻게 이 많은 프로젝트를 동시에 다 관리하느냐\"에 대한 핵심 해답입니다. 프로젝트 A에서 발생한 데이터나 단 한 번의 의사결정(One Task)이 얽혀 있는 프로젝트 B(인허가·처방), 프로젝트 C(글로벌 B2B 발주), 프로젝트 D(10종의 다국어 마케팅 콘텐츠 생성)의 결과를 동시에 결정짓습니다. 중복 노동과 버려지는 데이터가 제로(Zero-Wasting)에 수렴합니다.",
@@ -67485,24 +67485,24 @@ window.SC_TRANSLATIONS = {
   },
   "Academic Foundation (Practical Field Solutions First, Mathematical Formalization Second):": {
     "ko": "학술적 체계화의 배경 (선(先) 실전 솔루션 도출, 후(後) 수리적 정립):",
-    "id": "Academic Foundation (Practical Field Solutions First, Mathematical Formalization Second):",
-    "vi": "Academic Foundation (Practical Field Solutions First, Mathematical Formalization Second):",
-    "zh-CN": "Academic Foundation (Practical Field Solutions First, Mathematical Formalization Second):",
-    "ja": "Academic Foundation (Practical Field Solutions First, Mathematical Formalization Second):"
+    "id": "Landasan Akademik (Solusi Lapangan Praktis Pertama, Formalisasi Matematis Kedua):",
+    "vi": "Nền tảng học thuật (Giải pháp thực địa trước, Hình thức hóa toán học sau):",
+    "zh-CN": "学术基础（实践领域解决方案优先，数学公式化其次）：",
+    "ja": "学術的基盤（実地現場のソリューションが第一、数学的形式化が第二）："
   },
   "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline global field experience, we first identified structural problems, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI era to derive our real-world business solutions first. We then discovered that the operating principles of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for this era.": {
     "ko": "이는 결코 비즈니스 현장의 일들을 양자역학이라는 학문에 억지로 끼워 맞춘 현학적 마케팅 용어가 아닙니다. 지난 20년 이상의 글로벌 현장 경험을 통해 발견한 구조적 문제점들과 해결 방안에 대한 치열한 고민, 그리고 급변하는 AI 시대에 우리가 나아가야 할 길에 대한 장고(長考)의 연구 끝에 ‘실전 비즈니스 해결책’을 먼저 도출해 냈습니다. 그리고 그 해결책의 작동 원리가 놀랍게도 만물과 우주를 구성하는 양자역학의 본질적 법칙과 정확히 궤를 같이한다는 사실을 발견하였고, 이를 결합하여 더욱 정밀하고 수치적인 접근으로 시대의 솔루션을 학문적으로 체계화한 것입니다.",
-    "id": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline global field experience, we first identified structural problems, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI era to derive our real-world business solutions first. We then discovered that the operating principles of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for this era.",
-    "vi": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline global field experience, we first identified structural problems, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI era to derive our real-world business solutions first. We then discovered that the operating principles of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for this era.",
-    "zh-CN": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline global field experience, we first identified structural problems, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI era to derive our real-world business solutions first. We then discovered that the operating principles of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for this era.",
-    "ja": "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline global field experience, we first identified structural problems, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI era to derive our real-world business solutions first. We then discovered that the operating principles of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for this era."
+    "id": "Ini sama sekali bukan kata kunci pemasaran buatan yang memaksakan aktivitas bisnis sehari-hari ke dalam kerangka akademik mekanika kuantum. Melalui lebih dari 20 tahun pengalaman lapangan global di garis depan, kami pertama-tama mengidentifikasi masalah struktural, memikirkan solusi praktis, dan melakukan penelitian mendalam tentang jalan ke depan di era AI yang berkembang pesat untuk menghasilkan solusi bisnis dunia nyata kami terlebih dahulu. Kami kemudian menemukan bahwa prinsip-prinsip operasi dari solusi ini selaras secara tepat dengan hukum dasar mekanika kuantum yang mengatur alam semesta—dan menyatukannya untuk mengkodifikasi secara akademik dan mengukur secara matematis solusi kami untuk era ini.",
+    "vi": "Đây hoàn toàn không phải là một từ ngữ tiếp thị gượng ép nhằm đưa các hoạt động kinh doanh hàng ngày vào khuôn khổ học thuật của cơ học lượng tử. Thông qua hơn 20 năm kinh nghiệm thực địa toàn cầu ở tuyến đầu, trước tiên chúng tôi đã xác định các vấn đề về cấu trúc, trăn trở về các giải pháp thực tế và tiến hành nghiên cứu thấu đáo về con đường phía trước trong kỷ nguyên AI đang phát triển nhanh chóng để đưa ra các giải pháp kinh doanh thực tế của mình trước tiên. Sau đó, chúng tôi phát hiện ra rằng các nguyên tắc vận hành của các giải pháp này phù hợp chính xác với các định luật cơ bản của cơ học lượng tử chi phối vũ trụ—và hợp nhất chúng để mã hóa về mặt học thuật và định lượng về mặt toán học các giải pháp của chúng tôi cho kỷ nguyên này.",
+    "zh-CN": "这绝非刻意制造的营销术语，将日常商业活动强行纳入量子力学的学术框架。通过20多年的一线全球实地经验，我们首先识别了结构性问题，苦思实际解决方案，并对快速发展的AI时代的未来道路进行了详尽研究，从而首先得出了我们的现实商业解决方案。随后，我们发现这些解决方案的运行原理与统治宇宙的量子力学基本定律精确契合——并将它们统一起来，为这个时代的解决方案进行学术编纂和数学量化。",
+    "ja": "これは、日常のビジネス活動を量子力学の学術的枠組みに無理やり当てはめるような、作り物のマーケティング用語では決してありません。20年以上の最前線でのグローバルな現場経験を通じて、私たちはまず構造的な問題を特定し、実用的な解決策に悩み、急速に進化するAI時代の進むべき道について徹底的な研究を行い、まず現実世界のビジネスソリューションを導き出しました。その後、これらのソリューションの運用原理が宇宙を支配する量子力学の基本法則と正確に一致することを発見し、それらを統合して、この時代のためのソリューションを学術的に体系化し、数学的に定量化しました。"
   },
   "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI Engine": {
     "ko": "2. 왜 다른 IT 기업은 못 하고 *SC만 가능한가? — 『20년의 글로벌 실전 내공 × 자율형 AI 엔진』",
-    "id": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI Engine",
-    "vi": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI Engine",
-    "zh-CN": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI Engine",
-    "ja": "2. Why *SC Uniquely Succeeds Where Pure IT Startups Cannot — 20 Years of Global Field Mastery x Autonomous AI Engine"
+    "id": "2. Mengapa *SC Berhasil Secara Unik di Mana Startup IT Murni Tidak Bisa — 20 Tahun Penguasaan Lapangan Global x Mesin AI Otonom",
+    "vi": "2. Tại sao *SC thành công một cách độc đáo trong khi các startup thuần IT không thể — 20 năm làm chủ lĩnh vực toàn cầu x Động cơ AI tự trị",
+    "zh-CN": "2. 为什么 *SC 能在纯 IT 初创公司无法成功的地方取得独特成功 —— 20 年全球领域精通 x 自主 AI 引擎",
+    "ja": "2. 純粋なITスタートアップには不可能なことを *SCが独自に成功させる理由 — 20年にわたるグローバルフィールドの習熟 x 自律型AIエンジン"
   },
   "Silicon Valley AI startups that only know how to write code do not understand customs friction, country-specific non-tariff barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.": {
     "ko": "코딩만 할 줄 아는 실리콘밸리의 AI 스타트업들은 국제 무역 현장의 통관 마찰, 국가별 비관세 장벽, 현지 유통상들의 자금 경색, 그리고 각 시장 플레이어들이 겪는 진짜 고통(Pain Points)을 모릅니다. 반대로 전통 무역상사들은 AI 아키텍처를 설계할 줄 모릅니다.",
@@ -67534,10 +67534,10 @@ window.SC_TRANSLATIONS = {
   },
   "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work": {
     "ko": "3. 거대 플랫폼과 대등한 퍼포먼스를 내는 새로운 기회의 창 — 『글로벌 연대(Global Alliance)와 새로운 일하는 표준』",
-    "id": "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work",
-    "vi": "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work",
-    "zh-CN": "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work",
-    "ja": "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work"
+    "id": "3. Jendela Peluang Baru untuk Menandingi Platform Raksasa — Aliansi Global & Standar Kerja Baru",
+    "vi": "3. Cửa sổ cơ hội mới để sánh ngang với các nền tảng khổng lồ — Liên minh toàn cầu & Tiêu chuẩn làm việc mới",
+    "zh-CN": "3. 与巨型平台抗衡的新机遇之窗 —— 全球联盟与新的工作标准",
+    "ja": "3. 巨大プラットフォームに対抗する新たな機会の窓 — グローバル・アライアンスと新しい仕事の標準"
   },
   "Today's AI and commerce industries are led by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and local players to struggle alone under heavy platform fees and marketing costs.": {
     "ko": "지금의 AI와 커머스 산업은 천문학적 자본을 앞세운 소수 글로벌 빅테크 플랫폼들이 주도하고 있으며, 개별 중소 제조사와 로컬 플레이어들은 각자도생하며 높은 수수료와 마케팅 비용을 감당하고 있습니다.",
@@ -67625,10 +67625,10 @@ window.SC_TRANSLATIONS = {
   },
   "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy": {
     "ko": "4. 새로운 은하계의 주역(Star)으로 함께해 주십시오",
-    "id": "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
-    "vi": "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
-    "zh-CN": "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy",
-    "ja": "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy"
+    "id": "4. Bergabunglah Bersama Kami Bukan Sebagai Penonton, Melainkan Sebagai Bintang Utama di Galaksi Bisnis Baru",
+    "vi": "4. Hãy tham gia cùng chúng tôi không phải với tư cách là khán giả, mà là ngôi sao dẫn đầu của Thiên hà Kinh doanh Mới",
+    "zh-CN": "4. 加入我们，不是作为旁观者，而是作为新商业银河的领航之星",
+    "ja": "4. 傍観者としてではなく、新しいビジネス銀河の主役としてご参加ください"
   },
   "Our answer to \"how can you possibly do all of this?\" is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.": {
     "ko": "\"이 많은 것을 어떻게 다 할 수 있느냐\"는 질문에 대한 저희의 대답은 이미 말과 글이 아닌 살아 움직이는 시스템으로 증명되어 있습니다. 지금 보고 계신 이 12개 도메인의 방대한 아키텍처와 6개 국어 시스템, 그리고 매일 밤 가동되는 AI 데이터 팩토리 자체가 바로 저희가 만든 Qubit Algorithm™과 Vibe Working 방식으로 탄생한 첫 번째 실증 결과물이기 때문입니다.",
@@ -67666,53 +67666,53 @@ window.SC_TRANSLATIONS = {
     "ja": "ceo, dennii ku"
   },
   "CEO COMMENTS & EXECUTIVE INTRODUCTION": {
-    "ko": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
-    "id": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
-    "vi": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
-    "zh-CN": "CEO COMMENTS & EXECUTIVE INTRODUCTION",
-    "ja": "CEO COMMENTS & EXECUTIVE INTRODUCTION"
+    "ko": "CEO 코멘트 및 경영진 소개",
+    "id": "KOMENTAR CEO & PENGENALAN EKSEKUTIF",
+    "vi": "LỜI NHẮN TỪ CEO & GIỚI THIỆU BAN ĐIỀU HÀNH",
+    "zh-CN": "CEO 致辞与高管介绍",
+    "ja": "CEOコメント＆エグゼクティブ紹介"
   },
   "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"": {
     "ko": "\"문어발식 확장이 아닌 단 하나의 양자 엔진 — AI 시대의 새로운 글로벌 비즈니스 표준, *SC (SISTAR Company)\"",
-    "id": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
-    "vi": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
-    "zh-CN": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\"",
-    "ja": "\"Not Reckless Diversification, But One Quantum Engine — The New Global Business Standard in the AI Era, *SC (SISTAR Company)\""
+    "id": "\"Bukan Diversifikasi Sembrono, Tapi Satu Mesin Kuantum — Standar Bisnis Global Baru di Era AI, *SC (SISTAR Company)\"",
+    "vi": "\"Không phải đa dạng hóa liều lĩnh, mà là một Động cơ Lượng tử — Tiêu chuẩn Kinh doanh Toàn cầu Mới trong Kỷ nguyên AI, *SC (SISTAR Company)\"",
+    "zh-CN": "\"不是盲目的多元化，而是一个量子引擎 —— AI 时代的新全球商业标准，*SC (SISTAR Company)\"",
+    "ja": "「無謀な多角化ではなく、一つの量子エンジン — AI時代の新しいグローバルビジネススタンダード、*SC (SISTAR Company)」"
   },
   "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).": {
     "ko": "\"안녕하십니까. *SC (SISTAR Company — Signal Star Universe)의 비즈니스 생태계에 오신 것을 환영합니다.",
-    "id": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
-    "vi": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
-    "zh-CN": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe).",
-    "ja": "\"Welcome to the business ecosystem of *SC (SISTAR Company — Signal Star Universe)."
+    "id": "\"Selamat datang di ekosistem bisnis *SC (SISTAR Company — Signal Star Universe).",
+    "vi": "\"Chào mừng bạn đến với hệ sinh thái kinh doanh của *SC (SISTAR Company — Signal Star Universe).",
+    "zh-CN": "“欢迎来到 *SC (SISTAR Company — Signal Star Universe) 的商业生态系统。",
+    "ja": "「*SC (SISTAR Company — Signal Star Universe) のビジネスエコシステムへようこそ。"
   },
   "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:": {
     "ko": "최근 저희의 *SC 마스터 브로슈어(SC Master Brochure)와 15개의 핵심 과제를 담은 창립자 프로젝트(Founder Projects), 그리고 12개 도메인으로 이루어진 비즈니스 은하계(Business Galaxy)를 처음 접하신 국내외 파트너사 대표님들과 VC 심사역분들께서는 예외 없이 저에게 단 하나의 날카로운 질문을 던지십니다.",
-    "id": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
-    "vi": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
-    "zh-CN": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:",
-    "ja": "Whenever domestic and international business partner presidents or Venture Capital investment committees first encounter our *SC Master Brochure, our 15 core Founder Projects, and our 12-domain Business Galaxy, they inevitably ask me one sharp, fundamental question:"
+    "id": "Setiap kali presiden mitra bisnis domestik dan internasional atau komite investasi Venture Capital pertama kali melihat *SC Master Brochure kami, 15 Proyek Pendiri inti kami, dan 12 domain Galaksi Bisnis kami, mereka pasti mengajukan satu pertanyaan tajam dan mendasar kepada saya:",
+    "vi": "Bất cứ khi nào các chủ tịch đối tác kinh doanh trong và ngoài nước hoặc các ủy ban đầu tư mạo hiểm lần đầu tiên tiếp cận *SC Master Brochure, 15 Dự án Sáng lập cốt lõi và Thiên hà Kinh doanh 12 lĩnh vực của chúng tôi, họ chắc chắn sẽ hỏi tôi một câu hỏi sắc bén và cơ bản:",
+    "zh-CN": "每当国内外商业伙伴总裁或风险投资委员会首次接触我们的 *SC 主册、15 个核心创始人项目以及 12 个领域的商业银河时，他们不可避免地会问我一个尖锐而根本的问题：",
+    "ja": "国内外のビジネスパートナーの代表者やベンチャーキャピタルの投資委員会が、当社の *SC マスターブロシュア、15のコア・ファウンダー・プロジェクト、そして12ドメインのビジネス銀河に初めて触れるとき、彼らは必ず私に鋭く根本的な質問を投げかけます："
   },
   "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'": {
     "ko": "'아이디어와 비전은 놀랍습니다. 하지만 현실적으로 이 많은 프로젝트를 어떻게 동시에 다 관리할 수 있습니까? 너무 마구잡이식(문어발식) 확장이 아닙니까?'",
-    "id": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
-    "vi": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
-    "zh-CN": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'",
-    "ja": "'The vision and ideas are extraordinary. But realistically, how can you possibly manage all of these projects at the same time? Isn't this reckless over-diversification?'"
+    "id": "'Visi dan idenya luar biasa. Namun secara realistis, bagaimana mungkin Anda mengelola semua proyek ini secara bersamaan? Bukankah ini diversifikasi berlebihan yang sembrono?'",
+    "vi": "'Tầm nhìn và ý tưởng thật phi thường. Nhưng thực tế, làm thế nào bạn có thể quản lý tất cả các dự án này cùng một lúc? Đây không phải là sự đa dạng hóa quá mức liều lĩnh sao?'",
+    "zh-CN": "'愿景和创意非凡。但现实地看，你如何可能同时管理所有这些项目？这难道不是鲁莽的过度多元化吗？'",
+    "ja": "「ビジョンとアイデアは素晴らしいです。しかし、現実的にこれらすべてのプロジェクトを同時に管理することは可能でしょうか？これは無謀な過剰多角化ではありませんか？」"
   },
   "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).": {
     "ko": "하지만 저희는 15개의 서로 다른 사업을 벌이고 있는 것이 아닙니다. 단 하나의 수리적·기술적 핵심 원리(Qubit Algorithm™ & AI Intelligence-Core)를 구축하고, 그 하나의 엔진이 서로 다른 산업 좌표에서 동시에 발현(One Spark, Infinite Galaxifying)되도록 설계한 것입니다.",
-    "id": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
-    "vi": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
-    "zh-CN": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying).",
-    "ja": "However, we are not running 15 separate, unrelated businesses. We have built a single mathematical and technological core principle (Qubit Algorithm™ & AI Intelligence-Core) designed so that one unified engine manifests simultaneously across multiple industrial coordinates (One Spark, Infinite Galaxifying)."
+    "id": "Namun, kami tidak menjalankan 15 bisnis yang terpisah dan tidak terkait. Kami telah membangun satu prinsip inti matematis dan teknologi (Qubit Algorithm™ & AI Intelligence-Core) yang dirancang agar satu mesin terpadu bermanifestasi secara bersamaan di berbagai koordinat industri (One Spark, Infinite Galaxifying).",
+    "vi": "Tuy nhiên, chúng tôi không điều hành 15 doanh nghiệp riêng biệt, không liên quan. Chúng tôi đã xây dựng một nguyên tắc cốt lõi về toán học và công nghệ duy nhất (Qubit Algorithm™ & AI Intelligence-Core) được thiết kế để một động cơ thống nhất biểu hiện đồng thời trên nhiều tọa độ công nghiệp (One Spark, Infinite Galaxifying).",
+    "zh-CN": "然而，我们并不是在运营15个独立且无关的业务。我们构建了一个单一的数学和技术核心原理（Qubit Algorithm™ & AI Intelligence-Core），旨在让一个统一的引擎在多个工业坐标中同时体现（One Spark, Infinite Galaxifying）。",
+    "ja": "しかし、私たちは15の別々の無関係なビジネスを運営しているわけではありません。私たちは、一つの統合されたエンジンが複数の産業座標にわたって同時に現れるように設計された、単一の数学的および技術的なコア原理（Qubit Algorithm™ & AI Intelligence-Core）を構築しました（One Spark, Infinite Galaxifying）。"
   },
   "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.": {
     "ko": "왜 이것이 문어발식 확장이 아닌 ‘AI 시대의 필연적인 비즈니스 표준’인지, 그리고 왜 *SC만이 이 거대한 생태계를 현실로 구동할 수 있는지 그 4가지 확실한 근거를 말씀드리고자 합니다.",
-    "id": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
-    "vi": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
-    "zh-CN": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality.",
-    "ja": "Let me share with you the four definitive reasons why this is not reckless diversification, why it represents the inevitable business standard of the AI era, and why *SC uniquely possesses the core competencies to operate this vast ecosystem in reality."
+    "id": "Izinkan saya membagikan empat alasan pasti mengapa ini bukan diversifikasi yang sembrono, mengapa ini mewakili standar bisnis yang tak terelakkan di era AI, dan mengapa *SC secara unik memiliki kompetensi inti untuk mengoperasikan ekosistem yang luas ini dalam kenyataan.",
+    "vi": "Hãy để tôi chia sẻ với bạn bốn lý do dứt khoát tại sao đây không phải là sự đa dạng hóa liều lĩnh, tại sao nó đại diện cho tiêu chuẩn kinh doanh tất yếu của kỷ nguyên AI và tại sao *SC sở hữu độc nhất các năng lực cốt lõi để vận hành hệ sinh thái rộng lớn này trong thực tế.",
+    "zh-CN": "让我与您分享四个确凿的理由，说明为什么这不是鲁莽的多元化，为什么它代表了AI时代不可避免的商业标准，以及为什么 *SC 独特地拥有在现实中运营这一庞大生态系统的核心竞争力。",
+    "ja": "これが無謀な多角化ではない理由、AI時代の必然的なビジネススタンダードを象徴する理由、そしてなぜ *SC がこの広大なエコシステムを現実に運営するためのコアコンピテンシーを独自に備えているのか、その4つの決定的な理由を共有させてください。"
   },
   "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).": {
     "ko": "양자 얽힘 (Quantum Entanglement — One Task, Multi Outcomes): 이것이 '어떻게 다 관리하느냐'에 대한 핵심 해답입니다. 프로젝트 A에서 발생한 데이터나 단 한 번의 의사결정(One Task)이 얽혀 있는 프로젝트 B(인허가·처방), 프로젝트 C(글로벌 B2B 발주), 프로젝트 D(10종의 다국어 마케팅 콘텐츠 생성)의 결과를 동시에 결정짓습니다. 중복 노동과 버려지는 데이터가 제로(Zero-Wasting)에 수렴합니다.",
@@ -67741,5 +67741,8377 @@ window.SC_TRANSLATIONS = {
     "vi": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
     "zh-CN": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
     "ja": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\""
+  },
+  "The Strategic Mandate: Zero Sunk-Capex Content Architecture": {
+    "ko": "전략적 명령: 매몰 자본 지출 제로(Zero Sunk-Capex) 콘텐츠 아키텍처",
+    "id": "Mandat Strategis: Arsitektur Konten Zero Sunk-Capex",
+    "vi": "Nhiệm vụ Chiến lược: Kiến trúc Nội dung Zero Sunk-Capex",
+    "zh-CN": "战略使命：零沉没资本支出 (Zero Sunk-Capex) 内容架构",
+    "ja": "戦略的使命：埋没資本支出ゼロ (Zero Sunk-Capex) コンテンツ・アーキテクチャ"
+  },
+  "Autonomous Ingestion, Synthesis, and Syndication Mechanics": {
+    "ko": "자율적 수집, 합성 및 신디케이션 메커니즘",
+    "id": "Mekanisme Ingesti, Sintesis, dan Sindikasi Otonom",
+    "vi": "Cơ chế Thu thập, Tổng hợp và Phân phối Tự động",
+    "zh-CN": "自主摄取、合成与分发机制",
+    "ja": "自律的な取り込み、合成、およびシンジケーション・メカニズム"
+  },
+  "3-Year Financial Trajectory & Sustainable Operating Margins": {
+    "ko": "3개년 재무 궤적 및 지속 가능한 영업 이익률",
+    "id": "Trajektori Keuangan 3 Tahun & Margin Operasional Berkelanjutan",
+    "vi": "Lộ trình Tài chính 3 năm & Biên Lợi nhuận Hoạt động Bền vững",
+    "zh-CN": "三年财务轨迹与可持续营业利润率",
+    "ja": "3年間の財務軌道と持続可能な営業利益率"
+  },
+  "The 20-Track Standardized B2B Commercial Offer Sheets": {
+    "ko": "20트랙 표준화 B2B 상업용 제안서",
+    "id": "Lembar Penawaran Komersial B2B Terstandarisasi 20-Track",
+    "vi": "Bảng Chào hàng Thương mại B2B Tiêu chuẩn 20-Track",
+    "zh-CN": "20首曲目标准化 B2B 商业报价单",
+    "ja": "20トラック標準化B2B商業オファーシート"
+  },
+  "The Organic Distribution Flywheel & Algorithmic Synergies": {
+    "ko": "유기적 배포 플라이휠 및 알고리즘 시너지",
+    "id": "Flywheel Distribusi Organik & Sinergi Algoritmik",
+    "vi": "Bánh đà Phân phối Tự nhiên & Hiệu ứng Cộng hưởng Thuật toán",
+    "zh-CN": "有机分发飞轮与算法协同效应",
+    "ja": "オーガニック配信フライホイールとアルゴリズムの相乗効果"
+  },
+  "IATA & IADA Global Governance & Multi-Hub Topology": {
+    "ko": "IATA & IADA 글로벌 거버넌스 및 멀티 허브 토폴로지",
+    "id": "Tata Kelola Global IATA & IADA & Topologi Multi-Hub",
+    "vi": "Quản trị toàn cầu IATA & IADA & Cấu trúc liên kết đa trung tâm",
+    "zh-CN": "IATA & IADA 全球治理与多中心拓扑结构",
+    "ja": "IATA & IADA グローバルガバナンス & マルチハブトポロジー"
+  },
+  "Dual-Track Legal Firewall & Automated Webhook Settlement": {
+    "ko": "듀얼 트랙 법적 방화벽 및 자동화된 웹훅 정산",
+    "id": "Firewall Hukum Jalur Ganda & Penyelesaian Webhook Otomatis",
+    "vi": "Tường lửa pháp lý hai luồng & Quyết toán Webhook tự động",
+    "zh-CN": "双轨法律防火墙与自动化 Webhook 结算",
+    "ja": "デュアルトラック法的ファイアウォール & 自動 Webhook 決済"
+  },
+  "Corporate Governance Ledger & Executive Summary": {
+    "ko": "기업 거버넌스 원장 및 요약 보고서",
+    "id": "Buku Besar Tata Kelola Perusahaan & Ringkasan Eksekutif",
+    "vi": "Sổ cái quản trị doanh nghiệp & Tóm tắt điều hành",
+    "zh-CN": "企业治理账本与执行摘要",
+    "ja": "コーポレートガバナンス台帳 & エグゼクティブサマリー"
+  },
+  "Zero-Capex Synthetics": {
+    "ko": "제로 자본지출(Zero-Capex) 합성 자산",
+    "id": "Sintetik Tanpa Capex",
+    "vi": "Tổng hợp không chi phí vốn (Zero-Capex)",
+    "zh-CN": "零资本支出合成资产",
+    "ja": "ゼロ設備投資（Zero-Capex）シンセティックス"
+  },
+  "10+ Shoppable Units / Day": {
+    "ko": "일일 10개 이상의 쇼퍼블 유닛",
+    "id": "10+ Unit yang Dapat Dibelanja / Hari",
+    "vi": "10+ Đơn vị có thể mua sắm / Ngày",
+    "zh-CN": "每天 10+ 个可购物单元",
+    "ja": "1日あたり10以上のショッパブルユニット"
+  },
+  "Zero-CAC Organic Engine": {
+    "ko": "제로 고객획득비용(Zero-CAC) 오가닉 엔진",
+    "id": "Mesin Organik Tanpa CAC",
+    "vi": "Công cụ hữu cơ không chi phí thu hút khách hàng (Zero-CAC)",
+    "zh-CN": "零获客成本（Zero-CAC）有机引擎",
+    "ja": "ゼロ顧客獲得コスト（Zero-CAC）オーガニックエンジン"
+  },
+  "Cross-Border Commercial AI Protocol": {
+    "ko": "국경 간 상업용 AI 프로토콜",
+    "id": "Protokol AI Komersial Lintas Batas",
+    "vi": "Giao thức AI thương mại xuyên biên giới",
+    "zh-CN": "跨境商业 AI 协议",
+    "ja": "クロスボーダー商業 AI プロトコル"
+  },
+  "Algorithmic Provenance & Rights Ledger": {
+    "ko": "알고리즘 출처 및 권리 원장",
+    "id": "Buku Besar Asal-usul & Hak Algoritmik",
+    "vi": "Sổ cái nguồn gốc và quyền thuật toán",
+    "zh-CN": "算法溯源与权利账本",
+    "ja": "アルゴリズムの出所および権利台帳"
+  },
+  "SISTAR Studio Command Center Specifications": {
+    "ko": "SISTAR Studio 커맨드 센터 사양",
+    "id": "Spesifikasi Pusat Komando SISTAR Studio",
+    "vi": "Thông số kỹ thuật trung tâm điều hành SISTAR Studio",
+    "zh-CN": "SISTAR Studio 指挥中心规格",
+    "ja": "SISTAR Studio コマンドセンター仕様"
+  },
+  "Zero Sunk-Capex Investment Architecture, 20-Track B2B Offer Sheets & Unmanned Media Broadcasting": {
+    "ko": "매몰 자본 지출 제로 투자 아키텍처, 20트랙 B2B 제안서 및 무인 미디어 방송",
+    "id": "Arsitektur Investasi Tanpa Biaya Hangus (Sunk-Capex), Lembar Penawaran B2B 20-Track & Penyiaran Media Tanpa Awak",
+    "vi": "Kiến trúc đầu tư không chi phí chìm (Sunk-Capex), bảng chào hàng B2B 20 kênh & phát sóng truyền thông không người lái",
+    "zh-CN": "零沉没成本投资架构、20 轨 B2B 报价单及无人媒体广播",
+    "ja": "埋没費用（Sunk-Capex）ゼロの投資アーキテクチャ、20トラック B2B オファーシート、および無人メディア放送"
+  },
+  "SISTAR Studio operates as the institutional production forge and broadcast matrix connecting international investors, tier-1 contract manufacturers, regional FMCG wholesalers, and consumer audiences with the Signal Star Universe (*SC). Grounded in 100% cloud-native cognitive pipelines and real-time auditable Net Asset Value (NAV) ledgers, the studio transforms digital commerce into an automated, zero-CAC conversion engine.": {
+    "ko": "SISTAR Studio는 국제 투자자, 티어 1 위탁 제조업체, 지역 FMCG 도매업체 및 소비자 청중을 Signal Star Universe (*SC)와 연결하는 기관 생산 포지 및 방송 매트릭스로 운영됩니다. 100% 클라우드 네이티브 인지 파이프라인과 실시간 감사 가능한 순자산가치(NAV) 원장을 기반으로 하는 이 스튜디오는 디지털 커머스를 자동화된 제로 CAC 전환 엔진으로 변모시킵니다.",
+    "id": "SISTAR Studio beroperasi sebagai wadah produksi institusional dan matriks siaran yang menghubungkan investor internasional, produsen kontrak tingkat-1, grosir FMCG regional, dan audiens konsumen dengan Signal Star Universe (*SC). Berbasis pada pipa kognitif 100% cloud-native dan buku besar Nilai Aset Bersih (NAV) yang dapat diaudit secara real-time, studio ini mengubah perdagangan digital menjadi mesin konversi tanpa biaya akuisisi pelanggan (zero-CAC) yang otomatis.",
+    "vi": "SISTAR Studio hoạt động như một xưởng sản xuất tổ chức và ma trận phát sóng kết nối các nhà đầu tư quốc tế, các nhà sản xuất hợp đồng cấp 1, các nhà bán buôn FMCG khu vực và khán giả tiêu dùng với Signal Star Universe (*SC). Dựa trên các đường ống nhận thức 100% cloud-native và sổ cái Giá trị Tài sản Ròng (NAV) có thể kiểm toán theo thời gian thực, studio chuyển đổi thương mại kỹ thuật số thành một công cụ chuyển đổi tự động, không chi phí thu hút khách hàng (zero-CAC).",
+    "zh-CN": "SISTAR Studio 作为机构级生产工场和广播矩阵运营，将国际投资者、一级代工厂、区域 FMCG 批发商和消费者受众与 Signal Star Universe (*SC) 连接起来。该工作室基于 100% 云原生认知管道和实时可审计的净资产价值 (NAV) 账本，将数字商务转化为自动化的零 CAC 转化引擎。",
+    "ja": "SISTAR Studio は、国際的な投資家、ティア1受託製造業者、地域の FMCG 卸売業者、および消費者オーディエンスを Signal Star Universe (*SC) と結びつける、機関レベルの制作拠点および放送マトリックスとして機能します。100% クラウドネイティブな認知パイプラインとリアルタイムで監査可能な純資産価値（NAV）台帳に基づき、当スタジオはデジタルコマースを自動化された顧客獲得コスト（CAC）ゼロのコンバージョンエンジンへと変貌させます。"
+  },
+  "In conventional retail and consumer commerce, production studios demand immense sunk capital expenditure—studio real estate, high-overhead cinematographers, bespoke audio engineers, and sluggish post-production teams that bottleneck market reactivity. SISTAR Studio completely eliminates sunk capex by deploying an autonomous content generation forge orchestrated through Gemini multimodal models, Make workflow automation, and distributed algorithmic syndication.": {
+    "ko": "전통적인 소매 및 소비자 커머스에서 제작 스튜디오는 스튜디오 부동산, 높은 비용의 촬영 감독, 맞춤형 오디오 엔지니어, 시장 반응성을 저해하는 느린 사후 제작 팀 등 막대한 매몰 자본 지출을 요구합니다. SISTAR Studio는 Gemini 멀티모달 모델, Make 워크플로우 자동화 및 분산형 알고리즘 신디케이션을 통해 조율된 자율 콘텐츠 생성 포지를 배포함으로써 매몰 자본 지출을 완전히 제거합니다.",
+    "id": "Dalam perdagangan ritel dan konsumen konvensional, studio produksi menuntut pengeluaran modal hangus yang sangat besar—properti studio, sinematografer berbiaya tinggi, insinyur audio khusus, dan tim pasca-produksi yang lamban yang menghambat reaktivitas pasar. SISTAR Studio sepenuhnya menghilangkan biaya hangus dengan menerapkan wadah pembuatan konten otonom yang diatur melalui model multimodal Gemini, otomatisasi alur kerja Make, dan sindikasi algoritmik terdistribusi.",
+    "vi": "Trong thương mại bán lẻ và tiêu dùng truyền thống, các studio sản xuất đòi hỏi chi phí đầu tư chìm khổng lồ—bất động sản studio, người quay phim chi phí cao, kỹ sư âm thanh riêng biệt và các đội hậu kỳ chậm chạp làm nghẽn khả năng phản ứng của thị trường. SISTAR Studio loại bỏ hoàn toàn chi phí chìm bằng cách triển khai một xưởng tạo nội dung tự trị được điều phối thông qua các mô hình đa phương thức Gemini, tự động hóa quy trình làm việc Make và cung cấp thuật toán phân tán.",
+    "zh-CN": "在传统的零售和消费商务中，制作工作室需要巨大的沉没资本支出——工作室地产、高昂的摄影师费用、定制音频工程师以及阻碍市场反应速度的缓慢后期制作团队。SISTAR Studio 通过部署由 Gemini 多模态模型、Make 工作流自动化和分布式算法联合组织的自主内容生成工场，彻底消除了沉没成本。",
+    "ja": "従来の小売および消費者コマースにおいて、制作スタジオは、スタジオ不動産、高コストの撮影監督、特注のオーディオエンジニア、そして市場の反応を遅らせる停滞したポストプロダクションチームなど、膨大な埋没資本支出を必要とします。SISTAR Studio は、Gemini マルチモーダルモデル、Make ワークフロー自動化、および分散型アルゴリズムシンジケーションを通じて編成された自律的なコンテンツ生成拠点を展開することで、埋没費用を完全に排除します。"
+  },
+  "Year 1 (Bootstrap & Deploy)": {
+    "ko": "1년 차 (부트스트랩 및 배포)",
+    "id": "Tahun 1 (Bootstrap & Deploy)",
+    "vi": "Năm 1 (Bootstrap & Triển khai)",
+    "zh-CN": "第 1 年（引导与部署）",
+    "ja": "1年目 (ブートストラップ & デプロイ)"
+  },
+  "KRW 2.0 Billion": {
+    "ko": "20억 원",
+    "id": "KRW 2,0 Miliar",
+    "vi": "2,0 tỷ KRW",
+    "zh-CN": "20 亿韩元",
+    "ja": "20億ウォン"
+  },
+  "KRW 400M (20.0%)": {
+    "ko": "4억 원 (20.0%)",
+    "id": "KRW 400 Juta (20,0%)",
+    "vi": "400 triệu KRW (20,0%)",
+    "zh-CN": "4 亿韩元 (20.0%)",
+    "ja": "4億ウォン (20.0%)"
+  },
+  "10 Assets / Day": {
+    "ko": "일일 자산 10개",
+    "id": "10 Aset / Hari",
+    "vi": "10 Tài sản / Ngày",
+    "zh-CN": "每天 10 个资产",
+    "ja": "10アセット / 日"
+  },
+  "12.4x / 3.4 Months": {
+    "ko": "12.4배 / 3.4개월",
+    "id": "12,4x / 3,4 Bulan",
+    "vi": "12,4 lần / 3,4 tháng",
+    "zh-CN": "12.4 倍 / 3.4 个月",
+    "ja": "12.4倍 / 3.4ヶ月"
+  },
+  "Year 2 (Regional Scaling)": {
+    "ko": "2년 차 (지역 확장)",
+    "id": "Tahun 2 (Skala Regional)",
+    "vi": "Năm 2 (Mở rộng khu vực)",
+    "zh-CN": "第 2 年（区域扩展）",
+    "ja": "2年目 (リージョナルスケーリング)"
+  },
+  "KRW 5.25 Billion (35.0%)": {
+    "ko": "52.5억 KRW (35.0%)",
+    "id": "KRW 5,25 Miliar (35,0%)",
+    "vi": "5,25 tỷ KRW (35,0%)",
+    "zh-CN": "52.5亿韩元 (35.0%)",
+    "ja": "52.5億ウォン (35.0%)"
+  },
+  "50+ Assets / Day": {
+    "ko": "50+ 자산 / 일",
+    "id": "50+ Aset / Hari",
+    "vi": "50+ Tài sản / Ngày",
+    "zh-CN": "50+ 资产 / 天",
+    "ja": "50+ 資産 / 日"
+  },
+  "17.5x / 2.8 Months": {
+    "ko": "17.5배 / 2.8개월",
+    "id": "17,5x / 2,8 Bulan",
+    "vi": "17,5x / 2,8 Tháng",
+    "zh-CN": "17.5倍 / 2.8个月",
+    "ja": "17.5倍 / 2.8ヶ月"
+  },
+  "Ocean Freight Deals": {
+    "ko": "해상 운송 거래",
+    "id": "Kesepakatan Pengiriman Laut",
+    "vi": "Giao dịch vận tải biển",
+    "zh-CN": "海运交易",
+    "ja": "海上運賃取引"
+  },
+  "Container Volume Deals (FCL/LCL)": {
+    "ko": "컨테이너 물동량 거래 (FCL/LCL)",
+    "id": "Kesepakatan Volume Kontainer (FCL/LCL)",
+    "vi": "Giao dịch khối lượng container (FCL/LCL)",
+    "zh-CN": "集装箱货量交易 (FCL/LCL)",
+    "ja": "コンテナ物流量取引 (FCL/LCL)"
+  },
+  "1x 40ft HQ Container (KRW 100M - 250M)": {
+    "ko": "1x 40ft HQ 컨테이너 (KRW 1억 - 2.5억)",
+    "id": "1x Kontainer HQ 40 kaki (KRW 100 Juta - 250 Juta)",
+    "vi": "1x Container HQ 40ft (100 triệu - 250 triệu KRW)",
+    "zh-CN": "1个 40英尺 HQ 集装箱 (1亿 - 2.5亿韩元)",
+    "ja": "1x 40ft HQ コンテナ (1億 - 2.5億ウォン)"
+  },
+  "First 3 shipments: 50% deposit on order, 50% on Bill of Lading (B/L) release": {
+    "ko": "첫 3회 선적: 주문 시 50% 보증금, 선하증권(B/L) 발행 시 50%",
+    "id": "3 pengiriman pertama: deposit 50% saat pesanan, 50% saat pelepasan Bill of Lading (B/L)",
+    "vi": "3 lô hàng đầu tiên: đặt cọc 50% khi đặt hàng, 50% khi giải phóng Vận đơn (B/L)",
+    "zh-CN": "前3次发货：下单时支付50%定金，提单 (B/L) 放行时支付50%",
+    "ja": "初回3回の出荷：注文時に50%の保証金、船荷証券(B/L)発行時に50%"
+  },
+  "Customized localized video packs, POS digital assets, and B2B wholesale portal access": {
+    "ko": "맞춤형 현지화 비디오 팩, POS 디지털 자산 및 B2B 도매 포털 액세스",
+    "id": "Paket video lokal yang disesuaikan, aset digital POS, dan akses portal grosir B2B",
+    "vi": "Các gói video bản địa hóa tùy chỉnh, tài sản kỹ thuật số POS và quyền truy cập cổng bán buôn B2B",
+    "zh-CN": "定制化本地视频包、POS数字资产以及B2B批发门户访问权限",
+    "ja": "カスタマイズされたローカライズ済みビデオパック、POSデジタルアセット、およびB2B卸売ポータルへのアクセス"
+  },
+  "Zero-Inventory Commerce": {
+    "ko": "재고 제로 커머스",
+    "id": "Perdagangan Tanpa Inventaris",
+    "vi": "Thương mại không kho bãi",
+    "zh-CN": "零库存电商",
+    "ja": "在庫ゼロ・コマース"
+  },
+  "Zero Initial Inventory Sunk Capex": {
+    "ko": "초기 재고 매몰 자본 지출(Capex) 제로",
+    "id": "Nol Biaya Modal (Capex) Terbenam untuk Inventaris Awal",
+    "vi": "Không chi phí đầu tư (Capex) chìm cho kho hàng ban đầu",
+    "zh-CN": "初始库存沉没资本支出 (Capex) 为零",
+    "ja": "初期在庫の埋没資本支出（Capex）ゼロ"
+  },
+  "Automated 70/30 split settlement at payment gateway webhook execution": {
+    "ko": "결제 게이트웨이 웹훅 실행 시 자동 70/30 분할 정산",
+    "id": "Penyelesaian pembagian 70/30 otomatis pada eksekusi webhook gateway pembayaran",
+    "vi": "Tự động quyết toán chia tách 70/30 khi thực thi webhook cổng thanh toán",
+    "zh-CN": "支付网关 Webhook 执行时自动进行 70/30 分账结算",
+    "ja": "決済ゲートウェイのWebhook実行時における70/30の自動分割決済"
+  },
+  "Daily shoppable video feeds with deep affiliate checkout links and zero warehousing risk": {
+    "ko": "딥 어필리에이트 결제 링크와 재고 위험 제로를 갖춘 일일 쇼퍼블 비디오 피드",
+    "id": "Feed video shoppable harian dengan tautan checkout afiliasi mendalam dan risiko pergudangan nol",
+    "vi": "Nguồn cấp dữ liệu video mua sắm hàng ngày với các liên kết thanh toán liên kết sâu và không có rủi ro lưu kho",
+    "zh-CN": "每日可购物视频流，包含深度分销结账链接，且无仓储风险",
+    "ja": "ディープアフィリエイト決済リンクを備え、在庫リスクゼロのデイリーショッパブルビデオフィード"
+  },
+  "Regional Distribution": {
+    "ko": "지역 유통",
+    "id": "Distribusi Regional",
+    "vi": "Phân phối khu vực",
+    "zh-CN": "区域分销",
+    "ja": "地域流通"
+  },
+  "Offline Wholesalers & Distributors": {
+    "ko": "오프라인 도매업체 및 유통업체",
+    "id": "Grosir & Distributor Offline",
+    "vi": "Nhà bán buôn & Nhà phân phối ngoại tuyến",
+    "zh-CN": "线下批发商与分销商",
+    "ja": "オフライン卸売業者および販売代理店"
+  },
+  "Regional exclusivity: KRW 50M initial stocking": {
+    "ko": "지역 독점권: 초기 재고 확보 5,000만 원",
+    "id": "Eksklusivitas regional: stok awal KRW 50 juta",
+    "vi": "Độc quyền khu vực: nhập hàng ban đầu 50 triệu KRW",
+    "zh-CN": "区域独家经营权：首批备货 5,000 万韩元",
+    "ja": "地域独占権：初回在庫確保 5,000万ウォン"
+  },
+  "Letter of Credit (L/C) at sight or K-SURE export credit guaranteed open account": {
+    "ko": "일람불 신용장(L/C) 또는 K-SURE 수출 신용 보증 사후 송금 방식",
+    "id": "Letter of Credit (L/C) at sight atau akun terbuka dengan jaminan kredit ekspor K-SURE",
+    "vi": "Thư tín dụng (L/C) trả ngay hoặc tài khoản mở được bảo lãnh tín dụng xuất khẩu K-SURE",
+    "zh-CN": "即期信用证 (L/C) 或 K-SURE 出口信用担保赊销账项",
+    "ja": "一覧払輸入ユーザンス(L/C)または K-SURE 輸出信用保証付きオープンアカウント"
+  },
+  "Retail shelf video collateral, distributor training modules, and local ad creative bundles": {
+    "ko": "매장 선반용 비디오 홍보물, 유통업체 교육 모듈 및 현지 광고 크리에이티브 번들",
+    "id": "Materi video rak ritel, modul pelatihan distributor, dan bundel kreatif iklan lokal",
+    "vi": "Tài liệu video trưng bày bán lẻ, các mô-đun đào tạo nhà phân phối và các gói sáng tạo quảng cáo địa phương",
+    "zh-CN": "零售货架视频宣传资料、分销商培训模块以及本地广告创意包",
+    "ja": "小売棚用ビデオ販促物、代理店トレーニングモジュール、およびローカル広告クリエイティブバンドル"
+  },
+  "Creator Network": {
+    "ko": "크리에이터 네트워크",
+    "id": "Jaringan Kreator",
+    "vi": "Mạng lưới Nhà sáng tạo",
+    "zh-CN": "创作者网络",
+    "ja": "クリエイターネットワーク"
+  },
+  "Influencer Tracks I, II, and III": {
+    "ko": "인플루언서 트랙 I, II, III",
+    "id": "Jalur Influencer I, II, dan III",
+    "vi": "Các lộ trình Influencer I, II và III",
+    "zh-CN": "影响者赛道 I, II 和 III",
+    "ja": "インフルエンサートラック I、II、III"
+  },
+  "Tiered based on follower reach (10K to 1M+ followers)": {
+    "ko": "팔로워 도달 범위에 따른 등급제 (1만 명 ~ 100만 명 이상 팔로워)",
+    "id": "Berjenjang berdasarkan jangkauan pengikut (10 ribu hingga 1 juta+ pengikut)",
+    "vi": "Phân cấp dựa trên phạm vi tiếp cận người theo dõi (10 nghìn đến hơn 1 triệu người theo dõi)",
+    "zh-CN": "根据粉丝覆盖范围分层（1万至100万+粉丝）",
+    "ja": "フォロワーのリーチに基づく階層化（1万人から100万人以上のフォロワー）"
+  },
+  "Performance commissions (15-25% net) settled via automated bi-weekly escrow transfers": {
+    "ko": "자동화된 격주 에스크로 이체를 통해 정산되는 성과 수수료 (순수익의 15-25%)",
+    "id": "Komisi kinerja (15-25% bersih) yang diselesaikan melalui transfer escrow dua mingguan otomatis",
+    "vi": "Hoa hồng hiệu suất (15-25% net) được thanh toán thông qua chuyển khoản ký quỹ tự động hai tuần một lần",
+    "zh-CN": "通过自动化的每两周托管转账结算的绩效佣金（净额的 15-25%）",
+    "ja": "自動化された隔週のエスクロー送金を通じて決済されるパフォーマンス手数料（純額の15〜25％）"
+  },
+  "AI-personalized clip packages, sample product kits, and branded landing page generation": {
+    "ko": "AI 개인화 클립 패키지, 샘플 제품 키트 및 브랜드 랜딩 페이지 생성",
+    "id": "Paket klip yang dipersonalisasi AI, kit produk sampel, dan pembuatan halaman arahan bermerek",
+    "vi": "Các gói clip cá nhân hóa bằng AI, bộ sản phẩm mẫu và tạo trang đích có thương hiệu",
+    "zh-CN": "AI 个性化剪辑包、样品产品套件和品牌落地页生成",
+    "ja": "AIパーソナライズされたクリップパッケージ、サンプル製品キット、およびブランドランディングページの生成"
+  },
+  "Turnkey Franchising": {
+    "ko": "턴키 프랜차이징",
+    "id": "Waralaba Turnkey",
+    "vi": "Nhượng quyền trọn gói (Turnkey Franchising)",
+    "zh-CN": "一站式特许经营",
+    "ja": "ターンキー・フランチャイジング"
+  },
+  "S1 through S6 Franchises": {
+    "ko": "S1에서 S6 프랜차이즈",
+    "id": "Waralaba S1 hingga S6",
+    "vi": "Nhượng quyền từ S1 đến S6",
+    "zh-CN": "S1 至 S6 特许经营",
+    "ja": "S1からS6のフランチャイズ"
+  },
+  "KRW 30M to 150M initial master licensing fee": {
+    "ko": "초기 마스터 라이선스 비용 KRW 3,000만 ~ 1억 5,000만",
+    "id": "Biaya lisensi master awal KRW 30 juta hingga 150 juta",
+    "vi": "Phí cấp phép chính ban đầu từ 30 triệu đến 150 triệu KRW",
+    "zh-CN": "初始主特许经营费 3000 万至 1.5 亿韩元 (KRW)",
+    "ja": "初期マスターライセンス料 KRW 3,000万〜1億5,000万"
+  },
+  "30% down payment, 40% upon setup, 30% after 30-day operational handover": {
+    "ko": "계약금 30%, 설치 시 40%, 30일간의 운영 인도 후 30%",
+    "id": "Uang muka 30%, 40% saat penyiapan, 30% setelah serah terima operasional 30 hari",
+    "vi": "Thanh toán trước 30%, 40% khi thiết lập, 30% sau 30 ngày bàn giao vận hành",
+    "zh-CN": "首付 30%，安装时支付 40%，30 天运营移交后支付 30%",
+    "ja": "頭金30%、設置時に40%、30日間の運営引き継ぎ後に30%"
+  },
+  "Complete digital signage loops, omnichannel marketing suite, and automated local news dispatch": {
+    "ko": "전체 디지털 사이니지 루프, 옴니채널 마케팅 제품군 및 자동화된 지역 뉴스 발송",
+    "id": "Loop papan tanda digital lengkap, rangkaian pemasaran omnichannel, dan pengiriman berita lokal otomatis",
+    "vi": "Vòng lặp biển báo kỹ thuật số hoàn chỉnh, bộ tiếp thị đa kênh và gửi tin tức địa phương tự động",
+    "zh-CN": "完整的数字标牌循环、全渠道营销套件和自动本地新闻调度",
+    "ja": "完全なデジタルサイネージループ、オムニチャネルマーケティングスイート、および自動ローカルニュース配信"
+  },
+  "Fiscal Horizon": {
+    "ko": "회계 전망",
+    "id": "Horison Fiskal",
+    "vi": "Tầm nhìn tài khóa",
+    "zh-CN": "财政展望",
+    "ja": "会計展望"
+  },
+  "Target Revenue (KRW)": {
+    "ko": "목표 매출 (KRW)",
+    "id": "Target Pendapatan (KRW)",
+    "vi": "Doanh thu mục tiêu (KRW)",
+    "zh-CN": "目标营收 (KRW)",
+    "ja": "目標収益 (KRW)"
+  },
+  "Operating Profit (OPM %)": {
+    "ko": "영업이익 (OPM %)",
+    "id": "Laba Operasional (OPM %)",
+    "vi": "Lợi nhuận hoạt động (OPM %)",
+    "zh-CN": "营业利润 (OPM %)",
+    "ja": "営業利益 (OPM %)"
+  },
+  "Blended Gross Margin": {
+    "ko": "혼합 매출총이익률",
+    "id": "Margin Laba Kotor Gabungan",
+    "vi": "Biên lợi nhuận gộp hỗn hợp",
+    "zh-CN": "综合毛利率",
+    "ja": "総合売上総利益率"
+  },
+  "Daily Video Asset Volume": {
+    "ko": "일일 비디오 자산 규모",
+    "id": "Volume Aset Video Harian",
+    "vi": "Khối lượng tài sản video hàng ngày",
+    "zh-CN": "每日视频资产量",
+    "ja": "日次ビデオアセット量"
+  },
+  "LTV / CAC Payback": {
+    "ko": "LTV / CAC 회수 기간",
+    "id": "Pengembalian LTV / CAC",
+    "vi": "Thời gian hoàn vốn LTV / CAC",
+    "zh-CN": "LTV / CAC 回报周期",
+    "ja": "LTV / CAC 回収期間"
+  },
+  "Track Category": {
+    "ko": "트랙 카테고리",
+    "id": "Kategori Trek",
+    "vi": "Danh mục theo dõi",
+    "zh-CN": "轨道类别",
+    "ja": "トラックカテゴリー"
+  },
+  "Commercial Package": {
+    "ko": "상업용 패키지",
+    "id": "Paket Komersial",
+    "vi": "Gói thương mại",
+    "zh-CN": "商业套餐",
+    "ja": "コマーシャルパッケージ"
+  },
+  "Minimum Order / Capital Commitment": {
+    "ko": "최소 주문 / 자본 약정",
+    "id": "Pesanan Minimum / Komitmen Modal",
+    "vi": "Đơn hàng tối thiểu / Cam kết vốn",
+    "zh-CN": "最小订单 / 资本承诺",
+    "ja": "最小注文 / 資本コミットメント"
+  },
+  "Payment & Escrow Structure": {
+    "ko": "결제 및 에스크로 구조",
+    "id": "Struktur Pembayaran & Escrow",
+    "vi": "Cấu trúc thanh toán & ký quỹ",
+    "zh-CN": "支付与托管结构",
+    "ja": "支払いおよびエスクロー構造"
+  },
+  "Studio Deliverables & Media Support": {
+    "ko": "스튜디오 결과물 및 미디어 지원",
+    "id": "Hasil Studio & Dukungan Media",
+    "vi": "Sản phẩm bàn giao của Studio & Hỗ trợ truyền thông",
+    "zh-CN": "工作室交付成果与媒体支持",
+    "ja": "スタジオの成果物およびメディアサポート"
+  },
+  "Chapter 01": {
+    "ko": "제01장",
+    "id": "Bab 01",
+    "vi": "Chương 01",
+    "zh-CN": "第 01 章",
+    "ja": "第01章"
+  },
+  "L2 Section Command Hub Overview": {
+    "ko": "L2 섹션 커맨드 허브 개요",
+    "id": "Ikhtisar Hub Komando Bagian L2",
+    "vi": "Tổng quan về Trung tâm Chỉ huy Phân đoạn L2",
+    "zh-CN": "L2 部门指挥枢纽概览",
+    "ja": "L2セクションコマンドハブの概要"
+  },
+  "Chapter 02": {
+    "ko": "제02장",
+    "id": "Bab 02",
+    "vi": "Chương 02",
+    "zh-CN": "第02章",
+    "ja": "第02章"
+  },
+  "AI Pipeline Engineering": {
+    "ko": "AI 파이프라인 엔지니어링",
+    "id": "Rekayasa Pipeline AI",
+    "vi": "Kỹ thuật đường ống AI",
+    "zh-CN": "AI 流水线工程",
+    "ja": "AIパイプラインエンジニアリング"
+  },
+  "Chapter 03": {
+    "ko": "제03장",
+    "id": "Bab 03",
+    "vi": "Chương 03",
+    "zh-CN": "第03章",
+    "ja": "第03章"
+  },
+  "Unit Economics & Auditable Scalability": {
+    "ko": "유닛 이코노믹스 및 감사 가능한 확장성",
+    "id": "Ekonomi Unit & Skalabilitas yang Dapat Diaudit",
+    "vi": "Kinh tế đơn vị & Khả năng mở rộng có thể kiểm chứng",
+    "zh-CN": "单位经济效益与可审计的可扩展性",
+    "ja": "ユニットエコノミクスと監査可能なスケーラビリティ"
+  },
+  "Chapter 04": {
+    "ko": "제04장",
+    "id": "Bab 04",
+    "vi": "Chương 04",
+    "zh-CN": "第04章",
+    "ja": "第04章"
+  },
+  "Commercial Monetization Architecture": {
+    "ko": "상업적 수익화 아키텍처",
+    "id": "Arsitektur Monetisasi Komersial",
+    "vi": "Kiến trúc thương mại hóa lợi nhuận",
+    "zh-CN": "商业变现架构",
+    "ja": "商業的マネタイズアーキテクチャ"
+  },
+  "Chapter 05": {
+    "ko": "제05장",
+    "id": "Bab 05",
+    "vi": "Chương 05",
+    "zh-CN": "第05章",
+    "ja": "第05章"
+  },
+  "Omnichannel Conversion Dynamics": {
+    "ko": "옴니채널 전환 역학",
+    "id": "Dinamika Konversi Omnichannel",
+    "vi": "Động lực chuyển đổi đa kênh",
+    "zh-CN": "全渠道转化动态",
+    "ja": "オムニチャネル・コンバージョン・ダイナミクス"
+  },
+  "Chapter 06": {
+    "ko": "제06장",
+    "id": "Bab 06",
+    "vi": "Chương 06",
+    "zh-CN": "第06章",
+    "ja": "第06章"
+  },
+  "Global Regulatory Framework": {
+    "ko": "글로벌 규제 프레임워크",
+    "id": "Kerangka Kerja Regulasi Global",
+    "vi": "Khung quy định toàn cầu",
+    "zh-CN": "全球监管框架",
+    "ja": "グローバルな規制枠組み"
+  },
+  "Chapter 07": {
+    "ko": "제07장",
+    "id": "Bab 07",
+    "vi": "Chương 07",
+    "zh-CN": "第07章",
+    "ja": "第07章"
+  },
+  "Settlement Security & Asset Protection": {
+    "ko": "결제 보안 및 자산 보호",
+    "id": "Keamanan Penyelesaian & Perlindungan Aset",
+    "vi": "Bảo mật thanh toán & Bảo vệ tài sản",
+    "zh-CN": "结算安全与资产保护",
+    "ja": "決済セキュリティと資産保護"
+  },
+  "Chapter 08": {
+    "ko": "제08장",
+    "id": "Bab 08",
+    "vi": "Chương 08",
+    "zh-CN": "第08章",
+    "ja": "第08章"
+  },
+  "Institutional Dossier": {
+    "ko": "기관 문서",
+    "id": "Dosir Institusional",
+    "vi": "Hồ sơ Tổ chức",
+    "zh-CN": "机构档案",
+    "ja": "機関ドシエ"
+  },
+  "NODE ID: SC-MEDIA-STUDIO-01": {
+    "ko": "노드 ID: SC-MEDIA-STUDIO-01",
+    "id": "ID NODE: SC-MEDIA-STUDIO-01",
+    "vi": "ID NÚT: SC-MEDIA-STUDIO-01",
+    "zh-CN": "节点 ID: SC-MEDIA-STUDIO-01",
+    "ja": "ノード ID: SC-MEDIA-STUDIO-01"
+  },
+  "DOMAIN 12: MEDIA // COMMAND HUB": {
+    "ko": "도메인 12: 미디어 // 명령 허브",
+    "id": "DOMAIN 12: MEDIA // PUSAT KOMANDO",
+    "vi": "MIỀN 12: PHƯƠNG TIỆN // TRUNG TÂM ĐIỀU HÀNH",
+    "zh-CN": "域 12: 媒体 // 指挥枢纽",
+    "ja": "ドメイン 12: メディア // コマンドハブ"
+  },
+  "STATUS: OPERATIONAL • VERIFIED": {
+    "ko": "상태: 가동 중 • 확인됨",
+    "id": "STATUS: OPERASIONAL • TERVERIFIKASI",
+    "vi": "TRẠNG THÁI: ĐANG HOẠT ĐỘNG • ĐÃ XÁC MINH",
+    "zh-CN": "状态: 运行中 • 已验证",
+    "ja": "ステータス: 稼働中 • 確認済み"
+  },
+  "*SC CONTENT PRODUCTION FORGE // LAYER 6 DIRECTORY & MEDIA": {
+    "ko": "*SC 콘텐츠 제작 포지 // 레이어 6 디렉토리 및 미디어",
+    "id": "*SC CONTENT PRODUCTION FORGE // DIREKTORI LAYER 6 & MEDIA",
+    "vi": "*SC CONTENT PRODUCTION FORGE // DANH MỤC LỚP 6 & PHƯƠNG TIỆN",
+    "zh-CN": "*SC 内容制作工场 // 第 6 层目录与媒体",
+    "ja": "*SC コンテンツ制作フォージ // レイヤー 6 ディレクトリ & メディア"
+  },
+  "LTV / CAC Blended Ratio Across Omnichannel Funnels": {
+    "ko": "옴니채널 퍼널 전반의 LTV / CAC 통합 비율",
+    "id": "Rasio Campuran LTV / CAC di Seluruh Corong Omnichannel",
+    "vi": "Tỷ lệ hỗn hợp LTV / CAC trên các phễu đa kênh",
+    "zh-CN": "全渠道漏斗的 LTV / CAC 综合比率",
+    "ja": "オムニチャネルファネル全体の LTV / CAC 混合比率"
+  },
+  "Customer Acquisition Payback Period Velocity": {
+    "ko": "고객 획득 비용 회수 기간 속도",
+    "id": "Kecepatan Periode Pengembalian Akuisisi Pelanggan",
+    "vi": "Tốc độ thời gian hoàn vốn thu hút khách hàng",
+    "zh-CN": "客户获取投资回收期速度",
+    "ja": "顧客獲得費用回収期間の速度"
+  },
+  "Blended Gross Margin Across All Commerce Tracks": {
+    "ko": "모든 커머스 트랙 전반의 통합 매출총이익률",
+    "id": "Margin Laba Kotor Campuran di Seluruh Jalur Perdagangan",
+    "vi": "Biên lợi nhuận gộp hỗn hợp trên tất cả các kênh thương mại",
+    "zh-CN": "所有商业轨道的综合毛利率",
+    "ja": "すべてのコマース・トラックにおける混合売上総利益率"
+  },
+  "Autonomous Shoppable Multi-Format Video Assets": {
+    "ko": "자율형 쇼퍼블 멀티 포맷 비디오 자산",
+    "id": "Aset Video Multi-Format Shoppable Otonom",
+    "vi": "Tài sản video đa định dạng có thể mua sắm tự động",
+    "zh-CN": "自主可购物多格式视频资产",
+    "ja": "自律型ショッパブル・マルチフォーマット・ビデオ資産"
+  },
+  "Chapter 01 L2 Section Command Hub Overview": {
+    "ko": "제01장 L2 섹션 Command Hub 개요",
+    "id": "Bab 01 Bagian L2 Ringkasan Command Hub",
+    "vi": "Chương 01 Phần L2 Tổng quan về Command Hub",
+    "zh-CN": "第 01 章 L2 节 Command Hub 概述",
+    "ja": "第01章 L2セクション Command Hub の概要"
+  },
+  "Chapter 02 AI Pipeline Engineering": {
+    "ko": "제02장 AI 파이프라인 엔지니어링",
+    "id": "Bab 02 Rekayasa Pipeline AI",
+    "vi": "Chương 02 Kỹ thuật đường ống AI",
+    "zh-CN": "第 02 章 AI 流水线工程",
+    "ja": "第02章 AIパイプライン・エンジニアリング"
+  },
+  "Chapter 03 Unit Economics & Auditable Scalability": {
+    "ko": "제03장 단위 경제학 및 감사 가능한 확장성",
+    "id": "Bab 03 Ekonomi Unit & Skalabilitas yang Dapat Diaudit",
+    "vi": "Chương 03 Kinh tế đơn vị & Khả năng mở rộng có thể kiểm chứng",
+    "zh-CN": "第03章 单位经济效益与可审计的可扩展性",
+    "ja": "第03章 ユニットエコノミクスと監査可能なスケーラビリティ"
+  },
+  "Chapter 04 Commercial Monetization Architecture": {
+    "ko": "제04장 상업적 수익화 구조",
+    "id": "Bab 04 Arsitektur Monetisasi Komersial",
+    "vi": "Chương 04 Kiến trúc tiền tệ hóa thương mại",
+    "zh-CN": "第04章 商业变现架构",
+    "ja": "第04章 商業的マネタイズアーキテクチャ"
+  },
+  "Chapter 05 Omnichannel Conversion Dynamics": {
+    "ko": "제05장 옴니채널 전환 역학",
+    "id": "Bab 05 Dinamika Konversi Omnichannel",
+    "vi": "Chương 05 Động lực chuyển đổi đa kênh",
+    "zh-CN": "第05章 全渠道转化动态",
+    "ja": "第05章 オムニチャネル・コンバージョン・ダイナミクス"
+  },
+  "Chapter 06 Global Regulatory Framework": {
+    "ko": "제06장 글로벌 규제 프레임워크",
+    "id": "Bab 06 Kerangka Kerja Regulasi Global",
+    "vi": "Chương 06 Khung quy định toàn cầu",
+    "zh-CN": "第06章 全球监管框架",
+    "ja": "第06章 グローバルな規制枠組み"
+  },
+  "Chapter 07 Settlement Security & Asset Protection": {
+    "ko": "제07장 결제 보안 및 자산 보호",
+    "id": "Bab 07 Keamanan Penyelesaian & Perlindungan Aset",
+    "vi": "Chương 07 Bảo mật thanh toán & Bảo vệ tài sản",
+    "zh-CN": "第07章 结算安全与资产保护",
+    "ja": "第07章 決済セキュリティと資産保護"
+  },
+  "Chapter 08 Institutional Dossier": {
+    "ko": "제08장 기관용 서류첩",
+    "id": "Bab 08 Berkas Institusional",
+    "vi": "Chương 08 Hồ sơ tổ chức",
+    "zh-CN": "第08章 机构档案",
+    "ja": "第08章 機関向けドシエ"
+  },
+  "100% Cloud Native": {
+    "ko": "100% 클라우드 네이티브",
+    "id": "100% Cloud Native",
+    "vi": "100% Cloud Native",
+    "zh-CN": "100% 云原生",
+    "ja": "100% クラウドネイティブ"
+  },
+  "Daily NAV Audited": {
+    "ko": "매일 NAV 감사 완료",
+    "id": "Audit NAV Harian",
+    "vi": "Kiểm toán NAV hàng ngày",
+    "zh-CN": "每日资产净值 (NAV) 审计",
+    "ja": "毎日NAV監査済み"
+  },
+  "8 Regional Bases": {
+    "ko": "8개 지역 거점",
+    "id": "8 Basis Regional",
+    "vi": "8 Cơ sở Khu vực",
+    "zh-CN": "8 个区域基地",
+    "ja": "8つの地域拠点"
+  },
+  "The Institutional Newsroom: Independent Macro Journalism at Zero Capex": {
+    "ko": "기관 뉴스룸: 자본 지출(Capex) 없는 독립적 거시 경제 저널리즘",
+    "id": "Ruang Berita Institusional: Jurnalisme Makro Independen dengan Tanpa Capex",
+    "vi": "Phòng tin tức tổ chức: Báo chí vĩ mô độc lập với chi phí đầu tư (Capex) bằng không",
+    "zh-CN": "机构新闻编辑室：零资本支出的独立宏观新闻报道",
+    "ja": "機関ニュースルーム：設備投資（Capex）ゼロの独立したマクロジャーナリズム"
+  },
+  "Autonomous Ingestion, Verification, and Multi-Bureau Syndication": {
+    "ko": "자율적 데이터 수집, 검증 및 멀티 뷰로 신디케이션",
+    "id": "Ingesti, Verifikasi, dan Sindikasi Multi-Biro Otonom",
+    "vi": "Thu thập, xác minh và cung cấp dữ liệu đa cơ quan tự động",
+    "zh-CN": "自主摄取、验证和多机构联合发布",
+    "ja": "自律的な取り込み、検証、およびマルチビューロー・シンジケーション"
+  },
+  "3-Year Financial Model & Enterprise Research Economics": {
+    "ko": "3개년 재무 모델 및 기업 리서치 경제학",
+    "id": "Model Keuangan 3-Tahun & Ekonomi Riset Perusahaan",
+    "vi": "Mô hình Tài chính 3 năm & Kinh tế học Nghiên cứu Doanh nghiệp",
+    "zh-CN": "3年期财务模型与企业研究经济学",
+    "ja": "3カ年財務モデルおよび企業リサーチ経済学"
+  },
+  "The 20-Track Institutional Media & Syndication Offer Sheets": {
+    "ko": "20개 트랙 기관 미디어 및 신디케이션 제안서",
+    "id": "Lembar Penawaran Media Institusional & Sindikasi 20-Trek",
+    "vi": "Bảng chào hàng Truyền thông Định chế & Nghiệp đoàn 20 kênh",
+    "zh-CN": "20轨机构媒体与辛迪加报价单",
+    "ja": "20トラック機関メディアおよびシンジケーション・オファーシート"
+  },
+  "Dual-Audience Publishing Architecture & Influence Engine": {
+    "ko": "이중 타겟 출판 아키텍처 및 영향력 엔진",
+    "id": "Arsitektur Penerbitan Audiens Ganda & Mesin Pengaruh",
+    "vi": "Kiến trúc Xuất bản Đối tượng Kép & Công cụ Ảnh hưởng",
+    "zh-CN": "双重受众发布架构与影响力引擎",
+    "ja": "デュアルオーディエンス・パブリッシング・アーキテクチャおよびインフルエンス・エンジン"
+  },
+  "IATA & IADA Standards Reporting & International Bureau Matrix": {
+    "ko": "IATA 및 IADA 표준 보고 및 국제국 매트릭스",
+    "id": "Pelaporan Standar IATA & IADA & Matriks Biro Internasional",
+    "vi": "Báo cáo Tiêu chuẩn IATA & IADA & Ma trận Cục Quốc tế",
+    "zh-CN": "IATA与IADA标准报告及国际局矩阵",
+    "ja": "IATAおよびIADA標準レポートおよび国際局マトリックス"
+  },
+  "Cryptographic Proof-of-Integrity & Verifiable Daily NAV Publishing": {
+    "ko": "암호화 무결성 증명 및 검증 가능한 일일 NAV 공시",
+    "id": "Bukti Integritas Kriptografis & Penerbitan NAV Harian yang Dapat Diverifikasi",
+    "vi": "Bằng chứng Toàn vẹn Mã hóa & Xuất bản NAV Hàng ngày có thể Xác minh",
+    "zh-CN": "加密完整性证明与可验证的每日资产净值（NAV）发布",
+    "ja": "暗号化整合性証明および検証可能な日次NAVパブリッシング"
+  },
+  "Corporate Governance Ledger & Bureau Summary": {
+    "ko": "기업 지배구조 원장 및 국 요약",
+    "id": "Buku Besar Tata Kelola Perusahaan & Ringkasan Biro",
+    "vi": "Sổ cái Quản trị Doanh nghiệp & Tóm tắt của Cục",
+    "zh-CN": "公司治理账本与局摘要",
+    "ja": "コーポレートガバナンス台帳および局サマリー"
+  },
+  "Institutional Dispatches": {
+    "ko": "기관 발송물",
+    "id": "Pengiriman Institusional",
+    "vi": "Thông báo gửi đi của tổ chức",
+    "zh-CN": "机构调度",
+    "ja": "機関向け配信"
+  },
+  "IATA & IADA Alignment": {
+    "ko": "IATA 및 IADA 정렬",
+    "id": "Penyelarasan IATA & IADA",
+    "vi": "Sự liên kết IATA & IADA",
+    "zh-CN": "IATA 与 IADA 协作",
+    "ja": "IATAおよびIADAの整合"
+  },
+  "Audited NAV Dispatches": {
+    "ko": "감사된 NAV 발송물",
+    "id": "Pengiriman NAV yang Diaudit",
+    "vi": "Thông báo NAV đã được kiểm toán",
+    "zh-CN": "经审计的 NAV 调度",
+    "ja": "監査済みNAV配信"
+  },
+  "Cross-Border AI Trade Transparency": {
+    "ko": "국경 간 AI 무역 투명성",
+    "id": "Transparansi Perdagangan AI Lintas Batas",
+    "vi": "Tính minh bạch trong thương mại AI xuyên biên giới",
+    "zh-CN": "跨境 AI 贸易透明度",
+    "ja": "クロスボーダーAI貿易の透明性"
+  },
+  "Data Localization & Integrity Compliance": {
+    "ko": "데이터 현지화 및 무결성 준수",
+    "id": "Kepatuhan Lokalisasi & Integritas Data",
+    "vi": "Tuân thủ nội địa hóa và tính toàn vẹn của dữ liệu",
+    "zh-CN": "数据本地化与完整性合规",
+    "ja": "データのローカライゼーションと整合性のコンプライアンス"
+  },
+  "The SISTAR Post Global Newsroom Specifications": {
+    "ko": "SISTAR Post 글로벌 뉴스룸 사양",
+    "id": "Spesifikasi Ruang Berita Global SISTAR Post",
+    "vi": "Thông số kỹ thuật phòng tin tức toàn cầu của SISTAR Post",
+    "zh-CN": "SISTAR Post 全球新闻编辑室规范",
+    "ja": "SISTAR Post グローバルニュースルーム仕様"
+  },
+  "750+ Institutional Accounts": {
+    "ko": "750개 이상의 기관 계정",
+    "id": "750+ Akun Institusional",
+    "vi": "750+ Tài khoản Tổ chức",
+    "zh-CN": "750+ 机构账户",
+    "ja": "750以上の機関口座"
+  },
+  "65+ Dispatches / Day": {
+    "ko": "일일 65회 이상의 발송",
+    "id": "65+ Pengiriman / Hari",
+    "vi": "65+ Bản tin / Ngày",
+    "zh-CN": "每日 65+ 次发布",
+    "ja": "1日あたり65件以上の配信"
+  },
+  "Sovereign & Macro": {
+    "ko": "국가 및 거시 경제",
+    "id": "Sovereign & Makro",
+    "vi": "Chủ quyền & Vĩ mô",
+    "zh-CN": "主权与宏观",
+    "ja": "ソブリン＆マクロ"
+  },
+  "Track P-01: Sovereign Intelligence Feed": {
+    "ko": "Track P-01: 국가 정보 피드",
+    "id": "Track P-01: Sovereign Intelligence Feed",
+    "vi": "Track P-01: Nguồn cấp dữ liệu tình báo chủ quyền",
+    "zh-CN": "Track P-01：主权情报馈送",
+    "ja": "Track P-01: ソブリン・インテリジェンス・フィード"
+  },
+  "Direct API stream of bilateral tariff analysis, trade treaty modifications, and regulatory updates across 8 hub jurisdictions": {
+    "ko": "8개 허브 관할 구역의 양자 관세 분석, 무역 협정 개정 및 규제 업데이트의 직접 API 스트림",
+    "id": "Aliran API langsung dari analisis tarif bilateral, modifikasi perjanjian perdagangan, dan pembaruan peraturan di 8 yurisdiksi hub",
+    "vi": "Luồng API trực tiếp về phân tích thuế quan song phương, sửa đổi hiệp định thương mại và cập nhật quy định tại 8 khu vực pháp lý trung tâm",
+    "zh-CN": "跨 8 个枢纽司法管辖区的双边关税分析、贸易协定修订和监管更新的直接 API 流",
+    "ja": "8つのハブ管轄区域における二国間関税分析、貿易協定の修正、および規制更新の直接APIストリーム"
+  },
+  "KRW 120M / Year (Enterprise Multi-Seat)": {
+    "ko": "연간 1억 2천만 원 (기업용 멀티 시트)",
+    "id": "KRW 120 Juta / Tahun (Enterprise Multi-Seat)",
+    "vi": "120 triệu KRW / Năm (Enterprise Multi-Seat)",
+    "zh-CN": "1.2 亿韩元 / 年（企业多席位）",
+    "ja": "年間 1億2,000万ウォン（エンタープライズ・マルチシート）"
+  },
+  "Quarterly advance wire; full IATA trade data sovereignty compliance": {
+    "ko": "분기별 선송금; IATA 무역 데이터 주권 완전 준수",
+    "id": "Transfer kawat di muka setiap kuartal; kepatuhan kedaulatan data perdagangan IATA penuh",
+    "vi": "Chuyển khoản trước hàng quý; tuân thủ đầy đủ chủ quyền dữ liệu thương mại IATA",
+    "zh-CN": "季度预付电汇；完全符合 IATA 贸易数据主权合规",
+    "ja": "四半期ごとの前払い電信送金。IATA貿易データ主権の完全な遵守"
+  },
+  "Financial Terminals": {
+    "ko": "금융 터미널",
+    "id": "Terminal Keuangan",
+    "vi": "Thiết bị đầu cuối tài chính",
+    "zh-CN": "金融终端",
+    "ja": "金融ターミナル"
+  },
+  "Track P-04: Institutional NAV Ledger Terminal": {
+    "ko": "트랙 P-04: 기관용 NAV 원장 터미널",
+    "id": "Track P-04: Terminal Buku Besar NAV Institusional",
+    "vi": "Track P-04: Thiết bị đầu cuối sổ cái NAV tổ chức",
+    "zh-CN": "Track P-04：机构级 NAV 分类账终端",
+    "ja": "トラック P-04：機関投資家向け NAV 元帳ターミナル"
+  },
+  "Sub-second WebSocket feed of daily audited NAV disclosures, holding balance sheets, and inventory liquidation metrics": {
+    "ko": "일일 감사 NAV 공시, 보유 대차대조표 및 재고 청산 지표의 초단위 WebSocket 피드",
+    "id": "Feed WebSocket sub-detik dari pengungkapan NAV harian yang diaudit, neraca kepemilikan, dan metrik likuidasi inventaris",
+    "vi": "Nguồn cấp dữ liệu WebSocket dưới một giây về các công bố NAV được kiểm toán hàng ngày, bảng cân đối kế toán nắm giữ và các chỉ số thanh lý hàng tồn kho",
+    "zh-CN": "每日审计 NAV 披露、持仓资产负债表和库存清算指标的亚秒级 WebSocket 提要",
+    "ja": "毎日監査される NAV 開示、保有バランスシート、および在庫清算メトリクスのサブ秒単位の WebSocket フィード"
+  },
+  "KRW 75M / Year (Financial Desk License)": {
+    "ko": "KRW 7,500만 / 년 (금융 데스크 라이선스)",
+    "id": "KRW 75M / Tahun (Lisensi Meja Keuangan)",
+    "vi": "75 triệu KRW / Năm (Giấy phép bàn tài chính)",
+    "zh-CN": "7500 万韩元 / 年（金融台许可证）",
+    "ja": "7,500万ウォン / 年（フィナンシャルデスクライセンス）"
+  },
+  "Direct billing with automated K-SURE credit insurance integration": {
+    "ko": "자동화된 K-SURE 수출보험 통합을 통한 직접 청구",
+    "id": "Penagihan langsung dengan integrasi asuransi kredit K-SURE otomatis",
+    "vi": "Thanh toán trực tiếp với tích hợp bảo hiểm tín dụng K-SURE tự động",
+    "zh-CN": "直接计费，集成自动 K-SURE 信用保险",
+    "ja": "自動化された K-SURE 信用保険統合による直接請求"
+  },
+  "Commodity & Freight": {
+    "ko": "원자재 및 화물",
+    "id": "Komoditas & Pengangkutan",
+    "vi": "Hàng hóa & Vận tải",
+    "zh-CN": "大宗商品与货运",
+    "ja": "商品と貨物"
+  },
+  "Track P-08: Cross-Border Logistics Pulse": {
+    "ko": "Track P-08: 국경 간 물류 펄스",
+    "id": "Track P-08: Denyut Logistik Lintas Batas",
+    "vi": "Track P-08: Nhịp đập Logistics Xuyên biên giới",
+    "zh-CN": "Track P-08: 跨境物流脉动",
+    "ja": "Track P-08: クロスボーダー物流パルス"
+  },
+  "Daily container freight rate telemetry, port congestion indices, and fuel surcharge forecasts for Asia-Pacific trade corridors": {
+    "ko": "아시아 태평양 무역로를 위한 일일 컨테이너 운임 텔레메트리, 항만 혼잡 지수 및 유류 할증료 예측",
+    "id": "Telemetri tarif nava kontainer harian, indeks kemacetan pelabuhan, dan prakiraan biaya tambahan bahan bakar untuk koridor perdagangan Asia-Pasifik",
+    "vi": "Đo lường giá cước vận chuyển container hàng ngày, chỉ số tắc nghẽn cảng và dự báo phụ phí nhiên liệu cho các hành lang thương mại Châu Á - Thái Bình Dương",
+    "zh-CN": "亚太贸易走廊的每日集装箱运费遥测、港口拥堵指数和燃油附加费预测",
+    "ja": "アジア太平洋貿易回廊向けの毎日のコンテナ運賃テレメトリ、港湾混雑指数、および燃料サーチャージ予測"
+  },
+  "KRW 45M / Year (Logistics Corporate)": {
+    "ko": "KRW 4,500만 / 년 (물류 기업)",
+    "id": "KRW 45 Juta / Tahun (Perusahaan Logistik)",
+    "vi": "45 triệu KRW / Năm (Doanh nghiệp Logistics)",
+    "zh-CN": "4500万韩元 / 年 (物流企业)",
+    "ja": "4,500万ウォン / 年 (物流企業)"
+  },
+  "Monthly automated billing with 70/30 PG split webhook execution": {
+    "ko": "70/30 PG 분할 웹훅 실행을 포함한 월간 자동 청구",
+    "id": "Penagihan otomatis bulanan dengan eksekusi webhook pembagian PG 70/30",
+    "vi": "Lập hóa đơn tự động hàng tháng với việc thực thi webhook chia tách PG 70/30",
+    "zh-CN": "包含 70/30 PG 分账 Webhook 执行的每月自动计费",
+    "ja": "70/30 PG分割ウェブフック実行による月次自動請求"
+  },
+  "Custom Monographs": {
+    "ko": "맞춤형 전문 논문",
+    "id": "Monograf Khusus",
+    "vi": "Chuyên khảo Tùy chỉnh",
+    "zh-CN": "定制专题论文",
+    "ja": "カスタムモノグラフ"
+  },
+  "Track P-14: Sponsored Sector Whitepaper": {
+    "ko": "Track P-14: 후원 섹터 백서",
+    "id": "Track P-14: Whitepaper Sektor Bersponsor",
+    "vi": "Track P-14: Sách trắng về lĩnh vực được tài trợ",
+    "zh-CN": "Track P-14: 赞助领域白皮书",
+    "ja": "Track P-14: スポンサーセクター・ホワイトペーパー"
+  },
+  "Full 8-chapter institutional research monograph examining emerging consumer market categories or industrial supply hubs": {
+    "ko": "신흥 소비 시장 범주 또는 산업 공급 허브를 조사하는 전체 8장 분량의 기관 연구 논문",
+    "id": "Monograf penelitian institusional lengkap 8 bab yang memeriksa kategori pasar konsumen yang sedang berkembang atau pusat pasokan industri",
+    "vi": "Chuyên khảo nghiên cứu thể chế dài 8 chương kiểm tra các danh mục thị trường tiêu dùng mới nổi hoặc các trung tâm cung ứng công nghiệp",
+    "zh-CN": "共 8 章的完整机构研究专著，旨在考察新兴消费市场类别或工业供应枢纽",
+    "ja": "新興の消費者市場カテゴリーまたは産業供給ハブを調査する、全8章の機関研究モノグラフ"
+  },
+  "KRW 35M per bespoke publication": {
+    "ko": "맞춤형 간행물당 KRW 35M",
+    "id": "KRW 35M per publikasi pesanan",
+    "vi": "35 triệu KRW cho mỗi ấn phẩm đặt riêng",
+    "zh-CN": "每份定制出版物 KRW 35M",
+    "ja": "オーダーメイドの出版物あたり KRW 35M"
+  },
+  "50% advance upon research charter; 50% upon global wire dispatch": {
+    "ko": "연구 헌장 시 50% 선금; 글로벌 와이어 발송 시 50%",
+    "id": "Uang muka 50% saat piagam penelitian; 50% saat pengiriman kawat global",
+    "vi": "Tạm ứng 50% khi ký hiến chương nghiên cứu; 50% khi gửi tin điện tín toàn cầu",
+    "zh-CN": "研究章程签署时预付 50%；全球电讯发布时支付 50%",
+    "ja": "研究憲章時に50%の前払い、グローバル・ワイヤー配信時に50%"
+  },
+  "Syndication Network": {
+    "ko": "신디케이션 네트워크",
+    "id": "Jaringan Sindikasi",
+    "vi": "Mạng lưới cung cấp tin bài",
+    "zh-CN": "辛迪加网络",
+    "ja": "シンジケーション・ネットワーク"
+  },
+  "Track P-19: Global Newsroom Wire Syndication": {
+    "ko": "Track P-19: 글로벌 뉴스룸 와이어 신디케이션",
+    "id": "Track P-19: Sindikasi Kawat Ruang Berita Global",
+    "vi": "Track P-19: Cung cấp tin bài điện tín phòng tin toàn cầu",
+    "zh-CN": "Track P-19: 全球新闻编辑室电讯辛迪加",
+    "ja": "Track P-19: グローバル・ニュースルーム・ワイヤー・シンジケーション"
+  },
+  "Full republication rights for financial news aggregators, TV networks, and regional industry trade publications": {
+    "ko": "금융 뉴스 애그리게이터, TV 네트워크 및 지역 산업 전문지를 위한 전체 재출판 권한",
+    "id": "Hak publikasi ulang penuh untuk agregator berita keuangan, jaringan TV, dan publikasi perdagangan industri regional",
+    "vi": "Toàn quyền tái bản cho các đơn vị tổng hợp tin tức tài chính, mạng lưới truyền hình và các ấn phẩm thương mại ngành khu vực",
+    "zh-CN": "金融新闻聚合器、电视网络和区域行业贸易出版物的完整再出版权",
+    "ja": "金融ニュースアグリゲーター、テレビネットワーク、および地域業界誌向けの完全な再出版権"
+  },
+  "KRW 60M / Year (Full Syndication)": {
+    "ko": "연간 6,000만 원 (전체 신디케이션)",
+    "id": "KRW 60 Juta / Tahun (Sindikasi Penuh)",
+    "vi": "60 triệu KRW / Năm (Phát hành đầy đủ)",
+    "zh-CN": "6000万韩元 / 年 (全额辛迪加)",
+    "ja": "年間 6,000万ウォン (フルシンジケーション)"
+  },
+  "Automated bi-weekly royalty clearing through *SC Index Fiduciary Vault": {
+    "ko": "*SC Index Fiduciary Vault를 통한 자동 격주 로열티 정산",
+    "id": "Kliring royalti dua mingguan otomatis melalui *SC Index Fiduciary Vault",
+    "vi": "Thanh toán bản quyền tự động hai tuần một lần thông qua *SC Index Fiduciary Vault",
+    "zh-CN": "通过 *SC Index Fiduciary Vault 进行的自动每两周版税结算",
+    "ja": "*SC Index Fiduciary Vault を通じた自動隔週ロイヤリティ決済"
+  },
+  "Wire & Research Revenue (KRW)": {
+    "ko": "통신 및 리서치 수익 (KRW)",
+    "id": "Pendapatan Wire & Riset (KRW)",
+    "vi": "Doanh thu Wire & Nghiên cứu (KRW)",
+    "zh-CN": "通讯与研究收入 (KRW)",
+    "ja": "通信およびリサーチ収益 (KRW)"
+  },
+  "Active Enterprise Terminals": {
+    "ko": "활성 기업용 단말기",
+    "id": "Terminal Perusahaan Aktif",
+    "vi": "Các thiết bị đầu cuối doanh nghiệp đang hoạt động",
+    "zh-CN": "活跃企业终端",
+    "ja": "アクティブな企業向け端末"
+  },
+  "Daily Dispatches Published": {
+    "ko": "발행된 일일 뉴스레터",
+    "id": "Pengiriman Harian yang Diterbitkan",
+    "vi": "Các bản tin hàng ngày đã xuất bản",
+    "zh-CN": "已发布的每日简报",
+    "ja": "発行済みのデイリーディスパッチ"
+  },
+  "Renewal Retention Rate": {
+    "ko": "갱신 유지율",
+    "id": "Tingkat Retensi Perpanjangan",
+    "vi": "Tỷ lệ duy trì gia hạn",
+    "zh-CN": "续约留存率",
+    "ja": "更新継続率"
+  },
+  "Package Designation": {
+    "ko": "패키지 지정",
+    "id": "Penunjukan Paket",
+    "vi": "Chỉ định gói",
+    "zh-CN": "套餐指定",
+    "ja": "パッケージ指定"
+  },
+  "Scope of Access & Deliverables": {
+    "ko": "액세스 범위 및 산출물",
+    "id": "Cakupan Akses & Hasil Kerja",
+    "vi": "Phạm vi truy cập & Sản phẩm bàn giao",
+    "zh-CN": "访问范围与交付成果",
+    "ja": "アクセス範囲および成果物"
+  },
+  "Licensing Commitment (Annual)": {
+    "ko": "라이선스 약정 (연간)",
+    "id": "Komitmen Lisensi (Tahunan)",
+    "vi": "Cam kết cấp phép (Hàng năm)",
+    "zh-CN": "许可承诺（年度）",
+    "ja": "ライセンスコミットメント（年間）"
+  },
+  "Settlement & Compliance Protocol": {
+    "ko": "정산 및 준수 프로토콜",
+    "id": "Protokol Penyelesaian & Kepatuhan",
+    "vi": "Giao thức quyết toán & tuân thủ",
+    "zh-CN": "结算与合规协议",
+    "ja": "決済およびコンプライアンスプロトコル"
+  },
+  "Cognitive Newsroom Mechanics": {
+    "ko": "인지 뉴스룸 메커니즘",
+    "id": "Mekanisme Newsroom Kognitif",
+    "vi": "Cơ chế phòng tin tức nhận thức",
+    "zh-CN": "认知新闻编辑室机制",
+    "ja": "コグニティブニュースルームメカニズム"
+  },
+  "Unit Economics & Monetization Trajectory": {
+    "ko": "유닛 이코노믹스 및 수익화 궤적",
+    "id": "Ekonomi Unit & Trajektori Monetisasi",
+    "vi": "Kinh tế đơn vị & Quỹ đạo kiếm tiền",
+    "zh-CN": "单位经济效益与变现轨迹",
+    "ja": "ユニットエコノミクスと収益化の軌跡"
+  },
+  "Commercial Media Licensing": {
+    "ko": "상업용 미디어 라이선싱",
+    "id": "Lisensi Media Komersial",
+    "vi": "Cấp phép truyền thông thương mại",
+    "zh-CN": "商业媒体授权",
+    "ja": "商業メディアライセンス"
+  },
+  "Editorial Tiering Dynamics": {
+    "ko": "편집 계층화 역학",
+    "id": "Dinamika Penjenjangan Editorial",
+    "vi": "Động lực phân tầng biên tập",
+    "zh-CN": "编辑分层动态",
+    "ja": "編集ティアリングのダイナミクス"
+  },
+  "Global Standards & Data Sovereignty": {
+    "ko": "글로벌 표준 및 데이터 주권",
+    "id": "Standar Global & Kedaulatan Data",
+    "vi": "Tiêu chuẩn toàn cầu & Chủ quyền dữ liệu",
+    "zh-CN": "全球标准与数据主权",
+    "ja": "グローバルスタンダードとデータ主権"
+  },
+  "Proof of Integrity & Balance Sheet Transparency": {
+    "ko": "무결성 증명 및 대차대조표 투명성",
+    "id": "Bukti Integritas & Transparansi Neraca",
+    "vi": "Bằng chứng về tính toàn vẹn & Tính minh bạch của bảng cân đối kế toán",
+    "zh-CN": "完整性证明与资产负债表透明度",
+    "ja": "整合性の証明と貸借対照表の透明性"
+  },
+  "DOMAIN 12: MEDIA // INSTITUTIONAL WIRE": {
+    "ko": "도메인 12: 미디어 // 기관용 통신망",
+    "id": "DOMAIN 12: MEDIA // JARINGAN INSTITUSIONAL",
+    "vi": "MIỀN 12: TRUYỀN THÔNG // MẠNG TIN TỨC TỔ CHỨC",
+    "zh-CN": "领域 12：媒体 // 机构通讯网",
+    "ja": "ドメイン 12: メディア // 機関向け通信網"
+  },
+  "*SC GLOBAL JOURNALISM WIRE // LAYER 6 DIRECTORY & MEDIA": {
+    "ko": "*SC 글로벌 저널리즘 와이어 // 레이어 6 디렉토리 및 미디어",
+    "id": "*SC GLOBAL JOURNALISM WIRE // DIREKTORI & MEDIA LAYER 6",
+    "vi": "*SC GLOBAL JOURNALISM WIRE // DANH BẠ & TRUYỀN THÔNG LỚP 6",
+    "zh-CN": "*SC 全球新闻通讯社 // 第 6 层目录与媒体",
+    "ja": "*SC グローバル・ジャーナリズム・ワイヤー // レイヤー 6 ディレクトリ & メディア"
+  },
+  "Global Newsrooms (Korea, US, Indo, Sing, VN, IN, CN, JP)": {
+    "ko": "글로벌 뉴스룸 (한국, 미국, 인도네시아, 싱가포르, 베트남, 인도, 중국, 일본)",
+    "id": "Ruang Berita Global (Korea, AS, Indo, Sing, VN, IN, CN, JP)",
+    "vi": "Phòng tin tức toàn cầu (Hàn Quốc, Mỹ, Indo, Sing, VN, IN, CN, JP)",
+    "zh-CN": "全球新闻编辑室（韩国、美国、印尼、新加坡、越南、印度、中国、日本）",
+    "ja": "グローバル・ニュースルーム (韓国、米国、インドネシア、シンガポール、ベトナム、インド、中国、日本)"
+  },
+  "Verifiable Daily Audited Ledger Transparency": {
+    "ko": "검증 가능한 일일 감사 원장 투명성",
+    "id": "Transparansi Buku Besar Teraudit Harian yang Dapat Diverifikasi",
+    "vi": "Tính minh bạch của sổ cái được kiểm toán hàng ngày có thể xác minh",
+    "zh-CN": "可验证的每日审计账本透明度",
+    "ja": "検証可能な日次監査済み台帳の透明性"
+  },
+  "Standardized Research, Wire & Commercial Offer Sheets": {
+    "ko": "표준화된 연구, 통신 및 상업용 제안서",
+    "id": "Lembar Penawaran Komersial, Wire & Riset Terstandarisasi",
+    "vi": "Bảng chào hàng thương mại, tin tức & nghiên cứu tiêu chuẩn hóa",
+    "zh-CN": "标准化研究、通讯与商业报价单",
+    "ja": "標準化されたリサーチ、通信、および商業用オファーシート"
+  },
+  "Automated Fact-Checking & Provenance Stamping Latency": {
+    "ko": "자동 팩트 체크 및 출처 스탬핑 지연 시간",
+    "id": "Latensi Stempel Provenans & Pemeriksaan Fakta Otomatis",
+    "vi": "Độ trễ đóng dấu nguồn gốc & kiểm tra sự thật tự động",
+    "zh-CN": "自动事实核查与来源盖章延迟",
+    "ja": "自動ファクトチェックおよびプロバンス（出所）スタンプのレイテンシ"
+  },
+  "Chapter 02 Cognitive Newsroom Mechanics": {
+    "ko": "제02장 인지적 뉴스룸 메커니즘",
+    "id": "Bab 02 Mekanisme Ruang Berita Kognitif",
+    "vi": "Chương 02 Cơ chế Phòng tin tức Nhận thức",
+    "zh-CN": "第02章 认知新闻编辑室机制",
+    "ja": "第02章 認知的ニュースルームのメカニズム"
+  },
+  "Chapter 03 Unit Economics & Monetization Trajectory": {
+    "ko": "제03장 단위 경제성 및 수익화 궤적",
+    "id": "Bab 03 Ekonomi Unit & Lintasan Monetisasi",
+    "vi": "Chương 03 Kinh tế Đơn vị & Quỹ đạo Kiếm tiền",
+    "zh-CN": "第03章 单位经济效益与变现轨迹",
+    "ja": "第03章 ユニットエコノミクスと収益化の軌跡"
+  },
+  "Chapter 04 Commercial Media Licensing": {
+    "ko": "제04장 상업용 미디어 라이선싱",
+    "id": "Bab 04 Lisensi Media Komersial",
+    "vi": "Chương 04 Cấp phép Truyền thông Thương mại",
+    "zh-CN": "第04章 商业媒体许可",
+    "ja": "第04章 商業メディアライセンシング"
+  },
+  "Chapter 05 Editorial Tiering Dynamics": {
+    "ko": "제05장 편집 계층화 역학",
+    "id": "Bab 05 Dinamika Penjenjangan Editorial",
+    "vi": "Chương 05 Động lực Phân tầng Biên tập",
+    "zh-CN": "第05章 编辑分层动态",
+    "ja": "第05章 編集ティアリングのダイナミクス"
+  },
+  "Chapter 06 Global Standards & Data Sovereignty": {
+    "ko": "제06장 글로벌 표준 및 데이터 주권",
+    "id": "Bab 06 Standar Global & Kedaulatan Data",
+    "vi": "Chương 06 Tiêu chuẩn Toàn cầu & Chủ quyền Dữ liệu",
+    "zh-CN": "第06章 全球标准与数据主权",
+    "ja": "第06章 グローバルスタンダードとデータ主権"
+  },
+  "Chapter 07 Proof of Integrity & Balance Sheet Transparency": {
+    "ko": "제07장 무결성 증명 및 대차대조표 투명성",
+    "id": "Bab 07 Bukti Integritas & Transparansi Neraca",
+    "vi": "Chương 07 Bằng chứng về tính liêm chính & Tính minh bạch của Bảng cân đối kế toán",
+    "zh-CN": "第07章 诚信证明与资产负债表透明度",
+    "ja": "第07章 誠実性の証明と貸借対照表の透明性"
+  },
+  "8 International Hubs": {
+    "ko": "8개 국제 허브",
+    "id": "8 Hub Internasional",
+    "vi": "8 Trung tâm Quốc tế",
+    "zh-CN": "8个国际枢纽",
+    "ja": "8つの国際ハブ"
+  },
+  "SHA-256 Provenance": {
+    "ko": "SHA-256 출처 증명",
+    "id": "Provenansi SHA-256",
+    "vi": "Nguồn gốc SHA-256",
+    "zh-CN": "SHA-256 溯源",
+    "ja": "SHA-256 プロバナンス"
+  },
+  "*SC - Media Master Gateway": {
+    "ko": "*SC - 미디어 마스터 게이트웨이",
+    "id": "*SC - Media Master Gateway",
+    "vi": "*SC - Cổng Truyền thông Chính",
+    "zh-CN": "*SC - 媒体大师网关",
+    "ja": "*SC - メディアマスターゲートウェイ"
+  },
+  "The Strategic Mandate: Layer 6 Content Production Forge": {
+    "ko": "전략적 임무: 레이어 6 콘텐츠 제작 포지",
+    "id": "Mandat Strategis: Layer 6 Content Production Forge",
+    "vi": "Nhiệm vụ Chiến lược: Xưởng Sản xuất Nội dung Lớp 6",
+    "zh-CN": "战略使命：第6层内容生产工场",
+    "ja": "戦略的使命：レイヤー6コンテンツ制作フォージ"
+  },
+  "Dual-Engine Symbiosis: SISTAR Studio & The SISTAR Post": {
+    "ko": "듀얼 엔진 공생: SISTAR Studio & The SISTAR Post",
+    "id": "Simbiosis Mesin Ganda: SISTAR Studio & The SISTAR Post",
+    "vi": "Cộng sinh Động cơ Kép: SISTAR Studio & The SISTAR Post",
+    "zh-CN": "双引擎共生：SISTAR Studio & The SISTAR Post",
+    "ja": "デュアルエンジン共生：SISTAR Studio & The SISTAR Post"
+  },
+  "3-Year Financial Trajectory & Consolidated Unit Economics": {
+    "ko": "3개년 재무 궤적 및 통합 단위 경제성",
+    "id": "Trajektori Keuangan 3 Tahun & Ekonomi Unit Konsolidasi",
+    "vi": "Lộ trình Tài chính 3 năm & Kinh tế Đơn vị Hợp nhất",
+    "zh-CN": "三年财务轨迹与综合单位经济效益",
+    "ja": "3年間の財務軌道と連結ユニットエコノミクス"
+  },
+  "The 20-Track Master B2B Commercial Offer Portfolio": {
+    "ko": "20-트랙 마스터 B2B 상업 제안 포트폴리오",
+    "id": "Portofolio Penawaran Komersial B2B Master 20-Track",
+    "vi": "Danh mục Đề xuất Thương mại B2B Master 20-Track",
+    "zh-CN": "20轨主B2B商业报价组合",
+    "ja": "20トラック・マスターB2B商業オファー・ポートフォリオ"
+  },
+  "12-Domain Omnichannel Cross-Pollination Engine": {
+    "ko": "12-도메인 옴니채널 교차 수분 엔진",
+    "id": "Mesin Cross-Pollination Omnichannel 12-Domain",
+    "vi": "Công cụ Giao thoa Đa kênh 12-Domain",
+    "zh-CN": "12域全渠道交叉授粉引擎",
+    "ja": "12ドメイン・オムニチャネル・クロス・ポリネーション・エンジン"
+  },
+  "Global Operational Topology: 8 International Bases & IATA/IADA": {
+    "ko": "글로벌 운영 토폴로지: 8개 국제 기지 및 IATA/IADA",
+    "id": "Topologi Operasional Global: 8 Basis Internasional & IATA/IADA",
+    "vi": "Cấu trúc Vận hành Toàn cầu: 8 Cơ sở Quốc tế & IATA/IADA",
+    "zh-CN": "全球运营拓扑：8个国际基地及IATA/IADA",
+    "ja": "グローバル運用トポロジー：8つの国際拠点およびIATA/IADA"
+  },
+  "Dual-Track Legal Firewall, K-SURE Guarantees & 70/30 Settlement": {
+    "ko": "이중 트랙 법적 방화벽, K-SURE 보증 및 70/30 정산",
+    "id": "Firewall Hukum Jalur Ganda, Jaminan K-SURE & Penyelesaian 70/30",
+    "vi": "Tường lửa Pháp lý Hai luồng, Bảo lãnh K-SURE & Quyết toán 70/30",
+    "zh-CN": "双轨法律防火墙、K-SURE担保及70/30结算",
+    "ja": "デュアルトラック法的ファイアウォール、K-SURE保証および70/30決済"
+  },
+  "Corporate Governance Ledger & Master Domain Summary": {
+    "ko": "기업 거버넌스 원장 및 마스터 도메인 요약",
+    "id": "Buku Besar Tata Kelola Perusahaan & Ringkasan Domain Master",
+    "vi": "Sổ cái Quản trị Doanh nghiệp & Tóm tắt Miền Chính",
+    "zh-CN": "公司治理账本及主域摘要",
+    "ja": "コーポレートガバナンス台帳およびマスタードメイン概要"
+  },
+  "SISTAR Studio": {
+    "ko": "SISTAR 스튜디오",
+    "id": "SISTAR Studio",
+    "vi": "SISTAR Studio",
+    "zh-CN": "SISTAR 工作室",
+    "ja": "SISTAR スタジオ"
+  },
+  "IATA / IADA Governance": {
+    "ko": "IATA / IADA 거버넌스",
+    "id": "Tata Kelola IATA / IADA",
+    "vi": "Quản trị IATA / IADA",
+    "zh-CN": "IATA / IADA 治理",
+    "ja": "IATA / IADA ガバナンス"
+  },
+  "Standardized Console & Sales Dashboard": {
+    "ko": "표준화된 콘솔 및 판매 대시보드",
+    "id": "Konsol Terstandarisasi & Dasbor Penjualan",
+    "vi": "Bảng điều khiển & Bảng điều khiển bán hàng được tiêu chuẩn hóa",
+    "zh-CN": "标准化控制台和销售仪表板",
+    "ja": "標準化されたコンソールと販売ダッシュボード"
+  },
+  "IATA & IADA Standards Compliance": {
+    "ko": "IATA 및 IADA 표준 준수",
+    "id": "Kepatuhan Standar IATA & IADA",
+    "vi": "Tuân thủ tiêu chuẩn IATA & IADA",
+    "zh-CN": "符合 IATA 和 IADA 标准",
+    "ja": "IATAおよびIADA標準への準拠"
+  },
+  "Master Media Domain Specifications & Architectural Mandate": {
+    "ko": "마스터 미디어 도메인 사양 및 아키텍처 위임",
+    "id": "Spesifikasi Domain Media Master & Mandat Arsitektural",
+    "vi": "Thông số kỹ thuật miền truyền thông chính & Ủy thác kiến trúc",
+    "zh-CN": "主媒体域规范和架构指令",
+    "ja": "マスターメディアドメイン仕様およびアーキテクチャマンデート"
+  },
+  "Zero Sunk-Capex Investment Architecture, 20-Track B2B Offer Sheets & Autonomous Media Broadcasting": {
+    "ko": "Zero Sunk-Capex 투자 아키텍처, 20-트랙 B2B 제안서 및 자율 미디어 방송",
+    "id": "Arsitektur Investasi Zero Sunk-Capex, Lembar Penawaran B2B 20-Track & Penyiaran Media Otonom",
+    "vi": "Kiến trúc đầu tư Zero Sunk-Capex, Bảng chào hàng B2B 20-Track & Phát sóng truyền thông tự trị",
+    "zh-CN": "Zero Sunk-Capex 投资架构、20 轨 B2B 报价单和自主媒体广播",
+    "ja": "Zero Sunk-Capex 投資アーキテクチャ、20トラック B2B オファーシート、および自律型メディア放送"
+  },
+  "The Media domain provides the ultimate commercial and epistemic foundation for the Signal Star Universe. By orchestrating SISTAR Studio's autonomous content forge with The SISTAR Post's global macroeconomic journalism wire, the domain delivers verifiable capital growth, zero-CAC organic distribution, and institutional-grade legal security across all international trade operations.": {
+    "ko": "Media 도메인은 Signal Star Universe를 위한 궁극적인 상업적 및 인식론적 토대를 제공합니다. SISTAR Studio의 자율 콘텐츠 포지(forge)와 The SISTAR Post의 글로벌 거시 경제 저널리즘 와이어를 조율함으로써, 이 도메인은 모든 국제 무역 운영 전반에 걸쳐 검증 가능한 자본 성장, zero-CAC 유기적 배포 및 기관 수준의 법적 보안을 제공합니다.",
+    "id": "Domain Media menyediakan landasan komersial dan epistemik utama bagi Signal Star Universe. Dengan mengorkestrasi konten otonom SISTAR Studio dengan kawat jurnalisme makroekonomi global The SISTAR Post, domain ini memberikan pertumbuhan modal yang dapat diverifikasi, distribusi organik zero-CAC, dan keamanan hukum tingkat institusional di seluruh operasi perdagangan internasional.",
+    "vi": "Lĩnh vực Media cung cấp nền tảng thương mại và nhận thức luận tối thượng cho Signal Star Universe. Bằng cách điều phối xưởng nội dung tự trị của SISTAR Studio với mạng lưới báo chí kinh tế vĩ mô toàn cầu của The SISTAR Post, lĩnh vực này mang lại sự tăng trưởng vốn có thể kiểm chứng, phân phối hữu cơ zero-CAC và an ninh pháp lý cấp tổ chức trong tất cả các hoạt động thương mại quốc tế.",
+    "zh-CN": "Media 领域为 Signal Star Universe 提供了终极的商业和认识论基础。通过将 SISTAR Studio 的自主内容工厂与 The SISTAR Post 的全球宏观经济新闻专线相结合，该领域在所有国际贸易业务中实现了可验证的资本增长、zero-CAC 有机分发以及机构级法律安全。",
+    "ja": "Mediaドメインは、Signal Star Universeのための究極の商業的および認識論的基盤を提供します。SISTAR Studioの自律型コンテンツフォージとThe SISTAR Postのグローバルなマクロ経済ジャーナリズムワイヤーをオーケストレートすることにより、このドメインは、すべての国際貿易業務において、検証可能な資本成長、zero-CACのオーガニック配信、および機関レベルの法的セキュリティを実現します。"
+  },
+  "Year 1 (Deployment & Bootstrap)": {
+    "ko": "1년차 (배포 및 부트스트랩)",
+    "id": "Tahun 1 (Penyebaran & Bootstrap)",
+    "vi": "Năm 1 (Triển khai & Bootstrap)",
+    "zh-CN": "第 1 年（部署与引导）",
+    "ja": "1年目（展開とブートストラップ）"
+  },
+  "KRW 2.00 Billion": {
+    "ko": "KRW 20.0억 원",
+    "id": "KRW 2,00 Miliar",
+    "vi": "2,00 tỷ KRW",
+    "zh-CN": "20.0 亿韩元",
+    "ja": "20.0億ウォン"
+  },
+  "KRW 1.40 Billion (70%)": {
+    "ko": "KRW 14.0억 원 (70%)",
+    "id": "KRW 1,40 Miliar (70%)",
+    "vi": "1,40 tỷ KRW (70%)",
+    "zh-CN": "14.0 亿韩元 (70%)",
+    "ja": "14.0億ウォン (70%)"
+  },
+  "KRW 600 Million (30%)": {
+    "ko": "KRW 6.0억 원 (30%)",
+    "id": "KRW 600 Juta (30%)",
+    "vi": "600 triệu KRW (30%)",
+    "zh-CN": "6.0 亿韩元 (30%)",
+    "ja": "6.0億ウォン (30%)"
+  },
+  "Year 2 (Regional Expansion)": {
+    "ko": "2년차 (지역 확장)",
+    "id": "Tahun 2 (Ekspansi Regional)",
+    "vi": "Năm 2 (Mở rộng khu vực)",
+    "zh-CN": "第 2 年（区域扩张）",
+    "ja": "2年目（地域拡大）"
+  },
+  "KRW 7.00 Billion": {
+    "ko": "KRW 70억",
+    "id": "KRW 7,00 Miliar",
+    "vi": "KRW 7,00 tỷ",
+    "zh-CN": "KRW 70.0亿",
+    "ja": "KRW 70.0億"
+  },
+  "KRW 4.60 Billion (66%)": {
+    "ko": "KRW 46억 (66%)",
+    "id": "KRW 4,60 Miliar (66%)",
+    "vi": "KRW 4,60 tỷ (66%)",
+    "zh-CN": "KRW 46.0亿 (66%)",
+    "ja": "KRW 46.0億 (66%)"
+  },
+  "KRW 2.40 Billion (34%)": {
+    "ko": "KRW 24억 (34%)",
+    "id": "KRW 2,40 Miliar (34%)",
+    "vi": "KRW 2,40 tỷ (34%)",
+    "zh-CN": "KRW 24.0亿 (34%)",
+    "ja": "KRW 24.0億 (34%)"
+  },
+  "Year 3 (Global Scale Run-Rate)": {
+    "ko": "3년차 (Global Scale Run-Rate)",
+    "id": "Tahun ke-3 (Global Scale Run-Rate)",
+    "vi": "Năm thứ 3 (Global Scale Run-Rate)",
+    "zh-CN": "第3年 (Global Scale Run-Rate)",
+    "ja": "3年目 (Global Scale Run-Rate)"
+  },
+  "KRW 15.00 Billion": {
+    "ko": "KRW 150억",
+    "id": "KRW 15,00 Miliar",
+    "vi": "KRW 15,00 tỷ",
+    "zh-CN": "KRW 150.0亿",
+    "ja": "KRW 150.0億"
+  },
+  "KRW 9.75 Billion (65%)": {
+    "ko": "KRW 97.5억 (65%)",
+    "id": "KRW 9,75 Miliar (65%)",
+    "vi": "KRW 9,75 tỷ (65%)",
+    "zh-CN": "KRW 97.5亿 (65%)",
+    "ja": "KRW 97.5億 (65%)"
+  },
+  "KRW 5.25 Billion (35%)": {
+    "ko": "52.5억 원 (35%)",
+    "id": "KRW 5,25 Miliar (35%)",
+    "vi": "5,25 tỷ KRW (35%)",
+    "zh-CN": "52.5亿韩元 (35%)",
+    "ja": "52.5億ウォン (35%)"
+  },
+  "Track 01 - 04": {
+    "ko": "트랙 01 - 04",
+    "id": "Track 01 - 04",
+    "vi": "Track 01 - 04",
+    "zh-CN": "轨道 01 - 04",
+    "ja": "トラック 01 - 04"
+  },
+  "Container Volume Deals (FCL / LCL)": {
+    "ko": "컨테이너 물량 거래 (FCL / LCL)",
+    "id": "Kesepakatan Volume Kontainer (FCL / LCL)",
+    "vi": "Giao dịch khối lượng container (FCL / LCL)",
+    "zh-CN": "集装箱批量交易 (FCL / LCL)",
+    "ja": "コンテナ数量取引 (FCL / LCL)"
+  },
+  "Tier-1 FMCG Importers & Regional Wholesalers": {
+    "ko": "Tier-1 FMCG 수입업체 및 지역 도매업체",
+    "id": "Importir FMCG Tier-1 & Grosir Regional",
+    "vi": "Nhà nhập khẩu FMCG Tier-1 & Nhà bán buôn khu vực",
+    "zh-CN": "一级 FMCG 进口商和区域批发商",
+    "ja": "ティア1 FMCG輸入業者および地域卸売業者"
+  },
+  "First 3 shipments: 50% deposit, 50% on B/L release; subsequent on 60-day open account": {
+    "ko": "첫 3회 선적: 보증금 50%, B/L 발행 시 50%; 이후 60일 외상 거래",
+    "id": "3 pengiriman pertama: deposit 50%, 50% saat rilis B/L; selanjutnya dengan akun terbuka 60 hari",
+    "vi": "3 lô hàng đầu tiên: đặt cọc 50%, 50% khi giải phóng B/L; các lô tiếp theo thanh toán ghi sổ 60 ngày",
+    "zh-CN": "前3次发货：50% 定金，50% 凭提单(B/L)放行支付；后续采用60天赊销账期",
+    "ja": "最初の3回の出荷：50%の預金、50%はB/Lリリース時。以降は60日間のオープンアカウント"
+  },
+  "Localized 4K video packs, point-of-sale display reels, and translated packaging CAD assets": {
+    "ko": "현지화된 4K 비디오 팩, POS 디스플레이 릴 및 번역된 패키징 CAD 자산",
+    "id": "Paket video 4K yang dilokalkan, gulungan tampilan titik penjualan, dan aset CAD kemasan yang diterjemahkan",
+    "vi": "Gói video 4K bản địa hóa, cuộn hiển thị tại điểm bán hàng và tài sản CAD bao bì đã được dịch",
+    "zh-CN": "本地化 4K 视频包、销售点展示卷轴以及翻译后的包装 CAD 资产",
+    "ja": "ローカライズされた4Kビデオパック、POSディスプレイリール、および翻訳済みのパッケージCADアセット"
+  },
+  "SISTAR SOD (Zero-Inventory Dropship)": {
+    "ko": "SISTAR SOD (재고 없는 드랍쉬핑)",
+    "id": "SISTAR SOD (Dropship Tanpa Inventaris)",
+    "vi": "SISTAR SOD (Dropship không tồn kho)",
+    "zh-CN": "SISTAR SOD (零库存直运)",
+    "ja": "SISTAR SOD (在庫ゼロのドロップシッピング)"
+  },
+  "E-commerce Power Sellers & Digital Merchants": {
+    "ko": "이커머스 파워 셀러 및 디지털 상인",
+    "id": "Penjual Power E-commerce & Pedagang Digital",
+    "vi": "Người bán hàng E-commerce quyền năng & Thương nhân kỹ thuật số",
+    "zh-CN": "电子商务大卖家和数字商家",
+    "ja": "Eコマースパワーセラー＆デジタルマーチャント"
+  },
+  "Zero initial inventory capital; automated 70/30 PG split webhook execution upon cart checkout": {
+    "ko": "초기 재고 자본 0원; 장바구니 결제 시 자동 70/30 PG 분할 웹훅 실행",
+    "id": "Modal inventaris awal nol; eksekusi webhook pembagian PG 70/30 otomatis saat checkout keranjang",
+    "vi": "Vốn tồn kho ban đầu bằng không; thực thi webhook chia tách PG 70/30 tự động khi thanh toán giỏ hàng",
+    "zh-CN": "零初始库存资金；购物车结账时自动执行 70/30 PG 分账 Webhook",
+    "ja": "初期在庫資金ゼロ。カート決済時に自動で70/30のPG分割ウェブフックを実行"
+  },
+  "Daily shoppable video feeds, viral short-form assets, and instant affiliate checkout URLs": {
+    "ko": "매일 업데이트되는 쇼퍼블 비디오 피드, 바이럴 숏폼 에셋, 즉시 제휴 결제 URL",
+    "id": "Umpan video shoppable harian, aset short-form viral, dan URL checkout afiliasi instan",
+    "vi": "Nguồn cấp video có thể mua sắm hàng ngày, tài sản video ngắn lan truyền và URL thanh toán liên kết tức thì",
+    "zh-CN": "每日可购物视频流、病毒式短视频资产和即时联盟结账 URL",
+    "ja": "毎日のショッピング可能なビデオフィード、バイラルな短尺動画アセット、即時アフィリエイト決済URL"
+  },
+  "Regional Wholesalers & Offline Chains": {
+    "ko": "지역 도매업체 및 오프라인 체인",
+    "id": "Grosir Regional & Rantai Offline",
+    "vi": "Nhà bán buôn khu vực & Chuỗi cửa hàng ngoại tuyến",
+    "zh-CN": "区域批发商和线下连锁店",
+    "ja": "地域卸売業者およびオフラインチェーン"
+  },
+  "National Supermarket & Retail Chains": {
+    "ko": "전국 슈퍼마켓 및 소매 체인",
+    "id": "Supermarket Nasional & Rantai Ritel",
+    "vi": "Siêu thị quốc gia & Chuỗi bán lẻ",
+    "zh-CN": "全国超市和零售连锁店",
+    "ja": "全国スーパーマーケットおよび小売チェーン"
+  },
+  "Confirmed Irrevocable Letter of Credit (L/C) or K-SURE backed corporate open account": {
+    "ko": "확인된 취소불능 신용장(L/C) 또는 K-SURE 보증 기업 오픈 어카운트",
+    "id": "Letter of Credit (L/C) Irrevocable yang Dikonfirmasi atau akun terbuka korporat yang didukung K-SURE",
+    "vi": "Thư tín dụng không thể hủy ngang (L/C) đã xác nhận hoặc tài khoản mở doanh nghiệp được K-SURE bảo lãnh",
+    "zh-CN": "保兑不可撤销信用证 (L/C) 或 K-SURE 担保的企业赊销账项",
+    "ja": "確認済取消不能信用状（L/C）または K-SURE 保証の企業オープンアカウント"
+  },
+  "In-store retail video displays, staff merchandising guides, and regional press releases": {
+    "ko": "매장 내 리테일 비디오 디스플레이, 직원 머천다이징 가이드 및 지역 보도 자료",
+    "id": "Tampilan video ritel di toko, panduan merchandising staf, dan siaran pers regional",
+    "vi": "Màn hình video bán lẻ tại cửa hàng, hướng dẫn trưng bày cho nhân viên và thông cáo báo chí khu vực",
+    "zh-CN": "店内零售视频展示、员工陈列指南和区域新闻稿",
+    "ja": "店内小売ビデオディスプレイ、スタッフマーチャンダイジングガイド、および地域プレスリリース"
+  },
+  "Track 13 - 16": {
+    "ko": "트랙 13 - 16",
+    "id": "Track 13 - 16",
+    "vi": "Track 13 - 16",
+    "zh-CN": "轨道 13 - 16",
+    "ja": "トラック 13 - 16"
+  },
+  "Influencer Tracks (Tiers I, II, III)": {
+    "ko": "인플루언서 트랙 (티어 I, II, III)",
+    "id": "Jalur Influencer (Tingkat I, II, III)",
+    "vi": "Các lộ trình của người ảnh hưởng (Bậc I, II, III)",
+    "zh-CN": "网红轨道（I、II、III 级）",
+    "ja": "インフルエンサートラック（ティア I、II、III）"
+  },
+  "Content Creators & Brand Ambassadors": {
+    "ko": "콘텐츠 크리에이터 및 브랜드 앰배서더",
+    "id": "Kreator Konten & Brand Ambassador",
+    "vi": "Người sáng tạo nội dung & Đại sứ thương hiệu",
+    "zh-CN": "内容创作者与品牌大使",
+    "ja": "コンテンツクリエイター＆ブランドアンバサダー"
+  },
+  "Tiered performance commission (15% to 25% net margin) via bi-weekly escrow clearing": {
+    "ko": "격주 에스크로 정산을 통한 단계별 성과 수수료 (순이익의 15% ~ 25%)",
+    "id": "Komisi kinerja berjenjang (margin bersih 15% hingga 25%) melalui penyelesaian escrow dua mingguan",
+    "vi": "Hoa hồng hiệu suất theo cấp bậc (lợi nhuận ròng 15% đến 25%) thông qua thanh toán ký quỹ hai tuần một lần",
+    "zh-CN": "通过每两周一次的托管结算，获得分级绩效佣金（净利润的 15% 至 25%）",
+    "ja": "隔週のエスクロー決済による段階的なパフォーマンス手数料（純利益の15%〜25%）"
+  },
+  "AI-synthesized custom co-branded video clips, product sample allocation, and microsite generation": {
+    "ko": "AI 합성 맞춤형 공동 브랜드 비디오 클립, 제품 샘플 할당 및 마이크로사이트 생성",
+    "id": "Klip video co-branded khusus yang disintesis AI, alokasi sampel produk, dan pembuatan mikrositus",
+    "vi": "Các đoạn video đồng thương hiệu tùy chỉnh được tổng hợp bằng AI, phân bổ mẫu sản phẩm và tạo microsite",
+    "zh-CN": "AI 合成的定制联合品牌视频剪辑、产品样品分配和微型网站生成",
+    "ja": "AI合成によるカスタム共同ブランドビデオクリップ、製品サンプルの割り当て、およびマイクロサイトの生成"
+  },
+  "Track 17 - 20": {
+    "ko": "트랙 17 - 20",
+    "id": "Track 17 - 20",
+    "vi": "Track 17 - 20",
+    "zh-CN": "轨道 17 - 20",
+    "ja": "トラック 17 - 20"
+  },
+  "S1 - S6 Franchise & Wire Licensing": {
+    "ko": "S1 - S6 프랜차이즈 및 와이어 라이선싱",
+    "id": "Lisensi Waralaba & Wire S1 - S6",
+    "vi": "Cấp phép Nhượng quyền & Wire S1 - S6",
+    "zh-CN": "S1 - S6 特许经营与电汇许可",
+    "ja": "S1 - S6 フランチャイズ＆ワイヤーライセンシング"
+  },
+  "Institutional Master Franchisees & Newsrooms": {
+    "ko": "기관 마스터 프랜차이즈 및 뉴스룸",
+    "id": "Master Franchisee Institusional & Ruang Redaksi",
+    "vi": "Đơn vị nhận quyền tổng thể của tổ chức & Phòng tin tức",
+    "zh-CN": "机构总特许经营商与新闻编辑室",
+    "ja": "機関マスターフランチャイジー＆ニュースルーム"
+  },
+  "Master licensing fee (KRW 30M - 150M) with staged 30/40/30 operational deployment": {
+    "ko": "마스터 라이선스 수수료 (KRW 3,000만 - 1억 5,000만) 및 30/40/30 단계별 운영 배포",
+    "id": "Biaya lisensi utama (KRW 30 jt - 150 jt) dengan penerapan operasional bertahap 30/40/30",
+    "vi": "Phí cấp phép chính (30 triệu - 150 triệu KRW) với triển khai vận hành theo giai đoạn 30/40/30",
+    "zh-CN": "主许可费（3000万 - 1.5亿韩元）及 30/40/30 分阶段运营部署",
+    "ja": "マスターライセンス料（3,000万 - 1億5,000万ウォン）および 30/40/30 段階的運用展開"
+  },
+  "Turnkey digital signage systems, automated local news dispatch, and terminal API feeds": {
+    "ko": "턴키 디지털 사이니지 시스템, 자동화된 로컬 뉴스 발송 및 터미널 API 피드",
+    "id": "Sistem papan tanda digital turnkey, pengiriman berita lokal otomatis, dan umpan API terminal",
+    "vi": "Hệ thống biển báo kỹ thuật số trọn gói, gửi tin tức địa phương tự động và nguồn cấp dữ liệu API thiết bị đầu cuối",
+    "zh-CN": "一站式数字标牌系统、自动化本地新闻调度及终端 API 馈送",
+    "ja": "ターンキー・デジタルサイネージ・システム、自動ローカルニュース配信、および端末APIフィード"
+  },
+  "Consolidated Revenue (KRW)": {
+    "ko": "연결 매출 (KRW)",
+    "id": "Pendapatan Konsolidasi (KRW)",
+    "vi": "Doanh thu hợp nhất (KRW)",
+    "zh-CN": "合并收入 (KRW)",
+    "ja": "連結売上高 (KRW)"
+  },
+  "SISTAR Studio Share": {
+    "ko": "SISTAR Studio 점유율",
+    "id": "Pangsa SISTAR Studio",
+    "vi": "Thị phần SISTAR Studio",
+    "zh-CN": "SISTAR Studio 份额",
+    "ja": "SISTAR Studio シェア"
+  },
+  "The SISTAR Post Share": {
+    "ko": "The SISTAR Post 점유율",
+    "id": "Pangsa The SISTAR Post",
+    "vi": "Thị phần The SISTAR Post",
+    "zh-CN": "The SISTAR Post 份额",
+    "ja": "The SISTAR Post シェア"
+  },
+  "Commercial Package Scope": {
+    "ko": "상업용 패키지 범위",
+    "id": "Cakupan Paket Komersial",
+    "vi": "Phạm vi gói thương mại",
+    "zh-CN": "商业套餐范围",
+    "ja": "商用パッケージの範囲"
+  },
+  "Primary Target Counterparty": {
+    "ko": "주요 대상 거래 상대방",
+    "id": "Pihak Lawan Target Utama",
+    "vi": "Đối tác Mục tiêu Chính",
+    "zh-CN": "主要目标交易对手",
+    "ja": "主要対象取引先"
+  },
+  "Financial Terms & Escrow Structure": {
+    "ko": "금융 조건 및 에스크로 구조",
+    "id": "Syarat Keuangan & Struktur Escrow",
+    "vi": "Điều khoản Tài chính & Cấu trúc Ký quỹ",
+    "zh-CN": "财务条款与托管结构",
+    "ja": "財務条件およびエスクロー構造"
+  },
+  "Core Media Deliverables": {
+    "ko": "핵심 미디어 산출물",
+    "id": "Hasil Media Inti",
+    "vi": "Sản phẩm Truyền thông Cốt lõi",
+    "zh-CN": "核心媒体交付物",
+    "ja": "主要メディア成果物"
+  },
+  "Domain Root Gateway Overview": {
+    "ko": "도메인 루트 게이트웨이 개요",
+    "id": "Ikhtisar Gateway Akar Domain",
+    "vi": "Tổng quan Cổng Gốc Tên miền",
+    "zh-CN": "域名根网关概览",
+    "ja": "ドメインルートゲートウェイの概要"
+  },
+  "Master Dual-Pillar Symbiosis": {
+    "ko": "마스터 이중 기둥 공생",
+    "id": "Simbiosis Dua Pilar Utama",
+    "vi": "Sự Cộng sinh Hai Trụ cột Chính",
+    "zh-CN": "主双柱共生",
+    "ja": "マスター二大柱共生"
+  },
+  "Consolidated Financial Blueprint": {
+    "ko": "통합 재무 청사진",
+    "id": "Cetak Biru Keuangan Konsolidasi",
+    "vi": "Bản thiết kế Tài chính Hợp nhất",
+    "zh-CN": "合并财务蓝图",
+    "ja": "連結財務ブループリント"
+  },
+  "Consolidated Commercial Portfolio": {
+    "ko": "통합 상업 포트폴리오",
+    "id": "Portofolio Komersial Terkonsolidasi",
+    "vi": "Danh mục Thương mại Hợp nhất",
+    "zh-CN": "综合商业组合",
+    "ja": "統合商業ポートフォリオ"
+  },
+  "Omnichannel Cross-Pollination": {
+    "ko": "옴니채널 교차 시너지",
+    "id": "Cross-Pollination Omnisaluran",
+    "vi": "Sự giao thoa đa kênh",
+    "zh-CN": "全渠道交叉融合",
+    "ja": "オムニチャネル・クロス・ポリネーション"
+  },
+  "International Governance & Hub Topology": {
+    "ko": "국제 거버넌스 및 허브 토폴로지",
+    "id": "Tata Kelola Internasional & Topologi Hub",
+    "vi": "Quản trị Quốc tế & Cấu trúc liên kết Hub",
+    "zh-CN": "国际治理与枢纽拓扑",
+    "ja": "国際ガバナンスとハブ・トポロジー"
+  },
+  "Enterprise Risk Firewall": {
+    "ko": "엔터프라이즈 리스크 방화벽",
+    "id": "Firewall Risiko Perusahaan",
+    "vi": "Tường lửa Rủi ro Doanh nghiệp",
+    "zh-CN": "企业风险防火墙",
+    "ja": "エンタープライズ・リスク・ファイアウォール"
+  },
+  "DOMAIN ID: SC-LAYER-06-MEDIA": {
+    "ko": "도메인 ID: SC-LAYER-06-MEDIA",
+    "id": "ID DOMAIN: SC-LAYER-06-MEDIA",
+    "vi": "ID MIỀN: SC-LAYER-06-MEDIA",
+    "zh-CN": "域名 ID: SC-LAYER-06-MEDIA",
+    "ja": "ドメインID: SC-LAYER-06-MEDIA"
+  },
+  "DOMAIN 12: MEDIA // MASTER PORTAL GATEWAY": {
+    "ko": "도메인 12: MEDIA // 마스터 포털 게이트웨이",
+    "id": "DOMAIN 12: MEDIA // MASTER PORTAL GATEWAY",
+    "vi": "MIỀN 12: MEDIA // CỔNG THÔNG TIN CHÍNH",
+    "zh-CN": "域 12: 媒体 // 主门户网关",
+    "ja": "ドメイン 12: MEDIA // マスターポータルゲートウェイ"
+  },
+  "*SC DOMAIN ROOT GATEWAY // LAYER 6 DIRECTORY & MEDIA": {
+    "ko": "*SC 도메인 루트 게이트웨이 // 레이어 6 디렉토리 및 미디어",
+    "id": "*SC DOMAIN ROOT GATEWAY // DIREKTORI & MEDIA LAYER 6",
+    "vi": "*SC DOMAIN ROOT GATEWAY // THƯ MỤC & PHƯƠNG TIỆN LỚP 6",
+    "zh-CN": "*SC 域名根网关 // 第 6 层目录与媒体",
+    "ja": "*SC ドメインルートゲートウェイ // レイヤー 6 ディレクトリ & メディア"
+  },
+  "Year 3 Target Revenue (35% Operating Profit Margin)": {
+    "ko": "3년차 목표 매출 (35% 영업이익률)",
+    "id": "Target Pendapatan Tahun ke-3 (Margin Laba Operasional 35%)",
+    "vi": "Doanh thu mục tiêu năm thứ 3 (Biên lợi nhuận hoạt động 35%)",
+    "zh-CN": "第 3 年目标营收 (35% 营业利润率)",
+    "ja": "3年目目標売上高 (営業利益率 35%)"
+  },
+  "Consolidated LTV / CAC Ratio Across All Tracks": {
+    "ko": "모든 트랙에 걸친 통합 LTV / CAC 비율",
+    "id": "Rasio LTV / CAC Terkonsolidasi di Semua Jalur",
+    "vi": "Tỷ lệ LTV / CAC hợp nhất trên tất cả các kênh",
+    "zh-CN": "所有轨道的综合 LTV / CAC 比率",
+    "ja": "全トラックにおける連結 LTV / CAC 比率"
+  },
+  "Rapid Customer Acquisition Payback Velocity": {
+    "ko": "신속한 고객 획득 비용 회수 속도",
+    "id": "Kecepatan Pengembalian Biaya Akuisisi Pelanggan yang Cepat",
+    "vi": "Tốc độ hoàn vốn thu hút khách hàng nhanh chóng",
+    "zh-CN": "快速客户获取投资回收速度",
+    "ja": "迅速な顧客獲得コスト回収速度"
+  },
+  "Verifiable Ledger Auditing & Legal Firewall Protection": {
+    "ko": "검증 가능한 원장 감사 및 법적 방화벽 보호",
+    "id": "Audit Buku Besar yang Dapat Diverifikasi & Perlindungan Firewall Hukum",
+    "vi": "Kiểm toán sổ cái có thể xác minh & Bảo vệ tường lửa pháp lý",
+    "zh-CN": "可验证的账本审计与法律防火墙保护",
+    "ja": "検証可能な台帳監査および法的ファイアウォール保護"
+  },
+  "Chapter 01 Domain Root Gateway Overview": {
+    "ko": "제01장 도메인 루트 게이트웨이 개요",
+    "id": "Bab 01 Ikhtisar Domain Root Gateway",
+    "vi": "Chương 01 Tổng quan về Domain Root Gateway",
+    "zh-CN": "第 01 章 域名根网关概述",
+    "ja": "第01章 ドメインルートゲートウェイの概要"
+  },
+  "Chapter 02 Master Dual-Pillar Symbiosis": {
+    "ko": "제02장 마스터 양대 지주 공생",
+    "id": "Bab 02 Simbiosis Dua Pilar Utama",
+    "vi": "Chương 02 Cộng sinh Hai Trụ cột Chính",
+    "zh-CN": "第02章 主力双柱共生",
+    "ja": "第02章 マスター二大柱の共生"
+  },
+  "Chapter 03 Consolidated Financial Blueprint": {
+    "ko": "제03장 연결 재무 청사진",
+    "id": "Bab 03 Cetak Biru Keuangan Konsolidasi",
+    "vi": "Chương 03 Bản thiết kế Tài chính Hợp nhất",
+    "zh-CN": "第03章 合并财务蓝图",
+    "ja": "第03章 連結財務ブループリント"
+  },
+  "Chapter 04 Consolidated Commercial Portfolio": {
+    "ko": "제04장 연결 상업 포트폴리오",
+    "id": "Bab 04 Portofolio Komersial Konsolidasi",
+    "vi": "Chương 04 Danh mục Thương mại Hợp nhất",
+    "zh-CN": "第04章 合并商业组合",
+    "ja": "第04章 連結商業ポートフォリオ"
+  },
+  "Chapter 05 Omnichannel Cross-Pollination": {
+    "ko": "제05장 옴니채널 교차 교류",
+    "id": "Bab 05 Cross-Pollination Omnisaluran",
+    "vi": "Chương 05 Giao thoa Đa kênh",
+    "zh-CN": "第05章 全渠道交叉融合",
+    "ja": "第05章 オムニチャネルの相互作用"
+  },
+  "Chapter 06 International Governance & Hub Topology": {
+    "ko": "제06장 국제 거버넌스 및 허브 토폴로지",
+    "id": "Bab 06 Tata Kelola Internasional & Topologi Hub",
+    "vi": "Chương 06 Quản trị Quốc tế & Cấu trúc Trung tâm",
+    "zh-CN": "第06章 国际治理与枢纽拓扑",
+    "ja": "第06章 国際ガバナンスとハブトポロジー"
+  },
+  "Chapter 07 Enterprise Risk Firewall": {
+    "ko": "제07장 기업 리스크 방화벽",
+    "id": "Bab 07 Firewall Risiko Perusahaan",
+    "vi": "Chương 07 Tường lửa Rủi ro Doanh nghiệp",
+    "zh-CN": "第07章 企业风险防火墙",
+    "ja": "第07章 企業リスクファイアウォール"
+  },
+  "8 Territorial Bases": {
+    "ko": "8개의 영토 기지",
+    "id": "8 Pangkalan Teritorial",
+    "vi": "8 Căn cứ Lãnh thổ",
+    "zh-CN": "8个领土基地",
+    "ja": "8つの領土基地"
+  },
+  "Daily NAV Auditing & Workspace Ledger Transparency": {
+    "ko": "일일 NAV 감사 및 워크스페이스 원장 투명성",
+    "id": "Audit NAV Harian & Transparansi Buku Besar Workspace",
+    "vi": "Kiểm toán NAV hàng ngày & Tính minh bạch của sổ cái Workspace",
+    "zh-CN": "每日资产净值 (NAV) 审计与工作区账本透明度",
+    "ja": "日次NAV監査およびワークスペース元帳の透明性"
+  },
+  "KRW 2.0B Gross Revenue": {
+    "ko": "총 매출 20억 원 (KRW 2.0B)",
+    "id": "Pendapatan Kotor KRW 2,0 Miliar",
+    "vi": "Tổng doanh thu 2,0 tỷ KRW",
+    "zh-CN": "总收入 20亿韩元 (KRW 2.0B)",
+    "ja": "総売上高 20億ウォン (KRW 2.0B)"
+  },
+  "KRW 7.0B Gross Revenue": {
+    "ko": "총 매출 70억 원 (KRW 7.0B)",
+    "id": "Pendapatan Kotor KRW 7,0 Miliar",
+    "vi": "Tổng doanh thu 7,0 tỷ KRW",
+    "zh-CN": "总收入 70亿韩元 (KRW 7.0B)",
+    "ja": "総売上高 70億ウォン (KRW 7.0B)"
+  },
+  "KRW 15.0B Gross Revenue": {
+    "ko": "총 매출 150억 원 (KRW 15.0B)",
+    "id": "Pendapatan Kotor KRW 15,0 Miliar",
+    "vi": "Tổng doanh thu 15,0 tỷ KRW",
+    "zh-CN": "总收入 150亿韩元 (KRW 15.0B)",
+    "ja": "総売上高 150億ウォン (KRW 15.0B)"
+  },
+  "RSS → Make.com → Gemini Multi-Modal Pipeline": {
+    "ko": "RSS → Make.com → Gemini 멀티모달 파이프라인",
+    "id": "RSS → Make.com → Gemini Multi-Modal Pipeline",
+    "vi": "RSS → Make.com → Gemini Multi-Modal Pipeline",
+    "zh-CN": "RSS → Make.com → Gemini 多模态流水线",
+    "ja": "RSS → Make.com → Gemini マルチモーダルパイプライン"
+  },
+  "Direct Routing to the 20 B2B Offer Sheets": {
+    "ko": "20개의 B2B 제안서로 직접 라우팅",
+    "id": "Perutean Langsung ke 20 Lembar Penawaran B2B",
+    "vi": "Định tuyến trực tiếp đến 20 bảng chào hàng B2B",
+    "zh-CN": "直接路由至 20 份 B2B 报价单",
+    "ja": "20のB2Bオファーシートへのダイレクトルーティング"
+  },
+  "Gross Merchandise Volume (GMV)": {
+    "ko": "총 상품 판매액 (GMV)",
+    "id": "Gross Merchandise Volume (GMV)",
+    "vi": "Tổng giá trị hàng hóa (GMV)",
+    "zh-CN": "商品交易总额 (GMV)",
+    "ja": "流通取引総額 (GMV)"
+  },
+  "KRW 3.20B": {
+    "ko": "KRW 32.0억",
+    "id": "KRW 3,20 Miliar",
+    "vi": "3,20 tỷ KRW",
+    "zh-CN": "32.0亿韩元",
+    "ja": "32.0億ウォン"
+  },
+  "KRW 11.20B": {
+    "ko": "KRW 112.0억",
+    "id": "KRW 11,20 Miliar",
+    "vi": "11,20 tỷ KRW",
+    "zh-CN": "112.0亿韩元",
+    "ja": "112.0億ウォン"
+  },
+  "KRW 24.00B": {
+    "ko": "KRW 240.0억",
+    "id": "KRW 24,00 Miliar",
+    "vi": "24,00 tỷ KRW",
+    "zh-CN": "240.0亿韩元",
+    "ja": "240.0億ウォン"
+  },
+  "Aggregate cross-border invoice throughput processed across all 12 domains": {
+    "ko": "12개 전체 도메인에서 처리된 누적 국경 간 인보이스 처리량",
+    "id": "Agregat throughput faktur lintas batas yang diproses di seluruh 12 domain",
+    "vi": "Tổng lượng hóa đơn xuyên biên giới được xử lý trên tất cả 12 miền",
+    "zh-CN": "在所有 12 个域中处理的跨境发票总吞吐量",
+    "ja": "全12ドメインで処理された累積クロスボーダー請求書処理量"
+  },
+  "Recognized Net Revenue": {
+    "ko": "인식된 순매출",
+    "id": "Pendapatan Bersih yang Diakui",
+    "vi": "Doanh thu thuần được ghi nhận",
+    "zh-CN": "已确认净收入",
+    "ja": "認識された純収益"
+  },
+  "Net sales from direct container deals, SOD fulfillment, and franchise royalties": {
+    "ko": "직접 컨테이너 거래, SOD 풀필먼트 및 프랜차이즈 로열티를 통한 순매출",
+    "id": "Penjualan bersih dari transaksi kontainer langsung, pemenuhan SOD, dan royalti waralaba",
+    "vi": "Doanh thu thuần từ các giao dịch container trực tiếp, hoàn tất đơn hàng SOD và phí bản quyền nhượng quyền",
+    "zh-CN": "来自直接集装箱交易、SOD 履行和特许经营权使用费的净销售额",
+    "ja": "直接コンテナ取引、SODフルフィルメント、およびフランチャイズロイヤリティによる純売上高"
+  },
+  "Blended Gross Margin (%)": {
+    "ko": "혼합 매출총이익률 (%)",
+    "id": "Margin Laba Kotor Campuran (%)",
+    "vi": "Biên lợi nhuận gộp hỗn hợp (%)",
+    "zh-CN": "综合毛利率 (%)",
+    "ja": "混合売上総利益率 (%)"
+  },
+  "Direct factory ODM relationships and eliminated middleman markups": {
+    "ko": "직영 공장 ODM 관계 및 중간 유통 마진 제거",
+    "id": "Hubungan ODM pabrik langsung dan penghapusan markup perantara",
+    "vi": "Quan hệ ODM trực tiếp với nhà máy và loại bỏ chi phí trung gian",
+    "zh-CN": "直接工厂 ODM 关系并消除了中间商加价",
+    "ja": "直接工場ODM関係と中間マージンの排除"
+  },
+  "Operating Profit Margin (OPM)": {
+    "ko": "영업이익률 (OPM)",
+    "id": "Margin Laba Operasional (OPM)",
+    "vi": "Biên lợi nhuận hoạt động (OPM)",
+    "zh-CN": "营业利润率 (OPM)",
+    "ja": "営業利益率 (OPM)"
+  },
+  "20.0% (KRW 400M)": {
+    "ko": "20.0% (4억 원)",
+    "id": "20,0% (KRW 400 Juta)",
+    "vi": "20,0% (400 triệu KRW)",
+    "zh-CN": "20.0% (4亿韩元)",
+    "ja": "20.0% (4億ウォン)"
+  },
+  "35.0% (KRW 2.45B)": {
+    "ko": "35.0% (24.5억 원)",
+    "id": "35,0% (KRW 2,45 Miliar)",
+    "vi": "35,0% (2,45 tỷ KRW)",
+    "zh-CN": "35.0% (24.5亿韩元)",
+    "ja": "35.0% (24.5億ウォン)"
+  },
+  "35.0% (KRW 5.25B)": {
+    "ko": "35.0% (52.5억 원)",
+    "id": "35,0% (KRW 5,25 Miliar)",
+    "vi": "35,0% (5,25 tỷ KRW)",
+    "zh-CN": "35.0% (52.5亿韩元)",
+    "ja": "35.0% (52.5億ウォン)"
+  },
+  "Zero-marginal-cost multi-agent operational automation via Scarlet AI": {
+    "ko": "Scarlet AI를 통한 한계 비용 제로의 멀티 에이전트 운영 자동화",
+    "id": "Otomatisasi operasional multi-agen dengan biaya marjinal nol melalui Scarlet AI",
+    "vi": "Tự động hóa vận hành đa tác nhân với chi phí biên bằng không thông qua Scarlet AI",
+    "zh-CN": "通过 Scarlet AI 实现零边际成本的多智能体运营自动化",
+    "ja": "Scarlet AIによる限界費用ゼロのマルチエージェント運用自動化"
+  },
+  "LTV / CAC Ratio": {
+    "ko": "LTV / CAC 비율",
+    "id": "Rasio LTV / CAC",
+    "vi": "Tỷ lệ LTV / CAC",
+    "zh-CN": "LTV / CAC 比率",
+    "ja": "LTV / CAC 比率"
+  },
+  "Self-sustaining media engine generating zero-CAC qualified enterprise leads": {
+    "ko": "zero-CAC 적격 기업 리드를 생성하는 자립형 미디어 엔진",
+    "id": "Mesin media mandiri yang menghasilkan prospek perusahaan yang memenuhi syarat dengan zero-CAC",
+    "vi": "Công cụ truyền thông tự duy trì tạo ra các khách hàng tiềm năng doanh nghiệp đủ điều kiện với zero-CAC",
+    "zh-CN": "生成零获客成本 (zero-CAC) 合格企业线索的自给自足型媒体引擎",
+    "ja": "zero-CACの適格なエンタープライズリードを生成する自律型メディアエンジン"
+  },
+  "Cash Conversion Cycle (CCC)": {
+    "ko": "현금전환주기 (CCC)",
+    "id": "Siklus Konversi Kas (CCC)",
+    "vi": "Chu kỳ chuyển đổi tiền mặt (CCC)",
+    "zh-CN": "现金周期 (CCC)",
+    "ja": "現金換算サイクル (CCC)"
+  },
+  "84 Days (2.8 mos)": {
+    "ko": "84일 (2.8개월)",
+    "id": "84 Hari (2,8 bln)",
+    "vi": "84 Ngày (2,8 tháng)",
+    "zh-CN": "84 天 (2.8 个月)",
+    "ja": "84日 (2.8ヶ月)"
+  },
+  "72 Days (2.4 mos)": {
+    "ko": "72일 (2.4개월)",
+    "id": "72 Hari (2,4 bln)",
+    "vi": "72 Ngày (2,4 tháng)",
+    "zh-CN": "72 天 (2.4 个月)",
+    "ja": "72日 (2.4ヶ月)"
+  },
+  "58 Days (1.9 mos)": {
+    "ko": "58일 (1.9개월)",
+    "id": "58 Hari (1,9 bln)",
+    "vi": "58 Ngày (1,9 tháng)",
+    "zh-CN": "58 天 (1.9 个月)",
+    "ja": "58日 (1.9ヶ月)"
+  },
+  "50% initial shipment deposits, RPF contracts, and K-SURE backed receivables": {
+    "ko": "50% 초기 선적 보증금, RPF 계약 및 K-SURE 보증 매출채권",
+    "id": "50% setoran pengiriman awal, kontrak RPF, dan piutang yang didukung K-SURE",
+    "vi": "50% tiền đặt cọc lô hàng ban đầu, hợp đồng RPF và các khoản phải thu được K-SURE bảo lãnh",
+    "zh-CN": "50% 初始出货定金、RPF 合同以及 K-SURE 担保的应收账款",
+    "ja": "50%の初回出荷預金、RPF契約、およびK-SUREが裏付けする売掛金"
+  },
+  "Net Working Capital Turn": {
+    "ko": "순운전자본 회전율",
+    "id": "Perputaran Modal Kerja Bersih",
+    "vi": "Vòng quay vốn lưu động ròng",
+    "zh-CN": "净营运资本周转率",
+    "ja": "正味運転資本回転率"
+  },
+  "Rapid capital recycling through automated 70/30 payment gateway split webhooks": {
+    "ko": "자동화된 70/30 결제 게이트웨이 분할 웹훅을 통한 신속한 자본 재순환",
+    "id": "Daur ulang modal cepat melalui webhook pembagian gateway pembayaran 70/30 otomatis",
+    "vi": "Tái chế vốn nhanh chóng thông qua webhook phân tách cổng thanh toán 70/30 tự động",
+    "zh-CN": "通过自动化的 70/30 支付网关分流 Webhook 实现快速资本回收",
+    "ja": "自動化された70/30決済ゲートウェイ分割Webhookによる迅速な資本リサイクル"
+  },
+  "TRK-01: Container Volume Alpha": {
+    "ko": "TRK-01: 컨테이너 볼륨 알파",
+    "id": "TRK-01: Container Volume Alpha",
+    "vi": "TRK-01: Container Volume Alpha",
+    "zh-CN": "TRK-01: 集装箱运量 Alpha",
+    "ja": "TRK-01: コンテナボリュームアルファ"
+  },
+  "Tier-1 National Pharmaceutical Distributors": {
+    "ko": "티어 1 국가 제약 유통업체",
+    "id": "Distributor Farmasi Nasional Tier-1",
+    "vi": "Nhà phân phối dược phẩm quốc gia cấp 1 (Tier-1)",
+    "zh-CN": "一级国家医药分销商",
+    "ja": "ティア1国家医薬品卸売業者"
+  },
+  "Full 40ft High-Cube Container (FCL)": {
+    "ko": "40피트 하이큐브 컨테이너 만재 (FCL)",
+    "id": "Kontainer High-Cube 40 kaki Penuh (FCL)",
+    "vi": "Container High-Cube 40ft đầy (FCL)",
+    "zh-CN": "40英尺高柜集装箱整箱 (FCL)",
+    "ja": "40フィートハイキューブコンテナ満載 (FCL)"
+  },
+  "50% advance deposit; 50% upon B/L issue": {
+    "ko": "50% 선입금; 50% 선하증권(B/L) 발행 시",
+    "id": "50% deposit di muka; 50% saat penerbitan B/L",
+    "vi": "Đặt cọc trước 50%; 50% khi phát hành B/L",
+    "zh-CN": "50% 预付款；50% 提单 (B/L) 签发时支付",
+    "ja": "50% 前払金、50% B/L（船荷証券）発行時"
+  },
+  "K-SURE export insurance + direct factory ODM audit": {
+    "ko": "K-SURE 수출 보험 + 공장 직접 ODM 심사",
+    "id": "Asuransi ekspor K-SURE + audit ODM pabrik langsung",
+    "vi": "Bảo hiểm xuất khẩu K-SURE + kiểm định ODM trực tiếp tại nhà máy",
+    "zh-CN": "K-SURE 出口保险 + 工厂直接 ODM 审核",
+    "ja": "K-SURE 輸出保険 + 工場直接 ODM 監査"
+  },
+  "TRK-02: Container Volume Beta": {
+    "ko": "TRK-02: 컨테이너 용량 베타",
+    "id": "TRK-02: Beta Volume Kontainer",
+    "vi": "TRK-02: Thể tích Container Beta",
+    "zh-CN": "TRK-02：集装箱容量测试版",
+    "ja": "TRK-02: コンテナ容量ベータ"
+  },
+  "Regional Veterinary Clinic Cooperatives": {
+    "ko": "지역 동물병원 협동조합",
+    "id": "Koperasi Klinik Hewan Regional",
+    "vi": "Hợp tác xã phòng khám thú y khu vực",
+    "zh-CN": "区域兽医诊所合作社",
+    "ja": "地域獣医クリニック協同組合"
+  },
+  "20ft Standard Container (FCL)": {
+    "ko": "20ft 표준 컨테이너 (FCL)",
+    "id": "Kontainer Standar 20 kaki (FCL)",
+    "vi": "Container tiêu chuẩn 20ft (FCL)",
+    "zh-CN": "20英尺标准集装箱 (FCL)",
+    "ja": "20フィート標準コンテナ (FCL)"
+  },
+  "50% advance deposit; 50% upon customs clearance": {
+    "ko": "선입금 50%, 통관 시 50%",
+    "id": "Uang muka 50%; 50% saat penyelesaian pabean",
+    "vi": "Đặt cọc trước 50%; 50% khi thông quan",
+    "zh-CN": "50% 预付款；50% 结关时支付",
+    "ja": "前払金 50%、通関時に 50%"
+  },
+  "Automated customs paperwork via Scarlet AI customs bot": {
+    "ko": "Scarlet AI 통관 봇을 통한 자동 통관 서류 처리",
+    "id": "Pengurusan dokumen pabean otomatis melalui bot pabean Scarlet AI",
+    "vi": "Tự động hóa giấy tờ hải quan qua bot hải quan Scarlet AI",
+    "zh-CN": "通过 Scarlet AI 海关机器人自动处理海关单据",
+    "ja": "Scarlet AI 通関ボットによる通関書類の自動作成"
+  },
+  "TRK-03: Consolidated LCL Pool": {
+    "ko": "TRK-03: 통합 LCL 풀",
+    "id": "TRK-03: Pool LCL Terkonsolidasi",
+    "vi": "TRK-03: Nhóm LCL Hợp nhất",
+    "zh-CN": "TRK-03: 整合 LCL 池",
+    "ja": "TRK-03: 統合 LCL プール"
+  },
+  "Medium Wholesalers & Medical Group Buys": {
+    "ko": "중형 도매업체 및 의료 공동 구매",
+    "id": "Grosir Menengah & Pembelian Grup Medis",
+    "vi": "Nhà bán buôn quy mô vừa & Mua chung y tế",
+    "zh-CN": "中型批发商与医疗团购",
+    "ja": "中規模卸売業者および医療グループ購入"
+  },
+  "5 to 10 Pallet Shared Consolidation": {
+    "ko": "5~10 팔레트 공유 통합",
+    "id": "Konsolidasi Bersama 5 hingga 10 Palet",
+    "vi": "Hợp nhất chia sẻ từ 5 đến 10 Pallet",
+    "zh-CN": "5 至 10 个托盘共享整合",
+    "ja": "5〜10パレットの共有統合"
+  },
+  "100% pre-paid into project escrow pool": {
+    "ko": "프로젝트 에스크로 풀에 100% 선결제",
+    "id": "100% dibayar di muka ke dalam pool escrow proyek",
+    "vi": "Trả trước 100% vào quỹ ký quỹ dự án",
+    "zh-CN": "100% 预付至项目托管池",
+    "ja": "プロジェクトのエスクロープールに100％前払い"
+  },
+  "Group Buying (Buy4Me) consolidated logistics rebate": {
+    "ko": "공동 구매 (Buy4Me) 통합 물류 리베이트",
+    "id": "Rabat logistik terkonsolidasi Pembelian Grup (Buy4Me)",
+    "vi": "Chiết khấu hậu cần hợp nhất Mua chung (Buy4Me)",
+    "zh-CN": "团购 (Buy4Me) 整合物流返利",
+    "ja": "共同購入 (Buy4Me) 統合物流リベート"
+  },
+  "TRK-04: SISTAR SOD Base": {
+    "ko": "TRK-04: SISTAR SOD 베이스",
+    "id": "TRK-04: SISTAR SOD Base",
+    "vi": "TRK-04: SISTAR SOD Base",
+    "zh-CN": "TRK-04: SISTAR SOD 基地",
+    "ja": "TRK-04: SISTAR SOD ベース"
+  },
+  "Cross-Border E-Commerce Merchants": {
+    "ko": "크로스보더 이커머스 판매자",
+    "id": "Pedagang E-Commerce Lintas Batas",
+    "vi": "Người bán thương mại điện tử xuyên biên giới",
+    "zh-CN": "跨境电商商家",
+    "ja": "越境EC事業者"
+  },
+  "Zero Minimum Order Quantity (Zero-Inventory)": {
+    "ko": "최소 주문 수량 없음 (재고 제로)",
+    "id": "Tanpa Minimum Order Quantity (Tanpa Inventaris)",
+    "vi": "Không có số lượng đặt hàng tối thiểu (Không tồn kho)",
+    "zh-CN": "零起订量（零库存）",
+    "ja": "最小注文数量ゼロ（在庫ゼロ）"
+  },
+  "Automated customer checkout debit via PG webhook": {
+    "ko": "PG 웹훅을 통한 자동 고객 결제 출금",
+    "id": "Debit checkout pelanggan otomatis melalui webhook PG",
+    "vi": "Tự động khấu trừ thanh toán của khách hàng thông qua PG webhook",
+    "zh-CN": "通过 PG webhook 自动扣除客户结账款项",
+    "ja": "PGウェブフックによる自動顧客決済引き落とし"
+  },
+  "Direct warehouse pick-and-pack fulfillment from SCK/SCI": {
+    "ko": "SCK/SCI로부터의 직접 창고 피킹 및 패킹 풀필먼트",
+    "id": "Pemenuhan pick-and-pack gudang langsung dari SCK/SCI",
+    "vi": "Thực hiện lấy hàng và đóng gói trực tiếp từ kho SCK/SCI",
+    "zh-CN": "来自 SCK/SCI 的直接仓库拣货和包装履行",
+    "ja": "SCK/SCIからの直接倉庫ピック＆パック・フルフィルメント"
+  },
+  "Multi-Store Shopify/TikTok Power Sellers": {
+    "ko": "멀티 스토어 Shopify/TikTok 파워 셀러",
+    "id": "Power Seller Shopify/TikTok Multi-Toko",
+    "vi": "Người bán quyền lực Shopify/TikTok đa cửa hàng",
+    "zh-CN": "多店铺 Shopify/TikTok 实力卖家",
+    "ja": "マルチストア Shopify/TikTok パワーセラー"
+  },
+  "Rolling 500+ daily package volume": {
+    "ko": "일일 500건 이상의 유동적 패키지 물량",
+    "id": "Volume paket harian 500+ yang bergulir",
+    "vi": "Khối lượng hơn 500 kiện hàng mỗi ngày",
+    "zh-CN": "每日 500+ 件滚动包裹量",
+    "ja": "1日500件以上の流動的なパッケージ量"
+  },
+  "Daily automated credit balance replenishment": {
+    "ko": "일일 자동 크레딧 잔액 충전",
+    "id": "Pengisian saldo kredit otomatis harian",
+    "vi": "Nạp lại số dư tín dụng tự động hàng ngày",
+    "zh-CN": "每日自动信用余额补充",
+    "ja": "毎日の自動クレジット残高補充"
+  },
+  "Dedicated API endpoints + automated multi-lingual packing slips": {
+    "ko": "전용 API 엔드포인트 + 자동 다국어 패킹 슬립",
+    "id": "Endpoint API khusus + slip pengepakan multibahasa otomatis",
+    "vi": "Điểm cuối API chuyên dụng + phiếu đóng gói đa ngôn ngữ tự động",
+    "zh-CN": "专用 API 端点 + 自动多语言装箱单",
+    "ja": "専用APIエンドポイント + 自動多言語パッキングスリップ"
+  },
+  "TRK-06: Regional Wholesaler Key": {
+    "ko": "TRK-06: 지역 도매업체 키",
+    "id": "TRK-06: Kunci Grosir Regional",
+    "vi": "TRK-06: Khóa đại lý bán buôn khu vực",
+    "zh-CN": "TRK-06：区域批发商密钥",
+    "ja": "TRK-06: 地域卸売業者キー"
+  },
+  "Provincial FMCG & Pet Product Importers": {
+    "ko": "지방 FMCG 및 반려동물 용품 수입업체",
+    "id": "Importir Produk FMCG & Hewan Peliharaan Provinsi",
+    "vi": "Các nhà nhập khẩu FMCG & sản phẩm thú cưng cấp tỉnh",
+    "zh-CN": "省级 FMCG 和宠物用品进口商",
+    "ja": "地方のFMCGおよびペット用品輸入業者"
+  },
+  "Quarterly KRW 150M minimum contract": {
+    "ko": "분기별 최소 1억 5천만 KRW 계약",
+    "id": "Kontrak minimum KRW 150M per kuartal",
+    "vi": "Hợp đồng tối thiểu 150M KRW hàng quý",
+    "zh-CN": "每季度最低 150M KRW 合同",
+    "ja": "四半期ごとに最低150M KRWの契約"
+  },
+  "30% deposit; 70% LC at sight or K-SURE term": {
+    "ko": "30% 보증금; 70% 일람불 LC 또는 K-SURE 조건",
+    "id": "Deposit 30%; 70% LC at sight atau termin K-SURE",
+    "vi": "Đặt cọc 30%; 70% LC trả ngay hoặc điều khoản K-SURE",
+    "zh-CN": "30% 定金；70% 即期信用证或 K-SURE 条款",
+    "ja": "30% 手付金、70% 一覧払 LC または K-SURE 条件"
+  },
+  "Territorial exclusivity in defined district/province": {
+    "ko": "지정된 구역/도 내 지역 독점권",
+    "id": "Eksklusivitas wilayah di distrik/provinsi yang ditentukan",
+    "vi": "Độc quyền lãnh thổ trong quận/tỉnh được xác định",
+    "zh-CN": "指定地区/省份的区域独家权",
+    "ja": "指定された地区/州における地域独占権"
+  },
+  "TRK-07: Influencer Tier I (Macro)": {
+    "ko": "TRK-07: 인플루언서 티어 I (매크로)",
+    "id": "TRK-07: Influencer Tier I (Makro)",
+    "vi": "TRK-07: Người ảnh hưởng Bậc I (Macro)",
+    "zh-CN": "TRK-07：一级影响力人物（宏观）",
+    "ja": "TRK-07: インフルエンサー ティア I (マクロ)"
+  },
+  "1M+ Follower Health/Beauty Creators": {
+    "ko": "100만 명 이상 팔로워 보유 헬스/뷰티 크리에이터",
+    "id": "Kreator Kesehatan/Kecantikan dengan 1 Juta+ Pengikut",
+    "vi": "Nhà sáng tạo nội dung Sức khỏe/Làm đẹp với hơn 1 triệu người theo dõi",
+    "zh-CN": "拥有 100 万以上粉丝的健康/美容创作者",
+    "ja": "100万人以上のフォロワーを持つヘルス/ビューティークリエイター"
+  },
+  "Bespoke Co-Branded Product Launch": {
+    "ko": "맞춤형 공동 브랜드 제품 출시",
+    "id": "Peluncuran Produk Co-Branding Khusus",
+    "vi": "Ra mắt sản phẩm đồng thương hiệu được thiết kế riêng",
+    "zh-CN": "定制联名产品发布",
+    "ja": "オーダーメイドの共同ブランド製品の発売"
+  },
+  "Zero upfront creator fee; 25% revenue share": {
+    "ko": "크리에이터 선불 수수료 없음; 25% 수익 공유",
+    "id": "Tanpa biaya kreator di muka; bagi hasil 25%",
+    "vi": "Không phí người sáng tạo trả trước; chia sẻ 25% doanh thu",
+    "zh-CN": "零预付创作者费用；25% 收入分成",
+    "ja": "クリエイターへの初期費用なし、25% のレベニューシェア"
+  },
+  "Turnkey packaging, studio production, and fulfillment engine": {
+    "ko": "턴키 패키징, 스튜디오 제작 및 풀필먼트 엔진",
+    "id": "Pengemasan turnkey, produksi studio, dan mesin pemenuhan (fulfillment engine)",
+    "vi": "Đóng gói trọn gói (turnkey), sản xuất studio và công cụ hoàn tất đơn hàng (fulfillment engine)",
+    "zh-CN": "全方位包装、影棚制作和履行引擎",
+    "ja": "ターンキーパッケージング、スタジオ制作、およびフルフィルメントエンジン"
+  },
+  "TRK-08: Influencer Tier II (Micro)": {
+    "ko": "TRK-08: 인플루언서 티어 II (마이크로)",
+    "id": "TRK-08: Influencer Tier II (Mikro)",
+    "vi": "TRK-08: Người ảnh hưởng Cấp II (Micro)",
+    "zh-CN": "TRK-08：二级影响力者（微型）",
+    "ja": "TRK-08: インフルエンサー ティアII（マイクロ）"
+  },
+  "50K-250K Niche Veterinary/Wellness KOLs": {
+    "ko": "5만-25만 니치 수의학/웰니스 KOL",
+    "id": "50rb-250rb KOL Niche Veteriner/Wellness",
+    "vi": "50K-250K KOL chuyên biệt về Thú y/Sức khỏe",
+    "zh-CN": "5万-25万 小众兽医/健康领域 KOL",
+    "ja": "5万〜25万のニッチな獣医/ウェルネスKOL"
+  },
+  "Curated Seasonal Product Bundles": {
+    "ko": "엄선된 시즌별 제품 번들",
+    "id": "Bundel Produk Musiman yang Dikurasi",
+    "vi": "Các gói sản phẩm theo mùa được tuyển chọn",
+    "zh-CN": "精选季节性产品组合",
+    "ja": "厳選された季節限定製品セット"
+  },
+  "Affiliate commission (18% - 22% per conversion)": {
+    "ko": "제휴 수수료 (전환당 18% - 22%)",
+    "id": "Komisi afiliasi (18% - 22% per konversi)",
+    "vi": "Hoa hồng tiếp thị liên kết (18% - 22% mỗi lượt chuyển đổi)",
+    "zh-CN": "联盟佣金（每次转化 18% - 22%）",
+    "ja": "アフィリエイト報酬（コンバージョンあたり18% - 22%）"
+  },
+  "Automated affiliate tracking links & creator sample kits": {
+    "ko": "자동화된 제휴 추적 링크 및 크리에이터 샘플 키트",
+    "id": "Tautan pelacakan afiliasi otomatis & kit sampel kreator",
+    "vi": "Liên kết theo dõi tiếp thị liên kết tự động & bộ mẫu cho người sáng tạo",
+    "zh-CN": "自动化联盟跟踪链接和创作者样品包",
+    "ja": "自動アフィリエイト追跡リンクおよびクリエイター用サンプルキット"
+  },
+  "TRK-09: Influencer Tier III (Nano)": {
+    "ko": "TRK-09: 인플루언서 티어 III (나노)",
+    "id": "TRK-09: Influencer Tier III (Nano)",
+    "vi": "TRK-09: Influencer Bậc III (Nano)",
+    "zh-CN": "TRK-09: 影响力者第III层 (纳米级)",
+    "ja": "TRK-09: インフルエンサー ティアIII (ナノ)"
+  },
+  "Local Community Clinic Advocates": {
+    "ko": "지역 커뮤니티 클리닉 옹호자",
+    "id": "Advokat Klinik Komunitas Lokal",
+    "vi": "Người ủng hộ phòng khám cộng đồng địa phương",
+    "zh-CN": "当地社区诊所倡导者",
+    "ja": "地域コミュニティクリニック・アドボケイト"
+  },
+  "Sample Seeding & Local Testimonials": {
+    "ko": "샘플 시딩 및 현지 체험 후기",
+    "id": "Penyebaran Sampel & Testimoni Lokal",
+    "vi": "Gieo mầm sản phẩm mẫu & Lời chứng thực địa phương",
+    "zh-CN": "样品派送与当地证言",
+    "ja": "サンプルシーディングと現地の体験談"
+  },
+  "Free product supply + 12% customer coupon kickback": {
+    "ko": "무료 제품 공급 + 12% 고객 쿠폰 리워드",
+    "id": "Pasokan produk gratis + kickback kupon pelanggan 12%",
+    "vi": "Cung cấp sản phẩm miễn phí + hoàn tiền phiếu giảm giá khách hàng 12%",
+    "zh-CN": "免费产品供应 + 12% 客户优惠券返利",
+    "ja": "無料製品供給 + 12% 顧客クーポンキックバック"
+  },
+  "Community leaderboard & monthly recognition badges": {
+    "ko": "커뮤니티 리더보드 및 월간 표창 배지",
+    "id": "Papan peringkat komunitas & lencana pengakuan bulanan",
+    "vi": "Bảng xếp hạng cộng đồng & huy hiệu công nhận hàng tháng",
+    "zh-CN": "社区排行榜和每月表彰徽章",
+    "ja": "コミュニティリーダーボードと月間表彰バッジ"
+  },
+  "TRK-10: S1 Regional Pioneer": {
+    "ko": "TRK-10: S1 지역 개척자",
+    "id": "TRK-10: Pionir Regional S1",
+    "vi": "TRK-10: Người tiên phong khu vực S1",
+    "zh-CN": "TRK-10: S1 区域先锋",
+    "ja": "TRK-10: S1 リージョナルパイオニア"
+  },
+  "Individual Entrepreneur / Freelance Broker": {
+    "ko": "개인 사업자 / 프리랜서 브로커",
+    "id": "Pengusaha Perorangan / Broker Lepas",
+    "vi": "Doanh nhân cá nhân / Môi giới tự do",
+    "zh-CN": "个人企业家 / 自由经纪人",
+    "ja": "個人事業主 / フリーランス・ブローカー"
+  },
+  "Single Project License (e.g., SISPet Jakarta)": {
+    "ko": "단일 프로젝트 라이선스 (예: SISPet Jakarta)",
+    "id": "Lisensi Proyek Tunggal (misalnya, SISPet Jakarta)",
+    "vi": "Giấy phép dự án đơn lẻ (ví dụ: SISPet Jakarta)",
+    "zh-CN": "单一项目许可（例如：SISPet Jakarta）",
+    "ja": "シングルプロジェクトライセンス（例：SISPet Jakarta）"
+  },
+  "KRW 5M onboarding fee; 15% revenue split": {
+    "ko": "온보딩 비용 500만 원; 수익 배분 15%",
+    "id": "Biaya onboarding KRW 5 juta; pembagian pendapatan 15%",
+    "vi": "Phí tham gia 5 triệu KRW; chia sẻ doanh thu 15%",
+    "zh-CN": "500万韩元入驻费；15%收入分成",
+    "ja": "オンボーディング費用 500万ウォン、収益配分 15%"
+  },
+  "Access to Scarlet AI sales bot + localized collateral": {
+    "ko": "Scarlet AI 영업 봇 및 현지화된 홍보물 이용 권한",
+    "id": "Akses ke bot penjualan Scarlet AI + materi pemasaran lokal",
+    "vi": "Quyền truy cập vào bot bán hàng Scarlet AI + tài liệu quảng bá bản địa hóa",
+    "zh-CN": "访问 Scarlet AI 销售机器人 + 本地化宣传材料",
+    "ja": "Scarlet AI セールスボットへのアクセス + ローカライズされた販促資料"
+  },
+  "TRK-11: S2 District Operator": {
+    "ko": "TRK-11: S2 구역 운영자",
+    "id": "TRK-11: Operator Distrik S2",
+    "vi": "TRK-11: Nhà điều hành khu vực S2",
+    "zh-CN": "TRK-11：S2 区域运营商",
+    "ja": "TRK-11: S2 地区オペレーター"
+  },
+  "Local Retail Master Franchisee": {
+    "ko": "현지 리테일 마스터 프랜차이즈 파트너",
+    "id": "Penerima Waralaba Utama Ritel Lokal",
+    "vi": "Bên nhận quyền tổng bán lẻ địa phương",
+    "zh-CN": "本地零售主特许经营商",
+    "ja": "ローカル・リテール・マスター・フランチャイジー"
+  },
+  "Multi-store territorial deployment": {
+    "ko": "다점포 지역 배치",
+    "id": "Penempatan teritorial multi-toko",
+    "vi": "Triển khai đa cửa hàng theo lãnh thổ",
+    "zh-CN": "多店区域部署",
+    "ja": "多店舗地域展開"
+  },
+  "KRW 20M license; 50% initial inventory buy": {
+    "ko": "KRW 2,000만 라이선스; 50% 초기 재고 구매",
+    "id": "Lisensi KRW 20M; 50% pembelian inventaris awal",
+    "vi": "Giấy phép 20 triệu KRW; mua 50% hàng tồn kho ban đầu",
+    "zh-CN": "2000万韩元许可证；50% 初始库存购买",
+    "ja": "2,000万ウォンライセンス、50%初期在庫購入"
+  },
+  "Full ERP dashboard integration + localized training portal": {
+    "ko": "전체 ERP 대시보드 통합 + 현지화된 교육 포털",
+    "id": "Integrasi dasbor ERP penuh + portal pelatihan lokal",
+    "vi": "Tích hợp bảng điều khiển ERP đầy đủ + cổng đào tạo bản địa hóa",
+    "zh-CN": "全面 ERP 仪表板集成 + 本地化培训门户",
+    "ja": "フルERPダッシュボード統合 + ローカライズされたトレーニングポータル"
+  },
+  "TRK-12: S3 National Master": {
+    "ko": "TRK-12: S3 내셔널 마스터",
+    "id": "TRK-12: S3 National Master",
+    "vi": "TRK-12: S3 National Master",
+    "zh-CN": "TRK-12: S3 国家级大师",
+    "ja": "TRK-12: S3 ナショナルマスター"
+  },
+  "National Holding / Conglomerate Division": {
+    "ko": "국가 지주 회사 / 대기업 부문",
+    "id": "Holding Nasional / Divisi Konglomerat",
+    "vi": "Tổng công ty quốc gia / Bộ phận tập đoàn",
+    "zh-CN": "国家控股 / 集团部门",
+    "ja": "国家持株会社 / コンングロマリット部門"
+  },
+  "Country-level master franchise (SCV, SCI, SCIND)": {
+    "ko": "국가급 마스터 프랜차이즈 (SCV, SCI, SCIND)",
+    "id": "Master franchise tingkat negara (SCV, SCI, SCIND)",
+    "vi": "Nhượng quyền thương mại cấp quốc gia (SCV, SCI, SCIND)",
+    "zh-CN": "国家级总代理 (SCV, SCI, SCIND)",
+    "ja": "国レベルのマスターフランチャイズ (SCV, SCI, SCIND)"
+  },
+  "KRW 100M master fee + 5% recurring GMV royalty": {
+    "ko": "KRW 1억 마스터 수수료 + 5% 정기 GMV 로열티",
+    "id": "Biaya master KRW 100 juta + royalti GMV berulang 5%",
+    "vi": "Phí master 100 triệu KRW + 5% phí bản quyền GMV định kỳ",
+    "zh-CN": "1亿韩元主授权费 + 5% 周期性 GMV 版税",
+    "ja": "KRW 1億マスター手数料 + 5% 継続的 GMV ロイヤリティ"
+  },
+  "Dedicated localized AI model fine-tuning & sovereign data vault": {
+    "ko": "전용 현지화 AI 모델 미세 조정 및 소버린 데이터 금고",
+    "id": "Fine-tuning model AI lokal khusus & brankas data berdaulat",
+    "vi": "Tinh chỉnh mô hình AI bản địa hóa chuyên dụng & kho lưu trữ dữ liệu chủ quyền",
+    "zh-CN": "专用本地化 AI 模型微调及主权数据保险库",
+    "ja": "専用ローカライズ AI モデルのファインチューニングおよびソブリンデータ保管庫"
+  },
+  "TRK-13: S4 Clinic Franchise Net": {
+    "ko": "TRK-13: S4 Clinic 프랜차이즈 네트워크",
+    "id": "TRK-13: Jaringan Waralaba S4 Clinic",
+    "vi": "TRK-13: Mạng lưới nhượng quyền S4 Clinic",
+    "zh-CN": "TRK-13: S4 Clinic 加盟网络",
+    "ja": "TRK-13: S4 Clinic フランチャイズネットワーク"
+  },
+  "Veterinary Hospital Chains": {
+    "ko": "동물병원 체인",
+    "id": "Rantai Rumah Sakit Hewan",
+    "vi": "Chuỗi bệnh viện thú y",
+    "zh-CN": "连锁宠物医院",
+    "ja": "動物病院チェーン"
+  },
+  "In-clinic dispensary point-of-sale integration": {
+    "ko": "클리닉 내 조제실 POS 통합",
+    "id": "Integrasi point-of-sale apotek dalam klinik",
+    "vi": "Tích hợp điểm bán hàng (POS) nhà thuốc trong phòng khám",
+    "zh-CN": "诊所内药房 POS 系统集成",
+    "ja": "クリニック内調剤室 POS 統合"
+  },
+  "Deposit on consignment inventory + weekly auto-reconcile": {
+    "ko": "위탁 재고 보증금 + 주간 자동 정산",
+    "id": "Deposit inventaris konsinyasi + rekonsiliasi otomatis mingguan",
+    "vi": "Tiền đặt cọc hàng ký gửi + tự động đối soát hàng tuần",
+    "zh-CN": "寄售库存押金 + 每周自动对账",
+    "ja": "委託在庫預かり金 + 週次自動照合"
+  },
+  "Auto-Formulator AI prescription algorithm integration": {
+    "ko": "Auto-Formulator AI 처방 알고리즘 통합",
+    "id": "Integrasi algoritma preskripsi Auto-Formulator AI",
+    "vi": "Tích hợp thuật toán kê đơn Auto-Formulator AI",
+    "zh-CN": "Auto-Formulator AI 处方算法集成",
+    "ja": "Auto-Formulator AI 処方アルゴリズムの統合"
+  },
+  "TRK-14: S5 Micro-Sachet Retail": {
+    "ko": "TRK-14: S5 마이크로 사셰 소매",
+    "id": "TRK-14: Ritel Sachet Mikro S5",
+    "vi": "TRK-14: Bán lẻ gói nhỏ S5",
+    "zh-CN": "TRK-14: S5 微型包装零售",
+    "ja": "TRK-14: S5 マイクロサシェ小売"
+  },
+  "Traditional General Trade (Warung / Sari-Sari)": {
+    "ko": "전통적인 일반 무역 (Warung / Sari-Sari)",
+    "id": "Perdagangan Umum Tradisional (Warung / Sari-Sari)",
+    "vi": "Thương mại tổng hợp truyền thống (Warung / Sari-Sari)",
+    "zh-CN": "传统普通贸易 (Warung / Sari-Sari)",
+    "ja": "伝統的な一般貿易 (Warung / Sari-Sari)"
+  },
+  "Rp 1,320 / unit daily single-serve sachets": {
+    "ko": "단위당 Rp 1,320 일일 1회용 사셰",
+    "id": "Sachet porsi tunggal harian Rp 1.320 / unit",
+    "vi": "Gói dùng một lần hàng ngày Rp 1.320 / đơn vị",
+    "zh-CN": "每日单份包装 Rp 1,320 / 单位",
+    "ja": "1ユニットあたり Rp 1,320 の1日使い切りサシェ"
+  },
+  "Cash-on-delivery to local sub-distributors": {
+    "ko": "현지 하위 유통업체에 대한 현금 결제 인도",
+    "id": "Bayar di tempat (COD) ke sub-distributor lokal",
+    "vi": "Thanh toán khi nhận hàng cho các nhà phân phối phụ địa phương",
+    "zh-CN": "向当地二级分销商货到付款",
+    "ja": "地元のサブディストリビューターへの代金引換"
+  },
+  "High-velocity counter display units & weatherproof boxes": {
+    "ko": "고속 카운터 디스플레이 유닛 및 방수 박스",
+    "id": "Unit tampilan konter berkecepatan tinggi & kotak tahan cuaca",
+    "vi": "Đơn vị trưng bày tại quầy tốc độ cao & hộp chống thời tiết",
+    "zh-CN": "高速柜台展示单元和耐候箱",
+    "ja": "高速カウンターディスプレイユニットおよび耐候性ボックス"
+  },
+  "TRK-15: S6 Institutional Syndicate": {
+    "ko": "TRK-15: S6 기관 신디케이트",
+    "id": "TRK-15: Sindikasi Institusional S6",
+    "vi": "TRK-15: Nghiệp đoàn Định chế S6",
+    "zh-CN": "TRK-15: S6 机构辛迪加",
+    "ja": "TRK-15: S6 機関投資家シンジケート"
+  },
+  "Private Equity & Corporate Venture Funds": {
+    "ko": "사모펀드 및 기업 벤처 펀드",
+    "id": "Ekuitas Swasta & Dana Ventura Korporasi",
+    "vi": "Quỹ Đầu tư Tư nhân & Quỹ Đầu tư Mạo hiểm Doanh nghiệp",
+    "zh-CN": "私募股权与企业风险投资基金",
+    "ja": "プライベート・エクイティおよびコーポレート・ベンチャー・ファンド"
+  },
+  "KRW 1.0B+ Dedicated SPV Co-Investment Pool": {
+    "ko": "KRW 10억+ 전용 SPV 공동 투자 풀",
+    "id": "Pool Ko-Investasi SPV Khusus KRW 1,0 Miliar+",
+    "vi": "Quỹ Đồng đầu tư SPV Chuyên dụng trên 1,0 tỷ KRW",
+    "zh-CN": "10亿韩元+ 专用 SPV 共同投资池",
+    "ja": "10億ウォン以上の専用SPV共同投資プール"
+  },
+  "Capital call drawdown against verified container orders": {
+    "ko": "검증된 컨테이너 주문에 대한 캐피탈 콜 인출",
+    "id": "Penarikan capital call terhadap pesanan kontainer yang diverifikasi",
+    "vi": "Giải ngân gọi vốn dựa trên các đơn hàng container đã xác minh",
+    "zh-CN": "针对已验证集装箱订单的资本征召提取",
+    "ja": "検証済みコンテナ注文に対するキャピタルコールの実行"
+  },
+  "Priority liquidity preference + 12% preferred hurdle + 20% carry": {
+    "ko": "우선 유동성 선호권 + 12% 우선 허들 + 20% 캐리",
+    "id": "Preferensi likuiditas prioritas + 12% preferred hurdle + 20% carry",
+    "vi": "Ưu tiên thanh khoản + tỷ lệ rào cản ưu tiên 12% + 20% phí lãi rượt",
+    "zh-CN": "优先流动性偏好 + 12% 优先门槛收益率 + 20% 业绩分成",
+    "ja": "優先流動性選好 + 12% 優先ハードル + 20% キャリー"
+  },
+  "N/A (Yield)": {
+    "ko": "해당 없음 (수익률)",
+    "id": "N/A (Imbal Hasil)",
+    "vi": "N/A (Lợi suất)",
+    "zh-CN": "不适用 (收益率)",
+    "ja": "該当なし (利回り)"
+  },
+  "TRK-16: Hospital Formulary Direct": {
+    "ko": "TRK-16: 병원 처방집 직접 공급",
+    "id": "TRK-16: Formularium Rumah Sakit Langsung",
+    "vi": "TRK-16: Danh mục thuốc bệnh viện trực tiếp",
+    "zh-CN": "TRK-16: 医院处方集直供",
+    "ja": "TRK-16: 病院採用医薬品集ダイレクト"
+  },
+  "Tertiary Care Medical Facilities": {
+    "ko": "3차 의료 기관",
+    "id": "Fasilitas Medis Perawatan Tersier",
+    "vi": "Cơ sở y tế chăm sóc tuyến cuối",
+    "zh-CN": "三级医疗机构",
+    "ja": "三次医療機関"
+  },
+  "Direct institutional drug supply contracts": {
+    "ko": "직접 기관 의약품 공급 계약",
+    "id": "Kontrak pasokan obat institusional langsung",
+    "vi": "Hợp đồng cung ứng thuốc trực tiếp cho tổ chức",
+    "zh-CN": "直接机构药品供应合同",
+    "ja": "直接機関医薬品供給契約"
+  },
+  "Net 60-day terms backed by state hospital receivables": {
+    "ko": "주립 병원 미수금을 담보로 한 60일 결제 조건",
+    "id": "Syarat pembayaran 60 hari yang didukung oleh piutang rumah sakit pemerintah",
+    "vi": "Điều khoản thanh toán 60 ngày được bảo đảm bằng các khoản phải thu của bệnh viện công",
+    "zh-CN": "以州立医院应收账款为担保的 60 天净付款期",
+    "ja": "公立病院の売掛金を担保とした60日払い条件"
+  },
+  "GMP validation dossier & regulatory fast-track clearing": {
+    "ko": "GMP 인증 서류 및 규제 신속 통과",
+    "id": "Dosir validasi GMP & penyelesaian jalur cepat regulasi",
+    "vi": "Hồ sơ xác nhận GMP & thông quan nhanh theo quy định",
+    "zh-CN": "GMP 验证档案和监管快速通道清关",
+    "ja": "GMPバリデーションドシエおよび規制ファストトラック承認"
+  },
+  "TRK-17: Cross-Border Drop-Ship Air": {
+    "ko": "TRK-17: 국경 간 직배송 항공",
+    "id": "TRK-17: Drop-Ship Udara Lintas Batas",
+    "vi": "TRK-17: Vận chuyển hàng không Drop-ship xuyên biên giới",
+    "zh-CN": "TRK-17: 跨境直运空运",
+    "ja": "TRK-17: 越境ドロップシップ航空便"
+  },
+  "High-Value Specialized Nutrition Buyers": {
+    "ko": "고가치 특수 영양제 구매자",
+    "id": "Pembeli Nutrisi Khusus Bernilai Tinggi",
+    "vi": "Người mua dinh dưỡng chuyên biệt giá trị cao",
+    "zh-CN": "高价值专业营养品买家",
+    "ja": "高価値専門栄養品バイヤー"
+  },
+  "Express 72-hour air freight direct-to-consumer": {
+    "ko": "72시간 특송 항공 화물 소비자 직배송",
+    "id": "Pengiriman udara ekspres 72 jam langsung ke konsumen",
+    "vi": "Vận chuyển hàng không hỏa tốc 72 giờ trực tiếp đến người tiêu dùng",
+    "zh-CN": "72小时特快空运直达消费者",
+    "ja": "72時間特急航空便消費者直送"
+  },
+  "100% pre-paid via Stripe / PayPal cross-border": {
+    "ko": "Stripe / PayPal을 통한 100% 선결제 해외 결제",
+    "id": "100% prabayar melalui Stripe / PayPal lintas batas",
+    "vi": "Thanh toán trước 100% qua Stripe / PayPal xuyên biên giới",
+    "zh-CN": "通过 Stripe / PayPal 跨境 100% 预付",
+    "ja": "Stripe / PayPal経由の100%前払いクロスボーダー決済"
+  },
+  "Pre-cleared customs clearance and localized door delivery": {
+    "ko": "사전 통관 및 현지 도어 투 도어 배송",
+    "id": "Izin kepabeanan pra-clearance dan pengiriman pintu ke pintu lokal",
+    "vi": "Thông quan trước và giao hàng tận nơi tại địa phương",
+    "zh-CN": "预清关及本地上门送货",
+    "ja": "事前通関および現地ドア・ツー・ドア配送"
+  },
+  "TRK-18: Private Label OEM/ODM": {
+    "ko": "TRK-18: 자체 브랜드 OEM/ODM",
+    "id": "TRK-18: Label Privat OEM/ODM",
+    "vi": "TRK-18: Nhãn hiệu riêng OEM/ODM",
+    "zh-CN": "TRK-18: 自有品牌 OEM/ODM",
+    "ja": "TRK-18: プライベートラベル OEM/ODM"
+  },
+  "Global Brand Owners & Retail Giants": {
+    "ko": "글로벌 브랜드 소유주 및 유통 거물",
+    "id": "Pemilik Merek Global & Raksasa Ritel",
+    "vi": "Chủ sở hữu thương hiệu toàn cầu & Những gã khổng lồ bán lẻ",
+    "zh-CN": "全球品牌所有者及零售巨头",
+    "ja": "グローバルブランドオーナーおよび小売大手"
+  },
+  "50,000 unit minimum production batch": {
+    "ko": "최소 생산 수량 50,000개",
+    "id": "Batch produksi minimum 50.000 unit",
+    "vi": "Lô sản xuất tối thiểu 50.000 đơn vị",
+    "zh-CN": "最小起订量 50,000 件",
+    "ja": "最小生産ロット 50,000ユニット"
+  },
+  "40% deposit; 30% pre-shipment inspection; 30% BL release": {
+    "ko": "보증금 40%; 선적 전 검사 시 30%; 선하증권(BL) 발행 시 30%",
+    "id": "Deposit 40%; inspeksi pra-pengiriman 30%; pelepasan BL 30%",
+    "vi": "Đặt cọc 40%; kiểm tra trước khi giao hàng 30%; giải phóng BL 30%",
+    "zh-CN": "40% 定金；30% 装运前检验；30% 提单 (BL) 放行",
+    "ja": "手付金 40%；出荷前検査時 30%；船荷証券 (BL) 解放時 30%"
+  },
+  "Full formulation ownership transfer and stability testing dossiers": {
+    "ko": "전체 배합 소유권 이전 및 안정성 테스트 서류",
+    "id": "Transfer kepemilikan formulasi penuh dan berkas pengujian stabilitas",
+    "vi": "Chuyển giao toàn bộ quyền sở hữu công thức và hồ sơ kiểm tra độ ổn định",
+    "zh-CN": "完整配方所有权转让及稳定性测试档案",
+    "ja": "全処方所有権の譲渡および安定性試験書類"
+  },
+  "TRK-19: Emergency Reserve Buffer": {
+    "ko": "TRK-19: 비상 예비 버퍼",
+    "id": "TRK-19: Cadangan Penyangga Darurat",
+    "vi": "TRK-19: Dự trữ đệm khẩn cấp",
+    "zh-CN": "TRK-19：应急储备缓冲",
+    "ja": "TRK-19：緊急予備バッファ"
+  },
+  "Regional Disaster & Humanitarian Agencies": {
+    "ko": "지역 재난 및 인도주의 기구",
+    "id": "Lembaga Kemanusiaan & Bencana Regional",
+    "vi": "Các cơ quan nhân đạo và thảm họa khu vực",
+    "zh-CN": "区域灾难与人道主义机构",
+    "ja": "地域災害・人道支援機関"
+  },
+  "Standby stockpile inventory reservation": {
+    "ko": "대기 비축 재고 예약",
+    "id": "Reservasi inventaris stok siaga",
+    "vi": "Dự trữ kho hàng dự phòng",
+    "zh-CN": "备用库存预留",
+    "ja": "待機備蓄在庫の予約"
+  },
+  "Quarterly standby retainer fee + cost-plus draw pricing": {
+    "ko": "분기별 대기 리테이너 수수료 + 원가 가산 인출 가격 책정",
+    "id": "Biaya retainer siaga triwulanan + penetapan harga penarikan cost-plus",
+    "vi": "Phí duy trì chờ hàng quý + định giá rút tiền cộng chi phí",
+    "zh-CN": "季度备用预付费用 + 成本加成提取定价",
+    "ja": "四半期ごとのスタンバイ・リテイナー料金 ＋ コストプラス・ドロー・プライシング"
+  },
+  "Climate-controlled secure bonded warehousing in Singapore/Busan": {
+    "ko": "싱가포르/부산의 온도 조절 보안 보세 창고",
+    "id": "Pergudangan berikat aman dengan pengatur suhu di Singapura/Busan",
+    "vi": "Kho ngoại quan an toàn được kiểm soát khí hậu tại Singapore/Busan",
+    "zh-CN": "新加坡/釜山的温控安全保税仓储",
+    "ja": "シンガポール/釜山の温度管理された安全な保税倉庫"
+  },
+  "TRK-20: Data & Algorithm Licensing": {
+    "ko": "TRK-20: 데이터 및 알고리즘 라이선싱",
+    "id": "TRK-20: Lisensi Data & Algoritma",
+    "vi": "TRK-20: Cấp phép Dữ liệu & Thuật toán",
+    "zh-CN": "TRK-20：数据与算法许可",
+    "ja": "TRK-20：データおよびアルゴリズムのライセンス供与"
+  },
+  "Enterprise Supply Chain Software Providers": {
+    "ko": "엔터프라이즈 공급망 소프트웨어 제공업체",
+    "id": "Penyedia Perangkat Lunak Rantai Pasokan Perusahaan",
+    "vi": "Nhà cung cấp phần mềm chuỗi cung ứng doanh nghiệp",
+    "zh-CN": "企业供应链软件提供商",
+    "ja": "エンタープライズ・サプライチェーン・ソフトウェア・プロバイダー"
+  },
+  "API call volume & algorithmic routing subscriptions": {
+    "ko": "API 호출량 및 알고리즘 라우팅 구독",
+    "id": "Volume panggilan API & langganan perutean algoritmik",
+    "vi": "Khối lượng cuộc gọi API & đăng ký định tuyến thuật toán",
+    "zh-CN": "API 调用量与算法路由订阅",
+    "ja": "APIコール数およびアルゴリズム・ルーティングのサブスクリプション"
+  },
+  "Annual upfront recurring enterprise license": {
+    "ko": "연간 선불 반복 엔터프라이즈 라이선스",
+    "id": "Lisensi perusahaan berulang di muka tahunan",
+    "vi": "Giấy phép doanh nghiệp định kỳ trả trước hàng năm",
+    "zh-CN": "年度预付循环企业许可",
+    "ja": "年間前払い継続エンタープライズ・ライセンス"
+  },
+  "99.99% SLA guarantee + dedicated enterprise engineering pod": {
+    "ko": "99.99% SLA 보장 + 전담 엔터프라이즈 엔지니어링 팟",
+    "id": "Jaminan SLA 99,99% + pod teknik perusahaan khusus",
+    "vi": "Cam kết SLA 99,99% + nhóm kỹ thuật doanh nghiệp chuyên dụng",
+    "zh-CN": "99.99% SLA 保证 + 专用企业工程小组",
+    "ja": "99.99% SLA 保証 + 専任エンタープライズエンジニアリングポッド"
+  },
+  "Financial & Operating Metric": {
+    "ko": "재무 및 운영 지표",
+    "id": "Metrik Keuangan & Operasional",
+    "vi": "Chỉ số Tài chính & Vận hành",
+    "zh-CN": "财务与运营指标",
+    "ja": "財務および運用指標"
+  },
+  "Year 1 (Base Year)": {
+    "ko": "1년 차 (기준 연도)",
+    "id": "Tahun 1 (Tahun Dasar)",
+    "vi": "Năm 1 (Năm Cơ sở)",
+    "zh-CN": "第 1 年（基准年）",
+    "ja": "1年目（基準年）"
+  },
+  "Year 2 (Expansion)": {
+    "ko": "2년 차 (확장)",
+    "id": "Tahun 2 (Ekspansi)",
+    "vi": "Năm 2 (Mở rộng)",
+    "zh-CN": "第 2 年（扩张期）",
+    "ja": "2年目（拡大期）"
+  },
+  "Year 3 (Maturity)": {
+    "ko": "3년 차 (성숙)",
+    "id": "Tahun 3 (Kematangan)",
+    "vi": "Năm 3 (Trưởng thành)",
+    "zh-CN": "第 3 年（成熟期）",
+    "ja": "3年目（成熟期）"
+  },
+  "Underlying Driver & Governance Mechanism": {
+    "ko": "기저 동인 및 거버넌스 메커니즘",
+    "id": "Pendorong Utama & Mekanisme Tata Kelola",
+    "vi": "Động lực Cơ bản & Cơ chế Quản trị",
+    "zh-CN": "底层驱动因素与治理机制",
+    "ja": "根本的な推進要因とガバナンスメカニズム"
+  },
+  "Track ID & Program Tier": {
+    "ko": "트랙 ID 및 프로그램 등급",
+    "id": "ID Jalur & Tingkat Program",
+    "vi": "ID Theo dõi & Cấp độ Chương trình",
+    "zh-CN": "轨道 ID 与计划层级",
+    "ja": "トラックIDおよびプログラムティア"
+  },
+  "Target Buyer / Partner Profile": {
+    "ko": "타겟 구매자 / 파트너 프로필",
+    "id": "Profil Pembeli / Mitra Target",
+    "vi": "Hồ sơ Người mua / Đối tác Mục tiêu",
+    "zh-CN": "目标买家 / 合作伙伴概况",
+    "ja": "ターゲットバイヤー / パートナープロフィール"
+  },
+  "Commitment & Order Volume": {
+    "ko": "약정 및 주문량",
+    "id": "Komitmen & Volume Pesanan",
+    "vi": "Cam kết & Khối lượng Đặt hàng",
+    "zh-CN": "承诺与订单量",
+    "ja": "コミットメントおよび注文量"
+  },
+  "Advance Payment & Terms": {
+    "ko": "선급금 및 조건",
+    "id": "Pembayaran Dimuka & Ketentuan",
+    "vi": "Thanh toán Trước & Điều khoản",
+    "zh-CN": "预付款与条款",
+    "ja": "前払い金および条件"
+  },
+  "Back-Us Collateral & Support": {
+    "ko": "백어스 담보 및 지원",
+    "id": "Jaminan & Dukungan Back-Us",
+    "vi": "Tài sản Thế chấp & Hỗ trợ Back-Us",
+    "zh-CN": "Back-Us 抵押品与支持",
+    "ja": "Back-Us 担保およびサポート"
+  },
+  "Institutional Capital & Back-Us Genesis": {
+    "ko": "기관 자본 및 Back-Us Genesis",
+    "id": "Modal Institusional & Back-Us Genesis",
+    "vi": "Vốn tổ chức & Back-Us Genesis",
+    "zh-CN": "机构资本与 Back-Us Genesis",
+    "ja": "機関投資家資本および Back-Us Genesis"
+  },
+  "Chapter 02 • Financial Trajectory": {
+    "ko": "제02장 • 재무 궤적",
+    "id": "Bab 02 • Lintasan Keuangan",
+    "vi": "Chương 02 • Quỹ đạo tài chính",
+    "zh-CN": "第 02 章 • 财务轨迹",
+    "ja": "第02章 • 財務の軌跡"
+  },
+  "Unit Economics & 3-Year Valuation Horizon": {
+    "ko": "단위 경제성 및 3개년 가치 평가 전망",
+    "id": "Ekonomi Unit & Horison Valuasi 3 Tahun",
+    "vi": "Kinh tế đơn vị & Tầm nhìn định giá 3 năm",
+    "zh-CN": "单位经济效益与 3 年估值展望",
+    "ja": "ユニットエコノミクスおよび3年間のバリュエーション展望"
+  },
+  "Chapter 03 • Commercial Offer Sheets": {
+    "ko": "제03장 • 상업적 제안서",
+    "id": "Bab 03 • Lembar Penawaran Komersial",
+    "vi": "Chương 03 • Bản chào hàng thương mại",
+    "zh-CN": "第 03 章 • 商业报价单",
+    "ja": "第03章 • 商業的オファーシート"
+  },
+  "20-Track Standardized Execution Matrix": {
+    "ko": "20개 트랙 표준화 실행 매트릭스",
+    "id": "Matriks Eksekusi Terstandarisasi 20-Track",
+    "vi": "Ma trận thực thi tiêu chuẩn hóa 20-Track",
+    "zh-CN": "20 轨标准化执行矩阵",
+    "ja": "20トラック標準化実行マトリックス"
+  },
+  "Chapter 04 • Visual Architecture 01": {
+    "ko": "제04장 • 비주얼 아키텍처 01",
+    "id": "Bab 04 • Arsitektur Visual 01",
+    "vi": "Chương 04 • Kiến trúc Trực quan 01",
+    "zh-CN": "第04章 • 视觉架构 01",
+    "ja": "第04章 • ビジュアルアーキテクチャ 01"
+  },
+  "Bespoke Inline Architectural Vector": {
+    "ko": "맞춤형 인라인 건축 벡터",
+    "id": "Vektor Arsitektur Inline Bespoke",
+    "vi": "Véc-tơ Kiến trúc Nội tuyến Bespoke",
+    "zh-CN": "定制化内联建筑矢量",
+    "ja": "ビスポーク・インライン建築ベクトル"
+  },
+  "Chapter 05 • Unmanned Media Broadcasting": {
+    "ko": "제05장 • 무인 미디어 방송",
+    "id": "Bab 05 • Penyiaran Media Tanpa Awak",
+    "vi": "Chương 05 • Phát thanh Truyền thông Không người lái",
+    "zh-CN": "第05章 • 无人媒体广播",
+    "ja": "第05章 • 無人メディア放送"
+  },
+  "Zero-CAC Lead Synthesis via SISTAR Studio": {
+    "ko": "SISTAR Studio를 통한 Zero-CAC 리드 합성",
+    "id": "Sintesis Lead Zero-CAC melalui SISTAR Studio",
+    "vi": "Tổng hợp Lead Zero-CAC thông qua SISTAR Studio",
+    "zh-CN": "通过 SISTAR Studio 实现的零 CAC 线索合成",
+    "ja": "SISTAR StudioによるZero-CACリード合成"
+  },
+  "Chapter 06 • Visual Architecture 02": {
+    "ko": "제06장 • 비주얼 아키텍처 02",
+    "id": "Bab 06 • Arsitektur Visual 02",
+    "vi": "Chương 06 • Kiến trúc Trực quan 02",
+    "zh-CN": "第06章 • 视觉架构 02",
+    "ja": "第06章 • ビジュアルアーキテクチャ 02"
+  },
+  "Automated Content & Lead Conversion Topology": {
+    "ko": "자동화된 콘텐츠 및 리드 전환 토폴로지",
+    "id": "Topologi Konten & Konversi Lead Otomatis",
+    "vi": "Cấu trúc liên kết Chuyển đổi Nội dung & Lead Tự động",
+    "zh-CN": "自动化内容与线索转化拓扑",
+    "ja": "自動化されたコンテンツとリード転換トポロジー"
+  },
+  "Chapter 07 • Global Governance": {
+    "ko": "제07장 • 글로벌 거버넌스",
+    "id": "Bab 07 • Tata Kelola Global",
+    "vi": "Chương 07 • Quản trị Toàn cầu",
+    "zh-CN": "第07章 • 全球治理",
+    "ja": "第07章 • グローバルガバナンス"
+  },
+  "IATA & IADA Standards & Sovereignty": {
+    "ko": "IATA 및 IADA 표준 및 주권",
+    "id": "Standar & Kedaulatan IATA & IADA",
+    "vi": "Tiêu chuẩn & Chủ quyền IATA & IADA",
+    "zh-CN": "IATA 和 IADA 标准与主权",
+    "ja": "IATAおよびIADAの基準と主権"
+  },
+  "Chapter 08 • Synergy & Firewalls": {
+    "ko": "제08장 • 시너지 및 방화벽",
+    "id": "Bab 08 • Sinergi & Firewall",
+    "vi": "Chương 08 • Hiệp lực & Tường lửa",
+    "zh-CN": "第08章 • 协同与防火墙",
+    "ja": "第08章 • シナジーとファイアウォール"
+  },
+  "Risk Isolation & Ecosystem Integration": {
+    "ko": "리스크 격리 및 생태계 통합",
+    "id": "Isolasi Risiko & Integrasi Ekosistem",
+    "vi": "Cách ly Rủi ro & Tích hợp Hệ sinh thái",
+    "zh-CN": "风险隔离与生态系统整合",
+    "ja": "リスクの隔離とエコシステムの統合"
+  },
+  "Chapter 01 • Command Hub Overview Institutional Capital & Back-Us Genesis": {
+    "ko": "제01장 • 커맨드 허브 개요: 기관 자본 및 Back-Us Genesis",
+    "id": "Bab 01 • Ikhtisar Command Hub: Modal Institusional & Back-Us Genesis",
+    "vi": "Chương 01 • Tổng quan về Command Hub: Vốn Định chế & Back-Us Genesis",
+    "zh-CN": "第01章 • 指挥中心概览：机构资本与 Back-Us Genesis",
+    "ja": "第01章 • コマンドハブの概要：機関投資家資本と Back-Us Genesis"
+  },
+  "Year 3 Target Gross Revenue at 35% Operating Margin": {
+    "ko": "3년 차 목표 총매출 (영업이익률 35%)",
+    "id": "Target Pendapatan Kotor Tahun ke-3 dengan Margin Operasi 35%",
+    "vi": "Mục tiêu Tổng doanh thu Năm thứ 3 với Biên lợi nhuận Hoạt động 35%",
+    "zh-CN": "第3年目标总收入（营业利润率为 35%）",
+    "ja": "3年目の目標総売上高（営業利益率35%）"
+  },
+  "Calculated LTV/CAC Ratio across B2B Multi-Track Accounts": {
+    "ko": "B2B 멀티 트랙 계정 전반의 계산된 LTV/CAC 비율",
+    "id": "Rasio LTV/CAC yang Dihitung di seluruh Akun Multi-Track B2B",
+    "vi": "Tỷ lệ LTV/CAC được tính toán trên các Tài khoản B2B Multi-Track",
+    "zh-CN": "B2B 多轨道账户的计算 LTV/CAC 比率",
+    "ja": "B2Bマルチトラックアカウント全体の計算済みLTV/CAC比率"
+  },
+  "Average Working-Capital Payback Cycle per Shipment": {
+    "ko": "선적당 평균 운전 자본 회수 주기",
+    "id": "Rata-rata Siklus Pengembalian Modal Kerja per Pengiriman",
+    "vi": "Chu kỳ hoàn vốn vốn lưu động trung bình trên mỗi lô hàng",
+    "zh-CN": "每批货物的平均营运资金回收周期",
+    "ja": "出荷あたりの平均運転資本回収サイクル"
+  },
+  "Blended Gross Margin with Zero Inventory Write-Down Risk": {
+    "ko": "재고 감액 손실 위험이 없는 혼합 매출 총이익",
+    "id": "Margin Laba Kotor Gabungan dengan Risiko Penurunan Nilai Persediaan Nol",
+    "vi": "Biên lợi nhuận gộp hỗn hợp với rủi ro giảm giá hàng tồn kho bằng không",
+    "zh-CN": "零库存减值风险的综合毛利率",
+    "ja": "在庫評価損リスクゼロの混合売上総利益率"
+  },
+  "Chapter 02 • Financial Trajectory Unit Economics & 3-Year Valuation Horizon": {
+    "ko": "제02장 • 재무 궤적 단위 경제성 및 3년 가치 평가 범위",
+    "id": "Bab 02 • Ekonomi Unit Lintasan Keuangan & Horison Valuasi 3 Tahun",
+    "vi": "Chương 02 • Kinh tế học đơn vị quỹ đạo tài chính & Tầm nhìn định giá 3 năm",
+    "zh-CN": "第 02 章 • 财务轨迹单位经济效益与 3 年估值展望",
+    "ja": "第02章 • 財務軌道のユニットエコノミクスと3年間の評価ホライゾン"
+  },
+  "Chapter 03 • Commercial Offer Sheets 20-Track Standardized Execution Matrix": {
+    "ko": "제03장 • 상업적 제안서 20-트랙 표준화 실행 매트릭스",
+    "id": "Bab 03 • Lembar Penawaran Komersial Matriks Eksekusi Terstandarisasi 20-Track",
+    "vi": "Chương 03 • Bảng chào hàng thương mại Ma trận thực thi tiêu chuẩn hóa 20-Track",
+    "zh-CN": "第 03 章 • 商业报价单 20 轨道标准化执行矩阵",
+    "ja": "第03章 • 商業オファーシート 20トラック標準化実行マトリックス"
+  },
+  "Chapter 04 • Visual Architecture 01 Bespoke Inline Architectural Vector": {
+    "ko": "제04장 • 시각적 아키텍처 01 맞춤형 인라인 건축 벡터",
+    "id": "Bab 04 • Arsitektur Visual 01 Vektor Arsitektur Inline Bespoke",
+    "vi": "Chương 04 • Kiến trúc trực quan 01 Vector kiến trúc nội tuyến Bespoke",
+    "zh-CN": "第 04 章 • 视觉架构 01 定制内联架构矢量",
+    "ja": "第04章 • ビジュアルアーキテクチャ 01 ビスポーク・インライン・アーキテクチャ・ベクター"
+  },
+  "Chapter 05 • Unmanned Media Broadcasting Zero-CAC Lead Synthesis via SISTAR Studio": {
+    "ko": "제05장 • SISTAR Studio를 통한 무인 미디어 방송 Zero-CAC 리드 합성",
+    "id": "Bab 05 • Sintesis Lead Zero-CAC Penyiaran Media Tanpa Awak melalui SISTAR Studio",
+    "vi": "Chương 05 • Tổng hợp Lead Zero-CAC Phát thanh Truyền thông Không người lái qua SISTAR Studio",
+    "zh-CN": "第 05 章 • 通过 SISTAR Studio 实现无人媒体广播 Zero-CAC 线索合成",
+    "ja": "第05章 • SISTAR Studioによる無人メディア放送 Zero-CACリード合成"
+  },
+  "Chapter 06 • Visual Architecture 02 Automated Content & Lead Conversion Topology": {
+    "ko": "제06장 • 시각적 아키텍처 02 자동화된 콘텐츠 및 리드 전환 토폴로지",
+    "id": "Bab 06 • Arsitektur Visual 02 Topologi Konten Otomatis & Konversi Lead",
+    "vi": "Chương 06 • Kiến trúc Hình ảnh 02 Cấu trúc liên kết Nội dung Tự động & Chuyển đổi Lead",
+    "zh-CN": "第 06 章 • 视觉架构 02 自动化内容与线索转化拓扑",
+    "ja": "第06章 • ビジュアルアーキテクチャ 02 自動化されたコンテンツとリード転換トポロジー"
+  },
+  "Chapter 07 • Global Governance IATA & IADA Standards & Sovereignty": {
+    "ko": "제07장 • 글로벌 거버넌스 IATA 및 IADA 표준 및 주권",
+    "id": "Bab 07 • Tata Kelola Global Standar & Kedaulatan IATA & IADA",
+    "vi": "Chương 07 • Quản trị Toàn cầu Tiêu chuẩn & Chủ quyền IATA & IADA",
+    "zh-CN": "第 07 章 • 全球治理 IATA 和 IADA 标准与主权",
+    "ja": "第07章 • グローバルガバナンス IATAおよびIADA標準と主権"
+  },
+  "Chapter 08 • Synergy & Firewalls Risk Isolation & Ecosystem Integration": {
+    "ko": "제08장 • 시너지 및 방화벽 리스크 격리 및 생태계 통합",
+    "id": "Bab 08 • Sinergi & Firewall Isolasi Risiko & Integrasi Ekosistem",
+    "vi": "Chương 08 • Hiệp lực & Tường lửa Cách ly Rủi ro & Tích hợp Hệ sinh thái",
+    "zh-CN": "第 08 章 • 协同与防火墙 风险隔离与生态系统整合",
+    "ja": "第08章 • シナジーとファイアウォール リスク隔離とエコシステム統合"
+  },
+  "*SC — IR Pitchdeck: Master Investment Conviction Hub": {
+    "ko": "*SC — IR Pitchdeck: 마스터 투자 확신 허브",
+    "id": "*SC — IR Pitchdeck: Pusat Keyakinan Investasi Utama",
+    "vi": "*SC — IR Pitchdeck: Trung tâm Thuyết phục Đầu tư Chủ chốt",
+    "zh-CN": "*SC — IR Pitchdeck：核心投资信心枢纽",
+    "ja": "*SC — IR Pitchdeck: マスター投資確信ハブ"
+  },
+  "Tri-Tier Flexible Institutional Investment Vehicles": {
+    "ko": "3단계 유연한 기관 투자 수단",
+    "id": "Kendaraan Investasi Institusional Fleksibel Tiga Tingkat",
+    "vi": "Các Công cụ Đầu tư Định chế Linh hoạt Ba cấp",
+    "zh-CN": "三层灵活机构投资工具",
+    "ja": "3層の柔軟な機関投資ビークル"
+  },
+  "Tri-Tier Capital Allocation & Cash Flow Waterfall": {
+    "ko": "3단계 자본 배분 및 현금 흐름 워터폴",
+    "id": "Alokasi Modal Tiga Tingkat & Waterfall Arus Kas",
+    "vi": "Phân bổ vốn ba cấp & Thác dòng tiền",
+    "zh-CN": "三层资本配置与现金流瀑布",
+    "ja": "3層資本配分とキャッシュフロー・ウォーターフォール"
+  },
+  "The 20-Track Standardized B2B Commercial Engine": {
+    "ko": "20개 트랙 표준화 B2B 커머셜 엔진",
+    "id": "Mesin Komersial B2B Terstandarisasi 20-Jalur",
+    "vi": "Công cụ thương mại B2B tiêu chuẩn hóa 20 lộ trình",
+    "zh-CN": "20轨标准化B2B商业引擎",
+    "ja": "20トラック標準化B2Bコマーシャルエンジン"
+  },
+  "Quantum Business Flywheel: 12-Domain Valuation Engine": {
+    "ko": "퀀텀 비즈니스 플라이휠: 12개 도메인 가치 평가 엔진",
+    "id": "Quantum Business Flywheel: Mesin Valuasi 12-Domain",
+    "vi": "Bánh đà kinh doanh lượng tử: Công cụ định giá 12 lĩnh vực",
+    "zh-CN": "量子业务飞轮：12领域估值引擎",
+    "ja": "クォンタム・ビジネス・フライホイール：12ドメイン評価エンジン"
+  },
+  "12-Domain NAV Attribution & Global Governance": {
+    "ko": "12개 도메인 NAV 기여도 및 글로벌 거버넌스",
+    "id": "Atribusi NAV 12-Domain & Tata Kelola Global",
+    "vi": "Phân bổ NAV 12 lĩnh vực & Quản trị toàn cầu",
+    "zh-CN": "12领域NAV归因与全球治理",
+    "ja": "12ドメインNAVアトリビューションとグローバルガバナンス"
+  },
+  "Institutional Risk Firewalls & Due Diligence": {
+    "ko": "기관 리스크 방화벽 및 실사",
+    "id": "Firewall Risiko Institusional & Uji Tuntas",
+    "vi": "Tường lửa rủi ro tổ chức & Thẩm định chuyên sâu",
+    "zh-CN": "机构风险防火墙与尽职调查",
+    "ja": "機関投資家向けリスクファイアウォールとデューデリジェンス"
+  },
+  "Institutional Investment Thesis: Zero Sunk-Capex & Compounding Dual-Returns": {
+    "ko": "기관 투자 테제: Zero Sunk-Capex 및 복리 이중 수익",
+    "id": "Tesis Investasi Institusional: Zero Sunk-Capex & Imbal Hasil Ganda Majemuk",
+    "vi": "Luận điểm đầu tư tổ chức: Zero Sunk-Capex & Lợi nhuận kép kép",
+    "zh-CN": "机构投资论点：Zero Sunk-Capex与复利双重回报",
+    "ja": "機関投資家向け投資テーゼ：Zero Sunk-Capexと複利デュアルリターン"
+  },
+  "20+ Years Real Trade Moat": {
+    "ko": "20년 이상의 실거래 해자",
+    "id": "Moat Perdagangan Riil 20+ Tahun",
+    "vi": "Hào kinh tế thương mại thực tế trên 20 năm",
+    "zh-CN": "20多年真实贸易护城河",
+    "ja": "20年以上の実貿易の堀"
+  },
+  "Tracks 01-03: Container Volume & Consolidation Pools": {
+    "ko": "트랙 01-03: 컨테이너 물동량 및 통합 풀",
+    "id": "Track 01-03: Volume Kontainer & Pool Konsolidasi",
+    "vi": "Track 01-03: Khối lượng container & Nhóm gom hàng",
+    "zh-CN": "轨道 01-03：集装箱运量与整合池",
+    "ja": "トラック 01-03: コンテナ輸送量および混載プール"
+  },
+  "Tracks 04-05: SISTAR SOD (SISTAR On-Demand)": {
+    "ko": "트랙 04-05: SISTAR SOD (SISTAR 온디맨드)",
+    "id": "Track 04-05: SISTAR SOD (SISTAR On-Demand)",
+    "vi": "Track 04-05: SISTAR SOD (SISTAR On-Demand)",
+    "zh-CN": "曲目 04-05：SISTAR SOD (SISTAR 按需服务)",
+    "ja": "トラック 04-05: SISTAR SOD (SISTAR オンデマンド)"
+  },
+  "Tracks 06-09: Wholesalers & Influencer Tiers I-III": {
+    "ko": "트랙 06-09: 도매업자 및 인플루언서 등급 I-III",
+    "id": "Track 06-09: Grosir & Tingkatan Influencer I-III",
+    "vi": "Track 06-09: Nhà bán buôn & Cấp bậc Influencer I-III",
+    "zh-CN": "曲目 06-09：批发商与网红等级 I-III",
+    "ja": "トラック 06-09: 卸売業者およびインフルエンサー階層 I-III"
+  },
+  "Tracks 10-15: S1-S6 Global Franchise Matrix": {
+    "ko": "트랙 10-15: S1-S6 글로벌 프랜차이즈 매트릭스",
+    "id": "Track 10-15: Matriks Waralaba Global S1-S6",
+    "vi": "Track 10-15: Ma trận Nhượng quyền Toàn cầu S1-S6",
+    "zh-CN": "曲目 10-15：S1-S6 全球加盟矩阵",
+    "ja": "トラック 10-15: S1-S6 グローバルフランチャイズマトリックス"
+  },
+  "IATA (International AI-Trade Association)": {
+    "ko": "IATA (국제 AI 무역 협회)",
+    "id": "IATA (Asosiasi Perdagangan AI Internasional)",
+    "vi": "IATA (Hiệp hội Thương mại AI Quốc tế)",
+    "zh-CN": "IATA (国际 AI 贸易协会)",
+    "ja": "IATA (国際AI貿易協会)"
+  },
+  "IADA (International AI-Data Association)": {
+    "ko": "IADA (국제 AI 데이터 협회)",
+    "id": "IADA (Asosiasi Data AI Internasional)",
+    "vi": "IADA (Hiệp hội Dữ liệu AI Quốc tế)",
+    "zh-CN": "IADA (国际 AI 数据协会)",
+    "ja": "IADA (国際AIデータ協会)"
+  },
+  "IP Holding vs. Commercial Galaxy Separation": {
+    "ko": "IP 홀딩스 대 커머셜 갤럭시 분리",
+    "id": "Pemisahan IP Holding vs. Commercial Galaxy",
+    "vi": "Sự tách biệt giữa IP Holding và Commercial Galaxy",
+    "zh-CN": "IP 控股与商业银河的分离",
+    "ja": "IPホールディング対コマーシャルギャラクシーの分離"
+  },
+  "The diagram below demonstrates how the Qubit Algorithm™ coordinates data, liquidity, and operational execution across all 12 domains and 8 global bases, transforming each transaction into compounded enterprise value.": {
+    "ko": "아래 도표는 Qubit Algorithm™이 12개 모든 도메인과 8개 글로벌 거점에 걸쳐 데이터, 유동성 및 운영 실행을 어떻게 조정하여 각 거래를 복합적인 기업 가치로 전환하는지 보여줍니다.",
+    "id": "Diagram di bawah ini menunjukkan bagaimana Qubit Algorithm™ mengoordinasikan data, likuiditas, dan eksekusi operasional di seluruh 12 domain dan 8 basis global, mengubah setiap transaksi menjadi nilai perusahaan yang berlipat ganda.",
+    "vi": "Biểu đồ dưới đây minh họa cách Qubit Algorithm™ điều phối dữ liệu, tính thanh khoản và thực thi vận hành trên tất cả 12 lĩnh vực và 8 cơ sở toàn cầu, chuyển đổi mỗi giao dịch thành giá trị doanh nghiệp cộng dồn.",
+    "zh-CN": "下图展示了 Qubit Algorithm™ 如何协调所有 12 个领域和 8 个全球基地的数据、流动性和运营执行，将每笔交易转化为复合企业价值。",
+    "ja": "下の図は、Qubit Algorithm™ が 12 の全ドメインと 8 つのグローバル拠点にわたってデータ、流動性、および運用の実行をどのように調整し、各取引を複利的な企業価値へと変貌させるかを示しています。"
+  },
+  "Every domain in the *SC semantic matrix is not a promotional landing page, but an operational business unit generating standalone gross margins and strategic synergy. The table below delineates the institutional NAV attribution across the entire ecosystem.": {
+    "ko": "*SC 시맨틱 매트릭스의 모든 도메인은 단순한 홍보용 랜딩 페이지가 아니라, 독립적인 매출 총이익과 전략적 시너지를 창출하는 운영 사업부입니다. 아래 표는 전체 생태계에 걸친 기관 NAV 귀속을 설명합니다.",
+    "id": "Setiap domain dalam matriks semantik *SC bukanlah halaman arahan promosi, melainkan unit bisnis operasional yang menghasilkan margin kotor mandiri dan sinergi strategis. Tabel di bawah ini merinci atribusi NAV institusional di seluruh ekosistem.",
+    "vi": "Mỗi lĩnh vực trong ma trận ngữ nghĩa *SC không phải là một trang đích quảng cáo, mà là một đơn vị kinh doanh vận hành tạo ra tỷ suất lợi nhuận gộp độc lập và sức mạnh cộng hưởng chiến lược. Bảng dưới đây mô tả chi tiết việc phân bổ NAV định chế trên toàn bộ hệ sinh thái.",
+    "zh-CN": "*SC 语义矩阵中的每个领域都不是促销落地页，而是产生独立毛利和战略协同效应的运营业务单元。下表描绘了整个生态系统的机构资产净值（NAV）归属。",
+    "ja": "*SC セマンティック・マトリックス内の各ドメインは、単なるプロモーション用のランディングページではなく、独立した売上総利益と戦略的シナジーを生み出す運営事業部門です。下の表は、エコシステム全体における機関投資家向け NAV 帰属を詳しく説明しています。"
+  },
+  "Anchors binding machine-to-machine trade protocols, algorithmic customs validation, and automated escrow smart contracts across ASEAN and East Asia, eliminating multi-week administrative delays.": {
+    "ko": "아세안 및 동아시아 전역에서 기계 간 무역 프로토콜, 알고리즘 기반 통관 검증 및 자동화된 에스크로 스마트 계약을 결합하여 수 주간의 행정 지연을 제거합니다.",
+    "id": "Menambatkan protokol perdagangan mesin-ke-mesin, validasi pabean algoritmik, dan kontrak pintar escrow otomatis di seluruh ASEAN dan Asia Timur, menghilangkan penundaan administratif selama berminggu-minggu.",
+    "vi": "Kết nối các giao thức thương mại máy-đối-máy, xác thực hải quan bằng thuật toán và các hợp đồng thông minh ký quỹ tự động trên khắp ASEAN và Đông Á, loại bỏ sự chậm trễ hành chính kéo kéo dài nhiều tuần.",
+    "zh-CN": "锚定东盟和东亚范围内的机器对机器贸易协议、算法海关验证和自动化托管智能合约，消除了长达数周的行政延误。",
+    "ja": "ASEAN および東アジア全域で、マシン・ツー・マシン（M2M）貿易プロトコル、アルゴリズムによる税関検証、および自動エスクロー・スマートコントラクトを固定し、数週間にわたる事務的な遅延を排除します。"
+  },
+  "Guarantees that partner clinics and regional distributors retain sovereign ownership over their patient and commercial data, preventing platform monopolies from weaponizing vendor metrics.": {
+    "ko": "파트너 클리닉과 지역 유통업체가 환자 및 상업 데이터에 대한 주권적 소유권을 유지하도록 보장하여, 플랫폼 독점이 공급업체 지표를 무기화하는 것을 방지합니다.",
+    "id": "Menjamin bahwa klinik mitra dan distributor regional tetap memiliki kepemilikan berdaulat atas data pasien dan komersial mereka, mencegah monopoli platform menyalahgunakan metrik vendor.",
+    "vi": "Đảm bảo rằng các phòng khám đối tác và nhà phân phối khu vực giữ quyền sở hữu tối cao đối với dữ liệu bệnh nhân và thương mại của họ, ngăn chặn các nền tảng độc quyền sử dụng các chỉ số của nhà cung cấp làm vũ khí.",
+    "zh-CN": "确保合作伙伴诊所和区域分销商保留对其患者和商业数据的自主所有权，防止平台垄断将供应商指标武器化。",
+    "ja": "提携クリニックや地域の販売代理店が患者データおよび商業データに対する主権的な所有権を保持することを保証し、プラットフォームの独占によるベンダー指標の武器化を防止します。"
+  },
+  "To satisfy the most rigorous institutional and venture capital due-diligence standards, *SC enforces a multi-layered legal, technical, and financial defense architecture designed to withstand geopolitical volatility, currency fluctuations, and operational risks.": {
+    "ko": "가장 엄격한 기관 및 벤처 캐피털 실사 기준을 충족하기 위해, *SC는 지정학적 변동성, 환율 변동 및 운영 리스크를 견딜 수 있도록 설계된 다층적인 법적, 기술적 및 재무적 방어 아키텍처를 시행합니다.",
+    "id": "Untuk memenuhi standar uji tuntas institusional dan modal ventura yang paling ketat, *SC menerapkan arsitektur pertahanan hukum, teknis, dan keuangan berlapis yang dirancang untuk menahan volatilitas geopolitik, fluktuasi mata uang, dan risiko operasional.",
+    "vi": "Để đáp ứng các tiêu chuẩn thẩm định nghiêm ngặt nhất của các định chế và quỹ đầu tư mạo hiểm, *SC thực thi cấu trúc phòng thủ đa lớp về pháp lý, kỹ thuật và tài chính được thiết kế để chống lại các biến động địa chính trị, biến động tiền tệ và rủi ro vận hành.",
+    "zh-CN": "为了满足最严格的机构和风险投资尽职调查标准，*SC 实施了多层法律、技术和财务防御架构，旨在抵御地缘政治波动、汇率波动和运营风险。",
+    "ja": "最も厳格な機関投資家およびベンチャーキャピタルのデューデリジェンス基準を満たすために、*SC は、地政学的な不安定さ、為替変動、および運用のリスクに耐えられるように設計された、多層的な法的、技術的、および財務的な防御アーキテクチャを導入しています。"
+  },
+  "All proprietary software, neural weights, algorithms, and registered trademarks reside permanently in SC Index (our IP holding vehicle). Operational trading, customer contracts, and shipping commitments are conducted through independent, ring-fenced operating companies (Biz Galaxy verticals and regional JVs). No operational dispute, product liability claim, or freight delay can compromise the holding company IP or parent equity.": {
+    "ko": "모든 독점 소프트웨어, 신경망 가중치, 알고리즘 및 등록 상표는 SC Index(당사의 IP 지주 회사)에 영구적으로 귀속됩니다. 운영 거래, 고객 계약 및 배송 약정은 독립적이고 격리된 운영 회사(Biz Galaxy 수직 계열사 및 지역 합작 투자사)를 통해 수행됩니다. 어떠한 운영상의 분쟁, 제조물 책임 청구 또는 화물 지연도 지주 회사의 IP나 모기업의 지분을 훼손할 수 없습니다.",
+    "id": "Semua perangkat lunak berpemilik, bobot saraf, algoritma, dan merek dagang terdaftar berada secara permanen di SC Index (kendaraan induk IP kami). Perdagangan operasional, kontrak pelanggan, dan komitmen pengiriman dilakukan melalui perusahaan operasional independen yang dipagari (vertikal Biz Galaxy dan JV regional). Tidak ada perselisihan operasional, klaim kewajiban produk, atau keterlambatan pengiriman yang dapat membahayakan IP perusahaan induk atau ekuitas induk.",
+    "vi": "Tất cả phần mềm độc quyền, trọng số thần kinh, thuật toán và nhãn hiệu đã đăng ký đều thuộc sở hữu vĩnh viễn của SC Index (phương tiện nắm giữ IP của chúng tôi). Giao dịch vận hành, hợp đồng khách hàng và cam kết vận chuyển được thực hiện thông qua các công ty vận hành độc lập, được tách biệt (các mảng dọc của Biz Galaxy và các liên doanh khu vực). Không có tranh chấp vận hành, khiếu nại trách nhiệm sản phẩm hoặc sự chậm trễ vận chuyển nào có thể làm tổn hại đến IP của công ty nắm giữ hoặc vốn chủ sở hữu của công ty mẹ.",
+    "zh-CN": "所有专有软件、神经权重、算法和注册商标永久归属于 SC Index（我们的知识产权持有机构）。运营交易、客户合同和运输承诺通过独立的、风险隔离的运营公司（Biz Galaxy 垂直部门和区域合资企业）进行。任何运营纠纷、产品责任索赔或货运延误都不会损害控股公司的知识产权或母公司股权。",
+    "ja": "すべての独自のソフトウェア、ニューラルウェイト、アルゴリズム、および登録商標は、SC Index（当社の IP 保有車両）に恒久的に帰属します。運用の取引、顧客契約、および配送のコミットメントは、独立したリングフェンス型の運営会社（Biz Galaxy 垂直部門および地域の合弁会社）を通じて行われます。いかなる運営上の紛争、製造物責任の請求、または貨物の遅延も、持株会社の IP や親会社の持分を損なうことはありません。"
+  },
+  "Net recognized revenue after consignment adjustments and merchant splits": {
+    "ko": "위탁 조정 및 가맹점 정산 후 순인식 매출",
+    "id": "Pendapatan bersih yang diakui setelah penyesuaian konsinyasi dan pembagian merchant",
+    "vi": "Doanh thu thuần được ghi nhận sau khi điều chỉnh ký gửi và chia sẻ với người bán",
+    "zh-CN": "代销调整和商户分成后的净确认收入",
+    "ja": "委託調整および加盟店配分後の純認識収益"
+  },
+  "Expansion driven by proprietary ODM formulations and direct factory tie-ups": {
+    "ko": "독자적인 ODM 포뮬레이션 및 공장 직접 제휴를 통한 확장",
+    "id": "Ekspansi yang didorong oleh formulasi ODM eksklusif dan kerja sama pabrik langsung",
+    "vi": "Mở rộng nhờ các công thức ODM độc quyền và liên kết trực tiếp với nhà máy",
+    "zh-CN": "由独家 ODM 配方和工厂直接合作驱动的扩张",
+    "ja": "独自のODM処方と工場との直接提携による拡大"
+  },
+  "Sustained high margins through zero-marginal-cost multi-agent automation": {
+    "ko": "한계 비용 제로의 멀티 에이전트 자동화를 통한 지속적인 고마진",
+    "id": "Margin tinggi yang berkelanjutan melalui otomatisasi multi-agen dengan biaya marjinal nol",
+    "vi": "Duy trì biên lợi nhuận cao thông qua tự động hóa đa tác nhân với chi phí biên bằng không",
+    "zh-CN": "通过零边际成本的多代理自动化维持高利润率",
+    "ja": "限界費用ゼロのマルチエージェント自動化による持続的な高利益率"
+  },
+  "Reflects multi-year recurring container contracts and franchise fees": {
+    "ko": "다년도 반복 컨테이너 계약 및 프랜차이즈 수수료 반영",
+    "id": "Mencerminkan kontrak kontainer berulang multi-tahun dan biaya waralaba",
+    "vi": "Phản ánh các hợp đồng container định kỳ nhiều năm và phí nhượng quyền",
+    "zh-CN": "反映了多年期循环集装箱合同和加盟费",
+    "ja": "多年継続のコンテナ契約およびフランチャイズ料を反映"
+  },
+  "Significantly surpasses global enterprise SaaS/trade benchmarks (3x-5x)": {
+    "ko": "글로벌 엔터프라이즈 SaaS/무역 벤치마크를 크게 상회 (3배-5배)",
+    "id": "Secara signifikan melampaui tolok ukur SaaS/perdagangan perusahaan global (3x-5x)",
+    "vi": "Vượt xa đáng kể các tiêu chuẩn SaaS/thương mại của doanh nghiệp toàn cầu (3x-5x)",
+    "zh-CN": "显著超越全球企业级 SaaS/贸易基准 (3倍-5倍)",
+    "ja": "グローバルなエンタープライズSaaS/貿易ベンチマークを大幅に上回る（3倍〜5倍）"
+  },
+  "84 Days": {
+    "ko": "84일",
+    "id": "84 Hari",
+    "vi": "84 ngày",
+    "zh-CN": "84天",
+    "ja": "84日"
+  },
+  "72 Days": {
+    "ko": "72일",
+    "id": "72 Hari",
+    "vi": "72 ngày",
+    "zh-CN": "72天",
+    "ja": "72日"
+  },
+  "Board seat representation, pro-rata rights, information rights, SC Index holding firewall protection.": {
+    "ko": "이사회 의석 대표권, 프로라타 권리, 정보 권리, SC Index 지주 방화벽 보호.",
+    "id": "Representasi kursi dewan, hak pro-rata, hak informasi, perlindungan firewall holding SC Index.",
+    "vi": "Đại diện ghế hội đồng quản trị, quyền ưu tiên mua cổ phần (pro-rata), quyền thông tin, bảo vệ tường lửa nắm giữ SC Index.",
+    "zh-CN": "董事会席位代表权、按比例认购权、知情权、SC Index 控股防火墙保护。",
+    "ja": "取締役会席位代表権、プロラタ権、情報開示権、SC Index ホールディング・ファイアウォール保護。"
+  },
+  "Tier 2: Vertical Project SPVs (Dedicated Subsidiary Equity)": {
+    "ko": "티어 2: 수직적 프로젝트 SPV (전용 자회사 지분)",
+    "id": "Tier 2: SPV Proyek Vertikal (Ekuitas Anak Perusahaan Khusus)",
+    "vi": "Cấp 2: SPV Dự án Theo chiều dọc (Vốn chủ sở hữu công ty con chuyên dụng)",
+    "zh-CN": "第 2 层：垂直项目 SPV（专用子公司股权）",
+    "ja": "ティア 2: 垂直プロジェクト SPV（専用子会社持分）"
+  },
+  "Sector-Specific Strategic VCs (Pharma, Vet, AI SaaS, E-Commerce)": {
+    "ko": "섹터별 전략적 VC (제약, 수의학, AI SaaS, 이커머스)",
+    "id": "VC Strategis Khusus Sektor (Farmasi, Vet, AI SaaS, E-Commerce)",
+    "vi": "VC Chiến lược theo từng lĩnh vực (Dược phẩm, Thú y, AI SaaS, Thương mại điện tử)",
+    "zh-CN": "特定行业战略风投（制药、兽医、AI SaaS、电子商务）",
+    "ja": "セクター別戦略的 VC（製薬、獣医、AI SaaS、Eコマース）"
+  },
+  "KRW 500M – KRW 1.5B (2 to 4 Year Horizon)": {
+    "ko": "KRW 5억 – KRW 15억 (2~4년 기간)",
+    "id": "KRW 500 Juta – KRW 1,5 Miliar (Horison 2 hingga 4 Tahun)",
+    "vi": "500 triệu KRW – 1,5 tỷ KRW (Thời hạn 2 đến 4 năm)",
+    "zh-CN": "5 亿韩元 – 15 亿韩元（2 至 4 年期限）",
+    "ja": "5億ウォン – 15億ウォン（2〜4年の期間）"
+  },
+  "Direct equity ownership in dedicated high-growth verticals (e.g., SISTAR MedIX SPV or SISPet SPV). 20%-35% preferred dividend distribution.": {
+    "ko": "전용 고성장 수직 계열(예: SISTAR MedIX SPV 또는 SISPet SPV)의 직접 지분 소유. 20%-35% 우선 배당금 분배.",
+    "id": "Kepemilikan ekuitas langsung dalam vertikal pertumbuhan tinggi khusus (misalnya, SISTAR MedIX SPV atau SISPet SPV). Distribusi dividen preferen 20%-35%.",
+    "vi": "Sở hữu cổ phần trực tiếp trong các lĩnh vực tăng trưởng cao chuyên dụng (ví dụ: SISTAR MedIX SPV hoặc SISPet SPV). Phân phối cổ tức ưu đãi 20%-35%.",
+    "zh-CN": "专用高增长垂直领域的直接股权所有权（例如 SISTAR MedIX SPV 或 SISPet SPV）。20%-35% 的优先股息分配。",
+    "ja": "専用の高成長バーティカル（例：SISTAR MedIX SPV または SISPet SPV）における直接的な持分所有。20%〜35% の優先配当分配。"
+  },
+  "Segregated Delaware or Singapore SPV, direct project revenue lien, no liability contagion to HoldCo.": {
+    "ko": "분리된 델라웨어 또는 싱가포르 SPV, 직접 프로젝트 수익 유치권, HoldCo로의 부채 전이 없음.",
+    "id": "SPV Delaware atau Singapura yang terpisah, gadai pendapatan proyek langsung, tidak ada penularan liabilitas ke HoldCo.",
+    "vi": "SPV Delaware hoặc Singapore tách biệt, quyền lưu giữ doanh thu dự án trực tiếp, không lây lan trách nhiệm pháp lý sang HoldCo.",
+    "zh-CN": "隔离的特拉华州或新加坡 SPV，直接项目收入留置权，无负债传染至 HoldCo。",
+    "ja": "分離されたデラウェア州またはシンガポールの SPV、直接的なプロジェクト収益留置権、HoldCo への債務波及なし。"
+  },
+  "Month 9": {
+    "ko": "9개월 차",
+    "id": "Bulan 9",
+    "vi": "Tháng 9",
+    "zh-CN": "第9个月",
+    "ja": "9ヶ月目"
+  },
+  "08. challengers International Family & Vibe Working": {
+    "ko": "08. challengers 인터내셔널 패밀리 & Vibe Working",
+    "id": "08. challengers International Family & Vibe Working",
+    "vi": "08. challengers International Family & Vibe Working",
+    "zh-CN": "08. challengers 国际大家庭 & Vibe Working",
+    "ja": "08. challengers インターナショナル・ファミリー & Vibe Working"
+  },
+  "Global talent onboarding, S1-S6 franchise network, Vibe Working profit-sharing portal.": {
+    "ko": "글로벌 인재 온보딩, S1-S6 프랜차이즈 네트워크, Vibe Working 수익 공유 포털.",
+    "id": "Onboarding talenta global, jaringan waralaba S1-S6, portal pembagian keuntungan Vibe Working.",
+    "vi": "Tiếp nhận tài năng toàn cầu, mạng lưới nhượng quyền S1-S6, cổng chia sẻ lợi nhuận Vibe Working.",
+    "zh-CN": "全球人才入职，S1-S6 特许经营网络，Vibe Working 利润分享门户。",
+    "ja": "グローバル人材のオンボーディング、S1-S6 フランチャイズネットワーク、Vibe Working 利益分配ポータル。"
+  },
+  "Franchise onboarding fees, recurring management royalties, and education packages.": {
+    "ko": "프랜차이즈 가입비, 정기 관리 로열티 및 교육 패키지.",
+    "id": "Biaya onboarding waralaba, royalti manajemen berulang, dan paket edukasi.",
+    "vi": "Phí gia nhập nhượng quyền, phí bản quyền quản lý định kỳ và các gói giáo dục.",
+    "zh-CN": "特许经营入职费、定期管理特许权使用费和教育包。",
+    "ja": "フランチャイズ加盟料、継続的な管理ロイヤリティ、および教育パッケージ。"
+  },
+  "KRW 4.5B (Network Equity)": {
+    "ko": "KRW 4.5B (네트워크 지분)",
+    "id": "KRW 4.5B (Ekuitas Jaringan)",
+    "vi": "KRW 4.5B (Vốn chủ sở hữu mạng lưới)",
+    "zh-CN": "KRW 4.5B (网络权益)",
+    "ja": "KRW 4.5B (ネットワーク・エクイティ)"
+  },
+  "09. partnership Business Partners Motivation Gateway": {
+    "ko": "09. partnership 비즈니스 파트너 동기부여 게이트웨이",
+    "id": "09. partnership Business Partners Motivation Gateway",
+    "vi": "09. partnership Cổng truyền động lực đối tác kinh doanh",
+    "zh-CN": "09. partnership 业务合作伙伴激励网关",
+    "ja": "09. partnership ビジネスパートナー・モチベーション・ゲートウェイ"
+  },
+  "Explore Partnership ->": {
+    "ko": "파트너십 탐색 ->",
+    "id": "Jelajahi Kemitraan ->",
+    "vi": "Khám phá Hợp tác ->",
+    "zh-CN": "探索合作伙伴关系 ->",
+    "ja": "パートナーシップを探索 ->"
+  },
+  "CHAPTER I ??EXECUTIVE MANIFESTO & BRAND GENESIS DOMAIN 04 ??SCARLET-AI // L2 NODE 10: MINT COLORED": {
+    "ko": "제1장 ??경영 선언문 및 브랜드 기원 도메인 04 ??SCARLET-AI // L2 노드 10: 민트 컬러",
+    "id": "BAB I ??MANIFESTO EKSEKUTIF & DOMAIN ASAL MEREK 04 ??SCARLET-AI // L2 NODE 10: MINT COLORED",
+    "vi": "CHƯƠNG I ??TUYÊN NGÔN ĐIỀU HÀNH & MIỀN NGUỒN GỐC THƯƠNG HIỆU 04 ??SCARLET-AI // L2 NÚT 10: MINT COLORED",
+    "zh-CN": "第一章 ??执行宣言与品牌起源领域 04 ??SCARLET-AI // L2 节点 10：薄荷色",
+    "ja": "第I章 ??エグゼクティブ・マニフェスト＆ブランド・ジェネシス・ドメイン 04 ??SCARLET-AI // L2 ノード 10: ミントカラー"
+  },
+  "01_intl-ai-trading & 08_siscart": {
+    "ko": "01_국제-AI-트레이딩 & 08_siscart",
+    "id": "01_intl-ai-trading & 08_siscart",
+    "vi": "01_giao-dịch-AI-quốc-tế & 08_siscart",
+    "zh-CN": "01_国际-AI-交易 & 08_siscart",
+    "ja": "01_国際-AI-トレーディング & 08_siscart"
+  },
+  "Dual-Engine Vector Architecture": {
+    "ko": "듀얼 엔진 벡터 아키텍처",
+    "id": "Arsitektur Vektor Mesin Ganda",
+    "vi": "Kiến trúc Vector Động cơ kép",
+    "zh-CN": "双引擎向量架构",
+    "ja": "デュアルエンジン・ベクトル・アーキテクチャ"
+  },
+  "Warehouse Pallet Stuffing": {
+    "ko": "창고 팔레트 적재",
+    "id": "Pengisian Palet Gudang",
+    "vi": "Xếp hàng lên pallet trong kho",
+    "zh-CN": "仓库托盘装填",
+    "ja": "倉庫パレット積み込み"
+  },
+  "CCTV vision feeds track container bay loading, confirming pallet counts against the packing list.": {
+    "ko": "CCTV 비전 피드가 컨테이너 베이 로딩을 추적하여 패킹 리스트와 대조하여 팔레트 수량을 확인합니다.",
+    "id": "Umpan visi CCTV melacak pemuatan ruang kontainer, mengonfirmasi jumlah palet terhadap daftar kemasan.",
+    "vi": "Nguồn cấp dữ liệu tầm nhìn CCTV theo dõi việc xếp hàng vào ngăn container, xác nhận số lượng pallet so với danh sách đóng gói.",
+    "zh-CN": "CCTV 视觉馈送跟踪集装箱车位装载情况，根据装箱单确认托盘数量。",
+    "ja": "CCTV ビジョンフィードがコンテナベイの積み込みを追跡し、パッキングリストと照合してパレット数を確認します。"
+  },
+  "100% Volumetric Match": {
+    "ko": "100% 체적 일치",
+    "id": "Kecocokan Volumetrik 100%",
+    "vi": "Khớp thể tích 100%",
+    "zh-CN": "100% 体积匹配",
+    "ja": "100% 体積一致"
+  },
+  "Tower 1: Legal & Contractual (RA)": {
+    "ko": "타워 1: 법률 및 계약 (RA)",
+    "id": "Menara 1: Hukum & Kontrak (RA)",
+    "vi": "Tháp 1: Pháp lý & Hợp đồng (RA)",
+    "zh-CN": "塔楼 1：法律与合同 (RA)",
+    "ja": "タワー 1: 法務および契約 (RA)"
+  },
+  "First-generation blockchain games relied on new player inflows to buy inflationary utility tokens from early players. Because the game economy produced zero real-world goods or cashflow outside the game, any slowdown in user growth triggered an irreversible death spiral.": {
+    "ko": "1세대 블록체인 게임은 초기 플레이어로부터 인플레이션 유틸리티 토큰을 구매하기 위해 새로운 플레이어의 유입에 의존했습니다. 게임 경제가 게임 외부에서 실제 상품이나 현금 흐름을 전혀 창출하지 못했기 때문에, 사용자 성장의 둔화는 되돌릴 수 없는 데스 스파이럴을 촉발했습니다.",
+    "id": "Game blockchain generasi pertama mengandalkan arus masuk pemain baru untuk membeli token utilitas inflasi dari pemain awal. Karena ekonomi game tidak menghasilkan barang dunia nyata atau arus kas di luar game, perlambatan dalam pertumbuhan pengguna memicu spiral kematian yang tidak dapat diubah.",
+    "vi": "Các trò chơi blockchain thế hệ đầu tiên dựa vào dòng người chơi mới để mua các token tiện ích lạm phát từ những người chơi sớm. Vì nền kinh tế trong trò chơi không tạo ra hàng hóa thực tế hoặc dòng tiền bên ngoài trò chơi, bất kỳ sự chậm lại nào trong sự tăng trưởng người dùng đều kích hoạt một vòng xoáy tử thần không thể đảo ngược.",
+    "zh-CN": "第一代区块链游戏依赖于新玩家的流入，从早期玩家手中购买通胀型实用代币。由于游戏经济在游戏之外不产生任何现实世界的商品或现金流，用户增长的任何放缓都会引发不可逆转的死亡螺旋。",
+    "ja": "第一世代のブロックチェーンゲームは、初期のプレイヤーからインフレ傾向にあるユーティリティトークンを購入するために、新規プレイヤーの流入に依存していました。ゲーム経済がゲーム外で現実世界の物品やキャッシュフローを全く生み出さなかったため、ユーザー成長の鈍化は不可逆的なデススパイラルを引き起こしました。"
+  },
+  "68.4% D30 Retention driven by physical pouch delivery + reverse QR scan-to-play loops.": {
+    "ko": "실물 파우치 배송 및 역방향 QR 스캔 투 플레이 루프를 통한 68.4%의 D30 리텐션.",
+    "id": "Retensi D30 sebesar 68,4% didorong oleh pengiriman kantong fisik + loop scan-to-play QR terbalik.",
+    "vi": "Tỷ lệ giữ chân D30 đạt 68,4% nhờ giao túi vật lý + vòng lặp quét mã QR ngược để chơi.",
+    "zh-CN": "通过实体袋交付 + 逆向 QR 扫码即玩循环，实现 68.4% 的 D30 留存率。",
+    "ja": "実物ポーチの配送とリバースQRスキャン・トゥ・プレイ・ループによる68.4%のD30リテンション。"
+  },
+  "Near-Zero Marginal Cost via 24/7 Overnight Data Factory (10 PM–8 AM) & SISTAR Studio.": {
+    "ko": "24/7 야간 데이터 팩토리(오후 10시~오전 8시) 및 SISTAR Studio를 통한 제로에 가까운 한계 비용.",
+    "id": "Biaya Marjinal Mendekati Nol melalui 24/7 Overnight Data Factory (10 PM–8 AM) & SISTAR Studio.",
+    "vi": "Chi phí biên gần bằng không thông qua Nhà máy dữ liệu qua đêm 24/7 (10 giờ tối – 8 giờ sáng) & SISTAR Studio.",
+    "zh-CN": "通过 24/7 夜间数据工厂（晚上 10 点至次日早上 8 点）和 SISTAR Studio 实现近乎零的边际成本。",
+    "ja": "24時間365日のオーバーナイト・データ・ファクトリー（午後10時〜午前8時）および SISTAR Studio による、ゼロに近い限界費用。"
+  },
+  "Physical-to-Digital Conversion": {
+    "ko": "피지컬-투-디지털 전환",
+    "id": "Konversi Fisik-ke-Digital",
+    "vi": "Chuyển đổi từ Vật lý sang Kỹ thuật số",
+    "zh-CN": "实体到数字的转换",
+    "ja": "フィジカルからデジタルへの変換"
+  },
+  "1.2% – 2.4% click-through conversion on cold video ads.": {
+    "ko": "콜드 비디오 광고에서 1.2% – 2.4%의 클릭률 전환.",
+    "id": "Konversi klik-tayang 1,2% – 2,4% pada iklan video dingin.",
+    "vi": "Tỷ lệ chuyển đổi nhấp chuột từ 1,2% – 2,4% trên các quảng cáo video lạnh.",
+    "zh-CN": "冷视频广告的点击转化率为 1.2% – 2.4%。",
+    "ja": "コールド動画広告における 1.2% – 2.4% のクリック率コンバージョン。"
+  },
+  "0.0% connection to physical retail or FMCG consumption.": {
+    "ko": "실물 소매 또는 FMCG 소비와의 연결성 0.0%.",
+    "id": "0,0% koneksi ke ritel fisik atau konsumsi FMCG.",
+    "vi": "0,0% kết nối với bán lẻ vật lý hoặc tiêu dùng FMCG.",
+    "zh-CN": "与实体零售或 FMCG 消费的关联度为 0.0%。",
+    "ja": "実店舗の小売または FMCG 消費との関連性 0.0%。"
+  },
+  "CHAPTER IV • QUANTUM MATHEMATICAL FORMALISM": {
+    "ko": "제4장 • 양자 수학적 형식주의",
+    "id": "BAB IV • FORMALISME MATEMATIKA KUANTUM",
+    "vi": "CHƯƠNG IV • HÌNH THỨC TOÁN HỌC LƯỢNG TỬ",
+    "zh-CN": "第四章 • 量子数学形式体系",
+    "ja": "第4章 • 量子数学的形式主義"
+  },
+  "CHAPTER V • THE 6 INTERACTIVE PLANETARY BIOMES": {
+    "ko": "제5장 • 6가지 상호작용 행성 바이옴",
+    "id": "BAB V • 6 BIOMA PLANET INTERAKTIF",
+    "vi": "CHƯƠNG V • 6 HỆ SINH THÁI HÀNH TINH TƯƠNG TÁC",
+    "zh-CN": "第五章 • 6个互动行星生物群落",
+    "ja": "第5章 • 6つのインタラクティブな惑星バイオーム"
+  },
+  "Rp 1,320 Pocket Price": {
+    "ko": "Rp 1,320 포켓 가격",
+    "id": "Harga Kantong Rp 1.320",
+    "vi": "Giá bỏ túi Rp 1.320",
+    "zh-CN": "Rp 1,320 实惠口袋价",
+    "ja": "Rp 1,320 ポケットプライス"
+  },
+  "Physical-to-Digital Loop": {
+    "ko": "피지컬 투 디지털 루프",
+    "id": "Loop Fisik-ke-Digital",
+    "vi": "Vòng lặp từ vật lý sang kỹ thuật số",
+    "zh-CN": "物理到数字循环",
+    "ja": "フィジカル・トゥ・デジタル・ループ"
+  },
+  "Perpetual Life-Time Royalties": {
+    "ko": "영구 평생 로열티",
+    "id": "Royalti Seumur Hidup Abadi",
+    "vi": "Tiền bản quyền trọn đời vĩnh viễn",
+    "zh-CN": "永久终身版税",
+    "ja": "永久ライフタイム・ロイヤリティ"
+  },
+  "Dual-Return Economic Model": {
+    "ko": "이중 수익 경제 모델",
+    "id": "Model Ekonomi Dual-Return",
+    "vi": "Mô hình kinh tế lợi nhuận kép",
+    "zh-CN": "双重回报经济模型",
+    "ja": "二重還元経済モデル"
+  },
+  "Single-Dose High-Margin Trial Sachet Retail Price Point": {
+    "ko": "1회 분량 고마진 체험용 파우치 소매 가격대",
+    "id": "Titik Harga Ritel Sachet Uji Coba Margin Tinggi Dosis Tunggal",
+    "vi": "Điểm giá bán lẻ gói dùng thử liều đơn biên lợi nhuận cao",
+    "zh-CN": "单剂高利润试用装零售价格点",
+    "ja": "1回分高利益トライアルサシェ小売価格帯"
+  },
+  "100% Organic Distribution Powered by Performance Affiliates": {
+    "ko": "퍼포먼스 어필리에이트 기반 100% 오가닉 유통",
+    "id": "Distribusi Organik 100% Didukung oleh Performance Affiliates",
+    "vi": "Phân phối hữu cơ 100% được hỗ trợ bởi các đối tác liên kết hiệu suất",
+    "zh-CN": "由绩效联盟驱动的 100% 有机分销",
+    "ja": "パフォーマンスアフィリエイトによる100%オーガニック配信"
+  },
+  "Creating continuous viral marketing content manually requires massive creative agencies, video editors, and scriptwriters. Qubit Marketing delegates this entire pipeline to SISTAR Studio and the 24/7 Overnight Data Factory.": {
+    "ko": "지속적인 바이럴 마케팅 콘텐츠를 수동으로 제작하려면 대규모 크리에이티브 에이전시, 영상 편집자, 시나리오 작가가 필요합니다. Qubit Marketing은 이 전체 파이프라인을 SISTAR Studio와 24/7 Overnight Data Factory에 위임합니다.",
+    "id": "Membuat konten pemasaran viral secara manual membutuhkan agensi kreatif besar, editor video, dan penulis naskah. Qubit Marketing mendelegasikan seluruh alur kerja ini ke SISTAR Studio dan 24/7 Overnight Data Factory.",
+    "vi": "Việc tạo nội dung tiếp thị lan truyền liên tục theo cách thủ công đòi hỏi các công ty sáng tạo khổng lồ, biên tập viên video và người viết kịch bản. Qubit Marketing ủy thác toàn bộ quy trình này cho SISTAR Studio và 24/7 Overnight Data Factory.",
+    "zh-CN": "手动创建持续的病毒式营销内容需要庞大的创意机构、视频编辑和剧本作家。Qubit Marketing 将整个流程委托给 SISTAR Studio 和 24/7 Overnight Data Factory。",
+    "ja": "継続的なバイラルマーケティングコンテンツを手動で作成するには、大規模なクリエイティブエージェンシー、ビデオエディター、脚本家が必要です。Qubit Marketingは、このパイプライン全体をSISTAR Studioと24/7 Overnight Data Factoryに委任します。"
+  },
+  "Between 22:00 and 08:00 every night, autonomous workers analyze cultural micro-trends across Seoul, Jakarta, Ho Chi Minh City, Tokyo, and Los Angeles. By 08:00 AM, SISTAR Studio renders and publishes 10 bespoke high-fidelity media assets:": {
+    "ko": "매일 밤 22:00에서 08:00 사이, 자율 작업자들이 서울, 자카르타, 호치민, 도쿄, 로스앤젤레스의 문화적 마이크로 트렌드를 분석합니다. 오전 08:00까지 SISTAR Studio는 10개의 맞춤형 고해상도 미디어 자산을 렌더링하고 게시합니다.",
+    "id": "Antara pukul 22:00 dan 08:00 setiap malam, pekerja otonom menganalisis tren mikro budaya di Seoul, Jakarta, Kota Ho Chi Minh, Tokyo, dan Los Angeles. Pada pukul 08:00 pagi, SISTAR Studio merender dan menerbitkan 10 aset media fidelitas tinggi yang dipesan khusus:",
+    "vi": "Từ 22:00 đến 08:00 mỗi đêm, các nhân viên tự trị phân tích các xu hướng vi mô văn hóa tại Seoul, Jakarta, Thành phố Hồ Chí Minh, Tokyo và Los Angeles. Đến 08:00 sáng, SISTAR Studio kết xuất và xuất bản 10 tài sản truyền thông độ trung thực cao được thiết kế riêng:",
+    "zh-CN": "每天晚上 22:00 到 08:00 之间，自主工作者会分析首尔、雅加达、胡志明市、东京和洛杉矶的文化微趋势。到上午 08:00，SISTAR Studio 会渲染并发布 10 个定制的高保真媒体资产：",
+    "ja": "毎晩22:00から08:00の間、自律的なワーカーがソウル、ジャカルタ、ホーチミン、東京、ロサンゼルスの文化的マイクロトレンドを分析します。午前08:00までに、SISTAR Studioは10個のオーダーメイドの高忠実度メディアアセットをレンダリングして公開します。"
+  },
+  "TikTok, Reels, and Shorts vertical videos featuring photorealistic AI avatars demonstrating sachet usage and ingredient science.": {
+    "ko": "TikTok, Reels, Shorts의 세로형 비디오로, 사실적인 AI 아바타가 파우치 사용법과 성분 과학을 시연합니다.",
+    "id": "Video vertikal TikTok, Reels, dan Shorts yang menampilkan avatar AI fotorealistik yang mendemonstrasikan penggunaan sachet dan sains bahan.",
+    "vi": "Video dọc TikTok, Reels và Shorts có các avatar AI chân thực trình diễn cách sử dụng gói nhỏ và khoa học thành phần.",
+    "zh-CN": "TikTok、Reels 和 Shorts 竖屏视频，由逼真的 AI 虚拟人演示小袋包装的使用方法和成分科学。",
+    "ja": "TikTok、Reels、Shortsの縦型動画。フォトリアルなAIアバターがサシェの使用方法と成分科学を実演します。"
+  },
+  "Institutional trade articles, Medium analyses, and Signal Star Post dispatches reviewing regulatory shifts and market trends.": {
+    "ko": "규제 변화와 시장 동향을 검토하는 기관 무역 기사, Medium 분석 및 Signal Star Post 파견 보고서.",
+    "id": "Artikel perdagangan institusional, analisis Medium, dan pengiriman Signal Star Post yang meninjau pergeseran regulasi dan tren pasar.",
+    "vi": "Các bài báo thương mại của tổ chức, phân tích trên Medium và các bản tin Signal Star Post đánh giá sự thay đổi quy định và xu hướng thị trường.",
+    "zh-CN": "机构贸易文章、Medium 分析和 Signal Star Post 简报，评述监管转变和市场趋势。",
+    "ja": "規制の変化と市場動向をレビューする機関投資家向け貿易記事、Mediumの分析、およびSignal Star Postの速報。"
+  },
+  "High-converting Instagram carousels, Shopee flash banners, and WhatsApp promotional brochures with localized pricing.": {
+    "ko": "현지화된 가격이 포함된 고전환 Instagram 캐러셀, Shopee 플래시 배너 및 WhatsApp 홍보 브로셔.",
+    "id": "Carousel Instagram berkonversi tinggi, spanduk kilat Shopee, dan brosur promosi WhatsApp dengan harga lokal.",
+    "vi": "Các bài đăng carousel Instagram có tỷ lệ chuyển đổi cao, biểu ngữ flash Shopee và tài liệu quảng cáo WhatsApp với giá cả địa phương.",
+    "zh-CN": "高转化率的 Instagram 轮播图、Shopee 闪购横幅以及带有本地化定价的 WhatsApp 宣传手册。",
+    "ja": "ローカライズされた価格設定を含む、高コンバージョンのInstagramカルーセル、Shopeeフラッシュバナー、およびWhatsAppプロモーションパンフレット。"
+  },
+  "Where the cumulative audience reach \\(\\Gamma(t)\\) compounds across all 10 daily media formats \\(\\mathcal{Q}_m\\), filtered by the indicator function \\(\\mathbb{I}\\) requiring 100% regulatory compliance before automated multi-platform dispatch.": {
+    "ko": "누적 도달 범위 \\(\\Gamma(t)\\)가 10가지 일일 미디어 형식 \\(\\mathcal{Q}_m\\) 전체에 걸쳐 복합적으로 작용하며, 자동화된 다중 플랫폼 발송 전 100% 규제 준수를 요구하는 지시 함수 \\(\\mathbb{I}\\)에 의해 필터링됩니다.",
+    "id": "Di mana jangkauan audiens kumulatif \\(\\Gamma(t)\\) berlipat ganda di seluruh 10 format media harian \\(\\mathcal{Q}_m\\), disaring oleh fungsi indikator \\(\\mathbb{I}\\) yang memerlukan kepatuhan regulasi 100% sebelum pengiriman multi-platform otomatis.",
+    "vi": "Nơi phạm vi tiếp cận khán giả tích lũy \\(\\Gamma(t)\\) hợp nhất trên tất cả 10 định dạng phương tiện hàng ngày \\(\\mathcal{Q}_m\\), được lọc bởi hàm chỉ thị \\(\\mathbb{I}\\) yêu cầu tuân thủ quy định 100% trước khi gửi đa nền tảng tự động.",
+    "zh-CN": "累积受众覆盖范围 \\(\\Gamma(t)\\) 在所有 10 种日常媒体格式 \\(\\mathcal{Q}_m\\) 中复合，并由指示函数 \\(\\mathbb{I}\\) 过滤，要求在自动多平台分发前实现 100% 的监管合规。",
+    "ja": "累積オーディエンスリーチ \\(\\Gamma(t)\\) が全10種類のデイリーメディア形式 \\(\\mathcal{Q}_m\\) にわたって合成され、自動化されたマルチプラットフォーム配信の前に100%の規制遵守を要求する指示関数 \\(\\mathbb{I}\\) によってフィルタリングされます。"
+  },
+  "Advertising cosmetics, veterinary products, and dietary supplements across 8 different national legal frameworks carries immense regulatory risks. Qubit Marketing incorporates NotebookLM and Dify to ensure complete compliance across every marketing touchpoint.": {
+    "ko": "8개의 서로 다른 국가 법적 체계에서 화장품, 수의학 제품 및 건강기능식품을 광고하는 것은 막대한 규제 위험을 수반합니다. Qubit Marketing은 모든 마케팅 접점에서 완전한 준수를 보장하기 위해 NotebookLM과 Dify를 통합합니다.",
+    "id": "Mengiklankan kosmetik, produk hewan, dan suplemen makanan di 8 kerangka hukum nasional yang berbeda membawa risiko regulasi yang sangat besar. Qubit Marketing menggabungkan NotebookLM dan Dify untuk memastikan kepatuhan penuh di setiap titik kontak pemasaran.",
+    "vi": "Quảng cáo mỹ phẩm, sản phẩm thú y và thực phẩm chức năng trên 8 khung pháp lý quốc gia khác nhau tiềm ẩn rủi ro quy định to lớn. Qubit Marketing tích hợp NotebookLM và Dify để đảm bảo tuân thủ hoàn toàn tại mọi điểm tiếp xúc tiếp thị.",
+    "zh-CN": "在 8 个不同的国家法律框架下广告化妆品、兽药产品和膳食补充剂具有巨大的监管风险。Qubit Marketing 结合了 NotebookLM 和 Dify，以确保每个营销触点的完全合规。",
+    "ja": "8つの異なる国家の法的枠組みにわたって化粧品、動物用医薬品、およびサプリメントを宣伝することは、膨大な規制リスクを伴います。Qubit Marketingは、あらゆるマーケティング接点での完全なコンプライアンスを確保するために、NotebookLMとDifyを組み込んでいます。"
+  },
+  "Marketing promotions without real-time inventory visibility cause severe logistics friction. Qubit Marketing is quantum-entangled with the warehouse CCTV optical monitoring feeds of Qubit ERP.": {
+    "ko": "실시간 재고 가시성이 없는 마케팅 프로모션은 심각한 물류 마찰을 초래합니다. Qubit Marketing은 Qubit ERP의 창고 CCTV 광학 모니터링 피드와 양자 얽힘 상태로 연결되어 있습니다.",
+    "id": "Promosi pemasaran tanpa visibilitas inventaris waktu nyata menyebabkan gesekan logistik yang parah. Qubit Marketing terjerat secara kuantum dengan umpan pemantauan optik CCTV gudang dari Qubit ERP.",
+    "vi": "Các chương trình khuyến mãi tiếp thị mà không có khả năng hiển thị hàng tồn kho theo thời gian thực sẽ gây ra ma sát hậu cần nghiêm trọng. Qubit Marketing được liên kết lượng tử với các nguồn cấp dữ liệu giám sát quang học CCTV của kho hàng từ Qubit ERP.",
+    "zh-CN": "没有实时库存可见性的营销促销会导致严重的物流摩擦。Qubit Marketing 与 Qubit ERP 的仓库 CCTV 光学监控馈送处于量子纠缠状态。",
+    "ja": "リアルタイムの在庫可視化がないマーケティングプロモーションは、深刻な物流摩擦を引き起こします。Qubit Marketingは、Qubit ERPの倉庫CCTV光学モニタリングフィードと量子もつれ状態で連携しています。"
+  },
+  "Applies 70/30 payment gateway split webhooks to automatically segregate inventory manufacturing costs from affiliate margins.": {
+    "ko": "70/30 결제 게이트웨이 분할 웹훅을 적용하여 재고 제조 비용과 제휴 마진을 자동으로 분리합니다.",
+    "id": "Menerapkan webhook pembagian gateway pembayaran 70/30 untuk secara otomatis memisahkan biaya pembuatan inventaris dari margin afiliasi.",
+    "vi": "Áp dụng webhook phân chia cổng thanh toán 70/30 để tự động tách biệt chi phí sản xuất hàng tồn kho khỏi lợi nhuận của đối tác liên kết.",
+    "zh-CN": "应用 70/30 支付网关分账 Webhook，自动将库存制造成本与关联方利润分开。",
+    "ja": "70/30 決済ゲートウェイ分割ウェブフックを適用し、在庫製造コストとアフィリエイトマージンを自動的に分離します。"
+  },
+  "Prevents cash diversion; ensures instant, dispute-free vendor and creator settlements.": {
+    "ko": "자금 유용을 방지하고, 공급업체 및 크리에이터에게 즉각적이고 분쟁 없는 정산을 보장합니다.",
+    "id": "Mencegah pengalihan dana; memastikan penyelesaian vendor dan kreator yang instan dan bebas sengketa.",
+    "vi": "Ngăn chặn việc chuyển hướng tiền mặt; đảm bảo quyết toán tức thì, không tranh chấp cho nhà cung cấp và người sáng tạo.",
+    "zh-CN": "防止资金挪用；确保供应商和创作者获得即时、无争议的结算。",
+    "ja": "資金の流用を防止し、ベンダーおよびクリエイターへの即時かつ紛争のない決済を保証します。"
+  },
+  "Tower 3: Inventory & Logistics Gate (CCTV)": {
+    "ko": "타워 3: 재고 및 물류 게이트 (CCTV)",
+    "id": "Tower 3: Gerbang Inventaris & Logistik (CCTV)",
+    "vi": "Tháp 3: Cổng Kho hàng & Logistics (CCTV)",
+    "zh-CN": "塔楼 3：库存与物流关口 (CCTV)",
+    "ja": "タワー 3: 在庫および物流ゲート (CCTV)"
+  },
+  "Locks campaign spend to verified optical warehouse stock levels.": {
+    "ko": "캠페인 지출을 검증된 광학 창고 재고 수준에 고정합니다.",
+    "id": "Mengunci pengeluaran kampanye ke tingkat stok gudang optik yang terverifikasi.",
+    "vi": "Khóa chi tiêu chiến dịch theo mức tồn kho kho quang học đã được xác minh.",
+    "zh-CN": "将营销活动支出锁定在经过验证的光学仓库库存水平。",
+    "ja": "キャンペーン支出を、検証済みの光学倉庫の在庫レベルに固定します。"
+  },
+  "Eradicates out-of-stock cancellations and delivery delay chargebacks.": {
+    "ko": "품절로 인한 취소 및 배송 지연으로 인한 차지백을 근절합니다.",
+    "id": "Menghilangkan pembatalan karena stok habis dan chargeback akibat keterlambatan pengiriman.",
+    "vi": "Loại bỏ việc hủy đơn do hết hàng và các khoản bồi hoàn do chậm trễ giao hàng.",
+    "zh-CN": "杜绝缺货取消和交货延迟导致的退单。",
+    "ja": "在庫切れによるキャンセルや配送遅延によるチャージバックを根絶します。"
+  },
+  "Country / Hub": {
+    "ko": "국가 / 허브",
+    "id": "Negara / Hub",
+    "vi": "Quốc gia / Hub",
+    "zh-CN": "国家 / 枢纽",
+    "ja": "国 / ハブ"
+  },
+  "Primary Regulatory Authority": {
+    "ko": "주요 규제 기관",
+    "id": "Otoritas Pengatur Utama",
+    "vi": "Cơ quan quản lý chính",
+    "zh-CN": "主要监管机构",
+    "ja": "主要規制当局"
+  },
+  "Mandatory Compliance Constraint": {
+    "ko": "필수 준수 제약 사항",
+    "id": "Batasan Kepatuhan Wajib",
+    "vi": "Ràng buộc tuân thủ bắt buộc",
+    "zh-CN": "强制性合规约束",
+    "ja": "義務的コンプライアンス制約"
+  },
+  "Chapter 04 • Compliance Core": {
+    "ko": "제04장 • 컴플라이언스 핵심",
+    "id": "Bab 04 • Inti Kepatuhan",
+    "vi": "Chương 04 • Cốt lõi tuân thủ",
+    "zh-CN": "第 04 章 • 合规核心",
+    "ja": "第04章 • コンプライアンス・コア"
+  },
+  "Dual-Engine Regulatory Shield": {
+    "ko": "듀얼 엔진 규제 쉴드",
+    "id": "Perisai Pengatur Mesin Ganda",
+    "vi": "Lá chắn quy định động cơ kép",
+    "zh-CN": "双引擎监管防护",
+    "ja": "デュアルエンジン規制シールド"
+  },
+  "Chapter 05 • Operational Synchronization": {
+    "ko": "제05장 • 운영 동기화",
+    "id": "Bab 05 • Sinkronisasi Operasional",
+    "vi": "Chương 05 • Đồng bộ hóa hoạt động",
+    "zh-CN": "第 05 章 • 运营同步",
+    "ja": "第05章 • オペレーショナル・シンクロナイゼーション"
+  },
+  "Quantized Human & Challenger Labor": {
+    "ko": "양자화된 인적 및 챌린저 노동",
+    "id": "Tenaga Kerja Manusia & Challenger yang Terkuantisasi",
+    "vi": "Lao động Con người & Thách thức được Định lượng",
+    "zh-CN": "量化人力与挑战者劳动力",
+    "ja": "量子化された人的およびチャレンジャー労働"
+  },
+  "Fractionalized 3PL & Retail Geometry": {
+    "ko": "분절화된 3PL 및 리테일 기하학",
+    "id": "Geometri Ritel & 3PL yang Terfraksionalisasi",
+    "vi": "Hình học Bán lẻ & 3PL được Phân mảnh",
+    "zh-CN": "碎片化 3PL 与零售几何学",
+    "ja": "分片化された 3PL およびリテール・ジオメトリ"
+  },
+  "Complementing human time quantization, the Space Bank (QS-CBM) and Idea Bank (QI-IP) digitize the physical infrastructure and intellectual property of the 8 Global Bases into liquid, programmable building blocks.": {
+    "ko": "인간 시간 양자화를 보완하여, Space Bank (QS-CBM)와 Idea Bank (QI-IP)는 8개 글로벌 기지의 물리적 인프라와 지적 재산을 유동적이고 프로그래밍 가능한 빌딩 블록으로 디지털화합니다.",
+    "id": "Melengkapi kuantisasi waktu manusia, Space Bank (QS-CBM) dan Idea Bank (QI-IP) mendigitalkan infrastruktur fisik dan kekayaan intelektual dari 8 Basis Global menjadi blok bangunan yang cair dan dapat diprogram.",
+    "vi": "Bổ sung cho việc lượng tử hóa thời gian của con người, Space Bank (QS-CBM) và Idea Bank (QI-IP) số hóa cơ sở hạ tầng vật lý và sở hữu trí tuệ của 8 Cơ sở Toàn cầu thành các khối xây dựng lỏng, có thể lập trình.",
+    "zh-CN": "作为人类时间量化的补充，Space Bank (QS-CBM) 和 Idea Bank (QI-IP) 将 8 个全球基地的物理基础设施和知识产权数字化为流动的、可编程的构建模块。",
+    "ja": "人間の時間の量子化を補完するものとして、Space Bank (QS-CBM) と Idea Bank (QI-IP) は、8つのグローバル拠点の物理的インフラと知的財産を、流動的でプログラム可能なビルディングブロックへとデジタル化します。"
+  },
+  "Every night between 10 PM and 8 AM, our Qubit ERP & CCTV Vision Stock Opname computer-vision pipeline scans every warehouse aisle and retail planogram. The AI calculates exact volumetric occupancy, pallet dwell times, and empty cubic meters. Unoccupied capacity is automatically tokenized into QS-CBM (Cubic Meter-Day) and QS-FACING (Retail Shelf Facing-Week) units.": {
+    "ko": "매일 밤 오후 10시에서 오전 8시 사이, 당사의 Qubit ERP 및 CCTV Vision Stock Opname 컴퓨터 비전 파이프라인이 모든 창고 통로와 소매 진열도를 스캔합니다. AI는 정확한 체적 점유율, 팔레트 체류 시간 및 빈 입방미터를 계산합니다. 점유되지 않은 용량은 자동으로 QS-CBM (Cubic Meter-Day) 및 QS-FACING (Retail Shelf Facing-Week) 단위로 토큰화됩니다.",
+    "id": "Setiap malam antara jam 10 malam dan jam 8 pagi, pipa visi komputer Qubit ERP & CCTV Vision Stock Opname kami memindai setiap lorong gudang dan planogram ritel. AI menghitung hunian volumetrik yang tepat, waktu tunggu palet, dan meter kubik kosong. Kapasitas yang tidak terisi secara otomatis ditokenisasi menjadi unit QS-CBM (Cubic Meter-Day) dan QS-FACING (Retail Shelf Facing-Week).",
+    "vi": "Mỗi đêm từ 10 giờ tối đến 8 giờ sáng, quy trình thị giác máy tính Qubit ERP & CCTV Vision Stock Opname của chúng tôi sẽ quét mọi lối đi trong kho và sơ đồ kệ hàng bán lẻ. AI tính toán chính xác mức độ chiếm dụng thể tích, thời gian lưu kho của pallet và số mét khối trống. Công suất chưa sử dụng sẽ tự động được mã hóa thành các đơn vị QS-CBM (Cubic Meter-Day) và QS-FACING (Retail Shelf Facing-Week).",
+    "zh-CN": "每晚 10 点至次日 8 点，我们的 Qubit ERP 和 CCTV Vision Stock Opname 计算机视觉流水线会扫描每个仓库通道和零售货架图。AI 会计算精确的体积占用率、托盘停留时间和空置立方米。未占用的容量会自动代币化为 QS-CBM（立方米-天）和 QS-FACING（零售货架面-周）单位。",
+    "ja": "毎晩午後10時から午前8時の間、当社の Qubit ERP および CCTV Vision Stock Opname コンピュータビジョンパイプラインが、すべての倉庫の通路と小売棚割図をスキャンします。AIは正確な容積占有率、パレット滞留時間、および空き立方メートルを計算します。未利用の容量は、自動的に QS-CBM (Cubic Meter-Day) および QS-FACING (Retail Shelf Facing-Week) ユニットにトークン化されます。"
+  },
+  "• Class A (Bio & ODM Formulations): Validated ingredient matrices, stability profiles, and Rp 1,320 Sachet manufacturing BOMs. • Class B (AI & Software Workflows): Multi-agent Dify YAML blueprints, Ms. Scarlet conversational closing scripts, and ERP automation plugins. • Class C (Cosmo Seed™ Business Models): Complete go-to-market playbooks, pricing matrices, and franchise operating manuals.": {
+    "ko": "• 클래스 A (바이오 및 ODM 포뮬러): 검증된 성분 매트릭스, 안정성 프로필 및 Rp 1,320 사셰 제조 BOM. • 클래스 B (AI 및 소프트웨어 워크플로우): 멀티 에이전트 Dify YAML 블루프린트, Ms. Scarlet 대화형 클로징 스크립트 및 ERP 자동화 플러그인. • 클래스 C (Cosmo Seed™ 비즈니스 모델): 전체 시장 진출 플레이북, 가격 매트릭스 및 프랜차이즈 운영 매뉴얼.",
+    "id": "• Kelas A (Formulasi Bio & ODM): Matriks bahan yang divalidasi, profil stabilitas, dan BOM manufaktur Sachet Rp 1.320. • Kelas B (Alur Kerja AI & Perangkat Lunak): Cetak biru YAML Dify multi-agen, skrip penutup percakapan Ms. Scarlet, dan plugin otomatisasi ERP. • Kelas C (Model Bisnis Cosmo Seed™): Playbook masuk ke pasar yang lengkap, matriks harga, dan manual operasional waralaba.",
+    "vi": "• Hạng A (Công thức Sinh học & ODM): Ma trận thành phần đã được xác thực, hồ sơ độ ổn định và BOM sản xuất Sachet Rp 1.320. • Hạng B (Quy trình làm việc AI & Phần mềm): Bản thiết kế YAML Dify đa tác nhân, kịch bản chốt hội thoại Ms. Scarlet và các plugin tự động hóa ERP. • Hạng C (Mô hình kinh doanh Cosmo Seed™): Sách lược thâm nhập thị trường hoàn chỉnh, ma trận giá và hướng dẫn vận hành nhượng quyền.",
+    "zh-CN": "• A类（生物与ODM配方）：经过验证的成分矩阵、稳定性概况以及 Rp 1,320 小袋制造物料清单 (BOM)。 • B类（AI与软件工作流）：多智能体 Dify YAML 蓝图、Ms. Scarlet 对话成交脚本以及 ERP 自动化插件。 • C类（Cosmo Seed™ 商业模式）：完整的市场进入策略指南、价格矩阵和特许经营操作手册。",
+    "ja": "• クラスA（バイオ＆ODM処方）：検証済みの成分マトリックス、安定性プロファイル、および Rp 1,320 サシェ製造BOM。 • クラスB（AI＆ソフトウェアワークフロー）：マルチエージェント Dify YAML ブループリント、Ms. Scarlet 対話型クロージングスクリプト、および ERP 自動化プラグイン。 • クラスC（Cosmo Seed™ ビジネスモデル）：完全なゴーツーマーケット・プレイブック、価格マトリックス、およびフランチャイズ運営マニュアル。"
+  },
+  "Three Redemption Pathways: Accumulated QT-HR balances can be (1) swapped at par for physical products across biz-galaxy (e.g., SISPet nutrition, Sismii cosmetics, Aquasis solutions), (2) exchanged for Space Bank (QS-CBM) logistics slots or Idea Bank (QI-IP) licensing rights to launch the contributor's own brand, or (3) redeemed for cash dividends as the underlying project clears retail sales via the PG 70/30 Split.": {
+    "ko": "세 가지 상환 경로: 누적된 QT-HR 잔액은 (1) 비즈니스 갤럭시 전반의 실물 제품(예: SISPet 영양제, Sismii 화장품, Aquasis 솔루션)으로 액면가 교환, (2) 기여자의 자체 브랜드 출시를 위한 Space Bank (QS-CBM) 물류 슬롯 또는 Idea Bank (QI-IP) 라이선스 권한으로 교환, 또는 (3) 기본 프로젝트가 PG 70/30 수익 배분을 통해 소매 판매를 완료함에 따라 현금 배당으로 상환될 수 있습니다.",
+    "id": "Tiga Jalur Penebusan: Saldo QT-HR yang terkumpul dapat (1) ditukar sesuai nilai nominal dengan produk fisik di seluruh biz-galaxy (misalnya, nutrisi SISPet, kosmetik Sismii, solusi Aquasis), (2) ditukar dengan slot logistik Space Bank (QS-CBM) atau hak lisensi Idea Bank (QI-IP) untuk meluncurkan merek kontributor sendiri, atau (3) ditebus dengan dividen tunai saat proyek yang mendasari menyelesaikan penjualan ritel melalui Pembagian PG 70/30.",
+    "vi": "Ba lộ trình quy đổi: Số dư QT-HR tích lũy có thể (1) được hoán đổi ngang giá cho các sản phẩm vật lý trong toàn bộ biz-galaxy (ví dụ: dinh dưỡng SISPet, mỹ phẩm Sismii, giải pháp Aquasis), (2) đổi lấy các vị trí hậu cần của Space Bank (QS-CBM) hoặc quyền cấp phép của Idea Bank (QI-IP) để ra mắt thương hiệu riêng của người đóng góp, hoặc (3) quy đổi thành cổ tức tiền mặt khi dự án cơ sở hoàn tất doanh số bán lẻ thông qua Chia sẻ PG 70/30.",
+    "zh-CN": "三种兑换途径：累积的 QT-HR 余额可以 (1) 在整个业务星系 (biz-galaxy) 中按面值兑换实物产品（例如 SISPet 营养品、Sismii 化妆品、Aquasis 解决方案），(2) 交换 Space Bank (QS-CBM) 物流仓位或 Idea Bank (QI-IP) 许可权以发布贡献者自己的品牌，或 (3) 随着基础项目通过 PG 70/30 分成完成零售销售，兑换为现金分红。",
+    "ja": "3つの還元パスウェイ：蓄積された QT-HR 残高は、(1) biz-galaxy 全体の物理的製品（例：SISPet 栄養剤、Sismii 化粧品、Aquasis ソリューション）と等価交換、(2) 貢献者自身のブランドを立ち上げるための Space Bank (QS-CBM) 物流スロットまたは Idea Bank (QI-IP) ライセンス権との交換、あるいは (3) 基盤となるプロジェクトが PG 70/30 分配を通じて小売販売を完了した際の現金配当として還元できます。"
+  },
+  "QT-HR (Time-Hour Unit)": {
+    "ko": "QT-HR (시간-시간 단위)",
+    "id": "QT-HR (Unit Jam-Waktu)",
+    "vi": "QT-HR (Đơn vị Giờ-Thời gian)",
+    "zh-CN": "QT-HR (时间-小时单位)",
+    "ja": "QT-HR (時間-時単位)"
+  },
+  "Redeemable for physical SKUs, Space/Idea credits, SaaS usage, or project profit-share dividends.": {
+    "ko": "실물 SKU, Space/Idea 크레딧, SaaS 사용료 또는 프로젝트 수익 공유 배당금으로 교환 가능합니다.",
+    "id": "Dapat ditukarkan dengan SKU fisik, kredit Space/Idea, penggunaan SaaS, atau dividen bagi hasil proyek.",
+    "vi": "Có thể đổi lấy SKU vật lý, tín dụng Space/Idea, sử dụng SaaS hoặc cổ tức chia sẻ lợi nhuận dự án.",
+    "zh-CN": "可兑换实体 SKU、Space/Idea 积分、SaaS 使用费或项目利润分红。",
+    "ja": "物理的SKU、Space/Ideaクレジット、SaaS利用料、またはプロジェクト利益分配配当と交換可能です。"
+  },
+  "Automated 0.5% - 5.0% perpetual micro-royalty split settled at t = 0 via Smart PG 70/30 gateway.": {
+    "ko": "Smart PG 70/30 게이트웨이를 통해 t = 0에서 정산되는 자동 0.5% - 5.0% 영구 마이크로 로열티 분할.",
+    "id": "Pembagian mikro-royalti abadi 0,5% - 5,0% otomatis yang diselesaikan pada t = 0 melalui gateway Smart PG 70/30.",
+    "vi": "Chia sẻ vi bản quyền vĩnh viễn tự động 0,5% - 5,0% được thanh toán tại t = 0 thông qua cổng Smart PG 70/30.",
+    "zh-CN": "通过 Smart PG 70/30 网关在 t = 0 时结算的 0.5% - 5.0% 自动永久微型版税分成。",
+    "ja": "Smart PG 70/30ゲートウェイを介してt = 0で決済される、自動化された0.5%〜5.0%の永久マイクロロイヤリティ分割。"
+  },
+  "8-Team AI ERP automated treasury balancer & C.A.N. CEO ActionNote approval.": {
+    "ko": "8개 팀 AI ERP 자동 자금 밸런서 및 C.A.N. CEO ActionNote 승인.",
+    "id": "Penyeimbang perbendaharaan otomatis AI ERP 8-Tim & persetujuan C.A.N. CEO ActionNote.",
+    "vi": "Bộ cân bằng ngân quỹ tự động AI ERP 8 đội & phê duyệt C.A.N. CEO ActionNote.",
+    "zh-CN": "8 团队 AI ERP 自动资金平衡器及 C.A.N. CEO ActionNote 批准。",
+    "ja": "8チームAI ERP自動財務バランサーおよびC.A.N. CEO ActionNote承認。"
+  },
+  "Figure 6.1 — The 4-Way Qubit Offsetting Loop: Demonstrating how R&D Specialists (Idea/Time Bank), Smart ODM Factories, 8-Base 3PL/Clinic Landlords (Space Bank), and Challengers/Scarlet-AI settle production and distribution simultaneously at t = 0.": {
+    "ko": "그림 6.1 — 4방향 Qubit 상쇄 루프: R&D 전문가(아이디어/시간 은행), 스마트 ODM 공장, 8진법 3PL/클리닉 임대인(공간 은행), Challengers/Scarlet-AI가 t = 0에서 생산과 유통을 동시에 정산하는 방식을 보여줍니다.",
+    "id": "Gambar 6.1 — Loop Offsetting Qubit 4-Arah: Mendemonstrasikan bagaimana Spesialis R&D (Idea/Time Bank), Pabrik ODM Cerdas, Tuan Tanah 3PL/Klinik 8-Basis (Space Bank), dan Challengers/Scarlet-AI menyelesaikan produksi dan distribusi secara serentak pada t = 0.",
+    "vi": "Hình 6.1 — Vòng lặp bù trừ Qubit 4 chiều: Chứng minh cách các Chuyên gia R&D (Ngân hàng Ý tưởng/Thời gian), Nhà máy ODM thông minh, Chủ sở hữu 3PL/Phòng khám 8 cơ sở (Ngân hàng Không gian) và Challengers/Scarlet-AI thanh toán sản xuất và phân phối đồng thời tại t = 0.",
+    "zh-CN": "图 6.1 — 四向 Qubit 抵消循环：展示研发专家（创意/时间银行）、智能 ODM 工厂、8 进制 3PL/诊所业主（空间银行）以及 Challengers/Scarlet-AI 如何在 t = 0 时同时结算生产和分销。",
+    "ja": "図 6.1 — 4方向 Qubit オフセットループ：R&D 専門家（アイデア/タイムバンク）、スマート ODM 工場、8進法 3PL/クリニックの家主（スペースバンク）、および Challengers/Scarlet-AI が、t = 0 で生産と流通を同時に決済する方法を示しています。"
+  },
+  "CHAPTER I • EXECUTIVE MANIFESTO & PROTOCOL GENESIS": {
+    "ko": "제1장 • 경영 선언문 및 프로토콜 기원",
+    "id": "BAB I • MANIFESTO EKSEKUTIF & GENESIS PROTOKOL",
+    "vi": "CHƯƠNG I • TUYÊN NGÔN ĐIỀU HÀNH & NGUỒN GỐC GIAO THỨC",
+    "zh-CN": "第一章 • 执行宣言与协议起源",
+    "ja": "第1章 • エグゼクティブ・マニフェストおよびプロトコルの創世記"
+  },
+  "CHAPTER II • STRUCTURAL BOTTLENECK ANALYSIS": {
+    "ko": "제2장 • 구조적 병목 현상 분석",
+    "id": "BAB II • ANALISIS HAMBATAN STRUKTURAL",
+    "vi": "CHƯƠNG II • PHÂN TÍCH ĐIỂM NGHẼN CẤU TRÚC",
+    "zh-CN": "第二章 • 结构性瓶颈分析",
+    "ja": "第2章 • 構造的ボトルネック分析"
+  },
+  "CLASSICAL DEADWEIGHT LOSS VS. QUANTUM ASSET LIQUIDITY": {
+    "ko": "고전적 사장손실 VS. 퀀텀 자산 유동성",
+    "id": "DEADWEIGHT LOSS KLASIK VS. LIKUIDITAS ASET KUANTUM",
+    "vi": "TỔN THẤT VÔ ÍCH CỔ ĐIỂN VS. THANH KHOẢN TÀI SẢN LƯỢNG TỬ",
+    "zh-CN": "经典无谓损失 VS. 量子资产流动性",
+    "ja": "古典的死重損失 VS. 量子資産流動性"
+  },
+  "CHAPTER VII • INSTITUTIONAL & PARTNER VALUE PROPOSITION": {
+    "ko": "제7장 • 기관 및 파트너 가치 제안",
+    "id": "BAB VII • PROPOSISI NILAI INSTITUSIONAL & MITRA",
+    "vi": "CHƯƠNG VII • ĐỀ XUẤT GIÁ TRỊ ĐỐI TÁC & TỔ CHỨC",
+    "zh-CN": "第七章 • 机构与合作伙伴价值主张",
+    "ja": "第7章 • 機関およびパートナーの価値提案"
+  },
+  "GOVERNANCE, RISK MITIGATION & VC VALUATION MULTIPLIERS": {
+    "ko": "거버넌스, 리스크 완화 및 VC 밸류에이션 멀티플라이어",
+    "id": "TATA KELOLA, MITIGASI RISIKO & MULTIPLIER VALUASI VC",
+    "vi": "QUẢN TRỊ, GIẢM THIỂU RỦI RO & HỆ SỐ ĐỊNH GIÁ VC",
+    "zh-CN": "治理、风险缓解与 VC 估值乘数",
+    "ja": "ガバナンス、リスク軽減、および VC バリュエーション・マルチプライヤー"
+  },
+  "CHAPTER I • EXECUTIVE MANIFESTO & PROTOCOL GENESIS DOMAIN 05 • QUBIT-BIZ • QUBIT BANKS • TRI-PARTITE RESERVE ENGINE": {
+    "ko": "제1장 • 경영 선언문 및 프로토콜 제네시스 도메인 05 • QUBIT-BIZ • QUBIT BANKS • 3자 예비 엔진",
+    "id": "BAB I • MANIFESTO EKSEKUTIF & PROTOKOL GENESIS DOMAIN 05 • QUBIT-BIZ • QUBIT BANKS • MESIN CADANGAN TRI-PARTIT",
+    "vi": "CHƯƠNG I • TUYÊN NGÔN ĐIỀU HÀNH & GIAO THỨC KHỞI NGUYÊN MIỀN 05 • QUBIT-BIZ • QUBIT BANKS • ĐỘNG CƠ DỰ TRỮ TAM PHƯƠNG",
+    "zh-CN": "第一章 • 执行宣言与协议起源领域 05 • QUBIT-BIZ • QUBIT BANKS • 三方储备引擎",
+    "ja": "第1章 • エグゼクティブ・マニフェストおよびプロトコル・ジェネシス・ドメイン 05 • QUBIT-BIZ • QUBIT BANKS • 三者間リザーブ・エンジン"
+  },
+  "3 Standardized Quantum Reserve Units (Time, Space, Idea Ledgers)": {
+    "ko": "3가지 표준화된 양자 예비 단위 (시간, 공간, 아이디어 원장)",
+    "id": "3 Unit Cadangan Kuantum Terstandarisasi (Buku Besar Waktu, Ruang, Ide)",
+    "vi": "3 Đơn vị Dự trữ Lượng tử Tiêu chuẩn hóa (Sổ cái Thời gian, Không gian, Ý tưởng)",
+    "zh-CN": "3 个标准化量子储备单位（时间、空间、创意账本）",
+    "ja": "3つの標準化された量子リザーブユニット（時間、空間、アイデア台帳）"
+  },
+  "Zero-Cash Multi-Lateral Barter & 4-Way Qubit Offsetting at t = 0": {
+    "ko": "t = 0에서의 현금 없는 다자간 물물교환 및 4원 Qubit 상쇄",
+    "id": "Barter Multi-Lateral Tanpa Tunai & Offsetting Qubit 4-Arah pada t = 0",
+    "vi": "Trao đổi Đa phương Không dùng Tiền mặt & Bù trừ Qubit 4 chiều tại t = 0",
+    "zh-CN": "t = 0 时的零现金多边易货与四向 Qubit 抵消",
+    "ja": "t = 0 におけるキャッシュレス多角間バーターおよび4方向 Qubit オフセット"
+  },
+  "Autonomous Overnight Ledger Settlement & CCTV Space Verification": {
+    "ko": "자율 야간 원장 결제 및 CCTV 공간 검증",
+    "id": "Penyelesaian Buku Besar Semalam Otonom & Verifikasi Ruang CCTV",
+    "vi": "Quyết toán Sổ cái Qua đêm Tự động & Xác minh Không gian qua CCTV",
+    "zh-CN": "自主隔夜账本结算与 CCTV 空间验证",
+    "ja": "自律的なオーバーナイト台帳決済および CCTV 空間検証"
+  },
+  "Automated Smart-Gateway Micro-Royalty Distribution for Idea Depositors": {
+    "ko": "아이디어 예치자를 위한 자동화된 스마트 게이트웨이 마이크로 로열티 배분",
+    "id": "Distribusi Royalti Mikro Smart-Gateway Otomatis untuk Deposan Ide",
+    "vi": "Phân phối Vi bản quyền qua Cổng thông minh Tự động cho Người gửi Ý tưởng",
+    "zh-CN": "为创意存款人提供的自动化智能网关微型版税分配",
+    "ja": "アイデア預託者のための自動スマートゲートウェイ・マイクロロイヤリティ分配"
+  },
+  "CHAPTER II • STRUCTURAL BOTTLENECK ANALYSIS CLASSICAL DEADWEIGHT LOSS VS. QUANTUM ASSET LIQUIDITY": {
+    "ko": "제2장 • 구조적 병목 현상 분석: 고전적 사장손실 vs. 양자 자산 유동성",
+    "id": "BAB II • ANALISIS HAMBATAN STRUKTURAL KERUGIAN BEBAN BAKU KLASIK VS. LIKUIDITAS ASET KUANTUM",
+    "vi": "CHƯƠNG II • PHÂN TÍCH ĐIỂM NGHẼN CẤU TRÚC TỔN THẤT VÔ ÍCH CỔ ĐIỂN VS. THANH KHOẢN TÀI SẢN LƯỢNG TỬ",
+    "zh-CN": "第二章 • 结构性瓶颈分析：经典死重损失 vs. 量子资产流动性",
+    "ja": "第II章 • 構造的ボトルネック分析：古典的死荷重損失 vs. 量子資産流動性"
+  },
+  "*SC — Petfood Bank (Re:D): Sovereign Veterinary Bio-Nutrition Reserve": {
+    "ko": "*SC — 펫푸드 뱅크 (Re:D): 주권적 수의학 바이오 영양 예비군",
+    "id": "*SC — Petfood Bank (Re:D): Cadangan Bio-Nutrisi Veteriner Berdaulat",
+    "vi": "*SC — Ngân hàng Thức ăn Thú cưng (Re:D): Dự trữ Sinh học Dinh dưỡng Thú y Chủ quyền",
+    "zh-CN": "*SC — 宠物食品银行 (Re:D)：主权兽医生物营养储备",
+    "ja": "*SC — ペットフードバンク (Re:D)：主権的獣医バイオ栄養リザーブ"
+  },
+  "The 10 PM → 8 AM Overnight Feed Sourcing & Formulation Matching Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 사료 소싱 및 배합 매칭 엔진",
+    "id": "Mesin Pencocokan Formulasi & Pengadaan Pakan Semalam 10 PM → 8 AM",
+    "vi": "Công cụ Khớp Công thức & Nguồn cung Thức ăn Qua đêm 10 PM → 8 AM",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜饲料采购与配方匹配引擎",
+    "ja": "午後10時 → 午前8時 オーバーナイト飼料調達＆配合マッチングエンジン"
+  },
+  "Dual-Engine Vector Grounding: AAFCO & Ministry of Agriculture Standards": {
+    "ko": "듀얼 엔진 벡터 그라운딩: AAFCO 및 농림축산식품부 표준",
+    "id": "Dual-Engine Vector Grounding: Standar AAFCO & Kementerian Pertanian",
+    "vi": "Nền tảng Vector Động cơ kép: Tiêu chuẩn AAFCO & Bộ Nông nghiệp",
+    "zh-CN": "双引擎向量落地：AAFCO 与农业部标准",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：AAFCOおよび農林水産省基準"
+  },
+  "CCTV Vision Cold-Chain Auditing Across Veterinary Distribution Hubs": {
+    "ko": "수의 유통 허브 전반의 CCTV 비전 콜드체인 감사",
+    "id": "Audit Cold-Chain Visi CCTV di Seluruh Hub Distribusi Veteriner",
+    "vi": "Kiểm toán Chuỗi cung ứng lạnh Tầm nhìn CCTV tại các Trung tâm Phân phối Thú y",
+    "zh-CN": "跨兽医分销枢纽的 CCTV 视觉冷链审计",
+    "ja": "獣医流通ハブ全体におけるCCTVビジョン・コールドチェーン監査"
+  },
+  "Human-Grade Sourcing": {
+    "ko": "휴먼 그레이드 원료 소싱",
+    "id": "Pengadaan Bahan Baku Human-Grade",
+    "vi": "Nguồn cung ứng cấp độ thực phẩm cho người",
+    "zh-CN": "人类级原料采购",
+    "ja": "ヒューマングレードの原料調達"
+  },
+  "Algorithmic Species Dosing": {
+    "ko": "알고리즘 기반 종별 투여",
+    "id": "Dosis Spesies Algoritmik",
+    "vi": "Định lượng loài theo thuật toán",
+    "zh-CN": "算法物种给药",
+    "ja": "アルゴリズムによる種別投与"
+  },
+  "Single-Dose Foil Barrier": {
+    "ko": "1회 분량 호일 배리어",
+    "id": "Penghalang Foil Dosis Tunggal",
+    "vi": "Màng nhôm ngăn cách liều đơn",
+    "zh-CN": "单剂量铝箔阻隔",
+    "ja": "1回分アルミ箔バリア"
+  },
+  "Pallet FIFO Verification": {
+    "ko": "팔레트 FIFO 검증",
+    "id": "Verifikasi FIFO Palet",
+    "vi": "Xác minh FIFO pallet",
+    "zh-CN": "托盘 FIFO 验证",
+    "ja": "パレットFIFO検証"
+  },
+  "Packaging Machine Throughput": {
+    "ko": "포장기 처리량",
+    "id": "Throughput Mesin Pengemasan",
+    "vi": "Năng suất máy đóng gói",
+    "zh-CN": "包装机吞吐量",
+    "ja": "包装機のスループット"
+  },
+  "Marine Refinery Scraping: Headless scrapers harvest deep-sea krill oil and fish cartilage lots nearing 90-day inventory turns at Incheon and Busan cold storage facilities.": {
+    "ko": "해양 정제소 스크래핑: 헤드리스 스크래퍼가 인천 및 부산 냉동 창고 시설에서 재고 회전율 90일에 도달한 심해 크릴 오일 및 생선 연골 로트를 수집합니다.",
+    "id": "Scraping Kilang Maritim: Scraper headless memanen lot minyak krill laut dalam dan tulang rawan ikan yang mendekati perputaran inventaris 90 hari di fasilitas penyimpanan dingin Incheon dan Busan.",
+    "vi": "Thu thập dữ liệu nhà máy lọc dầu biển: Các trình thu thập dữ liệu không đầu (headless scrapers) thu thập các lô dầu nhuyễn thể biển sâu và sụn cá sắp đạt chu kỳ quay vòng kho 90 ngày tại các kho lạnh ở Incheon và Busan.",
+    "zh-CN": "海洋精炼厂抓取：无头爬虫程序抓取仁川和釜山冷库设施中库存周转接近 90 天的深海磷虾油和鱼软骨批次。",
+    "ja": "海洋精製所スクレイピング：ヘッドレススクレイパーが、仁川および釜山の冷蔵倉庫施設で在庫回転が90日に近づいている深海オキアミオイルと魚軟骨のロットを収集します。"
+  },
+  "Formulation Compatibility Match: Ingests test certificates into NotebookLM; algorithms recalculate whether the lot can be blended into SISPet Hip & Joint Chews or feline renal broths.": {
+    "ko": "배합 적합성 매칭: 테스트 인증서를 NotebookLM에 입력합니다. 알고리즘은 해당 로트를 SISPet Hip & Joint Chews 또는 고양이 신장 브로스에 혼합할 수 있는지 여부를 재계산합니다.",
+    "id": "Pencocokan Kompatibilitas Formulasi: Memasukkan sertifikat uji ke dalam NotebookLM; algoritma menghitung ulang apakah lot tersebut dapat dicampur ke dalam SISPet Hip & Joint Chews atau kaldu ginjal kucing.",
+    "vi": "Khớp độ tương thích công thức: Nhập các chứng nhận kiểm nghiệm vào NotebookLM; các thuật toán tính toán lại liệu lô hàng có thể được trộn vào SISPet Hip & Joint Chews hoặc nước dùng cho thận của mèo hay không.",
+    "zh-CN": "配方兼容性匹配：将测试证书导入 NotebookLM；算法重新计算该批次是否可以混合到 SISPet Hip & Joint Chews 或猫科肾脏肉汤中。",
+    "ja": "配合適合性マッチング：試験成績書をNotebookLMに取り込みます。アルゴリズムは、そのロットをSISPet Hip & Joint Chewsまたは猫用腎臓スープに配合できるかどうかを再計算します。"
+  },
+  "Consignment PO Release: At 08:00 AM, C.A.N. automatically issues a zero-cash swap offer to the supplier, exchanging dead raw inventory for high-margin finished sachet consignment rights.": {
+    "ko": "위탁 PO 발행: 오전 08:00에 C.A.N.은 공급업체에 현금 제로 스왑 제안을 자동으로 발행하여, 정체된 원자재 재고를 고마진 완제품 파우치 위탁 판매권과 교환합니다.",
+    "id": "Rilis PO Konsinyasi: Pada pukul 08:00 AM, C.A.N. secara otomatis mengeluarkan penawaran swap nol-tunai kepada pemasok, menukar inventaris bahan baku mati dengan hak konsinyasi sachet produk jadi bermargin tinggi.",
+    "vi": "Phát hành đơn hàng ký gửi (PO): Vào lúc 08:00 sáng, C.A.N. tự động đưa ra đề nghị hoán đổi không dùng tiền mặt cho nhà cung cấp, trao đổi kho nguyên liệu thô tồn đọng để lấy quyền ký gửi gói sản phẩm hoàn thiện có biên lợi nhuận cao.",
+    "zh-CN": "寄售采购订单发布：上午 08:00，C.A.N. 自动向供应商发出零现金交换要约，用呆滞原材料库存交换高利润成品小袋寄售权。",
+    "ja": "受託販売PO発行：午前08:00、C.A.N.はサプライヤーに対してキャッシュゼロのスワップオファーを自動的に発行し、滞留原料在庫を高利益の完成品サシェ受託販売権と交換します。"
+  },
+  "AAFCO / FEDIAF Standards": {
+    "ko": "AAFCO / FEDIAF 표준",
+    "id": "Standar AAFCO / FEDIAF",
+    "vi": "Tiêu chuẩn AAFCO / FEDIAF",
+    "zh-CN": "AAFCO / FEDIAF 标准",
+    "ja": "AAFCO / FEDIAF 基準"
+  },
+  "Complete and balanced amino acid, mineral, and vitamin ratios for life stages.": {
+    "ko": "생애 단계별 완전하고 균형 잡힌 아미노산, 미네랄 및 비타민 비율.",
+    "id": "Rasio asam amino, mineral, dan vitamin yang lengkap dan seimbang untuk tahapan kehidupan.",
+    "vi": "Tỷ lệ axit amin, khoáng chất và vitamin đầy đủ và cân bằng cho các giai đoạn sống.",
+    "zh-CN": "针对生命阶段的完整且平衡的氨基酸、矿物质和维生素比例。",
+    "ja": "ライフステージに応じた、完全かつバランスの取れたアミノ酸、ミネラル、ビタミンの比率。"
+  },
+  "Vectorizes full nutritional breakdown against AAFCO dog/cat nutrient profiles.": {
+    "ko": "AAFCO 개/고양이 영양 프로필에 대해 전체 영양 분석을 벡터화합니다.",
+    "id": "Memvektorisasi rincian nutrisi lengkap terhadap profil nutrisi anjing/kucing AAFCO.",
+    "vi": "Vector hóa bảng phân tích dinh dưỡng đầy đủ so với hồ sơ dinh dưỡng cho chó/mèo của AAFCO.",
+    "zh-CN": "根据 AAFCO 狗/猫营养概况对完整的营养成分进行矢量化。",
+    "ja": "AAFCOの犬/猫用栄養プロファイルに対して、完全な栄養成分分析をベクトル化します。"
+  },
+  "100% Minimum Requirement Fulfillment": {
+    "ko": "최소 요구 사항 100% 충족",
+    "id": "Pemenuhan Persyaratan Minimum 100%",
+    "vi": "Đáp ứng 100% yêu cầu tối thiểu",
+    "zh-CN": "100% 满足最低要求",
+    "ja": "100% 最低要件充足"
+  },
+  "Korea MAFRA (Feed Management Act)": {
+    "ko": "대한민국 농림축산식품부 (사료관리법)",
+    "id": "MAFRA Korea (Undang-Undang Manajemen Pakan)",
+    "vi": "MAFRA Hàn Quốc (Luật Quản lý Thức ăn chăn nuôi)",
+    "zh-CN": "韩国农林畜产食品部 (饲料管理法)",
+    "ja": "韓国農林畜産食品部 (飼料管理法)"
+  },
+  "Heavy metals (lead, arsenic, cadmium) and aflatoxin mycotoxin limits.": {
+    "ko": "중금속(납, 비소, 카드뮴) 및 아플라톡신 곰팡이 독소 제한 수치.",
+    "id": "Logam berat (timbal, arsenik, kadmium) dan batas mikotoksin aflatoksin.",
+    "vi": "Kim loại nặng (chì, asen, cadmi) và giới hạn độc tố vi nấm aflatoxin.",
+    "zh-CN": "重金属（铅、砷、镉）和黄曲霉毒素限量。",
+    "ja": "重金属（鉛、ヒ素、カドミウム）およびアフラトキシン・マイコトキシン制限値。"
+  },
+  "Parses third-party lab COA PDFs using Gemini Vision OCR; flags toxic outliers.": {
+    "ko": "Gemini Vision OCR을 사용하여 제3자 실험실 COA PDF를 분석하고 독성 이상치를 표시합니다.",
+    "id": "Menganalisis PDF COA lab pihak ketiga menggunakan Gemini Vision OCR; menandai outlier beracun.",
+    "vi": "Phân tích các tệp PDF COA của phòng thí nghiệm bên thứ ba bằng Gemini Vision OCR; gắn cờ các giá trị ngoại lệ độc hại.",
+    "zh-CN": "使用 Gemini Vision OCR 解析第三方实验室 COA PDF；标记毒性异常值。",
+    "ja": "Gemini Vision OCR を使用してサードパーティのラボ COA PDF を解析し、毒性のある異常値にフラグを立てます。"
+  },
+  "Zero Detection Tolerance": {
+    "ko": "검출 제로 허용 기준",
+    "id": "Toleransi Deteksi Nol",
+    "vi": "Dung sai phát hiện bằng không",
+    "zh-CN": "零检出容忍度",
+    "ja": "不検出許容基準"
+  },
+  "Indonesian Ministry of Agriculture": {
+    "ko": "인도네시아 농업부",
+    "id": "Kementerian Pertanian Republik Indonesia",
+    "vi": "Bộ Nông nghiệp Indonesia",
+    "zh-CN": "印度尼西亚农业部",
+    "ja": "インドネシア農業省"
+  },
+  "Veterinary registration, animal feed import quotas, and Halal integrity.": {
+    "ko": "수의학 등록, 동물 사료 수입 할당량 및 할랄 무결성.",
+    "id": "Registrasi veteriner, kuota impor pakan ternak, dan integritas Halal.",
+    "vi": "Đăng ký thú y, hạn ngạch nhập khẩu thức ăn chăn nuôi và tính toàn vẹn Halal.",
+    "zh-CN": "兽医注册、动物饲料进口配额和清真完整性。",
+    "ja": "獣医登録、動物飼料輸入割当、およびハラール保全。"
+  },
+  "Cross-references Tanjung Priok customs quarantine rules before shipping.": {
+    "ko": "배송 전 탄중 프리오크(Tanjung Priok) 세관 검역 규정을 교차 참조합니다.",
+    "id": "Melakukan referensi silang aturan karantina bea cukai Tanjung Priok sebelum pengiriman.",
+    "vi": "Tham chiếu chéo các quy định kiểm dịch hải quan Tanjung Priok trước khi vận chuyển.",
+    "zh-CN": "发货前交叉引用丹戎不列颠 (Tanjung Priok) 海关检疫规则。",
+    "ja": "出荷前にタンジュン・プリオク税関検疫規則を相互参照します。"
+  },
+  "Pre-Cleared Import Protocol": {
+    "ko": "사전 통관 수입 프로토콜",
+    "id": "Protokol Impor Pra-Kliring",
+    "vi": "Giao thức nhập khẩu đã thông quan trước",
+    "zh-CN": "预清关进口协议",
+    "ja": "事前通関輸入プロトコル"
+  },
+  "Japanese MAFF Standards": {
+    "ko": "일본 MAFF 표준",
+    "id": "Standar MAFF Jepang",
+    "vi": "Tiêu chuẩn MAFF Nhật Bản",
+    "zh-CN": "日本 MAFF 标准",
+    "ja": "日本MAFF基準"
+  },
+  "Pet Food Safety Act traceability, chemical preservative restrictions (BHA/BHT).": {
+    "ko": "반려동물 사료 안전법 추적성, 화학 보존제 제한(BHA/BHT).",
+    "id": "Penelusuran Undang-Undang Keamanan Pakan Hewan, pembatasan pengawet kimia (BHA/BHT).",
+    "vi": "Truy xuất nguồn gốc theo Đạo luật An toàn Thức ăn cho Thú cưng, các hạn chế về chất bảo quản hóa học (BHA/BHT).",
+    "zh-CN": "宠物食品安全法可追溯性、化学防腐剂限制 (BHA/BHT)。",
+    "ja": "ペットフード安全法トレーサビリティ、化学保存料制限（BHA/BHT）。"
+  },
+  "Excludes artificial synthetic preservatives; mandates natural tocopherol stabilization.": {
+    "ko": "인공 합성 보존제 제외, 천연 토코페롤 안정화 의무화.",
+    "id": "Mengecualikan pengawet sintetis buatan; mewajibkan stabilisasi tokoferol alami.",
+    "vi": "Loại trừ các chất bảo quản tổng hợp nhân tạo; bắt buộc ổn định tocopherol tự nhiên.",
+    "zh-CN": "排除人工合成防腐剂；强制要求天然生育酚稳定。",
+    "ja": "人工合成保存料を除外。天然トコフェロール安定化を義務付け。"
+  },
+  "Strict PMDA/MAFF Conformance": {
+    "ko": "엄격한 PMDA/MAFF 준수",
+    "id": "Kepatuhan PMDA/MAFF yang Ketat",
+    "vi": "Tuân thủ nghiêm ngặt PMDA/MAFF",
+    "zh-CN": "严格遵守 PMDA/MAFF 标准",
+    "ja": "厳格な PMDA/MAFF 準拠"
+  },
+  "Tower 1: Veterinary & Clinical Safety (RA)": {
+    "ko": "타워 1: 수의학 및 임상 안전 (RA)",
+    "id": "Menara 1: Keamanan Veteriner & Klinis (RA)",
+    "vi": "Tháp 1: An toàn Thú y & Lâm sàng (RA)",
+    "zh-CN": "塔楼 1：兽医与临床安全 (RA)",
+    "ja": "タワー 1: 獣医および臨床安全性 (RA)"
+  },
+  "Enforces mandatory lab COA checks, microbiological assays, and strict species toxicity screening.": {
+    "ko": "필수 실험실 COA 확인, 미생물 분석 및 엄격한 종 독성 스크리닝을 시행합니다.",
+    "id": "Menegakkan pemeriksaan COA laboratorium wajib, pengujian mikrobiologis, dan penyaringan toksisitas spesies yang ketat.",
+    "vi": "Thực thi kiểm tra COA phòng thí nghiệm bắt buộc, xét nghiệm vi sinh và sàng lọc độc tính loài nghiêm ngặt.",
+    "zh-CN": "强制执行实验室 COA 检查、微生物分析和严格的物种毒性筛查。",
+    "ja": "必須のラボ COA チェック、微生物学的アッセイ、および厳格な種毒性スクリーニングを強制します。"
+  },
+  "Zero product recalls or pet safety liability incidents across all operating bases.": {
+    "ko": "모든 운영 기지에서 제품 리콜 또는 반려동물 안전 책임 사고가 발생하지 않았습니다.",
+    "id": "Nol penarikan produk atau insiden tanggung jawab keamanan hewan peliharaan di seluruh basis operasi.",
+    "vi": "Không có đợt thu hồi sản phẩm hoặc sự cố trách nhiệm an toàn cho thú cưng tại tất cả các cơ sở hoạt động.",
+    "zh-CN": "在所有运营基地中，产品召回或宠物安全责任事故均为零。",
+    "ja": "すべての事業拠点において、製品のリコールやペットの安全責任事故はゼロです。"
+  },
+  "Tower 2: Treasury & Asset Clearing (VAT)": {
+    "ko": "타워 2: 재무 및 자산 정산 (VAT)",
+    "id": "Menara 2: Perbendaharaan & Kliring Aset (VAT)",
+    "vi": "Tháp 2: Kho bạc & Thanh toán Tài sản (VAT)",
+    "zh-CN": "塔楼 2：财务与资产清算 (VAT)",
+    "ja": "タワー 2: 財務および資産クリアリング (VAT)"
+  },
+  "Audits non-cash asset swaps, calculating equivalent tax deductions for corporate bio-active ingredient donors.": {
+    "ko": "비현금 자산 스왑을 감사하여 기업 바이오 활성 성분 기부자에 대한 등가 세금 공제액을 계산합니다.",
+    "id": "Mengaudit pertukaran aset non-tunai, menghitung pengurangan pajak yang setara untuk donor bahan bio-aktif perusahaan.",
+    "vi": "Kiểm toán các giao dịch hoán đổi tài sản phi tiền mặt, tính toán các khoản khấu trừ thuế tương đương cho các nhà tài trợ thành phần hoạt tính sinh học của doanh nghiệp.",
+    "zh-CN": "审计非现金资产交换，计算企业生物活性成分捐赠者的等效税收减免。",
+    "ja": "非現金資産スワップを監査し、企業のバイオ活性成分ドナーに対する同等の税額控除を計算します。"
+  },
+  "Compliant corporate social responsibility (CSR) tax credits issued to donors.": {
+    "ko": "기부자에게 발행된 준수 기업의 사회적 책임(CSR) 세액 공제.",
+    "id": "Kredit pajak tanggung jawab sosial perusahaan (CSR) yang patuh yang diberikan kepada donor.",
+    "vi": "Tín dụng thuế trách nhiệm xã hội của doanh nghiệp (CSR) tuân thủ được cấp cho các nhà tài trợ.",
+    "zh-CN": "向捐赠者发放的合规企业社会责任 (CSR) 税收抵免。",
+    "ja": "寄付者に発行された準拠した企業の社会的責任（CSR）税額控除。"
+  },
+  "Tower 3: Cold-Chain Logistics Gate (CCTV)": {
+    "ko": "타워 3: 콜드체인 물류 게이트 (CCTV)",
+    "id": "Menara 3: Gerbang Logistik Rantai Dingin (CCTV)",
+    "vi": "Tháp 3: Cổng hậu cần chuỗi cung ứng lạnh (CCTV)",
+    "zh-CN": "3 号塔：冷链物流门 (CCTV)",
+    "ja": "タワー3：コールドチェーン物流ゲート（CCTV）"
+  },
+  "Locks distribution webhooks if cold storage temperatures exceed allowable safety envelopes.": {
+    "ko": "저온 저장 온도가 허용 안전 범위를 초과하면 배포 웹훅을 잠급니다.",
+    "id": "Mengunci webhook distribusi jika suhu penyimpanan dingin melebihi batas aman yang diizinkan.",
+    "vi": "Khóa các webhook phân phối nếu nhiệt độ kho lạnh vượt quá phạm vi an toàn cho phép.",
+    "zh-CN": "如果冷藏温度超过允许的安全范围，则锁定分发 Webhook。",
+    "ja": "冷蔵温度が許容安全範囲を超えた場合、配信ウェブフックをロックします。"
+  },
+  "Guarantees bio-active integrity from factory filling to pet bowl.": {
+    "ko": "공장 충전부터 반려동물 그릇까지 생체 활성 무결성을 보장합니다.",
+    "id": "Menjamin integritas bio-aktif dari pengisian pabrik hingga mangkuk hewan peliharaan.",
+    "vi": "Đảm bảo tính toàn vẹn hoạt tính sinh học từ khâu đóng gói tại nhà máy đến bát của thú cưng.",
+    "zh-CN": "保证从工厂填充到宠物碗的生物活性完整性。",
+    "ja": "工場の充填からペットのボウルまで、バイオアクティブの完全性を保証します。"
+  },
+  "Regulatory Framework": {
+    "ko": "규제 프레임워크",
+    "id": "Kerangka Regulasi",
+    "vi": "Khung quy định",
+    "zh-CN": "监管框架",
+    "ja": "規制枠組み"
+  },
+  "How NotebookLM / Dify Verifies": {
+    "ko": "NotebookLM / Dify 검증 방식",
+    "id": "Cara NotebookLM / Dify Memverifikasi",
+    "vi": "Cách NotebookLM / Dify xác minh",
+    "zh-CN": "NotebookLM / Dify 如何验证",
+    "ja": "NotebookLM / Dify の検証方法"
+  },
+  "Safety Threshold": {
+    "ko": "안전 임계값",
+    "id": "Ambang Batas Keamanan",
+    "vi": "Ngưỡng an toàn",
+    "zh-CN": "安全阈值",
+    "ja": "安全しきい値"
+  },
+  "Chapter 01 • Veterinary Reserve Nexus": {
+    "ko": "제01장 • 수의 예비 넥서스",
+    "id": "Bab 01 • Nexus Cadangan Veteriner",
+    "vi": "Chương 01 • Liên kết Dự trữ Thú y",
+    "zh-CN": "第 01 章 • 兽医储备枢纽",
+    "ja": "第01章 • 獣医リザーブ・ネクサス"
+  },
+  "Circular Bio-Nutrition Clearing": {
+    "ko": "순환 바이오 영양 클리어링",
+    "id": "Kliring Bio-Nutrisi Sirkular",
+    "vi": "Thanh toán bù trừ dinh dưỡng sinh học tuần hoàn",
+    "zh-CN": "循环生物营养结算",
+    "ja": "循環型バイオ栄養クリアリング"
+  },
+  "Chapter 02 • Circular Bio-Recovery": {
+    "ko": "제02장 • 순환 바이오 회복",
+    "id": "Bab 02 • Pemulihan Bio Sirkular",
+    "vi": "Chương 02 • Phục hồi sinh học tuần hoàn",
+    "zh-CN": "第 02 章 • 循环生物回收",
+    "ja": "第02章 • 循環型バイオ・リカバリー"
+  },
+  "Auto-Formulator R1 Formulation": {
+    "ko": "Auto-Formulator R1 배합",
+    "id": "Formulasi Auto-Formulator R1",
+    "vi": "Công thức Auto-Formulator R1",
+    "zh-CN": "Auto-Formulator R1 配方",
+    "ja": "Auto-Formulator R1 フォーミュレーション"
+  },
+  "100% Upcycling of Human-Grade Bio-Nutritional Surpluses": {
+    "ko": "휴먼 그레이드 바이오 영양 잉여물의 100% 업사이클링",
+    "id": "100% Upcycling dari Surplus Bio-Nutrisi Kelas Manusia",
+    "vi": "Tái chế 100% dư thừa dinh dưỡng sinh học cấp độ thực phẩm cho người",
+    "zh-CN": "100% 人类级生物营养剩余物的升级再造",
+    "ja": "ヒューマングレードのバイオ栄養余剰物の100%アップサイクリング"
+  },
+  "Partner Veterinary Hospitals Across Korea, Indonesia & Japan": {
+    "ko": "한국, 인도네시아, 일본 전역의 파트너 동물병원",
+    "id": "Rumah Sakit Hewan Mitra di Seluruh Korea, Indonesia & Jepang",
+    "vi": "Các bệnh viện thú y đối tác tại Hàn Quốc, Indonesia & Nhật Bản",
+    "zh-CN": "韩国、印度尼西亚和日本境内的合作伙伴动物医院",
+    "ja": "韓国、インドネシア、日本全域の提携動物病院"
+  },
+  "Single-Dose Clinical Sachet Formats for Zero Oxidation": {
+    "ko": "산화 방지를 위한 1회 분량 임상용 사셰 포맷",
+    "id": "Format Sachet Klinis Dosis Tunggal untuk Nol Oksidasi",
+    "vi": "Định dạng gói sachet lâm sàng liều đơn giúp chống oxy hóa tuyệt đối",
+    "zh-CN": "零氧化的单剂量临床小袋包装格式",
+    "ja": "酸化ゼロを実現する単回投与用臨床サシェ形式"
+  },
+  "Automated Clearing Split Supporting Welfare & Clinic Operations": {
+    "ko": "복지 및 클리닉 운영을 지원하는 자동 정산 분할",
+    "id": "Pemisahan Kliring Otomatis yang Mendukung Operasi Kesejahteraan & Klinik",
+    "vi": "Tự động phân chia thanh toán hỗ trợ các hoạt động phúc lợi & phòng khám",
+    "zh-CN": "支持福利和诊所运营的自动清算拆分",
+    "ja": "福祉およびクリニック運営を支援する自動清算分割"
+  },
+  "Chapter 02 • Circular Bio-Recovery Auto-Formulator R1 Formulation": {
+    "ko": "Chapter 02 • 순환 바이오 회수 자동 포뮬레이터 R1 포뮬레이션",
+    "id": "Chapter 02 • Formulasi R1 Auto-Formulator Pemulihan Bio Sirkular",
+    "vi": "Chương 02 • Công thức R1 của Máy tạo công thức tự động phục hồi sinh học tuần hoàn",
+    "zh-CN": "第 02 章 • 循环生物回收自动配方器 R1 配方",
+    "ja": "第02章 • 循環型バイオリカバリー自動フォーミュレーター R1 フォーミュレーション"
+  },
+  "Chapter 03 • Supply Intelligence Overnight Feed Matching": {
+    "ko": "Chapter 03 • 공급 지능형 야간 사료 매칭",
+    "id": "Chapter 03 • Pencocokan Pakan Semalam Intelijen Pasokan",
+    "vi": "Chương 03 • Đối khớp thức ăn qua đêm bằng trí tuệ cung ứng",
+    "zh-CN": "第 03 章 • 供应智能隔夜饲料匹配",
+    "ja": "第03章 • サプライインテリジェンス・オーバーナイト・フィードマッチング"
+  },
+  "Chapter 04 • Clinical Standards AAFCO & Agricultural Compliance": {
+    "ko": "제04장 • 임상 표준 AAFCO 및 농업 규정 준수",
+    "id": "Bab 04 • Standar Klinis AAFCO & Kepatuhan Pertanian",
+    "vi": "Chương 04 • Tiêu chuẩn Lâm sàng AAFCO & Tuân thủ Nông nghiệp",
+    "zh-CN": "第04章 • 临床标准 AAFCO 与农业合规",
+    "ja": "第04章 • 臨床基準 AAFCO および農業コンプライアンス"
+  },
+  "Chapter 05 • Cold-Chain Inventory CCTV Optical Stock Opname": {
+    "ko": "제05장 • 콜드체인 재고 CCTV 광학 재고 조사",
+    "id": "Bab 05 • Inventaris Rantai Dingin CCTV Optical Stock Opname",
+    "vi": "Chương 05 • Kiểm kê Chuỗi cung ứng lạnh CCTV Optical Stock Opname",
+    "zh-CN": "第05章 • 冷链库存 CCTV 光学库存盘点",
+    "ja": "第05章 • コールドチェーン在庫 CCTV 光学実地棚卸"
+  },
+  "*SC — Qubit Banks: The Sovereign 4-Way Quantum Resource Clearinghouse": {
+    "ko": "*SC — Qubit Banks: 주권적 4방향 양자 자원 청산소",
+    "id": "*SC — Qubit Banks: Lembaga Kliring Sumber Daya Kuantum 4-Arah yang Berdaulat",
+    "vi": "*SC — Qubit Banks: Trung tâm Thanh toán Bù trừ Nguồn lực Lượng tử 4 Chiều Chủ quyền",
+    "zh-CN": "*SC — Qubit Banks：主权四向量子资源清算所",
+    "ja": "*SC — Qubit Banks: 主権的4方向量子リソース清算所"
+  },
+  "The 4-Way Clearing Architecture: Time, Space, Idea & Petfood": {
+    "ko": "4방향 청산 아키텍처: 시간, 공간, 아이디어 및 펫푸드",
+    "id": "Arsitektur Kliring 4-Arah: Waktu, Ruang, Ide & Makanan Hewan",
+    "vi": "Kiến trúc Thanh toán 4 Chiều: Thời gian, Không gian, Ý tưởng & Thức ăn Thú cưng",
+    "zh-CN": "四向清算架构：时间、空间、创意与宠物食品",
+    "ja": "4方向清算アーキテクチャ：時間、空間、アイデア、およびペットフード"
+  },
+  "The 10 PM → 8 AM Overnight Resource Matching & Valuation Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 자원 매칭 및 가치 평가 엔진",
+    "id": "Mesin Pencocokan & Valuasi Sumber Daya Semalam 10 PM → 8 AM",
+    "vi": "Công cụ Định giá & Khớp lệnh Nguồn lực Qua đêm 10 PM → 8 AM",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜资源匹配与估值引擎",
+    "ja": "午後10時 → 午前8時 オーバーナイト・リソースマッチング＆評価エンジン"
+  },
+  "Automated Offsetting Cycle (Executed 22:00 → 08:00 Local)": {
+    "ko": "자동 상계 주기 (현지 시간 22:00 → 08:00 실행)",
+    "id": "Siklus Offsetting Otomatis (Dieksekusi 22:00 → 08:00 Lokal)",
+    "vi": "Chu kỳ bù trừ tự động (Thực hiện 22:00 → 08:00 địa phương)",
+    "zh-CN": "自动抵消周期（当地时间 22:00 → 08:00 执行）",
+    "ja": "自動相殺サイクル（現地時間 22:00 → 08:00 実行）"
+  },
+  "3D Volumetric Mesh Modeling": {
+    "ko": "3D 볼륨 메쉬 모델링",
+    "id": "Pemodelan Mesh Volumetrik 3D",
+    "vi": "Mô hình hóa lưới thể tích 3D",
+    "zh-CN": "3D 体积网格建模",
+    "ja": "3D ボリュメトリック メッシュ モデリング"
+  },
+  "Warung Sachet Placard Audits": {
+    "ko": "Warung Sachet 플래카드 감사",
+    "id": "Audit Plakat Warung Sachet",
+    "vi": "Kiểm toán bảng hiệu Warung Sachet",
+    "zh-CN": "Warung Sachet 标牌审计",
+    "ja": "Warung Sachet プラカード監査"
+  },
+  "Serving as the financial clearinghouse of Domain 05 (qubit-biz), Qubit Banks eradicates working-capital starvation across the Signal Star Universe. By orchestrating a unified non-cash reserve matrix—spanning Time Bank (human specialist bandwidth), Space Bank (3PL cubic volume and retail shelves), Idea Bank (R&D formulations and software blueprints), and Petfood Bank (circular bio-nutrition)—enterprises and Challengers execute international trade at t = 0 with zero fiat debt.": {
+    "ko": "Domain 05 (qubit-biz)의 금융 청산소 역할을 하는 Qubit Banks는 Signal Star Universe 전반의 운전 자본 부족을 근절합니다. Time Bank(전문 인력 대역폭), Space Bank(3PL 입방 부피 및 소매 선반), Idea Bank(R&D 포뮬러 및 소프트웨어 청사진), Petfood Bank(순환 바이오 영양)를 아우르는 통합 비현금 예비 매트릭스를 조율함으로써 기업과 Challengers는 법정 화폐 부채 없이 t = 0에서 국제 무역을 실행합니다.",
+    "id": "Berperan sebagai lembaga kliring keuangan Domain 05 (qubit-biz), Qubit Banks menghapuskan kelangkaan modal kerja di seluruh Signal Star Universe. Dengan mengoordinasikan matriks cadangan non-tunai terpadu—mencakup Time Bank (bandwidth spesialis manusia), Space Bank (volume kubik 3PL dan rak ritel), Idea Bank (formulasi R&D dan cetak biru perangkat lunak), dan Petfood Bank (bio-nutrisi sirkular)—perusahaan dan Challengers mengeksekusi perdagangan internasional pada t = 0 dengan nol utang fiat.",
+    "vi": "Đóng vai trò là trung tâm thanh toán bù trừ tài chính của Domain 05 (qubit-biz), Qubit Banks xóa bỏ tình trạng thiếu hụt vốn lưu động trên khắp Signal Star Universe. Bằng cách điều phối một ma trận dự trữ phi tiền mặt thống nhất—bao gồm Time Bank (băng thông chuyên gia con người), Space Bank (thể tích khối 3PL và kệ bán lẻ), Idea Bank (công thức R&D và bản thiết kế phần mềm) và Petfood Bank (dinh dưỡng sinh học tuần hoàn)—các doanh nghiệp và Challengers thực hiện giao dịch quốc tế tại t = 0 với mức nợ fiat bằng không.",
+    "zh-CN": "作为 Domain 05 (qubit-biz) 的金融结算中心，Qubit Banks 消除了整个 Signal Star Universe 的营运资金匮乏。通过协调统一的非现金储备矩阵——涵盖 Time Bank（人类专家带宽）、Space Bank（3PL 立方体积和零售货架）、Idea Bank（研发配方和软件蓝图）以及 Petfood Bank（循环生物营养）——企业和 Challengers 能够在 t = 0 时以零法定货币债务执行国际贸易。",
+    "ja": "Domain 05 (qubit-biz) の金融清算機関として機能する Qubit Banks は、Signal Star Universe 全体の運転資金不足を根絶します。Time Bank（専門家の帯域幅）、Space Bank（3PL の容積と小売棚）、Idea Bank（R&D 処方とソフトウェアの設計図）、Petfood Bank（循環型バイオ栄養）にわたる統合された非現金準備マトリックスを編成することにより、企業と Challengers は法定通貨の負債ゼロで t = 0 において国際貿易を実行します。"
+  },
+  "In classical economics, over 65% of productive enterprise capacity is wasted every 24 hours: specialist professionals sit on unbilled hours, 3PL warehouses carry empty pallet positions, validated formulations gather dust on university shelves, and pet nutrition goes unutilized. Classical banks offer only rigid debt with high interest rates and collateral requirements. Qubit Banks collateralizes these idle productive assets into liquid quantum clearing units (QT-HR, QS-CBM, QI-IP, QP-FEED), settling cross-border trade obligations instantaneously.": {
+    "ko": "고전 경제학에서는 생산적인 기업 역량의 65% 이상이 매 24시간마다 낭비됩니다. 전문 인력은 청구되지 않은 시간에 머물러 있고, 3PL 창고는 빈 팔레트 위치를 차지하며, 검증된 포뮬러는 대학 선반에서 먼지만 쌓이고, 반려동물 영양은 활용되지 않습니다. 고전적인 은행은 높은 이자율과 담보 요건이 있는 경직된 부채만을 제공합니다. Qubit Banks는 이러한 유휴 생산 자산을 유동적인 양자 청산 단위(QT-HR, QS-CBM, QI-IP, QP-FEED)로 담보화하여 국경 간 무역 의무를 즉각적으로 결제합니다.",
+    "id": "Dalam ekonomi klasik, lebih dari 65% kapasitas perusahaan produktif terbuang setiap 24 jam: profesional spesialis duduk di jam-jam yang tidak ditagih, gudang 3PL membawa posisi palet kosong, formulasi yang divalidasi berdebu di rak universitas, dan nutrisi hewan peliharaan tidak dimanfaatkan. Bank klasik hanya menawarkan utang kaku dengan suku bunga tinggi dan persyaratan agunan. Qubit Banks menjaminkan aset produktif yang menganggur ini menjadi unit kliring kuantum cair (QT-HR, QS-CBM, QI-IP, QP-FEED), menyelesaikan kewajiban perdagangan lintas batas secara instan.",
+    "vi": "Trong kinh tế học cổ điển, hơn 65% năng lực sản xuất của doanh nghiệp bị lãng phí sau mỗi 24 giờ: các chuyên gia ngồi không trong những giờ không được tính phí, kho bãi 3PL mang những vị trí pallet trống, các công thức đã được xác thực bám bụi trên kệ đại học và dinh dưỡng cho thú cưng không được sử dụng. Các ngân hàng cổ điển chỉ cung cấp các khoản nợ cứng nhắc với lãi suất cao và yêu cầu tài sản thế chấp. Qubit Banks thế chấp các tài sản sản xuất nhàn rỗi này thành các đơn vị thanh toán bù trừ lượng tử thanh khoản (QT-HR, QS-CBM, QI-IP, QP-FEED), giải quyết các nghĩa vụ thương mại xuyên biên giới ngay lập tức.",
+    "zh-CN": "在古典经济学中，超过 65% 的生产性企业产能每 24 小时就会被浪费掉：专业人士处于未计费时间，3PL 仓库存在空托盘位，经过验证的配方在大学货架上积灰，宠物营养未被利用。传统银行只提供高利率和高抵押要求的僵化债务。Qubit Banks 将这些闲置的生产性资产抵押为流动的量子结算单位（QT-HR、QS-CBM、QI-IP、QP-FEED），即时结算跨境贸易义务。",
+    "ja": "古典経済学では、生産的な企業能力の 65% 以上が 24 時間ごとに浪費されています。専門家は請求されない時間に座り、3PL 倉庫は空のパレット位置を抱え、検証済みの処方は大学の棚で埃をかぶり、ペットの栄養は活用されません。従来の銀行は、高金利と担保要件を伴う硬直的な負債のみを提供します。Qubit Banks は、これらのアイドル状態の生産資産を流動的な量子清算ユニット（QT-HR、QS-CBM、QI-IP、QP-FEED）に担保化し、国境を越えた貿易義務を即座に決済します。"
+  },
+  "Each bank in the Qubit Banks cluster standardizes a specific latent asset into an auditable, transferable accounting unit backed by physical and intellectual collateral across our 8 international bases.": {
+    "ko": "Qubit Banks 클러스터의 각 은행은 8개 국제 기지에 걸친 물리적 및 지적 담보로 뒷받침되는 감사 가능하고 양도 가능한 회계 단위로 특정 잠재 자산을 표준화합니다.",
+    "id": "Setiap bank dalam klaster Qubit Banks menstandarisasi aset laten tertentu menjadi unit akuntansi yang dapat diaudit dan dialihkan, yang didukung oleh agunan fisik dan intelektual di 8 basis internasional kami.",
+    "vi": "Mỗi ngân hàng trong cụm Qubit Banks tiêu chuẩn hóa một tài sản tiềm ẩn cụ thể thành một đơn vị kế toán có thể kiểm toán, có thể chuyển nhượng được bảo đảm bằng tài sản thế chấp vật chất và trí tuệ tại 8 cơ sở quốc tế của chúng tôi.",
+    "zh-CN": "Qubit Banks 集群中的每家银行都将特定的潜在资产标准化为可审计、可转让的会计单位，并由我们 8 个国际基地的实体和知识抵押品提供支持。",
+    "ja": "Qubit Banks クラスターの各銀行は、特定の潜在資産を、8 つの国際拠点にわたる物理的および知的担保に裏打ちされた、監査可能で譲渡可能な会計単位に標準化します。"
+  },
+  "Tokenizes fractional specialist hours (cosmetic chemists, lawyers, veterinarians, translators, Challengers) into QT-HR units. Contributors deposit hours and redeem finished physical SKUs or profit shares.": {
+    "ko": "전문 인력의 시간(화장품 화학자, 변호사, 수의사, 번역가, Challengers)을 분할하여 QT-HR 단위로 토큰화합니다. 기여자는 시간을 예치하고 완성된 물리적 SKU 또는 수익 지분을 상환받습니다.",
+    "id": "Menokenkan jam spesialis fraksional (ahli kimia kosmetik, pengacara, dokter hewan, penerjemah, Challengers) ke dalam unit QT-HR. Kontributor menyetorkan jam kerja dan menukarkannya dengan SKU fisik yang sudah jadi atau bagi hasil.",
+    "vi": "Mã hóa các giờ chuyên gia phân đoạn (nhà hóa mỹ phẩm, luật sư, bác sĩ thú y, thông dịch viên, Challengers) thành các đơn vị QT-HR. Những người đóng góp gửi giờ làm việc và đổi lấy các SKU vật lý thành phẩm hoặc chia sẻ lợi nhuận.",
+    "zh-CN": "将碎片化的专家工时（化妆品化学师、律师、兽医、翻译人员、Challengers）代币化为 QT-HR 单位。贡献者存入工时，并兑换成品物理 SKU 或利润分红。",
+    "ja": "専門家の断片的な時間（化粧品化学者、弁護士、獣医、翻訳者、Challengers）を QT-HR 単位にトークン化します。貢献者は時間を預け入れ、完成した物理的 SKU または利益配分と交換します。"
+  },
+  "Tokenizes empty warehouse pallet racks, cold storage (2°C - 8°C), and warung display bays into QS-CBM units, verified by optical CCTV cameras in Seoul, Jakarta, and Ho Chi Minh City.": {
+    "ko": "빈 창고 팔레트 랙, 저온 저장고(2°C - 8°C), warung 진열대를 QS-CBM 단위로 토큰화하며, 서울, 자카르타, 호치민시의 광학 CCTV 카메라로 검증합니다.",
+    "id": "Menokenkan rak palet gudang yang kosong, penyimpanan dingin (2°C - 8°C), dan rak pajangan warung ke dalam unit QS-CBM, yang diverifikasi oleh kamera CCTV optik di Seoul, Jakarta, dan Ho Chi Minh City.",
+    "vi": "Mã hóa các giá đỡ pallet kho trống, kho lạnh (2°C - 8°C) và các ngăn trưng bày warung thành các đơn vị QS-CBM, được xác minh bằng camera CCTV quang học tại Seoul, Jakarta và Thành phố Hồ Chí Minh.",
+    "zh-CN": "将空置的仓库托盘架、冷藏库（2°C - 8°C）和 warung 展示架代币化为 QS-CBM 单位，并通过首尔、雅加达和胡志明市的光学 CCTV 摄像头进行验证。",
+    "ja": "空の倉庫パレットラック、冷温貯蔵庫（2°C - 8°C）、および warung 展示ベイを QS-CBM 単位にトークン化し、ソウル、ジャカルタ、ホーチミン市の光学 CCTV カメラで検証します。"
+  },
+  "Registers bio-actives, Auto-Formulator recipes, and Cosmo Seed™ business blueprints inside our RAG vault as QI-IP units, triggering perpetual micro-royalties on global checkouts.": {
+    "ko": "바이오 활성 성분, Auto-Formulator 레시피, Cosmo Seed™ 비즈니스 청사진을 RAG 금고 내에 QI-IP 단위로 등록하여 글로벌 결제 시 영구적인 마이크로 로열티를 발생시킵니다.",
+    "id": "Mendaftarkan bahan aktif bio, resep Auto-Formulator, dan cetak biru bisnis Cosmo Seed™ di dalam brankas RAG kami sebagai unit QI-IP, yang memicu royalti mikro abadi pada checkout global.",
+    "vi": "Đăng ký các hoạt chất sinh học, công thức Auto-Formulator và bản thiết kế kinh doanh Cosmo Seed™ bên trong kho lưu trữ RAG của chúng tôi dưới dạng các đơn vị QI-IP, kích hoạt phí bản quyền vi mô vĩnh viễn trên các giao dịch thanh toán toàn cầu.",
+    "zh-CN": "将生物活性物质、Auto-Formulator 配方和 Cosmo Seed™ 业务蓝图作为 QI-IP 单位注册在我们的 RAG 金库中，从而在全球结账时触发永久性的微型版税。",
+    "ja": "バイオ活性物質、Auto-Formulator レシピ、および Cosmo Seed™ ビジネス設計図を QI-IP 単位として RAG ヴォルト内に登録し、グローバルな決済時に永続的なマイクロロイヤリティを発生させます。"
+  },
+  "Upcycles human-grade surplus active ingredients into clinical single-dose sachets (QP-FEED), supplying veterinary clinics and animal welfare sanctuaries without cash drain.": {
+    "ko": "인간 등급의 잉여 활성 성분을 임상용 단일 용량 파우치(QP-FEED)로 업사이클링하여 현금 유출 없이 수의과 클리닉 및 동물 복지 보호소에 공급합니다.",
+    "id": "Mendaur ulang bahan aktif surplus tingkat manusia menjadi sachet dosis tunggal klinis (QP-FEED), memasok klinik hewan dan tempat perlindungan kesejahteraan hewan tanpa pengeluaran uang tunai.",
+    "vi": "Tái chế các thành phần hoạt tính dư thừa cấp độ con người thành các gói đơn liều lâm sàng (QP-FEED), cung cấp cho các phòng khám thú y và khu bảo tồn động vật mà không tốn tiền mặt.",
+    "zh-CN": "将人类级别的剩余活性成分升级再造为临床单剂量小袋 (QP-FEED)，在不消耗现金的情况下供应给兽医诊所和动物福利收容所。",
+    "ja": "人間グレードの余剰活性成分を臨床用単回投与サシェ（QP-FEED）にアップサイクルし、現金の流出なしに獣医クリニックや動物愛護施設に供給します。"
+  },
+  "Non-cash bartering historically failed because calculating fair exchange ratios across heterogeneous goods (e.g., 10 hours of legal translation vs. 4 empty warehouse pallet bays) was subjective and slow. Qubit Banks solves this through overnight algorithmic pricing.": {
+    "ko": "비현금 물물교환은 이질적인 상품 간의 공정한 교환 비율(예: 법률 번역 10시간 대 빈 창고 팔레트 베이 4개)을 계산하는 것이 주관적이고 느렸기 때문에 역사적으로 실패했습니다. Qubit Banks는 야간 알고리즘 가격 책정을 통해 이를 해결합니다.",
+    "id": "Barter non-tunai secara historis gagal karena penghitungan rasio pertukaran yang adil di berbagai barang heterogen (misalnya, 10 jam terjemahan hukum vs. 4 rak palet gudang yang kosong) bersifat subjektif dan lambat. Qubit Banks menyelesaikan ini melalui penetapan harga algoritmik semalam.",
+    "vi": "Trao đổi hàng hóa không dùng tiền mặt trong lịch sử đã thất bại vì việc tính toán tỷ lệ trao đổi công bằng giữa các loại hàng hóa không đồng nhất (ví dụ: 10 giờ dịch thuật pháp lý so với 4 ngăn pallet kho trống) mang tính chủ quan và chậm chạp. Qubit Banks giải quyết vấn đề này thông qua định giá bằng thuật toán qua đêm.",
+    "zh-CN": "非现金易货贸易在历史上之所以失败，是因为计算异质商品（例如 10 小时法律翻译与 4 个空仓库托盘位）之间的公平交换比例既主观又缓慢。Qubit Banks 通过隔夜算法定价解决了这个问题。",
+    "ja": "非現金の物物交換は、異種商品間（例：10時間の法律翻訳対4つの空の倉庫パレットベイ）の公正な交換比率の計算が主観的で遅かったため、歴史的に失敗してきました。Qubit Banks は、オーバーナイトのアルゴリズム価格設定を通じてこれを解決します。"
+  },
+  "While markets sleep, the Overnight Data Factory ingests current wholesale spot rates, local labor indexes, and cold-storage leasing tariffs across Seoul, Jakarta, Singapore, and Los Angeles. It continuously solves a linear programming balance sheet matrix that clears mutual obligations across all projects simultaneously.": {
+    "ko": "시장이 잠든 동안 Overnight Data Factory는 서울, 자카르타, 싱가포르, 로스앤젤레스의 현재 도매 현물 가격, 현지 노동 지수, 저온 저장 임대 요금을 수집합니다. 이는 모든 프로젝트의 상호 의무를 동시에 정리하는 선형 계획법 대차대조표 매트릭스를 지속적으로 해결합니다.",
+    "id": "Saat pasar tidur, Overnight Data Factory menyerap tarif spot grosir saat ini, indeks tenaga kerja lokal, dan tarif sewa penyimpanan dingin di Seoul, Jakarta, Singapura, dan Los Angeles. Ini secara terus-menerus menyelesaikan matriks neraca pemrograman linier yang melunasi kewajiban bersama di semua proyek secara serentak.",
+    "vi": "Trong khi thị trường đang ngủ, Overnight Data Factory sẽ tiếp nhận tỷ giá giao ngay bán buôn hiện tại, chỉ số lao động địa phương và giá thuê kho lạnh tại Seoul, Jakarta, Singapore và Los Angeles. Nó liên tục giải quyết ma trận bảng cân đối kế toán lập trình tuyến tính để xóa bỏ các nghĩa vụ chung trên tất cả các dự án cùng một lúc.",
+    "zh-CN": "在市场休眠时，Overnight Data Factory 会摄取首尔、雅加达、新加坡和洛杉矶当前的批发即期汇率、当地劳动力指数和冷藏租赁关税。它持续求解线性规划资产负债表矩阵，同时清除所有项目的共同债务。",
+    "ja": "市場が眠っている間、Overnight Data Factory はソウル、ジャカルタ、シンガポール、ロサンゼルスの現在の卸売スポットレート、現地労働指数、および冷温貯蔵リース料金を取り込みます。これは、すべてのプロジェクトにわたる相互義務を同時に解消する線形計画法の貸借対照表マトリックスを継続的に解決します。"
+  },
+  "Where the tensor summation of Time (\\(\\text{QT}\\)), Space (\\(\\text{QS}\\)), Idea (\\(\\text{QI}\\)), and Petfood (\\(\\text{QP}\\)) vectors clears to zero at \\(t=0\\), fully backed by verified physical inventory and contractual cashflow guarantees.": {
+    "ko": "시간(\\(\\text{QT}\\)), 공간(\\(\\text{QS}\\)), 아이디어(\\(\\text{QI}\\)), 펫푸드(\\(\\text{QP}\\)) 벡터의 텐서 합이 \\(t=0\\)에서 0으로 수렴하며, 검증된 실물 재고와 계약된 현금 흐름 보증에 의해 완전히 뒷받침되는 곳입니다.",
+    "id": "Di mana penjumlahan tensor dari vektor Waktu (\\(\\text{QT}\\)), Ruang (\\(\\text{QS}\\)), Ide (\\(\\text{QI}\\)), dan Petfood (\\(\\text{QP}\\)) menjadi nol pada \\(t=0\\), didukung sepenuhnya oleh inventaris fisik yang terverifikasi dan jaminan arus kas kontraktual.",
+    "vi": "Nơi mà tổng tensor của các vectơ Thời gian (\\(\\text{QT}\\)), Không gian (\\(\\text{QS}\\)), Ý tưởng (\\(\\text{QI}\\)), và Thức ăn thú cưng (\\(\\text{QP}\\)) triệt tiêu về 0 tại \\(t=0\\), được bảo đảm hoàn toàn bởi kho hàng vật lý đã xác minh và các cam kết dòng tiền theo hợp đồng.",
+    "zh-CN": "时间 (\\(\\text{QT}\\))、空间 (\\(\\text{QS}\\))、创意 (\\(\\text{QI}\\)) 和宠物食品 (\\(\\text{QP}\\)) 向量的张量和在 \\(t=0\\) 时清零，并由经过验证的实体库存和合同现金流担保提供完全支持。",
+    "ja": "時間（\\(\\text{QT}\\)）、空間（\\(\\text{QS}\\)）、アイデア（\\(\\text{QI}\\)）、ペットフード（\\(\\text{QP}\\)）ベクトルのテンソル和が \\(t=0\\) でゼロになり、検証済みの物理的在庫と契約上のキャッシュフロー保証によって完全に裏付けられている場所。"
+  },
+  "To prevent fraudulent valuation of intangible ideas or low-quality work, Qubit Banks grounds all asset entries inside NotebookLM and Dify.": {
+    "ko": "무형의 아이디어나 저품질 노동의 허위 가치 평가를 방지하기 위해, Qubit Banks는 모든 자산 항목을 NotebookLM 및 Dify 내에 근거합니다.",
+    "id": "Untuk mencegah penilaian curang atas ide-ide tidak berwujud atau pekerjaan berkualitas rendah, Qubit Banks mendasarkan semua entri aset di dalam NotebookLM dan Dify.",
+    "vi": "Để ngăn chặn việc định giá gian lận các ý tưởng vô hình hoặc công việc chất lượng thấp, Qubit Banks đặt nền tảng cho tất cả các mục tài sản bên trong NotebookLM và Dify.",
+    "zh-CN": "为了防止对无形创意或低质量工作的欺诈性估值，Qubit Banks 将所有资产条目建立在 NotebookLM 和 Dify 内部。",
+    "ja": "無形のアイデアや質の低い仕事の不正な評価を防ぐため、Qubit Banksはすべての資産エントリをNotebookLMおよびDify内に配置します。"
+  },
+  "Physical space cannot be tokenized on trust alone. Space Bank connects directly to warehouse CCTV optical camera streams to continuously measure available cubic volume.": {
+    "ko": "물리적 공간은 신뢰만으로 토큰화될 수 없습니다. Space Bank는 창고 CCTV 광학 카메라 스트림에 직접 연결하여 가용 입체 부피를 지속적으로 측정합니다.",
+    "id": "Ruang fisik tidak dapat ditokenisasi hanya berdasarkan kepercayaan. Space Bank terhubung langsung ke aliran kamera optik CCTV gudang untuk terus mengukur volume kubik yang tersedia.",
+    "vi": "Không gian vật lý không thể được mã hóa (tokenized) chỉ dựa trên sự tin tưởng. Space Bank kết nối trực tiếp với các luồng camera quang học CCTV của kho hàng để liên tục đo lường thể tích khối khả dụng.",
+    "zh-CN": "物理空间不能仅凭信任进行代币化。Space Bank 直接连接到仓库 CCTV 光学摄像机流，以持续测量可用的立方体积。",
+    "ja": "物理的な空間は信頼だけでトークン化することはできません。Space Bankは倉庫のCCTV光学カメラストリームに直接接続し、利用可能な立方体積を継続的に測定します。"
+  },
+  "Gemini Vision AI builds volumetric bounding boxes for every rack bay in Incheon, Cikarang, and Singapore. The moment a tenant ships out 10 pallets, the Space Bank automatically mints 16.5 QS-CBM of available space for immediate cross-project consignment.": {
+    "ko": "Gemini Vision AI는 인천, 치카랑, 싱가포르의 모든 랙 베이에 대한 입체 바운딩 박스를 생성합니다. 임차인이 팔레트 10개를 출고하는 즉시, Space Bank는 즉각적인 프로젝트 간 위탁을 위해 16.5 QS-CBM의 가용 공간을 자동으로 발행합니다.",
+    "id": "Gemini Vision AI membangun kotak pembatas volumetrik untuk setiap rak di Incheon, Cikarang, dan Singapura. Saat penyewa mengirimkan 10 palet, Space Bank secara otomatis mencetak 16,5 QS-CBM ruang yang tersedia untuk konsinyasi lintas proyek segera.",
+    "vi": "Gemini Vision AI xây dựng các hộp giới hạn thể tích cho mọi ngăn kệ tại Incheon, Cikarang và Singapore. Ngay khi một khách thuê xuất kho 10 pallet, Space Bank sẽ tự động tạo ra 16,5 QS-CBM không gian trống để ký gửi chéo dự án ngay lập tức.",
+    "zh-CN": "Gemini Vision AI 为仁川、芝卡朗和新加坡的每个货架位构建体积边界框。当租户运出 10 个托盘时，Space Bank 会自动铸造 16.5 QS-CBM 的可用空间，用于立即进行跨项目代销。",
+    "ja": "Gemini Vision AIは、仁川、チカラン、シンガポールのすべてのラックベイに対して体積バウンディングボックスを構築します。テナントが10パレットを出荷した瞬間、Space Bankは即時のプロジェクト間委託のために16.5 QS-CBMの空きスペースを自動的に発行します。"
+  },
+  "Challengers photographing retail partner shelves provide visual proof of physical space allocation, allowing boutique brands to lease 10cm of prime counter display space in 5,000 Indonesian warungs without leasing entire stores.": {
+    "ko": "소매 파트너 선반을 촬영하는 챌린저들은 물리적 공간 할당의 시각적 증거를 제공하여, 부티크 브랜드가 매장 전체를 임대하지 않고도 5,000개의 인도네시아 와룽(warung)에서 10cm의 주요 카운터 디스플레이 공간을 임대할 수 있게 합니다.",
+    "id": "Challenger yang memotret rak mitra ritel memberikan bukti visual alokasi ruang fisik, memungkinkan merek butik untuk menyewa 10 cm ruang tampilan konter utama di 5.000 warung Indonesia tanpa menyewa seluruh toko.",
+    "vi": "Những người thách thức (Challengers) chụp ảnh kệ của đối tác bán lẻ cung cấp bằng chứng trực quan về việc phân bổ không gian vật lý, cho phép các thương hiệu nhỏ thuê 10cm không gian trưng bày quầy chính tại 5.000 cửa hàng warung ở Indonesia mà không cần thuê toàn bộ cửa hàng.",
+    "zh-CN": "拍摄零售合作伙伴货架的挑战者提供了物理空间分配的视觉证据，使精品品牌能够在 5,000 家印度尼西亚 warung 中租赁 10 厘米的黄金柜台展示空间，而无需租赁整个商店。",
+    "ja": "小売パートナーの棚を撮影するチャレンジャーは、物理的な空間配分の視覚的証明を提供し、ブティックブランドが店舗全体を借りることなく、インドネシアの5,000のワルン（warung）で10cmの主要なカウンターディスプレイ・スペースを借りることを可能にします。"
+  },
+  "Qubit Banks operates as a dual-return monetization engine: internally, it unlocks working capital without bank loans; externally, it acts as a private clearing network for global export consortiums.": {
+    "ko": "Qubit Banks는 이중 수익 수익화 엔진으로 운영됩니다. 내부적으로는 은행 대출 없이 운전 자본을 확보하고, 외부적으로는 글로벌 수출 컨소시엄을 위한 민간 청산 네트워크 역할을 합니다.",
+    "id": "Qubit Banks beroperasi sebagai mesin monetisasi pengembalian ganda: secara internal, ia membuka modal kerja tanpa pinjaman bank; secara eksternal, ia bertindak sebagai jaringan kliring swasta untuk konsorsium ekspor global.",
+    "vi": "Qubit Banks hoạt động như một công cụ kiếm tiền lợi nhuận kép: nội bộ, nó giải phóng vốn lưu động mà không cần vay ngân hàng; bên ngoài, nó đóng vai trò là mạng lưới thanh toán bù trừ tư nhân cho các tập đoàn xuất khẩu toàn cầu.",
+    "zh-CN": "Qubit Banks 作为一个双重回报的货币化引擎运行：对内，它在无需银行贷款的情况下释放营运资金；对外，它作为全球出口财团的私人清算网络。",
+    "ja": "Qubit Banksは二重収益化エンジンとして機能します。内部的には銀行融資なしで運転資本を解放し、外部的にはグローバルな輸出コンソーシアムのための民間清算ネットワークとして機能します。"
+  },
+  "Operating across Korea (SCK), Indonesia (SCI), Singapore (SCS), the United States (SCU), Vietnam (SCV), India (SCIND), China (SCC), and Japan (SCJ), Qubit Banks enforces strict asset segregation via the *SC Dual-Track Legal Firewall.": {
+    "ko": "한국(SCK), 인도네시아(SCI), 싱가포르(SCS), 미국(SCU), 베트남(SCV), 인도(SCIND), 중국(SCC), 일본(SCJ) 전역에서 운영되는 Qubit Banks는 *SC Dual-Track Legal Firewall을 통해 엄격한 자산 분리를 시행합니다.",
+    "id": "Beroperasi di seluruh Korea (SCK), Indonesia (SCI), Singapura (SCS), Amerika Serikat (SCU), Vietnam (SCV), India (SCIND), Tiongkok (SCC), dan Jepang (SCJ), Qubit Banks menerapkan pemisahan aset yang ketat melalui *SC Dual-Track Legal Firewall.",
+    "vi": "Hoạt động trên khắp Hàn Quốc (SCK), Indonesia (SCI), Singapore (SCS), Hoa Kỳ (SCU), Việt Nam (SCV), Ấn Độ (SCIND), Trung Quốc (SCC) và Nhật Bản (SCJ), Qubit Banks thực thi việc tách biệt tài sản nghiêm ngặt thông qua *SC Dual-Track Legal Firewall.",
+    "zh-CN": "Qubit Banks 在韩国 (SCK)、印度尼西亚 (SCI)、新加坡 (SCS)、美国 (SCU)、越南 (SCV)、印度 (SCIND)、中国 (SCC) 和日本 (SCJ) 运营，通过 *SC Dual-Track Legal Firewall 实施严格的资产隔离。",
+    "ja": "韓国(SCK)、インドネシア(SCI)、シンガポール(SCS)、米国(SCU)、ベトナム(SCV)、インド(SCIND)、中国(SCC)、日本(SCJ)で事業を展開するQubit Banksは、*SC Dual-Track Legal Firewallを通じて厳格な資産分離を実施しています。"
+  },
+  "Specialist Time": {
+    "ko": "전문가 시간",
+    "id": "Waktu Spesialis",
+    "vi": "Thời gian chuyên gia",
+    "zh-CN": "专家时间",
+    "ja": "専門家の時間"
+  },
+  "Certified Challenger deliverable (code PR, translation, clinical review).": {
+    "ko": "인증된 챌린저 결과물 (코드 PR, 번역, 임상 검토).",
+    "id": "Hasil kerja Challenger Bersertifikat (PR kode, terjemahan, tinjauan klinis).",
+    "vi": "Sản phẩm bàn giao của Challenger đã được chứng nhận (PR mã nguồn, dịch thuật, đánh giá lâm sàng).",
+    "zh-CN": "认证挑战者交付成果（代码 PR、翻译、临床评审）。",
+    "ja": "認定チャレンジャーの成果物（コードPR、翻訳、臨床レビュー）。"
+  },
+  "Evaluates output against verified benchmark glossaries and test suites.": {
+    "ko": "검증된 벤치마크 용어집 및 테스트 스위트와 비교하여 출력을 평가합니다.",
+    "id": "Mengevaluasi output terhadap glosarium tolok ukur dan rangkaian pengujian yang telah diverifikasi.",
+    "vi": "Đánh giá đầu ra so với các bảng thuật ngữ chuẩn và bộ thử nghiệm đã được xác minh.",
+    "zh-CN": "根据经过验证的基准术语表和测试套件评估输出。",
+    "ja": "検証済みのベンチマーク用語集およびテストスイートに対して出力を評価します。"
+  },
+  "QT-HR (Time Unit)": {
+    "ko": "QT-HR (시간 단위)",
+    "id": "QT-HR (Unit Waktu)",
+    "vi": "QT-HR (Đơn vị thời gian)",
+    "zh-CN": "QT-HR (时间单位)",
+    "ja": "QT-HR (時間単位)"
+  },
+  "Logistics Space": {
+    "ko": "물류 공간",
+    "id": "Ruang Logistik",
+    "vi": "Không gian hậu cần",
+    "zh-CN": "物流空间",
+    "ja": "物流スペース"
+  },
+  "Physical pallet position in bonded warehouse or retail shelf display.": {
+    "ko": "보세 창고 또는 소매 선반 디스플레이의 물리적 팔레트 위치.",
+    "id": "Posisi palet fisik di gudang berikat atau tampilan rak ritel.",
+    "vi": "Vị trí pallet vật lý trong kho ngoại quan hoặc quầy trưng bày bán lẻ.",
+    "zh-CN": "保税仓库或零售货架展示中的物理托盘位置。",
+    "ja": "保税倉庫または小売棚ディスプレイにおける物理的なパレット位置。"
+  },
+  "Gemini Vision CCTV scans empty volumetric bay coordinates.": {
+    "ko": "Gemini Vision CCTV가 비어 있는 체적 베이 좌표를 스캔합니다.",
+    "id": "CCTV Gemini Vision memindai koordinat ruang kosong.",
+    "vi": "CCTV Gemini Vision quét tọa độ các ô trống về thể tích.",
+    "zh-CN": "Gemini Vision CCTV 扫描空容积位坐标。",
+    "ja": "Gemini Vision CCTV が空の容積ベイ座標をスキャンします。"
+  },
+  "Formulation IP": {
+    "ko": "배합 IP",
+    "id": "IP Formulasi",
+    "vi": "IP Công thức",
+    "zh-CN": "配方 IP",
+    "ja": "配合 IP"
+  },
+  "Auto-Formulator R1 recipe, laboratory assay, or BPOM dossier.": {
+    "ko": "Auto-Formulator R1 레시피, 실험실 분석 또는 BPOM 서류.",
+    "id": "Resep Auto-Formulator R1, uji laboratorium, atau berkas BPOM.",
+    "vi": "Công thức Auto-Formulator R1, phân tích phòng thí nghiệm hoặc hồ sơ BPOM.",
+    "zh-CN": "Auto-Formulator R1 配方、实验室化验或 BPOM 档案。",
+    "ja": "Auto-Formulator R1 レシピ、ラボ分析、または BPOM 提出書類。"
+  },
+  "Validates chemical stability, ingredient safety, and patent priority.": {
+    "ko": "화학적 안정성, 성분 안전성 및 특허 우선순위를 검증합니다.",
+    "id": "Memvalidasi stabilitas kimia, keamanan bahan, dan prioritas paten.",
+    "vi": "Xác nhận tính ổn định hóa học, độ an toàn của thành phần và ưu tiên bằng sáng chế.",
+    "zh-CN": "验证化学稳定性、成分安全性和专利优先权。",
+    "ja": "化学的安定性、成分の安全性、および特許優先権を検証します。"
+  },
+  "QI-IP (Idea Unit)": {
+    "ko": "QI-IP (아이디어 유닛)",
+    "id": "QI-IP (Unit Ide)",
+    "vi": "QI-IP (Đơn vị Ý tưởng)",
+    "zh-CN": "QI-IP (创意单元)",
+    "ja": "QI-IP (アイデアユニット)"
+  },
+  "Bio-Nutrition Feeds": {
+    "ko": "바이오 영양 사료",
+    "id": "Pakan Bio-Nutrisi",
+    "vi": "Thức ăn chăn nuôi dinh dưỡng sinh học",
+    "zh-CN": "生物营养饲料",
+    "ja": "バイオ栄養飼料"
+  },
+  "Surplus active raw ingredients or nitrogen-flushed sachet batches.": {
+    "ko": "잉여 활성 원료 또는 질소 충전 사셰 배치",
+    "id": "Bahan baku aktif surplus atau batch sachet yang dibilas nitrogen.",
+    "vi": "Nguyên liệu hoạt tính dư thừa hoặc các lô túi nhỏ (sachet) được thổi nitơ.",
+    "zh-CN": "剩余活性原料或氮气冲洗的小袋批次。",
+    "ja": "余剰活性原料または窒素充填サシェバッチ。"
+  },
+  "Screens third-party Certificate of Analysis (COA) for purity.": {
+    "ko": "순도 확인을 위해 제3자 분석 증명서(COA)를 검사합니다.",
+    "id": "Memeriksa Sertifikat Analisis (COA) pihak ketiga untuk kemurnian.",
+    "vi": "Kiểm tra Giấy chứng nhận phân tích (COA) của bên thứ ba để xác định độ tinh khiết.",
+    "zh-CN": "筛选第三方分析证明书 (COA) 以验证纯度。",
+    "ja": "純度を確認するために第三者分析証明書（COA）をスクリーニングします。"
+  },
+  "QP-FEED (Petfood Unit)": {
+    "ko": "QP-FEED (펫푸드 유닛)",
+    "id": "QP-FEED (Unit Makanan Hewan)",
+    "vi": "QP-FEED (Đơn vị Thức ăn Thú cưng)",
+    "zh-CN": "QP-FEED (宠物食品单元)",
+    "ja": "QP-FEED (ペットフードユニット)"
+  },
+  "Tower 1: Legal & Insolvency Shield": {
+    "ko": "타워 1: 법률 및 파산 보호막",
+    "id": "Tower 1: Perisai Hukum & Kepailitan",
+    "vi": "Tower 1: Lá chắn Pháp lý & Phá sản",
+    "zh-CN": "1号塔：法律与破产保护屏障",
+    "ja": "タワー1：法的・倒産保護シールド"
+  },
+  "Isolates all non-cash asset tokens (Time, Space, Idea, Petfood) from operating entity bankruptcy risk; tokens remain property of holding trust.": {
+    "ko": "모든 비현금 자산 토큰(Time, Space, Idea, Petfood)을 운영 법인의 파산 위험으로부터 격리하며, 토큰은 지주 신탁의 자산으로 유지됩니다.",
+    "id": "Mengisolasi semua token aset non-tunai (Time, Space, Idea, Petfood) dari risiko kebangkrutan entitas operasi; token tetap menjadi milik perwalian holding.",
+    "vi": "Cách ly tất cả các token tài sản phi tiền mặt (Time, Space, Idea, Petfood) khỏi rủi ro phá sản của thực thể điều hành; các token vẫn là tài sản của quỹ tín thác nắm giữ.",
+    "zh-CN": "将所有非现金资产代币（Time, Space, Idea, Petfood）与运营实体的破产风险隔离；代币仍属于控股信托的财产。",
+    "ja": "すべての非現金資産トークン（Time, Space, Idea, Petfood）を運営主体の倒産リスクから隔離します。トークンはホールディング信託の所有物のままとなります。"
+  },
+  "Zero exposure of holding IP to regional operating commercial disputes.": {
+    "ko": "지주 IP를 지역 운영 상업적 분쟁으로부터 완전히 보호합니다.",
+    "id": "Nol paparan IP holding terhadap sengketa komersial operasional regional.",
+    "vi": "Không có rủi ro đối với IP nắm giữ trước các tranh chấp thương mại điều hành khu vực.",
+    "zh-CN": "控股 IP 完全不受区域运营商业纠纷的影响。",
+    "ja": "ホールディングIPを地域の運営上の商業紛争から完全に保護します。"
+  },
+  "Tower 2: Barter Tax & VAT Settlement": {
+    "ko": "Tower 2: 바터 세금 및 부가세 정산",
+    "id": "Tower 2: Penyelesaian Pajak Barter & PPN",
+    "vi": "Tower 2: Quyết toán Thuế trao đổi & VAT",
+    "zh-CN": "Tower 2：易货税与增值税结算",
+    "ja": "Tower 2：バーター税および VAT 決済"
+  },
+  "Calculates fair market value equivalents and books proper VAT / GST invoices for non-cash barter exchanges across jurisdictions.": {
+    "ko": "관할 구역 전반의 비현금 바터 거래에 대해 공정 시장 가치 등가물을 계산하고 적절한 VAT / GST 인보이스를 발행합니다.",
+    "id": "Menghitung nilai setara pasar yang wajar dan membukukan faktur PPN / GST yang tepat untuk pertukaran barter non-tunai di berbagai yurisdiksi.",
+    "vi": "Tính toán các giá trị tương đương thị trường hợp lý và lập hóa đơn VAT / GST phù hợp cho các giao dịch trao đổi phi tiền mặt giữa các khu vực pháp lý.",
+    "zh-CN": "计算公允市场价值等值物，并为跨司法管辖区的非现金易货交易开具适当的增值税/消费税发票。",
+    "ja": "管轄区域を越えた非現金バーター取引に対して公正市場価値相当額を算出し、適切な VAT / GST 請求書を記帳します。"
+  },
+  "100% tax compliance with Indonesian DGT, Korean NTS, and Singapore IRAS.": {
+    "ko": "인도네시아 DGT, 한국 국세청(NTS), 싱가포르 IRAS에 대한 100% 세무 준수.",
+    "id": "Kepatuhan pajak 100% dengan DGT Indonesia, NTS Korea, dan IRAS Singapura.",
+    "vi": "Tuân thủ thuế 100% với DGT Indonesia, NTS Hàn Quốc và IRAS Singapore.",
+    "zh-CN": "100% 符合印度尼西亚 DGT、韩国 NTS 和新加坡 IRAS 的税务合规要求。",
+    "ja": "インドネシア DGT、韓国 NTS、シンガポール IRAS に対する 100% の税務コンプライアンス。"
+  },
+  "Tower 3: Real-Time Collateral Gate": {
+    "ko": "Tower 3: 실시간 담보 게이트",
+    "id": "Tower 3: Gerbang Agunan Real-Time",
+    "vi": "Tower 3: Cổng tài sản thế chấp thời gian thực",
+    "zh-CN": "Tower 3：实时抵押品网关",
+    "ja": "Tower 3：リアルタイム担保ゲート"
+  },
+  "Locks 70/30 PG webhooks until optical CCTV and cryptographic hash verify underlying physical inventory presence.": {
+    "ko": "광학 CCTV 및 암호화 해시가 기본 실물 재고의 존재를 확인할 때까지 70/30 PG 웹훅을 잠급니다.",
+    "id": "Mengunci webhook PG 70/30 hingga CCTV optik dan hash kriptografi memverifikasi keberadaan inventaris fisik yang mendasarinya.",
+    "vi": "Khóa các webhook PG 70/30 cho đến khi CCTV quang học và mã băm mật mã xác minh sự hiện diện của hàng tồn kho vật lý cơ sở.",
+    "zh-CN": "锁定 70/30 PG Webhook，直到光学 CCTV 和加密哈希验证底层实物库存的存在。",
+    "ja": "光学CCTVと暗号化ハッシュが基礎となる物理的在庫の存在を確認するまで、70/30 PGウェブフックをロックします。"
+  },
+  "Zero unbacked token emission; eliminates fractional-reserve collapse risks.": {
+    "ko": "무담보 토큰 발행 제로; 부분 지급 준비금 붕괴 위험을 제거합니다.",
+    "id": "Emisi token tanpa jaminan nol; menghilangkan risiko keruntuhan cadangan fraksional.",
+    "vi": "Phát hành mã thông báo không có bảo đảm bằng không; loại bỏ rủi ro sụp đổ dự trữ phân đoạn.",
+    "zh-CN": "零无担保代币发行；消除部分准备金崩溃风险。",
+    "ja": "裏付けのないトークンの発行をゼロにし、部分準備金制度の崩壊リスクを排除します。"
+  },
+  "Asset Category": {
+    "ko": "자산 범주",
+    "id": "Kategori Aset",
+    "vi": "Danh mục tài sản",
+    "zh-CN": "资产类别",
+    "ja": "資産カテゴリー"
+  },
+  "Collateral Asset Required": {
+    "ko": "필요 담보 자산",
+    "id": "Aset Agunan yang Diperlukan",
+    "vi": "Tài sản thế chấp bắt buộc",
+    "zh-CN": "所需抵押资产",
+    "ja": "必要な担保資産"
+  },
+  "How Dual-Engine RAG Verifies": {
+    "ko": "Dual-Engine RAG의 검증 방식",
+    "id": "Cara Verifikasi Dual-Engine RAG",
+    "vi": "Cách Dual-Engine RAG xác minh",
+    "zh-CN": "Dual-Engine RAG 如何验证",
+    "ja": "Dual-Engine RAG による検証方法"
+  },
+  "Clearing Token Issued": {
+    "ko": "발행된 청산 토큰",
+    "id": "Token Kliring yang Diterbitkan",
+    "vi": "Mã thông báo thanh toán bù trừ đã phát hành",
+    "zh-CN": "已发行的结算代币",
+    "ja": "発行済みの清算トークン"
+  },
+  "Control Tower": {
+    "ko": "컨트롤 타워",
+    "id": "Menara Kontrol",
+    "vi": "Tháp điều khiển",
+    "zh-CN": "控制塔",
+    "ja": "コントロールタワー"
+  },
+  "Chapter 01 • Financial Clearing Nexus": {
+    "ko": "제01장 • 금융 청산 넥서스",
+    "id": "Bab 01 • Nexus Kliring Keuangan",
+    "vi": "Chương 01 • Mạng lưới Thanh toán Tài chính",
+    "zh-CN": "第01章 • 金融清算枢纽",
+    "ja": "第01章 • 金融清算ネクサス"
+  },
+  "4-Way Resource Offsetting Engine": {
+    "ko": "4방향 리소스 상쇄 엔진",
+    "id": "Mesin Pengimbangan Sumber Daya 4-Arah",
+    "vi": "Công cụ Bù trừ Nguồn lực 4 Chiều",
+    "zh-CN": "四向资源抵消引擎",
+    "ja": "4方向リソース相殺エンジン"
+  },
+  "Chapter 02 • Reserve Architecture": {
+    "ko": "제02장 • 예비 아키텍처",
+    "id": "Bab 02 • Arsitektur Cadangan",
+    "vi": "Chương 02 • Kiến trúc Dự trữ",
+    "zh-CN": "第02章 • 储备架构",
+    "ja": "第02章 • リザーブアーキテクチャ"
+  },
+  "The 4-Pillar Non-Fiat Ledger": {
+    "ko": "4대 기둥 비법정화폐 원장",
+    "id": "Buku Besar Non-Fiat 4-Pilar",
+    "vi": "Sổ cái Phi định chế 4 Trụ cột",
+    "zh-CN": "四大支柱非法定货币账本",
+    "ja": "4本柱の非法定通貨台帳"
+  },
+  "Chapter 03 • Valuation Engine": {
+    "ko": "제03장 • 가치 평가 엔진",
+    "id": "Bab 03 • Mesin Valuasi",
+    "vi": "Chương 03 • Công cụ Định giá",
+    "zh-CN": "第03章 • 估值引擎",
+    "ja": "第03章 • バリュエーションエンジン"
+  },
+  "Overnight Non-Cash Clearing": {
+    "ko": "익일 비현금 결제",
+    "id": "Kliring Non-Tunai Semalam",
+    "vi": "Thanh toán bù trừ phi tiền mặt qua đêm",
+    "zh-CN": "隔夜非现金清算",
+    "ja": "オーバーナイト非現金清算"
+  },
+  "Chapter 04 • Valuation Integrity": {
+    "ko": "제04장 • 가치 평가 무결성",
+    "id": "Bab 04 • Integritas Valuasi",
+    "vi": "Chương 04 • Tính toàn vẹn của định giá",
+    "zh-CN": "第 04 章 • 估值完整性",
+    "ja": "第04章 • 評価の完全性"
+  },
+  "Dual-Engine Vector Audit": {
+    "ko": "듀얼 엔진 벡터 감사",
+    "id": "Audit Vektor Mesin Ganda",
+    "vi": "Kiểm toán vectơ động cơ kép",
+    "zh-CN": "双引擎向量审计",
+    "ja": "デュアルエンジン・ベクトル監査"
+  },
+  "Chapter 05 • Space Verification": {
+    "ko": "제05장 • 공간 검증",
+    "id": "Bab 05 • Verifikasi Ruang",
+    "vi": "Chương 05 • Xác minh không gian",
+    "zh-CN": "第 05 章 • 空间验证",
+    "ja": "第05章 • 空間検証"
+  },
+  "Chapter 01 • Financial Clearing Nexus 4-Way Resource Offsetting Engine": {
+    "ko": "제01장 • 금융 결제 넥서스 4방향 자원 상쇄 엔진",
+    "id": "Bab 01 • Mesin Penyeimbang Sumber Daya 4-Arah Nexus Kliring Keuangan",
+    "vi": "Chương 01 • Công cụ bù trừ tài nguyên 4 chiều Nexus thanh toán tài chính",
+    "zh-CN": "第 01 章 • 金融清算枢纽四向资源抵消引擎",
+    "ja": "第01章 • 金融清算ネクサス4方向リソース相殺エンジン"
+  },
+  "Time, Space, Idea & Petfood United in One Clearinghouse": {
+    "ko": "시간, 공간, 아이디어 및 펫푸드가 하나의 결제소로 통합됨",
+    "id": "Waktu, Ruang, Ide & Makanan Hewan Bersatu dalam Satu Lembaga Kliring",
+    "vi": "Thời gian, Không gian, Ý tưởng & Thức ăn thú cưng hợp nhất trong một Trung tâm thanh toán bù trừ",
+    "zh-CN": "时间、空间、创意与宠物食品统一于一个清算所",
+    "ja": "時間、空間、アイデア、ペットフードが一つの清算機関に統合"
+  },
+  "Zero Fiat Debt or Equity Dilution for Commercial Incubation": {
+    "ko": "상업적 인큐베이션을 위한 법정화폐 부채 제로 또는 지분 희석 방지",
+    "id": "Nol Utang Fiat atau Dilusi Ekuitas untuk Inkubasi Komersial",
+    "vi": "Không nợ Fiat hoặc pha loãng vốn cổ phần cho ươm tạo thương mại",
+    "zh-CN": "商业孵化零法币债务或股权稀释",
+    "ja": "商業的インキュベーションのための法定通貨負債ゼロまたは株式希薄化なし"
+  },
+  "Instantaneous Multi-Counterparty Balance Sheet Offsetting": {
+    "ko": "즉각적인 다자간 대차대조표 상계",
+    "id": "Penyeimbangan Neraca Multi-Pihak Secara Instan",
+    "vi": "Bù trừ bảng cân đối kế toán đa bên tức thời",
+    "zh-CN": "即时多方资产负债表抵销",
+    "ja": "即時多者間貸借対照表相殺"
+  },
+  "Automated Webhook Settlement Split Across All Transactions": {
+    "ko": "모든 거래에 걸친 자동화된 Webhook 정산 분할",
+    "id": "Pembagian Penyelesaian Webhook Otomatis di Semua Transaksi",
+    "vi": "Chia tách quyết toán Webhook tự động trên tất cả các giao dịch",
+    "zh-CN": "跨所有交易的自动化 Webhook 结算拆分",
+    "ja": "全取引にわたる自動 Webhook 決済分割"
+  },
+  "Chapter 02 • Reserve Architecture The 4-Pillar Non-Fiat Ledger": {
+    "ko": "제02장 • 예비 아키텍처 4대 기둥 비법정화폐 원장",
+    "id": "Bab 02 • Arsitektur Cadangan Buku Besar Non-Fiat 4-Pilar",
+    "vi": "Chương 02 • Kiến trúc dự trữ Sổ cái phi Fiat 4 trụ cột",
+    "zh-CN": "第 02 章 • 储备架构 四大支柱非法币账本",
+    "ja": "第02章 • リザーブアーキテクチャ 4つの柱の非法定通貨元帳"
+  },
+  "Chapter 03 • Valuation Engine Overnight Non-Cash Clearing": {
+    "ko": "제03장 • 가치 평가 엔진 익일 비현금 청산",
+    "id": "Bab 03 • Mesin Valuasi Kliring Non-Tunai Semalam",
+    "vi": "Chương 03 • Công cụ định giá Thanh toán bù trừ phi tiền mặt qua đêm",
+    "zh-CN": "第 03 章 • 估值引擎 隔夜非现金清算",
+    "ja": "第03章 • バリュエーションエンジン オーバーナイト非現金清算"
+  },
+  "Chapter 04 • Valuation Integrity Dual-Engine Vector Audit": {
+    "ko": "제04장 • 가치 평가 무결성 듀얼 엔진 벡터 감사",
+    "id": "Bab 04 • Integritas Valuasi Audit Vektor Mesin Ganda",
+    "vi": "Chương 04 • Tính toàn vẹn của định giá Kiểm toán vectơ động cơ kép",
+    "zh-CN": "第 04 章 • 估值完整性 双引擎向量审计",
+    "ja": "第04章 • バリュエーションの完全性 デュアルエンジンベクトル監査"
+  },
+  "Chapter 05 • Space Verification CCTV Optical Stock Opname": {
+    "ko": "제05장 • 공간 검증 CCTV 광학 재고 실사",
+    "id": "Bab 05 • Verifikasi Ruang CCTV Optical Stock Opname",
+    "vi": "Chương 05 • Xác minh không gian CCTV Kiểm kê kho quang học",
+    "zh-CN": "第05章 • 空间验证 CCTV 光学库存盘点",
+    "ja": "第05章 • 空間検証 CCTV 光学在庫棚卸"
+  },
+  "*SC — [& I] (And I): The Ambient Physical AI Wearable Nervous System": {
+    "ko": "*SC — [& I] (And I): 앰비언트 물리적 AI 웨어러블 신경계",
+    "id": "*SC — [& I] (And I): Sistem Saraf Wearable AI Fisik Ambien",
+    "vi": "*SC — [& I] (And I): Hệ thống thần kinh đeo được AI vật lý môi trường",
+    "zh-CN": "*SC — [& I] (And I): 环境物理 AI 可穿戴神经系统",
+    "ja": "*SC — [& I] (And I): アンビエント物理 AI ウェアラブル神経系"
+  },
+  "Hardware Form Factors: The Smart Ring & Acoustic Lapel Pin": {
+    "ko": "하드웨어 폼 팩터: 스마트 링 및 어쿠스틱 라펠 핀",
+    "id": "Faktor Bentuk Perangkat Keras: Smart Ring & Acoustic Lapel Pin",
+    "vi": "Các yếu tố hình thức phần cứng: Smart Ring & Acoustic Lapel Pin",
+    "zh-CN": "硬件形态：智能戒指与声学翻领别针",
+    "ja": "ハードウェアフォームファクタ：スマートリング＆アコースティックラペルピン"
+  },
+  "The 10 PM → 8 AM Overnight Audio Parsing & Synthesis Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 오디오 파싱 및 합성 엔진",
+    "id": "Mesin Parsing & Sintesis Audio Semalam 10 PM → 8 AM",
+    "vi": "Công cụ phân tích và tổng hợp âm thanh qua đêm 10 PM → 8 AM",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜音频解析与合成引擎",
+    "ja": "午後 10 時 → 午前 8 時 オーバーナイト・オーディオ解析＆合成エンジン"
+  },
+  "Dual-Engine Vector Grounding: Zero-Hallucination Meeting Memorandums": {
+    "ko": "듀얼 엔진 벡터 그라운딩: 환각 없는 회의록",
+    "id": "Dual-Engine Vector Grounding: Memorandum Rapat Tanpa Halusinasi",
+    "vi": "Dual-Engine Vector Grounding: Biên bản cuộc họp không ảo giác",
+    "zh-CN": "双引擎向量接地：零幻觉会议备忘录",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：ハルシネーション・ゼロの会議メモ"
+  },
+  "Real-Time CCTV Vision Entanglement & Warehouse Floor Action Sensing": {
+    "ko": "실시간 CCTV 비전 얽힘 및 창고 바닥 작업 감지",
+    "id": "Keterikatan Visi CCTV Real-Time & Penginderaan Tindakan Lantai Gudang",
+    "vi": "Sự vướng víu tầm nhìn CCTV thời gian thực & Cảm biến hành động trên sàn kho",
+    "zh-CN": "实时 CCTV 视觉纠缠与仓库地面动作感知",
+    "ja": "リアルタイム CCTV ビジョン・エンタングルメント＆倉庫フロア・アクション・センシング"
+  },
+  "Dual-Return Economic Engine & Hardware-SaaS Monetization": {
+    "ko": "이중 수익 경제 엔진 및 하드웨어-SaaS 수익화",
+    "id": "Mesin Ekonomi Pengembalian Ganda & Monetisasi Hardware-SaaS",
+    "vi": "Công cụ Kinh tế Lợi nhuận Kép & Mô hình Kiếm tiền Hardware-SaaS",
+    "zh-CN": "双重回报经济引擎与硬件-SaaS 变现",
+    "ja": "デュアルリターン経済エンジン & ハードウェア-SaaS マネタイズ"
+  },
+  "Liberating Human Leadership from Screen-Locked Cognitive Overhead": {
+    "ko": "화면에 갇힌 인지적 과부하로부터 인간의 리더십을 해방",
+    "id": "Membebaskan Kepemimpinan Manusia dari Beban Kognitif Terkunci Layar",
+    "vi": "Giải phóng Khả năng Lãnh đạo của Con người khỏi Áp lực Nhận thức bị Khóa trên Màn hình",
+    "zh-CN": "将人类领导力从屏幕锁定的认知负荷中解放出来",
+    "ja": "スクリーンに縛られた認知的オーバーヘッドから人間主導のリーダーシップを解放"
+  },
+  "Subtle Haptic & Gesture Confirmation": {
+    "ko": "미세한 햅틱 및 제스처 확인",
+    "id": "Konfirmasi Haptik & Gestur yang Halus",
+    "vi": "Xác nhận Xúc giác & Cử chỉ Tinh tế",
+    "zh-CN": "细微的触觉与手势确认",
+    "ja": "微細な触覚およびジェスチャー確認"
+  },
+  "Beamforming Directional Audio Sensor": {
+    "ko": "빔포밍 지향성 오디오 센서",
+    "id": "Sensor Audio Direksional Beamforming",
+    "vi": "Cảm biến Âm thanh Định hướng Beamforming",
+    "zh-CN": "波束成形定向音频传感器",
+    "ja": "ビームフォーミング指向性オーディオセンサー"
+  },
+  "Cognitive Consolidation Routine": {
+    "ko": "인지 통합 루틴",
+    "id": "Rutinitas Konsolidasi Kognitif",
+    "vi": "Quy trình Củng cố Nhận thức",
+    "zh-CN": "认知巩固常规",
+    "ja": "認知統合ルーチン"
+  },
+  "Gaze & Pallet Proximity Awareness": {
+    "ko": "시선 및 팔레트 근접 인식",
+    "id": "Kesadaran Kedekatan Tatapan & Palet",
+    "vi": "Nhận thức Cận cảnh Ánh nhìn & Pallet",
+    "zh-CN": "视线与调色板邻近感知",
+    "ja": "視線およびパレット近接認識"
+  },
+  "[& I] generates substantial internal savings by eliminating executive administrative staff while opening a lucrative B2B enterprise wearable subscription stream.": {
+    "ko": "[& I]는 경영진 행정 인력을 제거하여 상당한 내부 비용 절감을 창출하는 동시에 수익성 높은 B2B 기업용 웨어러블 구독 스트림을 개척합니다.",
+    "id": "[& I] menghasilkan penghematan internal yang substansial dengan meniadakan staf administratif eksekutif sekaligus membuka aliran langganan wearable perusahaan B2B yang menguntungkan.",
+    "vi": "[& I] tạo ra khoản tiết kiệm nội bộ đáng kể bằng cách loại bỏ nhân viên hành chính điều hành, đồng thời mở ra luồng đăng ký thiết bị đeo doanh nghiệp B2B béo bở.",
+    "zh-CN": "[& I] 通过裁减行政管理人员产生巨大的内部成本节约，同时开启利润丰厚的 B2B 企业级可穿戴设备订阅流。",
+    "ja": "[& I] は、経営陣の事務スタッフを削減することで大幅な内部コスト削減を実現すると同時に、収益性の高い B2B 企業向けウェアラブル・サブスクリプション・ストリームを開拓します。"
+  },
+  "Because [& I] captures sensitive executive conversations, privacy and legal boundaries are paramount. All audio telemetry is encrypted end-to-end and governed by the *SC Triple Control Towers.": {
+    "ko": "[& I]는 민감한 경영진 대화를 캡처하므로 개인 정보 보호 및 법적 경계가 무엇보다 중요합니다. 모든 오디오 텔레메트리는 종단 간 암호화되며 *SC Triple Control Towers에 의해 관리됩니다.",
+    "id": "Karena [& I] menangkap percakapan eksekutif yang sensitif, batasan privasi dan hukum sangatlah penting. Semua telemetri audio dienkripsi secara end-to-end dan diatur oleh *SC Triple Control Towers.",
+    "vi": "Vì [& I] ghi lại các cuộc hội thoại nhạy cảm của ban điều hành, nên các ranh giới về quyền riêng tư và pháp lý là tối quan trọng. Tất cả phép đo từ xa âm thanh đều được mã hóa đầu cuối và được quản lý bởi *SC Triple Control Towers.",
+    "zh-CN": "由于 [& I] 会捕捉敏感的高管对话，因此隐私和法律边界至关重要。所有音频遥测均经过端到端加密，并受 *SC Triple Control Towers 管理。",
+    "ja": "[& I] は機密性の高い経営陣の会話をキャプチャするため、プライバシーと法的境界が極めて重要です。すべてのオーディオ・テレメトリはエンドツーエンドで暗号化され、*SC Triple Control Towers によって管理されます。"
+  },
+  "Diarization & Speaker Separation: Distinguishes the executive's voice from external suppliers, shipping agents, and joint venture partners.": {
+    "ko": "화자 분리 및 다이어라이제이션: 외부 공급업체, 배송 대행업체 및 합작 투자 파트너로부터 경영진의 목소리를 구별합니다.",
+    "id": "Diarisasi & Pemisahan Pembicara: Membedakan suara eksekutif dari pemasok eksternal, agen pengiriman, dan mitra usaha patungan.",
+    "vi": "Phân đoạn & Tách biệt người nói: Phân biệt giọng nói của người điều hành với các nhà cung cấp bên ngoài, đại lý vận chuyển và đối tác liên doanh.",
+    "zh-CN": "角色分离与发言人区分：将高管的声音与外部供应商、货运代理和合资伙伴区分开来。",
+    "ja": "ダイアライゼーションと話者分離：外部サプライヤー、配送業者、合弁パートナーから経営陣の声を区別します。"
+  },
+  "Commercial Intent Extraction: Identifies verbal commitments: \"We agreed on $1.42 per kg for the 20-ton order, delivery CIF Jakarta by next month.\"": {
+    "ko": "상업적 의도 추출: 구두 약속을 식별합니다: \"우리는 20톤 주문에 대해 kg당 $1.42, 다음 달까지 자카르타 CIF 인도에 합의했습니다.\"",
+    "id": "Ekstraksi Niat Komersial: Mengidentifikasi komitmen verbal: \"Kami menyetujui $1,42 per kg untuk pesanan 20 ton, pengiriman CIF Jakarta bulan depan.\"",
+    "vi": "Trích xuất ý định thương mại: Xác định các cam kết bằng lời nói: \"Chúng tôi đã đồng ý mức giá 1,42 USD/kg cho đơn hàng 20 tấn, giao hàng CIF Jakarta vào tháng tới.\"",
+    "zh-CN": "商业意图提取：识别口头承诺：“我们同意 20 吨订单的价格为每公斤 1.42 美元，下个月前以 CIF 雅加达方式交付。”",
+    "ja": "商業的意図の抽出：口頭での約束を特定します。「20トンの注文に対し、1kgあたり1.42ドル、来月までにCIFジャカルタでの配送に合意しました。」"
+  },
+  "Proactive Discrepancy Detection: Compares verbal agreements against past signed master contracts and current stock opname counts, highlighting deviations in the morning briefing.": {
+    "ko": "선제적 불일치 감지: 구두 합의를 과거에 서명된 기본 계약 및 현재 재고 실사 수치와 비교하여 아침 브리핑에서 편차를 강조합니다.",
+    "id": "Deteksi Perbedaan Proaktif: Membandingkan perjanjian verbal dengan kontrak induk yang ditandatangani sebelumnya dan jumlah stok opname saat ini, menyoroti penyimpangan dalam pengarahan pagi.",
+    "vi": "Phát hiện sai lệch chủ động: So sánh các thỏa thuận bằng lời nói với các hợp đồng khung đã ký trước đó và số lượng kiểm kê kho hiện tại, làm nổi bật các sai lệch trong buổi họp giao ban sáng.",
+    "zh-CN": "主动差异检测：将口头协议与过去签署的主合同和当前的库存盘点数量进行比较，在早间简报中突出显示偏差。",
+    "ja": "プロアクティブな不一致検出：口頭での合意を過去に署名された基本契約や現在の棚卸資産数と比較し、モーニングブリーフィングで逸脱箇所を強調します。"
+  },
+  "B2B Supplier Negotiation": {
+    "ko": "B2B 공급업체 협상",
+    "id": "Negosiasi Pemasok B2B",
+    "vi": "Đàm phán nhà cung cấp B2B",
+    "zh-CN": "B2B 供应商谈判",
+    "ja": "B2B サプライヤー交渉"
+  },
+  "Flags maximum permissible limit (2% in ASEAN); recalculates recipe.": {
+    "ko": "최대 허용 한도(ASEAN 내 2%)를 표시하고 레시피를 재계산합니다.",
+    "id": "Menandai batas maksimum yang diizinkan (2% di ASEAN); menghitung ulang resep.",
+    "vi": "Đánh dấu giới hạn tối đa cho phép (2% ở ASEAN); tính toán lại công thức.",
+    "zh-CN": "标记最大允许限制（东盟为 2%）；重新计算配方。",
+    "ja": "最大許容限界（ASEAN内では2%）にフラグを立て、レシピを再計算します。"
+  },
+  "Veterinary Shelter Visit": {
+    "ko": "수의학 보호소 방문",
+    "id": "Kunjungan Penampungan Hewan",
+    "vi": "Thăm trạm cứu hộ thú y",
+    "zh-CN": "兽医收容所访问",
+    "ja": "獣医シェルター訪問"
+  },
+  "\"Send 500 emergency petfood sachets to the Bandung shelter today.\"": {
+    "ko": "\"오늘 반둥 보호소로 비상용 반려동물 사료 500봉지를 보내세요.\"",
+    "id": "\"Kirim 500 sachet makanan hewan darurat ke penampungan Bandung hari ini.\"",
+    "vi": "\"Gửi 500 gói thức ăn thú cưng khẩn cấp đến trạm cứu hộ Bandung ngay hôm nay.\"",
+    "zh-CN": "“今天向万隆收容所发送 500 袋应急宠物食品。”",
+    "ja": "「今日、バンドンのシェルターに緊急用ペットフード500袋を送ってください。」"
+  },
+  "Checks Petfood Bank reserve balances at Cikarang warehouse hub.": {
+    "ko": "치카랑 창고 허브에서 Petfood Bank 비축 잔액을 확인합니다.",
+    "id": "Memeriksa saldo cadangan Petfood Bank di pusat gudang Cikarang.",
+    "vi": "Kiểm tra số dư dự trữ của Petfood Bank tại trung tâm kho hàng Cikarang.",
+    "zh-CN": "检查 Cikarang 仓库枢纽的 Petfood Bank 储备余额。",
+    "ja": "チカラン倉庫ハブでPetfood Bankの備蓄残高を確認します。"
+  },
+  "Issues instant zero-cash release order and alerts courier webhook.": {
+    "ko": "즉각적인 제로 캐시 출고 명령을 발행하고 택배 웹훅에 알림을 보냅니다.",
+    "id": "Mengeluarkan perintah rilis instan tanpa uang tunai dan memperingatkan webhook kurir.",
+    "vi": "Ban hành lệnh xuất kho không tiền mặt tức thì và thông báo cho webhook chuyển phát.",
+    "zh-CN": "发布即时零现金出库单并向快递 webhook 发送警报。",
+    "ja": "即時のゼロキャッシュ放出命令を発行し、配送業者のウェブフックに通知します。"
+  },
+  "Investor & Partner Briefing": {
+    "ko": "투자자 및 파트너 브리핑",
+    "id": "Briefing Investor & Mitra",
+    "vi": "Buổi họp báo dành cho Nhà đầu tư & Đối tác",
+    "zh-CN": "投资者与合作伙伴简报",
+    "ja": "投資家およびパートナー向けブリーフィング"
+  },
+  "\"We'll grant 15% regional distributor exclusivity for East Java.\"": {
+    "ko": "동자바 지역에 대해 15%의 지역 총판 독점권을 부여합니다.",
+    "id": "Kami akan memberikan eksklusivitas distributor regional sebesar 15% untuk Jawa Timur.",
+    "vi": "Chúng tôi sẽ cấp 15% quyền độc quyền nhà phân phối khu vực cho Đông Java.",
+    "zh-CN": "我们将授予东爪哇地区 15% 的区域分销商独家经营权。",
+    "ja": "東ジャワ地域に対して15%の地域代理店独占権を付与します。"
+  },
+  "Cross-references existing master distribution contracts in the territory.": {
+    "ko": "해당 지역의 기존 마스터 유통 계약을 상호 참조합니다.",
+    "id": "Merujuk silang kontrak distribusi utama yang ada di wilayah tersebut.",
+    "vi": "Tham chiếu chéo các hợp đồng phân phối chính hiện có trong khu vực.",
+    "zh-CN": "交叉引用该地区现有的主分销合同。",
+    "ja": "当該地域の既存のマスター流通契約を相互参照します。"
+  },
+  "Confirms non-conflict status; prepares territorial agreement rider.": {
+    "ko": "비충돌 상태를 확인하고 지역 계약 부속서를 준비합니다.",
+    "id": "Mengonfirmasi status non-konflik; menyiapkan rider perjanjian teritorial.",
+    "vi": "Xác nhận trạng thái không xung đột; chuẩn bị phụ lục thỏa thuận lãnh thổ.",
+    "zh-CN": "确认无冲突状态；准备领土协议附加条款。",
+    "ja": "非競合状態を確認し、地域合意の付随条項を準備します。"
+  },
+  "Tower 1: Cryptographic Privacy & NDA (RA)": {
+    "ko": "Tower 1: 암호화 프라이버시 및 NDA (RA)",
+    "id": "Tower 1: Privasi Kriptografi & NDA (RA)",
+    "vi": "Tower 1: Quyền riêng tư mã hóa & NDA (RA)",
+    "zh-CN": "Tower 1：加密隐私与 NDA (RA)",
+    "ja": "Tower 1: 暗号化プライバシーおよび NDA (RA)"
+  },
+  "Edge audio streams are processed in hardware enclaves; biometric authentication prevents unauthorized access; auto-redacts PII.": {
+    "ko": "엣지 오디오 스트림은 하드웨어 엔클레이브에서 처리되며, 생체 인증을 통해 무단 액세스를 방지하고 개인정보(PII)를 자동으로 비식별화합니다.",
+    "id": "Aliran audio edge diproses dalam enklave perangkat keras; autentikasi biometrik mencegah akses tidak sah; menghapus PII secara otomatis.",
+    "vi": "Các luồng âm thanh biên được xử lý trong các vùng bảo mật phần cứng; xác thực sinh trắc học ngăn chặn truy cập trái phép; tự động che khuất PII.",
+    "zh-CN": "边缘音频流在硬件飞地中处理；生物识别身份验证防止未经授权的访问；自动脱敏 PII。",
+    "ja": "エッジオーディオストリームはハードウェアエンクレーブ内で処理されます。生体認証により不正アクセスを防止し、PIIを自動的に編集します。"
+  },
+  "100% GDPR, Korean PIPA, and Indonesian PDP compliance.": {
+    "ko": "GDPR, 한국 PIPA 및 인도네시아 PDP를 100% 준수합니다.",
+    "id": "Kepatuhan 100% terhadap GDPR, PIPA Korea, dan PDP Indonesia.",
+    "vi": "Tuân thủ 100% GDPR, PIPA Hàn Quốc và PDP Indonesia.",
+    "zh-CN": "100% 符合 GDPR、韩国 PIPA 和印度尼西亚 PDP 标准。",
+    "ja": "GDPR、韓国PIPA、およびインドネシアPDPに100%準拠しています。"
+  },
+  "Tower 2: Dual-Track Legal Firewall": {
+    "ko": "타워 2: 이중 트랙 법적 방화벽",
+    "id": "Tower 2: Firewall Hukum Jalur Ganda",
+    "vi": "Tháp 2: Tường lửa pháp lý theo dõi kép",
+    "zh-CN": "塔楼 2：双轨法律防火墙",
+    "ja": "タワー2：デュアルトラック法的ファイアウォール"
+  },
+  "Verbal agreements captured by [& I] are isolated within regional commercial entities; holding IP in SC Index remains legally shielded.": {
+    "ko": "[& I]에 의해 캡처된 구두 합의는 지역 상업 실체 내에 격리되며, SC Index에 보유된 IP는 법적으로 보호된 상태로 유지됩니다.",
+    "id": "Perjanjian lisan yang ditangkap oleh [& I] diisolasi dalam entitas komersial regional; kepemilikan IP di SC Index tetap terlindungi secara hukum.",
+    "vi": "Các thỏa thuận miệng được ghi lại bởi [& I] được cách ly trong các thực thể thương mại khu vực; việc nắm giữ IP trong SC Index vẫn được bảo vệ về mặt pháp lý.",
+    "zh-CN": "由 [& I] 记录的口头协议在区域商业实体内隔离；SC Index 中持有的 IP 仍受到法律保护。",
+    "ja": "[& I] によって取得された口頭合意は、地域の商業実体内に隔離されます。SC Index で保持されている IP は、法的に保護されたままとなります。"
+  },
+  "Zero contamination of core venture assets from verbal negotiation disputes.": {
+    "ko": "구두 협상 분쟁으로부터 핵심 벤처 자산의 오염 제로.",
+    "id": "Nol kontaminasi aset ventura inti dari perselisihan negosiasi lisan.",
+    "vi": "Không có sự lây nhiễm các tài sản liên doanh cốt lõi từ các tranh chấp đàm phán bằng lời nói.",
+    "zh-CN": "核心风险资产免受口头谈判纠纷的污染。",
+    "ja": "口頭交渉の紛争によるコアベンチャー資産の汚染ゼロ。"
+  },
+  "Any contract draft or payment order triggered via [& I] requires dual cryptographic confirmation before release.": {
+    "ko": "[& I]를 통해 트리거된 모든 계약 초안 또는 지불 명령은 해제 전에 이중 암호화 확인이 필요합니다.",
+    "id": "Setiap draf kontrak atau perintah pembayaran yang dipicu melalui [& I] memerlukan konfirmasi kriptografi ganda sebelum dirilis.",
+    "vi": "Bất kỳ dự thảo hợp đồng hoặc lệnh thanh toán nào được kích hoạt thông qua [& I] đều yêu cầu xác nhận mật mã kép trước khi phát hành.",
+    "zh-CN": "通过 [& I] 触发的任何合同草案或付款指令在发布前都需要双重加密确认。",
+    "ja": "[& I] を介してトリガーされた契約ドラフトまたは支払い注文は、リリース前に二重の暗号化確認が必要です。"
+  },
+  "Prevents accidental or unauthorized financial disbursals.": {
+    "ko": "우발적이거나 승인되지 않은 재정 지출을 방지합니다.",
+    "id": "Mencegah pengeluaran keuangan yang tidak disengaja atau tidak sah.",
+    "vi": "Ngăn chặn các khoản giải ngân tài chính vô tình hoặc không được phép.",
+    "zh-CN": "防止意外或未经授权的资金支出。",
+    "ja": "偶発的または不正な財務支出を防止します。"
+  },
+  "Meeting Context": {
+    "ko": "회의 컨텍스트",
+    "id": "Konteks Rapat",
+    "vi": "Bối cảnh cuộc họp",
+    "zh-CN": "会议背景",
+    "ja": "会議のコンテキスト"
+  },
+  "Spoken Verbal Phrase Captured": {
+    "ko": "음성 언어 구절 캡처됨",
+    "id": "Frasa Verbal Lisan Ditangkap",
+    "vi": "Cụm từ lời nói đã được ghi lại",
+    "zh-CN": "捕获的口语短语",
+    "ja": "キャプチャされた口頭フレーズ"
+  },
+  "Automated Enterprise Outcome": {
+    "ko": "자동화된 기업 성과",
+    "id": "Hasil Perusahaan Otomatis",
+    "vi": "Kết quả doanh nghiệp tự động",
+    "zh-CN": "自动化企业成果",
+    "ja": "自動化されたエンタープライズ成果"
+  },
+  "Chapter 01 • Physical AI Companion": {
+    "ko": "제01장 • 물리적 AI 동반자",
+    "id": "Bab 01 • Pendamping AI Fisik",
+    "vi": "Chương 01 • Người bạn đồng hành AI vật lý",
+    "zh-CN": "第 01 章 • 物理 AI 伴侣",
+    "ja": "第01章 • 物理的AIコンパニオン"
+  },
+  "Ambient Spatial Interface": {
+    "ko": "앰비언트 공간 인터페이스",
+    "id": "Antarmuka Spasial Ambien",
+    "vi": "Giao diện không gian xung quanh",
+    "zh-CN": "环境空间界面",
+    "ja": "アンビエント空間インターフェース"
+  },
+  "Chapter 02 • Hardware Engineering": {
+    "ko": "제02장 • 하드웨어 엔지니어링",
+    "id": "Bab 02 • Rekayasa Perangkat Keras",
+    "vi": "Chương 02 • Kỹ thuật phần cứng",
+    "zh-CN": "第 02 章 • 硬件工程",
+    "ja": "第02章 • ハードウェアエンジニアリング"
+  },
+  "Edge Acoustic & Spatial Arrays": {
+    "ko": "엣지 음향 및 공간 어레이",
+    "id": "Array Akustik & Spasial Edge",
+    "vi": "Mảng âm thanh & không gian Edge",
+    "zh-CN": "边缘声学与空间阵列",
+    "ja": "エッジ音響および空間アレイ"
+  },
+  "Chapter 03 • Neural Processing": {
+    "ko": "제03장 • 신경 처리",
+    "id": "Bab 03 • Pemrosesan Saraf",
+    "vi": "Chương 03 • Xử lý Thần kinh",
+    "zh-CN": "第03章 • 神经处理",
+    "ja": "第03章 • ニューラルプロセッシング"
+  },
+  "Overnight Cognitive Synthesis": {
+    "ko": "야간 인지 합성",
+    "id": "Sintesis Kognitif Semalam",
+    "vi": "Tổng hợp Nhận thức Qua đêm",
+    "zh-CN": "隔夜认知合成",
+    "ja": "オーバーナイト認知合成"
+  },
+  "Chapter 04 • Fact Grounding": {
+    "ko": "제04장 • 사실 근거 설정",
+    "id": "Bab 04 • Pembumian Fakta",
+    "vi": "Chương 04 • Xác thực Sự thật",
+    "zh-CN": "第04章 • 事实落地",
+    "ja": "第04章 • ファクトグラウンディング"
+  },
+  "Chapter 05 • Spatial Entanglement": {
+    "ko": "제05장 • 공간 얽힘",
+    "id": "Bab 05 • Keterikatan Spasial",
+    "vi": "Chương 05 • Vướng víu Không gian",
+    "zh-CN": "第05章 • 空间纠缠",
+    "ja": "第05章 • 空間もつれ"
+  },
+  "Hardware-SaaS Monetization": {
+    "ko": "하드웨어-SaaS 수익화",
+    "id": "Monetisasi Hardware-SaaS",
+    "vi": "Kiếm tiền từ Phần cứng-SaaS",
+    "zh-CN": "硬件-SaaS 货币化",
+    "ja": "ハードウェア-SaaS 収益化"
+  },
+  "Chapter 01 • Physical AI Companion Ambient Spatial Interface": {
+    "ko": "제01장 • 물리적 AI 동반자 앰비언트 공간 인터페이스",
+    "id": "Bab 01 • Antarmuka Spasial Ambien Pendamping AI Fisik",
+    "vi": "Chương 01 • Giao diện Không gian Xung quanh Bạn đồng hành AI Vật lý",
+    "zh-CN": "第01章 • 物理 AI 伴侣环境空间界面",
+    "ja": "第01章 • 物理的AIコンパニオン・アンビエント空間インターフェース"
+  },
+  "Edge-to-Cloud Neural Streaming Latency": {
+    "ko": "에지 투 클라우드 신경망 스트리밍 지연 시간",
+    "id": "Latensi Streaming Neural Edge-to-Cloud",
+    "vi": "Độ trễ truyền phát thần kinh Edge-to-Cloud",
+    "zh-CN": "边缘到云端神经流传输延迟",
+    "ja": "エッジ・トゥ・クラウド・ニューラル・ストリーミング遅延"
+  },
+  "Continuous Low-Power Active Operational Battery Life": {
+    "ko": "연속 저전력 활성 작동 배터리 수명",
+    "id": "Masa Pakai Baterai Operasional Aktif Berdaya Rendah Berkelanjutan",
+    "vi": "Thời lượng pin hoạt động tích cực công suất thấp liên tục",
+    "zh-CN": "持续低功耗主动运行电池寿命",
+    "ja": "連続低電力アクティブ動作バッテリー寿命"
+  },
+  "100% Screenless Ambient Audio, Haptic & Spatial Interaction": {
+    "ko": "100% 스크린리스 앰비언트 오디오, 햅틱 및 공간 상호작용",
+    "id": "Interaksi Audio Ambien, Haptik & Spasial 100% Tanpa Layar",
+    "vi": "Tương tác âm thanh môi trường, xúc giác & không gian 100% không màn hình",
+    "zh-CN": "100% 无屏幕环境音频、触觉与空间交互",
+    "ja": "100% スクリーンレス・アンビエント・オーディオ、触覚および空間インタラクション"
+  },
+  "Automated Webhook Settlement Split on All Hardware & SaaS Tiers": {
+    "ko": "모든 하드웨어 및 SaaS 계층의 자동화된 웹훅 정산 분할",
+    "id": "Pembagian Penyelesaian Webhook Otomatis pada Semua Tingkatan Perangkat Keras & SaaS",
+    "vi": "Chia tách quyết toán Webhook tự động trên tất cả các cấp độ phần cứng & SaaS",
+    "zh-CN": "所有硬件和 SaaS 层级的自动化 Webhook 结算分成",
+    "ja": "すべてのハードウェアおよび SaaS ティアにおける自動 Webhook 決済分割"
+  },
+  "Chapter 02 • Hardware Engineering Edge Acoustic & Spatial Arrays": {
+    "ko": "제02장 • 하드웨어 엔지니어링 에지 음향 및 공간 어레이",
+    "id": "Bab 02 • Rekayasa Perangkat Keras Array Akustik & Spasial Edge",
+    "vi": "Chương 02 • Kỹ thuật phần cứng Mảng âm thanh & không gian cạnh",
+    "zh-CN": "第 02 章 • 硬件工程边缘声学与空间阵列",
+    "ja": "第02章 • ハードウェア・エンジニアリング・エッジ音響および空間アレイ"
+  },
+  "Chapter 03 • Neural Processing Overnight Cognitive Synthesis": {
+    "ko": "제03장 • 신경망 처리 야간 인지 합성",
+    "id": "Bab 03 • Pemrosesan Neural Sintesis Kognitif Semalam",
+    "vi": "Chương 03 • Xử lý thần kinh Tổng hợp nhận thức qua đêm",
+    "zh-CN": "第 03 章 • 神经处理隔夜认知合成",
+    "ja": "第03章 • ニューラル・プロセッシング・オーバーナイト認知合成"
+  },
+  "Chapter 04 • Fact Grounding Dual-Engine Vector Architecture": {
+    "ko": "제04장 • 팩트 그라운딩 듀얼 엔진 벡터 아키텍처",
+    "id": "Bab 04 • Arsitektur Vektor Mesin Ganda Fact Grounding",
+    "vi": "Chương 04 • Kiến trúc Vector Động cơ kép Fact Grounding",
+    "zh-CN": "第04章 • 事实落地双引擎向量架构",
+    "ja": "第04章 • ファクトグラウンディング・デュアルエンジン・ベクトルアーキテクチャ"
+  },
+  "Chapter 05 • Spatial Entanglement CCTV Optical Stock Opname": {
+    "ko": "제05장 • 공간 얽힘 CCTV 광학 재고 실사",
+    "id": "Bab 05 • Stock Opname Optik CCTV Spatial Entanglement",
+    "vi": "Chương 05 • Kiểm kê kho quang học CCTV Spatial Entanglement",
+    "zh-CN": "第05章 • 空间纠缠 CCTV 光学库存盘点",
+    "ja": "第05章 • 空間もつれ CCTV 光学的在庫棚卸"
+  },
+  "Chapter 06 • Commercial Architecture Hardware-SaaS Monetization": {
+    "ko": "제06장 • 상업용 아키텍처 하드웨어-SaaS 수익화",
+    "id": "Bab 06 • Monetisasi Hardware-SaaS Arsitektur Komersial",
+    "vi": "Chương 06 • Thương mại hóa phần cứng-SaaS kiến trúc thương mại",
+    "zh-CN": "第06章 • 商业架构 硬件-SaaS 变现",
+    "ja": "第06章 • 商業アーキテクチャ ハードウェア-SaaS 収益化"
+  },
+  "*SC — Exo-Brain: Sovereign Cognitive Memory Operating System": {
+    "ko": "*SC — 엑소브레인: 주권적 인지 메모리 운영 체제",
+    "id": "*SC — Exo-Brain: Sistem Operasi Memori Kognitif Berdaulat",
+    "vi": "*SC — Exo-Brain: Hệ điều hành bộ nhớ nhận thức có chủ quyền",
+    "zh-CN": "*SC — Exo-Brain：主权认知记忆操作系统",
+    "ja": "*SC — Exo-Brain: 主権的認知メモリ・オペレーティングシステム"
+  },
+  "The 3-Layer Cognitive Architecture: Ingestion, Graph & Execution": {
+    "ko": "3계층 인지 아키텍처: 수집, 그래프 및 실행",
+    "id": "Arsitektur Kognitif 3-Lapis: Ingestion, Graph & Execution",
+    "vi": "Kiến trúc nhận thức 3 lớp: Tiếp nhận, Đồ thị & Thực thi",
+    "zh-CN": "三层认知架构：摄取、图谱与执行",
+    "ja": "3層認知アーキテクチャ：インジェスチョン、グラフ、実行"
+  },
+  "The 10 PM → 8 AM Overnight Memory Consolidation & Re-Ranking Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 메모리 통합 및 재순위화 엔진",
+    "id": "Mesin Konsolidasi Memori & Pemeringkatan Ulang Semalam 10 Malam → 8 Pagi",
+    "vi": "Động cơ hợp nhất bộ nhớ & xếp hạng lại qua đêm 10 giờ tối → 8 giờ sáng",
+    "zh-CN": "晚上 10 点 → 早上 8 点 夜间记忆整合与重排序引擎",
+    "ja": "午後10時 → 午前8時 夜間メモリ統合・再ランキングエンジン"
+  },
+  "Dual-Engine Vector Grounding: Deterministic Institutional Recall": {
+    "ko": "듀얼 엔진 벡터 그라운딩: 결정론적 기관 회상",
+    "id": "Grounding Vektor Mesin Ganda: Pemanggilan Institusional Deterministik",
+    "vi": "Grounding Vector Động cơ Kép: Truy hồi Định chế Xác định",
+    "zh-CN": "双引擎向量落地：确定性机构召回",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：決定論的機関リコール"
+  },
+  "Real-Time CCTV Vision Stock Opname & Spatial Gaze Telemetry": {
+    "ko": "실시간 CCTV 비전 재고 조사 및 공간 시선 텔레메트리",
+    "id": "Stock Opname Visi CCTV Real-Time & Telemetri Tatapan Spasial",
+    "vi": "Kiểm kê Kho Tầm nhìn CCTV Thời gian thực & Đo lường Từ xa Ánh nhìn Không gian",
+    "zh-CN": "实时 CCTV 视觉库存盘点与空间视线遥测",
+    "ja": "リアルタイムCCTVビジョン在庫棚卸＆空間視線テレメトリ"
+  },
+  "Dual-Return Economic Engine & Enterprise Cognitive OS SaaS": {
+    "ko": "듀얼 리턴 경제 엔진 및 엔터프라이즈 인지 OS SaaS",
+    "id": "Mesin Ekonomi Dual-Return & SaaS OS Kognitif Perusahaan",
+    "vi": "Động cơ Kinh tế Lợi nhuận Kép & SaaS Hệ điều hành Nhận thức Doanh nghiệp",
+    "zh-CN": "双重回报经济引擎与企业认知操作系统 SaaS",
+    "ja": "デュアルリターン経済エンジン＆エンタープライズ認知OS SaaS"
+  },
+  "Eradicating Institutional Amnesia Across Global Operations": {
+    "ko": "글로벌 운영 전반의 기관 망각 근절",
+    "id": "Memberantas Amnesia Institusional di Seluruh Operasi Global",
+    "vi": "Xóa bỏ Chứng quên Định chế trong các Hoạt động Toàn cầu",
+    "zh-CN": "消除全球业务中的机构健忘症",
+    "ja": "グローバルオペレーション全体における機関の忘却の根絶"
+  },
+  "Multimodal Data Streaming": {
+    "ko": "멀티모달 데이터 스트리밍",
+    "id": "Streaming Data Multimodal",
+    "vi": "Truyền dữ liệu Đa phương thức",
+    "zh-CN": "多模态数据流",
+    "ja": "マルチモーダル・データ・ストリーミング"
+  },
+  "High-Dimensional Semantic Index": {
+    "ko": "고차원 시맨틱 인덱스",
+    "id": "Indeks Semantik Dimensi Tinggi",
+    "vi": "Chỉ mục Ngữ nghĩa Cao chiều",
+    "zh-CN": "高维语义索引",
+    "ja": "高次元セマンティック・インデックス"
+  },
+  "Exo-Brain organizes enterprise intelligence into three decoupled, failure-tolerant layers that bridge physical context with automated software execution.": {
+    "ko": "Exo-Brain은 기업 지능을 물리적 컨텍스트와 자동화된 소프트웨어 실행을 연결하는 세 개의 분리된 결함 허용 계층으로 구성합니다.",
+    "id": "Exo-Brain mengatur kecerdasan perusahaan ke dalam tiga lapisan terpisah yang toleran terhadap kegagalan yang menjembatani konteks fisik dengan eksekusi perangkat lunak otomatis.",
+    "vi": "Exo-Brain tổ chức trí tuệ doanh nghiệp thành ba lớp tách biệt, có khả năng chịu lỗi, giúp kết nối bối cảnh vật lý với việc thực thi phần mềm tự động.",
+    "zh-CN": "Exo-Brain 将企业智能组织为三个解耦、容错的层，将物理上下文与自动化软件执行联系起来。",
+    "ja": "Exo-Brainは、企業のインテリジェンスを、物理的なコンテキストと自動化されたソフトウェア実行を橋渡しする、3つの分離された耐障害性レイヤーに整理します。"
+  },
+  "Ingests live audio from [& I] wearables, warehouse RTSP video feeds from CCTV Vision, web price sweeps from Playwright scrapers, and WhatsApp chat transcripts across our 8 international hubs.": {
+    "ko": "[& I] 웨어러블의 라이브 오디오, CCTV Vision의 창고 RTSP 비디오 피드, Playwright 스크레이퍼의 웹 가격 스윕, 8개 국제 허브의 WhatsApp 채팅 기록을 수집합니다.",
+    "id": "Menyerap audio langsung dari perangkat wearable [& I], umpan video RTSP gudang dari CCTV Vision, sapuan harga web dari scraper Playwright, dan transkrip obrolan WhatsApp di 8 hub internasional kami.",
+    "vi": "Tiếp nhận âm thanh trực tiếp từ thiết bị đeo [& I], nguồn cấp video RTSP kho hàng từ CCTV Vision, quét giá web từ trình quét Playwright và bản ghi chép trò chuyện WhatsApp trên 8 trung tâm quốc tế của chúng tôi.",
+    "zh-CN": "从 [& I] 可穿戴设备摄取实时音频、从 CCTV Vision 摄取仓库 RTSP 视频流、从 Playwright 爬虫摄取网络价格抓取，以及从我们 8 个国际中心的 WhatsApp 聊天记录中摄取数据。",
+    "ja": "[& I] ウェアラブルからのライブオーディオ、CCTV Visionからの倉庫RTSPビデオフィード、Playwrightスクレイパーからのウェブ価格スイープ、および8つの国際拠点にわたるWhatsAppチャットの文字起こしを取り込みます。"
+  },
+  "Stores text, tabular, and audio embeddings inside Supabase pgvector using HNSW indexing. Grounded by NotebookLM closed-corpus vaults to guarantee zero-hallucination semantic retrieval.": {
+    "ko": "HNSW 인덱싱을 사용하여 Supabase pgvector 내에 텍스트, 표 및 오디오 임베딩을 저장합니다. 제로 할루시네이션 시맨틱 검색을 보장하기 위해 NotebookLM 폐쇄형 코퍼스 저장소에 기반을 둡니다.",
+    "id": "Menyimpan penyematan teks, tabular, dan audio di dalam Supabase pgvector menggunakan pengindeksan HNSW. Berbasis pada brankas korpus tertutup NotebookLM untuk menjamin pengambilan semantik tanpa halusinasi.",
+    "vi": "Lưu trữ các bản nhúng văn bản, bảng và âm thanh bên trong Supabase pgvector bằng cách sử dụng chỉ mục HNSW. Được dựa trên các kho lưu trữ kho ngữ liệu đóng của NotebookLM để đảm bảo truy xuất ngữ nghĩa không gây ảo giác.",
+    "zh-CN": "使用 HNSW 索引将文本、表格和音频嵌入存储在 Supabase pgvector 中。以 NotebookLM 闭环语料库库为基础，确保零幻觉语义检索。",
+    "ja": "HNSWインデックスを使用して、Supabase pgvector内にテキスト、表、およびオーディオの埋め込みを保存します。ハルシネーションのないセマンティック検索を保証するために、NotebookLMのクローズドコーパスヴォルトに基づいています。"
+  },
+  "Translates retrieved insights into deterministic business actions: drafts purchase orders, updates Google Workspace sales ledgers, posts Challenger micro-bounties, and issues bank webhooks.": {
+    "ko": "검색된 인사이트를 결정론적 비즈니스 작업으로 변환합니다: 구매 주문서 초안 작성, Google Workspace 판매 장부 업데이트, Challenger 마이크로 바운티 게시 및 은행 웹훅 발행.",
+    "id": "Menerjemahkan wawasan yang diambil ke dalam tindakan bisnis deterministik: menyusun pesanan pembelian, memperbarui buku besar penjualan Google Workspace, memposting hadiah mikro Challenger, dan menerbitkan webhook bank.",
+    "vi": "Chuyển đổi thông tin chi tiết đã truy xuất thành các hành động kinh doanh mang tính xác định: soạn thảo đơn đặt hàng, cập nhật sổ cái bán hàng Google Workspace, đăng các khoản thưởng vi mô Challenger và phát hành webhook ngân hàng.",
+    "zh-CN": "将检索到的见解转化为确定性的业务行动：起草采购订单、更新 Google Workspace 销售分类账、发布 Challenger 微型赏金以及发布银行 Webhook。",
+    "ja": "取得したインサイトを決定論的なビジネスアクションに変換します：購入注文のドラフト作成、Google Workspace販売台帳の更新、Challengerマイクロバウンティの投稿、および銀行ウェブフックの発行。"
+  },
+  "Human memory undergoes neural consolidation during deep REM sleep, pruning irrelevant data while strengthening synaptic pathways for critical experiences. Exo-Brain executes this identical process algorithmically every night between 22:00 and 08:00.": {
+    "ko": "인간의 기억은 깊은 REM 수면 중에 신경 통합을 거치며, 무관한 데이터를 정리하고 중요한 경험을 위한 시냅스 경로를 강화합니다. Exo-Brain은 매일 밤 22:00에서 08:00 사이에 이와 동일한 프로세스를 알고리즘적으로 실행합니다.",
+    "id": "Memori manusia mengalami konsolidasi saraf selama tidur REM yang dalam, memangkas data yang tidak relevan sambil memperkuat jalur sinaptik untuk pengalaman kritis. Exo-Brain menjalankan proses identik ini secara algoritme setiap malam antara pukul 22:00 dan 08:00.",
+    "vi": "Trí nhớ của con người trải qua quá trình củng cố thần kinh trong giấc ngủ REM sâu, cắt tỉa các dữ liệu không liên quan đồng thời tăng cường các con đường khớp thần kinh cho những trải nghiệm quan trọng. Exo-Brain thực hiện quy trình tương tự này bằng thuật toán hàng đêm từ 22:00 đến 08:00.",
+    "zh-CN": "人类记忆在深度 REM 睡眠期间经历神经巩固，修剪无关数据，同时加强关键体验的突触通路。Exo-Brain 每天晚上 22:00 到 08:00 之间以算法方式执行这一相同的过程。",
+    "ja": "人間の記憶は深いレム睡眠中に神経の固定化が行われ、無関係なデータを整理しながら、重要な経験のためのシナプス経路を強化します。Exo-Brainは、毎晩22:00から08:00の間に、これと同一のプロセスをアルゴリズム的に実行します。"
+  },
+  "Exo-Brain ingests millions of fragmented data tokens harvested during the day, organizing them through three automated memory stages:": {
+    "ko": "Exo-Brain은 낮 동안 수집된 수백만 개의 파편화된 데이터 토큰을 수집하여 세 가지 자동화된 기억 단계를 통해 구성합니다:",
+    "id": "Exo-Brain menyerap jutaan token data terfragmentasi yang dipanen di siang hari, mengaturnya melalui tiga tahap memori otomatis:",
+    "vi": "Exo-Brain tiếp nhận hàng triệu mã thông báo dữ liệu bị phân mảnh được thu thập trong ngày, sắp xếp chúng thông qua ba giai đoạn ghi nhớ tự động:",
+    "zh-CN": "Exo-Brain 摄取白天收集的数百万个碎片化数据令牌，通过三个自动化记忆阶段进行组织：",
+    "ja": "Exo-Brainは、日中に収集された何百万もの断片化されたデータトークンを取り込み、3つの自動化された記憶ステージを通じて整理します："
+  },
+  "Where the connection weight \\(W_{ij}\\) between knowledge nodes decays exponentially over time unless reinforced by recurrent operational queries, citations, and validated execution outcomes.": {
+    "ko": "지식 노드 간의 연결 가중치 \\(W_{ij}\\)는 반복적인 운영 쿼리, 인용 및 검증된 실행 결과에 의해 강화되지 않는 한 시간이 지남에 따라 기하급수적으로 감소합니다.",
+    "id": "Di mana bobot koneksi \\(W_{ij}\\) antar simpul pengetahuan meluruh secara eksponensial seiring waktu kecuali diperkuat oleh kueri operasional yang berulang, sitasi, dan hasil eksekusi yang divalidasi.",
+    "vi": "Nơi trọng số kết nối \\(W_{ij}\\) giữa các nút tri thức suy giảm theo cấp số nhân theo thời gian trừ khi được củng cố bởi các truy vấn vận hành định kỳ, trích dẫn và kết quả thực thi đã được xác thực.",
+    "zh-CN": "知识节点之间的连接权重 \\(W_{ij}\\) 随时间呈指数级衰减，除非通过反复的操作查询、引用和经过验证的执行结果进行强化。",
+    "ja": "知識ノード間の接続の重み \\(W_{ij}\\) は、反復的な運用クエリ、引用、および検証された実行結果によって強化されない限り、時間の経過とともに指数関数的に減衰します。"
+  },
+  "Exo-Brain guarantees zero hallucination by enforcing strict separation between unstructured ambient memory and closed statutory ground truth.": {
+    "ko": "Exo-Brain은 비정형 주변 메모리와 폐쇄된 법적 근거 진실(statutory ground truth) 사이의 엄격한 분리를 강제함으로써 환각 현상 제로를 보장합니다.",
+    "id": "Exo-Brain menjamin nol halusinasi dengan menegakkan pemisahan ketat antara memori ambien yang tidak terstruktur dan kebenaran dasar hukum yang tertutup.",
+    "vi": "Exo-Brain đảm bảo không có ảo giác bằng cách thực thi sự phân tách nghiêm ngặt giữa bộ nhớ môi trường không cấu trúc và sự thật cơ sở pháp lý khép kín.",
+    "zh-CN": "Exo-Brain 通过强制执行非结构化环境记忆与封闭法定事实（statutory ground truth）之间的严格分离，确保零幻觉。",
+    "ja": "Exo-Brainは、非構造化アンビエントメモリと閉鎖的な法定グラウンドトゥルースを厳格に分離することで、ハルシネーション（幻覚）ゼロを保証します。"
+  },
+  "Exo-Brain does not merely read text files; it sees physical factory and warehouse floors in real time through optical computer-vision feeds.": {
+    "ko": "Exo-Brain은 단순히 텍스트 파일을 읽는 데 그치지 않고, 광학 컴퓨터 비전 피드를 통해 실제 공장 및 창고 현장을 실시간으로 확인합니다.",
+    "id": "Exo-Brain tidak sekadar membaca file teks; ia melihat lantai pabrik dan gudang fisik secara real-time melalui umpan visi komputer optik.",
+    "vi": "Exo-Brain không chỉ đơn thuần đọc các tệp văn bản; nó nhìn thấy sàn nhà máy và kho hàng vật lý trong thời gian thực thông qua các nguồn cấp dữ liệu thị giác máy tính quang học.",
+    "zh-CN": "Exo-Brain 不仅仅是读取文本文件；它通过光学计算机视觉馈送实时查看物理工厂和仓库地面。",
+    "ja": "Exo-Brainは単にテキストファイルを読み取るだけではありません。光学コンピュータービジョンフィードを通じて、物理的な工場や倉庫のフロアをリアルタイムで監視します。"
+  },
+  "Surveillance streams processed by Gemini Vision continuously update Exo-Brain on physical pallet stacking, carton damage, and packaging sachet hopper fill rates, preventing the cognitive model from making decisions based on phantom inventory.": {
+    "ko": "Gemini Vision에서 처리된 감시 스트림은 물리적 팔레트 적재, 상자 손상 및 포장 사쉐 호퍼 충전율에 대해 Exo-Brain을 지속적으로 업데이트하여 인지 모델이 가상 재고를 기반으로 결정을 내리는 것을 방지합니다.",
+    "id": "Aliran pengawasan yang diproses oleh Gemini Vision terus memperbarui Exo-Brain tentang penumpukan palet fisik, kerusakan karton, dan tingkat pengisian hopper sachet kemasan, mencegah model kognitif membuat keputusan berdasarkan inventaris semu.",
+    "vi": "Các luồng giám sát được xử lý bởi Gemini Vision liên tục cập nhật cho Exo-Brain về việc xếp chồng pallet vật lý, hư hỏng thùng carton và tỷ lệ lấp đầy phễu gói bao bì, ngăn chặn mô hình nhận thức đưa ra quyết định dựa trên kho hàng ảo.",
+    "zh-CN": "由 Gemini Vision 处理的监控流不断向 Exo-Brain 更新物理托盘堆叠、纸箱损坏和包装袋料斗填充率，防止认知模型基于虚幻库存做出决策。",
+    "ja": "Gemini Visionによって処理された監視ストリームは、物理的なパレットの積み上げ、段ボールの損傷、包装用サシェホッパーの充填率についてExo-Brainを継続的に更新し、認知モデルが架空の在庫に基づいて意思決定を行うのを防ぎます。"
+  },
+  "When combined with [& I] wearable UWB beacons, Exo-Brain knows exactly which machine or pallet the warehouse manager is looking at, automatically serving the correct technical maintenance SOP or batch certificate.": {
+    "ko": "[& I] 웨어러블 UWB 비콘과 결합하면 Exo-Brain은 창고 관리자가 어떤 기계나 팔레트를 보고 있는지 정확히 파악하여 올바른 기술 유지보수 SOP 또는 배치 인증서를 자동으로 제공합니다.",
+    "id": "Ketika dikombinasikan dengan beacon UWB yang dapat dikenakan [& I], Exo-Brain tahu persis mesin atau palet mana yang sedang dilihat oleh manajer gudang, secara otomatis menyajikan SOP pemeliharaan teknis atau sertifikat batch yang benar.",
+    "vi": "Khi kết hợp với đèn hiệu UWB đeo được [& I], Exo-Brain biết chính xác máy móc hoặc pallet nào mà quản lý kho đang nhìn vào, tự động cung cấp SOP bảo trì kỹ thuật hoặc chứng chỉ lô hàng chính xác.",
+    "zh-CN": "当与 [& I] 可穿戴 UWB 信标结合使用时，Exo-Brain 能够准确知道仓库经理正在查看哪台机器或托盘，并自动提供正确的工程维护 SOP 或批次证书。",
+    "ja": "[& I] ウェアラブルUWBビーコンと組み合わせることで、Exo-Brainは倉庫管理者がどの機械やパレットを見ているかを正確に把握し、正しい技術メンテナンスSOPまたはバッチ証明書を自動的に提供します。"
+  },
+  "Exo-Brain delivers dual economic returns: internally, it replaces multiple executive assistants and analysts; externally, it is packaged as an enterprise-grade cognitive operating platform for mid-market international conglomerates.": {
+    "ko": "Exo-Brain은 이중의 경제적 수익을 제공합니다. 내부적으로는 다수의 비서 및 분석가를 대체하고, 외부적으로는 중견 글로벌 대기업을 위한 엔터프라이즈급 인지 운영 플랫폼으로 패키징됩니다.",
+    "id": "Exo-Brain memberikan imbal hasil ekonomi ganda: secara internal, ia menggantikan banyak asisten eksekutif dan analis; secara eksternal, ia dikemas sebagai platform operasi kognitif kelas perusahaan untuk konglomerat internasional pasar menengah.",
+    "vi": "Exo-Brain mang lại lợi nhuận kinh tế kép: về mặt nội bộ, nó thay thế nhiều trợ lý điều hành và nhà phân tích; về mặt bên ngoài, nó được đóng gói như một nền tảng vận hành nhận thức cấp doanh nghiệp cho các tập đoàn quốc tế tầm trung.",
+    "zh-CN": "Exo-Brain 提供双重经济回报：对内，它取代了多名行政助理和分析师；对外，它被包装为面向中型市场国际财团的企业级认知运营平台。",
+    "ja": "Exo-Brainは二重の経済的利益をもたらします。内部的には、複数のエグゼクティブアシスタントやアナリストに取って代わり、外部的には、中堅グローバル企業向けのエンタープライズグレードの認知型オペレーティングプラットフォームとしてパッケージ化されています。"
+  },
+  "Exo-Brain operates under the *SC Dual-Track Legal Firewall, isolating holding company core intellectual property (patents, algorithmic weights, brand trademarks) from operating subsidiary commercial liabilities across our 8 international hubs.": {
+    "ko": "Exo-Brain은 *SC Dual-Track Legal Firewall 하에 운영되며, 8개 국제 허브 전반에 걸쳐 지주 회사의 핵심 지식 재산(특허, 알고리즘 가중치, 브랜드 상표)을 운영 자회사의 상업적 부채로부터 격리합니다.",
+    "id": "Exo-Brain beroperasi di bawah *SC Dual-Track Legal Firewall, mengisolasi kekayaan intelektual inti perusahaan induk (paten, bobot algoritma, merek dagang merek) dari kewajiban komersial anak perusahaan operasional di 8 hub internasional kami.",
+    "vi": "Exo-Brain hoạt động dưới *SC Dual-Track Legal Firewall, tách biệt tài sản trí tuệ cốt lõi của công ty mẹ (bằng sáng chế, trọng số thuật toán, nhãn hiệu thương hiệu) khỏi các nghĩa vụ thương mại của công ty con điều hành tại 8 trung tâm quốc tế của chúng tôi.",
+    "zh-CN": "Exo-Brain 在 *SC Dual-Track Legal Firewall 下运行，将控股公司的核心知识产权（专利、算法权重、品牌商标）与我们 8 个国际枢纽的运营子公司的商业负债隔离开来。",
+    "ja": "Exo-Brainは*SC Dual-Track Legal Firewallの下で運用され、8つの国際拠点全体で、持株会社のコア知的財産（特許、アルゴリズムの重み、ブランド商標）を運営子会社の商業的負債から隔離します。"
+  },
+  "De-Duplication & Noise Filtering: Discards redundant status pings, ambient acoustic noise, and obsolete web pricing scrapes.": {
+    "ko": "중복 제거 및 노이즈 필터링: 중복된 상태 핑, 주변 음향 노이즈 및 오래된 웹 가격 스크랩을 폐기합니다.",
+    "id": "De-Duplikasi & Penyaringan Kebisingan: Membuang ping status yang berlebihan, kebisingan akustik sekitar, dan kerokan harga web yang usang.",
+    "vi": "Loại bỏ trùng lặp & Lọc nhiễu: Loại bỏ các ping trạng thái dư thừa, tiếng ồn âm thanh xung quanh và các dữ liệu giá web lỗi thời.",
+    "zh-CN": "去重与噪声过滤：丢弃冗余的状态 ping、环境声学噪声和过时的网络价格抓取数据。",
+    "ja": "重複排除とノイズフィルタリング：冗長なステータスピング、周囲の音響ノイズ、および古いウェブ価格スクレイピングを破棄します。"
+  },
+  "Cross-Base Vector Entanglement: Connects a supplier price change discovered in Guangzhou (SCC) to a K-Beauty formulation parameter in Seoul (SCK) and an upcoming sales tender in Jakarta (SCI).": {
+    "ko": "교차 기지 벡터 얽힘: 광저우(SCC)에서 발견된 공급업체 가격 변동을 서울(SCK)의 K-Beauty 제형 매개변수 및 자카르타(SCI)의 예정된 판매 입찰과 연결합니다.",
+    "id": "Cross-Base Vector Entanglement: Menghubungkan perubahan harga pemasok yang ditemukan di Guangzhou (SCC) dengan parameter formulasi K-Beauty di Seoul (SCK) dan tender penjualan mendatang di Jakarta (SCI).",
+    "vi": "Liên kết Vector xuyên căn cứ: Kết nối sự thay đổi giá của nhà cung cấp được phát hiện ở Quảng Châu (SCC) với thông số công thức K-Beauty ở Seoul (SCK) và một hồ sơ thầu bán hàng sắp tới ở Jakarta (SCI).",
+    "zh-CN": "跨基地向量纠缠：将广州 (SCC) 发现的供应商价格变动与首尔 (SCK) 的 K-Beauty 配方参数以及雅加达 (SCI) 即将进行的销售招标联系起来。",
+    "ja": "クロスベースベクトルエンタングルメント：広州（SCC）で発見されたサプライヤーの価格変更を、ソウル（SCK）のK-Beauty処方パラメータおよびジャカルタ（SCI）の今後の販売入札に接続します。"
+  },
+  "Executive Synthesis Compilation: At 07:55 AM, compiles prioritized 08:00 AM executive briefs for chief executives and department heads with zero fluff and exact citation backing.": {
+    "ko": "경영진 종합 편찬: 오전 07:55에 최고 경영자 및 부서장을 위해 군더더기 없고 정확한 인용 뒷받침이 있는 우선순위가 지정된 오전 08:00 경영진 브리핑을 편찬합니다.",
+    "id": "Kompilasi Sintesis Eksekutif: Pada pukul 07:55 AM, menyusun ringkasan eksekutif pukul 08:00 AM yang diprioritaskan untuk para pimpinan eksekutif dan kepala departemen dengan tanpa basa-basi dan dukungan kutipan yang tepat.",
+    "vi": "Biên soạn tổng hợp điều hành: Vào lúc 07:55 sáng, biên soạn các bản tóm tắt điều hành lúc 08:00 sáng được ưu tiên cho các giám đốc điều hành và trưởng bộ phận với nội dung súc tích và có trích dẫn chính xác.",
+    "zh-CN": "高管综合汇编：在上午 07:55，为首席执行官和部门主管汇编优先排序的上午 08:00 高管简报，内容精炼且有准确的引用支持。",
+    "ja": "エグゼクティブ総合編集：午前07:55に、最高経営責任者および部門長向けに、無駄がなく正確な引用に裏打ちされた、優先順位付けされた午前08:00のエグゼクティブブリーフを編集します。"
+  },
+  "\"What was our agreed FOB price for packaging bottles in Guangzhou last June?\"": {
+    "ko": "\"지난 6월 광저우 포장용 병에 대해 합의된 FOB 가격은 얼마였습니까?\"",
+    "id": "\"Berapa harga FOB yang kita sepakati untuk botol kemasan di Guangzhou Juni lalu?\"",
+    "vi": "\"Giá FOB đã thỏa thuận cho chai bao bì ở Quảng Châu vào tháng 6 năm ngoái là bao nhiêu?\"",
+    "zh-CN": "“去年 6 月我们在广州约定的包装瓶 FOB 价格是多少？”",
+    "ja": "「昨年6月の広州での包装用ボトルの合意されたFOB価格はいくらでしたか？」"
+  },
+  "2.5 hours (searching old WeChat chats and invoices)": {
+    "ko": "2.5시간 (오래된 WeChat 채팅 및 송장 검색)",
+    "id": "2,5 jam (mencari obrolan WeChat dan faktur lama)",
+    "vi": "2,5 giờ (tìm kiếm các cuộc trò chuyện WeChat và hóa đơn cũ)",
+    "zh-CN": "2.5 小时（搜索旧的微信聊天记录和发票）",
+    "ja": "2.5時間（古いWeChatのチャットや請求書の検索）"
+  },
+  "Retrieves verified purchase order contract from pgvector with exact supplier stamp and unit price.": {
+    "ko": "pgvector에서 정확한 공급업체 스탬프와 단가가 포함된 검증된 구매 주문 계약서를 검색합니다.",
+    "id": "Mengambil kontrak pesanan pembelian terverifikasi dari pgvector dengan stempel pemasok dan harga satuan yang tepat.",
+    "vi": "Truy xuất hợp đồng đơn đặt hàng đã xác minh từ pgvector với con dấu nhà cung cấp và đơn giá chính xác.",
+    "zh-CN": "从 pgvector 检索包含准确供应商印章和单价的已验证采购订单合同。",
+    "ja": "pgvectorから、正確なサプライヤーのスタンプと単価を含む、検証済みの注文書契約を取得します。"
+  },
+  "110 milliseconds": {
+    "ko": "110밀리초",
+    "id": "110 milidetik",
+    "vi": "110 mili giây",
+    "zh-CN": "110 毫秒",
+    "ja": "110ミリ秒"
+  },
+  "\"Does our Sismii sunscreen formula meet the new Indonesian BPOM filter rules?\"": {
+    "ko": "\"우리의 Sismii 자외선 차단제 포뮬러가 새로운 인도네시아 BPOM 필터 규정을 충족합니까?\"",
+    "id": "\"Apakah formula tabir surya Sismii kami memenuhi aturan filter BPOM Indonesia yang baru?\"",
+    "vi": "\"Công thức kem chống nắng Sismii của chúng tôi có đáp ứng các quy định về bộ lọc BPOM mới của Indonesia không?\"",
+    "zh-CN": "“我们的 Sismii 防晒配方是否符合印度尼西亚 BPOM 的新过滤规则？”",
+    "ja": "「当社の Sismii 日焼け止め処方は、インドネシアの新しい BPOM フィルター規則に適合していますか？」"
+  },
+  "24 to 48 hours (waiting for external RA consultant)": {
+    "ko": "24~48시간 (외부 RA 컨설턴트 대기 중)",
+    "id": "24 hingga 48 jam (menunggu konsultan RA eksternal)",
+    "vi": "24 đến 48 giờ (đang chờ tư vấn RA bên ngoài)",
+    "zh-CN": "24 至 48 小时（等待外部 RA 顾问）",
+    "ja": "24〜48時間（外部RAコンサルタント待ち）"
+  },
+  "Matches formulation ingredients against last night's scraped BPOM gazette inside NotebookLM.": {
+    "ko": "NotebookLM 내에서 어젯밤 스크래핑된 BPOM 관보와 배합 성분을 대조합니다.",
+    "id": "Mencocokkan bahan formulasi dengan lembaran berita BPOM yang dikumpulkan tadi malam di dalam NotebookLM.",
+    "vi": "Đối chiếu các thành phần công thức với công báo BPOM đã thu thập đêm qua bên trong NotebookLM.",
+    "zh-CN": "在 NotebookLM 中将配方成分与昨晚抓取的 BPOM 公报进行比对。",
+    "ja": "NotebookLM 内で、配合成分を昨夜スクレイピングされた BPOM 官報と照合します。"
+  },
+  "135 milliseconds": {
+    "ko": "135밀리초",
+    "id": "135 milidetik",
+    "vi": "135 mili giây",
+    "zh-CN": "135 毫秒",
+    "ja": "135ミリ秒"
+  },
+  "\"How many pallets of Rp 1,320 sachets are ready for pickup at Cikarang warehouse?\"": {
+    "ko": "치카랑 창고에서 픽업 준비가 된 Rp 1,320 사셰 팔레트는 몇 개입니까?",
+    "id": "Berapa banyak palet sachet Rp 1.320 yang siap diambil di gudang Cikarang?",
+    "vi": "Có bao nhiêu pallet gói Rp 1.320 đã sẵn sàng để lấy tại kho Cikarang?",
+    "zh-CN": "Cikarang 仓库有多少托盘 Rp 1,320 小袋装货物可以提取？",
+    "ja": "チカラン倉庫でピックアップ可能な Rp 1,320 サシェのパレットは何枚ありますか？"
+  },
+  "35 minutes (calling warehouse supervisor)": {
+    "ko": "35분 (창고 관리자에게 전화)",
+    "id": "35 menit (menghubungi pengawas gudang)",
+    "vi": "35 phút (gọi cho giám sát kho)",
+    "zh-CN": "35 分钟（致电仓库主管）",
+    "ja": "35分（倉庫管理者に電話）"
+  },
+  "Queries real-time CCTV Vision stock opname database for physical verified pallet count.": {
+    "ko": "물리적으로 확인된 팔레트 수를 위해 실시간 CCTV Vision 재고 조사 데이터베이스를 쿼리합니다.",
+    "id": "Meminta database stock opname CCTV Vision real-time untuk jumlah palet yang terverifikasi secara fisik.",
+    "vi": "Truy vấn cơ sở dữ liệu kiểm kê CCTV Vision thời gian thực để biết số lượng pallet được xác minh vật lý.",
+    "zh-CN": "查询实时 CCTV Vision 库存盘点数据库，以获取经实物验证的托盘数量。",
+    "ja": "物理的に確認されたパレット数のために、リアルタイムの CCTV Vision 棚卸しデータベースを照会します。"
+  },
+  "90 milliseconds": {
+    "ko": "90밀리초",
+    "id": "90 milidetik",
+    "vi": "90 mili giây",
+    "zh-CN": "90 毫秒",
+    "ja": "90ミリ秒"
+  },
+  "\"What is our remaining K-SURE BNPL credit line for the Vietnam shipment?\"": {
+    "ko": "베트남 선적을 위한 당사의 잔여 K-SURE BNPL 신용 한도는 얼마입니까?",
+    "id": "Berapa sisa batas kredit K-SURE BNPL kami untuk pengiriman Vietnam?",
+    "vi": "Hạn mức tín dụng K-SURE BNPL còn lại của chúng ta cho lô hàng Việt Nam là bao nhiêu?",
+    "zh-CN": "我们用于越南货运的剩余 K-SURE BNPL 信用额度是多少？",
+    "ja": "ベトナム出荷向けの K-SURE BNPL 残り与信枠はいくらですか？"
+  },
+  "1.5 hours (checking bank portals and accounting books)": {
+    "ko": "1.5시간 (은행 포털 및 회계 장부 확인)",
+    "id": "1,5 jam (memeriksa portal bank dan buku akuntansi)",
+    "vi": "1,5 giờ (kiểm tra cổng thông tin ngân hàng và sổ sách kế toán)",
+    "zh-CN": "1.5 小时（检查银行门户和会计账簿）",
+    "ja": "1.5時間（銀行ポータルと会計帳簿の確認）"
+  },
+  "Pulls live treasury master ledger from Google Sheets, calculating 70/30 reserved balances.": {
+    "ko": "Google Sheets에서 실시간 재무 마스터 원장을 가져와 70/30 예약 잔액을 계산합니다.",
+    "id": "Menarik buku besar utama perbendaharaan langsung dari Google Sheets, menghitung saldo cadangan 70/30.",
+    "vi": "Lấy sổ cái tổng hợp kho bạc trực tiếp từ Google Sheets, tính toán số dư dự trữ 70/30.",
+    "zh-CN": "从 Google Sheets 提取实时财务总账，计算 70/30 的预留余额。",
+    "ja": "Google Sheetsからライブ財務マスター元帳を取得し、70/30の予約残高を計算します。"
+  },
+  "120 milliseconds": {
+    "ko": "120밀리초",
+    "id": "120 milidetik",
+    "vi": "120 mili giây",
+    "zh-CN": "120 毫秒",
+    "ja": "120ミリ秒"
+  },
+  "Tower 1: Information Security & IP Shield (RA)": {
+    "ko": "타워 1: 정보 보안 및 IP Shield (RA)",
+    "id": "Menara 1: Keamanan Informasi & IP Shield (RA)",
+    "vi": "Tháp 1: Bảo mật thông tin & IP Shield (RA)",
+    "zh-CN": "塔楼 1：信息安全与 IP Shield (RA)",
+    "ja": "タワー 1: 情報セキュリティ & IP Shield (RA)"
+  },
+  "Multi-tenant cryptographic data segregation; role-based encryption; confidential trade secrets locked in SC Index holding vault.": {
+    "ko": "멀티 테넌트 암호화 데이터 격리; 역할 기반 암호화; SC Index 보관 금고에 잠긴 기밀 영업 비밀.",
+    "id": "Segregasi data kriptografi multi-tenant; enkripsi berbasis peran; rahasia dagang rahasia yang terkunci di brankas penyimpanan SC Index.",
+    "vi": "Phân tách dữ liệu mã hóa đa người dùng; mã hóa dựa trên vai trò; các bí mật thương mại được khóa trong kho lưu trữ SC Index.",
+    "zh-CN": "多租户加密数据隔离；基于角色的加密；锁定在 SC Index 保管库中的机密商业机密。",
+    "ja": "マルチテナント暗号化データ分離、ロールベースの暗号化、SC Indexホールディング保管庫にロックされた機密の営業秘密。"
+  },
+  "Zero leakage of proprietary formulations or venture source code.": {
+    "ko": "독점 배합 또는 벤처 소스 코드의 유출 제로.",
+    "id": "Nol kebocoran formulasi eksklusif atau kode sumber ventura.",
+    "vi": "Không rò rỉ các công thức độc quyền hoặc mã nguồn liên doanh.",
+    "zh-CN": "专有配方或创业源代码零泄露。",
+    "ja": "独自の配合やベンチャーのソースコードの漏洩ゼロ。"
+  },
+  "Tower 2: Financial Audit & Split Settlement (VAT)": {
+    "ko": "타워 2: 재무 감사 및 분할 정산 (VAT)",
+    "id": "Menara 2: Audit Keuangan & Penyelesaian Terbagi (VAT)",
+    "vi": "Tháp 2: Kiểm toán tài chính & Quyết toán chia tách (VAT)",
+    "zh-CN": "塔楼 2：财务审计与拆分结算 (VAT)",
+    "ja": "タワー 2: 財務監査 & 分割決済 (VAT)"
+  },
+  "Tracks all commercial transactions generated through Exo-Brain recommendations, applying 70/30 split settlements automatically.": {
+    "ko": "Exo-Brain 추천을 통해 생성된 모든 상거래를 추적하며, 70/30 수익 배분 정산을 자동으로 적용합니다.",
+    "id": "Melacak semua transaksi komersial yang dihasilkan melalui rekomendasi Exo-Brain, menerapkan penyelesaian bagi hasil 70/30 secara otomatis.",
+    "vi": "Theo dõi tất cả các giao dịch thương mại được tạo ra thông qua các đề xuất của Exo-Brain, tự động áp dụng quyết toán phân chia 70/30.",
+    "zh-CN": "跟踪通过 Exo-Brain 推荐产生的所有商业交易，并自动执行 70/30 的分成结算。",
+    "ja": "Exo-Brain の推奨を通じて生成されたすべての商取引を追跡し、70/30 の分配決済を自動的に適用します。"
+  },
+  "Complete tax compliance and real-time VAT ledger reconciliation.": {
+    "ko": "완벽한 세무 준수 및 실시간 부가세 원장 대조.",
+    "id": "Kepatuhan pajak lengkap dan rekonsiliasi buku besar PPN waktu nyata.",
+    "vi": "Tuân thủ thuế đầy đủ và đối soát sổ cái VAT theo thời gian thực.",
+    "zh-CN": "完善的税务合规和实时增值税账目核对。",
+    "ja": "完全な税務コンプライアンスとリアルタイムの VAT 元帳照合。"
+  },
+  "Tower 3: Quality & Settlement Gate (CCTV)": {
+    "ko": "Tower 3: 품질 및 정산 게이트 (CCTV)",
+    "id": "Tower 3: Gerbang Kualitas & Penyelesaian (CCTV)",
+    "vi": "Tower 3: Cổng Chất lượng & Quyết toán (CCTV)",
+    "zh-CN": "Tower 3：质量与结算关口 (CCTV)",
+    "ja": "Tower 3: 品質および決済ゲート (CCTV)"
+  },
+  "Cross-verifies all autonomous decisions against verified physical inventory and statutory legal databases before release.": {
+    "ko": "출고 전 검증된 실물 재고 및 법정 법률 데이터베이스를 바탕으로 모든 자율적 결정을 교차 검증합니다.",
+    "id": "Memverifikasi silang semua keputusan otonom terhadap inventaris fisik yang terverifikasi dan basis data hukum resmi sebelum rilis.",
+    "vi": "Đối chiếu chéo tất cả các quyết định tự trị với kho hàng vật lý đã xác minh và cơ sở dữ liệu pháp lý theo quy định trước khi phát hành.",
+    "zh-CN": "在发布前，根据经过验证的实物库存和法定法律数据库交叉验证所有自主决策。",
+    "ja": "リリース前に、検証済みの実在庫および法定法律データベースとすべての自律的な決定を相互検証します。"
+  },
+  "Eradicates commercial default and unhedged operational risk.": {
+    "ko": "상업적 채무 불이행 및 헤지되지 않은 운영 리스크를 근절합니다.",
+    "id": "Menghapus gagal bayar komersial dan risiko operasional yang tidak terlindungi nilai (unhedged).",
+    "vi": "Loại bỏ tình trạng vỡ nợ thương mại và rủi ro vận hành không được phòng vệ.",
+    "zh-CN": "消除商业违约和未对冲的运营风险。",
+    "ja": "商業的な債務不履行およびヘッジされていない運用リスクを根絶します。"
+  },
+  "Operational Question": {
+    "ko": "운영 질문",
+    "id": "Pertanyaan Operasional",
+    "vi": "Câu hỏi vận hành",
+    "zh-CN": "运营问题",
+    "ja": "運用上の質問"
+  },
+  "Legacy Human Retrieval Time": {
+    "ko": "레거시 인간 검색 시간",
+    "id": "Waktu Pengambilan Manusia Warisan",
+    "vi": "Thời gian truy xuất thủ công truyền thống",
+    "zh-CN": "传统人工检索耗时",
+    "ja": "レガシーな人間による検索時間"
+  },
+  "How Exo-Brain Solves via Dual RAG": {
+    "ko": "Exo-Brain이 Dual RAG를 통해 해결하는 방식",
+    "id": "Bagaimana Exo-Brain Menyelesaikan melalui Dual RAG",
+    "vi": "Cách Exo-Brain giải quyết qua Dual RAG",
+    "zh-CN": "Exo-Brain 如何通过 Dual RAG 解决",
+    "ja": "Exo-BrainがDual RAGで解決する仕組み"
+  },
+  "Response Latency": {
+    "ko": "응답 지연 시간",
+    "id": "Latensi Respons",
+    "vi": "Độ trễ phản hồi",
+    "zh-CN": "响应延迟",
+    "ja": "応答レイテンシ"
+  },
+  "Chapter 01 • Cognitive Command Hub": {
+    "ko": "Chapter 01 • 인지 명령 허브",
+    "id": "Bab 01 • Pusat Komando Kognitif",
+    "vi": "Chương 01 • Trung tâm Điều hành Nhận thức",
+    "zh-CN": "第 01 章 • 认知指挥中心",
+    "ja": "第01章 • 認知コマンドハブ"
+  },
+  "Sovereign Enterprise Memory OS": {
+    "ko": "소버린 엔터프라이즈 메모리 OS",
+    "id": "OS Memori Perusahaan Berdaulat",
+    "vi": "Hệ điều hành bộ nhớ doanh nghiệp có chủ quyền",
+    "zh-CN": "主权企业内存操作系统",
+    "ja": "ソブリン・エンタープライズ・メモリOS"
+  },
+  "Chapter 02 • Architecture Stack": {
+    "ko": "Chapter 02 • 아키텍처 스택",
+    "id": "Bab 02 • Tumpukan Arsitektur",
+    "vi": "Chương 02 • Ngăn xếp kiến trúc",
+    "zh-CN": "第 02 章 • 架构堆栈",
+    "ja": "第02章 • アーキテクチャスタック"
+  },
+  "3-Layer Enterprise Cognitive Stack": {
+    "ko": "3계층 엔터프라이즈 인지 스택",
+    "id": "Stack Kognitif Perusahaan 3-Lapis",
+    "vi": "Ngăn xếp Nhận thức Doanh nghiệp 3 lớp",
+    "zh-CN": "3层企业认知堆栈",
+    "ja": "3レイヤー・エンタープライズ認知スタック"
+  },
+  "Chapter 03 • Memory Consolidation": {
+    "ko": "제03장 • 기억 공고화",
+    "id": "Bab 03 • Konsolidasi Memori",
+    "vi": "Chương 03 • Củng cố Trí nhớ",
+    "zh-CN": "第03章 • 记忆巩固",
+    "ja": "第03章 • 記憶の定着"
+  },
+  "Overnight Neural Optimization": {
+    "ko": "야간 신경 최적화",
+    "id": "Optimisasi Neural Semalam",
+    "vi": "Tối ưu hóa Thần kinh Qua đêm",
+    "zh-CN": "夜间神经优化",
+    "ja": "オーバーナイト・ニューラル最適化"
+  },
+  "Chapter 04 • Cognitive Precision": {
+    "ko": "제04장 • 인지 정밀도",
+    "id": "Bab 04 • Presisi Kognitif",
+    "vi": "Chương 04 • Độ chính xác Nhận thức",
+    "zh-CN": "第04章 • 认知精度",
+    "ja": "第04章 • 認知的精度"
+  },
+  "Dual-Engine Knowledge Retrieval": {
+    "ko": "듀얼 엔진 지식 검색",
+    "id": "Pengambilan Pengetahuan Mesin-Ganda",
+    "vi": "Truy xuất Kiến thức Động cơ kép",
+    "zh-CN": "双引擎知识检索",
+    "ja": "デュアルエンジン知識検索"
+  },
+  "Chapter 05 • Spatial Telemetry": {
+    "ko": "제05장 • 공간 텔레메트리",
+    "id": "Bab 05 • Telemetri Spasial",
+    "vi": "Chương 05 • Đo lường Từ xa Không gian",
+    "zh-CN": "第05章 • 空间遥测",
+    "ja": "第05章 • 空間テレメトリ"
+  },
+  "Chapter 01 • Cognitive Command Hub Sovereign Enterprise Memory OS": {
+    "ko": "제1장 • 인지 명령 허브 소버린 엔터프라이즈 메모리 OS",
+    "id": "Bab 01 • Cognitive Command Hub Sovereign Enterprise Memory OS",
+    "vi": "Chương 01 • Trung tâm Chỉ huy Nhận thức Hệ điều hành Bộ nhớ Doanh nghiệp Chủ quyền",
+    "zh-CN": "第 01 章 • 认知指挥枢纽 主权企业记忆操作系统",
+    "ja": "第1章 • コグニティブ・コマンド・ハブ ソブリン・エンタープライズ・メモリ OS"
+  },
+  "Permanent High-Dimensional Vector Storage of All Corporate History": {
+    "ko": "모든 기업 역사의 영구적 고차원 벡터 저장소",
+    "id": "Penyimpanan Vektor Berdimensi Tinggi Permanen untuk Semua Riwayat Perusahaan",
+    "vi": "Lưu trữ Vector Cao chiều Vĩnh viễn cho Toàn bộ Lịch sử Doanh nghiệp",
+    "zh-CN": "所有企业历史的永久高维向量存储",
+    "ja": "全企業履歴の永続的高次元ベクトル・ストレージ"
+  },
+  "Sub-Second Verified Retrieval Across Multilingual Repositories": {
+    "ko": "다국어 저장소 전반의 1초 미만 검증된 검색",
+    "id": "Pengambilan Terverifikasi Sub-Detik di Seluruh Repositori Multibahasa",
+    "vi": "Truy xuất Đã xác minh Dưới một giây trên các Kho lưu trữ Đa ngôn ngữ",
+    "zh-CN": "跨多语言存储库的亚秒级验证检索",
+    "ja": "多言語リポジトリにわたる 1 秒未満の検証済み検索"
+  },
+  "Unified Shared Intelligence Synchronized in Real Time": {
+    "ko": "실시간으로 동기화되는 통합 공유 지능",
+    "id": "Kecerdasan Bersama Terpadu yang Disinkronkan secara Real-Time",
+    "vi": "Trí tuệ Chia sẻ Thống nhất được Đồng bộ hóa trong Thời gian thực",
+    "zh-CN": "实时同步的统一共享智能",
+    "ja": "リアルタイムで同期された統合共有インテリジェンス"
+  },
+  "Automated Webhook Settlement Split on All SaaS & MCP Queries": {
+    "ko": "모든 SaaS 및 MCP 쿼리에 대한 자동화된 웹훅 정산 분할",
+    "id": "Pemisahan Penyelesaian Webhook Otomatis pada Semua Kueri SaaS & MCP",
+    "vi": "Phân tách Quyết toán Webhook Tự động trên Tất cả các Truy vấn SaaS & MCP",
+    "zh-CN": "所有 SaaS 和 MCP 查询的自动化 Webhook 结算拆分",
+    "ja": "すべての SaaS および MCP クエリに対する自動 Webhook 決済分割"
+  },
+  "Chapter 02 • Architecture Stack 3-Layer Enterprise Cognitive Stack": {
+    "ko": "제2장 • 아키텍처 스택 3계층 엔터프라이즈 인지 스택",
+    "id": "Bab 02 • Architecture Stack 3-Layer Enterprise Cognitive Stack",
+    "vi": "Chương 02 • Ngăn xếp Kiến trúc Ngăn xếp Nhận thức Doanh nghiệp 3 lớp",
+    "zh-CN": "第 02 章 • 架构堆栈 三层企业认知堆栈",
+    "ja": "第2章 • アーキテクチャ・スタック 3層エンタープライズ・コグニティブ・スタック"
+  },
+  "Chapter 03 • Memory Consolidation Overnight Neural Optimization": {
+    "ko": "제03장 • 기억 공고화 야간 신경 최적화",
+    "id": "Bab 03 • Konsolidasi Memori Optimasi Saraf Semalam",
+    "vi": "Chương 03 • Củng cố trí nhớ Tối ưu hóa thần kinh qua đêm",
+    "zh-CN": "第03章 • 记忆巩固 夜间神经优化",
+    "ja": "第03章 • 記憶の定着 夜間神経最適化"
+  },
+  "Chapter 04 • Cognitive Precision Dual-Engine Knowledge Retrieval": {
+    "ko": "제04장 • 인지 정밀도 듀얼 엔진 지식 검색",
+    "id": "Bab 04 • Presisi Kognitif Pengambilan Pengetahuan Mesin Ganda",
+    "vi": "Chương 04 • Độ chính xác nhận thức Truy xuất kiến thức động cơ kép",
+    "zh-CN": "第04章 • 认知精度 双引擎知识检索",
+    "ja": "第04章 • 認知的精度 デュアルエンジン知識検索"
+  },
+  "Chapter 05 • Spatial Telemetry CCTV Optical Stock Opname": {
+    "ko": "제05장 • 공간 원격 측정 CCTV 광학 재고 실사",
+    "id": "Bab 05 • Telemetri Spasial CCTV Optical Stock Opname",
+    "vi": "Chương 05 • Đo lường từ xa không gian Kiểm kê kho quang học CCTV",
+    "zh-CN": "第05章 • 空间遥测 CCTV 光学库存盘点",
+    "ja": "第05章 • 空間テレメトリ CCTV 光学在庫棚卸"
+  },
+  "Qubit Star™ — AI Virtual Human IP, Digital Celebrity Incubation & 24/7 Multilingual Live-Commerce Creator Engine": {
+    "ko": "Qubit Star™ — AI 가상 인간 IP, 디지털 셀러브리티 인큐베이션 및 24/7 다국어 라이브 커머스 크리에이터 엔진",
+    "id": "Qubit Star™ — IP Manusia Virtual AI, Inkubasi Selebriti Digital & Mesin Kreator Live-Commerce Multibahasa 24/7",
+    "vi": "Qubit Star™ — IP Người ảo AI, Ươm mầm người nổi tiếng kỹ thuật số & Công cụ sáng tạo thương mại trực tiếp đa ngôn ngữ 24/7",
+    "zh-CN": "Qubit Star™ — AI 虚拟人 IP、数字名人孵化及 24/7 多语言直播电商创作引擎",
+    "ja": "Qubit Star™ — AI 仮想人間 IP、デジタルセレブリティ育成 ＆ 24/7 多言語ライブコマース・クリエイターエンジン"
+  },
+  "Deconstructing the Newtonian Creator Trap & The Qubit Star™ Paradigm Shift": {
+    "ko": "뉴턴식 크리에이터 함정 해체 및 Qubit Star™ 패러다임 전환",
+    "id": "Dekonstruksi Jebakan Kreator Newtonian & Pergeseran Paradigma Qubit Star™",
+    "vi": "Giải mã bẫy người sáng tạo kiểu Newton & Sự chuyển đổi mô hình Qubit Star™",
+    "zh-CN": "解构牛顿式创作者陷阱与 Qubit Star™ 范式转移",
+    "ja": "ニュートン式クリエイターの罠の解体と Qubit Star™ パラダイムシフト"
+  },
+  "Inside the 4-Layer Qubit Star™ Autonomous Broadcasting & IP Stack": {
+    "ko": "4계층 Qubit Star™ 자율 방송 및 IP 스택 내부",
+    "id": "Di dalam 4-Layer Qubit Star™ Autonomous Broadcasting & IP Stack",
+    "vi": "Bên trong 4-Layer Qubit Star™ Autonomous Broadcasting & IP Stack",
+    "zh-CN": "深入了解 4 层 Qubit Star™ 自主广播与 IP 堆栈",
+    "ja": "4レイヤー Qubit Star™ 自律放送 ＆ IP スタックの内部"
+  },
+  "Mathematical Physics of Linguistic Superposition & Perpetual Creator Equity": {
+    "ko": "언어적 중첩의 수리물리학 및 영구적 크리에이터 지분",
+    "id": "Fisika Matematika dari Superposisi Linguistik & Ekuitas Kreator Abadi",
+    "vi": "Vật lý Toán học của Chồng lấp Ngôn ngữ & Quyền sở hữu Người sáng tạo Vĩnh cửu",
+    "zh-CN": "语言叠加的数学物理与永久创作者权益",
+    "ja": "言語的重ね合わせの数理物理学と永久的クリエイター持分"
+  },
+  "How Qubit Star™ Ignites the 5 Cosmo Seed™ Engines & 9 Priority Projects": {
+    "ko": "Qubit Star™가 5개의 Cosmo Seed™ 엔진과 9개의 우선순위 프로젝트를 점화하는 방법",
+    "id": "Bagaimana Qubit Star™ Menyalakan 5 Mesin Cosmo Seed™ & 9 Proyek Prioritas",
+    "vi": "Cách Qubit Star™ Kích hoạt 5 Động cơ Cosmo Seed™ & 9 Dự án Ưu tiên",
+    "zh-CN": "Qubit Star™ 如何启动 5 个 Cosmo Seed™ 引擎和 9 个优先项目",
+    "ja": "Qubit Star™ が 5 つの Cosmo Seed™ エンジンと 9 つの優先プロジェクトを点火する方法"
+  },
+  "Monetizing Virtual Celebrity IP Across Global Partners & Challengers": {
+    "ko": "글로벌 파트너 및 챌린저 전반에 걸친 가상 셀러브리티 IP 수익화",
+    "id": "Monetisasi IP Selebriti Virtual di Seluruh Mitra Global & Penantang",
+    "vi": "Kiếm tiền từ IP Người nổi tiếng Ảo thông qua các Đối tác Toàn cầu & Đối thủ cạnh tranh",
+    "zh-CN": "在全球合作伙伴和挑战者中实现虚拟名人 IP 变现",
+    "ja": "グローバルパートナーおよびチャレンジャー全体でのバーチャルセレブリティ IP の収益化"
+  },
+  "The Compounding Virtual IP Flywheel Inside the Signal Star Universe": {
+    "ko": "Signal Star 유니버스 내부의 복리 가상 IP 플라이휠",
+    "id": "Flywheel IP Virtual yang Berlipat Ganda di Dalam Semesta Signal Star",
+    "vi": "Bánh đà IP Ảo Tích lũy bên trong Vũ trụ Signal Star",
+    "zh-CN": "Signal Star 宇宙内部的复合虚拟 IP 飞轮",
+    "ja": "Signal Star ユニバース内の複利的なバーチャル IP フライホイール"
+  },
+  "From Fragile Human Influencer Retainers to Perpetual Quantum IP Assets": {
+    "ko": "취약한 인간 인플루언서 계약에서 영구적인 양자 IP 자산으로",
+    "id": "Dari Kontrak Influencer Manusia yang Rapuh ke Aset IP Kuantum Abadi",
+    "vi": "Từ Hợp đồng Người ảnh hưởng là Con người Mong manh đến Tài sản IP Lượng tử Vĩnh cửu",
+    "zh-CN": "从脆弱的人类网红聘用制到永久量子 IP 资产",
+    "ja": "脆弱な人間インフルエンサーの契約から永久的な量子 IP 資産へ"
+  },
+  "Overnight Data Factory Persona Synthesis (10 PM -> 8 AM)": {
+    "ko": "야간 데이터 팩토리 페르소나 합성 (10 PM -> 8 AM)",
+    "id": "Sintesis Persona Pabrik Data Semalam (10 PM -> 8 AM)",
+    "vi": "Tổng hợp Nhân vật Nhà máy Dữ liệu Qua đêm (10 CH -> 8 SÁNG)",
+    "zh-CN": "通宵数据工厂人格合成 (10 PM -> 8 AM)",
+    "ja": "オーバーナイト・データ・ファクトリー・ペルソナ合成 (10 PM -> 8 AM)"
+  },
+  "Dual-Engine Vector RAG (NotebookLM + Dify) Live Brain": {
+    "ko": "듀얼 엔진 벡터 RAG (NotebookLM + Dify) 라이브 브레인",
+    "id": "Dual-Engine Vector RAG (NotebookLM + Dify) Live Brain",
+    "vi": "Dual-Engine Vector RAG (NotebookLM + Dify) Live Brain",
+    "zh-CN": "双引擎向量 RAG (NotebookLM + Dify) 实时大脑",
+    "ja": "デュアルエンジン・ベクトル RAG (NotebookLM + Dify) ライブブレイン"
+  },
+  "Qubit ERP & CCTV Vision Stock Opname Sync": {
+    "ko": "Qubit ERP 및 CCTV 비전 재고 실사 동기화",
+    "id": "Sinkronisasi Stock Opname Qubit ERP & CCTV Vision",
+    "vi": "Đồng bộ hóa kiểm kho Qubit ERP & CCTV Vision",
+    "zh-CN": "Qubit ERP 与 CCTV 视觉库存盘点同步",
+    "ja": "Qubit ERP & CCTV ビジョン在庫棚卸同期"
+  },
+  "Why Traditional Influencer Models Fail at Cross-Border Scale": {
+    "ko": "전통적인 인플루언서 모델이 크로스보더 확장 시 실패하는 이유",
+    "id": "Mengapa Model Influencer Tradisional Gagal dalam Skala Lintas Batas",
+    "vi": "Tại sao các mô hình Influencer truyền thống thất bại ở quy mô xuyên biên giới",
+    "zh-CN": "为什么传统网红模式在跨境规模化时会失败",
+    "ja": "従来のインフルエンサーモデルがクロスボーダー規模で失敗する理由"
+  },
+  "Compounding Equity Inside the SISTAR Studio IP Vault": {
+    "ko": "SISTAR Studio IP Vault 내부의 복리 지분",
+    "id": "Ekuitas Majemuk di Dalam SISTAR Studio IP Vault",
+    "vi": "Tích lũy vốn chủ sở hữu bên trong SISTAR Studio IP Vault",
+    "zh-CN": "SISTAR Studio IP Vault 内部的复利权益",
+    "ja": "SISTAR Studio IP Vault 内の複利持分"
+  },
+  "End-to-End Neural Live-Commerce Execution Pipeline": {
+    "ko": "엔드 투 엔드 뉴럴 라이브 커머스 실행 파이프라인",
+    "id": "Pipeline Eksekusi Live-Commerce Neural End-to-End",
+    "vi": "Quy trình thực thi Live-Commerce thần kinh End-to-End",
+    "zh-CN": "端到端神经直播电商执行流水线",
+    "ja": "エンドツーエンド・ニューラル・ライブコマース実行パイプライン"
+  },
+  "Instant 6-Country Brand Launch": {
+    "ko": "즉각적인 6개국 브랜드 런칭",
+    "id": "Peluncuran Brand Instan di 6 Negara",
+    "vi": "Ra mắt thương hiệu tức thì tại 6 quốc gia",
+    "zh-CN": "即时 6 国品牌发布",
+    "ja": "インスタント 6 カ国ブランドローンチ"
+  },
+  "Broadcast Duty Cycle & Language Reach": {
+    "ko": "방송 가동 주기 및 언어 도달 범위",
+    "id": "Siklus Tugas Siaran & Jangkauan Bahasa",
+    "vi": "Chu kỳ phát sóng & Phạm vi tiếp cận ngôn ngữ",
+    "zh-CN": "广播工作周期与语言覆盖范围",
+    "ja": "放送稼働サイクルと対応言語の広さ"
+  },
+  "3–4 hours/day max; single language; high studio & makeup overhead.": {
+    "ko": "일일 최대 3~4시간; 단일 언어; 높은 스튜디오 및 메이크업 비용 부담.",
+    "id": "Maksimal 3–4 jam/hari; satu bahasa; biaya overhead studio & riasan yang tinggi.",
+    "vi": "Tối đa 3–4 giờ/ngày; một ngôn ngữ; chi phí studio & trang điểm cao.",
+    "zh-CN": "每天最多 3-4 小时；单一语言；高昂的演播室和化妆开销。",
+    "ja": "1日最大3〜4時間、単一言語、高いスタジオ・メイクアップ経費。"
+  },
+  "Pre-recorded lip-sync clips; cannot hold unscripted live commerce Q&A.": {
+    "ko": "사전 녹화된 립싱크 클립; 대본 없는 라이브 커머스 Q&A 진행 불가.",
+    "id": "Klip lip-sync pra-rekaman; tidak dapat melakukan tanya jawab live commerce tanpa naskah.",
+    "vi": "Các đoạn clip hát nhép được ghi hình trước; không thể thực hiện hỏi đáp thương mại trực tiếp không theo kịch bản.",
+    "zh-CN": "预录制的对口型视频；无法进行无脚本的直播电商问答。",
+    "ja": "事前録画されたリップシンク動画。台本なしのライブコマースQ&Aは不可。"
+  },
+  "24/7/365 Continuous Live Streaming in 6 languages (en, kr, id, vn, cn, jp) simultaneously.": {
+    "ko": "24/7/365 6개 언어(en, kr, id, vn, cn, jp) 동시 연속 라이브 스트리밍.",
+    "id": "Live Streaming Berkelanjutan 24/7/365 dalam 6 bahasa (en, kr, id, vn, cn, jp) secara simultan.",
+    "vi": "Phát trực tiếp liên tục 24/7/365 bằng 6 ngôn ngữ (en, kr, id, vn, cn, jp) cùng lúc.",
+    "zh-CN": "24/7/365 全天候以 6 种语言（en, kr, id, vn, cn, jp）同步连续直播。",
+    "ja": "24時間365日、6言語（en, kr, id, vn, cn, jp）同時連続ライブストリーミング。"
+  },
+  "Product & Regulatory Knowledge Brain": {
+    "ko": "제품 및 규제 지식 브레인",
+    "id": "Otak Pengetahuan Produk & Regulasi",
+    "vi": "Bộ não kiến thức về sản phẩm & quy định",
+    "zh-CN": "产品与监管知识大脑",
+    "ja": "製品および規制知識のブレイン"
+  },
+  "Human memory; frequent off-script exaggerations risking FDA/BPOM fines.": {
+    "ko": "인간의 기억력; 빈번한 대본 외 과장 광고로 인한 FDA/BPOM 벌금 위험.",
+    "id": "Ingatan manusia; sering terjadi hiperbola di luar naskah yang berisiko denda FDA/BPOM.",
+    "vi": "Trí nhớ con người; thường xuyên phóng đại ngoài kịch bản có nguy cơ bị phạt FDA/BPOM.",
+    "zh-CN": "人类记忆；频繁的脱稿夸张，面临 FDA/BPOM 罚款风险。",
+    "ja": "人間の記憶。台本にない誇張表現が頻発し、FDA/BPOMの罰金リスクがある。"
+  },
+  "Generic LLM wrapper prone to hallucinating prices or medical claims.": {
+    "ko": "가격이나 의료 관련 주장을 환각(hallucination)하기 쉬운 일반적인 LLM 래퍼.",
+    "id": "Wrapper LLM generik yang rentan terhadap halusinasi harga atau klaim medis.",
+    "vi": "Trình bao bọc LLM chung chung dễ bị ảo giác về giá cả hoặc các tuyên bố y tế.",
+    "zh-CN": "容易出现价格或医疗主张幻觉的通用 LLM 封装器。",
+    "ja": "価格や医療上の主張についてハルシネーションを起こしやすい汎用 LLM ラッパー。"
+  },
+  "Dual-Engine Vector RAG (NotebookLM + Dify) with 0.00% regulatory hallucination.": {
+    "ko": "규제 관련 환각 0.00%의 듀얼 엔진 벡터 RAG (NotebookLM + Dify).",
+    "id": "Dual-Engine Vector RAG (NotebookLM + Dify) dengan 0,00% halusinasi regulasi.",
+    "vi": "RAG Vector Động cơ kép (NotebookLM + Dify) với 0,00% ảo giác quy định.",
+    "zh-CN": "双引擎向量 RAG (NotebookLM + Dify)，监管幻觉率为 0.00%。",
+    "ja": "規制に関するハルシネーション 0.00% のデュアルエンジン ベクトル RAG (NotebookLM + Dify)。"
+  },
+  "Warehouse & Inventory Synchronization": {
+    "ko": "창고 및 재고 동기화",
+    "id": "Sinkronisasi Gudang & Inventaris",
+    "vi": "Đồng bộ hóa Kho hàng & Tồn kho",
+    "zh-CN": "仓库与库存同步",
+    "ja": "倉庫と在庫の同期"
+  },
+  "Zero visibility; hosts promote sold-out SKUs, causing refund spikes.": {
+    "ko": "가시성 제로; 호스트가 품절된 SKU를 홍보하여 환불 급증 유발.",
+    "id": "Visibilitas nol; host mempromosikan SKU yang habis terjual, menyebabkan lonjakan pengembalian dana.",
+    "vi": "Khả năng hiển thị bằng không; người dẫn chương trình quảng bá các SKU đã hết hàng, gây ra tình trạng hoàn tiền tăng vọt.",
+    "zh-CN": "零可见度；主播推广已售罄的 SKU，导致退款激增。",
+    "ja": "可視性ゼロ。ホストが売り切れの SKU を宣伝し、返金の急増を引き起こす。"
+  },
+  "No ERP integration; static product links only.": {
+    "ko": "ERP 연동 없음; 정적 제품 링크만 제공.",
+    "id": "Tidak ada integrasi ERP; hanya tautan produk statis.",
+    "vi": "Không tích hợp ERP; chỉ có các liên kết sản phẩm tĩnh.",
+    "zh-CN": "无 ERP 集成；仅限静态产品链接。",
+    "ja": "ERP 連携なし。静的な商品リンクのみ。"
+  },
+  "Qubit ERP & CCTV Vision Stock Opname real-time bundle & pricing adaptation.": {
+    "ko": "Qubit ERP & CCTV Vision Stock Opname 실시간 번들 및 가격 조정.",
+    "id": "Adaptasi bundel & harga real-time Qubit ERP & CCTV Vision Stock Opname.",
+    "vi": "Điều chỉnh gói sản phẩm & giá cả theo thời gian thực của Qubit ERP & CCTV Vision Stock Opname.",
+    "zh-CN": "Qubit ERP & CCTV Vision Stock Opname 实时组合与价格调整。",
+    "ja": "Qubit ERP & CCTV Vision Stock Opname によるリアルタイムのセット販売および価格適応。"
+  },
+  "Checkout & Conversational Closing": {
+    "ko": "체크아웃 및 대화형 클로징",
+    "id": "Checkout & Penutupan Percakapan",
+    "vi": "Thanh toán & Chốt đơn qua hội thoại",
+    "zh-CN": "结账与对话式成交",
+    "ja": "チェックアウトと対話型クロージング"
+  },
+  "Passive link in bio; 75%+ cart abandonment after stream ends.": {
+    "ko": "프로필 내 수동 링크; 스트리밍 종료 후 장바구니 이탈률 75% 이상.",
+    "id": "Tautan pasif di bio; 75%+ pengabaian keranjang setelah siaran berakhir.",
+    "vi": "Liên kết thụ động trong tiểu sử; hơn 75% bỏ giỏ hàng sau khi kết thúc livestream.",
+    "zh-CN": "个人简介中的被动链接；直播结束后购物车弃单率超过 75%。",
+    "ja": "プロフィールの受動的なリンク。配信終了後のカート放棄率75%以上。"
+  },
+  "No transactional closing capability.": {
+    "ko": "거래 클로징 기능 없음.",
+    "id": "Tidak ada kemampuan penutupan transaksi.",
+    "vi": "Không có khả năng chốt giao dịch.",
+    "zh-CN": "无交易成交能力。",
+    "ja": "取引クロージング機能なし。"
+  },
+  "Direct handoff to Ms. Scarlet AI (scarlet-ai) & sisCart with PG 70/30 split.": {
+    "ko": "Ms. Scarlet AI (scarlet-ai) 및 sisCart로 직접 인계, PG 70/30 수익 배분.",
+    "id": "Penyerahan langsung ke Ms. Scarlet AI (scarlet-ai) & sisCart dengan pembagian PG 70/30.",
+    "vi": "Chuyển giao trực tiếp cho Ms. Scarlet AI (scarlet-ai) & sisCart với tỷ lệ chia PG 70/30.",
+    "zh-CN": "直接移交给 Ms. Scarlet AI (scarlet-ai) 和 sisCart，PG 分成比例为 70/30。",
+    "ja": "Ms. Scarlet AI (scarlet-ai) および sisCart への直接引き継ぎ、PG 70/30 の配分。"
+  },
+  "IP Ownership & Balance Sheet Impact": {
+    "ko": "IP 소유권 및 재무제표 영향",
+    "id": "Kepemilikan IP & Dampak Neraca",
+    "vi": "Sở hữu trí tuệ & Tác động đến bảng cân đối kế toán",
+    "zh-CN": "知识产权所有权与资产负债表影响",
+    "ja": "IP所有権と貸借対照表への影響"
+  },
+  "0% ownership; KOL owns the audience and can defect to competitors.": {
+    "ko": "소유권 0%; KOL이 오디언스를 소유하며 경쟁사로 이탈 가능.",
+    "id": "0% kepemilikan; KOL memiliki audiens dan dapat beralih ke pesaing.",
+    "vi": "0% sở hữu; KOL sở hữu khán giả và có thể chuyển sang đối thủ cạnh tranh.",
+    "zh-CN": "0% 所有权；KOL 拥有受众，并可能流失到竞争对手处。",
+    "ja": "所有権0%。KOLがオーディエンスを所有し、競合他社に流出する可能性がある。"
+  },
+  "Rented software template; zero brand differentiation.": {
+    "ko": "임대형 소프트웨어 템플릿; 브랜드 차별화 전무.",
+    "id": "Templat perangkat lunak sewaan; nol diferensiasi merek.",
+    "vi": "Mẫu phần mềm thuê; không có sự khác biệt về thương hiệu.",
+    "zh-CN": "租用的软件模板；零品牌差异化。",
+    "ja": "レンタルソフトウェアテンプレート。ブランドの差別化はゼロ。"
+  },
+  "100% Sovereign IP Asset inside qubit-biz; securitizable royalty cashflows.": {
+    "ko": "qubit-biz 내 100% 독자적 IP 자산; 증권화 가능한 로열티 현금 흐름.",
+    "id": "Aset IP Berdaulat 100% di dalam qubit-biz; arus kas royalti yang dapat disekuritisasi.",
+    "vi": "Tài sản IP có chủ quyền 100% trong qubit-biz; dòng tiền bản quyền có thể chứng khoán hóa.",
+    "zh-CN": "qubit-biz 内部 100% 主权 IP 资产；可证券化的版税现金流。",
+    "ja": "qubit-biz 内の 100% 独自の IP 資産。証券化可能なロイヤリティキャッシュフロー。"
+  },
+  "Tier 1 • 24/7 Live-Stream Host SaaS (QS-LIVE)": {
+    "ko": "티어 1 • 24/7 라이브 스트림 호스트 SaaS (QS-LIVE)",
+    "id": "Tingkat 1 • SaaS Host Live-Stream 24/7 (QS-LIVE)",
+    "vi": "Cấp 1 • SaaS Lưu trữ Phát trực tiếp 24/7 (QS-LIVE)",
+    "zh-CN": "第一梯队 • 24/7 直播托管 SaaS (QS-LIVE)",
+    "ja": "ティア 1 • 24時間365日ライブストリームホスト SaaS (QS-LIVE)"
+  },
+  "Cross-Border D2C Brands & Shopee/TikTok Sellers": {
+    "ko": "크로스보더 D2C 브랜드 및 Shopee/TikTok 셀러",
+    "id": "Merek D2C Lintas Batas & Penjual Shopee/TikTok",
+    "vi": "Thương hiệu D2C xuyên biên giới & Người bán trên Shopee/TikTok",
+    "zh-CN": "跨境 D2C 品牌及 Shopee/TikTok 卖家",
+    "ja": "クロスボーダー D2C ブランドおよび Shopee/TikTok セラー"
+  },
+  "$1,500/mo base compute fee (or offset via Idea/Space Bank) + 5% PG Auto-Split on live-stream GMV settled via sisCart.": {
+    "ko": "월 $1,500 기본 컴퓨팅 비용 (또는 Idea/Space Bank를 통해 상쇄) + sisCart를 통해 정산되는 라이브 스트림 GMV의 5% PG 자동 분할.",
+    "id": "Biaya komputasi dasar $1.500/bln (atau diimbangi melalui Idea/Space Bank) + 5% PG Auto-Split pada GMV live-stream yang diselesaikan melalui sisCart.",
+    "vi": "Phí tính toán cơ bản $1.500/tháng (hoặc bù đắp qua Idea/Space Bank) + 5% PG Auto-Split trên GMV phát trực tiếp được thanh toán qua sisCart.",
+    "zh-CN": "每月 1,500 美元基础计算费（或通过 Idea/Space Bank 抵扣）+ 通过 sisCart 结算的直播 GMV 5% PG 自动分账。",
+    "ja": "月額 1,500 ドルの基本コンピューティング料金（または Idea/Space Bank 経由で相殺）+ sisCart 経由で決済されるライブストリーム GMV の 5% PG 自動分割。"
+  },
+  "82% Gross Margin | 4.8x–9.2x Partner ROAS": {
+    "ko": "82% 매출총이익률 | 4.8배–9.2배 파트너 ROAS",
+    "id": "Margin Kotor 82% | 4,8x–9,2x ROAS Mitra",
+    "vi": "Biên lợi nhuận gộp 82% | 4,8x–9,2x ROAS của đối tác",
+    "zh-CN": "82% 毛利率 | 4.8x–9.2x 合作伙伴 ROAS",
+    "ja": "売上総利益率 82% | 4.8倍～9.2倍のパートナー ROAS"
+  },
+  "Tier 2 • Exclusive Brand Ambassador IP (QS-BESPOKE)": {
+    "ko": "티어 2 • 독점 브랜드 앰배서더 IP (QS-BESPOKE)",
+    "id": "Tier 2 • IP Brand Ambassador Eksklusif (QS-BESPOKE)",
+    "vi": "Cấp độ 2 • IP Đại sứ Thương hiệu Độc quyền (QS-BESPOKE)",
+    "zh-CN": "第 2 层 • 独家品牌大使 IP (QS-BESPOKE)",
+    "ja": "ティア 2 • 専属ブランドアンバサダー IP (QS-BESPOKE)"
+  },
+  "Enterprise FMCG, K-Beauty & Nutraceutical Groups": {
+    "ko": "엔터프라이즈 FMCG, K-뷰티 및 건강기능식품 그룹",
+    "id": "Grup FMCG Perusahaan, K-Beauty & Nutrasetika",
+    "vi": "Tập đoàn FMCG Doanh nghiệp, K-Beauty & Thực phẩm chức năng",
+    "zh-CN": "企业级 FMCG、K-Beauty 和营养保健品集团",
+    "ja": "エンタープライズ FMCG、K-Beauty、およびニュートラシューティカル・グループ"
+  },
+  "Custom persona sculpted in SISTAR Studio + dedicated NotebookLM/Dify RAG product brain + 6-language exclusivity.": {
+    "ko": "SISTAR Studio에서 조각된 맞춤형 페르소나 + 전용 NotebookLM/Dify RAG 제품 브레인 + 6개 언어 독점권.",
+    "id": "Persona khusus yang dibentuk di SISTAR Studio + otak produk RAG NotebookLM/Dify khusus + eksklusivitas 6 bahasa.",
+    "vi": "Persona tùy chỉnh được điêu khắc trong SISTAR Studio + bộ não sản phẩm RAG NotebookLM/Dify chuyên dụng + độc quyền 6 ngôn ngữ.",
+    "zh-CN": "在 SISTAR Studio 中塑造的定制角色 + 专用 NotebookLM/Dify RAG 产品大脑 + 6 种语言独占权。",
+    "ja": "SISTAR Studio で造形されたカスタムペルソナ + 専用の NotebookLM/Dify RAG プロダクトブレイン + 6言語独占権。"
+  },
+  "86% Gross Margin | $25K–$60K Annual IP License": {
+    "ko": "86% 매출총이익률 | $25K–$60K 연간 IP 라이선스",
+    "id": "Margin Laba Kotor 86% | Lisensi IP Tahunan $25K–$60K",
+    "vi": "Biên lợi nhuận gộp 86% | Giấy phép IP hàng năm $25K–$60K",
+    "zh-CN": "86% 毛利率 | $25K–$60K 年度 IP 许可",
+    "ja": "売上総利益率 86% | 年間 IP ライセンス料 $25K–$60K"
+  },
+  "Tier 3 • Challenger Co-Hosted Micro-TV (QS-CHALLENGER)": {
+    "ko": "티어 3 • 챌린저 공동 주최 마이크로 TV (QS-CHALLENGER)",
+    "id": "Tier 3 • Micro-TV yang Dipandu Bersama Challenger (QS-CHALLENGER)",
+    "vi": "Cấp độ 3 • Micro-TV do Challenger đồng tổ chức (QS-CHALLENGER)",
+    "zh-CN": "第 3 层 • Challenger 联合主持微型电视 (QS-CHALLENGER)",
+    "ja": "ティア 3 • Challenger 共同ホスト・マイクロ TV (QS-CHALLENGER)"
+  },
+  "SISTAR Challengers Int'l & S1–S6 Franchisees": {
+    "ko": "SISTAR Challengers Int'l 및 S1–S6 프랜차이즈 가맹점",
+    "id": "SISTAR Challengers Int'l & Penerima Waralaba S1–S6",
+    "vi": "SISTAR Challengers Int'l & Các bên nhận nhượng quyền S1–S6",
+    "zh-CN": "SISTAR Challengers Int'l 和 S1–S6 加盟商",
+    "ja": "SISTAR Challengers Int'l および S1–S6 フランチャイジー"
+  },
+  "Zero upfront fee for verified Challengers; virtual star hosts local affiliate store 24/7 while Challenger earns automated affiliate splits.": {
+    "ko": "검증된 Challenger를 위한 초기 비용 0원; 가상 스타가 현지 제휴 매장을 24시간 연중무휴로 운영하는 동안 Challenger는 자동화된 제휴 수익 배분을 받습니다.",
+    "id": "Biaya awal nol untuk Challenger terverifikasi; bintang virtual mengelola toko afiliasi lokal 24/7 sementara Challenger mendapatkan pembagian afiliasi otomatis.",
+    "vi": "Miễn phí trả trước cho các Challenger đã xác minh; ngôi sao ảo vận hành cửa hàng liên kết địa phương 24/7 trong khi Challenger nhận chia sẻ lợi nhuận liên kết tự động.",
+    "zh-CN": "经过验证的 Challenger 无需预付费用；虚拟明星 24/7 运营本地分销店，而 Challenger 赚取自动分销分成。",
+    "ja": "認証済み Challenger の初期費用は無料。バーチャルスターがローカルアフィリエイト店舗を 24 時間 365 日運営し、Challenger は自動化されたアフィリエイト報酬を受け取ります。"
+  },
+  "75% Platform GM | 10x Affiliate Conversion Lift": {
+    "ko": "75% 플랫폼 GM | 10배 제휴 전환율 상승",
+    "id": "75% GM Platform | 10x Peningkatan Konversi Afiliasi",
+    "vi": "75% GM Nền tảng | Tăng 10 lần chuyển đổi liên kết",
+    "zh-CN": "75% 平台 GM | 10 倍分销转化提升",
+    "ja": "75% プラットフォーム GM | 10 倍のアフィリエイトコンバージョン向上"
+  },
+  "Tier 4 • Securitized IP Royalty Pool (QS-ROYALTIES)": {
+    "ko": "Tier 4 • 증권화된 IP 로열티 풀 (QS-ROYALTIES)",
+    "id": "Tier 4 • Kolam Royalti IP yang Disekuritisasi (QS-ROYALTIES)",
+    "vi": "Tier 4 • Nhóm bản quyền IP được chứng khoán hóa (QS-ROYALTIES)",
+    "zh-CN": "Tier 4 • 证券化 IP 版税池 (QS-ROYALTIES)",
+    "ja": "Tier 4 • 証券化された IP ロイヤリティプール (QS-ROYALTIES)"
+  },
+  "Strategic JV Partners & Institutional Co-Investors": {
+    "ko": "전략적 JV 파트너 및 기관 공동 투자자",
+    "id": "Mitra JV Strategis & Co-Investor Institusional",
+    "vi": "Đối tác JV chiến lược & Nhà đồng đầu tư tổ chức",
+    "zh-CN": "战略合资伙伴与机构共同投资者",
+    "ja": "戦略的 JV パートナーおよび機関投資家"
+  },
+  "Fractional ownership of top-performing Qubit Star celebrity personas; automated quarterly dividend payout from global brand endorsements.": {
+    "ko": "최고 실적의 Qubit Star 셀러브리티 페르소나에 대한 분할 소유권; 글로벌 브랜드 홍보 대사 활동을 통한 자동 분기별 배당금 지급.",
+    "id": "Kepemilikan fraksional dari persona selebriti Qubit Star berkinerja terbaik; pembayaran dividen kuartalan otomatis dari dukungan merek global.",
+    "vi": "Sở hữu phân đoạn các nhân vật nổi tiếng Qubit Star có hiệu suất cao nhất; thanh toán cổ tức hàng quý tự động từ các hợp đồng quảng bá thương hiệu toàn cầu.",
+    "zh-CN": "表现最佳的 Qubit Star 名人形象的部分所有权；来自全球品牌代言的自动季度分红支付。",
+    "ja": "高実績の Qubit Star セレブリティ・ペルソナの分割所有権。グローバルブランドのアンバサダー活動による自動四半期配当支払い。"
+  },
+  "32%+ IRR Target | Non-Dilutive IP Asset Class": {
+    "ko": "32%+ IRR 목표 | 비희석적 IP 자산 클래스",
+    "id": "Target IRR 32%+ | Kelas Aset IP Non-Dilutif",
+    "vi": "Mục tiêu IRR 32%+ | Loại tài sản IP không pha loãng",
+    "zh-CN": "32%+ IRR 目标 | 非稀释性 IP 资产类别",
+    "ja": "32%+ IRR 目標 | 非希釈型 IP アセットクラス"
+  },
+  "Legacy MCN & Human KOL Agency": {
+    "ko": "레거시 MCN 및 휴먼 KOL 에이전시",
+    "id": "Agensi MCN & KOL Manusia Tradisional",
+    "vi": "Đại lý MCN & KOL Người thật Truyền thống",
+    "zh-CN": "传统 MCN 与真人 KOL 机构",
+    "ja": "レガシーMCNおよびヒューマンKOLエージェンシー"
+  },
+  "Generic 2D Avatar Tools (SaaS)": {
+    "ko": "범용 2D 아바타 툴 (SaaS)",
+    "id": "Alat Avatar 2D Generik (SaaS)",
+    "vi": "Công cụ Avatar 2D Chung (SaaS)",
+    "zh-CN": "通用 2D 虚拟形象工具 (SaaS)",
+    "ja": "汎用2Dアバターツール (SaaS)"
+  },
+  "Licensing Tier & Model Code": {
+    "ko": "라이선싱 티어 및 모델 코드",
+    "id": "Tingkatan Lisensi & Kode Model",
+    "vi": "Cấp độ Cấp phép & Mã Mô hình",
+    "zh-CN": "许可层级与模型代码",
+    "ja": "ライセンス階層およびモデルコード"
+  },
+  "Target Partner Cohort": {
+    "ko": "타겟 파트너 코호트",
+    "id": "Kohort Mitra Target",
+    "vi": "Nhóm Đối tác Mục tiêu",
+    "zh-CN": "目标合作伙伴群组",
+    "ja": "ターゲットパートナーコホート"
+  },
+  "Commercial & 4-Way Qubit Offsetting Structure": {
+    "ko": "상업 및 4-Way Qubit Offsetting 구조",
+    "id": "Struktur Komersial & 4-Way Qubit Offsetting",
+    "vi": "Cấu trúc Thương mại & 4-Way Qubit Offsetting",
+    "zh-CN": "商业与 4-Way Qubit Offsetting 结构",
+    "ja": "商業および4-Way Qubit Offsetting構造"
+  },
+  "Gross Margin & Target KPI": {
+    "ko": "매출총이익 및 목표 KPI",
+    "id": "Margin Laba Kotor & KPI Target",
+    "vi": "Lợi nhuận gộp & KPI mục tiêu",
+    "zh-CN": "毛利率与目标 KPI",
+    "ja": "売上総利益と目標KPI"
+  },
+  "Figure 2.1: Structural comparison between classical MCN human influencer dependency and the Qubit Star™ 24/7 autonomous virtual celebrity pipeline on Domain 05 (qubit-biz).": {
+    "ko": "그림 2.1: 클래식 MCN의 휴먼 인플루언서 의존도와 Domain 05 (qubit-biz)에서의 Qubit Star™ 24/7 자율형 가상 셀러브리티 파이프라인 간의 구조적 비교",
+    "id": "Gambar 2.1: Perbandingan struktural antara ketergantungan influencer manusia MCN klasik dan pipa selebriti virtual otonom 24/7 Qubit Star™ pada Domain 05 (qubit-biz).",
+    "vi": "Hình 2.1: So sánh cấu trúc giữa sự phụ thuộc vào người ảnh hưởng là con người của MCN cổ điển và quy trình người nổi tiếng ảo tự trị 24/7 Qubit Star™ trên Domain 05 (qubit-biz).",
+    "zh-CN": "图 2.1：传统 MCN 真人网红依赖度与 Domain 05 (qubit-biz) 上的 Qubit Star™ 24/7 自主虚拟名人流水线之间的结构对比。",
+    "ja": "図 2.1：従来のMCNのヒューマンインフルエンサー依存と、Domain 05 (qubit-biz)におけるQubit Star™ 24/7自律型バーチャルセレブリティパイプラインの構造比較。"
+  },
+  "Figure 3.1: Real-time execution loop connecting the Overnight Data Factory (10 PM - 8 AM), Qubit ERP CCTV Stock Opname, Dual-Engine Vector RAG, and 6-language live-commerce broadcasting.": {
+    "ko": "그림 3.1: Overnight Data Factory (오후 10시 - 오전 8시), Qubit ERP CCTV Stock Opname, Dual-Engine Vector RAG 및 6개 국어 라이브 커머스 방송을 연결하는 실시간 실행 루프",
+    "id": "Gambar 3.1: Loop eksekusi real-time yang menghubungkan Overnight Data Factory (10 malam - 8 pagi), Qubit ERP CCTV Stock Opname, Dual-Engine Vector RAG, dan siaran live-commerce 6 bahasa.",
+    "vi": "Hình 3.1: Vòng lặp thực thi thời gian thực kết nối Overnight Data Factory (10 giờ tối - 8 giờ sáng), Qubit ERP CCTV Stock Opname, Dual-Engine Vector RAG và phát sóng thương mại trực tiếp 6 ngôn ngữ.",
+    "zh-CN": "图 3.1：连接 Overnight Data Factory（晚上 10 点 - 早上 8 点）、Qubit ERP CCTV Stock Opname、Dual-Engine Vector RAG 和 6 语种直播电商广播的实时执行循环。",
+    "ja": "図 3.1：Overnight Data Factory（午後10時〜午前8時）、Qubit ERP CCTV Stock Opname、Dual-Engine Vector RAG、および6言語ライブコマース放送を接続するリアルタイム実行ループ。"
+  },
+  "Figure 7.1: The 4-stage Qubit Star™ IP incubation, 24/7 multilingual broadcasting, PG 70/30 settlement, and royalty securitization flywheel.": {
+    "ko": "그림 7.1: 4단계 Qubit Star™ IP 인큐베이션, 24/7 다국어 방송, PG 70/30 정산 및 로열티 증권화 플라이휠",
+    "id": "Gambar 7.1: Inkubasi IP Qubit Star™ 4 tahap, siaran multibahasa 24/7, penyelesaian PG 70/30, dan flywheel sekuritisasi royalti.",
+    "vi": "Hình 7.1: Quy trình 4 giai đoạn ươm tạo IP Qubit Star™, phát sóng đa ngôn ngữ 24/7, quyết toán PG 70/30 và bánh đà chứng khoán hóa bản quyền.",
+    "zh-CN": "图 7.1：4 阶段 Qubit Star™ IP 孵化、24/7 多语言广播、PG 70/30 结算和版税证券化飞轮。",
+    "ja": "図 7.1：4段階のQubit Star™ IPインキュベーション、24/7多言語放送、PG 70/30決済、およびロイヤリティ証券化フライホイール。"
+  },
+  "CHAPTER I • EXECUTIVE MANIFESTO & VIRTUAL HUMAN IP GENESIS": {
+    "ko": "제1장 • 경영 선언문 및 가상 인간 IP 제네시스",
+    "id": "BAB I • MANIFESTO EKSEKUTIF & GENESIS IP MANUSIA VIRTUAL",
+    "vi": "CHƯƠNG I • TUYÊN NGÔN ĐIỀU HÀNH & SỰ HÌNH THÀNH IP NGƯỜI ẢO",
+    "zh-CN": "第一章 • 执行宣言与虚拟人 IP 起源",
+    "ja": "第I章 • エグゼクティブ・マニフェスト ＆ バーチャルヒューマンIPジェネシス"
+  },
+  "CHAPTER II • INDUSTRY BOTTLENECKS VS. QUANTUM IP SOLUTION": {
+    "ko": "제2장 • 산업 병목 현상 vs. QUANTUM IP 솔루션",
+    "id": "BAB II • HAMBATAN INDUSTRI VS. SOLUSI QUANTUM IP",
+    "vi": "CHƯƠNG II • CÁC ĐIỂM NGHẼN CỦA NGÀNH VS. GIẢI PHÁP QUANTUM IP",
+    "zh-CN": "第二章 • 行业瓶颈 vs. QUANTUM IP 解决方案",
+    "ja": "第2章 • 業界のボトルネック vs. QUANTUM IP ソリューション"
+  },
+  "STRUCTURAL DISPLACEMENT OF LINEAR INFLUENCER AGENCIES": {
+    "ko": "선형 인플루언서 에이전시의 구조적 대체",
+    "id": "PERGESERAN STRUKTURAL AGENSI INFLUENCER LINEAR",
+    "vi": "SỰ THAY THẾ CẤU TRÚC CỦA CÁC CÔNG TY QUẢN LÝ INFLUENCER TUYẾN TÍNH",
+    "zh-CN": "线性网红机构的结构性置换",
+    "ja": "線形インフルエンサー・エージェンシーの構造的置換"
+  },
+  "CHAPTER III • TECHNICAL ARCHITECTURE & PROTOCOL SPECS": {
+    "ko": "제3장 • 기술 아키텍처 및 프로토콜 사양",
+    "id": "BAB III • ARSITEKTUR TEKNIS & SPESIFIKASI PROTOKOL",
+    "vi": "CHƯƠNG III • KIẾN TRÚC KỸ THUẬT & THÔNG SỐ GIAO THỨC",
+    "zh-CN": "第三章 • 技术架构与协议规范",
+    "ja": "第3章 • 技術アーキテクチャとプロトコル仕様"
+  },
+  "NEURAL RENDERING • DUAL-RAG GROUNDING • CCTV STOCK OPNAME SYNC": {
+    "ko": "뉴럴 렌더링 • DUAL-RAG 그라운딩 • CCTV 재고 실사 동기화",
+    "id": "NEURAL RENDERING • DUAL-RAG GROUNDING • SINKRONISASI STOK OPNAME CCTV",
+    "vi": "KẾT XUẤT THẦN KINH • DUAL-RAG GROUNDING • ĐỒNG BỘ HÓA KIỂM KÊ KHO CCTV",
+    "zh-CN": "神经渲染 • DUAL-RAG 接地 • CCTV 库存盘点同步",
+    "ja": "ニューラルレンダリング • DUAL-RAG グラウンディング • CCTV 在庫棚卸同期"
+  },
+  "SYSTEM SPEC • QS-ARCH-400": {
+    "ko": "시스템 사양 • QS-ARCH-400",
+    "id": "SPESIFIKASI SISTEM • QS-ARCH-400",
+    "vi": "THÔNG SỐ HỆ THỐNG • QS-ARCH-400",
+    "zh-CN": "系统规格 • QS-ARCH-400",
+    "ja": "システム仕様 • QS-ARCH-400"
+  },
+  "OVERNIGHT DATA FACTORY (10 PM - 8 AM) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV": {
+    "ko": "야간 데이터 팩토리 (오후 10시 - 오전 8시) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV",
+    "id": "PABRIK DATA SEMALAM (10 PM - 8 AM) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV",
+    "vi": "NHÀ MÁY DỮ LIỆU QUA ĐÊM (10 CH - 8 SÁNG) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV",
+    "zh-CN": "通宵数据工厂 (10 PM - 8 AM) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV",
+    "ja": "オーバーナイト・データ・ファクトリー (10 PM - 8 AM) -> DUAL-ENGINE VECTOR RAG -> MALL.SISTV"
+  },
+  "6-LANGUAGE BROADCAST SUPERPOSITION & IP SECURITIZATION CALCULUS": {
+    "ko": "6개 국어 방송 중첩 및 IP 증권화 계산법",
+    "id": "SUPERPOSISI SIARAN 6 BAHASA & KALKULUS SEKURITISASI IP",
+    "vi": "CHỒNG CHẤP PHÁT SÓNG 6 NGÔN NGỮ & PHÉP TÍNH CHỨNG KHOÁN HÓA IP",
+    "zh-CN": "6 语种广播叠加与 IP 证券化演算",
+    "ja": "6言語放送重畳およびIP証券化計算"
+  },
+  "CHAPTER V • COSMO SEED™ ENGINE SYNERGY & UNIT ECONOMICS": {
+    "ko": "제5장 • Cosmo Seed™ 엔진 시너지 및 유닛 경제학",
+    "id": "BAB V • SINERGI MESIN Cosmo Seed™ & EKONOMI UNIT",
+    "vi": "CHƯƠNG V • HIỆP LỰC ĐỘNG CƠ Cosmo Seed™ & KINH TẾ ĐƠN VỊ",
+    "zh-CN": "第五章 • Cosmo Seed™ 引擎协同与单位经济效益",
+    "ja": "第V章 • Cosmo Seed™ エンジンシナジーとユニットエコノミクス"
+  },
+  "CROSS-DOMAIN ENTANGLEMENT WITH INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY": {
+    "ko": "INTELLIGENCE-CORE, SCARLET-AI 및 BIZ-GALAXY와의 교차 도메인 얽힘",
+    "id": "KETERKAITAN LINTAS DOMAIN DENGAN INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY",
+    "vi": "SỰ ĐAN XEN ĐA MIỀN VỚI INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY",
+    "zh-CN": "与 INTELLIGENCE-CORE、SCARLET-AI 和 BIZ-GALAXY 的跨域纠缠",
+    "ja": "INTELLIGENCE-CORE、SCARLET-AI、BIZ-GALAXYとのクロスドメイン量子もつれ"
+  },
+  "CHAPTER VI • COMMERCIAL LICENSING & IP SECURITIZATION": {
+    "ko": "제6장 • 상업적 라이선싱 및 IP 증권화",
+    "id": "BAB VI • LISENSI KOMERSIAL & SEKURITISASI IP",
+    "vi": "CHƯƠNG VI • CẤP PHÉP THƯƠNG MẠI & CHỨNG KHOÁN HÓA IP",
+    "zh-CN": "第六章 • 商业许可与 IP 证券化",
+    "ja": "第VI章 • 商業ライセンスとIP証券化"
+  },
+  "4-WAY QUBIT BANK OFFSETTING & CREATOR FRANCHISE MATRIX": {
+    "ko": "4방향 QUBIT 뱅크 상쇄 및 크리에이터 프랜차이즈 매트릭스",
+    "id": "OFFSET BANK QUBIT 4 ARAH & MATRIKS FRANCHISE KREATOR",
+    "vi": "BÙ TRỪ NGÂN HÀNG QUBIT 4 CHIỀU & MA TRẬN NHƯỢNG QUYỀN SÁNG TẠO",
+    "zh-CN": "四向 QUBIT 银行抵消与创作者特许经营矩阵",
+    "ja": "4ウェイ QUBIT バンクオフセットとクリエイターフランチャイズマトリックス"
+  },
+  "CHAPTER VII • STRATEGIC IR VALUATION & FLYWHEEL TOPOLOGY": {
+    "ko": "제7장 • 전략적 IR 가치 평가 및 플라이휠 토폴로지",
+    "id": "BAB VII • VALUASI IR STRATEGIS & TOPOLOGI FLYWHEEL",
+    "vi": "CHƯƠNG VII • ĐỊNH GIÁ IR CHIẾN LƯỢC & CẤU TRÚC FLYWHEEL",
+    "zh-CN": "第七章 • 战略 IR 估值与飞轮拓扑",
+    "ja": "第VII章 • 戦略的IRバリュエーションとフライホイールトポロジー"
+  },
+  "COMPETITIVE MOAT FOR GLOBAL PARTNERS, CHALLENGERS & INSTITUTIONAL VCs": {
+    "ko": "글로벌 파트너, 챌린저 및 기관 VC를 위한 경쟁적 해자",
+    "id": "Parit Kompetitif untuk Mitra Global, Penantang & VC Institusional",
+    "vi": "Hào kỹ thuật cạnh tranh cho các đối tác toàn cầu, những người thách thức & các quỹ đầu tư mạo hiểm định chế",
+    "zh-CN": "全球合作伙伴、挑战者和机构风投的竞争护城河",
+    "ja": "グローバルパートナー、チャレンジャー、機関投資家（VC）のための競争優位性（Moat）"
+  },
+  "CHAPTER I • EXECUTIVE MANIFESTO & VIRTUAL HUMAN IP GENESIS DOMAIN 05 (QUBIT-BIZ) • NODE 08 • COSMO SEED™ ENGINE 03": {
+    "ko": "제1장 • 경영진 선언문 및 가상 인간 IP 제네시스 도메인 05 (QUBIT-BIZ) • 노드 08 • COSMO SEED™ 엔진 03",
+    "id": "BAB I • MANIFESTO EKSEKUTIF & DOMAIN GENESIS IP MANUSIA VIRTUAL 05 (QUBIT-BIZ) • NODE 08 • COSMO SEED™ ENGINE 03",
+    "vi": "CHƯƠNG I • TUYÊN NGÔN ĐIỀU HÀNH & MIỀN KHỞI NGUYÊN IP NGƯỜI ẢO 05 (QUBIT-BIZ) • NÚT 08 • COSMO SEED™ ENGINE 03",
+    "zh-CN": "第一章 • 执行宣言与虚拟人 IP 创世领域 05 (QUBIT-BIZ) • 节点 08 • COSMO SEED™ 引擎 03",
+    "ja": "第1章 • エグゼクティブ・マニフェスト ＆ バーチャルヒューマンIPジェネシス・ドメイン 05 (QUBIT-BIZ) • ノード 08 • COSMO SEED™ エンジン 03"
+  },
+  "Simultaneous Multilingual Live-Stream Hosting across EN, KR, ID, VN, CN & JP on mall.sisTV": {
+    "ko": "mall.sisTV에서 영어, 한국어, 인도네시아어, 베트남어, 중국어, 일본어로 동시 다국어 라이브 스트리밍 호스팅",
+    "id": "Hosting Live-Stream Multibahasa Simultan di EN, KR, ID, VN, CN & JP di mall.sisTV",
+    "vi": "Tổ chức phát trực tiếp đa ngôn ngữ đồng thời qua EN, KR, ID, VN, CN & JP trên mall.sisTV",
+    "zh-CN": "在 mall.sisTV 上跨英文、韩文、印尼文、越文、中文和日文进行同步多语言直播托管",
+    "ja": "mall.sisTVにおける英語、韓国語、インドネシア語、ベトナム語、中国語、日本語による同時多言語ライブ配信ホスティング"
+  },
+  "Zero Moral Hazard, Zero Scandal & 100% BPOM/FDA/CE Script Compliance via Dual-Engine RAG": {
+    "ko": "듀얼 엔진 RAG를 통한 도덕적 해이 제로, 스캔들 제로 및 100% BPOM/FDA/CE 스크립트 준수",
+    "id": "Nol Moral Hazard, Nol Skandal & Kepatuhan Skrip BPOM/FDA/CE 100% melalui RAG Dual-Engine",
+    "vi": "Không rủi ro đạo đức, không bê bối & tuân thủ kịch bản BPOM/FDA/CE 100% thông qua RAG động cơ kép",
+    "zh-CN": "通过双引擎 RAG 实现零道德风险、零丑闻和 100% BPOM/FDA/CE 脚本合规",
+    "ja": "デュアルエンジンRAGによるモラルハザード・ゼロ、スキャンダル・ゼロ、および100%のBPOM/FDA/CEスクリプト・コンプライアンス"
+  },
+  "Reduction in Live-Commerce Customer Acquisition & Talent Retainer Overhead vs. Human KOLs": {
+    "ko": "인간 KOL 대비 라이브 커머스 고객 확보 및 인재 유지 비용 절감",
+    "id": "Pengurangan Akuisisi Pelanggan Live-Commerce & Overhead Retainer Bakat dibandingkan KOL Manusia",
+    "vi": "Giảm chi phí thu hút khách hàng thương mại trực tiếp & chi phí duy trì tài năng so với KOL là người thật",
+    "zh-CN": "与真人 KOL 相比，降低直播电商客户获取和人才留存间接费用",
+    "ja": "人間のKOLと比較したライブコマースの顧客獲得およびタレント維持費用の削減"
+  },
+  "Gross Margin on Brand Ambassador IP Licensing, Virtual Merchandising & Royalty Securitization": {
+    "ko": "브랜드 앰배서더 IP 라이선싱, 가상 머천다이징 및 로열티 증권화에 대한 매출 총이익",
+    "id": "Margin Kotor pada Lisensi IP Brand Ambassador, Merchandising Virtual & Sekuritisasi Royalti",
+    "vi": "Biên lợi nhuận gộp từ cấp phép IP đại sứ thương hiệu, bán hàng ảo & chứng khoán hóa tiền bản quyền",
+    "zh-CN": "品牌大使 IP 授权、虚拟商品销售和版税证券化的毛利率",
+    "ja": "ブランドアンバサダーIPライセンス、バーチャルマーチャンダイジング、およびロイヤリティ証券化による売上総利益"
+  },
+  "CHAPTER II • INDUSTRY BOTTLENECKS VS. QUANTUM IP SOLUTION STRUCTURAL DISPLACEMENT OF LINEAR INFLUENCER AGENCIES": {
+    "ko": "제2장 • 산업 병목 현상 VS. 퀀텀 IP 솔루션 선형 인플루언서 에이전시의 구조적 대체",
+    "id": "BAB II • HAMBATAN INDUSTRI VS. SOLUSI IP KUANTUM PERGANTIAN STRUKTURAL AGENSI INFLUENCER LINEAR",
+    "vi": "CHƯƠNG II • ĐIỂM NGHẼN NGÀNH VS. GIẢI PHÁP IP LƯỢNG TỬ SỰ THAY THẾ CẤU TRÚC CỦA CÁC CÔNG TY ĐẠI DIỆN INFLUENCER TUYẾN TÍNH",
+    "zh-CN": "第二章 • 行业瓶颈 vs. 量子 IP 解决方案 线性网红机构的结构性置换",
+    "ja": "第2章 • 業界のボトルネック vs. クォンタム IP ソリューション リニア・インフルエンサー・エージェンシーの構造的置換"
+  },
+  "CHAPTER III • TECHNICAL ARCHITECTURE & PROTOCOL SPECS NEURAL RENDERING • DUAL-RAG GROUNDING • CCTV STOCK OPNAME SYNC": {
+    "ko": "제3장 • 기술 아키텍처 및 프로토콜 사양 신경 렌더링 • DUAL-RAG 그라운딩 • CCTV 재고 실사 동기화",
+    "id": "BAB III • ARSITEKTUR TEKNIS & SPESIFIKASI PROTOKOL NEURAL RENDERING • DUAL-RAG GROUNDING • SINKRONISASI STOK OPNAME CCTV",
+    "vi": "CHƯƠNG III • KIẾN TRÚC KỸ THUẬT & THÔNG SỐ GIAO THỨC NEURAL RENDERING • DUAL-RAG GROUNDING • ĐỒNG BỘ HÓA KIỂM KÊ KHO CCTV",
+    "zh-CN": "第三章 • 技术架构与协议规范 神经渲染 • 双重 RAG 落地 • CCTV 库存盘点同步",
+    "ja": "第3章 • 技術アーキテクチャとプロトコル仕様 ニューラルレンダリング • DUAL-RAG グラウンディング • CCTV 在庫棚卸同期"
+  },
+  "RAG Fact-Check Verification: 100% Deterministic (NotebookLM + Dify)": {
+    "ko": "RAG 팩트 체크 검증: 100% 결정론적 (NotebookLM + Dify)",
+    "id": "Verifikasi Fact-Check RAG: 100% Deterministik (NotebookLM + Dify)",
+    "vi": "Xác minh Kiểm tra Sự thật RAG: 100% Xác định (NotebookLM + Dify)",
+    "zh-CN": "RAG 事实核查验证：100% 确定性 (NotebookLM + Dify)",
+    "ja": "RAG ファクトチェック検証：100% 決定論的 (NotebookLM + Dify)"
+  },
+  "Inventory Trigger Cadence: Real-Time (<30s) via CCTV Stock Opname": {
+    "ko": "재고 트리거 주기: CCTV 재고 실사를 통한 실시간 (<30초)",
+    "id": "Kadens Pemicu Inventaris: Real-Time (<30 detik) melalui Stok Opname CCTV",
+    "vi": "Nhịp độ Kích hoạt Kho hàng: Thời gian thực (<30 giây) qua Kiểm kê Kho CCTV",
+    "zh-CN": "库存触发频率：通过 CCTV 库存盘点实现实时（<30秒）",
+    "ja": "在庫トリガー頻度：CCTV 在庫棚卸によるリアルタイム（30秒未満）"
+  },
+  "CHAPTER IV • QUANTUM MATHEMATICAL FORMALISM 6-LANGUAGE BROADCAST SUPERPOSITION & IP SECURITIZATION CALCULUS": {
+    "ko": "제4장 • 양자 수학적 형식주의 6개 국어 방송 중첩 및 IP 증권화 계산",
+    "id": "BAB IV • FORMALISME MATEMATIKA KUANTUM SUPERPOSISI SIARAN 6 BAHASA & KALKULUS SEKURITISASI IP",
+    "vi": "CHƯƠNG IV • HÌNH THỨC TOÁN HỌC LƯỢNG TỬ CHỒNG CHẬP PHÁT SÓNG 6 NGÔN NGỮ & PHÉP TÍNH CHỨNG KHOÁN HÓA IP",
+    "zh-CN": "第四章 • 量子数学形式主义 六语广播叠加与 IP 证券化微积分",
+    "ja": "第4章 • 量子数学的形式主義 6言語放送の重ね合わせと IP 証券化計算"
+  },
+  "CHAPTER V • COSMO SEED™ ENGINE SYNERGY & UNIT ECONOMICS CROSS-DOMAIN ENTANGLEMENT WITH INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY": {
+    "ko": "제5장 • Cosmo Seed™ 엔진 시너지 및 단위 경제성 INTELLIGENCE-CORE, SCARLET-AI 및 BIZ-GALAXY와의 교차 도메인 얽힘",
+    "id": "BAB V • SINERGI MESIN Cosmo Seed™ & EKONOMI UNIT KETERKAITAN LINTAS DOMAIN DENGAN INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY",
+    "vi": "CHƯƠNG V • SỰ HIỆP LỰC CỦA ĐỘNG CƠ Cosmo Seed™ & KINH TẾ ĐƠN VỊ SỰ ĐAN XEN ĐA MIỀN VỚI INTELLIGENCE-CORE, SCARLET-AI & BIZ-GALAXY",
+    "zh-CN": "第五章 • Cosmo Seed™ 引擎协同与单位经济效益 与 INTELLIGENCE-CORE、SCARLET-AI 和 BIZ-GALAXY 的跨域纠缠",
+    "ja": "第5章 • Cosmo Seed™ エンジンシナジーとユニットエコノミクス INTELLIGENCE-CORE、SCARLET-AI、BIZ-GALAXY とのクロスドメイン量子もつれ"
+  },
+  "CHAPTER VI • COMMERCIAL LICENSING & IP SECURITIZATION 4-WAY QUBIT BANK OFFSETTING & CREATOR FRANCHISE MATRIX": {
+    "ko": "제6장 • 상업적 라이선싱 및 IP 증권화 4-WAY QUBIT BANK 상계 및 크리에이터 프랜차이즈 매트릭스",
+    "id": "BAB VI • LISENSI KOMERSIAL & SEKURITISASI IP OFFSETTING QUBIT BANK 4-ARAH & MATRIKS WARALABA KREATOR",
+    "vi": "CHƯƠNG VI • CẤP PHÉP THƯƠNG MẠI & CHỨNG KHOÁN HÓA IP ĐỐI TRỪ QUBIT BANK 4 CHIỀU & MA TRẬN NHƯỢNG QUYỀN SÁNG TẠO",
+    "zh-CN": "第六章 • 商业许可与 IP 证券化 4-WAY QUBIT BANK 抵销与创作者加盟矩阵",
+    "ja": "第VI章 • 商業ライセンスとIP証券化 4-WAY QUBIT BANK オフセッティング＆クリエイター・フランチャイズ・マトリックス"
+  },
+  "CHAPTER VII • STRATEGIC IR VALUATION & FLYWHEEL TOPOLOGY COMPETITIVE MOAT FOR GLOBAL PARTNERS, CHALLENGERS & INSTITUTIONAL VCs": {
+    "ko": "제7장 • 전략적 IR 가치 평가 및 플라이휠 토폴로지 글로벌 파트너, 챌린저 및 기관 VC를 위한 경쟁 우위(MOAT)",
+    "id": "BAB VII • VALUASI IR STRATEGIS & TOPOLOGI FLYWHEEL PARIT KOMPETITIF UNTUK MITRA GLOBAL, PENANTANG & VC INSTITUSIONAL",
+    "vi": "CHƯƠNG VII • ĐỊNH GIÁ IR CHIẾN LƯỢC & CẤU TRÚC FLYWHEEL HÀO CẠNH TRANH CHO CÁC ĐỐI TÁC TOÀN CẦU, ĐỐI THỦ & VC THỂ CHẾ",
+    "zh-CN": "第七章 • 战略 IR 估值与飞轮拓扑 全球合作伙伴、挑战者及机构 VC 的竞争护城河",
+    "ja": "第VII章 • 戦略的IR評価とフライホイール・トポロジー グローバルパートナー、チャレンジャー、機関投資家VCのための競争優位性（MOAT）"
+  },
+  "*SC — Qubit Ads: Programmatic Inventory-Entangled Performance Advertising": {
+    "ko": "*SC — Qubit Ads: 프로그래매틱 인벤토리 결합 퍼포먼스 광고",
+    "id": "*SC — Qubit Ads: Iklan Performa Terikat Inventaris Programatik",
+    "vi": "*SC — Qubit Ads: Quảng cáo Hiệu suất Liên kết Kho hàng Lập trình",
+    "zh-CN": "*SC — Qubit Ads：程序化库存纠缠绩效广告",
+    "ja": "*SC — Qubit Ads: プログラマティック・インベントリ連動型パフォーマンス広告"
+  },
+  "Algorithmic Ad Buying vs. Extractive DSP Tolls: Supply-Chain Grounding": {
+    "ko": "알고리즘 광고 구매 vs. 착취적 DSP 통행료: 공급망 접지(Grounding)",
+    "id": "Pembelian Iklan Algoritmik vs. Biaya DSP Ekstraktif: Penjangkaran Rantai Pasokan",
+    "vi": "Mua Quảng cáo Thuật toán so với Phí DSP Trục lợi: Nền tảng Chuỗi Cung ứng",
+    "zh-CN": "算法广告购买 vs. 榨取性 DSP 费用：供应链落地",
+    "ja": "アルゴリズム広告買い付け vs. 搾取的なDSP手数料：サプライチェーン・グラウンディング"
+  },
+  "The 10 PM → 8 AM Overnight Competitor Keyword Scraping Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 경쟁사 키워드 스크래핑 엔진",
+    "id": "Mesin Scraping Kata Kunci Kompetitor Semalam Jam 10 Malam → 8 Pagi",
+    "vi": "Công cụ Thu thập Từ khóa Đối thủ Qua đêm 10 PM → 8 AM",
+    "zh-CN": "晚上 10 点 → 早上 8 点 夜间竞品关键词抓取引擎",
+    "ja": "午後10時 → 午前8時 オーバーナイト競合キーワード・スクレイピング・エンジン"
+  },
+  "Dual-Engine Vector Grounding: Multi-Jurisdiction Ad Disclaimers": {
+    "ko": "듀얼 엔진 벡터 접지: 다중 관할권 광고 면책 조항",
+    "id": "Grounding Vektor Mesin-Ganda: Penafian Iklan Multi-Yurisdiksi",
+    "vi": "Nền tảng Vector Động cơ Kép: Tuyên bố Miễn trừ Trách nhiệm Quảng cáo Đa Tài phán",
+    "zh-CN": "双引擎向量落地：多司法管辖区广告免责声明",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：複数管轄区域の広告免責事項"
+  },
+  "CCTV Vision Stock Opname: Dynamic Ad Pause & Throttle Automation": {
+    "ko": "CCTV Vision 재고 실사: 동적 광고 일시 중지 및 스로틀 자동화",
+    "id": "Stock Opname Visi CCTV: Otomatisasi Jeda & Throttle Iklan Dinamis",
+    "vi": "Kiểm kê kho bằng CCTV Vision: Tự động hóa tạm dừng và điều tiết quảng cáo động",
+    "zh-CN": "CCTV 视觉库存盘点：动态广告暂停与节流自动化",
+    "ja": "CCTVビジョン在庫棚卸：ダイナミック広告一時停止およびスロットル自動化"
+  },
+  "Dual-Return Economic Engine & B2B AdTech SaaS Monetization": {
+    "ko": "이중 수익 경제 엔진 및 B2B AdTech SaaS 수익화",
+    "id": "Mesin Ekonomi Dual-Return & Monetisasi SaaS AdTech B2B",
+    "vi": "Công cụ kinh tế lợi nhuận kép & Mô hình hóa lợi nhuận SaaS AdTech B2B",
+    "zh-CN": "双重回报经济引擎与 B2B 广告技术 SaaS 变现",
+    "ja": "デュアルリターン経済エンジンおよび B2B AdTech SaaS 収益化"
+  },
+  "Eradicating Ad Network Arbitrage Through Physical Supply-Chain Grounding": {
+    "ko": "물리적 공급망 기반 구축을 통한 광고 네트워크 차익 거래 근절",
+    "id": "Memberantas Arbitrase Jaringan Iklan Melalui Landasan Rantai Pasokan Fisik",
+    "vi": "Loại bỏ chênh lệch giá mạng quảng cáo thông qua nền tảng chuỗi cung ứng vật lý",
+    "zh-CN": "通过物理供应链落地消除广告网络套利",
+    "ja": "物理的サプライチェーンの接地による広告ネットワーク裁定取引の根絶"
+  },
+  "IATA / IADA Shipping Tracking": {
+    "ko": "IATA / IADA 배송 추적",
+    "id": "Pelacakan Pengiriman IATA / IADA",
+    "vi": "Theo dõi vận chuyển IATA / IADA",
+    "zh-CN": "IATA / IADA 运输追踪",
+    "ja": "IATA / IADA 配送追跡"
+  },
+  "K-SURE Export Credit Velocity": {
+    "ko": "K-SURE 수출 신용 속도",
+    "id": "Kecepatan Kredit Ekspor K-SURE",
+    "vi": "Tốc độ tín dụng xuất khẩu K-SURE",
+    "zh-CN": "K-SURE 出口信贷周转速度",
+    "ja": "K-SURE 輸出信用速度"
+  },
+  "Overnight Auction Telemetry Pipeline": {
+    "ko": "야간 경매 텔레메트리 파이프라인",
+    "id": "Jalur Telemetri Lelang Semalam",
+    "vi": "Đường ống đo lường từ xa đấu giá qua đêm",
+    "zh-CN": "隔夜拍卖遥测流水线",
+    "ja": "オーバーナイト・オークション・テレメトリ・パイプライン"
+  },
+  "When CCTV Vision Stock Opname detects that pallet stock for a specific SKU has dropped below 150 cartons in the Jakarta fulfillment center, the Qubit Ads API issues webhook calls to Meta, TikTok, and Google within 45 seconds, pausing all active campaigns and redirecting traffic to pre-orders.": {
+    "ko": "CCTV Vision Stock Opname이 자카르타 풀필먼트 센터의 특정 SKU 팔레트 재고가 150박스 미만으로 떨어진 것을 감지하면, Qubit Ads API는 45초 이내에 Meta, TikTok 및 Google에 웹훅 호출을 실행하여 모든 활성 캠페인을 중단하고 트래픽을 사전 주문으로 리디렉션합니다.",
+    "id": "Ketika CCTV Vision Stock Opname mendeteksi bahwa stok palet untuk SKU tertentu telah turun di bawah 150 karton di pusat pemenuhan Jakarta, Qubit Ads API mengeluarkan panggilan webhook ke Meta, TikTok, dan Google dalam waktu 45 detik, menghentikan sementara semua kampanye aktif dan mengalihkan lalu lintas ke pre-order.",
+    "vi": "Khi CCTV Vision Stock Opname phát hiện kho pallet cho một SKU cụ thể đã giảm xuống dưới 150 thùng tại trung tâm hoàn tất đơn hàng Jakarta, Qubit Ads API sẽ thực hiện các cuộc gọi webhook đến Meta, TikTok và Google trong vòng 45 giây, tạm dừng tất cả các chiến dịch đang hoạt động và chuyển hướng lưu lượng truy cập sang đặt hàng trước.",
+    "zh-CN": "当 CCTV Vision Stock Opname 检测到雅加达履约中心特定 SKU 的托盘库存降至 150 箱以下时，Qubit Ads API 会在 45 秒内向 Meta、TikTok 和 Google 发出 webhook 调用，暂停所有活动投放并引导流量至预售。",
+    "ja": "CCTV Vision Stock Opnameがジャカルタのフルフィルメントセンターで特定のSKUのパレット在庫が150ケース未満に減少したことを検知すると、Qubit Ads APIは45秒以内にMeta、TikTok、Googleにウェブフックコールを発行し、すべてのアクティブなキャンペーンを一時停止してトラフィックをプレオーダーにリダイレクトします。"
+  },
+  "If the Incheon hub holds surplus stock while Jakarta is constrained, Qubit Ads automatically increases ad budgets in East Asia while throttling Southeast Asian spending, maintaining optimal inventory turnover across all 8 bases.": {
+    "ko": "인천 허브에 재고가 남고 자카르타가 부족한 경우, Qubit Ads는 동아시아의 광고 예산을 자동으로 늘리는 동시에 동남아시아 지출을 조절하여 8개 기지 전체에서 최적의 재고 회전율을 유지합니다.",
+    "id": "Jika hub Incheon memiliki kelebihan stok sementara Jakarta terbatas, Qubit Ads secara otomatis meningkatkan anggaran iklan di Asia Timur sambil membatasi pengeluaran di Asia Tenggara, menjaga perputaran inventaris yang optimal di seluruh 8 pangkalan.",
+    "vi": "Nếu trung tâm Incheon có lượng hàng tồn kho dư thừa trong khi Jakarta bị hạn chế, Qubit Ads sẽ tự động tăng ngân sách quảng cáo ở Đông Á đồng thời tiết giảm chi tiêu ở Đông Nam Á, duy trì vòng quay hàng tồn kho tối ưu trên tất cả 8 cơ sở.",
+    "zh-CN": "如果仁川枢纽库存过剩而雅加达库存受限，Qubit Ads 会自动增加东亚地区的广告预算，同时削减东南亚的支出，从而在所有 8 个基地维持最佳的库存周转率。",
+    "ja": "仁川ハブに余剰在庫があり、ジャカルタの在庫が制限されている場合、Qubit Adsは東アジアの広告予算を自動的に増やす一方で、東南アジアの支出を抑制し、全8拠点にわたって最適な在庫回転率を維持します。"
+  },
+  "Qubit Ads operates as a dual-return cashflow generator: internally, it eliminates 38% of wasted ad spend; externally, it is packaged as an enterprise programmatic DSP for cross-border exporters.": {
+    "ko": "Qubit Ads는 이중 수익 현금 흐름 생성기로 작동합니다. 내부적으로는 낭비되는 광고비의 38%를 제거하고, 외부적으로는 국경 간 수출업체를 위한 기업용 프로그래매틱 DSP로 패키징됩니다.",
+    "id": "Qubit Ads beroperasi sebagai penghasil arus kas pengembalian ganda: secara internal, ini menghilangkan 38% pengeluaran iklan yang sia-sia; secara eksternal, ini dikemas sebagai DSP programatik perusahaan untuk eksportir lintas batas.",
+    "vi": "Qubit Ads hoạt động như một công cụ tạo dòng tiền lợi nhuận kép: nội bộ, nó loại bỏ 38% chi tiêu quảng cáo lãng phí; bên ngoài, nó được đóng gói như một DSP lập trình doanh nghiệp cho các nhà xuất khẩu xuyên biên giới.",
+    "zh-CN": "Qubit Ads 作为一个双重回报现金流生成器运行：对内，它消除了 38% 的浪费广告支出；对外，它被包装成面向跨境出口商的企业级程序化 DSP。",
+    "ja": "Qubit Adsは二重収益キャッシュフロー生成器として機能します。内部的には無駄な広告支出の38%を排除し、外部的にはクロスボーダー輸出業者向けのエンタープライズ・プログラマティックDSPとしてパッケージ化されています。"
+  },
+  "Operating across Seoul (SCK), Jakarta (SCI), Singapore (SCS), and Los Angeles (SCU), Qubit Ads enforces absolute liability separation via the *SC Dual-Track Legal Firewall.": {
+    "ko": "서울(SCK), 자카르타(SCI), 싱가포르(SCS), 로스앤젤레스(SCU)에서 운영되는 Qubit Ads는 *SC Dual-Track Legal Firewall을 통해 절대적인 책임 분리를 시행합니다.",
+    "id": "Beroperasi di Seoul (SCK), Jakarta (SCI), Singapura (SCS), dan Los Angeles (SCU), Qubit Ads memberlakukan pemisahan tanggung jawab mutlak melalui *SC Dual-Track Legal Firewall.",
+    "vi": "Hoạt động tại Seoul (SCK), Jakarta (SCI), Singapore (SCS) và Los Angeles (SCU), Qubit Ads thực thi việc phân tách trách nhiệm tuyệt đối thông qua *SC Dual-Track Legal Firewall.",
+    "zh-CN": "Qubit Ads 在首尔 (SCK)、雅加达 (SCI)、新加坡 (SCS) 和洛杉矶 (SCU) 运营，通过 *SC Dual-Track Legal Firewall 强制执行绝对的责任分离。",
+    "ja": "ソウル(SCK)、ジャカルタ(SCI)、シンガポール(SCS)、ロサンゼルス(SCU)で展開するQubit Adsは、*SC Dual-Track Legal Firewallを通じて絶対的な責任分離を強制します。"
+  },
+  "Competitor CPC Curve Analysis: Headless scrapers monitor top 200 beauty and veterinary search terms on Shopee, Tokopedia, Lazada, and Amazon between 22:00 and 06:00, mapping the exact bid density per hour.": {
+    "ko": "경쟁사 CPC 곡선 분석: 헤드리스 스크레이퍼가 22:00에서 06:00 사이에 Shopee, Tokopedia, Lazada 및 Amazon에서 상위 200개 뷰티 및 수의학 검색어를 모니터링하여 시간당 정확한 입찰 밀도를 매핑합니다.",
+    "id": "Analisis Kurva CPC Pesaing: Scraper headless memantau 200 istilah pencarian kecantikan dan kedokteran hewan teratas di Shopee, Tokopedia, Lazada, dan Amazon antara pukul 22:00 dan 06:00, memetakan kepadatan tawaran yang tepat per jam.",
+    "vi": "Phân tích đường cong CPC của đối thủ cạnh tranh: Các trình thu thập dữ liệu không đầu (headless scrapers) giám sát 200 thuật ngữ tìm kiếm làm đẹp và thú y hàng đầu trên Shopee, Tokopedia, Lazada và Amazon từ 22:00 đến 06:00, lập bản đồ mật độ giá thầu chính xác mỗi giờ.",
+    "zh-CN": "竞争对手 CPC 曲线分析：无头爬虫在 22:00 至 06:00 之间监控 Shopee、Tokopedia、Lazada 和 Amazon 上的前 200 个美容和兽医搜索词，绘制每小时的精确竞价密度。",
+    "ja": "競合CPC曲線分析：ヘッドレススクレイパーが22:00から06:00の間にShopee、Tokopedia、Lazada、Amazonで上位200件の美容および獣医検索語を監視し、1時間あたりの正確な入札密度をマッピングします。"
+  },
+  "Off-Peak Bid Injection: Identifies uncompeted midnight and early-morning keyword timebands where CPCs drop by 60% to 75%, scheduling high-intent conversion campaigns during low-auction windows.": {
+    "ko": "비수기 입찰 주입: CPC가 60%에서 75%까지 떨어지는 경쟁 없는 자정 및 이른 아침 키워드 시간대를 식별하여 경매가 적은 시간대에 고의도 전환 캠페인을 예약합니다.",
+    "id": "Injeksi Tawaran di Luar Jam Sibuk: Mengidentifikasi pita waktu kata kunci tengah malam dan dini hari yang tidak kompetitif di mana CPC turun sebesar 60% hingga 75%, menjadwalkan kampanye konversi niat tinggi selama jendela lelang rendah.",
+    "vi": "Bơm giá thầu ngoài giờ cao điểm: Xác định các khung giờ từ khóa nửa đêm và sáng sớm không có cạnh tranh, nơi CPC giảm từ 60% đến 75%, lên lịch cho các chiến dịch chuyển đổi có mục đích cao trong các khung giờ đấu giá thấp.",
+    "zh-CN": "非高峰时段竞价注入：识别 CPC 下降 60% 至 75% 的无竞争午夜和凌晨关键词时段，在低竞价窗口期安排高意向转化活动。",
+    "ja": "オフピーク入札インジェクション：CPCが60%から75%低下する、競合のない深夜および早朝のキーワード時間帯を特定し、オークションの少ない時間帯に高意図のコンバージョンキャンペーンをスケジュールします。"
+  },
+  "Algorithmic Budget Re-Allocation: Shifts advertising capital from declining search queries to trending social keywords identified by SISTAR Studio before human agency media planners wake up.": {
+    "ko": "알고리즘 예산 재배분: 대행사 미디어 플래너가 깨어나기 전, SISTAR Studio가 식별한 트렌드 소셜 키워드로 하락세인 검색 쿼리의 광고 자본을 이동시킵니다.",
+    "id": "Realokasi Anggaran Algoritmik: Mengalihkan modal iklan dari kueri penelusuran yang menurun ke kata kunci sosial yang sedang tren yang diidentifikasi oleh SISTAR Studio sebelum perencana media agensi manusia bangun.",
+    "vi": "Tái phân bổ ngân sách theo thuật toán: Chuyển vốn quảng cáo từ các truy vấn tìm kiếm đang giảm sang các từ khóa mạng xã hội đang thịnh hành được SISTAR Studio xác định trước khi các nhà lập kế hoạch truyền thông của đại lý thức dậy.",
+    "zh-CN": "算法预算重新分配：在人工代理媒体策划师醒来之前，将广告资金从下降的搜索查询转移到 SISTAR Studio 识别的热门社交关键词。",
+    "ja": "アルゴリズムによる予算再配分：代理店のメディアプランナーが目覚める前に、SISTAR Studioが特定したトレンドのソーシャルキーワードへ、減少傾向にある検索クエリから広告資金を移動させます。"
+  },
+  "TikTok Shop Ads": {
+    "ko": "TikTok Shop 광고",
+    "id": "Iklan TikTok Shop",
+    "vi": "Quảng cáo TikTok Shop",
+    "zh-CN": "TikTok Shop 广告",
+    "ja": "TikTok Shop 広告"
+  },
+  "Exaggerated efficacy claims or unsubstantiated clinical percentages.": {
+    "ko": "과장된 효능 주장 또는 근거 없는 임상 수치.",
+    "id": "Klaim kemanjuran yang berlebihan atau persentase klinis yang tidak beralasan.",
+    "vi": "Các tuyên bố về hiệu quả bị phóng đại hoặc tỷ lệ phần trăm lâm sàng không có căn cứ.",
+    "zh-CN": "夸大的功效声明或未经证实的临床百分比。",
+    "ja": "誇張された効能の主張、または根拠のない臨床数値。"
+  },
+  "Verifies claim percentage against exact clinical study documentation in NotebookLM.": {
+    "ko": "NotebookLM의 정확한 임상 연구 문서를 바탕으로 주장 수치를 검증합니다.",
+    "id": "Memverifikasi persentase klaim terhadap dokumentasi studi klinis yang tepat di NotebookLM.",
+    "vi": "Xác minh tỷ lệ phần trăm tuyên bố so với tài liệu nghiên cứu lâm sàng chính xác trong NotebookLM.",
+    "zh-CN": "根据 NotebookLM 中准确的临床研究文档验证声明百分比。",
+    "ja": "NotebookLM内の正確な臨床研究ドキュメントと照らし合わせて、主張の数値を検証します。"
+  },
+  "100% Account Safety; Zero Ad Disapprovals": {
+    "ko": "100% 계정 안전; 광고 비승인 제로",
+    "id": "Keamanan Akun 100%; Nol Penolakan Iklan",
+    "vi": "An toàn tài khoản 100%; Không bị từ chối quảng cáo",
+    "zh-CN": "100% 账户安全；零广告拒登",
+    "ja": "100% アカウントの安全性、広告不承認ゼロ"
+  },
+  "Meta Ads (Advantage+)": {
+    "ko": "Meta 광고 (Advantage+)",
+    "id": "Iklan Meta (Advantage+)",
+    "vi": "Quảng cáo Meta (Advantage+)",
+    "zh-CN": "Meta 广告 (Advantage+)",
+    "ja": "Meta 広告 (Advantage+)"
+  },
+  "Sensationalized before-and-after skin/hair comparisons.": {
+    "ko": "자극적인 피부/헤어 전후 비교.",
+    "id": "Perbandingan sebelum-dan-sesudah kulit/rambut yang disensasionalisasikan.",
+    "vi": "So sánh trước và sau khi sử dụng cho da/tóc mang tính giật gân.",
+    "zh-CN": "夸张的皮肤/头发前后对比。",
+    "ja": "誇張された肌・髪のビフォーアフター比較。"
+  },
+  "Gemini Vision pre-screens creative imagery against Meta Advertising Standards.": {
+    "ko": "Gemini Vision은 Meta 광고 표준에 따라 크리에이티브 이미지를 사전 심사합니다.",
+    "id": "Gemini Vision menyaring gambar kreatif terlebih dahulu terhadap Standar Periklanan Meta.",
+    "vi": "Gemini Vision sàng lọc trước hình ảnh sáng tạo theo Tiêu chuẩn quảng cáo của Meta.",
+    "zh-CN": "Gemini Vision 根据 Meta 广告标准预先筛选创意图像。",
+    "ja": "Gemini Vision は、Meta 広告基準に照らしてクリエイティブ画像を事前審査します。"
+  },
+  "Zero Ad Account Disablings": {
+    "ko": "광고 계정 비활성화 제로",
+    "id": "Nol Penonaktifan Akun Iklan",
+    "vi": "Không bị vô hiệu hóa tài khoản quảng cáo",
+    "zh-CN": "广告账户零封禁",
+    "ja": "広告アカウントの停止ゼロ"
+  },
+  "Shopee & Tokopedia Ads": {
+    "ko": "Shopee 및 Tokopedia 광고",
+    "id": "Iklan Shopee & Tokopedia",
+    "vi": "Quảng cáo Shopee & Tokopedia",
+    "zh-CN": "Shopee 和 Tokopedia 广告",
+    "ja": "Shopee および Tokopedia 広告"
+  },
+  "Missing BPOM registration numbers on cosmetics and health supplements.": {
+    "ko": "화장품 및 건강 보조 식품의 BPOM 등록 번호 누락.",
+    "id": "Nomor registrasi BPOM yang hilang pada kosmetik dan suplemen kesehatan.",
+    "vi": "Thiếu số đăng ký BPOM trên mỹ phẩm và thực phẩm chức năng.",
+    "zh-CN": "化妆品和保健品缺少 BPOM 注册号。",
+    "ja": "化粧品および健康補助食品における BPOM 登録番号の欠落。"
+  },
+  "Automatically superimposes verified BPOM notification ID on all banner assets.": {
+    "ko": "모든 배너 에셋에 인증된 BPOM 알림 ID를 자동으로 삽입합니다.",
+    "id": "Secara otomatis menyematkan ID notifikasi BPOM yang terverifikasi pada semua aset banner.",
+    "vi": "Tự động chèn ID thông báo BPOM đã xác minh trên tất cả các tài sản biểu ngữ.",
+    "zh-CN": "在所有横幅素材上自动叠加经过验证的 BPOM 通知 ID。",
+    "ja": "すべてのバナーアセットに、検証済みの BPOM 通知 ID を自動的に重ね合わせます。"
+  },
+  "Pre-Approved E-commerce In-Feed Banners": {
+    "ko": "사전 승인된 이커머스 인피드 배너",
+    "id": "Banner In-Feed E-commerce yang Telah Disetujui Sebelumnya",
+    "vi": "Banner In-Feed thương mại điện tử đã được phê duyệt trước",
+    "zh-CN": "预先批准的电子商务信息流广告横幅",
+    "ja": "事前承認済みEコマースインフィードバナー"
+  },
+  "Google Search & PMax": {
+    "ko": "Google 검색 및 PMax",
+    "id": "Google Search & PMax",
+    "vi": "Google Search & PMax",
+    "zh-CN": "Google 搜索和 PMax",
+    "ja": "Google 検索 & PMax"
+  },
+  "Restricted veterinary pharmaceutical terms in ad headlines.": {
+    "ko": "광고 헤드라인 내 제한된 동물용 의약품 용어.",
+    "id": "Istilah farmasi hewan yang dibatasi dalam judul iklan.",
+    "vi": "Các thuật ngữ dược phẩm thú y bị hạn chế trong tiêu đề quảng cáo.",
+    "zh-CN": "广告标题中受限制的兽药术语。",
+    "ja": "広告見出しにおける制限された動物用医薬品用語。"
+  },
+  "Substitutes prescription terms with approved dietary supplement bio-active phrases.": {
+    "ko": "처방 용어를 승인된 건강기능식품 생활성 문구로 대체합니다.",
+    "id": "Mengganti istilah resep dengan frasa bio-aktif suplemen makanan yang disetujui.",
+    "vi": "Thay thế các thuật ngữ kê đơn bằng các cụm từ hoạt tính sinh học của thực phẩm chức năng đã được phê duyệt.",
+    "zh-CN": "将处方术语替换为经批准的膳食补充剂生物活性短语。",
+    "ja": "処方用語を承認された栄養補助食品のバイオアクティブな表現に置き換えます。"
+  },
+  "Zero Trademark or Policy Strikes": {
+    "ko": "상표권 또는 정책 위반 제로",
+    "id": "Nol Pelanggaran Merek Dagang atau Kebijakan",
+    "vi": "Không có vi phạm nhãn hiệu hoặc chính sách",
+    "zh-CN": "零商标或政策违规",
+    "ja": "商標またはポリシー違反ゼロ"
+  },
+  "Tower 1: Advertising Law & Claims (RA)": {
+    "ko": "타워 1: 광고법 및 클레임 (RA)",
+    "id": "Tower 1: Hukum Periklanan & Klaim (RA)",
+    "vi": "Tower 1: Luật quảng cáo & Khiếu nại (RA)",
+    "zh-CN": "大楼 1：广告法与声明 (RA)",
+    "ja": "タワー 1: 広告法およびクレーム (RA)"
+  },
+  "Pre-validates all ad creative, headline copy, and disclaimers against FTC, BPOM, and MFDS fair advertising regulations.": {
+    "ko": "모든 광고 크리에이티브, 헤드라인 문구 및 면책 조항을 FTC, BPOM 및 MFDS 공정 광고 규정에 따라 사전 검증합니다.",
+    "id": "Memvalidasi sebelumnya semua materi iklan, salinan tajuk rencana, dan penafian terhadap peraturan periklanan yang adil dari FTC, BPOM, dan MFDS.",
+    "vi": "Xác thực trước tất cả các mẫu quảng cáo, nội dung tiêu đề và tuyên bố miễn trừ trách nhiệm theo các quy định về quảng cáo công bằng của FTC, BPOM và MFDS.",
+    "zh-CN": "根据 FTC、BPOM 和 MFDS 的公平广告法规，预先验证所有广告创意、标题文案和免责声明。",
+    "ja": "すべての広告クリエイティブ、見出しコピー、免責事項を FTC、BPOM、および MFDS の公正広告規制に照らして事前検証します。"
+  },
+  "Zero platform policy bans or regulatory advertising sanctions.": {
+    "ko": "플랫폼 정책 위반으로 인한 차단이나 규제 기관의 광고 제재가 전혀 없습니다.",
+    "id": "Nol larangan kebijakan platform atau sanksi periklanan peraturan.",
+    "vi": "Không có lệnh cấm chính sách nền tảng hoặc các biện pháp trừng phạt quảng cáo theo quy định.",
+    "zh-CN": "零平台政策封禁或监管广告制裁。",
+    "ja": "プラットフォームポリシーによる禁止や規制当局による広告制裁はゼロです。"
+  },
+  "Tower 2: Ad Spend Treasury & Tax (VAT)": {
+    "ko": "타워 2: 광고비 재무 및 세금 (VAT)",
+    "id": "Tower 2: Perbendaharaan Pengeluaran Iklan & Pajak (PPN)",
+    "vi": "Tower 2: Kho bạc chi tiêu quảng cáo & Thuế (VAT)",
+    "zh-CN": "塔楼 2：广告支出财务与税务 (VAT)",
+    "ja": "タワー 2: 広告支出財務および税務 (VAT)"
+  },
+  "Applies 70/30 payment gateway split webhooks, automatically withholding ad platform VAT and local withholding taxes.": {
+    "ko": "70/30 결제 게이트웨이 분할 웹훅을 적용하여 광고 플랫폼 부가세 및 현지 원천징수세를 자동으로 원천징수합니다.",
+    "id": "Menerapkan webhook pembagian gerbang pembayaran 70/30, secara otomatis memotong PPN platform iklan dan pajak penghasilan lokal.",
+    "vi": "Áp dụng webhook phân chia cổng thanh toán 70/30, tự động khấu trừ thuế VAT của nền tảng quảng cáo và thuế khấu trừ tại nguồn tại địa phương.",
+    "zh-CN": "应用 70/30 支付网关拆分 Webhook，自动扣缴广告平台增值税和当地预扣税。",
+    "ja": "70/30 決済ゲートウェイ分割ウェブフックを適用し、広告プラットフォームの VAT および現地の源泉徴収税を自動的に源泉徴収します。"
+  },
+  "Total cross-border digital services tax compliance across all 8 hubs.": {
+    "ko": "8개 모든 허브에서 국경 간 디지털 서비스세 규정을 완벽하게 준수합니다.",
+    "id": "Kepatuhan pajak layanan digital lintas batas total di seluruh 8 hub.",
+    "vi": "Tuân thủ hoàn toàn thuế dịch vụ kỹ thuật số xuyên biên giới trên tất cả 8 trung tâm.",
+    "zh-CN": "在所有 8 个枢纽中实现全面的跨境数字服务税合规。",
+    "ja": "全 8 拠点で国境を越えたデジタルサービス税の完全なコンプライアンスを実現。"
+  },
+  "Locks programmatic ad buying to confirmed physical inventory levels.": {
+    "ko": "프로그래매틱 광고 구매를 확인된 실제 재고 수준에 고정합니다.",
+    "id": "Mengunci pembelian iklan terprogram ke tingkat inventaris fisik yang dikonfirmasi.",
+    "vi": "Khóa việc mua quảng cáo lập trình theo mức tồn kho thực tế đã được xác nhận.",
+    "zh-CN": "将程序化广告购买锁定在确认的实物库存水平。",
+    "ja": "プログラマティック広告の購入を、確認済みの実際の在庫レベルに固定します。"
+  },
+  "Eradicates fulfillment delays, stockout refunds, and customer disputes.": {
+    "ko": "풀필먼트 지연, 품절 환불 및 고객 분쟁을 근절합니다.",
+    "id": "Menghilangkan keterlambatan pemenuhan, pengembalian dana karena stok habis, dan perselisihan pelanggan.",
+    "vi": "Loại bỏ tình trạng chậm trễ thực hiện đơn hàng, hoàn tiền do hết hàng và tranh chấp với khách hàng.",
+    "zh-CN": "消除履约延迟、缺货退款和客户纠纷。",
+    "ja": "フルフィルメントの遅延、在庫切れによる返金、および顧客との紛争を根絶します。"
+  },
+  "Ad Platform": {
+    "ko": "광고 플랫폼",
+    "id": "Platform Iklan",
+    "vi": "Nền tảng quảng cáo",
+    "zh-CN": "广告平台",
+    "ja": "広告プラットフォーム"
+  },
+  "Common Regulatory Reason for Account Ban": {
+    "ko": "계정 정지의 일반적인 규제 사유",
+    "id": "Alasan Regulasi Umum untuk Pemblokiran Akun",
+    "vi": "Lý do quy định phổ biến dẫn đến việc khóa tài khoản",
+    "zh-CN": "常见的账号封禁监管原因",
+    "ja": "アカウント停止の一般的な規制上の理由"
+  },
+  "How NotebookLM / Dify Pre-Cleans Copy": {
+    "ko": "NotebookLM / Dify가 카피를 사전 정리하는 방법",
+    "id": "Cara NotebookLM / Dify Melakukan Pra-Pembersihan Salinan",
+    "vi": "Cách NotebookLM / Dify làm sạch trước nội dung quảng cáo",
+    "zh-CN": "NotebookLM / Dify 如何预清洗文案",
+    "ja": "NotebookLM / Dify がコピーを事前クリーニングする方法"
+  },
+  "Protection Outcome": {
+    "ko": "보호 결과",
+    "id": "Hasil Perlindungan",
+    "vi": "Kết quả bảo vệ",
+    "zh-CN": "保护结果",
+    "ja": "保護結果"
+  },
+  "Chapter 01 • Programmatic Ad Engine": {
+    "ko": "Chapter 01 • 프로그래매틱 광고 엔진",
+    "id": "Bab 01 • Mesin Iklan Programatik",
+    "vi": "Chương 01 • Công cụ quảng cáo lập trình",
+    "zh-CN": "第 01 章 • 程序化广告引擎",
+    "ja": "第01章 • プログラマティック広告エンジン"
+  },
+  "Inventory-Entangled Bidding Hub": {
+    "ko": "인벤토리 얽힘 입찰 허브",
+    "id": "Hub Penawaran Terikat Inventaris",
+    "vi": "Trung tâm Đấu thầu Liên kết Kho hàng",
+    "zh-CN": "库存纠缠竞价中心",
+    "ja": "在庫連動型ビディングハブ"
+  },
+  "Chapter 02 • Algorithmic DSP": {
+    "ko": "제02장 • 알고리즘 DSP",
+    "id": "Bab 02 • DSP Algoritmik",
+    "vi": "Chương 02 • DSP Thuật toán",
+    "zh-CN": "第 02 章 • 算法 DSP",
+    "ja": "第02章 • アルゴリズムDSP"
+  },
+  "Supply-Chain Entanglement": {
+    "ko": "공급망 얽힘",
+    "id": "Keterikatan Rantai Pasokan",
+    "vi": "Sự Liên kết Chuỗi Cung ứng",
+    "zh-CN": "供应链纠缠",
+    "ja": "サプライチェーン・エンタングルメント"
+  },
+  "Chapter 03 • Market Intelligence": {
+    "ko": "제03장 • 마켓 인텔리전스",
+    "id": "Bab 03 • Intelijen Pasar",
+    "vi": "Chương 03 • Thông tin Thị trường",
+    "zh-CN": "第 03 章 • 市场情报",
+    "ja": "第03章 • マーケットインテリジェンス"
+  },
+  "Overnight Bidding Calibration": {
+    "ko": "야간 입찰 보정",
+    "id": "Kalibrasi Penawaran Semalam",
+    "vi": "Hiệu chỉnh Đấu thầu Qua đêm",
+    "zh-CN": "隔夜竞价校准",
+    "ja": "オーバーナイト・ビディング・キャリブレーション"
+  },
+  "Dual-Engine Ad Compliance": {
+    "ko": "듀얼 엔진 광고 준수",
+    "id": "Kepatuhan Iklan Mesin Ganda",
+    "vi": "Tuân thủ Quảng cáo Động cơ Kép",
+    "zh-CN": "双引擎广告合规",
+    "ja": "デュアルエンジン広告コンプライアンス"
+  },
+  "Chapter 05 • Real-Time Throttling": {
+    "ko": "제05장 • 실시간 스로틀링",
+    "id": "Bab 05 • Throttling Real-Time",
+    "vi": "Chương 05 • Điều tiết thời gian thực",
+    "zh-CN": "第 05 章 • 实时限流",
+    "ja": "第05章 • リアルタイムスロットリング"
+  },
+  "Chapter 01 • Programmatic Ad Engine Inventory-Entangled Bidding Hub": {
+    "ko": "제01장 • 프로그래매틱 광고 엔진 재고 연동 입찰 허브",
+    "id": "Bab 01 • Hub Penawaran Terikat Inventaris Mesin Iklan Programatik",
+    "vi": "Chương 01 • Trung tâm đấu thầu liên kết kho hàng của công cụ quảng cáo lập trình",
+    "zh-CN": "第 01 章 • 程序化广告引擎库存关联竞价中心",
+    "ja": "第01章 • プログラマティック広告エンジン在庫連動型ビッディングハブ"
+  },
+  "Ad Budget Waste Eliminated via Real-Time Stock Sync": {
+    "ko": "실시간 재고 동기화를 통한 광고 예산 낭비 제거",
+    "id": "Pemborosan Anggaran Iklan Dihilangkan melalui Sinkronisasi Stok Real-Time",
+    "vi": "Loại bỏ lãng phí ngân sách quảng cáo thông qua đồng bộ hóa kho hàng thời gian thực",
+    "zh-CN": "通过实时库存同步消除广告预算浪费",
+    "ja": "リアルタイム在庫同期による広告予算の浪費排除"
+  },
+  "Automated Bid Pausing Upon Warehouse Stockout Detection": {
+    "ko": "창고 품절 감지 시 자동 입찰 일시 중지",
+    "id": "Penjedaan Penawaran Otomatis Saat Deteksi Stok Gudang Habis",
+    "vi": "Tự động tạm dừng đấu thầu khi phát hiện hết hàng trong kho",
+    "zh-CN": "检测到仓库缺货时自动暂停竞价",
+    "ja": "倉庫の在庫切れ検知時の自動入札停止"
+  },
+  "Blended Return on Ad Spend Across 8 International Bases": {
+    "ko": "8개 글로벌 거점 통합 광고 수익률(ROAS)",
+    "id": "Pengembalian Belanja Iklan Gabungan di 8 Basis Internasional",
+    "vi": "Lợi nhuận trên chi tiêu quảng cáo (ROAS) tổng hợp tại 8 cơ sở quốc tế",
+    "zh-CN": "8 个国际基地的综合广告支出回报率",
+    "ja": "8つの国際拠点における合算広告費用対効果"
+  },
+  "Automated Webhook Settlement Split on All Ad Revenue Checkouts": {
+    "ko": "모든 광고 수익 결제 시 자동 웹훅 정산 분할",
+    "id": "Pembagian Penyelesaian Webhook Otomatis pada Semua Checkout Pendapatan Iklan",
+    "vi": "Tự động chia tách quyết toán Webhook trên tất cả các lượt thanh toán doanh thu quảng cáo",
+    "zh-CN": "所有广告收入结账时的自动 Webhook 结算拆分",
+    "ja": "すべての広告収益チェックアウト時の自動Webhook精算分割"
+  },
+  "Chapter 02 • Algorithmic DSP Supply-Chain Entanglement": {
+    "ko": "제02장 • 알고리즘 DSP 공급망 얽힘",
+    "id": "Bab 02 • Keterikatan Rantai Pasokan DSP Algoritmik",
+    "vi": "Chương 02 • Sự vướng mắc chuỗi cung ứng DSP thuật toán",
+    "zh-CN": "第 02 章 • 算法 DSP 供应链纠缠",
+    "ja": "第02章 • アルゴリズムDSPサプライチェーン・エンタングルメント"
+  },
+  "Chapter 03 • Market Intelligence Overnight Bidding Calibration": {
+    "ko": "제03장 • 시장 인텔리전스 오버나이트 입찰 보정",
+    "id": "Bab 03 • Kalibrasi Penawaran Semalam Intelijen Pasar",
+    "vi": "Chương 03 • Hiệu chuẩn đấu thầu qua đêm của trí tuệ thị trường",
+    "zh-CN": "第 03 章 • 市场情报隔夜竞价校准",
+    "ja": "第03章 • マーケットインテリジェンス・オーバーナイト入札キャリブレーション"
+  },
+  "Chapter 04 • Regulatory Shield Dual-Engine Ad Compliance": {
+    "ko": "제04장 • 규제 보호막 듀얼 엔진 광고 규정 준수",
+    "id": "Bab 04 • Kepatuhan Iklan Mesin Ganda Perisai Regulasi",
+    "vi": "Chương 04 • Tuân thủ quảng cáo động cơ kép lá chắn quy định",
+    "zh-CN": "第 04 章 • 监管盾牌双引擎广告合规",
+    "ja": "第04章 • 規制シールド・デュアルエンジン広告コンプライアンス"
+  },
+  "Chapter 05 • Real-Time Throttling CCTV Optical Stock Opname": {
+    "ko": "제05장 • 실시간 스로틀링 CCTV 광학 재고 실사",
+    "id": "Bab 05 • Opname Stok Optik CCTV Throttling Real-Time",
+    "vi": "Chương 05 • Kiểm kê kho quang học CCTV điều tiết thời gian thực",
+    "zh-CN": "第 05 章 • 实时节流 CCTV 光学库存盘点",
+    "ja": "第05章 • リアルタイム・スロットリング CCTV 光学的棚卸"
+  },
+  "*SC — Knowledge Networks: The Federated Cross-Project Intelligence Mesh": {
+    "ko": "*SC — 지식 네트워크: 연합 교차 프로젝트 인텔리전스 메시",
+    "id": "*SC — Jaringan Pengetahuan: Mesh Intelijen Lintas Proyek Terfederasi",
+    "vi": "*SC — Mạng lưới tri thức: Lưới tình báo liên dự án liên hợp",
+    "zh-CN": "*SC — 知识网络：联邦跨项目智能网格",
+    "ja": "*SC — ナレッジネットワーク：連合型クロスプロジェクト・インテリジェンス・メッシュ"
+  },
+  "The Entangled Semantic Knowledge Graph: Multi-Domain Node Resolution": {
+    "ko": "얽힌 시맨틱 지식 그래프: 다중 도메인 노드 확인",
+    "id": "Graf Pengetahuan Semantik Terikat: Resolusi Node Multi-Domain",
+    "vi": "Biểu đồ tri thức ngữ nghĩa vướng mắc: Giải quyết nút đa miền",
+    "zh-CN": "纠缠语义知识图谱：多域节点解析",
+    "ja": "エンタングルド・セマンティック・ナレッジグラフ：マルチドメイン・ノード解決"
+  },
+  "The 10 PM → 8 AM Overnight Academic & Trade Data Ingestion Engine": {
+    "ko": "오후 10시 → 오전 8시 야간 학술 및 무역 데이터 수집 엔진",
+    "id": "Mesin Ingesti Data Akademik & Perdagangan Semalam 10 PM → 8 AM",
+    "vi": "Công cụ nạp dữ liệu học thuật & thương mại qua đêm từ 10 giờ tối → 8 giờ sáng",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜学术与贸易数据摄取引擎",
+    "ja": "午後10時→午前8時 オーバーナイト学術・貿易データ収集エンジン"
+  },
+  "Dual-Engine Vector Grounding: Zero-Hallucination Citations": {
+    "ko": "듀얼 엔진 벡터 그라운딩: 환각 현상 없는 인용",
+    "id": "Grounding Vektor Mesin Ganda: Sitasi Tanpa Halusinasi",
+    "vi": "Nền tảng Vector động cơ kép: Trích dẫn không gây ảo giác",
+    "zh-CN": "双引擎向量接地：零幻觉引用",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：ハルシネーション・ゼロの引用"
+  },
+  "Real-Time CCTV Vision Stock Opname & Physical Inventory Mesh": {
+    "ko": "실시간 CCTV 비전 재고 조사 및 실물 재고 메쉬",
+    "id": "Stock Opname Visi CCTV Real-Time & Mesh Inventaris Fisik",
+    "vi": "Kiểm kê kho bằng thị giác CCTV thời gian thực & Lưới kho vật lý",
+    "zh-CN": "实时 CCTV 视觉库存盘点与实物库存网格",
+    "ja": "リアルタイムCCTVビジョン棚卸し＆実地在庫メッシュ"
+  },
+  "Dual-Return Economic Engine & Enterprise Knowledge Mesh SaaS": {
+    "ko": "듀얼 리턴 경제 엔진 및 기업 지식 메쉬 SaaS",
+    "id": "Mesin Ekonomi Dual-Return & SaaS Mesh Pengetahuan Perusahaan",
+    "vi": "Công cụ kinh tế lợi nhuận kép & SaaS lưới tri thức doanh nghiệp",
+    "zh-CN": "双重回报经济引擎与企业知识网格 SaaS",
+    "ja": "デュアルリターン経済エンジン＆企業ナレッジメッシュ SaaS"
+  },
+  "Breaking Domain Silos Through High-Dimensional Vector Entanglement": {
+    "ko": "고차원 벡터 얽힘을 통한 도메인 사일로 타파",
+    "id": "Memecah Silo Domain Melalui Keterikatan Vektor Dimensi Tinggi",
+    "vi": "Phá vỡ các rào cản lĩnh vực thông qua sự vướng víu Vector đa chiều",
+    "zh-CN": "通过高维向量纠缠打破领域孤岛",
+    "ja": "高次元ベクトル量子もつれによるドメインサイロの打破"
+  },
+  "Formulation & Active Vault": {
+    "ko": "포뮬레이션 및 액티브 볼트",
+    "id": "Formulasi & Active Vault",
+    "vi": "Công thức & Active Vault",
+    "zh-CN": "配方与 Active Vault",
+    "ja": "フォーミュレーション＆アクティブ・ヴォルト"
+  },
+  "Customs & Statutory Vault": {
+    "ko": "세관 및 법정 보관소",
+    "id": "Gudang Pabean & Statutori",
+    "vi": "Kho lưu trữ Hải quan & Pháp định",
+    "zh-CN": "海关与法定保管库",
+    "ja": "税関および法定保管庫"
+  },
+  "Physical Inventory & 3PL": {
+    "ko": "실물 재고 및 3PL",
+    "id": "Inventaris Fisik & 3PL",
+    "vi": "Kiểm kê thực tế & 3PL",
+    "zh-CN": "实物库存与 3PL",
+    "ja": "実地棚卸および 3PL"
+  },
+  "Trade Agreements & BNPL": {
+    "ko": "무역 협정 및 BNPL",
+    "id": "Perjanjian Dagang & BNPL",
+    "vi": "Thỏa thuận thương mại & BNPL",
+    "zh-CN": "贸易协定与 BNPL",
+    "ja": "貿易協定および BNPL"
+  },
+  "Nightly Ingestion & Entity Extraction Routine": {
+    "ko": "야간 데이터 수집 및 엔티티 추출 루틴",
+    "id": "Rutin Ingesti Malam Hari & Ekstraksi Entitas",
+    "vi": "Quy trình nạp dữ liệu hàng đêm & Trích xuất thực thể",
+    "zh-CN": "夜间摄取与实体提取例程",
+    "ja": "夜間インジェスチョンおよびエンティティ抽出ルーチン"
+  },
+  "Pallet RFID & Optical Bounding Boxes": {
+    "ko": "팔레트 RFID 및 광학 바운딩 박스",
+    "id": "RFID Palet & Kotak Pembatas Optik",
+    "vi": "RFID Pallet & Hộp giới hạn quang học",
+    "zh-CN": "托盘 RFID 与光学边界框",
+    "ja": "パレット RFID および光学バウンディングボックス"
+  },
+  "Predictive Delay Notifications": {
+    "ko": "예측 지연 알림",
+    "id": "Notifikasi Penundaan Prediktif",
+    "vi": "Thông báo chậm trễ dự đoán",
+    "zh-CN": "预测性延迟通知",
+    "ja": "予測遅延通知"
+  },
+  "Connects 3-Month Rolling Purchasing Forecasts (RPF), K-SURE export credit guarantees, and automated 70/30 PG webhooks.": {
+    "ko": "3개월 롤링 구매 예측(RPF), K-SURE 수출 신용 보증 및 자동화된 70/30 PG 웹훅을 연결합니다.",
+    "id": "Menghubungkan Prakiraan Pembelian Bergulir (RPF) 3 Bulan, jaminan kredit ekspor K-SURE, dan webhook PG 70/30 otomatis.",
+    "vi": "Kết nối Dự báo mua hàng luân phiên 3 tháng (RPF), bảo lãnh tín dụng xuất khẩu K-SURE và webhook PG 70/30 tự động.",
+    "zh-CN": "连接 3 个月滚动采购预测 (RPF)、K-SURE 出口信用担保和自动化的 70/30 PG Webhook。",
+    "ja": "3ヶ月ローリング購入予測（RPF）、K-SURE輸出信用保証、および自動化された70/30 PGウェブフックを接続します。"
+  },
+  "While classical research departments rely on periodic manual report subscriptions, the Overnight Data Factory autonomously continuously ingests global scientific literature, patent gazettes, and trade publications between 22:00 and 08:00 every night.": {
+    "ko": "기존의 연구 부서가 정기적인 수동 보고서 구독에 의존하는 반면, Overnight Data Factory는 매일 밤 22:00에서 08:00 사이에 글로벌 과학 문헌, 특허 공보 및 무역 간행물을 자율적으로 지속적으로 수집합니다.",
+    "id": "Sementara departemen riset klasik mengandalkan langganan laporan manual berkala, Overnight Data Factory secara otonom terus menyerap literatur ilmiah global, lembaran paten, dan publikasi perdagangan antara pukul 22:00 dan 08:00 setiap malam.",
+    "vi": "Trong khi các bộ phận nghiên cứu cổ điển dựa vào việc đăng ký báo cáo thủ công định kỳ, Overnight Data Factory sẽ tự động liên tục thu thập các tài liệu khoa học toàn cầu, công báo bằng sáng chế và các ấn phẩm thương mại từ 22:00 đến 08:00 hàng đêm.",
+    "zh-CN": "传统的研发部门依赖于定期的手动报告订阅，而 Overnight Data Factory 则在每晚 22:00 至 08:00 之间自主地持续摄取全球科学文献、专利公报和贸易出版物。",
+    "ja": "従来の調査部門が定期的な手動レポートの購読に依存しているのに対し、Overnight Data Factoryは、毎晩22:00から08:00の間に、世界の科学文献、特許公報、貿易出版物を自律的に継続して取り込みます。"
+  },
+  "Where the semantic information entropy \\(\\mathcal{H}_{\\text{Mesh}}\\) of knowledge graph \\(G\\) measures multi-domain relationship density between entities \\(u\\) and \\(v\\), strictly conditioned on verifiable source citation proofs inside NotebookLM.": {
+    "ko": "지식 그래프 \\(G\\)의 의미 정보 엔트로피 \\(\\mathcal{H}_{\\text{Mesh}}\\)가 엔티티 \\(u\\)와 \\(v\\) 사이의 다중 도메인 관계 밀도를 측정하며, 이는 NotebookLM 내부의 검증 가능한 출처 인용 증거에 의해 엄격하게 조건화됩니다.",
+    "id": "Di mana entropi informasi semantik \\(\\mathcal{H}_{\\text{Mesh}}\\) dari graf pengetahuan \\(G\\) mengukur kepadatan hubungan multi-domain antara entitas \\(u\\) dan \\(v\\), yang dikondisikan secara ketat pada bukti kutipan sumber yang dapat diverifikasi di dalam NotebookLM.",
+    "vi": "Trong đó entropy thông tin ngữ nghĩa \\(\\mathcal{H}_{\\text{Mesh}}\\) của đồ thị tri thức \\(G\\) đo lường mật độ mối quan hệ đa miền giữa các thực thể \\(u\\) và \\(v\\), được điều kiện nghiêm ngặt dựa trên các bằng chứng trích dẫn nguồn có thể xác minh bên trong NotebookLM.",
+    "zh-CN": "知识图谱 \\(G\\) 的语义信息熵 \\(\\mathcal{H}_{\\text{Mesh}}\\) 衡量实体 \\(u\\) 和 \\(v\\) 之间的多领域关系密度，严格受限于 NotebookLM 内部可验证的来源引用证明。",
+    "ja": "知識グラフ \\(G\\) の意味情報エントロピー \\(\\mathcal{H}_{\\text{Mesh}}\\) がエンティティ \\(u\\) と \\(v\\) の間のマルチドメイン関係密度を測定し、NotebookLM内の検証可能な出典引用証明に厳密に条件付けられています。"
+  },
+  "When cross-border exporters make strategic trade decisions, probabilistic LLM guesses are unacceptable. Knowledge Networks enforces 100% citation-backed answers through NotebookLM and Dify.": {
+    "ko": "국경 간 수출업자가 전략적 무역 결정을 내릴 때 확률적인 LLM 추측은 용납될 수 없습니다. Knowledge Networks는 NotebookLM 및 Dify를 통해 100% 인용 기반 답변을 강제합니다.",
+    "id": "Ketika eksportir lintas batas membuat keputusan perdagangan strategis, tebakan LLM probabilistik tidak dapat diterima. Knowledge Networks memaksakan jawaban yang 100% didukung kutipan melalui NotebookLM dan Dify.",
+    "vi": "Khi các nhà xuất khẩu xuyên biên giới đưa ra các quyết định thương mại chiến lược, các dự đoán LLM mang tính xác suất là không thể chấp nhận được. Knowledge Networks thực thi các câu trả lời dựa trên trích dẫn 100% thông qua NotebookLM và Dify.",
+    "zh-CN": "当跨境出口商做出战略贸易决策时，概率性的 LLM 猜测是不可接受的。Knowledge Networks 通过 NotebookLM 和 Dify 强制执行 100% 基于引用的回答。",
+    "ja": "越境輸出業者が戦略的な貿易決定を下す際、確率的なLLMの推測は受け入れられません。Knowledge Networksは、NotebookLMとDifyを通じて、100%引用に基づいた回答を強制します。"
+  },
+  "A knowledge graph that cannot see physical inventory is merely an academic exercise. Knowledge Networks grounds digital entities in real-world physical atoms through CCTV optical computer vision.": {
+    "ko": "물리적 재고를 볼 수 없는 지식 그래프는 단순한 학술적 연습에 불과합니다. Knowledge Networks는 CCTV 광학 컴퓨터 비전을 통해 디지털 엔티티를 현실 세계의 물리적 원자에 접지합니다.",
+    "id": "Graf pengetahuan yang tidak dapat melihat inventaris fisik hanyalah latihan akademis. Knowledge Networks menambatkan entitas digital dalam atom fisik dunia nyata melalui visi komputer optik CCTV.",
+    "vi": "Một đồ thị tri thức không thể nhìn thấy hàng tồn kho vật lý chỉ đơn thuần là một bài tập học thuật. Knowledge Networks kết nối các thực thể kỹ thuật số với các nguyên tử vật lý trong thế giới thực thông qua thị giác máy tính quang học CCTV.",
+    "zh-CN": "无法看到物理库存的知识图谱仅仅是学术练习。Knowledge Networks 通过 CCTV 光学计算机视觉将数字实体落地于现实世界的物理原子中。",
+    "ja": "物理的な在庫を確認できない知識グラフは、単なる学術的な演習に過ぎません。Knowledge Networksは、CCTV光学コンピュータービジョンを通じて、デジタルエンティティを現実世界の物理的な原子に接地させます。"
+  },
+  "Surveillance feeds across our 8 bases link physical pallets directly to specific knowledge graph nodes: if a client queries formulation batch #SM-2026-0814, the system immediately returns its exact warehouse rack coordinates, temperature history, and live video snapshot.": {
+    "ko": "8개 기지 전체의 감시 피드는 물리적 팔레트를 특정 지식 그래프 노드에 직접 연결합니다. 고객이 배합 배치 #SM-2026-0814를 조회하면 시스템은 즉시 정확한 창고 랙 좌표, 온도 이력 및 실시간 비디오 스냅샷을 반환합니다.",
+    "id": "Umpan pengawasan di 8 pangkalan kami menghubungkan palet fisik secara langsung ke simpul graf pengetahuan tertentu: jika klien menanyakan batch formulasi #SM-2026-0814, sistem segera mengembalikan koordinat rak gudang yang tepat, riwayat suhu, dan cuplikan video langsung.",
+    "vi": "Các nguồn cấp dữ liệu giám sát trên 8 cơ sở của chúng tôi liên kết trực tiếp các pallet vật lý với các nút đồ thị tri thức cụ thể: nếu khách hàng truy vấn lô công thức #SM-2026-0814, hệ thống sẽ ngay lập tức trả về tọa độ giá kho chính xác, lịch sử nhiệt độ và ảnh chụp nhanh video trực tiếp.",
+    "zh-CN": "我们 8 个基地的监控馈送将物理托盘直接链接到特定的知识图谱节点：如果客户查询配方批次 #SM-2026-0814，系统会立即返回其准确的仓库货架坐标、温度历史和实时视频快照。",
+    "ja": "8つの拠点にわたる監視フィードは、物理的なパレットを特定の知識グラフノードに直接リンクします。クライアントが配合バッチ #SM-2026-0814 を照会すると、システムは即座に正確な倉庫ラックの座標、温度履歴、およびライブビデオのスナップショットを返します。"
+  },
+  "If an ocean freight container suffers port delay in Singapore, the knowledge graph automatically traces all dependent sales contracts in Jakarta and Vietnam, proactively issuing adjusted delivery dates and restocking schedules.": {
+    "ko": "싱가포르에서 해상 화물 컨테이너의 항만 지연이 발생하면, 지식 그래프가 자카르타와 베트남의 모든 종속 판매 계약을 자동으로 추적하여 조정된 배송 날짜와 재입고 일정을 선제적으로 발행합니다.",
+    "id": "Jika kontainer pengiriman laut mengalami penundaan pelabuhan di Singapura, knowledge graph secara otomatis melacak semua kontrak penjualan yang bergantung di Jakarta dan Vietnam, secara proaktif mengeluarkan tanggal pengiriman dan jadwal penyetokan ulang yang telah disesuaikan.",
+    "vi": "Nếu một container vận tải đường biển bị chậm trễ tại cảng ở Singapore, biểu đồ tri thức sẽ tự động truy xuất tất cả các hợp đồng bán hàng phụ thuộc tại Jakarta và Việt Nam, chủ động đưa ra ngày giao hàng và lịch trình nhập hàng đã điều chỉnh.",
+    "zh-CN": "如果海运集装箱在新加坡遭遇港口延误，知识图谱会自动追踪雅加达和越南的所有相关销售合同，并主动发布调整后的交货日期和补货计划。",
+    "ja": "シンガポールで海上貨物コンテナの港湾遅延が発生した場合、ナレッジグラフはジャカルタとベトナムのすべての依存販売契約を自動的に追跡し、調整された配送日と再入荷スケジュールをプロアクティブに発行します。"
+  },
+  "Knowledge Networks creates dual returns: internally, it eliminates external consulting and research expenditures; externally, it monetizes proprietary cross-border intelligence through enterprise API query tolls.": {
+    "ko": "Knowledge Networks는 이중 수익을 창출합니다. 내부적으로는 외부 컨설팅 및 연구 비용을 제거하고, 외부적으로는 기업용 API 쿼리 요금을 통해 독점적인 국경 간 인텔리전스를 수익화합니다.",
+    "id": "Knowledge Networks menciptakan pengembalian ganda: secara internal, ini menghilangkan pengeluaran konsultasi dan penelitian eksternal; secara eksternal, ini memonetisasi intelijen lintas batas milik sendiri melalui biaya kueri API perusahaan.",
+    "vi": "Knowledge Networks tạo ra lợi nhuận kép: về mặt nội bộ, nó loại bỏ các chi phí tư vấn và nghiên cứu bên ngoài; về mặt bên ngoài, nó kiếm tiền từ trí tuệ xuyên biên giới độc quyền thông qua phí truy vấn API doanh nghiệp.",
+    "zh-CN": "Knowledge Networks 创造了双重回报：对内，它消除了外部咨询和研究支出；对外，它通过企业 API 查询收费将专有的跨境情报变现。",
+    "ja": "Knowledge Networksは二重の収益を生み出します。内部的には外部のコンサルティングや研究支出を排除し、外部的には企業向けAPIクエリ料金を通じて独自のクロスボーダー・インテリジェンスを収益化します。"
+  },
+  "Operating across Seoul (SCK), Jakarta (SCI), Singapore (SCS), Los Angeles (SCU), Ho Chi Minh City (SCV), Mumbai (SCIND), Guangzhou (SCC), and Tokyo (SCJ), Knowledge Networks is strictly governed by the *SC Dual-Track Legal Firewall.": {
+    "ko": "서울(SCK), 자카르타(SCI), 싱가포르(SCS), 로스앤젤레스(SCU), 호치민시(SCV), 뭄바이(SCIND), 광저우(SCC), 도쿄(SCJ)에서 운영되는 Knowledge Networks는 *SC Dual-Track Legal Firewall에 의해 엄격하게 관리됩니다.",
+    "id": "Beroperasi di Seoul (SCK), Jakarta (SCI), Singapura (SCS), Los Angeles (SCU), Kota Ho Chi Minh (SCV), Mumbai (SCIND), Guangzhou (SCC), dan Tokyo (SCJ), Knowledge Networks diatur secara ketat oleh *SC Dual-Track Legal Firewall.",
+    "vi": "Hoạt động tại Seoul (SCK), Jakarta (SCI), Singapore (SCS), Los Angeles (SCU), Thành phố Hồ Chí Minh (SCV), Mumbai (SCIND), Quảng Châu (SCC) và Tokyo (SCJ), Knowledge Networks được quản lý nghiêm ngặt bởi *SC Dual-Track Legal Firewall.",
+    "zh-CN": "Knowledge Networks 在首尔 (SCK)、雅加达 (SCI)、新加坡 (SCS)、洛杉矶 (SCU)、胡志明市 (SCV)、孟买 (SCIND)、广州 (SCC) 和东京 (SCJ) 运营，并受到 *SC Dual-Track Legal Firewall 的严格管理。",
+    "ja": "ソウル (SCK)、ジャカルタ (SCI)、シンガポール (SCS)、ロサンゼルス (SCU)、ホーチミン (SCV)、ムンバイ (SCIND)、広州 (SCC)、東京 (SCJ) で事業を展開する Knowledge Networks は、*SC Dual-Track Legal Firewall によって厳格に管理されています。"
+  },
+  "PubMed & ScienceDirect Bio-Chemistry Crawl: Scrapes new peer-reviewed studies on natural botanical extraction yields, transdermal cosmetic absorption, and canine microbiome modulation.": {
+    "ko": "PubMed 및 ScienceDirect 생화학 크롤링: 천연 식물 추출 수율, 경피 화장품 흡수 및 반려견 마이크로바이옴 조절에 관한 새로운 동료 검토 연구를 수집합니다.",
+    "id": "Perayapan Bio-Kimia PubMed & ScienceDirect: Mengambil studi baru yang ditinjau sejawat tentang hasil ekstraksi botani alami, penyerapan kosmetik transdermal, dan modulasi mikrobioma anjing.",
+    "vi": "Thu thập dữ liệu Hóa sinh từ PubMed & ScienceDirect: Thu thập các nghiên cứu mới được bình duyệt về hiệu suất chiết xuất thực vật tự nhiên, sự hấp thụ mỹ phẩm qua da và điều chỉnh hệ vi sinh vật ở chó.",
+    "zh-CN": "PubMed & ScienceDirect 生物化学抓取：抓取关于天然植物提取产量、透皮化妆品吸收和犬类微生物组调节的新型同行评审研究。",
+    "ja": "PubMed & ScienceDirect 生化学クロール：天然植物抽出の収率、経皮化粧品吸収、および犬のマイクロバイオーム調節に関する新しい査読済み研究をスクレイピングします。"
+  },
+  "WIPO & KIPRIS Patent Gazettes: Monitors competitor formulation patent applications in Seoul, Tokyo, and Beijing, extracting novel active ingredient pairings before commercial launch.": {
+    "ko": "WIPO 및 KIPRIS 특허 공보: 서울, 도쿄, 베이징의 경쟁사 제형 특허 출원을 모니터링하여 상업적 출시 전에 새로운 활성 성분 조합을 추출합니다.",
+    "id": "Lembaran Paten WIPO & KIPRIS: Memantau aplikasi paten formulasi pesaing di Seoul, Tokyo, dan Beijing, mengekstraksi pasangan bahan aktif baru sebelum peluncuran komersial.",
+    "vi": "Công báo bằng sáng chế WIPO & KIPRIS: Theo dõi các đơn đăng ký bằng sáng chế công thức của đối thủ cạnh tranh tại Seoul, Tokyo và Bắc Kinh, trích xuất các cặp thành phần hoạt tính mới trước khi ra mắt thương mại.",
+    "zh-CN": "WIPO & KIPRIS 专利公报：监测首尔、东京和北京的竞争对手配方专利申请，在商业发布前提取新型活性成分配对。",
+    "ja": "WIPO & KIPRIS 特許公報：ソウル、東京、北京における競合他社の処方特許出願を監視し、商業発売前に新しい有効成分の組み合わせを抽出します。"
+  },
+  "Autonomous Knowledge Graph Weaving: Updates Supabase pgvector with cross-domain relationship edges, triggering automated notifications to brand R&D squads by 08:00 AM.": {
+    "ko": "자율 지식 그래프 엮기: 도메인 간 관계 엣지로 Supabase pgvector를 업데이트하여 오전 08:00까지 브랜드 R&D 팀에 자동 알림을 트리거합니다.",
+    "id": "Penenunan Knowledge Graph Otonom: Memperbarui Supabase pgvector dengan tepi hubungan lintas domain, memicu pemberitahuan otomatis ke tim Litbang merek pada pukul 08:00 pagi.",
+    "vi": "Kết nối biểu đồ tri thức tự trị: Cập nhật Supabase pgvector với các cạnh mối quan hệ liên miền, kích hoạt thông báo tự động cho các nhóm R&D của thương hiệu trước 08:00 sáng.",
+    "zh-CN": "自主知识图谱编织：使用跨域关系边更新 Supabase pgvector，在上午 08:00 前触发发给品牌研发团队的自动通知。",
+    "ja": "自律型ナレッジグラフ・ウィービング：クロスドメインの関係エッジで Supabase pgvector を更新し、午前 08:00 までにブランド R&D チームへの自動通知をトリガーします。"
+  },
+  "\"Can we export Sismii Centella sachet formula to Vietnam under zero tariff?\"": {
+    "ko": "\"Sismii Centella 파우치 포뮬러를 무관세로 베트남에 수출할 수 있습니까?\"",
+    "id": "\"Bisakah kami mengekspor formula sachet Sismii Centella ke Vietnam dengan tarif nol?\"",
+    "vi": "\"Chúng tôi có thể xuất khẩu công thức gói Sismii Centella sang Việt Nam với mức thuế suất bằng 0 không?\"",
+    "zh-CN": "“我们可以以零关税向越南出口 Sismii Centella 袋装配方吗？”",
+    "ja": "「Sismii Centella のサシェ処方を無関税でベトナムに輸出できますか？」"
+  },
+  "Yes. Form VI Form AK certificate of origin confirms 0% duty under AKFTA; all ingredients comply with ASEAN Cosmetic Directive.": {
+    "ko": "예. Form VI Form AK 원산지 증명서는 AKFTA에 따라 0% 관세를 확인하며, 모든 성분은 ASEAN Cosmetic Directive를 준수합니다.",
+    "id": "Ya. Sertifikat asal Form VI Form AK mengonfirmasi bea masuk 0% di bawah AKFTA; semua bahan mematuhi ASEAN Cosmetic Directive.",
+    "vi": "Có. Giấy chứng nhận xuất xứ Form VI Form AK xác nhận thuế suất 0% theo AKFTA; tất cả các thành phần đều tuân thủ ASEAN Cosmetic Directive.",
+    "zh-CN": "是的。Form VI Form AK 原产地证明确认在 AKFTA 下享受 0% 关税；所有成分均符合 ASEAN Cosmetic Directive。",
+    "ja": "はい。Form VI Form AK 原産地証明書により AKFTA に基づく 0% 関税が確認されています。すべての成分は ASEAN Cosmetic Directive に準拠しています。"
+  },
+  "AKFTA Schedule 3, Item #3304.99; Vietnam Circular 06/2011/TT-BYT.": {
+    "ko": "AKFTA 부속서 3, 품목 #3304.99; 베트남 통칙 06/2011/TT-BYT.",
+    "id": "AKFTA Lampiran 3, Item #3304.99; Peraturan Vietnam 06/2011/TT-BYT.",
+    "vi": "AKFTA Biểu thuế 3, Mã hàng #3304.99; Thông tư Việt Nam 06/2011/TT-BYT.",
+    "zh-CN": "AKFTA 附表 3，项目 #3304.99；越南通告 06/2011/TT-BYT。",
+    "ja": "AKFTA 付表 3、項目 #3304.99。ベトナム通達 06/2011/TT-BYT。"
+  },
+  "100.0% Exact Match": {
+    "ko": "100.0% 정확한 일치",
+    "id": "100.0% Kecocokan Persis",
+    "vi": "Khớp chính xác 100.0%",
+    "zh-CN": "100.0% 完全匹配",
+    "ja": "100.0% 完全一致"
+  },
+  "\"What is the maximum allowed dosage of Zinc Oxide in Indonesian sunscreen sachets?\"": {
+    "ko": "\"인도네시아 자외선 차단제 파우치의 Zinc Oxide 최대 허용 함량은 얼마입니까?\"",
+    "id": "\"Berapa dosis maksimum Zinc Oxide yang diperbolehkan dalam sachet tabir surya di Indonesia?\"",
+    "vi": "\"Liều lượng tối đa cho phép của Zinc Oxide trong các gói kem chống nắng tại Indonesia là bao nhiêu?\"",
+    "zh-CN": "“印度尼西亚防晒袋中 Zinc Oxide 的最大允许剂量是多少？”",
+    "ja": "「インドネシアの日焼け止めサシェにおける Zinc Oxide の最大許容含有量はどれくらいですか？」"
+  },
+  "Maximum 25% concentration as UV filter; must carry warning label against inhalation if in loose powder format.": {
+    "ko": "자외선 차단제로서 최대 25% 농도; 가루 형태인 경우 흡입 주의 경고 문구를 부착해야 합니다.",
+    "id": "Konsentrasi maksimum 25% sebagai filter UV; harus mencantumkan label peringatan agar tidak terhirup jika dalam format bubuk tabur.",
+    "vi": "Nồng độ tối đa 25% dưới dạng màng lọc UV; phải có nhãn cảnh báo chống hít phải nếu ở dạng bột rời.",
+    "zh-CN": "作为紫外线过滤剂的最大浓度为 25%；如果是散粉形式，必须带有防止吸入的警告标签。",
+    "ja": "UVフィルターとして最大濃度25%。ルースパウダー形式の場合は、吸入に対する警告ラベルを表示する必要があります。"
+  },
+  "BPOM Regulation No. 17 of 2022 on Cosmetic Ingredient Standards, Annex IV.": {
+    "ko": "화장품 성분 기준에 관한 2022년 BPOM 규정 제17호, 부속서 IV.",
+    "id": "Peraturan BPOM No. 17 Tahun 2022 tentang Standar Bahan Kosmetik, Lampiran IV.",
+    "vi": "Quy định BPOM số 17 năm 2022 về Tiêu chuẩn Thành phần Mỹ phẩm, Phụ lục IV.",
+    "zh-CN": "2022年第17号BPOM关于化妆品成分标准的规定，附录IV。",
+    "ja": "化粧品成分基準に関する2022年BPOM規則第17号、付録IV。"
+  },
+  "\"What is our real-time manufacturing cost for 1.5g petfood sachets at Cikarang?\"": {
+    "ko": "\"치카랑 공장의 1.5g 반려동물 사료 파우치 실시간 제조 원가는 얼마입니까?\"",
+    "id": "\"Berapa biaya manufaktur real-time kita untuk sachet makanan hewan 1,5g di Cikarang?\"",
+    "vi": "\"Chi phí sản xuất theo thời gian thực của chúng tôi cho gói thức ăn thú cưng 1,5g tại Cikarang là bao nhiêu?\"",
+    "zh-CN": "“我们在芝加浪（Cikarang）生产1.5克宠物食品小包装袋的实时制造成本是多少？”",
+    "ja": "「チカランにおける1.5gペットフードサシェのリアルタイム製造コストはいくらですか？」"
+  },
+  "Rp 842 per unit (raw active Rp 460 + foil packaging Rp 210 + ODM filling Rp 172); leaves 36.2% margin at Rp 1,320 retail.": {
+    "ko": "단가 Rp 842 (원료 활성 성분 Rp 460 + 호일 포장 Rp 210 + ODM 충진 Rp 172); 소매가 Rp 1,320 기준 36.2% 마진 발생.",
+    "id": "Rp 842 per unit (bahan aktif mentah Rp 460 + kemasan foil Rp 210 + pengisian ODM Rp 172); menyisakan margin 36,2% pada harga eceran Rp 1.320.",
+    "vi": "842 Rp mỗi đơn vị (nguyên liệu hoạt tính 460 Rp + bao bì nhôm 210 Rp + chiết rót ODM 172 Rp); để lại biên lợi nhuận 36,2% ở mức giá bán lẻ 1.320 Rp.",
+    "zh-CN": "每单位 Rp 842（活性原料 Rp 460 + 铝箔包装 Rp 210 + ODM 灌装 Rp 172）；零售价 Rp 1,320 时留有 36.2% 的利润率。",
+    "ja": "1ユニットあたりRp 842（原料アクティブ Rp 460 + 箔包装 Rp 210 + ODM充填 Rp 172）; 小売価格 Rp 1,320 で 36.2% のマージンを確保。"
+  },
+  "Smart ODM Batch Ledger #ODM-2026-09A & Google Workspace Master Costing.": {
+    "ko": "Smart ODM 배치 원장 #ODM-2026-09A 및 Google Workspace 마스터 코스팅.",
+    "id": "Smart ODM Batch Ledger #ODM-2026-09A & Google Workspace Master Costing.",
+    "vi": "Sổ cái lô Smart ODM #ODM-2026-09A & Google Workspace Master Costing.",
+    "zh-CN": "Smart ODM 批次分类账 #ODM-2026-09A 和 Google Workspace 主成本核算。",
+    "ja": "Smart ODM バッチ台帳 #ODM-2026-09A ＆ Google Workspace マスターコースティング。"
+  },
+  "99.8% Mathematical Match": {
+    "ko": "99.8% 수학적 일치",
+    "id": "99,8% Kecocokan Matematis",
+    "vi": "Khớp toán học 99,8%",
+    "zh-CN": "99.8% 数学匹配",
+    "ja": "99.8% 数学的整合性"
+  },
+  "\"What K-SURE credit insurance limit is approved for our buyer in Los Angeles?\"": {
+    "ko": "\"로스앤젤레스 바이어에 대해 승인된 K-SURE 수출보험 한도는 얼마입니까?\"",
+    "id": "\"Berapa batas asuransi kredit K-SURE yang disetujui untuk pembeli kita di Los Angeles?\"",
+    "vi": "\"Hạn mức bảo hiểm tín dụng K-SURE nào được phê duyệt cho người mua của chúng tôi ở Los Angeles?\"",
+    "zh-CN": "“我们在洛杉矶的买家获批的 K-SURE 信用保险额度是多少？”",
+    "ja": "「ロサンゼルスのバイヤーに対して承認されている K-SURE 信用保険の限度額はいくらですか？」"
+  },
+  "$250,000 revolving export credit guarantee on D/A 60-day open-account terms.": {
+    "ko": "D/A 60일 사후송금 방식 조건의 $250,000 회전 수출 신용 보증.",
+    "id": "Garansi kredit ekspor bergulir senilai $250.000 dengan syarat open-account D/A 60 hari.",
+    "vi": "Bảo lãnh tín dụng xuất khẩu tuần hoàn trị giá $250.000 theo điều khoản ghi sổ D/A 60 ngày.",
+    "zh-CN": "D/A 60天赊账条款下的250,000美元循环出口信用担保。",
+    "ja": "D/A 60日オープンアカウント条件に基づく250,000ドルの回転輸出信用保証。"
+  },
+  "K-SURE Policy #EXP-2026-7841A & SCK Holding Master Ledger.": {
+    "ko": "K-SURE 증권 #EXP-2026-7841A 및 SCK Holding 마스터 원장.",
+    "id": "Polis K-SURE #EXP-2026-7841A & Buku Besar Utama SCK Holding.",
+    "vi": "Đơn bảo hiểm K-SURE #EXP-2026-7841A & Sổ cái chính SCK Holding.",
+    "zh-CN": "K-SURE 保单 #EXP-2026-7841A 及 SCK Holding 总账。",
+    "ja": "K-SURE 保険証券 #EXP-2026-7841A および SCK Holding マスター台帳。"
+  },
+  "100.0% Underwritten Match": {
+    "ko": "100.0% 인수 일치",
+    "id": "Kesesuaian Penjaminan 100,0%",
+    "vi": "Khớp bảo lãnh 100,0%",
+    "zh-CN": "100.0% 承保匹配",
+    "ja": "100.0% 引受一致"
+  },
+  "Tower 1: IP Vault & Trade Secret Shield (RA)": {
+    "ko": "Tower 1: IP Vault 및 영업 비밀 보호 (RA)",
+    "id": "Tower 1: IP Vault & Trade Secret Shield (RA)",
+    "vi": "Tower 1: Kho lưu trữ IP & Khiên bảo vệ bí mật kinh doanh (RA)",
+    "zh-CN": "Tower 1: 知识产权库与商业秘密保护 (RA)",
+    "ja": "Tower 1: IP Vault および営業秘密シールド (RA)"
+  },
+  "Enforces differential cryptographic access; core patent claims and active chemical weights are quarantined from public API queries.": {
+    "ko": "차등 암호화 액세스를 시행하며, 핵심 특허 청구 범위 및 활성 화학 중량은 공용 API 쿼리로부터 격리됩니다.",
+    "id": "Memberlakukan akses kriptografi diferensial; klaim paten inti dan bobot kimia aktif dikarantina dari kueri API publik.",
+    "vi": "Thực thi quyền truy cập mã hóa vi sai; các yêu cầu bằng sáng chế cốt lõi và trọng lượng hóa học hoạt động được cách ly khỏi các truy vấn API công khai.",
+    "zh-CN": "强制执行差异化加密访问；核心专利权利要求和活性化学重量已从公共 API 查询中隔离。",
+    "ja": "差分暗号化アクセスを強制。主要な特許請求範囲および活性化学物質の重量は、パブリックAPIクエリから隔離されます。"
+  },
+  "100% protection of proprietary venture IP and formula recipes.": {
+    "ko": "독점 벤처 IP 및 배합 레시피의 100% 보호.",
+    "id": "Perlindungan 100% atas IP ventura eksklusif dan resep formula.",
+    "vi": "Bảo vệ 100% IP liên doanh độc quyền và công thức chế biến.",
+    "zh-CN": "100% 保护专有风险投资知识产权和配方。",
+    "ja": "独自のベンチャーIPおよび配合レシピを100%保護。"
+  },
+  "Tower 2: Barter Valuation & VAT Settlement": {
+    "ko": "타워 2: 물물교환 가치 평가 및 부가세 정산",
+    "id": "Tower 2: Valuasi Barter & Penyelesaian PPN",
+    "vi": "Tower 2: Định giá trao đổi & Quyết toán thuế GTGT",
+    "zh-CN": "塔楼 2：易货估值与增值税结算",
+    "ja": "タワー 2: 物々交換の評価と VAT 決済"
+  },
+  "Automates 70/30 payment gateway split webhooks for all paid knowledge queries and API calls.": {
+    "ko": "모든 유료 지식 쿼리 및 API 호출에 대해 70/30 결제 게이트웨이 분할 웹훅을 자동화합니다.",
+    "id": "Mengotomatiskan webhook pembagian gateway pembayaran 70/30 untuk semua kueri pengetahuan berbayar dan panggilan API.",
+    "vi": "Tự động hóa các webhook phân tách cổng thanh toán 70/30 cho tất cả các truy vấn kiến thức và lệnh gọi API trả phí.",
+    "zh-CN": "针对所有付费知识查询和 API 调用，自动执行 70/30 支付网关分流 Webhook。",
+    "ja": "すべての有料ナレッジクエリおよび API コールに対して、70/30 の決済ゲートウェイ分割ウェブフックを自動化します。"
+  },
+  "Real-time tax compliance across all 8 international bases.": {
+    "ko": "8개 모든 국제 기지에서 실시간 세무 준수.",
+    "id": "Kepatuhan pajak waktu nyata di seluruh 8 basis internasional.",
+    "vi": "Tuân thủ thuế theo thời gian thực trên tất cả 8 cơ sở quốc tế.",
+    "zh-CN": "所有 8 个国际基地的实时税务合规。",
+    "ja": "全 8 か所の国際拠点におけるリアルタイムの税務コンプライアンス。"
+  },
+  "Verifies that all referenced inventory and logistics nodes match physical atoms before executing trade contracts.": {
+    "ko": "무역 계약을 실행하기 전에 모든 참조된 재고 및 물류 노드가 실제 원자와 일치하는지 확인합니다.",
+    "id": "Memverifikasi bahwa semua inventaris dan simpul logistik yang dirujuk sesuai dengan atom fisik sebelum mengeksekusi kontrak perdagangan.",
+    "vi": "Xác minh rằng tất cả các nút kho hàng và hậu cần được tham chiếu khớp với các nguyên tử vật lý trước khi thực hiện hợp đồng thương mại.",
+    "zh-CN": "在执行贸易合同之前，验证所有引用的库存和物流节点是否与物理原子匹配。",
+    "ja": "貿易契約を実行する前に、参照されているすべての在庫および物流ノードが物理的な原子と一致していることを確認します。"
+  },
+  "Eliminates commercial default and phantom inventory risks.": {
+    "ko": "상업적 채무 불이행 및 가공 재고 위험을 제거합니다.",
+    "id": "Menghilangkan risiko gagal bayar komersial dan inventaris hantu.",
+    "vi": "Loại bỏ rủi ro vỡ nợ thương mại và tồn kho ảo.",
+    "zh-CN": "消除商业违约和虚假库存风险。",
+    "ja": "商業的なデフォルトおよび架空在庫のリスクを排除します。"
+  },
+  "Intelligence Query": {
+    "ko": "지능형 쿼리",
+    "id": "Kueri Intelijen",
+    "vi": "Truy vấn thông minh",
+    "zh-CN": "智能查询",
+    "ja": "インテリジェンスクエリ"
+  },
+  "Synthesized Cross-Domain Fact": {
+    "ko": "합성된 교차 도메인 사실",
+    "id": "Fakta Lintas Domain yang Disintesis",
+    "vi": "Sự thật liên miền được tổng hợp",
+    "zh-CN": "综合跨域事实",
+    "ja": "合成されたクロスドメインの事実"
+  },
+  "Closed-Corpus Citation Proof": {
+    "ko": "폐쇄형 코퍼스 인용 증명",
+    "id": "Bukti Kutipan Korpus Tertutup",
+    "vi": "Bằng chứng trích dẫn kho ngữ liệu đóng",
+    "zh-CN": "封闭语料库引用证明",
+    "ja": "クローズドコーパス引用証明"
+  },
+  "Confidence Score": {
+    "ko": "신뢰도 점수",
+    "id": "Skor Kepercayaan",
+    "vi": "Điểm tin cậy",
+    "zh-CN": "置信度得分",
+    "ja": "信頼度スコア"
+  },
+  "Chapter 01 • Knowledge Nexus": {
+    "ko": "제01장 • 지식 넥서스",
+    "id": "Bab 01 • Nexus Pengetahuan",
+    "vi": "Chương 01 • Mối liên kết tri thức",
+    "zh-CN": "第 01 章 • 知识枢纽",
+    "ja": "第01章 • ナレッジネクサス"
+  },
+  "Federated Enterprise Intelligence Mesh": {
+    "ko": "연합 기업 지능 메쉬",
+    "id": "Jaring Kecerdasan Perusahaan Terfederasi",
+    "vi": "Lưới thông minh doanh nghiệp liên hợp",
+    "zh-CN": "联邦企业智能网格",
+    "ja": "フェデレーテッド・エンタープライズ・インテリジェンス・メッシュ"
+  },
+  "Chapter 02 • Graph Architecture": {
+    "ko": "제02장 • 그래프 아키텍처",
+    "id": "Bab 02 • Arsitektur Graf",
+    "vi": "Chương 02 • Kiến trúc đồ thị",
+    "zh-CN": "第 02 章 • 图谱架构",
+    "ja": "第02章 • グラフアーキテクチャ"
+  },
+  "Cross-Domain Semantic Ontology": {
+    "ko": "교차 도메인 의미론적 온톨로지",
+    "id": "Ontologi Semantik Lintas Domain",
+    "vi": "Bản thể học ngữ nghĩa đa miền",
+    "zh-CN": "跨域语义本体",
+    "ja": "クロスドメイン意味論的オントロジー"
+  },
+  "Chapter 03 • Ingestion Pipeline": {
+    "ko": "제03장 • 수집 파이프라인",
+    "id": "Bab 03 • Saluran Ingesti",
+    "vi": "Chương 03 • Đường ống nạp dữ liệu",
+    "zh-CN": "第 03 章 • 摄取管道",
+    "ja": "第03章 • インジェクション・パイプライン"
+  },
+  "Overnight Academic & Trade Scraping": {
+    "ko": "야간 학술 및 무역 스크래핑",
+    "id": "Scraping Akademik & Perdagangan Semalam",
+    "vi": "Thu thập dữ liệu học thuật & thương mại qua đêm",
+    "zh-CN": "隔夜学术与贸易抓取",
+    "ja": "オーバーナイト学術・貿易スクレイピング"
+  },
+  "Chapter 04 • Citation Grounding": {
+    "ko": "제04장 • 인용 근거 설정",
+    "id": "Bab 04 • Dasar Kutipan",
+    "vi": "Chương 04 • Xác thực trích dẫn",
+    "zh-CN": "第 04 章 • 引用落地",
+    "ja": "第04章 • 引用の根拠付け"
+  },
+  "Chapter 05 • Physical-Digital Mesh": {
+    "ko": "제05장 • 물리-디지털 메쉬",
+    "id": "Bab 05 • Jaring Fisik-Digital",
+    "vi": "Chương 05 • Lưới Vật lý-Kỹ thuật số",
+    "zh-CN": "第 05 章 • 物理-数字网格",
+    "ja": "第05章 • フィジカル・デジタル・メッシュ"
+  },
+  "Chapter 01 • Knowledge Nexus Federated Enterprise Intelligence Mesh": {
+    "ko": "제01장 • 지식 넥서스 연합 기업 지능 메쉬",
+    "id": "Bab 01 • Jaring Intelijen Perusahaan Terfederasi Knowledge Nexus",
+    "vi": "Chương 01 • Lưới trí tuệ doanh nghiệp liên hợp Knowledge Nexus",
+    "zh-CN": "第 01 章 • 知识纽带联邦企业智能网格",
+    "ja": "第01章 • ナレッジ・ネクサス連合エンタープライズ・インテリジェンス・メッシュ"
+  },
+  "Indexed Cross-Border Entity Nodes in Vector Knowledge Graph": {
+    "ko": "벡터 지식 그래프 내 인덱싱된 국가 간 엔티티 노드",
+    "id": "Node Entitas Lintas Batas Terindeks dalam Graf Pengetahuan Vektor",
+    "vi": "Các nút thực thể xuyên biên giới được lập chỉ mục trong Đồ thị tri thức vector",
+    "zh-CN": "向量知识图谱中索引的跨境实体节点",
+    "ja": "ベクトル知識グラフ内のインデックス付きクロスボーダー・エンティティ・ノード"
+  },
+  "Citation-Backed Grounding via Closed NotebookLM Vaults": {
+    "ko": "폐쇄형 NotebookLM Vault를 통한 인용 기반 그라운딩",
+    "id": "Grounding Berbasis Sitasi melalui Vault NotebookLM Tertutup",
+    "vi": "Nền tảng dựa trên trích dẫn thông qua các Vault NotebookLM đóng",
+    "zh-CN": "通过封闭式 NotebookLM Vaults 实现的引用支持型落地",
+    "ja": "クローズドな NotebookLM Vaults を介した引用裏付けのあるグラウンディング"
+  },
+  "Seamless Cross-Project Query Entanglement Across *SC Universe": {
+    "ko": "*SC Universe 전반에 걸친 원활한 프로젝트 간 쿼리 얽힘",
+    "id": "Keterikatan Kueri Lintas Proyek yang Mulus di Seluruh *SC Universe",
+    "vi": "Sự vướng mắc truy vấn chéo dự án liền mạch trên toàn bộ *SC Universe",
+    "zh-CN": "跨 *SC Universe 的无缝跨项目查询纠缠",
+    "ja": "*SC Universe 全体にわたるシームレスなクロスプロジェクト・クエリ・エンタングルメント"
+  },
+  "Automated Webhook Settlement Split on All Enterprise API Calls": {
+    "ko": "모든 엔터프라이즈 API 호출에 대한 자동화된 웹훅 정산 분할",
+    "id": "Pembagian Penyelesaian Webhook Otomatis pada Semua Panggilan API Perusahaan",
+    "vi": "Chia tách quyết toán Webhook tự động trên tất cả các lệnh gọi API doanh nghiệp",
+    "zh-CN": "所有企业级 API 调用上的自动化 Webhook 结算拆分",
+    "ja": "すべてのエンタープライズ API コールにおける自動 Webhook 決済分割"
+  },
+  "Chapter 02 • Graph Architecture Cross-Domain Semantic Ontology": {
+    "ko": "제02장 • 그래프 아키텍처 교차 도메인 의미론적 온톨로지",
+    "id": "Bab 02 • Ontologi Semantik Lintas Domain Arsitektur Graf",
+    "vi": "Chương 02 • Bản thể học ngữ nghĩa chéo miền của kiến trúc đồ thị",
+    "zh-CN": "第 02 章 • 图架构跨域语义本体",
+    "ja": "第02章 • グラフ・アーキテクチャ・クロスドメイン意味論的オントロジー"
+  },
+  "Chapter 03 • Ingestion Pipeline Overnight Academic & Trade Scraping": {
+    "ko": "제03장 • 인제스션 파이프라인 야간 학술 및 무역 스크래핑",
+    "id": "Bab 03 • Pipeline Ingesti Scraping Akademik & Perdagangan Semalam",
+    "vi": "Chương 03 • Quy trình nạp dữ liệu Thu thập dữ liệu học thuật & thương mại qua đêm",
+    "zh-CN": "第 03 章 • 摄取管道隔夜学术与贸易抓取",
+    "ja": "第03章 • インジェクション・パイプライン夜間学術・貿易スクレイピング"
+  },
+  "Chapter 04 • Citation Grounding Dual-Engine Vector Architecture": {
+    "ko": "제04장 • 인용 근거 이중 엔진 벡터 아키텍처",
+    "id": "Bab 04 • Arsitektur Vektor Mesin Ganda Grounding Sitasi",
+    "vi": "Chương 04 • Kiến trúc Vector Động cơ kép Grounding Trích dẫn",
+    "zh-CN": "第 04 章 • 引文落地双引擎矢量架构",
+    "ja": "第04章 • 引用グラウンディング・デュアルエンジン・ベクトル・アーキテクチャ"
+  },
+  "Chapter 05 • Physical-Digital Mesh CCTV Optical Stock Opname": {
+    "ko": "제05장 • 피지컬-디지털 메쉬 CCTV 광학 재고 실사",
+    "id": "Bab 05 • Stock Opname Optik CCTV Mesh Fisik-Digital",
+    "vi": "Chương 05 • Kiểm kê kho quang học CCTV lưới Vật lý-Kỹ thuật số",
+    "zh-CN": "第 05 章 • 物理-数字网格 CCTV 光学库存盘点",
+    "ja": "第05章 • 物理-デジタルメッシュ CCTV 光学在庫棚卸"
+  },
+  "*SC — Robotics: Autonomous Embodied AI & Smart ODM Manufacturing": {
+    "ko": "*SC — 로보틱스: 자율형 체화 AI 및 스마트 ODM 제조",
+    "id": "*SC — Robotika: AI Perwujudan Otonom & Manufaktur ODM Cerdas",
+    "vi": "*SC — Robot học: AI hiện thân tự hành & Sản xuất ODM thông minh",
+    "zh-CN": "*SC — 机器人：自主具身智能与智能 ODM 制造",
+    "ja": "*SC — ロボティクス：自律型エンボディドAI＆スマートODM製造"
+  },
+  "The Smart ODM Form-Fill-Seal Stack: Rp 1,320 Sachet Automation": {
+    "ko": "스마트 ODM 폼-필-실 스택: Rp 1,320 사쉐 자동화",
+    "id": "Tumpukan Form-Fill-Seal ODM Cerdas: Otomatisasi Sachet Rp 1.320",
+    "vi": "Ngăn xếp Form-Fill-Seal ODM thông minh: Tự động hóa gói nhỏ Rp 1.320",
+    "zh-CN": "智能 ODM 成型-填充-封口堆栈：Rp 1,320 小袋自动化",
+    "ja": "スマートODMフォーム・フィル・シール・スタック：Rp 1,320 サシェ自動化"
+  },
+  "The 10 PM → 8 AM Overnight Machine Telemetry & Predictive Maintenance": {
+    "ko": "오후 10시 → 오전 8시 야간 장비 텔레메트리 및 예방 정비",
+    "id": "Telemetri Mesin Semalam & Pemeliharaan Prediktif 10 Malam → 8 Pagi",
+    "vi": "Đo lường từ xa & Bảo trì dự đoán máy qua đêm 10 giờ tối → 8 giờ sáng",
+    "zh-CN": "晚上 10 点 → 早上 8 点隔夜机器遥测与预测性维护",
+    "ja": "午後10時 → 午前8時 夜間マシンテレメトリ＆予知保全"
+  },
+  "Dual-Engine Vector Grounding: ISO/GMP Cleanroom Robotics Compliance": {
+    "ko": "이중 엔진 벡터 그라운딩: ISO/GMP 클린룸 로봇 공학 준수",
+    "id": "Grounding Vektor Mesin Ganda: Kepatuhan Robotika Ruang Bersih ISO/GMP",
+    "vi": "Grounding Vector Động cơ kép: Tuân thủ Robot học phòng sạch ISO/GMP",
+    "zh-CN": "双引擎矢量落地：ISO/GMP 无尘室机器人合规性",
+    "ja": "デュアルエンジン・ベクトル・グラウンディング：ISO/GMP クリーンルーム・ロボティクス・コンプライアンス"
+  },
+  "CCTV Vision Stock Opname & AMR Warehouse Teleoperation": {
+    "ko": "CCTV 비전 재고 조사 및 AMR 창고 원격 제어",
+    "id": "Stock Opname Visi CCTV & Teleoperasi Gudang AMR",
+    "vi": "Kiểm kê kho bằng CCTV Vision & Điều khiển từ xa kho hàng AMR",
+    "zh-CN": "CCTV 视觉库存盘点与 AMR 仓库远程操作",
+    "ja": "CCTVビジョン在庫棚卸およびAMR倉庫テレオペレーション"
+  },
+  "Dual-Return Economic Engine & Turnkey Robotics Automation SaaS": {
+    "ko": "이중 수익 경제 엔진 및 턴키 로봇 자동화 SaaS",
+    "id": "Mesin Ekonomi Dual-Return & SaaS Otomasi Robotika Turnkey",
+    "vi": "Động cơ kinh tế lợi nhuận kép & SaaS tự động hóa robot trọn gói",
+    "zh-CN": "双重回报经济引擎与一站式机器人自动化 SaaS",
+    "ja": "デュアルリターン経済エンジンおよびターンキー・ロボティクス・オートメーションSaaS"
+  },
+  "The Bridge from Algorithmic Superposition to Physical Atoms": {
+    "ko": "알고리즘 중첩에서 물리적 원자로의 가교",
+    "id": "Jembatan dari Superposisi Algoritmik ke Atom Fisik",
+    "vi": "Cầu nối từ chồng chập thuật toán đến các nguyên tử vật lý",
+    "zh-CN": "从算法叠加到物理原子的桥梁",
+    "ja": "アルゴリズムの重ね合わせから物理的原子への架け橋"
+  },
+  "Servo Auger & Peristaltic Pumps": {
+    "ko": "서보 오거 및 연동 펌프",
+    "id": "Pompa Servo Auger & Peristaltik",
+    "vi": "Máy khoan Servo & Bơm nhu động",
+    "zh-CN": "伺服螺旋给料机与蠕动泵",
+    "ja": "サーボオーガーおよびペリスタルティックポンプ"
+  },
+  "Zero Lipid Oxidation": {
+    "ko": "지질 산화 제로",
+    "id": "Oksidasi Lipid Nol",
+    "vi": "Không oxy hóa lipid",
+    "zh-CN": "零脂质氧化",
+    "ja": "脂質酸化ゼロ"
+  },
+  "Cryptographic QR Marking": {
+    "ko": "암호화 QR 마킹",
+    "id": "Penandaan QR Kriptografi",
+    "vi": "Đánh dấu QR mã hóa",
+    "zh-CN": "加密 QR 标记",
+    "ja": "暗号化QRマーキング"
+  },
+  "Nightly Autonomous Diagnostics Protocol": {
+    "ko": "야간 자율 진단 프로토콜",
+    "id": "Protokol Diagnostik Otonom Malam Hari",
+    "vi": "Giao thức chẩn đoán tự động hàng đêm",
+    "zh-CN": "夜间自主诊断协议",
+    "ja": "夜間自律診断プロトコル"
+  },
+  "LiDAR + Optical SLAM Navigation": {
+    "ko": "LiDAR + 광학 SLAM 내비게이션",
+    "id": "Navigasi LiDAR + SLAM Optik",
+    "vi": "Điều hướng LiDAR + SLAM quang học",
+    "zh-CN": "LiDAR + 光学 SLAM 导航",
+    "ja": "LiDAR + 光学SLAMナビゲーション"
+  },
+  "Automatic Pallet Tag Association": {
+    "ko": "자동 팔레트 태그 연결",
+    "id": "Asosiasi Tag Palet Otomatis",
+    "vi": "Liên kết thẻ pallet tự động",
+    "zh-CN": "自动托盘标签关联",
+    "ja": "自動パレットタグ関連付け"
+  },
+  "Serving as the physical execution pillar of Domain 05 (qubit-biz), Robotics transforms pure algorithmic sparks into physical manufactured reality. Bridging the cognitive models of *SC intelligence-core with high-speed Smart ODM form-fill-seal packaging machinery, Autonomous Mobile Robots (AMRs), and computer-vision guided palletizers, Robotics enables on-demand production of our signature Rp 1,320 single-dose sachets and veterinary bio-supplements at near-zero incremental labor cost.": {
+    "ko": "Domain 05 (qubit-biz)의 물리적 실행 기둥 역할을 하는 Robotics는 순수한 알고리즘의 불꽃을 물리적으로 제조된 현실로 변환합니다. *SC intelligence-core의 인지 모델을 고속 Smart ODM 폼-필-실(form-fill-seal) 포장 기계, 자율 주행 로봇(AMR) 및 컴퓨터 비전 유도 팔레타이저와 연결함으로써, Robotics는 당사의 시그니처인 Rp 1,320 단회 투여 사셰 및 수의학용 바이오 보충제를 거의 제로에 가까운 추가 노동 비용으로 주문형 생산할 수 있게 합니다.",
+    "id": "Berperan sebagai pilar eksekusi fisik dari Domain 05 (qubit-biz), Robotics mengubah percikan algoritmik murni menjadi realitas manufaktur fisik. Menjembatani model kognitif *SC intelligence-core dengan mesin pengemasan form-fill-seal Smart ODM berkecepatan tinggi, Autonomous Mobile Robots (AMR), dan palletizer berpemandu visi komputer, Robotics memungkinkan produksi on-demand sachet dosis tunggal Rp 1.320 khas kami dan suplemen bio veteriner dengan biaya tenaga kerja tambahan yang hampir nol.",
+    "vi": "Đóng vai trò là trụ cột thực thi vật lý của Domain 05 (qubit-biz), Robotics biến những tia sáng thuật toán thuần túy thành thực tế sản xuất vật lý. Kết nối các mô hình nhận thức của *SC intelligence-core với máy đóng gói form-fill-seal Smart ODM tốc độ cao, Robot di động tự hành (AMR) và máy xếp pallet có hướng dẫn bằng thị giác máy tính, Robotics cho phép sản xuất theo yêu cầu các gói liều đơn Rp 1.320 đặc trưng của chúng tôi và các chất bổ sung sinh học thú y với chi phí lao động gia tăng gần như bằng không.",
+    "zh-CN": "作为 Domain 05 (qubit-biz) 的物理执行支柱，Robotics 将纯粹的算法火花转化为物理制造的现实。通过将 *SC intelligence-core 的认知模型与高速 Smart ODM 成型-填充-封口 (form-fill-seal) 包装机械、自主移动机器人 (AMR) 以及计算机视觉引导的码垛机相结合，Robotics 能够以近乎零的边际劳动力成本，按需生产我们标志性的 Rp 1,320 单剂量小袋和兽用生物补充剂。",
+    "ja": "Domain 05 (qubit-biz) の物理的実行の柱として、Robotics は純粋なアルゴリズムの火花を物理的に製造された現実に変えます。*SC intelligence-core の認知モデルを、高速 Smart ODM フォーム・フィル・シール（form-fill-seal）包装機械、自律走行搬送ロボット（AMR）、およびコンピュータービジョン誘導パレタイザーと橋渡しすることで、Robotics は、当社の代表的な Rp 1,320 単回投与サシェや獣医用バイオサプリメントを、追加の人件費をほぼゼロに抑えてオンデマンドで生産することを可能にします。"
+  },
+  "Software and AI models can optimize formulations and predict customer demand, but commerce cannot settle until physical goods are compounded, packaged, sealed, and delivered. Traditional manufacturing requires rigid multi-million-dollar Minimum Order Quantities (MOQs), manual conveyor-belt labor, and weeks of re-tooling downtime. *SC Robotics replaces this with agile, computer-vision guided robotic packaging cells: automated form-fill-seal lines adjust dosage, nitrogen flushing, and serialized QR pouch printing on the fly, producing customized 1.5g trial sachets within 4 hours of a digital flash sale surge.": {
+    "ko": "소프트웨어와 AI 모델은 배합을 최적화하고 고객 수요를 예측할 수 있지만, 물리적 상품이 혼합, 포장, 밀봉 및 배송되기 전까지 상거래는 완료될 수 없습니다. 전통적인 제조 방식은 수백만 달러 규모의 경직된 최소 주문 수량(MOQ), 수동 컨베이어 벨트 노동, 그리고 몇 주간의 설비 교체 가동 중단 시간을 필요로 합니다. *SC Robotics는 이를 민첩한 컴퓨터 비전 유도 로봇 포장 셀로 대체합니다. 자동화된 폼-필-실 라인은 투여량, 질소 충전 및 일련번호가 지정된 QR 파우치 인쇄를 즉석에서 조정하여, 디지털 플래시 세일 급증 후 4시간 이내에 맞춤형 1.5g 체험용 사셰를 생산합니다.",
+    "id": "Perangkat lunak dan model AI dapat mengoptimalkan formulasi dan memprediksi permintaan pelanggan, tetapi perdagangan tidak dapat diselesaikan sampai barang fisik dicampur, dikemas, disegel, dan dikirim. Manufaktur tradisional membutuhkan Jumlah Pesanan Minimum (MOQ) bernilai jutaan dolar yang kaku, tenaga kerja ban berjalan manual, dan waktu henti re-tooling selama berminggu-minggu. *SC Robotics menggantikan ini dengan sel pengemasan robotik berpemandu visi komputer yang gesit: lini form-fill-seal otomatis menyesuaikan dosis, pembilasan nitrogen, dan pencetakan kantong QR berseri secara langsung, menghasilkan sachet uji coba 1,5g yang disesuaikan dalam waktu 4 jam setelah lonjakan penjualan kilat digital.",
+    "vi": "Phần mềm và các mô hình AI có thể tối ưu hóa công thức và dự đoán nhu cầu của khách hàng, nhưng thương mại không thể hoàn tất cho đến khi hàng hóa vật lý được pha trộn, đóng gói, niêm phong và giao hàng. Sản xuất truyền thống đòi hỏi Số lượng đặt hàng tối thiểu (MOQ) hàng triệu đô la cứng nhắc, lao động trên băng chuyền thủ công và thời gian ngừng hoạt động để thay đổi công cụ trong nhiều tuần. *SC Robotics thay thế điều này bằng các ngăn đóng gói robot có hướng dẫn bằng thị giác máy tính linh hoạt: các dây chuyền form-fill-seal tự động điều chỉnh liều lượng, xả nitơ và in túi QR được tuần tự hóa ngay lập tức, sản xuất các gói dùng thử 1,5g tùy chỉnh trong vòng 4 giờ sau khi doanh số bán hàng chớp nhoáng kỹ thuật số tăng vọt.",
+    "zh-CN": "软件和 AI 模型可以优化配方并预测客户需求，但在实物商品经过调配、包装、封口和交付之前，商业交易无法最终完成。传统制造需要数百万美元的僵化最小订单量 (MOQ)、手动传送带劳动力以及数周的设备更换停机时间。*SC Robotics 用敏捷的计算机视觉引导机器人包装单元取代了这一切：自动成型-填充-封口生产线可即时调整剂量、氮气冲洗和序列化 QR 袋打印，在数字闪购激增后的 4 小时内生产出定制的 1.5g 试用小袋。",
+    "ja": "ソフトウェアと AI モデルは処方を最適化し、顧客の需要を予測できますが、物理的な商品が調合、包装、密封、配送されるまで、商取引は完結しません。従来の製造では、数百万ドル規模の硬直した最小注文数量（MOQ）、手動のベルトコンベア作業、および数週間にわたる設備改修のダウンタイムが必要です。*SC Robotics は、これを機敏なコンピュータービジョン誘導ロボット包装セルに置き換えます。自動化されたフォーム・フィル・シール・ラインは、投与量、窒素充填、シリアル化された QR パウチ印刷を即座に調整し、デジタルフラッシュセールの急増から 4 時間以内にカスタマイズされた 1.5g の試用サシェを生産します。"
+  },
+  "The commercial engine of Qubit-Biz rests upon the viral distribution of ultra-low-cost, high-margin trial sachets. The Robotics division engineered proprietary vertical and horizontal form-fill-seal (FFS) packaging cells capable of running continuous unmanned shifts.": {
+    "ko": "Qubit-Biz의 상업적 엔진은 초저가, 고마진 체험용 사셰의 바이럴 유통에 달려 있습니다. Robotics 부문은 연속 무인 교대 근무가 가능한 독점적인 수직 및 수평 폼-필-실(FFS) 포장 셀을 설계했습니다.",
+    "id": "Mesin komersial Qubit-Biz bertumpu pada distribusi viral sachet uji coba berbiaya sangat rendah dan bermargin tinggi. Divisi Robotics merekayasa sel pengemasan form-fill-seal (FFS) vertikal dan horizontal milik sendiri yang mampu menjalankan shift tanpa awak secara terus-menerus.",
+    "vi": "Động cơ thương mại của Qubit-Biz dựa trên việc phân phối lan truyền các gói dùng thử chi phí cực thấp, lợi nhuận cao. Bộ phận Robotics đã thiết kế các ngăn đóng gói form-fill-seal (FFS) dọc và ngang độc quyền có khả năng chạy các ca làm việc không người lái liên tục.",
+    "zh-CN": "Qubit-Biz 的商业引擎建立在超低成本、高利润试用小袋的病毒式传播之上。Robotics 部门设计了专有的垂直和水平成型-填充-封口 (FFS) 包装单元，能够进行连续的无人值守作业。",
+    "ja": "Qubit-Biz の商業エンジンは、超低コスト・高利益の試用サシェのバイラルな流通にかかっています。Robotics 部門は、連続無人シフトが可能な独自の垂直および水平フォーム・フィル・シール（FFS）包装セルを開発しました。"
+  },
+  "Packaging the sachets is only half the battle; transporting sealed cartons from packaging lines to container stuffing docks requires autonomous mobile robotics.": {
+    "ko": "소포장(sachet) 포장은 절반의 과정일 뿐입니다. 밀봉된 상자를 포장 라인에서 컨테이너 적재장까지 운송하려면 자율 주행 로봇 공학이 필요합니다.",
+    "id": "Mengemas sachet hanyalah setengah dari perjuangan; mengangkut karton yang telah disegel dari lini pengemasan ke dermaga pengisian kontainer memerlukan robotika seluler otonom.",
+    "vi": "Đóng gói các gói nhỏ (sachet) mới chỉ là một nửa chặng đường; việc vận chuyển các thùng carton đã niêm phong từ dây chuyền đóng gói đến bến xếp hàng container đòi hỏi robot di động tự hành.",
+    "zh-CN": "小袋包装只是成功的一半；将密封纸箱从包装线运送到集装箱装卸码头需要自主移动机器人技术。",
+    "ja": "サシェの包装は工程の半分に過ぎません。密封されたカートンを包装ラインからコンテナ詰めドックまで輸送するには、自律走行搬送ロボット技術が必要です。"
+  },
+  "Electric AMRs ferry finished sachet cartons from packaging conveyor lines directly to automated palletizers in Cikarang and Incheon, avoiding workers and updating internal aisle transit maps in real time without magnetic floor tape.": {
+    "ko": "전기 AMR은 치카랑과 인천의 포장 컨베이어 라인에서 자동 팔레타이저로 완제품 상자를 직접 운반하며, 작업자를 피하고 마그네틱 바닥 테이프 없이 실시간으로 내부 통로 이동 지도를 업데이트합니다.",
+    "id": "AMR listrik mengangkut karton sachet yang sudah jadi dari lini konveyor pengemasan langsung ke palletizer otomatis di Cikarang dan Incheon, menghindari pekerja dan memperbarui peta transit lorong internal secara real-time tanpa pita lantai magnetik.",
+    "vi": "Các AMR điện vận chuyển các thùng carton sachet thành phẩm từ dây chuyền băng tải đóng gói trực tiếp đến máy xếp pallet tự động ở Cikarang và Incheon, tránh công nhân và cập nhật bản đồ di chuyển trong lối đi nội bộ theo thời gian thực mà không cần băng từ dưới sàn.",
+    "zh-CN": "电动 AMR 将包装好的小袋纸箱从包装传送线直接运送到芝卡朗和仁川的自动码垛机，避开工人并实时更新内部通道运输地图，无需磁性地面胶带。",
+    "ja": "電動AMRは、チカランと仁川の包装コンベアラインから自動パレタイザーへ完成したサシェカートンを直接運び、作業員を避けながら、磁気フロアテープなしで内部通路の移動マップをリアルタイムで更新します。"
+  },
+  "As the AMR places a finished pallet in the outbound bay, overhead CCTV cameras capture the pallet QR placard and carton stack matrix, instantly verifying the packing list and releasing the shipping manifest inside Qubit ERP.": {
+    "ko": "AMR이 출고 구역에 완성된 팔레트를 놓으면, 오버헤드 CCTV 카메라가 팔레트 QR 플래카드와 카톤 스택 매트릭스를 캡처하여 즉시 패킹 리스트를 확인하고 Qubit ERP 내에서 선하 증권을 발행합니다.",
+    "id": "Saat AMR menempatkan palet yang sudah jadi di teluk keluar, kamera CCTV di atas kepala menangkap plakat QR palet dan matriks tumpukan karton, secara instan memverifikasi daftar kemasan dan merilis manifes pengiriman di dalam Qubit ERP.",
+    "vi": "Khi AMR đặt một pallet thành phẩm vào ngăn xuất hàng, camera CCTV trên cao sẽ chụp bảng QR của pallet và ma trận xếp chồng thùng carton, ngay lập tức xác minh danh sách đóng gói và giải phóng bản kê khai vận chuyển bên trong Qubit ERP.",
+    "zh-CN": "当 AMR 将完成的托盘放置在出货区时，高架 CCTV 摄像头会捕捉托盘 QR 标牌和纸箱堆栈矩阵，立即验证装箱单并在 Qubit ERP 中发布货运舱单。",
+    "ja": "AMRが出荷ベイに完成したパレットを置くと、頭上のCCTVカメラがパレットのQRプラカードとカートン積層マトリックスをキャプチャし、即座にパッキングリストを照合して Qubit ERP 内で出荷マニフェストを発行します。"
+  },
+  "The Robotics division generates dual returns: internally, it slashes unit packaging labor costs by 84%; externally, it licenses modular micro-sachet packaging lines to regional contract manufacturers.": {
+    "ko": "로보틱스 부문은 이중 수익을 창출합니다. 내부적으로는 단위 포장 인건비를 84% 절감하고, 외부적으로는 모듈형 마이크로 소포장 포장 라인을 지역 위탁 제조업체에 라이선스합니다.",
+    "id": "Divisi Robotika menghasilkan keuntungan ganda: secara internal, divisi ini memangkas biaya tenaga kerja pengemasan unit sebesar 84%; secara eksternal, divisi ini melisensikan lini pengemasan mikro-sachet modular kepada produsen kontrak regional.",
+    "vi": "Bộ phận Robot tạo ra lợi nhuận kép: về nội bộ, nó cắt giảm 84% chi phí lao động đóng gói đơn vị; về bên ngoài, nó cấp phép các dây chuyền đóng gói vi gói (micro-sachet) mô-đun cho các nhà sản xuất hợp đồng trong khu vực.",
+    "zh-CN": "机器人部门产生双重回报：对内，它将单位包装劳动力成本削减了 84%；对外，它向区域代工厂授权模块化微型小袋包装线。",
+    "ja": "ロボティクス部門は二重の収益を生み出します。内部的には、ユニット包装の人件費を84%削減し、外部的には、モジュール式のマイクロサシェ包装ラインを地域の受託製造業者にライセンス供与します。"
+  },
+  "Operating physical manufacturing cells across South Korea (SCK), Indonesia (SCI), Vietnam (SCV), and China (SCC), Robotics is insulated by the *SC Dual-Track Legal Firewall, isolating factory equipment leasing liabilities from venture software assets.": {
+    "ko": "한국(SCK), 인도네시아(SCI), 베트남(SCV), 중국(SCC)에서 물리적 제조 셀을 운영하는 로보틱스는 *SC Dual-Track Legal Firewall에 의해 보호되어 공장 장비 리스 부채를 벤처 소프트웨어 자산으로부터 격리합니다.",
+    "id": "Mengoperasikan sel manufaktur fisik di Korea Selatan (SCK), Indonesia (SCI), Vietnam (SCV), dan Tiongkok (SCC), Robotika dilindungi oleh *SC Dual-Track Legal Firewall, yang mengisolasi liabilitas sewa peralatan pabrik dari aset perangkat lunak ventura.",
+    "vi": "Vận hành các xưởng sản xuất vật lý tại Hàn Quốc (SCK), Indonesia (SCI), Việt Nam (SCV) và Trung Quốc (SCC), bộ phận Robot được bảo vệ bởi *SC Dual-Track Legal Firewall, cách ly các khoản nợ thuê thiết bị nhà máy khỏi các tài sản phần mềm liên doanh.",
+    "zh-CN": "机器人部门在韩国 (SCK)、印度尼西亚 (SCI)、越南 (SCV) 和中国 (SCC) 运营实体制造单元，受 *SC Dual-Track Legal Firewall 保护，将工厂设备租赁负债与风险投资软件资产隔离。",
+    "ja": "韓国(SCK)、インドネシア(SCI)、ベトナム(SCV)、中国(SCC)で物理的な製造セルを運営するロボティクスは、*SC Dual-Track Legal Firewall によって保護されており、工場の設備リース負債をベンチャーソフトウェア資産から隔離しています。"
+  },
+  "Vibration & Thermal Acoustic Telemetry: High-frequency piezoelectric sensors on packaging drive motors stream vibrational Fourier transforms into Dify predictive maintenance agents.": {
+    "ko": "진동 및 열 음향 텔레메트리: 포장 구동 모터의 고주파 압전 센서가 진동 푸리에 변환을 Dify 예측 유지보수 에이전트로 스트리밍합니다.",
+    "id": "Telemetri Akustik Getaran & Termal: Sensor piezoelektrik frekuensi tinggi pada motor penggerak pengemasan mengalirkan transformasi Fourier getaran ke agen pemeliharaan prediktif Dify.",
+    "vi": "Đo từ xa âm thanh nhiệt và rung động: Các cảm biến áp điện tần số cao trên động cơ truyền động đóng gói truyền các phép biến đổi Fourier rung động vào các tác nhân bảo trì dự đoán Dify.",
+    "zh-CN": "振动与热声遥测：包装驱动电机上的高频压电传感器将振动傅里叶变换流传输到 Dify 预测性维护代理中。",
+    "ja": "振動・熱音響テレメトリ：包装駆動モーターの高周波圧電センサーが、振動フーリエ変換を Dify 予知保全エージェントにストリーミングします。"
+  },
+  "Laser Focal Calibration: Measures laser spot diameter and pulse intensity, auto-adjusting mirror galvanometer voltages before morning packaging shifts begin.": {
+    "ko": "레이저 초점 보정: 레이저 스폿 직경과 펄스 강도를 측정하고, 오전 포장 교대 근무가 시작되기 전에 미러 검류계 전압을 자동 조정합니다.",
+    "id": "Kalibrasi Fokus Laser: Mengukur diameter titik laser dan intensitas pulsa, menyesuaikan tegangan galvanometer cermin secara otomatis sebelum shift pengemasan pagi dimulai.",
+    "vi": "Hiệu chuẩn tiêu điểm Laser: Đo đường kính điểm laser và cường độ xung, tự động điều chỉnh điện áp gương điện kế trước khi ca đóng gói buổi sáng bắt đầu.",
+    "zh-CN": "激光焦距校准：测量激光光斑直径和脉冲强度，在早班包装开始前自动调节振镜电压。",
+    "ja": "レーザー焦点キャリブレーション：レーザースポット径とパルス強度を測定し、午前の包装シフトが始まる前にミラーガルバノメータの電圧を自動調整します。"
+  },
+  "ERP Automated Spare Parts Reorder: If servo wear indicators exceed 80% tolerance, Qubit ERP automatically issues a replacement parts PO to our tooling supplier in Guangzhou (SCC).": {
+    "ko": "ERP 자동 예비 부품 재주문: 서보 마모 지표가 80% 허용 오차를 초과하면 Qubit ERP가 광저우(SCC)의 툴링 공급업체에 교체 부품 PO를 자동으로 발행합니다.",
+    "id": "Pemesanan Ulang Suku Cadang Otomatis ERP: Jika indikator keausan servo melebihi toleransi 80%, Qubit ERP secara otomatis menerbitkan PO suku cadang pengganti ke pemasok peralatan kami di Guangzhou (SCC).",
+    "vi": "Tự động đặt lại phụ tùng ERP: Nếu chỉ số mòn servo vượt quá dung sai 80%, Qubit ERP sẽ tự động phát hành PO phụ tùng thay thế cho nhà cung cấp dụng cụ của chúng tôi tại Quảng Châu (SCC).",
+    "zh-CN": "ERP 备件自动重订：如果伺服磨损指标超过 80% 的公差，Qubit ERP 会自动向我们在广州 (SCC) 的模具供应商发布更换零件采购订单 (PO)。",
+    "ja": "ERPスペアパーツ自動再注文：サーボ摩耗インジケーターが許容誤差の80%を超えると、Qubit ERPは広州（SCC）の工具サプライヤーに交換部品のPOを自動的に発行します。"
+  },
+  "Particulate Count (0.5µm)": {
+    "ko": "미립자 수 (0.5µm)",
+    "id": "Jumlah Partikel (0.5µm)",
+    "vi": "Số lượng hạt (0.5µm)",
+    "zh-CN": "颗粒计数 (0.5µm)",
+    "ja": "粒子数 (0.5µm)"
+  },
+  "< 352,000 particles / m³ for ISO Class 7 cosmetic cleanroom areas.": {
+    "ko": "ISO Class 7 화장품 클린룸 구역의 경우 < 352,000 particles / m³.",
+    "id": "< 352.000 partikel / m³ untuk area cleanroom kosmetik ISO Kelas 7.",
+    "vi": "< 352.000 hạt / m³ cho các khu vực phòng sạch mỹ phẩm ISO Class 7.",
+    "zh-CN": "ISO 7 级化妆品洁净室区域 < 352,000 颗粒/m³。",
+    "ja": "ISOクラス7化粧品クリーンルームエリアで 352,000 粒子/m³ 未満。"
+  },
+  "Laser optical particle counters sample air every 60 seconds; auto-pauses line if threshold is breached.": {
+    "ko": "레이저 광학 입자 카운터가 60초마다 공기를 샘플링하며, 임계값을 초과하면 라인을 자동 일시 중지합니다.",
+    "id": "Penghitung partikel optik laser mengambil sampel udara setiap 60 detik; menghentikan lini secara otomatis jika ambang batas dilanggar.",
+    "vi": "Máy đếm hạt quang học laser lấy mẫu không khí sau mỗi 60 giây; tự động tạm dừng dây chuyền nếu vi phạm ngưỡng.",
+    "zh-CN": "激光光学颗粒计数器每 60 秒采样一次空气；如果超过阈值，则自动暂停生产线。",
+    "ja": "レーザー光学式粒子カウンターが60秒ごとに空気をサンプリングし、しきい値を超えた場合はラインを自動停止します。"
+  },
+  "Immutable Supabase Environmental Log": {
+    "ko": "불변 Supabase 환경 로그",
+    "id": "Log Lingkungan Supabase yang Tidak Dapat Diubah",
+    "vi": "Nhật ký môi trường Supabase bất biến",
+    "zh-CN": "不可变的 Supabase 环境日志",
+    "ja": "不変の Supabase 環境ログ"
+  },
+  "Positive Air Pressure Differential": {
+    "ko": "양압 차압",
+    "id": "Diferensial Tekanan Udara Positif",
+    "vi": "Chênh lệch áp suất không khí dương",
+    "zh-CN": "正气压差",
+    "ja": "正の空気圧差"
+  },
+  "10 to 15 Pa positive pressure relative to adjacent non-classified airlocks.": {
+    "ko": "인접한 비등급 에어락 대비 10 ~ 15 Pa의 양압.",
+    "id": "Tekanan positif 10 hingga 15 Pa relatif terhadap airlock non-klasifikasi yang berdekatan.",
+    "vi": "Áp suất dương từ 10 đến 15 Pa so với các chốt gió không phân loại liền kề.",
+    "zh-CN": "相对于相邻非分级气闸室的 10 至 15 Pa 正压。",
+    "ja": "隣接する非分類エアロックに対して 10 ～ 15 Pa の正圧。"
+  },
+  "Differential pressure transducers modulate cleanroom HVAC dampers automatically.": {
+    "ko": "차압 트랜스듀서가 클린룸 HVAC 댐퍼를 자동으로 조절합니다.",
+    "id": "Transduser tekanan diferensial memodulasi damper HVAC cleanroom secara otomatis.",
+    "vi": "Các bộ chuyển đổi áp suất chênh lệch tự động điều chỉnh các cửa gió HVAC của phòng sạch.",
+    "zh-CN": "压差传感器自动调节洁净室 HVAC 风阀。",
+    "ja": "差圧トランスデューサーがクリーンルームの HVAC ダンパーを自動的に調整します。"
+  },
+  "Continuous SCADA Regulatory Graph": {
+    "ko": "연속 SCADA 규제 그래프",
+    "id": "Grafik Regulasi SCADA Kontinu",
+    "vi": "Biểu đồ quy định SCADA liên tục",
+    "zh-CN": "连续 SCADA 监管图表",
+    "ja": "連続 SCADA 規制グラフ"
+  },
+  "HEPA Laminar Air Flow Velocity": {
+    "ko": "HEPA 층류 풍속",
+    "id": "Kecepatan Aliran Udara Laminar HEPA",
+    "vi": "Tốc độ luồng không khí tầng HEPA",
+    "zh-CN": "HEPA 层流风速",
+    "ja": "HEPA 層流風速"
+  },
+  "0.45 m/s ± 20% laminar downflow over open sachet hoppers.": {
+    "ko": "개방형 사쉐 호퍼 위로 0.45 m/s ± 20%의 층류 하향류.",
+    "id": "Aliran bawah laminar 0,45 m/s ± 20% di atas hopper sachet terbuka.",
+    "vi": "Luồng xuống tầng 0,45 m/s ± 20% trên các phễu chứa gói mở.",
+    "zh-CN": "开放式小袋料斗上方 0.45 m/s ± 20% 的层流下降流。",
+    "ja": "開放型サシェホッパー上の 0.45 m/s ± 20% の層流ダウンフロー。"
+  },
+  "Anemometer telemetry verifies laminar curtain velocity before dosing active ingredients.": {
+    "ko": "풍속계 텔레메트리가 활성 성분 투입 전 층류 커튼 속도를 검증합니다.",
+    "id": "Telemetri anemometer memverifikasi kecepatan tirai laminar sebelum penakaran bahan aktif.",
+    "vi": "Phép đo từ xa của phong kế xác minh vận tốc màn lớp mỏng trước khi định lượng các thành phần hoạt tính.",
+    "zh-CN": "风速计遥测在投加活性成分前验证层流幕速度。",
+    "ja": "風速計テレメトリにより、有効成分の投与前に層流カーテンの速度を検証します。"
+  },
+  "Batch Record COA Annex": {
+    "ko": "배치 기록 COA 부록",
+    "id": "Lampiran COA Catatan Batch",
+    "vi": "Phụ lục COA Hồ sơ Lô",
+    "zh-CN": "批次记录 COA 附录",
+    "ja": "バッチ記録 COA 付録"
+  },
+  "Clean-in-Place (CIP) Sterilization": {
+    "ko": "제자리 세정(CIP) 멸균",
+    "id": "Sterilisasi Clean-in-Place (CIP)",
+    "vi": "Khử trùng tại chỗ (CIP)",
+    "zh-CN": "在线清洗 (CIP) 灭菌",
+    "ja": "定置洗浄 (CIP) 滅菌"
+  },
+  "Sanitization of liquid contact lines between active ingredient batch changes.": {
+    "ko": "활성 성분 배치 변경 사이의 액체 접촉 라인 위생 처리.",
+    "id": "Sanitisasi jalur kontak cairan di antara perubahan batch bahan aktif.",
+    "vi": "Vệ sinh các đường ống tiếp xúc với chất lỏng giữa các lần thay đổi lô thành phần hoạt tính.",
+    "zh-CN": "活性成分批次更换期间液体接触管线的消毒。",
+    "ja": "有効成分のバッチ変更間における液体接触ラインのサニタイズ。"
+  },
+  "Automated steam and peracetic acid rinse cycle with pH and conductivity sensor verification.": {
+    "ko": "pH 및 전도도 센서 검증을 포함한 자동 증기 및 과초산 린스 사이클.",
+    "id": "Siklus bilas uap dan asam perasetat otomatis dengan verifikasi sensor pH dan konduktivitas.",
+    "vi": "Chu trình rửa bằng hơi nước và axit peracetic tự động với xác minh bằng cảm biến pH và độ dẫn điện.",
+    "zh-CN": "带有 pH 值和电导率传感器验证的自动化蒸汽和过氧乙酸冲洗循环。",
+    "ja": "pHおよび導電率センサーによる検証を含む、自動蒸気および過酢酸リンスサイクル。"
+  },
+  "Cryptographic Cleanliness Certificate": {
+    "ko": "암호화 청결 인증서",
+    "id": "Sertifikat Kebersihan Kriptografi",
+    "vi": "Chứng nhận độ sạch mã hóa",
+    "zh-CN": "加密清洁证书",
+    "ja": "暗号化清浄度証明書"
+  },
+  "Tower 1: Industrial Safety & Cleanroom (RA)": {
+    "ko": "타워 1: 산업 안전 및 클린룸 (RA)",
+    "id": "Menara 1: Keselamatan Industri & Cleanroom (RA)",
+    "vi": "Tháp 1: An toàn Công nghiệp & Phòng sạch (RA)",
+    "zh-CN": "塔楼 1：工业安全与无尘室 (RA)",
+    "ja": "タワー 1: 産業安全およびクリーンルーム (RA)"
+  },
+  "Enforces ISO 13849 machinery safety standards, emergency optical interlocks, and cleanroom bio-burden testing.": {
+    "ko": "ISO 13849 기계 안전 표준, 비상 광학 인터록 및 클린룸 바이오 버든 테스트를 시행합니다.",
+    "id": "Menegakkan standar keselamatan mesin ISO 13849, interlock optik darurat, dan pengujian bio-burden cleanroom.",
+    "vi": "Thực thi các tiêu chuẩn an toàn máy móc ISO 13849, khóa liên động quang học khẩn cấp và thử nghiệm gánh nặng vi sinh (bio-burden) trong phòng sạch.",
+    "zh-CN": "执行 ISO 13849 机械安全标准、紧急光学联锁和无尘室生物负载测试。",
+    "ja": "ISO 13849 機械安全規格、緊急光学インターロック、およびクリーンルームのバイオバーデン試験を施行します。"
+  },
+  "Zero workplace industrial accidents; 100% cleanroom batch certification.": {
+    "ko": "사업장 산업 재해 제로; 100% 클린룸 배치 인증.",
+    "id": "Nol kecelakaan kerja industri; sertifikasi batch cleanroom 100%.",
+    "vi": "Không có tai nạn lao động tại nơi làm việc; chứng nhận lô phòng sạch 100%.",
+    "zh-CN": "零工作场所工业事故；100% 无尘室批次认证。",
+    "ja": "職場での労働災害ゼロ。100% クリーンルームバッチ認証。"
+  },
+  "Tower 2: Capital Equipment Tax & Split (VAT)": {
+    "ko": "타워 2: 자본 설비 세금 및 분할 (VAT)",
+    "id": "Menara 2: Pajak & Pembagian Peralatan Modal (VAT)",
+    "vi": "Tháp 2: Thuế & Phân chia Thiết bị Vốn (VAT)",
+    "zh-CN": "塔楼 2：资本设备税与拆分 (VAT)",
+    "ja": "タワー 2: 資本設備税および分割 (VAT)"
+  },
+  "Automates 70/30 payment gateway split webhooks, ensuring machine depreciation reserves and VAT are accounted for in real time.": {
+    "ko": "70/30 결제 게이트웨이 분할 웹훅을 자동화하여 기계 감가상각 적립금 및 VAT가 실시간으로 반영되도록 합니다.",
+    "id": "Mengotomatiskan webhook pembagian gateway pembayaran 70/30, memastikan cadangan penyusutan mesin dan VAT diperhitungkan secara real-time.",
+    "vi": "Tự động hóa các webhook phân chia cổng thanh toán 70/30, đảm bảo dự phòng khấu hao máy móc và VAT được hạch toán trong thời gian thực.",
+    "zh-CN": "自动化 70/30 支付网关拆分 Webhook，确保实时核算机器折旧准备金和 VAT。",
+    "ja": "70/30 決済ゲートウェイ分割 Webhook を自動化し、機械の減価償却準備金と VAT がリアルタイムで計上されるようにします。"
+  },
+  "Total equipment tax compliance across Korean NTS and Indonesian DGT.": {
+    "ko": "한국 국세청(NTS) 및 인도네시아 세무총국(DGT) 전반에 걸친 완전한 설비 세무 준수.",
+    "id": "Kepatuhan pajak peralatan total di seluruh NTS Korea dan DGT Indonesia.",
+    "vi": "Tuân thủ thuế thiết bị toàn diện trên NTS Hàn Quốc và DGT Indonesia.",
+    "zh-CN": "全面符合韩国 NTS 和印度尼西亚 DGT 的设备税务合规要求。",
+    "ja": "韓国 NTS およびインドネシア DGT における完全な設備税務コンプライアンス。"
+  },
+  "Locks partner release webhooks until CCTV optical inspection confirms zero leaking sachets and accurate carton counts.": {
+    "ko": "CCTV 광학 검사를 통해 소포 누출이 없고 정확한 카톤 수량이 확인될 때까지 파트너 릴리스 웹훅을 잠급니다.",
+    "id": "Mengunci webhook rilis mitra hingga inspeksi optik CCTV mengonfirmasi tidak ada sachet yang bocor dan jumlah karton yang akurat.",
+    "vi": "Khóa webhook phát hành của đối tác cho đến khi kiểm tra quang học CCTV xác nhận không có gói nhỏ nào bị rò rỉ và số lượng thùng carton chính xác.",
+    "zh-CN": "锁定合作伙伴发布 Webhook，直到 CCTV 光学检测确认无漏包且纸箱计数准确。",
+    "ja": "CCTV光学検査でサシェの漏れゼロと正確なカートン数が確認されるまで、パートナーリリースWebhookをロックします。"
+  },
+  "Eradicates packaging defect chargebacks and buyer claims.": {
+    "ko": "포장 결함으로 인한 차지백 및 구매자 클레임을 근절합니다.",
+    "id": "Menghilangkan chargeback cacat kemasan dan klaim pembeli.",
+    "vi": "Loại bỏ các khoản bồi hoàn do lỗi đóng gói và khiếu nại của người mua.",
+    "zh-CN": "消除包装缺陷扣款和买家索赔。",
+    "ja": "梱包不良によるチャージバックと購入者からのクレームを根絶します。"
+  },
+  "Cleanroom Parameter": {
+    "ko": "클린룸 파라미터",
+    "id": "Parameter Ruang Bersih",
+    "vi": "Thông số phòng sạch",
+    "zh-CN": "无尘室参数",
+    "ja": "クリーンルームパラメータ"
+  },
+  "Statutory Mandate (ISO/GMP)": {
+    "ko": "법적 의무 사항 (ISO/GMP)",
+    "id": "Mandat Statutori (ISO/GMP)",
+    "vi": "Quy định bắt buộc (ISO/GMP)",
+    "zh-CN": "法定指令 (ISO/GMP)",
+    "ja": "法的義務 (ISO/GMP)"
+  },
+  "How Robotics Enforces Telemetrically": {
+    "ko": "로보틱스가 원격 측정 방식으로 집행하는 방법",
+    "id": "Bagaimana Robotika Menegakkan Secara Telemetri",
+    "vi": "Cách thức Robot thực thi bằng phép đo từ xa",
+    "zh-CN": "机器人如何通过遥测执行",
+    "ja": "ロボティクスがテレメトリによって強制する方法"
+  },
+  "Audit Trail Record": {
+    "ko": "감사 추적 기록",
+    "id": "Catatan Jejak Audit",
+    "vi": "Hồ sơ dấu vết kiểm toán",
+    "zh-CN": "审计追踪记录",
+    "ja": "監査証跡記録"
+  },
+  "Chapter 01 • Physical Automation Hub": {
+    "ko": "제1장 • 물리적 자동화 허브",
+    "id": "Bab 01 • Hub Otomasi Fisik",
+    "vi": "Chương 01 • Trung tâm Tự động hóa Vật lý",
+    "zh-CN": "第 01 章 • 物理自动化枢纽",
+    "ja": "第01章 • 物理オートメーションハブ"
+  },
+  "Embodied AI & Smart ODM Packaging": {
+    "ko": "Embodied AI 및 스마트 ODM 패키징",
+    "id": "Embodied AI & Pengemasan ODM Cerdas",
+    "vi": "AI hiện thân & Đóng gói ODM thông minh",
+    "zh-CN": "具身智能与智能 ODM 包装",
+    "ja": "エンボディドAI ＆ スマートODMパッケージング"
+  },
+  "Chapter 02 • Manufacturing Engineering": {
+    "ko": "제2장 • 제조 엔지니어링",
+    "id": "Bab 02 • Rekayasa Manufaktur",
+    "vi": "Chương 02 • Kỹ thuật Sản xuất",
+    "zh-CN": "第 02 章 • 制造工程",
+    "ja": "第02章 • 製造エンジニアリング"
+  },
+  "Smart Form-Fill-Seal Packaging": {
+    "ko": "스마트 폼-필-실(Form-Fill-Seal) 패키징",
+    "id": "Pengemasan Form-Fill-Seal Cerdas",
+    "vi": "Đóng gói Form-Fill-Seal thông minh",
+    "zh-CN": "智能制袋充填封口包装",
+    "ja": "スマート フォーム・フィル・シール パッケージング"
+  },
+  "Chapter 03 • Telemetry Engine": {
+    "ko": "제3장 • 텔레메트리 엔진",
+    "id": "Bab 03 • Mesin Telemetri",
+    "vi": "Chương 03 • Động cơ Đo lường từ xa",
+    "zh-CN": "第 03 章 • 遥测引擎",
+    "ja": "第03章 • テレメトリエンジン"
+  },
+  "Overnight Machine Calibration": {
+    "ko": "야간 장비 보정",
+    "id": "Kalibrasi Mesin Semalam",
+    "vi": "Hiệu chuẩn máy qua đêm",
+    "zh-CN": "隔夜机器校准",
+    "ja": "オーバーナイト マシンキャリブレーション"
+  },
+  "Chapter 04 • Quality & Cleanroom": {
+    "ko": "Chapter 04 • 품질 및 클린룸",
+    "id": "Chapter 04 • Kualitas & Ruang Bersih",
+    "vi": "Chương 04 • Chất lượng & Phòng sạch",
+    "zh-CN": "第 04 章 • 质量与无尘室",
+    "ja": "第04章 • 品質とクリーンルーム"
+  },
+  "Dual-Engine GMP Standards": {
+    "ko": "듀얼 엔진 GMP 표준",
+    "id": "Standar GMP Dual-Engine",
+    "vi": "Tiêu chuẩn GMP Động cơ kép",
+    "zh-CN": "双引擎 GMP 标准",
+    "ja": "デュアルエンジンGMP基準"
+  },
+  "Chapter 05 • Teleoperation & AMRs": {
+    "ko": "Chapter 05 • 원격 조작 및 AMR",
+    "id": "Chapter 05 • Teleoperasi & AMR",
+    "vi": "Chương 05 • Viễn thám & AMR",
+    "zh-CN": "第 05 章 • 远程操作与 AMR",
+    "ja": "第05章 • 遠隔操作とAMR"
+  },
+  "Chapter 01 • Physical Automation Hub Embodied AI & Smart ODM Packaging": {
+    "ko": "Chapter 01 • 물리적 자동화 허브 Embodied AI 및 스마트 ODM 패키징",
+    "id": "Chapter 01 • Hub Otomasi Fisik Embodied AI & Pengemasan ODM Cerdas",
+    "vi": "Chương 01 • Trung tâm Tự động hóa Vật lý Embodied AI & Đóng gói ODM Thông minh",
+    "zh-CN": "第 01 章 • 物理自动化中心 具身智能与智能 ODM 包装",
+    "ja": "第01章 • 物理自動化ハブ Embodied AI & スマートODMパッケージング"
+  },
+  "Single-Dose Sachet Throughput per Modular Form-Fill-Seal Line": {
+    "ko": "모듈형 폼-필-실(Form-Fill-Seal) 라인당 단일 용량 사쉐 처리량",
+    "id": "Throughput Sachet Dosis Tunggal per Lini Form-Fill-Seal Modular",
+    "vi": "Thông lượng túi liều đơn trên mỗi dây chuyền Form-Fill-Seal mô-đun",
+    "zh-CN": "模块化成型-填充-封口（Form-Fill-Seal）生产线的单剂量袋装吞吐量",
+    "ja": "モジュール式フォーム・フィル・シール（Form-Fill-Seal）ラインあたりの単回投与サシェ処理能力"
+  },
+  "Robotic Volumetric Powder & Serum Dosing Precision": {
+    "ko": "로봇 부피 측정 분말 및 세럼 도징 정밀도",
+    "id": "Presisi Dosis Bubuk & Serum Volumetrik Robotik",
+    "vi": "Độ chính xác định liều bột & huyết thanh thể tích bằng robot",
+    "zh-CN": "机器人体积式粉末与精华液计量精度",
+    "ja": "ロボットによる容積式粉末および美容液投与の精度"
+  },
+  "Direct Physical Robotics Hubs in Incheon (SCK) & Cikarang (SCI)": {
+    "ko": "인천(SCK) 및 치카랑(SCI)의 직접 물리 로봇 허브",
+    "id": "Hub Robotika Fisik Langsung di Incheon (SCK) & Cikarang (SCI)",
+    "vi": "Trung tâm Robot Vật lý Trực tiếp tại Incheon (SCK) & Cikarang (SCI)",
+    "zh-CN": "仁川 (SCK) 和 芝加浪 (SCI) 的直接物理机器人枢纽",
+    "ja": "仁川 (SCK) および チカラン (SCI) の直接物理ロボットハブ"
+  },
+  "Automated Webhook Settlement Split on All ODM Robotic Runs": {
+    "ko": "모든 ODM 로봇 가동 시 자동 웹훅 정산 분할",
+    "id": "Pemisahan Penyelesaian Webhook Otomatis pada Semua Operasi Robotik ODM",
+    "vi": "Chia tách Quyết toán Webhook Tự động trên Tất cả các Lượt chạy Robot ODM",
+    "zh-CN": "所有 ODM 机器人运行中的自动 Webhook 结算拆分",
+    "ja": "すべての ODM ロボット稼働における自動 Webhook 決済分割"
+  },
+  "Chapter 02 • Manufacturing Engineering Smart Form-Fill-Seal Packaging": {
+    "ko": "제02장 • 제조 공학 스마트 폼-필-실(Form-Fill-Seal) 포장",
+    "id": "Bab 02 • Rekayasa Manufaktur Pengemasan Smart Form-Fill-Seal",
+    "vi": "Chương 02 • Kỹ thuật Sản xuất Bao bì Form-Fill-Seal Thông minh",
+    "zh-CN": "第 02 章 • 制造工程智能成型-填充-封口 (Form-Fill-Seal) 包装",
+    "ja": "第02章 • 製造工学 スマート フォーム・フィル・シール (Form-Fill-Seal) 包装"
+  },
+  "Chapter 03 • Telemetry Engine Overnight Machine Calibration": {
+    "ko": "제03장 • 텔레메트리 엔진 야간 기계 교정",
+    "id": "Bab 03 • Kalibrasi Mesin Semalam Mesin Telemetri",
+    "vi": "Chương 03 • Hiệu chuẩn Máy qua đêm của Động cơ Đo lường từ xa",
+    "zh-CN": "第 03 章 • 遥测引擎隔夜机器校准",
+    "ja": "第03章 • テレメトリエンジン 夜間マシンキャリブレーション"
+  },
+  "Chapter 04 • Quality & Cleanroom Dual-Engine GMP Standards": {
+    "ko": "제04장 • 품질 및 클린룸 듀얼 엔진 GMP 표준",
+    "id": "Bab 04 • Standar GMP Mesin Ganda Kualitas & Ruang Bersih",
+    "vi": "Chương 04 • Tiêu chuẩn GMP Động cơ kép cho Chất lượng & Phòng sạch",
+    "zh-CN": "第 04 章 • 质量与无尘室双引擎 GMP 标准",
+    "ja": "第04章 • 品質およびクリーンルーム デュアルエンジン GMP 基準"
+  },
+  "Chapter 05 • Teleoperation & AMRs CCTV Optical Stock Opname": {
+    "ko": "제05장 • 원격 조작 및 AMR CCTV 광학 재고 실사",
+    "id": "Bab 05 • Teleoperasi & AMR CCTV Optical Stock Opname",
+    "vi": "Chương 05 • Vận hành từ xa & Kiểm kê Kho Quang học CCTV của AMR",
+    "zh-CN": "第 05 章 • 远程操作与 AMR CCTV 光学库存盘点",
+    "ja": "第05章 • 遠隔操作および AMR CCTV 光学在庫棚卸"
+  },
+  "Qubit Web Builder": {
+    "ko": "Qubit 웹 빌더",
+    "id": "Qubit Web Builder",
+    "vi": "Qubit Web Builder",
+    "zh-CN": "Qubit 网页生成器",
+    "ja": "Qubit ウェブビルダー"
+  },
+  "Executive Overview & The 60-Second Storefront Generation Engine": {
+    "ko": "경영진 요약 및 60초 스토어프런트 생성 엔진",
+    "id": "Ringkasan Eksekutif & Mesin Pembuat Storefront 60 Detik",
+    "vi": "Tổng quan điều hành & Công cụ tạo cửa hàng trong 60 giây",
+    "zh-CN": "执行概览与 60 秒店面生成引擎",
+    "ja": "エグゼクティブ概要と 60 秒ストアフロント生成エンジン"
+  },
+  "PWA Micro-Storefront Architecture & Edge-Rendered Dynamic Templates": {
+    "ko": "PWA 마이크로 스토어프런트 아키텍처 및 에지 렌더링 동적 템플릿",
+    "id": "Arsitektur PWA Micro-Storefront & Templat Dinamis Edge-Rendered",
+    "vi": "Kiến trúc PWA Micro-Storefront & Mẫu động kết xuất tại biên (Edge-Rendered)",
+    "zh-CN": "PWA 微店面架构与边缘渲染动态模板",
+    "ja": "PWA マイクロストアフロント アーキテクチャとエッジレンダリング動的テンプレート"
+  },
+  "Automated BPOM, Halal & Regulatory Compliance Badge Generator": {
+    "ko": "자동 BPOM, 할랄 및 규제 준수 배지 생성기",
+    "id": "Generator Lencana Kepatuhan Regulasi, Halal & BPOM Otomatis",
+    "vi": "Trình tạo huy hiệu tuân thủ quy định, Halal & BPOM tự động",
+    "zh-CN": "自动化 BPOM、清真及合规徽章生成器",
+    "ja": "自動 BPOM、ハラール、および規制コンプライアンス バッジ ジェネレーター"
+  },
+  "Multi-Currency Payment Gateway (PG) Webhook Matrix & 70/30 Split Router": {
+    "ko": "다중 통화 결제 게이트웨이(PG) 웹훅 매트릭스 및 70/30 분할 라우터",
+    "id": "Matriks Webhook Payment Gateway (PG) Multi-Mata Uang & Router Pemisah 70/30",
+    "vi": "Ma trận Webhook cổng thanh toán (PG) đa tiền tệ & Bộ định tuyến chia tách 70/30",
+    "zh-CN": "多币种支付网关 (PG) Webhook 矩阵与 70/30 分流路由器",
+    "ja": "多通貨決済ゲートウェイ (PG) Webhook マトリックスと 70/30 スプリット ルーター"
+  },
+  "High-Converting Sachet Pricing Calculators & Flash Bundling Widgets": {
+    "ko": "고전환 소포장(Sachet) 가격 계산기 및 플래시 번들링 위젯",
+    "id": "Kalkulator Harga Sachet Berkonversi Tinggi & Widget Bundling Kilat",
+    "vi": "Máy tính giá gói nhỏ (Sachet) chuyển đổi cao & Tiện ích đóng gói nhanh",
+    "zh-CN": "高转化小包装 (Sachet) 定价计算器与闪购捆绑组件",
+    "ja": "高コンバージョン小袋 (Sachet) 価格計算機とフラッシュ バンドリング ウィジェット"
+  },
+  "Zero-Code SEO, Schema.org Microdata & Social Commerce Auto-Syndication": {
+    "ko": "제로 코드 SEO, Schema.org 마이크로데이터 및 소셜 커머스 자동 신디케이션",
+    "id": "SEO Tanpa Kode, Microdata Schema.org & Sindikasi Otomatis Social Commerce",
+    "vi": "SEO không mã code, Microdata Schema.org & Tự động đồng bộ hóa Thương mại xã hội",
+    "zh-CN": "零代码 SEO、Schema.org 微数据与社交电商自动同步",
+    "ja": "ノーコードSEO、Schema.orgマイクロデータ、ソーシャルコマース自動シンジケーション"
+  },
+  "Enterprise Benchmark, Production Readiness & Dual-Return Monetization": {
+    "ko": "엔터프라이즈 벤치마크, 프로덕션 준비성 및 이중 수익화",
+    "id": "Tolok Ukur Perusahaan, Kesiapan Produksi & Monetisasi Pengembalian Ganda",
+    "vi": "Điểm chuẩn doanh nghiệp, Sẵn sàng sản xuất & Kiếm tiền lợi nhuận kép",
+    "zh-CN": "企业级基准、生产就绪与双重回报变现",
+    "ja": "エンタープライズベンチマーク、本番環境への対応、デュアルリターン収益化"
+  },
+  "Autonomous AI storefront synthesis engine transforming raw cosmetic formulas, BPOM regulatory filings, and sachet pricing matrices into live, production-grade e-commerce PWA mini-apps within 60 seconds. Featuring instant multi-currency PG webhook routing, dynamic edge hydration, and autonomous 70/30 split settlements.": {
+    "ko": "원시 화장품 포뮬러, BPOM 규제 서류 및 소포장 가격 매트릭스를 60초 이내에 실제 프로덕션 등급의 이커머스 PWA 미니 앱으로 변환하는 자율 AI 스토어프런트 합성 엔진입니다. 즉각적인 다중 통화 PG 웹훅 라우팅, 동적 에지 하이드레이션 및 자율적인 70/30 분할 정산 기능을 갖추고 있습니다.",
+    "id": "Mesin sintesis etalase AI otonom yang mengubah formula kosmetik mentah, pengajuan regulasi BPOM, dan matriks harga sachet menjadi aplikasi mini PWA e-commerce tingkat produksi langsung dalam 60 detik. Menampilkan perutean webhook PG multi-mata uang instan, hidrasi edge dinamis, dan penyelesaian bagi hasil 70/30 yang otonom.",
+    "vi": "Công cụ tổng hợp cửa hàng AI tự trị chuyển đổi các công thức mỹ phẩm thô, hồ sơ quy định BPOM và ma trận giá gói nhỏ thành các ứng dụng mini PWA thương mại điện tử cấp độ sản xuất trực tiếp trong vòng 60 giây. Tính năng định tuyến webhook PG đa tiền tệ tức thì, hydrat hóa cạnh động và quyết toán phân chia 70/30 tự trị.",
+    "zh-CN": "自主 AI 店面合成引擎，可在 60 秒内将原始化妆品配方、BPOM 监管备案和分装价格矩阵转化为生产级的电商 PWA 小程序。具有即时多币种支付网关 (PG) Webhook 路由、动态边缘注水（Edge Hydration）和自主 70/30 分账结算功能。",
+    "ja": "未加工の化粧品処方、BPOM規制申請、サシェ価格マトリックスを60秒以内にライブの本番グレードのeコマースPWAミニアプリに変換する自律型AIストアフロント合成エンジン。即時の多通貨PGウェブフックルーティング、ダイナミックエッジハイドレーション、および自律的な70/30分割決済を特徴としています。"
+  },
+  "In traditional direct-to-consumer (D2C) and business-to-business (B2B) cosmetic supply chains, launching a branded digital storefront requires weeks of design sprints, product catalog tagging, regulatory compliance badge audits, and complex payment gateway API integrations. Qubit Web Builder completely eliminates this friction by coupling directly with the Qubit Factory formulation engine and the Qubit ERP operational matrix.": {
+    "ko": "기존의 소비자 직접 판매(D2C) 및 기업 간 거래(B2B) 화장품 공급망에서 브랜드 디지털 스토어프런트를 출시하려면 수주간의 디자인 스프린트, 제품 카탈로그 태깅, 규제 준수 배지 심사 및 복잡한 결제 게이트웨이 API 통합이 필요합니다. Qubit Web Builder는 Qubit Factory 포뮬레이션 엔진 및 Qubit ERP 운영 매트릭스와 직접 결합하여 이러한 마찰을 완전히 제거합니다.",
+    "id": "Dalam rantai pasok kosmetik direct-to-consumer (D2C) dan business-to-business (B2B) tradisional, meluncurkan etalase digital bermerek memerlukan waktu berminggu-minggu untuk sprint desain, penandaan katalog produk, audit lencana kepatuhan regulasi, dan integrasi API gateway pembayaran yang kompleks. Qubit Web Builder sepenuhnya menghilangkan hambatan ini dengan menghubungkan langsung ke mesin formulasi Qubit Factory dan matriks operasional Qubit ERP.",
+    "vi": "Trong các chuỗi cung ứng mỹ phẩm trực tiếp đến người tiêu dùng (D2C) và doanh nghiệp với doanh nghiệp (B2B) truyền thống, việc ra mắt một cửa hàng kỹ thuật số có thương hiệu đòi hỏi nhiều tuần chạy nước rút thiết kế, gắn thẻ danh mục sản phẩm, kiểm tra huy hiệu tuân thủ quy định và tích hợp API cổng thanh toán phức tạp. Qubit Web Builder loại bỏ hoàn toàn sự cản trở này bằng cách kết nối trực tiếp với công cụ lập công thức Qubit Factory và ma trận vận hành Qubit ERP.",
+    "zh-CN": "在传统的直接面向消费者 (D2C) 和企业对企业 (B2B) 化妆品供应链中，发布品牌数字店面需要数周的设计冲刺、产品目录标记、合规徽章审核以及复杂的支付网关 API 集成。Qubit Web Builder 通过直接与 Qubit Factory 配方引擎和 Qubit ERP 运营矩阵耦合，彻底消除了这种摩擦。",
+    "ja": "従来のD2C（消費者直接取引）およびB2B（企業間取引）の化粧品サプライチェーンでは、ブランド化されたデジタルストアフロントの立ち上げには、数週間のデザインスプリント、製品カタログのタグ付け、規制遵守バッジの監査、および複雑な決済ゲートウェイAPIの統合が必要です。Qubit Web Builderは、Qubit Factory処方エンジンおよびQubit ERP運用マトリックスと直接連携することで、この摩擦を完全に排除します。"
+  },
+  "Whenever a new Cosmo Seed™ product SKU or sachet iteration is synthesized in the lab and receives regulatory pre-clearance, Qubit Web Builder automatically ingests the chemical formulation manifest, packaging render assets, and localized pricing tiers. Within 60 seconds, an edge-rendered Progressive Web App (PWA) storefront is compiled, validated against global web standards, wired into multi-currency payment webhooks, and pushed to worldwide edge nodes.": {
+    "ko": "실험실에서 새로운 Cosmo Seed™ 제품 SKU 또는 사셰 반복이 합성되고 규제 사전 승인을 받을 때마다, Qubit Web Builder는 화학 포뮬레이션 매니페스트, 패키징 렌더링 자산 및 현지화된 가격 책정 계층을 자동으로 수집합니다. 60초 이내에 에지 렌더링된 프로그레시브 웹 앱(PWA) 스토어프런트가 컴파일되고, 글로벌 웹 표준에 따라 검증되며, 다중 통화 결제 웹훅에 연결되어 전 세계 에지 노드로 푸시됩니다.",
+    "id": "Setiap kali SKU produk Cosmo Seed™ baru atau iterasi sachet disintesis di lab dan menerima pra-izin regulasi, Qubit Web Builder secara otomatis menyerap manifes formulasi kimia, aset render kemasan, dan tingkatan harga lokal. Dalam 60 detik, etalase Progressive Web App (PWA) yang dirender di edge disusun, divalidasi terhadap standar web global, dihubungkan ke webhook pembayaran multi-mata uang, dan didorong ke node edge di seluruh dunia.",
+    "vi": "Bất cứ khi nào một SKU sản phẩm Cosmo Seed™ mới hoặc phiên bản gói nhỏ được tổng hợp trong phòng thí nghiệm và nhận được sự chấp thuận trước của cơ quan quản lý, Qubit Web Builder sẽ tự động tiếp nhận bản kê khai công thức hóa học, tài sản kết xuất bao bì và các mức giá địa phương hóa. Trong vòng 60 giây, một cửa hàng Ứng dụng web lũy tiến (PWA) được kết xuất tại cạnh sẽ được biên dịch, xác thực theo các tiêu chuẩn web toàn cầu, được kết nối với các webhook thanh toán đa tiền tệ và được đẩy đến các nút cạnh trên toàn thế giới.",
+    "zh-CN": "每当实验室合成新的 Cosmo Seed™ 产品 SKU 或分装迭代并获得监管预许可时，Qubit Web Builder 就会自动摄取化学配方清单、包装渲染资产和本地化定价层级。在 60 秒内，一个边缘渲染的渐进式 Web 应用 (PWA) 店面将被编译、通过全球 Web 标准验证、接入多币种支付 Webhook，并推送到全球边缘节点。",
+    "ja": "ラボで新しい Cosmo Seed™ 製品SKUまたはサシェの反復が合成され、規制の事前承認を受けるたびに、Qubit Web Builderは化学処方マニフェスト、パッケージレンダリングアセット、およびローカライズされた価格層を自動的に取り込みます。60秒以内に、エッジレンダリングされたプログレッシブウェブアプリ（PWA）ストアフロントがコンパイルされ、グローバルなウェブ標準に対して検証され、多通貨決済ウェブフックに接続され、世界中のエッジノードにプッシュされます。"
+  },
+  "Direct ingestion of biochemical specifications, active ingredient percentages, and INCI ingredient lists to automatically generate scientific product copy and consumer benefit claims.": {
+    "ko": "생화학적 사양, 활성 성분 함량 및 INCI 성분 목록을 직접 수집하여 과학적인 제품 문구와 소비자 혜택 주장을 자동으로 생성합니다.",
+    "id": "Penyerapan langsung spesifikasi biokimia, persentante bahan aktif, dan daftar bahan INCI untuk secara otomatis menghasilkan salinan produk ilmiah dan klaim manfaat konsumen.",
+    "vi": "Tiếp nhận trực tiếp các thông số kỹ thuật hóa sinh, tỷ lệ phần trăm thành phần hoạt tính và danh sách thành phần INCI để tự động tạo bản sao sản phẩm khoa học và các tuyên bố về lợi ích của người tiêu dùng.",
+    "zh-CN": "直接摄取生化规格、活性成分百分比和 INCI 成分列表，自动生成科学的产品文案和消费者获益声明。",
+    "ja": "生化学的仕様、有効成分の割合、およびINCI成分リストを直接取り込み、科学的な製品コピーと消費者メリットの主張を自動的に生成します。"
+  },
+  "By consolidating storefront generation, regulatory assurance, dynamic sachet bundling, and instant split payment routing into a single automated pipeline, Qubit Web Builder empowers Cosmo Seed™ ventures to scale rapidly across global emerging markets with enterprise-grade stability and zero administrative overhead.": {
+    "ko": "스토어프런트 생성, 규제 보증, 동적 소포장 번들링 및 즉각적인 분할 결제 라우팅을 단일 자동화 파이프라인으로 통합함으로써, Qubit Web Builder는 Cosmo Seed™ 벤처가 기업 수준의 안정성과 관리 부담 제로로 글로벌 신흥 시장에서 빠르게 확장할 수 있도록 지원합니다.",
+    "id": "Dengan mengonsolidasikan pembuatan etalase, jaminan regulasi, bundling sachet dinamis, dan perutean pembayaran terpisah instan ke dalam satu pipa otomatis, Qubit Web Builder memberdayakan ventura Cosmo Seed™ untuk berkembang pesat di pasar berkembang global dengan stabilitas kelas perusahaan dan tanpa biaya administrasi.",
+    "vi": "Bằng cách hợp nhất việc tạo cửa hàng, đảm bảo quy định, đóng gói gói nhỏ năng động và định tuyến thanh toán chia nhỏ tức thì vào một quy trình tự động duy nhất, Qubit Web Builder trao quyền cho các liên doanh Cosmo Seed™ mở rộng quy mô nhanh chóng trên các thị trường mới nổi toàn cầu với sự ổn định cấp doanh nghiệp và không tốn chi phí quản lý.",
+    "zh-CN": "通过将店面生成、监管保障、动态小袋捆绑和即时分拆支付路由整合到单个自动化流水线中，Qubit Web Builder 赋能 Cosmo Seed™ 企业在全球新兴市场快速扩张，具备企业级稳定性和零管理开销。",
+    "ja": "ストアフロントの生成、規制保証、ダイナミックなサシェ（小袋）のバンドル、および即時の分割決済ルーティングを単一の自動化パイプラインに統合することで、Qubit Web Builderは、Cosmo Seed™ベンチャーが企業レベルの安定性と管理オーバーヘッドゼロで、グローバルな新興市場全体に急速に拡大することを可能にします。"
+  },
+  "70% Factory Floor & Raw Material Escrow: Dispatched instantly to OEM production facilities to cover chemical inputs, automated sachet packaging lines, and logistics freight.": {
+    "ko": "70% 공장 현장 및 원자재 에스크로: 화학 원료, 자동 소포장 라인 및 물류 운송 비용을 충당하기 위해 OEM 생산 시설로 즉시 발송됩니다.",
+    "id": "70% Escrow Lantai Pabrik & Bahan Baku: Dikirim secara instan ke fasilitas produksi OEM untuk menutupi input kimia, lini pengemasan sachet otomatis, dan biaya logistik.",
+    "vi": "70% Ký quỹ Nhà máy & Nguyên liệu thô: Được gửi ngay lập tức đến các cơ sở sản xuất OEM để chi trả cho đầu vào hóa chất, dây chuyền đóng gói gói nhỏ tự động và cước phí hậu cần.",
+    "zh-CN": "70% 工厂车间及原材料托管：立即调度至 OEM 生产设施，以支付化学投入、自动化小袋包装线和物流运费。",
+    "ja": "70% 工場フロアおよび原材料エスクロー：化学原料、自動サシェ包装ライン、および物流運賃をカバーするために、OEM生産施設に即座に発送されます。"
+  },
+  "30% Platform Ecosystem Reserve: Routed to SISTAR corporate treasury, affiliate marketing reward pools, and autonomous R&D reinvestment funds.": {
+    "ko": "30% 플랫폼 생태계 예비비: SISTAR 기업 재무부, 제휴 마케팅 보상 풀 및 자율 R&D 재투자 기금으로 라우팅됩니다.",
+    "id": "30% Cadangan Ekosistem Platform: Disalurkan ke perbendaharaan perusahaan SISTAR, kolam hadiah pemasaran afiliasi, dan dana reinvestasi R&D otonom.",
+    "vi": "30% Dự trữ Hệ sinh thái Nền tảng: Được chuyển đến kho bạc công ty SISTAR, các quỹ thưởng tiếp thị liên kết và các quỹ tái đầu tư R&D tự trị.",
+    "zh-CN": "30% 平台生态系统储备：路由至 SISTAR 企业财务部、联盟营销奖励池和自主研发再投资资金。",
+    "ja": "30% プラットフォームエコシステムリザーブ：SISTAR企業財務、アフィリエイトマーケティング報酬プール、および自律的な研究開発再投資基金にルーティングされます。"
+  },
+  "Formula-to-Live Storefront Time": {
+    "ko": "포뮬러에서 스토어 오픈까지 소요 시간",
+    "id": "Waktu dari Formula hingga Etalase Aktif",
+    "vi": "Thời gian từ Công thức đến Cửa hàng Trực tuyến",
+    "zh-CN": "从配方到店面运营时间",
+    "ja": "フォーミュラからストアフロント公開までの時間"
+  },
+  "2 to 4 Weeks": {
+    "ko": "2~4주",
+    "id": "2 hingga 4 Minggu",
+    "vi": "2 đến 4 Tuần",
+    "zh-CN": "2 至 4 周",
+    "ja": "2〜4週間"
+  },
+  "1 to 2 Weeks": {
+    "ko": "1~2주",
+    "id": "1 hingga 2 Minggu",
+    "vi": "1 đến 2 Tuần",
+    "zh-CN": "1 至 2 周",
+    "ja": "1〜2週間"
+  },
+  "3 to 6 Weeks": {
+    "ko": "3~6주",
+    "id": "3 hingga 6 Minggu",
+    "vi": "3 đến 6 tuần",
+    "zh-CN": "3 到 6 周",
+    "ja": "3〜6週間"
+  },
+  "< 60 Seconds": {
+    "ko": "60초 미만",
+    "id": "< 60 Detik",
+    "vi": "< 60 giây",
+    "zh-CN": "少于 60 秒",
+    "ja": "60秒未満"
+  },
+  "BPOM & Halal Badge Automation": {
+    "ko": "BPOM 및 할랄 배지 자동화",
+    "id": "Otomatisasi Badge BPOM & Halal",
+    "vi": "Tự động hóa huy hiệu BPOM & Halal",
+    "zh-CN": "BPOM 和清真徽章自动化",
+    "ja": "BPOMおよびハラールバッジの自動化"
+  },
+  "Manual Image Upload": {
+    "ko": "수동 이미지 업로드",
+    "id": "Unggah Gambar Manual",
+    "vi": "Tải lên hình ảnh thủ công",
+    "zh-CN": "手动图片上传",
+    "ja": "手動画像アップロード"
+  },
+  "Manual Static Badges": {
+    "ko": "수동 정적 배지",
+    "id": "Badge Statis Manual",
+    "vi": "Huy hiệu tĩnh thủ công",
+    "zh-CN": "手动静态徽章",
+    "ja": "手動静的バッジ"
+  },
+  "Manual API Hook": {
+    "ko": "수동 API 훅",
+    "id": "Hook API Manual",
+    "vi": "API Hook thủ công",
+    "zh-CN": "手动 API 钩子",
+    "ja": "手動APIフック"
+  },
+  "100% Cryptographic Auto-Verification": {
+    "ko": "100% 암호화 자동 검증",
+    "id": "Verifikasi Otomatis Kriptografi 100%",
+    "vi": "Tự động xác minh mật mã 100%",
+    "zh-CN": "100% 加密自动验证",
+    "ja": "100% 暗号化自動検証"
+  },
+  "70/30 PG Split Routing": {
+    "ko": "70/30 PG 분할 라우팅",
+    "id": "Perutean Pemisahan PG 70/30",
+    "vi": "Định tuyến phân tách PG 70/30",
+    "zh-CN": "70/30 PG 分流路由",
+    "ja": "70/30 PG 分割ルーティング"
+  },
+  "Requires Custom Third-Party App": {
+    "ko": "맞춤형 타사 앱 필요",
+    "id": "Memerlukan Aplikasi Pihak Ketiga Kustom",
+    "vi": "Yêu cầu ứng dụng bên thứ ba tùy chỉnh",
+    "zh-CN": "需要自定义第三方应用程序",
+    "ja": "カスタムサードパーティアプリが必要"
+  },
+  "Unsupported (Requires Custom Backend)": {
+    "ko": "미지원 (맞춤형 백엔드 필요)",
+    "id": "Tidak Didukung (Memerlukan Backend Kustom)",
+    "vi": "Không hỗ trợ (Yêu cầu Backend tùy chỉnh)",
+    "zh-CN": "不支持（需要自定义后端）",
+    "ja": "サポートされていません (カスタムバックエンドが必要)"
+  },
+  "Requires Complex Custom Escrow Server": {
+    "ko": "복잡한 맞춤형 에스크로 서버 필요",
+    "id": "Memerlukan Server Escrow Kustom yang Kompleks",
+    "vi": "Yêu cầu máy chủ Escrow tùy chỉnh phức tạp",
+    "zh-CN": "需要复杂的自定义托管服务器",
+    "ja": "複雑なカスタムエスクローサーバーが必要"
+  },
+  "Native Atomic Webhook Engine": {
+    "ko": "네이티브 아토믹 웹훅 엔진",
+    "id": "Mesin Webhook Atomik Native",
+    "vi": "Công cụ Webhook nguyên tử gốc",
+    "zh-CN": "原生原子 Webhook 引擎",
+    "ja": "ネイティブアトミックウェブフックエンジン"
+  },
+  "Sachet Pricing Slider Engine": {
+    "ko": "소포장 가격 슬라이더 엔진",
+    "id": "Mesin Slider Penetapan Harga Sachet",
+    "vi": "Công cụ thanh trượt định giá gói nhỏ (Sachet)",
+    "zh-CN": "小包装定价滑块引擎",
+    "ja": "サシェ価格スライダーエンジン"
+  },
+  "Complex Variant Plugin": {
+    "ko": "복합 변체 플러그인",
+    "id": "Plugin Varian Kompleks",
+    "vi": "Plugin biến thể phức tạp",
+    "zh-CN": "复杂变体插件",
+    "ja": "複雑なバリアントプラグイン"
+  },
+  "Custom Javascript Code": {
+    "ko": "사용자 정의 Javascript 코드",
+    "id": "Kode Javascript Kustom",
+    "vi": "Mã Javascript tùy chỉnh",
+    "zh-CN": "自定义 Javascript 代码",
+    "ja": "カスタム Javascript コード"
+  },
+  "Component Coding Required": {
+    "ko": "컴포넌트 코딩 필요",
+    "id": "Diperlukan Pengodean Komponen",
+    "vi": "Yêu cầu mã hóa thành phần",
+    "zh-CN": "需要组件编码",
+    "ja": "コンポーネントのコーディングが必要"
+  },
+  "Pre-Configured Reactive Widget": {
+    "ko": "사전 구성된 반응형 위젯",
+    "id": "Widget Reaktif yang Telah Dikonfigurasi",
+    "vi": "Widget phản ứng được cấu hình sẵn",
+    "zh-CN": "预配置的响应式小部件",
+    "ja": "事前設定済みのリアクティブウィジェット"
+  },
+  "Edge Mobile FCP Latency": {
+    "ko": "엣지 모바일 FCP 지연 시간",
+    "id": "Latensi FCP Seluler Edge",
+    "vi": "Độ trễ FCP di động Edge",
+    "zh-CN": "边缘移动端 FCP 延迟",
+    "ja": "エッジモバイル FCP レイテンシ"
+  },
+  "< 300ms (PWA Cache)": {
+    "ko": "< 300ms (PWA 캐시)",
+    "id": "< 300ms (PWA Cache)",
+    "vi": "< 300ms (PWA Cache)",
+    "zh-CN": "< 300ms (PWA 缓存)",
+    "ja": "< 300ms (PWA キャッシュ)"
+  },
+  "Social Commerce Auto-Feed": {
+    "ko": "소셜 커머스 자동 피드",
+    "id": "Auto-Feed Social Commerce",
+    "vi": "Nguồn cấp dữ liệu tự động Thương mại xã hội",
+    "zh-CN": "社交电商自动馈送",
+    "ja": "ソーシャルコマース自動フィード"
+  },
+  "Paid Plugins ($50-$200/mo)": {
+    "ko": "유료 플러그인 (월 $50-$200)",
+    "id": "Plugin Berbayar ($50-$200/bln)",
+    "vi": "Plugin trả phí ($50-$200/tháng)",
+    "zh-CN": "付费插件 ($50-$200/月)",
+    "ja": "有料プラグイン (月額$50-$200)"
+  },
+  "Manual CSV Export": {
+    "ko": "수동 CSV 내보내기",
+    "id": "Ekspor CSV Manual",
+    "vi": "Xuất CSV thủ công",
+    "zh-CN": "手动 CSV 导出",
+    "ja": "手動CSVエクスポート"
+  },
+  "Custom API Pipelines": {
+    "ko": "사용자 정의 API 파이프라인",
+    "id": "Pipeline API Kustom",
+    "vi": "Đường ống API tùy chỉnh",
+    "zh-CN": "自定义 API 流水线",
+    "ja": "カスタムAPIパイプライン"
+  },
+  "Native Zero-Cost Multi-Channel Feed": {
+    "ko": "네이티브 제로 비용 멀티 채널 피드",
+    "id": "Feed Multi-Saluran Native Tanpa Biaya",
+    "vi": "Nguồn cấp dữ liệu đa kênh gốc miễn phí",
+    "zh-CN": "原生零成本多渠道馈送",
+    "ja": "ネイティブ・ゼロコスト・マルチチャネル・フィード"
+  },
+  "PWA Initial Bundle Size": {
+    "ko": "PWA 초기 번들 크기",
+    "id": "Ukuran Bundle Awal PWA",
+    "vi": "Kích thước Bundle ban đầu của PWA",
+    "zh-CN": "PWA 初始包大小",
+    "ja": "PWA 初期バンドルサイズ"
+  },
+  "Optimal": {
+    "ko": "최적",
+    "id": "Optimal",
+    "vi": "Tối ưu",
+    "zh-CN": "最佳",
+    "ja": "最適"
+  },
+  "Edge POP Response Time": {
+    "ko": "Edge POP 응답 시간",
+    "id": "Waktu Respons Edge POP",
+    "vi": "Thời gian phản hồi Edge POP",
+    "zh-CN": "Edge POP 响应时间",
+    "ja": "Edge POP 応答時間"
+  },
+  "18.4 ms (Average)": {
+    "ko": "18.4 ms (평균)",
+    "id": "18,4 ms (Rata-rata)",
+    "vi": "18,4 ms (Trung bình)",
+    "zh-CN": "18.4 ms (平均)",
+    "ja": "18.4 ms (平均)"
+  },
+  "Payment Webhook Processing": {
+    "ko": "결제 웹훅 처리",
+    "id": "Pemrosesan Webhook Pembayaran",
+    "vi": "Xử lý Webhook thanh toán",
+    "zh-CN": "支付 Webhook 处理",
+    "ja": "決済ウェブフック処理"
+  },
+  "Verified": {
+    "ko": "인증됨",
+    "id": "Terverifikasi",
+    "vi": "Đã xác minh",
+    "zh-CN": "已验证",
+    "ja": "認証済み"
+  },
+  "Omnichannel Inventory Sync Latency": {
+    "ko": "옴니채널 재고 동기화 지연 시간",
+    "id": "Latensi Sinkronisasi Inventaris Omnichannel",
+    "vi": "Độ trễ đồng bộ hóa kho hàng đa kênh",
+    "zh-CN": "全渠道库存同步延迟",
+    "ja": "オムニチャネル在庫同期レイテンシ"
+  },
+  "Real-Time": {
+    "ko": "실시간",
+    "id": "Real-Time",
+    "vi": "Thời gian thực",
+    "zh-CN": "实时",
+    "ja": "リアルタイム"
+  },
+  "Evaluation Parameter": {
+    "ko": "평가 파라미터",
+    "id": "Parameter Evaluasi",
+    "vi": "Tham số đánh giá",
+    "zh-CN": "评估参数",
+    "ja": "評価パラメータ"
+  },
+  "Custom Next.js App": {
+    "ko": "커스텀 Next.js 앱",
+    "id": "Aplikasi Next.js Kustom",
+    "vi": "Ứng dụng Next.js tùy chỉnh",
+    "zh-CN": "自定义 Next.js 应用",
+    "ja": "カスタム Next.js アプリ"
+  },
+  "Technical Metric": {
+    "ko": "기술 지표",
+    "id": "Metrik Teknis",
+    "vi": "Chỉ số kỹ thuật",
+    "zh-CN": "技术指标",
+    "ja": "技術指標"
+  },
+  "Target Specification": {
+    "ko": "목표 사양",
+    "id": "Spesifikasi Target",
+    "vi": "Thông số kỹ thuật mục tiêu",
+    "zh-CN": "目标规格",
+    "ja": "目標仕様"
+  },
+  "Observed Benchmark": {
+    "ko": "관찰된 벤치마크",
+    "id": "Tolok Ukur yang Diamati",
+    "vi": "Điểm chuẩn quan sát được",
+    "zh-CN": "观测基准",
+    "ja": "観測されたベンチマーク"
+  },
+  "Operating Status": {
+    "ko": "운영 상태",
+    "id": "Status Operasi",
+    "vi": "Trạng thái vận hành",
+    "zh-CN": "运行状态",
+    "ja": "稼働状況"
+  },
+  "qubit web builder": {
+    "ko": "qubit 웹 빌더",
+    "id": "qubit web builder",
+    "vi": "trình tạo web qubit",
+    "zh-CN": "qubit 网页生成器",
+    "ja": "qubit ウェブビルダー"
+  },
+  "Audited": {
+    "ko": "감사 완료",
+    "id": "Diaudit",
+    "vi": "Đã kiểm toán",
+    "zh-CN": "已审计",
+    "ja": "監査済み"
+  },
+  "Formula-to-Live Storefront": {
+    "ko": "Formula-to-Live 스토어프론트",
+    "id": "Storefront Formula-to-Live",
+    "vi": "Cửa hàng Formula-to-Live",
+    "zh-CN": "Formula-to-Live 店面",
+    "ja": "Formula-to-Live ストアフロント"
+  },
+  "Edge Cache Hit Ratio": {
+    "ko": "엣지 캐시 적중률",
+    "id": "Rasio Hit Cache Edge",
+    "vi": "Tỷ lệ truy cập bộ nhớ đệm Edge",
+    "zh-CN": "边缘缓存命中率",
+    "ja": "エッジキャッシュヒット率"
+  },
+  "PG Instant Split Settlement": {
+    "ko": "PG 즉시 분할 정산",
+    "id": "Penyelesaian Split Instan PG",
+    "vi": "Quyết toán chia tách tức thì PG",
+    "zh-CN": "PG 即时分账结算",
+    "ja": "PG 即時分割決済"
+  },
+  "Where $V_{storefront}$ represents the composite sales velocity of an edge-deployed storefront, $C_k$ is the conversion probability of micro-sachet SKU $k$, $T_{render}$ is the server-side first-byte render latency (< 25ms), $L_{latency}$ is cellular hop latency, $\\text{PWA}_{cache}$ is the local service worker caching efficiency factor, and $\\text{PG}_{webhook}$ is the sub-second webhook split routing success probability (99.99%).": {
+    "ko": "여기서 $V_{storefront}$는 엣지 배포 스토어프론트의 복합 판매 속도를 나타내며, $C_k$는 마이크로 사셰(micro-sachet) SKU $k$의 전환 확률, $T_{render}$는 서버 측 첫 바이트 렌더링 지연 시간(< 25ms), $L_{latency}$는 셀룰러 홉 지연 시간, $\\text{PWA}_{cache}$는 로컬 서비스 워커 캐싱 효율 계수, 그리고 $\\text{PG}_{webhook}$은 1초 미만 웹훅 분할 라우팅 성공 확률(99.99%)입니다.",
+    "id": "Di mana $V_{storefront}$ mewakili kecepatan penjualan komposit dari storefront yang diterapkan di edge, $C_k$ adalah probabilitas konversi SKU micro-sachet $k$, $T_{render}$ adalah latensi render byte pertama sisi server (< 25ms), $L_{latency}$ adalah latensi hop seluler, $\\text{PWA}_{cache}$ adalah faktor efisiensi caching service worker lokal, dan $\\text{PG}_{webhook}$ adalah probabilitas keberhasilan perutean split webhook sub-detik (99,99%).",
+    "vi": "Trong đó $V_{storefront}$ đại diện cho tốc độ bán hàng tổng hợp của một cửa hàng được triển khai tại edge, $C_k$ là xác suất chuyển đổi của SKU micro-sachet $k$, $T_{render}$ là độ trễ kết xuất byte đầu tiên phía máy chủ (< 25ms), $L_{latency}$ là độ trễ bước nhảy di động, $\\text{PWA}_{cache}$ là hệ số hiệu quả lưu bộ nhớ đệm của service worker cục bộ và $\\text{PG}_{webhook}$ là xác suất thành công của định tuyến chia tách webhook dưới một giây (99,99%).",
+    "zh-CN": "其中 $V_{storefront}$ 代表边缘部署店面的综合销售速度，$C_k$ 是微型小包装 (micro-sachet) SKU $k$ 的转化概率，$T_{render}$ 是服务器端首字节渲染延迟 (< 25ms)，$L_{latency}$ 是蜂窝跳数延迟，$\\text{PWA}_{cache}$ 是本地 Service Worker 缓存效率因子，而 $\\text{PG}_{webhook}$ 是亚秒级 Webhook 分账路由成功概率 (99.99%)。",
+    "ja": "ここで $V_{storefront}$ はエッジ展開されたストアフロントの複合販売速度を表し、$C_k$ はマイクロサシェ SKU $k$ のコンバージョン確率、$T_{render}$ はサーバー側のファーストバイトレンダリング遅延（< 25ms）、$L_{latency}$ はセルラーホップ遅延、$\\text{PWA}_{cache}$ はローカルサービスワーカーのキャッシング効率係数、そして $\\text{PG}_{webhook}$ は 1 秒未満のウェブフック分割ルーティング成功確率（99.99%）です。"
+  },
+  "Qubit-Biz: The Cosmo Seed™ Business Model Launchpad, Financial Clearinghouse & Cross-Project Entanglement Platform": {
+    "ko": "Qubit-Biz: Cosmo Seed™ 비즈니스 모델 런치패드, 금융 청산소 및 프로젝트 간 얽힘 플랫폼",
+    "id": "Qubit-Biz: Launchpad Model Bisnis Cosmo Seed™, Lembaga Kliring Keuangan & Platform Keterikatan Lintas Proyek",
+    "vi": "Qubit-Biz: Bệ phóng mô hình kinh doanh Cosmo Seed™, Trung tâm thanh toán bù trừ tài chính & Nền tảng liên kết chéo dự án",
+    "zh-CN": "Qubit-Biz：Cosmo Seed™ 商业模式启动平台、金融结算中心及跨项目纠缠平台",
+    "ja": "Qubit-Biz: Cosmo Seed™ ビジネスモデル・ローンチパッド、金融清算機関およびプロジェクト間エンタングルメント・プラットフォーム"
+  },
+  "Deconstructing Linear Venture Failure & The 5 Core Cosmo Seed™ Engines": {
+    "ko": "선형 벤처 실패의 해체 및 5대 핵심 Cosmo Seed™ 엔진",
+    "id": "Dekonstruksi Kegagalan Ventura Linear & 5 Mesin Utama Cosmo Seed™",
+    "vi": "Phân tích sự thất bại của liên doanh tuyến tính & 5 động cơ Cosmo Seed™ cốt lõi",
+    "zh-CN": "解构线性创业失败与 5 大核心 Cosmo Seed™ 引擎",
+    "ja": "線形ベンチャー失敗の解体と 5 つのコア Cosmo Seed™ エンジン"
+  },
+  "Institutional Clearing Mechanics: How Qubit-Biz Eliminates Trade Credit Default & Cash Starvation": {
+    "ko": "기관 청산 메커니즘: Qubit-Biz가 무역 신용 부도 및 자금 고갈을 제거하는 방법",
+    "id": "Mekanisme Kliring Institusional: Bagaimana Qubit-Biz Menghilangkan Gagal Bayar Kredit Dagang & Kelangkaan Kas",
+    "vi": "Cơ chế thanh toán bù trừ định chế: Cách Qubit-Biz loại bỏ nợ xấu tín dụng thương mại & tình trạng thiếu hụt tiền mặt",
+    "zh-CN": "机构结算机制：Qubit-Biz 如何消除贸易信用违约与资金匮乏",
+    "ja": "機関清算メカニズム：Qubit-Biz が貿易信用デフォルトと資金枯渇を排除する方法"
+  },
+  "Mathematical Formulation of Cosmo Seed™ Value Superposition & Zero-Capex Clearing": {
+    "ko": "Cosmo Seed™ 가치 중첩 및 제로 자본 지출(Zero-Capex) 청산의 수학적 공식화",
+    "id": "Formulasi Matematis Superposisi Nilai Cosmo Seed™ & Kliring Tanpa Capex",
+    "vi": "Công thức toán học về sự chồng chập giá trị Cosmo Seed™ & Thanh toán bù trừ không vốn đầu tư (Zero-Capex)",
+    "zh-CN": "Cosmo Seed™ 价值叠加与零资本支出结算的数学公式化",
+    "ja": "Cosmo Seed™ 価値重ね合わせとゼロ資本支出（Zero-Capex）清算の数学的定式化"
+  },
+  "Master Architectural Synthesis of All 12 L2 Commercial Clusters Inside Qubit-Biz": {
+    "ko": "Qubit-Biz 내부의 모든 12개 L2 상업 클러스터의 마스터 아키텍처 합성",
+    "id": "Sintesis Arsitektur Utama dari Semua 12 Klaster Komersial L2 di Dalam Qubit-Biz",
+    "vi": "Tổng hợp kiến trúc tổng thể của tất cả 12 cụm thương mại L2 bên trong Qubit-Biz",
+    "zh-CN": "Qubit-Biz 内部所有 12 个 L2 商业集群的主架构综合",
+    "ja": "Qubit-Biz 内の全 12 の L2 商業クラスターのマスター・アーキテクチャ統合"
+  },
+  "From Internal Space-Craft OS to Global B2B SaaS: The Track I Commercialization Pipeline": {
+    "ko": "내부 Space-Craft OS에서 글로벌 B2B SaaS까지: Track I 상용화 파이프라인",
+    "id": "Dari OS Space-Craft Internal ke SaaS B2B Global: Jalur Komersialisasi Track I",
+    "vi": "Từ hệ điều hành Space-Craft nội bộ đến SaaS B2B toàn cầu: Lộ trình thương mại hóa Track I",
+    "zh-CN": "从内部 Space-Craft 操作系统到全球 B2B SaaS：第一阶段商业化管道",
+    "ja": "内部 Space-Craft OS からグローバル B2B SaaS へ：Track I 商用化パイプライン"
+  },
+  "Governance, Legal Firewall & Comparative Economics: Legacy Conglomerate vs. Qubit-Biz": {
+    "ko": "거버넌스, 법적 방화벽 및 비교 경제학: 기존 대기업 vs. Qubit-Biz",
+    "id": "Tata Kelola, Firewall Hukum & Ekonomi Komparatif: Konglomerat Warisan vs. Qubit-Biz",
+    "vi": "Quản trị, Tường lửa Pháp lý & Kinh tế học So sánh: Tập đoàn Truyền thống vs. Qubit-Biz",
+    "zh-CN": "治理、法律防火墙与比较经济学：传统集团 vs. Qubit-Biz",
+    "ja": "ガバナンス、法的ファイアウォール、比較経済学：レガシー・コンングロマリット vs. Qubit-Biz"
+  },
+  "\"One Spark, Infinite Galaxifying: Where Algorithmic Intelligence Becomes Self-Funding Commercial Reality\"": {
+    "ko": "\"하나의 불꽃, 무한한 은하계화: 알고리즘 지능이 스스로 자금을 조달하는 상업적 현실이 되는 곳\"",
+    "id": "\"Satu Percikan, Galaxifying Tanpa Batas: Di Mana Kecerdasan Algoritmik Menjadi Realitas Komersial yang Mendanai Diri Sendiri\"",
+    "vi": "\"Một Tia sáng, Sự Thiên hà hóa Vô tận: Nơi Trí tuệ Thuật toán Trở thành Hiện thực Thương mại Tự cấp vốn\"",
+    "zh-CN": "“一点星火，无限银河化：算法智能转化为自筹资金的商业现实”",
+    "ja": "「一つの火花、無限の銀河化：アルゴリズム・インテリジェンスが自己資金調達型の商業的現実となる場所」"
+  },
+  "From Internal Cost Center to High-Margin B2B SaaS": {
+    "ko": "내부 비용 센터에서 고마진 B2B SaaS로",
+    "id": "Dari Pusat Biaya Internal ke SaaS B2B Margin Tinggi",
+    "vi": "Từ Trung tâm Chi phí Nội bộ đến SaaS B2B Biên lợi nhuận cao",
+    "zh-CN": "从内部成本中心到高利润 B2B SaaS",
+    "ja": "内部コストセンターから高利益率のB2B SaaSへ"
+  },
+  "Open Cosmo Seed™ Adoption for Global Partners": {
+    "ko": "글로벌 파트너를 위한 개방형 Cosmo Seed™ 도입",
+    "id": "Adopsi Cosmo Seed™ Terbuka untuk Mitra Global",
+    "vi": "Áp dụng Cosmo Seed™ Mở cho các Đối tác Toàn cầu",
+    "zh-CN": "面向全球合作伙伴的开放式 Cosmo Seed™ 采用",
+    "ja": "グローバルパートナー向けのオープンな Cosmo Seed™ 採用"
+  },
+  "Qubit Flow Financial Engine": {
+    "ko": "Qubit Flow 금융 엔진",
+    "id": "Mesin Finansial Qubit Flow",
+    "vi": "Công cụ tài chính Qubit Flow",
+    "zh-CN": "Qubit Flow 金融引擎",
+    "ja": "Qubit Flow フィナンシャル・エンジン"
+  },
+  "3-Month RPF + K-SURE Export Credit BNPL": {
+    "ko": "3개월 RPF + K-SURE 수출 신용 BNPL",
+    "id": "RPF 3-Bulan + K-SURE Kredit Ekspor BNPL",
+    "vi": "RPF 3 tháng + K-SURE Tín dụng Xuất khẩu BNPL",
+    "zh-CN": "3个月 RPF + K-SURE 出口信贷 BNPL",
+    "ja": "3ヶ月 RPF + K-SURE 輸出信用 BNPL"
+  },
+  "Automated 70 / 30 Payment Gateway (PG) Split": {
+    "ko": "자동화된 70 / 30 결제 게이트웨이(PG) 분할",
+    "id": "Pemisahan Payment Gateway (PG) 70 / 30 Otomatis",
+    "vi": "Tự động chia tách Cổng thanh toán (PG) 70 / 30",
+    "zh-CN": "自动化 70 / 30 支付网关 (PG) 分账",
+    "ja": "自動化された 70 / 30 決済ゲートウェイ (PG) 分割"
+  },
+  "The 4-Way Qubit Banks (`06_qubit-banks`): Non-Cash Quantum Resource Offsetting": {
+    "ko": "4-Way Qubit Banks (`06_qubit-banks`): 비현금 양자 자원 상쇄",
+    "id": "4-Way Qubit Banks (`06_qubit-banks`): Offsetting Sumber Daya Kuantum Non-Tunai",
+    "vi": "4-Way Qubit Banks (`06_qubit-banks`): Bù trừ tài nguyên lượng tử phi tiền mặt",
+    "zh-CN": "4-Way Qubit Banks (`06_qubit-banks`): 非现金量子资源抵消",
+    "ja": "4-Way Qubit Banks (`06_qubit-banks`): 非現金量子リソース・オフセット"
+  },
+  "Monetizing Human Expertise & Physical Cubic Meters": {
+    "ko": "인적 전문성 및 물리적 입방미터 수익화",
+    "id": "Monetisasi Keahlian Manusia & Meter Kubik Fisik",
+    "vi": "Thương mại hóa chuyên môn con người & Mét khối vật lý",
+    "zh-CN": "人类专业知识与物理立方米货币化",
+    "ja": "人間の専門知識と物理的立方メートルの収益化"
+  },
+  "Royalty-Bearing IP & Commodity Bio-Nutrition Reserve": {
+    "ko": "로열티 수익형 IP 및 원자재 바이오 영양 비축",
+    "id": "IP Berbayar Royalti & Cadangan Bio-Nutrisi Komoditas",
+    "vi": "IP hưởng tác quyền & Dự trữ dinh dưỡng sinh học hàng hóa",
+    "zh-CN": "产生版税的 IP 与大宗生物营养储备",
+    "ja": "ロイヤリティ収益型IPおよびコモディティ・バイオ栄養備蓄"
+  },
+  "Founder Project 01 8-Team AI Enterprise OS": {
+    "ko": "Founder Project 01 8팀 AI 엔터프라이즈 OS",
+    "id": "Founder Project 01 8-Team AI Enterprise OS",
+    "vi": "Founder Project 01 Hệ điều hành doanh nghiệp AI 8 nhóm",
+    "zh-CN": "Founder Project 01 8团队 AI 企业级操作系统",
+    "ja": "Founder Project 01 8チーム AI エンタープライズ OS"
+  },
+  "Replaces Sales, Trade, Logistics, Finance, HR, R&D, Legal, and CS admin overhead with Dify/Workspace AI agents + Gemini CCTV Vision Stock Opname.": {
+    "ko": "영업, 무역, 물류, 재무, 인사, R&D, 법무 및 CS 관리 오버헤드를 Dify/Workspace AI 에이전트 + Gemini CCTV Vision Stock Opname으로 대체합니다.",
+    "id": "Menggantikan biaya overhead admin Penjualan, Perdagangan, Logistik, Keuangan, HR, R&D, Hukum, dan CS dengan agen AI Dify/Workspace + Gemini CCTV Vision Stock Opname.",
+    "vi": "Thay thế chi phí quản lý Bán hàng, Thương mại, Logistics, Tài chính, Nhân sự, R&D, Pháp lý và CS bằng các đại lý AI Dify/Workspace + Gemini CCTV Vision Stock Opname.",
+    "zh-CN": "利用 Dify/Workspace AI 代理 + Gemini CCTV Vision Stock Opname 取代销售、贸易、物流、财务、人力资源、研发、法务和客服的行政开销。",
+    "ja": "販売、貿易、物流、財務、人事、研究開発、法務、CSの管理オーバーヘッドを、Dify/Workspace AIエージェント + Gemini CCTV Vision Stock Opnameに置き換えます。"
+  },
+  "100% Internal ERP Savings + 75%–85% GM Multi-Tenant B2B SaaS": {
+    "ko": "100% 내부 ERP 절감 + 75%–85% GM 멀티 테넌트 B2B SaaS",
+    "id": "100% Penghematan ERP Internal + 75%–85% GM Multi-Tenant B2B SaaS",
+    "vi": "Tiết kiệm 100% ERP nội bộ + 75%–85% GM Multi-Tenant B2B SaaS",
+    "zh-CN": "100% 内部 ERP 节省 + 75%–85% GM 多租户 B2B SaaS",
+    "ja": "100% 内部 ERP 削減 + 75%–85% GM マルチテナント B2B SaaS"
+  },
+  "Founder Project 04 Executive Voice-to-Action": {
+    "ko": "Founder Project 04 경영진 Voice-to-Action",
+    "id": "Founder Project 04 Executive Voice-to-Action",
+    "vi": "Founder Project 04 Executive Voice-to-Action",
+    "zh-CN": "Founder Project 04 高管语音转行动 (Executive Voice-to-Action)",
+    "ja": "Founder Project 04 エグゼクティブ Voice-to-Action"
+  },
+  "Converts CEO spoken memos or stylus notes into parallel MCP agent tasks, ERP purchase orders, legal drafts, and live KPI trackers at $t = 0$.": {
+    "ko": "CEO의 음성 메모나 스타일러스 노트를 병렬 MCP 에이전트 작업, ERP 구매 주문, 법률 초안 및 실시간 KPI 트래커로 $t = 0$ 시점에 즉시 변환합니다.",
+    "id": "Mengonversi memo suara atau catatan stylus CEO menjadi tugas agen MCP paralel, pesanan pembelian ERP, draf hukum, dan pelacak KPI langsung pada $t = 0$.",
+    "vi": "Chuyển đổi các ghi chú bằng giọng nói hoặc bút cảm ứng của CEO thành các tác vụ đại lý MCP song song, đơn đặt hàng ERP, bản thảo pháp lý và trình theo dõi KPI trực tiếp tại $t = 0$.",
+    "zh-CN": "在 $t = 0$ 时将 CEO 的口头备忘录或手写笔笔记转换为并行的 MCP 代理任务、ERP 采购订单、法律草案和实时 KPI 追踪器。",
+    "ja": "CEOの音声メモやスタイラスノートを、並列MCPエージェントタスク、ERP注文書、法的草案、およびライブKPIトラッカーに $t = 0$ で変換します。"
+  },
+  "Executive Seat SaaS Licensing (82% GM) + Token Usage Tiering": {
+    "ko": "Executive Seat SaaS 라이선싱 (82% GM) + 토큰 사용량 티어링",
+    "id": "Lisensi SaaS Executive Seat (82% GM) + Penjenjangan Penggunaan Token",
+    "vi": "Cấp phép SaaS Executive Seat (82% GM) + Phân cấp sử dụng Token",
+    "zh-CN": "Executive Seat SaaS 许可 (82% GM) + 代币使用分级",
+    "ja": "Executive Seat SaaS ライセンシング (82% GM) + トークン使用量ティアリング"
+  },
+  "03 Marketplace Work 03_qubit-marketplace-work": {
+    "ko": "03 마켓플레이스 워크 03_qubit-marketplace-work",
+    "id": "03 Marketplace Work 03_qubit-marketplace-work",
+    "vi": "03 Marketplace Work 03_qubit-marketplace-work",
+    "zh-CN": "03 市场工作 03_qubit-marketplace-work",
+    "ja": "03 マーケットプレイス・ワーク 03_qubit-marketplace-work"
+  },
+  "Autonomous B2B Bounty & Task Clearinghouse": {
+    "ko": "자율형 B2B 바운티 및 작업 청산소",
+    "id": "Bounty B2B Otonom & Rumah Kliring Tugas",
+    "vi": "Trung tâm thanh toán bù trừ nhiệm vụ & tiền thưởng B2B tự trị",
+    "zh-CN": "自主 B2B 赏金与任务结算中心",
+    "ja": "自律型 B2B バウンティ & タスク・クリアリングハウス"
+  },
+  "Tokenizes corporate tasks, customs clearances, and Dify workflows; settles instantly via x402 micro-payments and Time/Idea Bank credits.": {
+    "ko": "기업 작업, 통관 및 Dify 워크플로우를 토큰화하며, x402 소액 결제 및 Time/Idea Bank 크레딧을 통해 즉시 정산합니다.",
+    "id": "Menokenkan tugas korporat, bea cukai, dan alur kerja Dify; diselesaikan secara instan melalui pembayaran mikro x402 dan kredit Time/Idea Bank.",
+    "vi": "Token hóa các nhiệm vụ của doanh nghiệp, thủ tục hải quan và quy trình làm việc Dify; thanh toán tức thì thông qua thanh toán vi mô x402 và tín dụng Time/Idea Bank.",
+    "zh-CN": "将企业任务、清关和 Dify 工作流代币化；通过 x402 微支付和 Time/Idea Bank 信用额度即时结算。",
+    "ja": "企業タスク、通関、Dify ワークフローをトークン化し、x402 マイクロペイメントと Time/Idea Bank クレジットを通じて即座に決済します。"
+  },
+  "8%–12% Platform Clearing Take-Rate + x402 API Settlement Tolls": {
+    "ko": "8%–12% 플랫폼 청산 수수료 + x402 API 정산 통행료",
+    "id": "8%–12% Platform Clearing Take-Rate + Biaya Penyelesaian API x402",
+    "vi": "Tỷ lệ chiết khấu thanh toán bù trừ nền tảng 8%–12% + Phí thanh toán API x402",
+    "zh-CN": "8%–12% 平台结算抽成 + x402 API 结算费",
+    "ja": "8%–12% プラットフォーム清算テイクレート + x402 API 決済手数料"
+  },
+  "04 Planet Games 04_qubit-planet-games": {
+    "ko": "04 플래닛 게임즈 04_qubit-planet-games",
+    "id": "04 Planet Games 04_qubit-planet-games",
+    "vi": "04 Planet Games 04_qubit-planet-games",
+    "zh-CN": "04 行星游戏 04_qubit-planet-games",
+    "ja": "04 プラネット・ゲームズ 04_qubit-planet-games"
+  },
+  "Gamified Commerce & Reward Simulation": {
+    "ko": "게이미피케이션 커머스 및 보상 시뮬레이션",
+    "id": "Simulasi Perdagangan & Hadiah yang Digamifikasi",
+    "vi": "Mô phỏng Thương mại & Phần thưởng được Game hóa",
+    "zh-CN": "游戏化电商与奖励模拟",
+    "ja": "ゲーミフィケーション・コマース＆リワード・シミュレーション"
+  },
+  "Turns real-world O2O shopping, Challenger missions, and brand discovery into interactive planetary simulation quests linked to real product rewards.": {
+    "ko": "실제 O2O 쇼핑, Challenger 미션, 브랜드 발견을 실제 제품 보상과 연결된 대화형 행성 시뮬레이션 퀘스트로 전환합니다.",
+    "id": "Mengubah belanja O2O dunia nyata, misi Challenger, dan penemuan merek menjadi misi simulasi planet interaktif yang terhubung dengan hadiah produk nyata.",
+    "vi": "Biến hoạt động mua sắm O2O trong thế giới thực, các nhiệm vụ Challenger và khám phá thương hiệu thành các nhiệm vụ mô phỏng hành tinh tương tác được liên kết với phần thưởng sản phẩm thực tế.",
+    "zh-CN": "将现实世界的 O2O 购物、Challenger 任务和品牌发现转化为与真实产品奖励挂钩的互动行星模拟任务。",
+    "ja": "現実世界のO2Oショッピング、Challengerミッション、ブランド発見を、実際の製品報酬に結びついたインタラクティブな惑星シミュレーションクエストに変換します。"
+  },
+  "In-Game Brand Sponsorships + O2O Redemption Conversion Fees": {
+    "ko": "인게임 브랜드 후원 + O2O 상환 전환 수수료",
+    "id": "Sponsor Merek Dalam Game + Biaya Konversi Penukaran O2O",
+    "vi": "Tài trợ thương hiệu trong trò chơi + Phí chuyển đổi quy đổi O2O",
+    "zh-CN": "游戏内品牌赞助 + O2O 兑换转换费",
+    "ja": "ゲーム内ブランドスポンサーシップ + O2O引き換えコンバージョン手数料"
+  },
+  "Zero-CAC Viral Attribution & Affiliators Matrix": {
+    "ko": "Zero-CAC 바이럴 어트리뷰션 및 제휴사 매트릭스",
+    "id": "Atribusi Viral Zero-CAC & Matriks Afiliasi",
+    "vi": "Phân bổ lan truyền Zero-CAC & Ma trận cộng tác viên",
+    "zh-CN": "零 CAC 病毒式归因与关联矩阵",
+    "ja": "Zero-CAC バイラルアトリビューション＆アフィリエイターマトリックス"
+  },
+  "AI-generated multi-language short-form video reels paired with dynamic QR/referral links that pay instant commissions from the 30% PG pool.": {
+    "ko": "30% PG 풀에서 즉시 커미션을 지급하는 동적 QR/추천 링크와 결합된 AI 생성 다국어 숏폼 비디오 릴입니다.",
+    "id": "Reel video berdurasi pendek multibahasa buatan AI yang dipasangkan dengan tautan QR/referensi dinamis yang membayar komisi instan dari kumpulan PG 30%.",
+    "vi": "Các video ngắn đa ngôn ngữ do AI tạo ra kết hợp với các liên kết QR/giới thiệu động để trả hoa hồng tức thì từ nhóm PG 30%.",
+    "zh-CN": "AI 生成的多语言短视频，配有动态二维码/推荐链接，可从 30% 的 PG 池中支付即时佣金。",
+    "ja": "30%のPGプールから即座にコミッションを支払うダイナミックQR/リファラルリンクと組み合わせた、AI生成の多言語短尺動画リール。"
+  },
+  "Zero Fixed Ad Spend; CPA Performance Split from 30% PG Pool": {
+    "ko": "고정 광고비 0원; 30% PG 풀에서 CPA 성과 분할",
+    "id": "Nol Biaya Iklan Tetap; Pembagian Performa CPA dari 30% PG Pool",
+    "vi": "Không chi phí quảng cáo cố định; Chia sẻ hiệu suất CPA từ 30% PG Pool",
+    "zh-CN": "零固定广告支出；从 30% PG 池中进行 CPA 绩效分成",
+    "ja": "固定広告費ゼロ。30% PGプールからのCPAパフォーマンス分割"
+  },
+  "4-Way Non-Cash Resource Clearinghouse": {
+    "ko": "4원 비현금 자원 청산소",
+    "id": "Lembaga Kliring Sumber Daya Non-Tunai 4-Arah",
+    "vi": "Trung tâm thanh toán bù trừ tài nguyên phi tiền mặt 4 chiều",
+    "zh-CN": "四方非现金资源结算中心",
+    "ja": "4ウェイ非現金リソース・クリアリングハウス"
+  },
+  "Double-entry quantum ledger offsetting Time (hours), Space (3PL/retail), Idea (IP/formulas), and Petfood (bio-nutrition commodity reserves).": {
+    "ko": "시간(시간), 공간(3PL/소매), 아이디어(IP/공식) 및 펫푸드(바이오 영양 원자재 비축분)를 상쇄하는 복식 부기 양자 원장.",
+    "id": "Buku besar kuantum entri ganda yang mengimbangi Waktu (jam), Ruang (3PL/ritel), Ide (IP/formula), dan Makanan Hewan (cadangan komoditas bio-nutrisi).",
+    "vi": "Sổ cái lượng tử ghi sổ kép bù trừ Thời gian (giờ), Không gian (3PL/bán lẻ), Ý tưởng (IP/công thức) và Thức ăn thú cưng (dự trữ hàng hóa dinh dưỡng sinh học).",
+    "zh-CN": "复式记账量子账本，抵消时间（小时）、空间（3PL/零售）、创意（IP/配方）和宠物食品（生物营养商品储备）。",
+    "ja": "時間（時間）、空間（3PL/小売）、アイデア（IP/処方）、およびペットフード（バイオ栄養商品備蓄）を相殺する複式簿記量子元帳。"
+  },
+  "1.5%–3.0% Clearing Spread + Zero-Interest Working Capital Velocity": {
+    "ko": "1.5%–3.0% 청산 스프레드 + 무이자 운전 자본 회전율",
+    "id": "Spread Kliring 1,5%–3,0% + Kecepatan Modal Kerja Tanpa Bunga",
+    "vi": "Chênh lệch thanh toán 1,5%–3,0% + Tốc độ vốn lưu động lãi suất 0%",
+    "zh-CN": "1.5%–3.0% 结算价差 + 零利息营运资金流转速度",
+    "ja": "1.5%〜3.0% のクリアリング・スプレッド + 無利息の運転資本回転速度"
+  },
+  "Founder Project 05 Personal AI Memory & Wearable": {
+    "ko": "Founder Project 05 개인용 AI 메모리 및 웨어러블",
+    "id": "Founder Project 05 Memori AI Pribadi & Wearable",
+    "vi": "Founder Project 05 Bộ nhớ AI cá nhân & Thiết bị đeo",
+    "zh-CN": "Founder Project 05 个人 AI 记忆与可穿戴设备",
+    "ja": "Founder Project 05 パーソナル AI メモリ & ウェアラブル"
+  },
+  "Always-on neckband/pin wearable (`[& I]`) + personal vector memory vault that captures lifelogs, translates live trade meetings, and feeds C.A.N.": {
+    "ko": "상시 착용형 넥밴드/핀 웨어러블(`[& I]`) + 라이프로그를 캡처하고 실시간 무역 회의를 번역하며 C.A.N.에 데이터를 공급하는 개인용 벡터 메모리 저장소",
+    "id": "Wearable neckband/pin yang selalu aktif (`[& I]`) + brankas memori vektor pribadi yang menangkap log kehidupan, menerjemahkan pertemuan perdagangan langsung, dan memberi makan C.A.N.",
+    "vi": "Thiết bị đeo dạng vòng cổ/ghim cài luôn bật (`[& I]`) + kho lưu trữ bộ nhớ vector cá nhân giúp ghi lại nhật ký cuộc sống, dịch các cuộc họp thương mại trực tiếp và cung cấp dữ liệu cho C.A.N.",
+    "zh-CN": "全天候挂脖/别针式可穿戴设备 (`[& I]`) + 个人向量记忆库，用于捕捉生活日志、翻译实时贸易会议并为 C.A.N. 提供数据。",
+    "ja": "常時オンのネックバンド/ピン型ウェアラブル（`[& I]`）+ ライフログを記録し、ライブ貿易会議を翻訳し、C.A.N. にフィードするパーソナルベクトルメモリボルト"
+  },
+  "Hardware Unit Margin (48% GM) + Cloud Exo-Memory SaaS (80% GM)": {
+    "ko": "하드웨어 단위 마진 (48% GM) + 클라우드 엑소 메모리 SaaS (80% GM)",
+    "id": "Margin Unit Perangkat Keras (48% GM) + SaaS Cloud Exo-Memory (80% GM)",
+    "vi": "Lợi nhuận đơn vị phần cứng (48% GM) + SaaS Cloud Exo-Memory (80% GM)",
+    "zh-CN": "硬件单位利润 (48% GM) + 云端外骨骼记忆 SaaS (80% GM)",
+    "ja": "ハードウェアユニットマージン (48% GM) + クラウド Exo-Memory SaaS (80% GM)"
+  },
+  "Creator MCN, IP Incubation & Live Commerce": {
+    "ko": "크리에이터 MCN, IP 인큐베이션 및 라이브 커머스",
+    "id": "MCN Kreator, Inkubasi IP & Live Commerce",
+    "vi": "MCN sáng tạo, Ươm tạo IP & Thương mại trực tiếp",
+    "zh-CN": "创作者 MCN、IP 孵化与直播电商",
+    "ja": "クリエイター MCN、IP インキュベーション & ライブコマース"
+  },
+  "Incubates K-Culture/ASEAN micro-influencers and virtual avatars broadcasting 24/7 on mall.sisTV with instant ODM drop-shipping.": {
+    "ko": "K-Culture/ASEAN 마이크로 인플루언서와 가상 아바타를 육성하여 mall.sisTV에서 24시간 내내 방송하고 즉각적인 ODM 드롭쉬핑을 지원합니다.",
+    "id": "Menginkubasi mikro-influencer K-Culture/ASEAN dan avatar virtual yang menyiarkan 24/7 di mall.sisTV dengan drop-shipping ODM instan.",
+    "vi": "Ươm tạo các micro-influencer K-Culture/ASEAN và các avatar ảo phát sóng 24/7 trên mall.sisTV với hình thức drop-shipping ODM tức thì.",
+    "zh-CN": "孵化 K-Culture/东盟微网红和虚拟化身，在 mall.sisTV 上 24/7 全天候直播，并提供即时 ODM 跨境直发。",
+    "ja": "K-Culture/ASEAN のマイクロインフルエンサーとバーチャルアバターを育成し、mall.sisTV で 24 時間 365 日放送、即時の ODM ドロップシッピングを提供します。"
+  },
+  "MCN Revenue Share + White-Label Creator Brand Co-Ownership": {
+    "ko": "MCN 수익 공유 + 화이트 라벨 크리에이터 브랜드 공동 소유권",
+    "id": "Bagi Hasil MCN + Kepemilikan Bersama Merek Kreator White-Label",
+    "vi": "Chia sẻ doanh thu MCN + Đồng sở hữu thương hiệu người sáng tạo White-Label",
+    "zh-CN": "MCN 收益分成 + 白标创作者品牌共同所有权",
+    "ja": "MCN収益分配 + ホワイトラベル・クリエイターブランド共同所有権"
+  },
+  "Retail Media Network & Contextual AI Ad Exchange": {
+    "ko": "리테일 미디어 네트워크 및 문맥 맞춤형 AI 광고 거래소",
+    "id": "Jaringan Media Ritel & Pertukaran Iklan AI Kontekstual",
+    "vi": "Mạng lưới truyền thông bán lẻ & Sàn giao dịch quảng cáo AI theo ngữ cảnh",
+    "zh-CN": "零售媒体网络与上下文 AI 广告交易平台",
+    "ja": "リテールメディアネットワーク ＆ コンテキストAI広告エクスチェンジ"
+  },
+  "High-intent programmatic ad placements across SisCart, Nearbuy O2O screens, and partner portals powered by Overnight Data Factory signals.": {
+    "ko": "Overnight Data Factory 신호를 기반으로 SisCart, Nearbuy O2O 스크린 및 파트너 포털 전반에 걸친 고의도 프로그래매틱 광고 배치.",
+    "id": "Penempatan iklan terprogram niat tinggi di seluruh SisCart, layar Nearbuy O2O, dan portal mitra yang didukung oleh sinyal Overnight Data Factory.",
+    "vi": "Vị trí quảng cáo lập trình có ý định cao trên SisCart, màn hình Nearbuy O2O và các cổng đối tác được cung cấp bởi tín hiệu Overnight Data Factory.",
+    "zh-CN": "基于 Overnight Data Factory 信号，在 SisCart、Nearbuy O2O 屏幕和合作伙伴门户网站上进行高意向程序化广告投放。",
+    "ja": "Overnight Data Factoryのシグナルを活用した、SisCart、Nearbuy O2Oスクリーン、およびパートナーポータル全体での高意図プログラマティック広告配置。"
+  },
+  "CPM / ROAS-Guaranteed Ad Clearing (78% Net Platform GM)": {
+    "ko": "CPM / ROAS 보장 광고 정산 (78% 순 플랫폼 GM)",
+    "id": "Kliring Iklan Terjamin CPM / ROAS (78% GM Platform Bersih)",
+    "vi": "Thanh toán quảng cáo đảm bảo CPM / ROAS (78% GM nền tảng ròng)",
+    "zh-CN": "CPM / ROAS 保证广告结算（78% 净平台 GM）",
+    "ja": "CPM / ROAS保証型広告クリアリング（78% ネットプラットフォームGM）"
+  },
+  "10 Knowledge Networks 10_knowledge-networks": {
+    "ko": "10 지식 네트워크 10_knowledge-networks",
+    "id": "10 Jaringan Pengetahuan 10_knowledge-networks",
+    "vi": "10 Mạng lưới tri thức 10_knowledge-networks",
+    "zh-CN": "10 知识网络 10_knowledge-networks",
+    "ja": "10 ナレッジネットワーク 10_knowledge-networks"
+  },
+  "Syndicated Enterprise RAG & Expert Graph": {
+    "ko": "연합 기업용 RAG 및 전문가 그래프",
+    "id": "RAG Perusahaan Tersindikasi & Graf Pakar",
+    "vi": "RAG Doanh nghiệp Hợp tác & Đồ thị Chuyên gia",
+    "zh-CN": "联合企业级 RAG 与专家图谱",
+    "ja": "連合エンタープライズRAGおよびエキスパートグラフ"
+  },
+  "Commercializes curated HS-code, BPOM/FDA regulatory, and veterinary clinical knowledge bases (`NotebookLM + pgvector`) via MCP APIs.": {
+    "ko": "MCP API를 통해 큐레이션된 HS-code, BPOM/FDA 규제 및 수의 임상 지식 베이스(`NotebookLM + pgvector`)를 상용화합니다.",
+    "id": "Mengomersialkan basis pengetahuan klinis veteriner, regulasi BPOM/FDA, dan HS-code yang dikurasi (`NotebookLM + pgvector`) melalui API MCP.",
+    "vi": "Thương mại hóa các cơ sở kiến thức lâm sàng thú y, quy định BPOM/FDA và mã HS được tuyển chọn (`NotebookLM + pgvector`) thông qua các API MCP.",
+    "zh-CN": "通过 MCP API 将经过策划的 HS 编码、BPOM/FDA 法规和兽医临床知识库（`NotebookLM + pgvector`）商业化。",
+    "ja": "MCP APIを通じて、キュレーションされたHSコード、BPOM/FDA規制、および獣医臨床知識ベース（`NotebookLM + pgvector`）を商用化します。"
+  },
+  "B2B Knowledge Subscription + Per-Query MCP Agent Licensing": {
+    "ko": "B2B 지식 구독 + 쿼리당 MCP 에이전트 라이선싱",
+    "id": "Langganan Pengetahuan B2B + Lisensi Agen MCP Per-Kueri",
+    "vi": "Đăng ký Kiến thức B2B + Cấp phép Đại lý MCP theo truy vấn",
+    "zh-CN": "B2B 知识订阅 + 按查询付费的 MCP 代理授权",
+    "ja": "B2Bナレッジサブスクリプション + クエリごとのMCPエージェントライセンス"
+  },
+  "SR Robotics Automation & RaaS Deployment": {
+    "ko": "SR 로보틱스 자동화 및 RaaS 배포",
+    "id": "Otomasi SR Robotics & Penerapan RaaS",
+    "vi": "Tự động hóa SR Robotics & Triển khai RaaS",
+    "zh-CN": "SR 机器人自动化与 RaaS 部署",
+    "ja": "SRロボティクス自動化およびRaaS展開"
+  },
+  "Integrates physical warehouse AGVs, automated sachet packaging arms, and retail kiosk robots with Qubit ERP telemetry under Robotics-as-a-Service.": {
+    "ko": "Robotics-as-a-Service 하에 실제 창고 AGV, 자동 소포장 암, 리테일 키오스크 로봇을 Qubit ERP 텔레메트리와 통합합니다.",
+    "id": "Mengintegrasikan AGV gudang fisik, lengan pengemasan sachet otomatis, dan robot kios ritel dengan telemetri Qubit ERP di bawah Robotics-as-a-Service.",
+    "vi": "Tích hợp AGV kho vật lý, cánh tay đóng gói túi tự động và robot ki-ốt bán lẻ với phép đo từ xa Qubit ERP theo mô hình Robotics-as-a-Service.",
+    "zh-CN": "在机器人即服务（RaaS）模式下，将实体仓库 AGV、自动小袋包装机械臂和零售亭机器人与 Qubit ERP 遥测系统集成。",
+    "ja": "Robotics-as-a-Serviceの下で、物理倉庫のAGV、自動サシェ包装アーム、および小売キオスクロボットをQubit ERPテレメトリと統合します。"
+  },
+  "Space/Time Bank RaaS Leasing + Automated Throughput Fee": {
+    "ko": "시공간 은행 RaaS 리스 + 자동화된 처리량 수수료",
+    "id": "Sewa RaaS Bank Ruang/Waktu + Biaya Throughput Otomatis",
+    "vi": "Cho thuê RaaS Ngân hàng Không gian/Thời gian + Phí thông lượng tự động",
+    "zh-CN": "时空银行 RaaS 租赁 + 自动化吞吐量费用",
+    "ja": "時空間銀行 RaaS リース + 自動スループット手数料"
+  },
+  "12 Qubit Web Builder 12_qubit-web-builder": {
+    "ko": "12 Qubit 웹 빌더 12_qubit-web-builder",
+    "id": "12 Qubit Web Builder 12_qubit-web-builder",
+    "vi": "Trình tạo web 12 Qubit 12_qubit-web-builder",
+    "zh-CN": "12 Qubit 网页生成器 12_qubit-web-builder",
+    "ja": "12 Qubit ウェブビルダー 12_qubit-web-builder"
+  },
+  "Autonomous 12-Domain GEO/LLM Web Generator": {
+    "ko": "자율형 12-도메인 GEO/LLM 웹 생성기",
+    "id": "Generator Web GEO/LLM 12-Domain Otonom",
+    "vi": "Trình tạo web GEO/LLM 12 miền tự trị",
+    "zh-CN": "自主式 12 域名 GEO/LLM 网页生成器",
+    "ja": "自律型 12 ドメイン GEO/LLM ウェブジェネレーター"
+  },
+  "Generates Schema.org JSON-LD, 6-language static translations (`?v=5.0`), and code-native SVG monographs for global B2B partner brands in minutes.": {
+    "ko": "Schema.org JSON-LD, 6개 국어 정적 번역(`?v=5.0`), 글로벌 B2B 파트너 브랜드를 위한 코드 네이티브 SVG 모노그래프를 몇 분 만에 생성합니다.",
+    "id": "Menghasilkan Schema.org JSON-LD, terjemahan statis 6 bahasa (`?v=5.0`), dan monograf SVG asli kode untuk merek mitra B2B global dalam hitungan menit.",
+    "vi": "Tạo Schema.org JSON-LD, bản dịch tĩnh 6 ngôn ngữ (`?v=5.0`) và các chuyên khảo SVG gốc mã cho các thương hiệu đối tác B2B toàn cầu trong vài phút.",
+    "zh-CN": "在几分钟内为全球 B2B 合作伙伴品牌生成 Schema.org JSON-LD、6 种语言静态翻译 (`?v=5.0`) 和代码原生 SVG 专题图。",
+    "ja": "Schema.org JSON-LD、6 言語の静的翻訳 (`?v=5.0`)、およびグローバル B2B パートナー ブランド向けのコードネイティブ SVG モノグラフを数分で生成します。"
+  },
+  "Automated Enterprise Web Build Fee + Recurring Hosting/GEO SaaS": {
+    "ko": "자동화된 엔터프라이즈 웹 구축 비용 + 반복 호스팅/GEO SaaS",
+    "id": "Biaya Pembuatan Web Perusahaan Otomatis + Hosting Berulang/GEO SaaS",
+    "vi": "Phí xây dựng web doanh nghiệp tự động + Lưu trữ định kỳ/GEO SaaS",
+    "zh-CN": "自动化企业网页构建费用 + 定期托管/GEO SaaS",
+    "ja": "自動エンタープライズウェブ構築費用 + 継続的なホスティング/GEO SaaS"
+  },
+  "New Business Launch Capex": {
+    "ko": "신규 사업 런칭 자본 지출(Capex)",
+    "id": "Capex Peluncuran Bisnis Baru",
+    "vi": "Chi phí đầu tư (Capex) ra mắt doanh nghiệp mới",
+    "zh-CN": "新业务启动资本支出 (Capex)",
+    "ja": "新規事業立ち上げ資本支出 (Capex)"
+  },
+  "$500K–$2M upfront cash for inventory, warehouse lease, and 8-team payroll": {
+    "ko": "재고, 창고 임대 및 8개 팀 급여를 위한 $500K–$2M 선행 현금",
+    "id": "Uang tunai di muka $500K–$2M untuk inventaris, sewa gudang, dan gaji 8 tim",
+    "vi": "$500K–$2M tiền mặt trả trước cho hàng tồn kho, thuê kho bãi và bảng lương của 8 đội",
+    "zh-CN": "用于库存、仓库租赁和 8 人团队工资的 50 万至 200 万美元预付现金",
+    "ja": "在庫、倉庫リース、および8チームの給与のための50万〜200万ドルの前払い現金"
+  },
+  "High VC burn rate on paid performance ads (CAC > LTV risk)": {
+    "ko": "유료 퍼포먼스 광고에 대한 높은 VC 자금 소진율 (CAC > LTV 리스크)",
+    "id": "Tingkat pembakaran VC yang tinggi pada iklan performa berbayar (risiko CAC > LTV)",
+    "vi": "Tỷ lệ đốt tiền VC cao cho quảng cáo hiệu suất trả phí (rủi ro CAC > LTV)",
+    "zh-CN": "付费绩效广告的高 VC 烧钱率（CAC > LTV 风险）",
+    "ja": "有料パフォーマンス広告における高いVCバーンレート（CAC > LTV リスク）"
+  },
+  "Near-Zero Upfront Cash Burn via WKB Pre-Order Tunneling & 4-Way Qubit Banks": {
+    "ko": "WKB Pre-Order Tunneling 및 4-Way Qubit Banks를 통한 제로에 가까운 선행 현금 소진",
+    "id": "Pembakaran tunai di muka yang mendekati nol melalui WKB Pre-Order Tunneling & 4-Way Qubit Banks",
+    "vi": "Gần như không đốt tiền mặt trả trước thông qua WKB Pre-Order Tunneling & 4-Way Qubit Banks",
+    "zh-CN": "通过 WKB Pre-Order Tunneling 和 4-Way Qubit Banks 实现近乎零的预付现金消耗",
+    "ja": "WKB Pre-Order Tunneling および 4-Way Qubit Banks による、ゼロに近い前払い現金の消費"
+  },
+  "Trade Credit & Settlement Risk": {
+    "ko": "무역 신용 및 결제 리스크",
+    "id": "Kredit Perdagangan & Risiko Penyelesaian",
+    "vi": "Tín dụng thương mại & Rủi ro thanh toán",
+    "zh-CN": "贸易信用与结算风险",
+    "ja": "貿易信用および決済リスク"
+  },
+  "60–120 day open-account default exposure or slow L/C bank friction": {
+    "ko": "60~120일 외상 거래 부도 노출 또는 느린 L/C 은행 마찰",
+    "id": "Eksposur gagal bayar akun terbuka 60–120 hari atau friksi bank L/C yang lambat",
+    "vi": "Rủi ro vỡ nợ tài khoản mở 60–120 ngày hoặc sự chậm trễ từ ngân hàng L/C",
+    "zh-CN": "60-120 天赊销违约风险或缓慢的 L/C 银行摩擦",
+    "ja": "60〜120日のオープンアカウントのデフォルト・エクスポージャー、または遅いL/C銀行の摩擦"
+  },
+  "No physical trade financing or customs clearing capability": {
+    "ko": "물리적 무역 금융 또는 통관 능력 없음",
+    "id": "Tidak ada pembiayaan perdagangan fisik atau kemampuan kliring pabean",
+    "vi": "Không có khả năng tài trợ thương mại vật chất hoặc thông quan",
+    "zh-CN": "无实物贸易融资或清关能力",
+    "ja": "実物貿易金融または通関能力なし"
+  },
+  "3-Month Rolling RPF + K-SURE BNPL + Atomic 70/30 PG Webhook Split": {
+    "ko": "3개월 롤링 RPF + K-SURE BNPL + Atomic 70/30 PG 웹훅 분할",
+    "id": "RPF Bergulir 3-Bulan + K-SURE BNPL + Split Webhook PG Atomic 70/30",
+    "vi": "RPF Lăn 3 tháng + K-SURE BNPL + Chia tách Webhook PG Atomic 70/30",
+    "zh-CN": "3个月滚动 RPF + K-SURE BNPL + Atomic 70/30 PG Webhook 分割",
+    "ja": "3ヶ月ローリング RPF + K-SURE BNPL + Atomic 70/30 PG Webhook 分割"
+  },
+  "Enterprise Software (ERP/AI)": {
+    "ko": "엔터프라이즈 소프트웨어 (ERP/AI)",
+    "id": "Perangkat Lunak Perusahaan (ERP/AI)",
+    "vi": "Phần mềm doanh nghiệp (ERP/AI)",
+    "zh-CN": "企业级软件 (ERP/AI)",
+    "ja": "エンタープライズソフトウェア (ERP/AI)"
+  },
+  "$150K+/yr net cost center (SAP/Oracle + fragmented human admin teams)": {
+    "ko": "연간 $150K+ 순 비용 센터 (SAP/Oracle + 파편화된 인적 관리 팀)",
+    "id": "Pusat biaya bersih $150rb+/thn (SAP/Oracle + tim admin manusia yang terfragmentasi)",
+    "vi": "Trung tâm chi phí ròng $150K+/năm (SAP/Oracle + các nhóm quản trị viên nhân sự phân tán)",
+    "zh-CN": "每年 $150K+ 净成本中心 (SAP/Oracle + 碎片化的人工管理团队)",
+    "ja": "年間15万ドル以上の純コストセンター (SAP/Oracle + 断片化された人的管理チーム)"
+  },
+  "Builds software in a vacuum without real-world supply chain ownership": {
+    "ko": "실제 공급망 소유권 없이 고립된 환경에서 소프트웨어 구축",
+    "id": "Membangun perangkat lunak dalam ruang hampa tanpa kepemilikan rantai pasokan dunia nyata",
+    "vi": "Xây dựng phần mềm trong môi trường biệt lập mà không có quyền sở hữu chuỗi cung ứng thực tế",
+    "zh-CN": "在没有现实供应链所有权的情况下，在真空环境中构建软件",
+    "ja": "現実世界のサプライチェーン所有権なしに、真空状態でソフトウェアを構築"
+  },
+  "100% Internal Admin Savings + External B2B SaaS at 75%–85% Gross Margin": {
+    "ko": "100% 내부 관리 비용 절감 + 75%–85% 매출총이익률의 외부 B2B SaaS",
+    "id": "100% Penghematan Admin Internal + SaaS B2B Eksternal dengan Margin Kotor 75%–85%",
+    "vi": "Tiết kiệm 100% quản trị nội bộ + SaaS B2B bên ngoài với tỷ suất lợi nhuận gộp 75%–85%",
+    "zh-CN": "100% 内部管理节省 + 毛利率为 75%–85% 的外部 B2B SaaS",
+    "ja": "100% 内部管理コスト削減 + 売上総利益率 75%–85% の外部 B2B SaaS"
+  },
+  "Cross-Project Synergy Velocity": {
+    "ko": "프로젝트 간 시너지 속도",
+    "id": "Kecepatan Sinergi Lintas Proyek",
+    "vi": "Tốc độ hiệp lực liên dự án",
+    "zh-CN": "跨项目协同速度",
+    "ja": "プロジェクト間シナジー速度"
+  },
+  "Siloed business units competing for internal budget ($t \\gg 0$ delay)": {
+    "ko": "내부 예산을 두고 경쟁하는 고립된 사업부 ($t \\gg 0$ 지연)",
+    "id": "Unit bisnis terisolasi yang bersaing untuk anggaran internal (penundaan $t \\gg 0$)",
+    "vi": "Các đơn vị kinh doanh bị cô lập đang cạnh tranh ngân sách nội bộ (trễ $t \\gg 0$)",
+    "zh-CN": "孤立的业务部门竞争内部预算（$t \\gg 0$ 延迟）",
+    "ja": "内部予算を争うサイロ化した事業部門（$t \\gg 0$ の遅延）"
+  },
+  "Single-point solution vulnerable to platform commoditization": {
+    "ko": "플랫폼 범용화에 취약한 단일 포인트 솔루션",
+    "id": "Solusi titik tunggal yang rentan terhadap komoditas platform",
+    "vi": "Giải pháp điểm đơn lẻ dễ bị tổn thương trước sự hàng hóa hóa nền tảng",
+    "zh-CN": "易受平台同质化影响的单点解决方案",
+    "ja": "プラットフォームのコモディティ化に脆弱なシングルポイントソリューション"
+  },
+  "12 Entangled L2 Clusters collapsing data, traffic, and liquidity at $t = 0$": {
+    "ko": "$t = 0$에서 데이터, 트래픽, 유동성을 통합하는 12개의 얽힌 L2 클러스터",
+    "id": "12 Klaster L2 Terjerat yang menyatukan data, lalu lintas, dan likuiditas pada $t = 0$",
+    "vi": "12 Cụm L2 vướng víu làm sụp đổ dữ liệu, lưu lượng truy cập và tính thanh khoản tại $t = 0$",
+    "zh-CN": "12 个纠缠的 L2 集群在 $t = 0$ 时汇聚数据、流量和流动性",
+    "ja": "$t = 0$ でデータ、トラフィック、流動性を収束させる12のもつれたL2クラスター"
+  },
+  "Partner & Challenger Onboarding": {
+    "ko": "파트너 및 챌린저 온보딩",
+    "id": "Onboarding Mitra & Challenger",
+    "vi": "Tiếp nhận Đối tác & Thách thức (Onboarding)",
+    "zh-CN": "合作伙伴与挑战者入驻",
+    "ja": "パートナーおよびチャレンジャーのオンボーディング"
+  },
+  "High franchise fees, rigid distributor quotas, slow manual onboarding": {
+    "ko": "높은 가맹비, 경직된 유통업체 할당량, 느린 수동 온보딩",
+    "id": "Biaya waralaba tinggi, kuota distributor kaku, onboarding manual yang lambat",
+    "vi": "Phí nhượng quyền cao, hạn ngạch nhà phân phối cứng nhắc, quy trình tiếp nhận thủ công chậm chạp",
+    "zh-CN": "高额加盟费、僵化的分销商配额、缓慢的人工入驻",
+    "ja": "高額なフランチャイズ料、硬直的な代理店ノルマ、遅い手動オンボーディング"
+  },
+  "Self-serve software only; no physical product or trade supply chain": {
+    "ko": "셀프 서비스 소프트웨어 전용; 실물 제품이나 무역 공급망 없음",
+    "id": "Hanya perangkat lunak mandiri; tidak ada produk fisik atau rantai pasokan perdagangan",
+    "vi": "Chỉ có phần mềm tự phục vụ; không có sản phẩm vật lý hoặc chuỗi cung ứng thương mại",
+    "zh-CN": "仅限自助服务软件；无实物产品或贸易供应链",
+    "ja": "セルフサービスソフトウェアのみ。物理的な製品や貿易サプライチェーンなし"
+  },
+  "Turnkey Cosmo Seed™ Pods (Software + ODM SKU + K-SURE Credit + AI Closer)": {
+    "ko": "턴키 Cosmo Seed™ Pods (소프트웨어 + ODM SKU + K-SURE Credit + AI Closer)",
+    "id": "Turnkey Cosmo Seed™ Pods (Perangkat Lunak + SKU ODM + K-SURE Credit + AI Closer)",
+    "vi": "Turnkey Cosmo Seed™ Pods (Phần mềm + ODM SKU + K-SURE Credit + AI Closer)",
+    "zh-CN": "一站式 Cosmo Seed™ Pods (软件 + ODM SKU + K-SURE Credit + AI Closer)",
+    "ja": "ターンキー Cosmo Seed™ Pods (ソフトウェア + ODM SKU + K-SURE Credit + AI Closer)"
+  },
+  "L2 Node & Route Code": {
+    "ko": "L2 노드 및 루트 코드",
+    "id": "Node L2 & Kode Rute",
+    "vi": "L2 Node & Mã Tuyến đường",
+    "zh-CN": "L2 节点与路由代码",
+    "ja": "L2 ノード & ルートコード"
+  },
+  "Core Cosmo Seed™ Role": {
+    "ko": "핵심 Cosmo Seed™ 역할",
+    "id": "Peran Inti Cosmo Seed™",
+    "vi": "Vai trò Cosmo Seed™ Cốt lõi",
+    "zh-CN": "核心 Cosmo Seed™ 角色",
+    "ja": "コア Cosmo Seed™ ロール"
+  },
+  "Primary Technical & Commercial Mechanism": {
+    "ko": "주요 기술 및 상업적 메커니즘",
+    "id": "Mekanisme Teknis & Komersial Utama",
+    "vi": "Cơ chế Kỹ thuật & Thương mại Chính",
+    "zh-CN": "主要技术与商业机制",
+    "ja": "主要な技術的・商業的メカニズム"
+  },
+  "Monetization & Margin Profile": {
+    "ko": "수익화 및 마진 프로필",
+    "id": "Profil Monetisasi & Margin",
+    "vi": "Hồ sơ Doanh thu & Biên lợi nhuận",
+    "zh-CN": "货币化与利润率概况",
+    "ja": "収益化とマージンプロファイル"
+  },
+  "Economic & Operational Dimension": {
+    "ko": "경제적 및 운영적 차원",
+    "id": "Dimensi Ekonomi & Operasional",
+    "vi": "Kích thước Kinh tế & Vận hành",
+    "zh-CN": "经济与运营维度",
+    "ja": "経済的・運用的次元"
   }
 };

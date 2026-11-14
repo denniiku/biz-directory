@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 :root { --sc-ink: #27374D; --sc-muted: #526D82; --sc-border: rgba(157, 178, 191, 0.48); --sc-nav-bg: rgba(221, 230, 237, 0.68); --sc-nav-w: 236px; --sc-nav-folded-w: 64px; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html, body { width: 100%; min-height: 100vh; overflow-x: hidden; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: var(--sc-ink); background: linear-gradient(to right, #f0acf7, #acf7f0, #f7f0ac);  }
@@ -138,15 +138,16 @@ main, .sc-doc, .doc-container, .content-wrap {
 
 /* === CASCADING INDENTATION STANDARD === */
 .sc-sec-title, main section > h2 {
-  padding-left: 1.45em !important;
-  text-indent: -1.45em !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
 }
 .sc-sec-body, main section > p {
-  margin-left: 2.15rem !important;
+  margin-left: 0 !important;
+  text-indent: 0 !important;
 }
 .sc-list, .sc-dl-list, main section > ul {
   list-style: none !important;
-  margin-left: 2.15rem !important;
+  margin-left: 0 !important;
   padding-left: 0 !important;
 }
 .sc-list li, .sc-dl-list li, main section > ul > li {
@@ -439,9 +440,9 @@ main div:has(> table) {
   border: 1px solid rgba(16, 185, 129, 0.3);
 }
 .sc-pipeline-strip {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
   margin: 20px 0;
 }
 .sc-pipeline-step {
@@ -499,3 +500,51 @@ main div:has(> table) {
 .sc-pill-gold    { background: rgba(245, 158, 11, 0.16); color: #92400e; border: 1px solid rgba(245, 158, 11, 0.35); }
 .sc-pill-slate   { background: rgba(15, 23, 42, 0.08);   color: #334155; border: 1px solid rgba(15, 23, 42, 0.15); }
 .sc-pill-crimson { background: rgba(239, 68, 68, 0.12);  color: #991b1b; border: 1px solid rgba(239, 68, 68, 0.25); }
+
+/* === UNIFIED CONTAINER MARGIN, RIGHT-OVERFLOW FIX & PDF BUTTON HIDE === */
+main,
+main.sc-monograph,
+main.sc-prd-page,
+main.sc-root-landing,
+.sc-monograph,
+.sc-prd-page,
+.sc-root-landing,
+.sc-doc,
+.doc-container,
+.content-wrap {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  max-width: min(1400px, 96%) !important;
+  margin: 0 !important;
+  padding: clamp(36px, 5vh, 64px) clamp(28px, 4.5vw, 72px) 120px !important;
+}
+
+main p,
+.sc-monograph p,
+.sc-prd-page p,
+.sc-root-landing p {
+  margin-left: 0 !important;
+  text-indent: 0 !important;
+}
+
+/* Prevent single-line hero titles from clipping off the right edge of the screen */
+.sc-hero-singleline,
+main h1 {
+  white-space: normal !important;
+  word-break: keep-all !important;
+  overflow-wrap: break-word !important;
+}
+
+/* Keep all blockquotes and paragraphs flush-left with headings */
+main blockquote,
+.sc-monograph blockquote,
+.sc-prd-page blockquote {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  border-left: none !important;
+}
+
+/* Hide top-right PDF / Print buttons consistently */
+.sc-action-btns {
+  display: none !important;
+}
