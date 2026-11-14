@@ -78092,7 +78092,7 @@ window.SC_TRANSLATIONS = {
     "ko": "사업개발(Biz Development)"
   },
   "AI Command Center": {
-    "ko": "AI 커맨드 센터"
+    "ko": "AI Command Center"
   },
   "Inputs targets into CEO ActionNote (target GM 55%, initial Capex $0, 500 Indonesian vet clinics) → locks Header Vector H1.": {
     "ko": "CEO ActionNote에 목표치 입력(목표 매출총이익률(GM) 55%, 초기 Capex $0, 인도네시아 동물병원 500개소) → 헤더 벡터 H1 동결(lock)."
@@ -78116,7 +78116,7 @@ window.SC_TRANSLATIONS = {
     "ko": "RA + 재무"
   },
   "AI Risk Management Center": {
-    "ko": "AI 리스크 관리 센터"
+    "ko": "AI Risk Management Center"
   },
   "SCK secures Korean export docs, SCI locks local licensing + 50% deposit + 3-mo RPF, SCS approves 70/30 PG & K-SURE limit (Firewall = PASS).": {
     "ko": "SCK 한국 수출 서류 확보, SCI 현지 라이선스 확정 + 계약금 50% + 3개월 RPF 체결, SCS 70/30 PG 승인 및 K-SURE BNPL 한도 확보 (방화벽 = PASS)."
@@ -91470,5 +91470,170 @@ window.SC_TRANSLATIONS = {
   },
   "Ultimately, One Spark, Infinite Galaxifying is not a single standalone AI model, but a multi-dimensional AI orchestration architecture that: (1) quantifies and forecasts business reality through foundational learning paradigms (Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning), (2) computes exact intra-project weights and cross-project Co-relation % through Multi-Task Deep Learning (GradNorm + TAG) and combinatorial optimization (QUBO), and (3) completes zero-hallucination, ultra-low-cost autonomous execution at t = 0 through Hybrid RAG, LoRA Fine-Tuning, and local Knowledge Distillation.": {
     "ko": "결국 대표님께서 구상하신 One Spark, Infinite Galaxifying은 단일 AI 기술 하나가 아니라, ① 기초 학습 패러다임(지도·비지도·자기지도·강화학습)으로 데이터를 수치화·예측하고, ② 멀티태스크 러닝(GradNorm+TAG)과 조합 최적화(QUBO)로 교차 프로젝트의 가중치와 상관계수(%)를 정밀 계산하며, ③ Hybrid RAG와 LoRA 파인튜닝·지식 증류로 환각 없이 초저비용·초고속 무인 실행(t = 0)을 완결하는 입체적 AI 오케스트레이션 체계입니다."
+  },
+  "OPERATIONAL MONOGRAPH • WORK PROCEDURES AI": {
+    "ko": "운영 모노그래프 • AI 업무 실행 절차 (WORK PROCEDURES AI)"
+  },
+  "COSMO SEED SERIES 05": {
+    "ko": "COSMO SEED 시리즈 05"
+  },
+  "Open Paper 05: Work Procedures AI ->": {
+    "ko": "논문 05 열기: AI 업무 실행 절차 (Work Procedures AI) ->"
+  },
+  "← Back to COSMO SEED Biz Models": {
+    "ko": "← COSMO SEED 비즈니스 모델로 돌아가기"
+  },
+  "Work Procedures AI: End-to-End Algorithmic Flow & Live Multi-Project Execution Simulation": {
+    "ko": "AI 업무 실행 절차 (Work Procedures AI): Qubit Algorithm™ 엔드투엔드 알고리즘 작동 흐름도 및 단계별 실시간 시뮬레이션"
+  },
+  "Subtitle: How a Single-Line Idea (“One Spark”) Assembles into a Canonical Project Object and Computes Departmental Priority Weights (W%) and Cross-Project Correlations (Co-relation %) in Real Time": {
+    "ko": "부제: 한 줄 아이디어(One Spark)가 표준 프로젝트 객체로 조립되어 부서별 우선순위(가중치 %)와 교차 프로젝트 상관계수(Co-relation %)를 실시간 산출·동시 실행하는 작동 구조"
+  },
+  "EXECUTIVE WORKFLOW SUMMARY": {
+    "ko": "핵심 작동 아키텍처 요약 (EXECUTIVE WORKFLOW SUMMARY)"
+  },
+  "A single-line executive idea (One Spark) is automatically assembled into a standardized project object, while Fine-Tuning (LoRA), Deep Learning (MRL, GradNorm, TAG), Machine Learning (RPF, DSM, QUBO), and Hybrid RAG interlock sequentially to compute departmental task priorities (Weight %) and inter-project synergies (Co-relation %) in real time—enabling dozens of multi-projects to be generated and governed simultaneously. Below we formalize (1) the End-to-End Algorithmic Architecture Flow inside the software, (2) a Step-by-Step Live Execution Simulation across the Korea–Indonesia anchor corridor, and (3) the Master Role Summary Matrix across all 6 stages.": {
+    "ko": "한 줄 아이디어(One Spark)가 표준 프로젝트 객체로 조립되고, Fine-Tuning(LoRA) · Deep Learning(MRL, GradNorm, TAG) · Machine Learning(RPF, DSM, QUBO) · Hybrid RAG가 순서대로 맞물려 부서별 태스크 우선순위(가중치 %)와 프로젝트 간 상관계수(Co-relation %)를 실시간 산출함으로써, 다중 프로젝트(Multi-Projects)가 동시에 생성·관리되는 구조입니다. 전체 시스템이 소프트웨어 내부에서 작동하는 (1) 알고리즘 흐름도(Architecture Flow), 실제 사업 아이디어가 수십 개 프로젝트로 확산되는 (2) 단계별 실시간 시뮬레이션(Step-by-Step Simulation), 그리고 (3) 한눈에 보는 기술별 핵심 역할 요약표를 구조화했습니다."
+  },
+  "CHAPTER 1 • END-TO-END ALGORITHMIC ARCHITECTURE FLOW": {
+    "ko": "제1장 • QUBIT ALGORITHM™ 엔드투엔드 알고리즘 작동 흐름도"
+  },
+  "1. Qubit Algorithm™ End-to-End Algorithmic Architecture Flow": {
+    "ko": "1. Qubit Algorithm™ 엔드투엔드 알고리즘 작동 흐름도"
+  },
+  "From the moment a founder enters a single operational line into CEO ActionNote to simultaneous multi-project execution and t = 0 split settlement, the software pipeline executes the following closed-loop architecture:": {
+    "ko": "대표님의 한 줄 아이디어 입력(CEO ActionNote)부터 다중 프로젝트 동시 실행 및 t = 0 실시간 분할 정산까지 소프트웨어 내부에서 작동하는 엔드투엔드 알고리즘 파이프라인은 다음과 같습니다:"
+  },
+  "QUBIT ALGORITHM™ END-TO-END SOFTWARE EXECUTION FLOWCHART": {
+    "ko": "QUBIT ALGORITHM™ 엔드투엔드 소프트웨어 작동 흐름도"
+  },
+  "CHAPTER 2 • STEP-BY-STEP LIVE EXECUTION SIMULATION": {
+    "ko": "제2장 • 단계별 실시간 작동 시뮬레이션 (LIVE EXECUTION SIMULATION)"
+  },
+  "2. Step-by-Step Live Execution Simulation (Korea–Indonesia Corridor)": {
+    "ko": "2. 단계별 실시간 작동 시뮬레이션 (Live Execution Simulation)"
+  },
+  "Applying a real-world *SC Korea–Indonesia business scenario demonstrates exactly what inputs the algorithm ingests at each stage and what numerical weights, correlations, and execution outputs it produces:": {
+    "ko": "실제 *SC의 한–인도네시아 비즈니스 시나리오를 대입하여, 알고리즘이 매 단계 어떤 입력을 받아 어떤 숫자와 결과물을 뱉어내는지 시뮬레이션한 과정입니다:"
+  },
+  "STAGE 0 & STAGE 1 • ONE SPARK INPUT & LoRA SFT STRUCTURING": {
+    "ko": "STAGE 0 & STAGE 1 • 아이디어 입력(ONE SPARK) 및 LoRA SFT 프로젝트 구조화"
+  },
+  "From Founder Memo to 8-Department Task Modules": {
+    "ko": "한 줄 아이디어 입력에서 8대 부서 × 6대 AI 센터 표준 태스크 분해까지"
+  },
+  "• [Stage 0] Idea Input (One Spark): The founder enters into CEO ActionNote — “Launch Korean veterinary POCT rapid diagnostic kits (Sistar Medix) across 500 veterinary clinics in Indonesia. Set initial capital outlay at $0 and target Gross Margin (GM) at 55%+.” • [Stage 1] Project Genesis & Task Decomposition (Fine-Tuning: LoRA SFT): Active Module: AI Command Center (Scarlet AI / Qubit Biz). AI Mechanism: A model fine-tuned on the Qubit Master JSON schema parses the natural-language memo to instantiate canonical project P-01 (Sistar Medix ID) and assigns standardized Task Modules: – [RA / Licensing]: Indonesian Ministry of Agriculture & BPOM import permit and HS code locking (SCK + SCI). – [Finance]: 50% upfront deposit + K-SURE export credit insurance + 70/30 PG split settlement webhook integration (SCS + SCK). – [SCM / Logistics]: Packaging sourcing (SCC) and 3-month Rolling Purchase Forecast (RPF) volume aggregation (SCI). – [Marketing & Sales]: SISTAR Studio production of 10 Bahasa Indonesia demo short-forms and targeted dispatch to 500 clinics (SCI).": {
+    "ko": "• [Stage 0] 아이디어 입력 (One Spark): 대표님이 CEO ActionNote에 입력 — \"한국산 반려동물 POCT 신속진단키트(Sistar Medix)를 인도네시아 동물병원 500곳에 런칭하자. 초기 자본 투입 $0, 목표 매출총이익률(GM) 55% 이상으로 세팅해.\" • [Stage 1] 프로젝트 생성 및 카테고리별 Task 분해 (Fine-Tuning: LoRA SFT): AI Command Center(Scarlet AI / Qubit Biz)의 LoRA 모델이 자연어를 파싱하여 표준 프로젝트 P-01(Sistar Medix ID)을 생성하고 부서별 할 일을 자동 배정합니다: – [RA / 인허가] 인니 농림부·식약처(BPOM) 수입 품목허가 및 HS 코드 확정 (SCK + SCI) – [Finance / 재무] 50% 선금 + K-SURE 수출신용보증 + 70/30 PG 웹훅 스플릿 계좌 연동 (SCS + SCK) – [SCM / 물류] 패키지 소싱(SCC) 및 3개월 순환구매예측(RPF) 물량 집적 (SCI) – [Marketing & Sales] SISTAR Studio 인니어 시연 숏폼 10종 제작 및 500개 병원 타겟 발송 (SCI)."
+  },
+  "STAGE 2 & STAGE 3 • MRL + HYBRID RAG & GRADNORM PRIORITY WEIGHTS": {
+    "ko": "STAGE 2 & STAGE 3 • MRL 벡터화·HYBRID RAG 및 GRADNORM 우선순위 가중치(%) 연산"
+  },
+  "1,024d Vectorization & Intra-Project Weight % Calibration": {
+    "ko": "1,024차원 파라미터 수치화 및 프로젝트 내부 부서별 우선순위 가중치(%) 산출"
+  },
+  "• [Stage 2] Parameter Quantification & Live Evidence Mapping (DL: MRL + Hybrid RAG): Active Module: AI Data Center + AI Analysis Center. AI Mechanism: (1) MRL Vectorization encodes all departmental/individual task texts into 1,024-dimensional numerical vectors. (2) Hybrid RAG Lookup retrieves local Indonesian competitor POCT wholesale prices and tariff rates via Vector RAG, while GraphRAG traces multi-hop links (“Indonesian Vet Clinic Licensing → Cold-Chain & Sachet Logistics Sharing”). • [Stage 3] Intra-Project Priority Weight % Computation (DL: GradNorm + ML: RPF): Active Module: AI Analysis Center (Qubit Weight Engine). AI Mechanism: To prevent AI attention from skewing toward fast-finishing tasks (video creation), GradNorm boosts the gradient weight of high-difficulty bottleneck tasks (RA, Finance) so P-01 departmental weights sum to 100%: 1. Rank 1 (34%) — [RA] Indonesian Licensing & Customs Approval: Primary bottleneck gate (failure zeroes the entire project). 2. Rank 2 (26%) — [Finance] 50% Deposit + 70/30 PG + K-SURE Setup: Core enabler of the $0 initial capital (Quantum Tunneling) rule. 3. Rank 3 (22%) — [SCM] 3-Month RPF Demand Aggregation & COGS Lock: Secures volume and defends the 55% gross margin. 4. Rank 4 (18%) — [Marketing / Sales] 10 Short-Forms & B2B Proposal Dispatch: Executes demand conversion.": {
+    "ko": "• [Stage 2] 파라미터 수치화 및 실시간 근거 매핑 (DL: MRL + Hybrid RAG): (1) MRL 벡터화가 모든 부서·개인 태스크 텍스트를 1,024차원 숫자 벡터로 변환합니다. (2) Vector RAG가 인니 현지 경쟁사 진단키트 도매가와 관세율을 인출하고, GraphRAG가 '인니 동물병원 인허가 → 콜드체인·사쉐 물류망 공유'의 다중 홉 연결 고리를 찾아냅니다. • [Stage 3] 태스크 우선순위(가중치 %) 연산 (DL: GradNorm + ML: RPF 예측): 단순 영상 제작처럼 빨리 끝나는 태스크에 AI가 쏠리는 현상을 막기 위해 GradNorm 알고리즘이 고난도 병목 태스크(RA, Finance)의 비중을 끌어올려 합계 100%의 동적 가중치를 부여합니다: 1. 1순위 (34%) — [RA] 인니 인허가 및 통관 승인 (최우선 병목 게이트) 2. 2순위 (26%) — [Finance] 50% 선금 + 70/30 PG + K-SURE 세팅 (초기 자본 $0 원칙 구현 핵심) 3. 3순위 (22%) — [SCM] 3개월 RPF 수요 집적 및 원가 확정 (마진 55% 방어) 4. 4순위 (18%) — [Marketing / Sales] 숏폼 10종 배포 및 B2B 제안서 발송."
+  },
+  "STAGE 4 • CROSS-PROJECT CO-RELATION % MATRIX (DL: TAG + ML: DSM)": {
+    "ko": "STAGE 4 • 교차 프로젝트 상관계수(CO-RELATION %) 산출 (DL: TAG + ML: DSM)"
+  },
+  "Real-Time Multi-Project Synergy & Negative-Transfer Detection": {
+    "ko": "다중 프로젝트 실시간 Co-relation % 매트릭스 및 음수 전이(Negative Transfer) 탐지"
+  },
+  "• Active Module: AI Analysis Center (Cross-Project Entanglement Engine). • AI Mechanism: The moment P-01 launches, the MRL 128-dim fast filter and TAG (Task Affinity Grouping) deep-learning engine evaluate interactions across dozens of active Biz-Galaxy projects to compute Co-relation % (the degree to which executing P-01 reduces cost and boosts revenue for other projects): – P-01 Sistar Medix (POCT Diagnostic Kits): 100% (Anchor Project — Immediate Launch). – P-02 SisPet (Veterinary Prescription Diet & Supplements): 88% — Directly shares P-01’s 500 Indonesian vet clinic DB and remaining 30% ocean container space for zero-CAC bundled delivery (TAG > 0, Strong Positive Transfer). – P-03 SisPharm (Nutraceutical Sachet ODM): 82% — Shares local medical distribution license nodes and the Rp 1,320 local sachet packaging line (TAG > 0, Positive Transfer). – P-09 SisLoa (Fashion & Apparel): 14% — Distribution channel and target customer vectors do not align. – P-12 Ultra-Low-Price Dumping Promo: 61% (Warning: TAG = -0.32 Negative Transfer Detected) — Appears similar in short-term volume but erodes P-01’s premium medical device brand pricing.": {
+    "ko": "• 가동 모듈: AI Analysis Center (Cross-Project Entanglement Engine). • AI 작동 원리: P-01 가동 즉시 MRL 128차원 고속 필터와 TAG(태스크 친화도 그룹핑) 엔진이 기존 Biz-Galaxy 등록 프로젝트들과의 상호작용을 계산해 Co-relation %를 산출합니다: – P-01 Sistar Medix (POCT 진단키트): 100% (기준 프로젝트 — 즉시 가동) – P-02 SisPet (반려동물 처방사료·영양제): 88% — P-01이 확보한 인니 동물병원 500곳 DB와 해상 컨테이너 잔여 공간(30%)을 공유해 추가 영업비 없이 동시 납품 가능 (TAG > 0, 강한 긍정 전이) – P-03 SisPharm (건강기능식품 사쉐 ODM): 82% — 현지 의약품 유통 라이선스 노드 및 Rp 1,320 현지 사쉐 패키징 공정 공유 (TAG > 0, 긍정 전이) – P-09 SisLoa (패션·의류): 14% — 유통 채널 및 타겟 고객 벡터 불일치 – P-12 초저가 덤핑 프로모션: 61% (단, TAG = -0.32 음수 전이 감지 — 단기 매출은 비슷하나 P-01의 프리미엄 의료기기 브랜드 단가를 훼손하는 위험 연결로 판정)."
+  },
+  "STAGE 5 & STAGE 6 • HARD FIREWALL, QUBO & t = 0 AUTONOMOUS EXECUTION": {
+    "ko": "STAGE 5 & STAGE 6 • 상쇄 간섭 방화벽·QUBO 최적화 및 t = 0 무인 동시 실행"
+  },
+  "Destructive Interference Gating & Simultaneous Multi-Outcome Dispatch": {
+    "ko": "위험 연결 0% 원천 차단 및 웹·미디어·70/30 PG 실시간 동시 집행"
+  },
+  "• [Stage 5] Destructive Interference Firewall & QUBO Optimization (AI Risk Management Center): 1. Hard Firewall: Immediately zeroes out (0%) P-09 (14% < 25% threshold) and P-12 (TAG = -0.32 ≤ 0 negative transfer), excluding them from execution. 2. QUBO Combinatorial Optimization (ML): For the surviving P-01 (100%) + P-02 (88%) + P-03 (82%) tri-project cluster, locks the optimal order and dispatch schedule maximizing net profit under available warehouse capacity (Space Bank) and K-SURE credit limits in 0.1 seconds. • [Stage 6] Autonomous Simultaneous Execution & t = 0 Settlement (Distilled Ollama LoRA + Web/Media Centers): – Web / Commerce Deploy: Qubit Factory auto-updates the Indonesian vet B2B portal with an integrated bundle page combining P-01 (POCT Kit) + P-02 (Prescription Diet) + P-03 (Sachet Supplement). – Media / Sales Dispatch: SISTAR Studio auto-dispatches bundled B2B proposal PDFs and Bahasa short-form videos to 500 clinics via WhatsApp. – t = 0 Simultaneous Clearing: The instant a clinic pays on the portal (t = 0), the 70/30 PG webhook splits settlement across the Korean manufacturer (SCK), *SC HQ (SCS), and Indonesian partner (SCI), updating live progress and daily NAV on the C-Suite dashboard.": {
+    "ko": "• [Stage 5] 상쇄 간섭 방화벽 & 최적 조합 확정 (AI Risk Management Center + ML: QUBO): 1. 하드 제약 방화벽: 상관계수가 임계치(25%) 미만인 P-09(14%)와 음수 전이(TAG <= 0)가 감지된 P-12를 즉시 0%로 상쇄 간섭 처리하여 원천 배제합니다. 2. QUBO 조합 최적화: 방화벽을 통과한 P-01(100%) + P-02(88%) + P-03(82%) 3개 프로젝트 묶음에 대해 가용 창고 공간(Space Bank)과 K-SURE 한도 내에서 총이익을 극대화하는 실행 스케줄을 0.1초 만에 확정합니다. • [Stage 6] 무인 동시 실행 및 t = 0 정산 (Distilled Ollama LoRA + Web/Media Center): – 웹/커머스 배포: Qubit Factory가 인니 수의사 전용 B2B 포털에 P-01 + P-02 + P-03 통합 번들 페이지를 자동 업데이트합니다. – 미디어/영업 집행: SISTAR Studio가 3개 제품 결합 B2B 제안서 PDF와 인니어 숏폼 영상을 500개 병원 왓츠앱으로 자동 발송합니다. – t = 0 동시 정산: 병원 결제 즉시(t = 0) 70/30 PG 웹훅이 한국 제조사(SCK), *SC 본사(SCS), 인니 파트너(SCI) 계좌로 수익을 분할 정산하고 C-Suite 대시보드에 진행률과 일일 NAV를 동시 갱신합니다."
+  },
+  "CHAPTER 3 • MASTER TECHNOLOGY & AI CENTER ROLE MATRIX": {
+    "ko": "제3장 • 한눈에 보는 기술별 핵심 역할 요약표"
+  },
+  "3. At-a-Glance Summary Matrix of Core Technologies by Stage": {
+    "ko": "3. 한눈에 보는 기술별 핵심 역할 요약표"
+  },
+  "Stage": {
+    "ko": "단계"
+  },
+  "Core Operational Question (“What Does It Do?”)": {
+    "ko": "핵심 질문 (\"무엇을 하는가?\")"
+  },
+  "Primary AI Technology": {
+    "ko": "주력 AI 기술"
+  },
+  "Responsible *SC AI Center": {
+    "ko": "담당 *SC AI Center"
+  },
+  "1. Genesis": {
+    "ko": "1. 생성"
+  },
+  "How is a raw idea decomposed into a standardized project object?": {
+    "ko": "아이디어를 어떻게 표준 프로젝트로 쪼개는가?"
+  },
+  "Fine-Tuning (LoRA JSON Schema Locking)": {
+    "ko": "Fine-Tuning (LoRA JSON 스키마 고정)"
+  },
+  "2. Quantification": {
+    "ko": "2. 수치화"
+  },
+  "How are unstructured tasks and live market data converted into numbers?": {
+    "ko": "할 일과 시장 데이터를 어떻게 숫자로 바꾸는가?"
+  },
+  "Deep Learning (MRL Embedding) + Hybrid RAG": {
+    "ko": "Deep Learning (MRL 임베딩) + Hybrid RAG"
+  },
+  "AI Data Center": {
+    "ko": "AI Data Center"
+  },
+  "3. Weighting (%)": {
+    "ko": "3. 가중치"
+  },
+  "Which department and task is the most urgent, high-leverage bottleneck?": {
+    "ko": "어떤 부서·태스크가 가장 시급하고 중요한가?"
+  },
+  "Deep Learning (GradNorm) + ML (RPF Forecast)": {
+    "ko": "Deep Learning (GradNorm) + ML (RPF 예측)"
+  },
+  "AI Analysis Center": {
+    "ko": "AI Analysis Center"
+  },
+  "4. Entanglement (%)": {
+    "ko": "4. 얽힘(%)"
+  },
+  "Which existing projects share what % of positive synergy with this project?": {
+    "ko": "이 프로젝트가 다른 어떤 프로젝트와 몇 % 시너지가 나는가?"
+  },
+  "Deep Learning (TAG) + ML (DSM Graph)": {
+    "ko": "Deep Learning (TAG) + ML (DSM 그래프)"
+  },
+  "5. Governance": {
+    "ko": "5. 통제"
+  },
+  "How are risky or margin-eroding cross-project links blocked?": {
+    "ko": "위험하거나 마진을 깎아먹는 연결은 어떻게 막는가?"
+  },
+  "Hard Firewall (Destructive Interference) + ML (QUBO)": {
+    "ko": "Hard Firewall (상쇄 간섭) + ML (QUBO 최적화)"
+  },
+  "6. Execution": {
+    "ko": "6. 실행"
+  },
+  "How are web portals, media assets, and t = 0 clearing dispatched at ultra-low cost?": {
+    "ko": "어떻게 저비용으로 웹·미디어·정산을 동시 집행하는가?"
+  },
+  "Fine-Tuning (Local Ollama Distillation) + Multimodal DL": {
+    "ko": "Fine-Tuning (로컬 Ollama 증류) + Multimodal DL"
+  },
+  "AI Web Working / Media Center": {
+    "ko": "AI Web Working / Media Center"
+  },
+  "By engineering the software along this exact 6-stage pipeline, executive leadership never needs to micromanage dozens of individual projects day to day—controlling the entire enterprise solely through initial One Spark inputs and C-Suite dashboard oversight of Co-relation (%) and Hard Firewall approvals.": {
+    "ko": "이 흐름대로 소프트웨어를 구축하면 대표님께서는 매일 수십 개의 프로젝트를 일일이 관리하실 필요 없이, 초기 One Spark 입력과 C-Suite 대시보드의 상관계수(%) 및 방화벽 승인만 통제하시면 됩니다."
   }
 };
