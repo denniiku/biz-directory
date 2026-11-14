@@ -256,7 +256,7 @@
 ## [MANDATORY RULE] Standard L3 Monograph & Report Generation Protocol & Top-Route Auto-Linking
 
 1. **Zero-Error L3 Page Generation via Canonical Shell Cloning:**
-   - Whenever the user requests a new 2nd-level (`🔸`) or 3rd-level (`▫️`) HTML page (academic paper, consulting monograph, or executive business report), ALWAYS generate it in **100% Executive/Academic English** by cloning the exact `<head>` CSS and `<main class="sc-monograph">` / `<article class="sc-chapter">` structural shell from `qubit-algorithm/01_one-spark-infinite-galaxifying/01_paper-biz-quantum-mechanics/index.html`.
+   - Whenever the user requests a new 2nd-level (`🔸`) or 3rd-level (`▫️`) HTML page (academic paper, consulting monograph, or executive business report), ALWAYS generate it in **100% Executive/Academic English** by cloning the exact `<head>` CSS and `<main class="sc-monograph">` / `<article class="sc-chapter">` structural shell from `qubit-algorithm/01_one-spark-infinite-galaxifying/01_biz-with-quantum-mechanics/index.html`.
    - NEVER invent ad-hoc layout wrappers or inject custom global navigation/sidebar CSS into individual HTML files.
    - Name the folder using the two-digit prefix convention (`01_...`, `02_...`, `03_...`) so `build_nav_new.ps1` automatically formats the `▫️` navigator label.
    - Immediately after creating or renaming any folder/HTML, execute `build_nav_new.ps1` and `sync_all.ps1` (with `$env:GEMINI_API_KEY = $null` when batch translation is deferred) to update `nav_new.js`, mirror `common_assets`, and push to GitHub in one atomic operation.

@@ -147,9 +147,14 @@
     for (var i = 0; i < elements.length; i++) {
       var el = elements[i];
       if (el.closest("#sc-left-nav") || el.closest(".notranslate") || el.closest("[translate='no']") || el.closest("svg") || el.closest("pre")) continue;
-      if (el.classList && (el.classList.contains("notranslate") || el.classList.contains("sc-route") || el.classList.contains("sc-math-code") || el.classList.contains("sc-kpi-val"))) continue;
+      if (el.classList && (el.classList.contains("notranslate") || el.classList.contains("sc-route") || el.classList.contains("sc-kpi-val"))) continue;
 
-      if (el.querySelector("article, section, div, table, ul, ol, p, h1, h2, h3, h4, h5, h6, svg, pre")) continue;
+      // 이미 상위 원자 블록(p, li, td, th, h1~h6, blockquote, figcaption)이 번역 처리된 경우 내부 자식 태그(strong, code, span 등)는 건너뛰어 덮어쓰기 충돌 방지
+      var parentTranslated = el.parentElement ? el.parentElement.closest("[data-sc-translated='1']") : null;
+      if (parentTranslated && parentTranslated !== el) continue;
+
+      // 내부에 다른 블록 요소가 들어있는 컨테이너(div, section 등)는 건너뛰고 실제 텍스트 블록만 타겟팅
+      if (el.querySelector("article, section, div, table, thead, tbody, tr, ul, ol, p, li, td, th, h1, h2, h3, h4, h5, h6, blockquote, figcaption, svg, pre")) continue;
 
       if (!el.hasAttribute("data-sc-orig-html")) {
         var normOrig = normalizeText(el.textContent || "");
@@ -160,6 +165,7 @@
       }
 
       if (targetCode === "en") {
+        el.removeAttribute("data-sc-translated");
         var origHtml = el.getAttribute("data-sc-orig-html");
         if (origHtml !== null && el.innerHTML !== origHtml) {
           el.innerHTML = origHtml;
@@ -170,6 +176,7 @@
         var entry = exactDictCache[nKey] || (cKey ? canonDictCache[cKey] : null);
         if (entry && entry[targetCode]) {
           el.textContent = entry[targetCode];
+          el.setAttribute("data-sc-translated", "1");
         }
       }
     }

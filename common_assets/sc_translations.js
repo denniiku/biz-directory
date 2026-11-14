@@ -5187,7 +5187,7 @@ window.SC_TRANSLATIONS = {
     "ja": "メンバーベネフィット概要"
   },
   "Shared Budget": {
-    "ko": "Shared Budget",
+    "ko": "공동 예산",
     "id": "Shared Budget",
     "vi": "Shared Budget",
     "zh-CN": "Shared Budget",
@@ -5775,7 +5775,7 @@ window.SC_TRANSLATIONS = {
     "ja": "すべての評価はGoogle Workspace内のAIツールを活用して透明性高く管理され、次の6つの指標に基づき四半期ごとに更新されます：% Sharing from Sales Revenue（売上分配比率）、% For Expense Budget Allocation（経費予算配分率）、% Tasks Done（タスク完了率）、% Contribution to Project (Tasks/Time/Weight)（プロジェクト貢献度）、% Performance vs. Tasks（タスク対比成果率）、% Total Pie for Each Member（メンバー別総配分比率）。"
   },
   "Project Leaders": {
-    "ko": "Project Leaders",
+    "ko": "프로젝트 리더",
     "id": "Project Leaders",
     "vi": "Project Leaders",
     "zh-CN": "Project Leaders",
@@ -5789,7 +5789,7 @@ window.SC_TRANSLATIONS = {
     "ja": "プロジェクトチームを牽引し、タスクを統括管理しながら、SISTARの挑戦的な目標と厳格な品質基準の継続的な達成を担保します。"
   },
   "Specialist Challengers": {
-    "ko": "Specialist Challengers",
+    "ko": "스페셜리스트 챌린저",
     "id": "Specialist Challengers",
     "vi": "Specialist Challengers",
     "zh-CN": "Specialist Challengers",
@@ -5803,7 +5803,7 @@ window.SC_TRANSLATIONS = {
     "ja": "独自の高度な専門性をプロジェクトに直接適用し、クロスファンクショナルなチームと緊密に連携してインパクトの大きい成果を創出します。"
   },
   "HQ Operations": {
-    "ko": "HQ Operations",
+    "ko": "본사 오퍼레이션 본부",
     "id": "HQ Operations",
     "vi": "HQ Operations",
     "zh-CN": "HQ Operations",
@@ -5817,7 +5817,7 @@ window.SC_TRANSLATIONS = {
     "ja": "全社のコアオペレーションを推進し、エコシステム内の多様なプロジェクトやビジネスグループ間を横断的につなぐ架け橋を担います。"
   },
   "Area Managers": {
-    "ko": "Area Managers",
+    "ko": "지역 총괄 매니저",
     "id": "Area Managers",
     "vi": "Area Managers",
     "zh-CN": "Area Managers",
@@ -6370,7 +6370,7 @@ window.SC_TRANSLATIONS = {
     "ja": "SISTAR Royalty Ranks — SISTARにおける成長の歩み"
   },
   "Strategic Leadership": {
-    "ko": "Strategic Leadership",
+    "ko": "전략적 리더십",
     "id": "Strategic Leadership",
     "vi": "Strategic Leadership",
     "zh-CN": "战略领袖 (Strategic Leadership)",
@@ -6384,7 +6384,7 @@ window.SC_TRANSLATIONS = {
     "ja": "完全招待制（By invitation）。戦略立案への参画権、SISTAR Baseを統括する資格、および最高ティアの利益分配（profit-sharing）を付与。"
   },
   "Senior Specialist": {
-    "ko": "Senior Specialist",
+    "ko": "시니어 스페셜리스트",
     "id": "Senior Specialist",
     "vi": "Senior Specialist",
     "zh-CN": "资深专家 (Senior Specialist)",
@@ -6398,7 +6398,7 @@ window.SC_TRANSLATIONS = {
     "ja": "12か月以上の参画および2つ以上の主要プロジェクト実績。年次SISTAR Summit（バリ島リトリート含む）への招待、有料ワークショップ主催資格を付与。"
   },
   "Proven Builder": {
-    "ko": "Proven Builder",
+    "ko": "검증된 빌더",
     "id": "Proven Builder",
     "vi": "Proven Builder",
     "zh-CN": "资深构建者 (Proven Builder)",
@@ -6412,7 +6412,7 @@ window.SC_TRANSLATIONS = {
     "ja": "6か月以上の継続的なコミットメント。専用バッジの付与、重要プロジェクトへの優先配属権、および高度なワークショップへのアクセスを提供。"
   },
   "Active Member": {
-    "ko": "Active Member",
+    "ko": "액티브 멤버",
     "id": "Active Member",
     "vi": "Active Member",
     "zh-CN": "活跃成员 (Active Member)",
@@ -10794,7 +10794,7 @@ window.SC_TRANSLATIONS = {
     "ja": "プロジェクトの進捗をリアルタイムで追跡し、パフォーマンス評価に用いるデータを提供します。プロジェクトの健全性を可視化する透明性の高いウィンドウです。"
   },
   "Paradigm Shift": {
-    "ko": "Paradigm Shift",
+    "ko": "패러다임 전환",
     "id": "Paradigm Shift",
     "vi": "Paradigm Shift",
     "zh-CN": "范式转变 (Paradigm Shift)",
@@ -10808,7 +10808,7 @@ window.SC_TRANSLATIONS = {
     "ja": "AIのメガトレンドが全産業を再編する中、未来の成長とイノベーションに向けた新たなモデルを能動的に受容します。"
   },
   "Doubt to Action": {
-    "ko": "Doubt to Action",
+    "ko": "의구심에서 실행으로",
     "id": "Doubt to Action",
     "vi": "Doubt to Action",
     "zh-CN": "Doubt to Action",
@@ -10822,7 +10822,7 @@ window.SC_TRANSLATIONS = {
     "ja": "「Just Do It」の実行マインドセットを通じ、不確実性を果断かつインパクトのあるイニシアチブへと転換します。"
   },
   "New Work Methods": {
-    "ko": "New Work Methods",
+    "ko": "차세대 업무 방식",
     "id": "New Work Methods",
     "vi": "New Work Methods",
     "zh-CN": "全新工作模式 (New Work Methods)",
@@ -10836,7 +10836,7 @@ window.SC_TRANSLATIONS = {
     "ja": "生産性と個人の自律性を最大化する、柔軟な Remote-first 協働戦略を採用します。"
   },
   "AI for AI Systems": {
-    "ko": "AI for AI Systems",
+    "ko": "AI를 위한 AI 시스템",
     "id": "AI for AI Systems",
     "vi": "AI for AI Systems",
     "zh-CN": "AI for AI Systems",
@@ -10850,7 +10850,7 @@ window.SC_TRANSLATIONS = {
     "ja": "人工知能を活用してインテリジェントシステムを構築・最適化し、自律運用を実現する――すなわち「AIのためのAI（AI for AI）」を具現化します。"
   },
   "Pipeline & Projects": {
-    "ko": "Pipeline & Projects",
+    "ko": "파이프라인 & 프로젝트",
     "id": "Pipeline & Projects",
     "vi": "Pipeline & Projects",
     "zh-CN": "Pipeline & Projects",
@@ -10864,7 +10864,7 @@ window.SC_TRANSLATIONS = {
     "ja": "Pipeline：戦略的機会の特定とスクリーニング。Projects：明確な Deliverables を伴う計画と実行。"
   },
   "Development & Management": {
-    "ko": "Development & Management",
+    "ko": "개발 & 매니지먼트",
     "id": "Development & Management",
     "vi": "Development & Management",
     "zh-CN": "Development & Management",
@@ -10878,7 +10878,7 @@ window.SC_TRANSLATIONS = {
     "ja": "Development：プロダクト、サービス、戦略の高度化。Management：目標達成に向けたリソースおよびチームの統括・調整。"
   },
   "Contents & Platforms": {
-    "ko": "Contents & Platforms",
+    "ko": "콘텐츠 & 플랫폼",
     "id": "Contents & Platforms",
     "vi": "Contents & Platforms",
     "zh-CN": "Contents & Platforms",
@@ -11200,7 +11200,7 @@ window.SC_TRANSLATIONS = {
     "ja": "ランナー仲間と繋がり、トレーニングの秘訣を共有しながらバーチャルレースに挑戦。"
   },
   "SISTAR Mindfulness": {
-    "ko": "SISTAR Mindfulness",
+    "ko": "SISTAR 마인드풀니스",
     "id": "SISTAR Mindfulness",
     "vi": "SISTAR Mindfulness",
     "zh-CN": "SISTAR Mindfulness",
@@ -11214,7 +11214,7 @@ window.SC_TRANSLATIONS = {
     "ja": "心理的安全性が確保された空間で提供される、ガイド付き瞑想セッションとメンタルウェルネス支援。"
   },
   "Gaming Hub": {
-    "ko": "Gaming Hub",
+    "ko": "게이밍 허브",
     "id": "Gaming Hub",
     "vi": "Gaming Hub",
     "zh-CN": "Gaming Hub",
@@ -11228,7 +11228,7 @@ window.SC_TRANSLATIONS = {
     "ja": "トーナメントを企画し、デジタル上の冒険を通じて世界中の同僚と親睦を深化。"
   },
   "Learning Circle": {
-    "ko": "Learning Circle",
+    "ko": "러닝 서클",
     "id": "Learning Circle",
     "vi": "Learning Circle",
     "zh-CN": "Learning Circle",
@@ -11242,7 +11242,7 @@ window.SC_TRANSLATIONS = {
     "ja": "知見の共有や業界トレンドの議論を通じ、ピアラーニングによって共に成長。"
   },
   "Creative Corner": {
-    "ko": "Creative Corner",
+    "ko": "크리에이티브 코너",
     "id": "Creative Corner",
     "vi": "Creative Corner",
     "zh-CN": "Creative Corner",
@@ -11256,7 +11256,7 @@ window.SC_TRANSLATIONS = {
     "ja": "クリエイティブな才能を発揮し、専門分野を越えた共創プロジェクトを推進。"
   },
   "Track 1: Core Challenger Training": {
-    "ko": "Track 1: Core Challenger Training",
+    "ko": "트랙 1: 코어 챌린저 트레이닝",
     "id": "Track 1: Core Challenger Training",
     "vi": "Track 1: Đào tạo Core Challenger",
     "zh-CN": "Track 1：Core Challenger 核心人才实训",
@@ -11284,7 +11284,7 @@ window.SC_TRANSLATIONS = {
     "ja": "Module 3 — 革新者のマインドセット：Idea Factory ワークショップ、レベニューシェアモデル、およびデジタルマーケティングの基礎。"
   },
   "Track 2: AI Specialist Academic Program (3 Tiers)": {
-    "ko": "Track 2: AI Specialist Academic Program (3단계)",
+    "ko": "트랙 2: AI 스페셜리스트 아카데믹 프로그램 (3개 티어)",
     "id": "Track 2: AI Specialist Academic Program (3 Jenjang)",
     "vi": "Track 2: Chương trình học thuật AI Specialist (3 cấp độ)",
     "zh-CN": "Track 2：AI Specialist 专业学术培养计划（三阶段）",
@@ -11424,7 +11424,7 @@ window.SC_TRANSLATIONS = {
     "ja": "大韓民国の法令に準拠します。連絡先：DennyKu (denniiku@sistarcompany.com) &bull; Team SISTAR, PT. SISTAR Indonesia。ウェルカムワークショップ：隔週金曜日 19:00 KST。"
   },
   "AI Management": {
-    "ko": "AI Management",
+    "ko": "AI 매니지먼트",
     "id": "AI Management",
     "vi": "AI Management",
     "zh-CN": "AI Management",
@@ -11438,7 +11438,7 @@ window.SC_TRANSLATIONS = {
     "ja": "一過性のブームを超えて。組織の効率性とインパクトを最大化するために、AIシステムを戦略的に統合・管理する手法を習得します。"
   },
   "AI Business Development": {
-    "ko": "AI Business Development",
+    "ko": "AI 비즈니스 개발",
     "id": "AI Business Development",
     "vi": "AI Business Development",
     "zh-CN": "AI Business Development",
@@ -11452,7 +11452,7 @@ window.SC_TRANSLATIONS = {
     "ja": "人工知能を活用した新たな収益ストリーム、プロダクト、サービスの特定と立ち上げ手法を体得します。"
   },
   "Cross-Border eCommerce": {
-    "ko": "Cross-Border eCommerce",
+    "ko": "크로스보더 이커머스",
     "id": "Cross-Border eCommerce",
     "vi": "Cross-Border eCommerce",
     "zh-CN": "Cross-Border eCommerce",
@@ -11522,7 +11522,7 @@ window.SC_TRANSLATIONS = {
     "ja": "自らの専門分野の最前線で常に成長を続け、時代の先頭に立ち続けたいという揺るぎない探求心を持つ方。"
   },
   "Welcome & Onboarding": {
-    "ko": "Welcome & Onboarding",
+    "ko": "웰컴 & 온보딩",
     "id": "Welcome & Onboarding",
     "vi": "Welcome & Onboarding",
     "zh-CN": "Welcome & Onboarding",
@@ -11550,7 +11550,7 @@ window.SC_TRANSLATIONS = {
     "ja": "拘束的な勤務時間、物理的な出社義務、マイクロマネジメントは一切ありません。自らのスケジュールを主導し、創出した価値によって成功を定義してください。"
   },
   "Openness, Psychological Safety & AI Core": {
-    "ko": "Openness, Psychological Safety & AI Core",
+    "ko": "개방성, 심리적 안정감 및 AI 코어",
     "id": "Keterbukaan, Rasa Aman Psikologis & AI Core",
     "vi": "Sự cởi mở, An toàn tâm lý & AI Core",
     "zh-CN": "开放性、心理安全感与 AI Core",
@@ -11704,7 +11704,7 @@ window.SC_TRANSLATIONS = {
     "ja": "デジタルインフラストラクチャ：ヘルプデスク＆ネットワーク（ルーター、ファイアウォール、接続性）、セキュリティ＆インフラ（サイバーセキュリティポリシー、AWS/Azure/GCPクラウド管理、ディザスタリカバリ）、データ＆アプリケーション（データベース、ソフトウェアライフサイクル、ITガバナンス）。"
   },
   "Your Space, Your Rules": {
-    "ko": "Your Space, Your Rules",
+    "ko": "당신의 공간, 당신의 룰",
     "id": "Your Space, Your Rules",
     "vi": "Không gian của bạn, Quy tắc của bạn",
     "zh-CN": "自主空间，自定准则 (Your Space, Your Rules)",
@@ -14693,7 +14693,7 @@ window.SC_TRANSLATIONS = {
     "ja": "12のWebポータルを統括するコア軌道ドメインエンジン"
   },
   "SCK • SCI • SCV • SCJ • SCC • SCU • SG • IN Corridors": {
-    "ko": "SCK • SCI • SCV • SCJ • SCC • SCU • SG • IN 복도",
+    "ko": "SCK • SCI • SCV • SCJ • SCC • SCU • SG • IN 코리도",
     "id": "SCK • SCI • SCV • SCJ • SCC • SCU • SG • DI Koridor",
     "vi": "SCK · SCI · SCV · SCJ · SCC · SCU · SG · TRONG Hành lang",
     "zh-CN": "SCK • SCI • SCV • SCJ • SCC • SCU • SG • IN 走廊",
@@ -29495,7 +29495,7 @@ window.SC_TRANSLATIONS = {
     "ja": "卸売スポット価格およびバイラル・コマース・シグナル"
   },
   "SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio": {
-    "ko": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo 및 SISTAR Studio",
+    "ko": "SC 차이나 (1688/심천), TikTok/Shopee/Zalo 및 SISTAR Studio",
     "id": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio",
     "vi": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio",
     "zh-CN": "*SC 中国 (1688/深圳), TikTok/Shopee/Zalo & SISTAR Studio",
@@ -29880,7 +29880,7 @@ window.SC_TRANSLATIONS = {
     "ja": "コアピラー • 財務の軌跡、20の B2B オファー ＆ 無人メディア"
   },
   "ZERO-CAC MATHEMATICS • SISTAR STUDIO & SIGNAL STAR POST": {
-    "ko": "ZERO-CAC 수학 • SISTAR STUDIO & SIGNAL STAR POST",
+    "ko": "ZERO-CAC 수학적 모델 • SISTAR STUDIO 및 SIGNAL STAR POST",
     "id": "MATEMATIKA NOL-CAC • STUDIO SISTAR & POSTINGAN SINYAL STAR",
     "vi": "TOÁN HỌC ZERO-CAC • SISTAR STUDIO & SIGNAL STAR POST",
     "zh-CN": "零 CAC 数学 • SISTAR STUDIO 和 SIGNAL STAR POST",
@@ -34836,7 +34836,7 @@ window.SC_TRANSLATIONS = {
     "ja": "レガシー・エンタープライズ ERP (SAP / NetSuite / Oracle)"
   },
   "*SC Qubit ERP (Google Workspace + AI Core)": {
-    "ko": "*SC Qubit ERP(Google Workspace + AI Core)",
+    "ko": "*SC 큐비트 ERP (Google Workspace + AI 코어)",
     "id": "*SC Qubit ERP (Google Workspace + AI Inti)",
     "vi": "*SC Qubit ERP (Google Workspace + AI Core)",
     "zh-CN": "*SC Qubit ERP（Google Workspace + AI 核心）",
@@ -54051,7 +54051,7 @@ window.SC_TRANSLATIONS = {
     "ja": "インスタント QRIS / Toss リンクを通じて成約を自動化する自律型 WhatsApp 取引ボット"
   },
   "Meta Business API + Webhook Split": {
-    "ko": "Meta Business API + Webhook 분할",
+    "ko": "Meta Business API + 웹훅 분기(Webhook Split)",
     "id": "Meta Business API + Pemisahan Webhook",
     "vi": "API Meta Business + Phân chia Webhook",
     "zh-CN": "元业务 API + Webhook 拆分",
@@ -56459,7 +56459,7 @@ window.SC_TRANSLATIONS = {
     "ja": "第 1 章 ?? エグゼクティブマニフェストとショッピング可能なメディア アーキテクチャ"
   },
   "DOMAIN 04 ??SCARLET-AI // NODE 03: MALL.SISTV.COM": {
-    "ko": "DOMAIN 04 ??SCARLET-AI // 노드 03: MALL.SISTV.COM",
+    "ko": "도메인 04 ??SCARLET-AI // 노드 03: MALL.SISTV.COM",
     "id": "DOMAIN 04 ??SCARLET-AI // NODE 03: MALL.SISTV.COM",
     "vi": "TÊN MIỀN 04 ??SCARLET-AI // NODE 03: MALL.SISTV.COM",
     "zh-CN": "域 04 ??SCARLET-AI // 节点 03：MALL.SISTV.COM",
@@ -61548,7 +61548,7 @@ window.SC_TRANSLATIONS = {
     "ja": "07. 再販ネットワーク ->"
   },
   "08. SisCart • 09. Zero Wastage • 10. Mint • 11. Tech Trade ->": {
-    "ko": "08. SisCart • 09. Zero Wastetage • 10. 민트 • 11. Tech Trade ->",
+    "ko": "08. SisCart • 09. 제로 웨이스트(Zero Wastage) • 10. Mint • 11. 테크 트레이드(Tech Trade) ->",
     "id": "08. SisCart • 09. Tanpa Pemborosan • 10. Mint • 11. Perdagangan Teknologi ->",
     "vi": "08. SisCart • 09. Không lãng phí • 10. Bạc hà • 11. Thương mại công nghệ ->",
     "zh-CN": "08. SisCart • 09. 零浪费 • 10. Mint • 11. 科技贸易 ->",
@@ -67659,7 +67659,7 @@ window.SC_TRANSLATIONS = {
     "ja": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member."
   },
   "ceo, dennii ku": {
-    "ko": "ceo, dennii ku",
+    "ko": "CEO, Dennii Ku",
     "id": "ceo, dennii ku",
     "vi": "ceo, dennii ku",
     "zh-CN": "ceo, dennii ku",
@@ -76275,5 +76275,15200 @@ window.SC_TRANSLATIONS = {
   },
   "SISPharm": {
     "ko": "시스팜"
+  },
+  "EQUATION 2.2 • PROJECTION MEASUREMENT & WAVEFUNCTION COLLAPSE P(k) = ⟨Ψ_Biz| M̂_k† M̂_k |Ψ_Biz⟩ = |c_k|^2 (Wave Intent -> Particle Contract Collapse)": {
+    "ko": "수식 2.2 • 사영 측정 및 파동함수 붕괴 P(k) = ⟨Ψ_Biz| M̂_k† M̂_k |Ψ_Biz⟩ = |c_k|^2 (파동적 의도 -> 입자적 계약 붕괴)"
+  },
+  "CASCADING 4-PARTY GOOD CHAIN LOOP Step 1: *SC provides free AI Commerce Platform to Buyer -> Step 2: Trained Buyer sells K-Vet / Petfood locally, generating accounts receivable -> Step 3: Receivables offset domestic Manufacturer's production cost (*SC builds AI Dx for Manufacturer) -> Step 4: Manufacturer offsets Raw Material Supplier's cost in exchange for global sales channels (Qubit Trade)": {
+    "ko": "연쇄적 4자 선순환 밸류체인 루프(Cascading 4-Party Good Chain Loop) 단계 1: *SC가 바이어에게 무상 AI 커머스 플랫폼 제공 -> 단계 2: 역량을 갖춘 바이어가 현지에서 K-Vet / 펫푸드를 판매하여 매출채권 창출 -> 단계 3: 매출채권을 통해 국내 제조사의 생산원가 상쇄 (*SC가 제조사를 위한 AI Dx 구축) -> 단계 4: 제조사는 글로벌 판로 확보의 대가로 원자재 공급사의 원가를 상쇄 (Qubit Trade)"
+  },
+  "ACADEMIC RESEARCH MONOGRAPH • QUANTUM-AI ENTERPRISE OPERATING SYSTEM MONOGRAPH SERIES 02": {
+    "ko": "학술 연구 모노그래프 • 양자-AI 엔터프라이즈 운영체제 모노그래프 시리즈 02"
+  },
+  "A Study on Hyper-Parallel Multi-Project Orchestration Architecture Using Quantum-to-AI Isomorphism, Hierarchical Semantic Embedding, and Low-Rank Adaptation (LoRA) Fine-Tuning": {
+    "ko": "양자-AI 동형사상, 계층적 시맨틱 임베딩 및 LoRA 파인튜닝을 활용한 초병렬 다중 프로젝트 오케스트레이션 아키텍처에 관한 연구"
+  },
+  "Authors: Sistar Company (*SC), Denniiku | Affiliation: Sistar Company AI Architecture & Strategic Governance Lab Keywords: Qubit Deep Learning Mechanism, Qubit Algorithm™, One Spark Infinite Galaxifying, Cosmo Seed™, Quantum-to-AI Isomorphism, Low-Rank Adaptation (LoRA), Hierarchical Semantic Chunking, Cross-Project Correlation Matrix, Dual-Axis AI Governance": {
+    "ko": "저자: Sistar Company (*SC), Denniiku | 소속: Sistar Company AI Architecture & Strategic Governance Lab | 키워드: Qubit Deep Learning Mechanism, Qubit Algorithm™, One Spark Infinite Galaxifying, Cosmo Seed™, Quantum-to-AI Isomorphism, Low-Rank Adaptation (LoRA), Hierarchical Semantic Chunking, Cross-Project Correlation Matrix, Dual-Axis AI Governance"
+  },
+  "CHAPTER 1 • INTRODUCTION & PROBLEM FORMULATION SECTION 01 / 07": {
+    "ko": "제1장 • 서론 및 문제 정의 섹션 01 / 07"
+  },
+  "1. Introduction: Overcoming Newtonian Friction via the Qubit Deep Learning Mechanism": {
+    "ko": "1. 서론: Qubit Deep Learning Mechanism을 통한 뉴턴역학적 마찰의 극복"
+  },
+  "1.1 Background and Problem Statement: The Limits of Classical Linear Management": {
+    "ko": "1.1 연구 배경 및 문제 정의: 고전적 선형 경영 관리의 한계"
+  },
+  "In traditional corporate organizations, project management follows classical Newtonian causality, where a single resource input corresponds to a single localized output (1 Input = 1 Outcome). When an enterprise simultaneously launches multiple cross-border ventures across global hubs (South Korea SCK, Indonesia SCI, Vietnam SCV, Singapore SCS, China SCC, Japan SCJ, USA SCU, India SCIND), functional departments—Sales & Operation, Finance, Regulatory Affairs (RA), Supply Chain Management (SCM), and Marketing—repeatedly execute isolated research and execution loops for each individual project.": {
+    "ko": "전통적인 기업 조직에서 프로젝트 관리는 단일 자원 투입이 단일 국소적 산출물과 대응하는(1 Input = 1 Outcome) 고전적 뉴턴 인과율을 따릅니다. 기업이 글로벌 거점(한국 SCK, 인도네시아 SCI, 베트남 SCV, 싱가포르 SCS, 중국 SCC, 일본 SCJ, 미국 SCU, 인도 SCIND) 전반에 걸쳐 다수의 크로스보더 신사업을 동시다발적으로 추진할 때, 영업운영(Sales & Operation), 재무(Finance), 규제대응(RA), 공급망관리(SCM), 마케팅 등의 직능 부서들은 각 프로젝트별로 고립된 리서치 및 실행 루프를 반복적으로 수행하게 됩니다."
+  },
+  "Under this siloed structure, regulatory approval datasets or supply chain routing optimizations acquired in Project PA fail to transfer immediately to Projects PB and PC due to organizational information friction. Consequently, in a multi-project environment, total resource expenditure Eclassical accumulates linearly:": {
+    "ko": "이러한 사일로 구조 하에서는 프로젝트 PA에서 확보한 규제 인허가 데이터셋이나 공급망 라우팅 최적화 성과가 조직 내 정보 마찰로 인해 프로젝트 PB와 PC로 즉각 전이되지 못합니다. 결과적으로, 다중 프로젝트 환경에서 총 자원 지출 Eclassical은 선형적으로 누적됩니다:"
+  },
+  "1.2 Research Objectives: Hyper-Parallel Management via Quantum-AI Convergence": {
+    "ko": "1.2 연구 목적: 양자-AI 융합을 통한 초병렬 경영 관리"
+  },
+  "The objective of this research is to redefine every corporate task not as an isolated linear action, but as a \"Quantum State\" that interferes and entangles within a high-dimensional probability space, and to implement this mechanism through modern deep learning and fine-tuning engineering. Specifically, this paper establishes three core mechanisms:": {
+    "ko": "본 연구의 목적은 기업의 모든 태스크를 고립된 선형적 행위가 아닌 고차원 확률 공간 내에서 상호 간섭하고 얽히는 '양자 상태(Quantum State)'로 재정의하고, 이를 첨단 딥러닝 및 파인튜닝 엔지니어링으로 구현하는 데 있습니다. 구체적으로 본 논문은 다음 세 가지 핵심 메커니즘을 정립합니다:"
+  },
+  "1. Task Vectorization and Weight Learning: A methodology for quantifying enterprise, departmental, and individual tasks via hierarchical semantic chunking and advanced embedding, and computing parameter weights (wk %) via LoRA fine-tuning that fuses Enterprise RAG DB priors with Deep Research. 2. Dual-Matrix Orchestration: An autonomous mission allocation and execution architecture coupling 6 AI Centers with 8 Functional Divisions. 3. One-Spark Propagation via Cross-Correlation Matrix: A mathematical model that computes inter-task Correlation (%) across concurrent projects so that a single execution drives simultaneous multi-project completion (One Input, Multi-Outcomes).": {
+    "ko": "1. 태스크 벡터화 및 가중치 학습: 계층적 시맨틱 청킹과 고급 임베딩을 통해 전사·부서·개인 업무를 정량화하고, Enterprise RAG DB 사전확률(priors)과 Deep Research를 융합하는 LoRA 파인튜닝을 통해 파라미터 가중치(wk %)를 산출하는 방법론. 2. 듀얼 매트릭스 오케스트레이션: 6대 AI 센터와 8대 직능 본부를 결합한 자율 미션 할당 및 실행 아키텍처. 3. 상호상관행렬을 통한 One-Spark 전파: 동시 진행 프로젝트 간 태스크 상관도(Correlation, %)를 연산하여 단 한 번의 실행으로 다중 프로젝트를 동시 완결(One Input, Multi-Outcomes)시키는 수학적 모델."
+  },
+  "CHAPTER 2 • THEORETICAL BACKGROUND & QUANTUM-TO-AI ISOMORPHISM SECTION 02 / 07": {
+    "ko": "제2장 • 이론적 배경 및 양자-AI 동형사상 섹션 02 / 07"
+  },
+  "2. Theoretical Background and Quantum-to-AI Isomorphism": {
+    "ko": "2. 이론적 배경 및 양자-AI 동형사상"
+  },
+  "The Hilbert space formalism of quantum mechanics shares a direct structural isomorphism with the high-dimensional latent vector spaces of deep neural networks. The Qubit Deep Learning Mechanism translates quantum mechanical project genesis into AI engineering through four foundational axioms:": {
+    "ko": "양자역학의 힐베르트 공간 형식체계(Hilbert space formalism)는 딥 뉴럴 네트워크의 고차원 잠재 벡터 공간(latent vector spaces)과 직접적인 구조적 동형사상을 공유합니다. Qubit Deep Learning Mechanism은 다음 네 가지 기초 공리를 통해 양자역학적 프로젝트 발생(genesis)을 AI 엔지니어링으로 변환합니다:"
+  },
+  "Cosmo Seed™ (|ψ0⟩) & Superposition Embedding": {
+    "ko": "Cosmo Seed™ (|ψ0⟩) 및 중첩 임베딩"
+  },
+  "Axiom 1 (Cosmo Seed™ & Initial State |ψ0⟩): Every project originates from a quantified initial state vector, Cosmo Seed™, encoding target revenue, target market node (SCK, SCI, SCV, SCJ, SCC, SCU, SCS, SCIND), capital velocity (t=0 settlement target), and risk thresholds as a normalized conditioning tensor |psi_0> in H. Axiom 2 (Superposition & Multi-Dimensional Task Embedding): Just as a single qubit exists as a linear combination |psi> = alpha|0> + beta|1>, a corporate task Ti is not confined to a single department, but exists as a high-dimensional embedding vector e_i in R^d superposed across all 8 departmental basis states {|d_1>, ..., |d_8>}.": {
+    "ko": "공리 1 (Cosmo Seed™ 및 초기 상태 |ψ0⟩): 모든 프로젝트는 목표 매출, 목표 시장 노드(SCK, SCI, SCV, SCJ, SCC, SCU, SCS, SCIND), 자본 회전율(t=0 정산 목표), 리스크 임계치를 힐베르트 공간 H 내의 정규화된 조건부 텐서 |psi_0>로 인코딩한 정량적 초기 상태 벡터 Cosmo Seed™에서 출발합니다. 공리 2 (중첩 및 다차원 태스크 임베딩): 단일 큐비트가 선형 결합 |psi> = alpha|0> + beta|1>로 존재하는 것과 같이, 기업 태스크 Ti는 단일 부서에 국한되지 않고 8대 직능 부서의 기저 상태 {|d_1>, ..., |d_8>} 전체에 중첩된 R^d 내의 고차원 임베딩 벡터 e_i로 존재합니다."
+  },
+  "Entanglement Cross-Attention & WKB Tunneling": {
+    "ko": "얽힘 크로스 어텐션 및 WKB 터널링"
+  },
+  "Axiom 3 (Entanglement & Multi-Project Cross-Attention): In an entangled bipartite quantum state |Psi_AB> != |psi_A> (x) |psi_B>, measuring subsystem A instantaneously determines subsystem B. Mapped to AI architecture, task vectors across distinct projects PA and PB are coupled in shared latent space via Cross-Attention and weighted inner products. Axiom 4 (Fluctuation, WKB Tunneling & Gradient Propagation): Regulatory hurdles or credit delays act as potential barriers V(x). A breakthrough execution in a core task (One Spark, e.g., K-SURE BNPL t=0 approval or key RA certification) propagates like neural backpropagation across weighted connections, simultaneously tunneling through execution barriers across all entangled projects.": {
+    "ko": "공리 3 (얽힘 및 다중 프로젝트 크로스 어텐션): 얽힌 이분할 양자 상태 |Psi_AB> != |psi_A> (x) |psi_B>에서 하위 시스템 A의 측정은 즉각적으로 하위 시스템 B를 결정합니다. 이를 AI 아키텍처에 매핑하면, 서로 다른 프로젝트 PA와 PB의 태스크 벡터들은 크로스 어텐션(Cross-Attention) 및 가중 내적을 통해 공유 잠재 공간에 결합됩니다. 공리 4 (요동, WKB 터널링 및 그래디언트 전파): 규제 장벽이나 신용 지연은 포텐셜 장벽 V(x)로 작용합니다. 핵심 태스크에서의 돌파적 실행(One Spark, 예: K-SURE BNPL t=0 승인 또는 핵심 RA 인증 취득)은 가중 연결망 전반에 신경망 역전파처럼 전파되어, 얽혀 있는 모든 프로젝트의 실행 장벽을 동시에 터널링합니다."
+  },
+  "CHAPTER 3 • HIERARCHICAL SEMANTIC CHUNKING, EMBEDDING & LORA ENGINE SECTION 03 / 07": {
+    "ko": "제3장 • 계층적 시맨틱 청킹, 임베딩 및 LORA 엔진 섹션 03 / 07"
+  },
+  "3. Hierarchical Semantic Chunking, Embedding, and Fine-Tuning Weight Engine": {
+    "ko": "3. 계층적 시맨틱 청킹, 임베딩 및 파인튜닝 가중치 엔진"
+  },
+  "3.1 Project Target Quantification and 4-Tuple Semantic Chunking": {
+    "ko": "3.1 프로젝트 목표 정량화 및 4-튜플 시맨틱 청킹"
+  },
+  "When Project Pm is initiated, its Target and Concept are first quantified into a strategic goal vector g_m in R^k. Subsequently, unstructured tasks across Company → Department → Individual/AI Work levels are partitioned via Hierarchical Semantic Chunking into standardized Atomic Task Modules. Because arbitrary character-length chunking destroys operational context, each semantic chunk Cm,i is structured as a formal 4-tuple:": {
+    "ko": "프로젝트 Pm이 개시되면, 해당 프로젝트의 목표(Target)와 개념(Concept)은 먼저 R^k 상의 전략적 목표 벡터 g_m으로 정량화됩니다. 이후 기업 → 부서 → 개인/AI 업무 단위의 비정형 태스크들은 계층적 시맨틱 청킹(Hierarchical Semantic Chunking)을 통해 표준화된 원자 단위 태스크 모듈(Atomic Task Modules)로 분할됩니다. 단순 문자열 길이 기준의 임의적 청킹은 업무적 맥락을 훼손하므로, 각 시맨틱 청크 Cm,i는 정형화된 4-튜플(4-tuple)로 구조화됩니다:"
+  },
+  "3.2 Hybrid RAG DB Priors and Deep Research Low-Rank Adaptation (LoRA)": {
+    "ko": "3.2 하이브리드 RAG DB 사전확률 및 딥 리서치 기반 Low-Rank Adaptation (LoRA)"
+  },
+  "To assign precise importance weights to task parameters, we apply the mathematical mechanism of Low-Rank Adaptation (LoRA) to parameter weight matrix learning. The foundational weight matrix W_0 = W_RAG in R^{d x d} represents prior operational importance learned from Sistar Company's accumulated Enterprise RAG DB. Real-time external market, competitor, and regulatory analyses conducted via project-specific Deep Research train a low-rank update matrix Delta W_m = B_m * A_m (B_m in R^{d x r}, A_m in R^{r x d}, r << d). The final Parameter Weight Percentage w_{m,i} (%) for Task Tm,i is derived via temperature-scaled softmax normalization against the project target vector g_m:": {
+    "ko": "태스크 파라미터에 정밀한 중요도 가중치를 부여하기 위해, 본 연구에서는 파라미터 가중치 행렬 학습에 Low-Rank Adaptation (LoRA)의 수학적 메커니즘을 적용합니다. 기본 가중치 행렬 W_0 = W_RAG in R^{d x d}는 Sistar Company의 축적된 Enterprise RAG DB로부터 학습된 사전 운영 중요도를 나타냅니다. 프로젝트별 Deep Research를 통해 수행된 실시간 외부 시장, 경쟁사, 규제 분석 데이터는 저차원 업데이트 행렬 Delta W_m = B_m * A_m (B_m in R^{d x r}, A_m in R^{r x d}, r << d)을 훈련합니다. 태스크 Tm,i에 대한 최종 파라미터 가중치 백분율 w_{m,i} (%)는 프로젝트 목표 벡터 g_m에 대한 온도 스케일 소프트맥스(temperature-scaled softmax) 정규화를 거쳐 도출됩니다:"
+  },
+  "CHAPTER 4 • DUAL-AXIS GOVERNANCE: 6 AI CENTERS × 8 FUNCTIONAL DIVISIONS SECTION 04 / 07": {
+    "ko": "제4장 • 듀얼 액시스 거버넌스: 6대 AI 센터 × 8대 직능 본부 섹션 04 / 07"
+  },
+  "4. Dual-Axis Governance: 6 AI Centers × 8 Functional Divisions Orchestration": {
+    "ko": "4. 듀얼 액시스 거버넌스: 6대 AI 센터 × 8대 직능 본부 오케스트레이션"
+  },
+  "To translate fine-tuned parameter weights into autonomous enterprise execution, Sistar Company orthogonally couples 6 AI Centers (intelligent execution engine axis) with 8 Functional Divisions (domain responsibility axis), defining a 48-state tensor product Hilbert space H_Total = H_Dept (x) H_AI (dim = 8 x 6 = 48 Operational Basis States):": {
+    "ko": "파인튜닝된 파라미터 가중치를 자율적인 엔터프라이즈 실행 체계로 변환하기 위해, Sistar Company는 6대 AI 센터(지능형 실행 엔진 축)와 8대 기능 본부(도메인 책임 축)를 직교 결합하여, 48개 상태의 텐서 곱 힐베르트 공간 H_Total = H_Dept (x) H_AI(차원 = 8 x 6 = 48개 운영 기저 상태)를 정의합니다:"
+  },
+  "AI Center Node (Axis 1)": {
+    "ko": "AI 센터 노드 (축 1)"
+  },
+  "Core Autonomous Intelligence Function": {
+    "ko": "핵심 자율 지능 기능"
+  },
+  "Coupled Functional Divisions (Axis 2) & Operational Scope": {
+    "ko": "결합 기능 본부 (축 2) 및 운영 범위"
+  },
+  "1. AI Command Center": {
+    "ko": "1. AI 커맨드 센터"
+  },
+  "Enterprise Control Tower & Mission Dispatch": {
+    "ko": "전사 컨트롤 타워 및 미션 디스패치"
+  },
+  "Interprets the project's Cosmo Seed™ and allocates weighted tasks (wm,i %) across all 8 functional divisions: (1) Sales & Operation, (2) Finance, (3) Human Resources, (4) SCM, (5) RA, (6) IT, (7) Marketing, and (8) Biz Development.": {
+    "ko": "프로젝트의 Cosmo Seed™를 해석하고 8대 기능 본부 전반에 가중치 기반 태스크(wm,i %)를 할당합니다: (1) 영업 및 운영, (2) 재무, (3) 인사, (4) SCM, (5) RA, (6) IT, (7) 마케팅, (8) 사업개발."
+  },
+  "2. AI Analysis Center": {
+    "ko": "2. AI 분석 센터"
+  },
+  "Cross-Correlation (%) & Financial Simulation": {
+    "ko": "다중 프로젝트 상호 상관도(%) 및 재무 시뮬레이션"
+  },
+  "Computes multi-project Cross-Correlation (%) matrices, financial ROI projections, parameter sensitivity gradients, and optimal resource allocation.": {
+    "ko": "다중 프로젝트 상호 상관도(%) 매트릭스, 재무적 ROI 예측, 파라미터 민감도 그래디언트 및 최적 자원 배분을 연산합니다."
+  },
+  "3. AI Data Center": {
+    "ko": "3. AI 데이터 센터"
+  },
+  "Enterprise RAG DB, Chunking & Vector Store": {
+    "ko": "엔터프라이즈 RAG DB, 청킹 및 벡터 스토어"
+  },
+  "Manages Enterprise RAG DB versioning, executes 4-tuple hierarchical semantic chunking, and maintains the high-dimensional vector store.": {
+    "ko": "엔터프라이즈 RAG DB 버전 관리를 총괄하고, 4-튜플 계층적 시맨틱 청킹을 실행하며, 고차원 벡터 스토어를 유지·관리합니다."
+  },
+  "4. AI Media Generation Center": {
+    "ko": "4. AI 미디어 생성 센터"
+  },
+  "Multilingual IR Decks, Brochures & Visuals": {
+    "ko": "다국어 IR 덱, 브로슈어 및 비주얼 자산"
+  },
+  "Ingests a single strategic spark to automatically generate multilingual IR pitchdecks, brochures, high-density SVG diagrams, and marketing assets.": {
+    "ko": "단일 전략적 스파크를 인제스트하여 다국어 IR 피치덱, 브로슈어, 고밀도 SVG 다이어그램 및 마케팅 에셋을 자동 생성합니다."
+  },
+  "5. AI Risk Management Center": {
+    "ko": "5. AI 리스크 관리 센터"
+  },
+  "RA Compliance, K-SURE BNPL & WKB Bypass": {
+    "ko": "RA 규제 준수, K-SURE BNPL 및 WKB 우회 터널링"
+  },
+  "Detects regulatory licensing bottlenecks (RA), K-SURE BNPL credit exposures, and supply chain friction, designing WKB tunneling bypass routes.": {
+    "ko": "규제 인허가(RA) 병목 구간, K-SURE BNPL 신용 익스포저, 공급망 마찰을 감지하고 WKB 터널링 우회 경로를 설계합니다."
+  },
+  "6. AI Web Working Center": {
+    "ko": "6. AI 웹 워킹 센터"
+  },
+  "12-Domain Vibe Working & Live Deployment": {
+    "ko": "12개 도메인 Vibe Working 및 라이브 배포"
+  },
+  "Deploys project deliverables, real-time executive dashboards, multilingual translations, and B2B/D2C commerce workflows across the 12 web domains.": {
+    "ko": "12개 웹 도메인 전반에 걸쳐 프로젝트 산출물, 실시간 경영진 대시보드, 다국어 번역 및 B2B/D2C 커머스 워크플로우를 배포합니다."
+  },
+  "5. Cross-Project Correlation Matrix and One-Spark Multi-Outcome Dynamics": {
+    "ko": "5. 다중 프로젝트 상호 상관 매트릭스 및 원 스파크 다중 성과 역학"
+  },
+  "5.1 Formulation of Cross-Project Correlation Percentage (ρij %)": {
+    "ko": "5.1 프로젝트 간 상관도 백분율(ρij %)의 정식화"
+  },
+  "When multiple projects {P_1, P_2, ..., P_M} operate concurrently, let e_{A,i}, e_{B,j} in R^d denote the shared latent space embedding vectors of Task TA,i in Project PA and Task TB,j in Project PB. Defining the joint fine-tuned parameter metric matrix as Omega_{AB} = 0.5 * (W_A + W_B), the Cross-Project Correlation Percentage ρ(TA,i, TB,j) is defined as the cosine similarity under the weighted Riemannian metric:": {
+    "ko": "복수의 프로젝트 {P_1, P_2, ..., P_M}가 동시 가동될 때, 프로젝트 PA의 태스크 TA,i 및 프로젝트 PB의 태스크 TB,j에 대한 공유 잠재 공간 임베딩 벡터를 e_{A,i}, e_{B,j} in R^d라 하자. 결합 파인튜닝 파라미터 계량 매트릭스를 Omega_{AB} = 0.5 * (W_A + W_B)로 정의할 때, 프로젝트 간 상관도 백분율 ρ(TA,i, TB,j)는 가중 리만 계량(Riemannian metric) 하에서의 코사인 유사도로 정의된다:"
+  },
+  "5.2 State Transition Equation (One Input → Multi-Outcomes) & Spark Amplification Factor (Mspark)": {
+    "ko": "5.2 상태 전이 방정식 (단일 입력 → 다중 성과) 및 스파크 증폭 계수 (Mspark)"
+  },
+  "Let s_{m,i}(t) in [0, 1] denote the completion state of Task Tm,i at time t. When a core task TA,i* in Project PA completes (Delta s_{A,i*} > 0, One Spark), the AI Data Center and AI Web Working Center immediately synchronize its deliverable chunk into the shared vector store. Every correlated task TB,j in Project PB (B != A) receives an automatic state advancement Delta s_{B,j}, yielding the total multi-project outcome Y_multi and Spark Amplification Factor Mspark:": {
+    "ko": "시점 t에서 태스크 Tm,i의 완료 상태를 s_{m,i}(t) in [0, 1]이라 하자. 프로젝트 PA의 핵심 태스크 TA,i*가 완료되면(Delta s_{A,i*} > 0, One Spark), AI 데이터 센터와 AI 웹 워킹 센터는 해당 산출물 청크를 공유 벡터 스토어에 즉각 동기화한다. 이에 따라 프로젝트 PB(B != A)의 모든 상관 태스크 TB,j는 상태 전진량 Delta s_{B,j}를 자동 부여받아, 총 다중 프로젝트 성과 Y_multi 및 스파크 증폭 계수 Mspark를 산출한다:"
+  },
+  "6. Empirical Simulation and Executive Quantum Dashboard Telemetry": {
+    "ko": "6. 실증 시뮬레이션 및 경영진 퀀텀 대시보드 텔레메트리"
+  },
+  "6.1 Simulation of 3 Concurrent ASEAN Projects": {
+    "ko": "6.1 아세안(ASEAN) 3대 동시 프로젝트 시뮬레이션"
+  },
+  "Assume Sistar Company simultaneously launches three ASEAN-focused projects: Project 1 (P1) Indonesia (SCI) Premium K-Beauty & Nutraceutical D2C Platform Launch; Project 2 (P2) Korea–ASEAN B2B Trade Finance (K-SURE BNPL t=0 Settlement) Supply Chain; and Project 3 (P3) Local Conglomerate Joint Venture (JV) Establishment & Global IR Pitchdeck Distribution. When the RA Division (DRA) and AI Risk Management Center complete a single task—[TSK-RA-01: Indonesia BPOM Licensing & Halal Compliance Verification Module] (One Spark, Δs = 1.0)—the AI Analysis Center computes and propagates the following multi-project state transitions:": {
+    "ko": "Sistar Company가 아세안 시장을 겨냥한 3대 프로젝트를 동시에 개시한다고 가정한다: 프로젝트 1(P1) 인도네시아(SCI) 프리미엄 K-뷰티 및 뉴트라슈티컬 D2C 플랫폼 론칭; 프로젝트 2(P2) 한-아세안 B2B 무역금융(K-SURE BNPL t=0 결제) 공급망 구축; 프로젝트 3(P3) 현지 대기업 합작법인(JV) 설립 및 글로벌 IR 피치덱 배포. 규제대응(RA) 부서(DRA)와 AI 리스크 관리 센터가 단일 태스크인 [TSK-RA-01: 인도네시아 BPOM 인허가 및 할랄 적합성 검증 모듈](One Spark, Δs = 1.0)을 완료하는 즉시, AI 분석 센터는 다음과 같은 다중 프로젝트 상태 전이를 연산하고 전파한다:"
+  },
+  "Project & Coupled Task Module": {
+    "ko": "프로젝트 및 연계 태스크 모듈"
+  },
+  "Matrix Owner (Dept × AI Center)": {
+    "ko": "매트릭스 오너 (부서 × AI 센터)"
+  },
+  "Task Weight (wm,j)": {
+    "ko": "태스크 가중치 (wm,j)"
+  },
+  "Correlation (ρ %)": {
+    "ko": "상관도 (ρ %)"
+  },
+  "Transfer (&eta;)": {
+    "ko": "전이 계수 (&eta;)"
+  },
+  "Auto Progress": {
+    "ko": "자동 진척도"
+  },
+  "P1 (Origin Spark): TSK-RA-01 BPOM & Halal Compliance Completion": {
+    "ko": "P1 (발화 스파크): TSK-RA-01 BPOM 및 할랄 규제 준수 완료"
+  },
+  "RA × Risk Mgmt AI": {
+    "ko": "RA × 리스크 관리 AI"
+  },
+  "P1 (Internal Spillover): TSK-SCM-02 Indonesia Customs HS-Code Mapping": {
+    "ko": "P1 (내부 스필오버): TSK-SCM-02 인도네시아 관세청 HS-Code 매핑"
+  },
+  "SCM × Data AI": {
+    "ko": "SCM × 데이터 AI"
+  },
+  "P1 (Internal Spillover): TSK-MKT-05 Halal Badge & Web Detail Page Generation": {
+    "ko": "P1 (내부 스필오버): TSK-MKT-05 할랄 인증 배지 및 웹 상세페이지 생성"
+  },
+  "Marketing × Media/Web AI": {
+    "ko": "마케팅 × 미디어/웹 AI"
+  },
+  "P2 (Cross-Project): TSK-FIN-03 Customs Risk Elimination → BNPL Credit Limit": {
+    "ko": "P2 (크로스 프로젝트): TSK-FIN-03 통관 리스크 제거 → BNPL 여신 한도 산출"
+  },
+  "Finance × Analysis AI": {
+    "ko": "재무 × 분석 AI"
+  },
+  "P3 (Cross-Project): TSK-BD-01 JV Regulatory Warranty & IR Risk Hedging Slide": {
+    "ko": "P3 (크로스 프로젝트): TSK-BD-01 JV 규제 보증 및 IR 리스크 헤징 슬라이드"
+  },
+  "Biz Dev × Command/Media AI": {
+    "ko": "사업개발 × 커맨드/미디어 AI"
+  },
+  "3.05x Spark Amplification & 68% Lead-Time Reduction": {
+    "ko": "3.05배 스파크 증폭 효과 및 68% 리드타임 단축"
+  },
+  "Input: 1 Task (TSK-RA-01, 28.5% weight in P1). Multi-Outcomes: +54.15%p in P1, +18.22%p in P2, and +14.65%p in P3 achieved simultaneously without additional human headcount. Spark Amplification Factor: M_spark = (28.50 + 15.05 + 10.60 + 18.22 + 14.65) / 28.50 = 87.02 / 28.50 = 3.05x immediate enterprise value leverage.": {
+    "ko": "투입: 단일 태스크 (TSK-RA-01, P1 내 가중치 28.5%). 다중 성과 도출: 추가 인력 투입 없이 P1에서 +54.15%p, P2에서 +18.22%p, P3에서 +14.65%p 동시 달성. 스파크 증폭 계수(Spark Amplification Factor): M_spark = (28.50 + 15.05 + 10.60 + 18.22 + 14.65) / 28.50 = 87.02 / 28.50 = 즉각적인 기업가치 레버리지 3.05배 달성."
+  },
+  "4 Core Quantitative & Qualitative Control Metrics": {
+    "ko": "4대 핵심 정량·정성 통제 지표"
+  },
+  "1. Parameter Weight Index (wm,i %): Fine-tuned strategic importance weight of each task. 2. Cross-Correlation Density (ρ̄ %): Mean entanglement synergy across active projects. 3. Spark Amplification Factor (Mspark): Total multi-project outcome leverage per unit task input. 4. Galaxifying Velocity (Vgalaxy): Rate at which Cosmo Seed™ spin-offs reach break-even and target completion.": {
+    "ko": "1. 파라미터 가중치 지수(wm,i %): 각 태스크의 미세조정된 전략적 중요도 가중치. 2. 상호 상관 밀도(ρ̄ %): 활성 프로젝트 전반에 걸친 평균 얽힘 시너지. 3. 스파크 증폭 계수(Mspark): 단위 태스크 투입당 총 다중 프로젝트 성과 레버리지. 4. 은하화 속도(Vgalaxy): Cosmo Seed™ 스핀오프가 손익분기점(BEP) 및 목표 완료 상태에 도달하는 속도."
+  },
+  "CHAPTER 7 • CONCLUSION & REFERENCES SECTION 07 / 07": {
+    "ko": "CHAPTER 7 • 결론 및 참고문헌 SECTION 07 / 07"
+  },
+  "7. Conclusion and References": {
+    "ko": "7. 결론 및 참고문헌"
+  },
+  "This paper established the theoretical foundation and mathematical architecture of the Qubit Deep Learning Mechanism (Qubit Algorithm™: One Spark Infinite Galaxifying), redefining enterprise multi-project management by uniting quantum mechanical formalism with deep learning semantic embeddings and LoRA fine-tuning. By orchestrating 6 AI Centers and 8 Functional Divisions across a shared latent vector space and quantifying Cross-Project Correlation (%) in real time, Sistar Company realizes an Economy of Entanglement and Superposition—expanding an infinite business galaxy from a single operational spark.": {
+    "ko": "본 논문은 큐비트 딥러닝 메커니즘(Qubit Algorithm™: One Spark Infinite Galaxifying)의 이론적 토대와 수학적 아키텍처를 정립하여, 양자역학적 형식체계와 딥러닝 시맨틱 임베딩 및 LoRA 미세조정을 융합함으로써 엔터프라이즈 다중 프로젝트 관리 패러다임을 재정의하였다. 공유 잠재 벡터 공간 전반에 걸쳐 6대 AI 센터와 8대 기능 부서를 통합 오케스트레이션하고 프로젝트 간 상호 상관도(Cross-Project Correlation, %)를 실시간 정량화함으로써, Sistar Company는 '얽힘과 중첩의 경제(Economy of Entanglement and Superposition)'를 구현하여 단 하나의 운영적 스파크로부터 무한한 비즈니스 은하계를 확장해 나간다."
+  },
+  "Vaswani, A., et al. (2017). “Attention Is All You Need.” Advances in Neural Information Processing Systems (NeurIPS), 30. (Applied to Cross-Attention multi-project correlation matrices).": {
+    "ko": "Vaswani, A., et al. (2017). “Attention Is All You Need.” Advances in Neural Information Processing Systems (NeurIPS), 30. (Cross-Attention 기반 다중 프로젝트 상관 행렬에 적용)."
+  },
+  "Hu, E. J., et al. (2022). “LoRA: Low-Rank Adaptation of Large Language Models.” International Conference on Learning Representations (ICLR). (Applied to frozen RAG DB priors and Deep Research weight adaptation).": {
+    "ko": "Hu, E. J., et al. (2022). “LoRA: Low-Rank Adaptation of Large Language Models.” International Conference on Learning Representations (ICLR). (동결된 RAG DB 사전 확률 및 Deep Research 가중치 적응에 적용)."
+  },
+  "Lewis, P., et al. (2020). “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” Advances in Neural Information Processing Systems (NeurIPS). (Applied to Enterprise RAG DB prior weight architecture).": {
+    "ko": "Lewis, P., et al. (2020). “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” Advances in Neural Information Processing Systems (NeurIPS). (엔터프라이즈 RAG DB 사전 가중치 아키텍처에 적용)."
+  },
+  "Sakurai, J. J., & Napolitano, J. (2020). Modern Quantum Mechanics (3rd ed.). Cambridge University Press. (Applied to quantum superposition, entanglement, and WKB tunneling formalism).": {
+    "ko": "Sakurai, J. J., & Napolitano, J. (2020). Modern Quantum Mechanics (3rd ed.). Cambridge University Press. (양자 중첩, 얽힘 및 WKB 터널링 형식체계에 적용)."
+  },
+  "← Back to one spark infinite galaxifying Paper 01: Biz Quantum Mechanics Print / Save PDF": {
+    "ko": "← One Spark, Infinite Galaxifying 논문 01: 비즈니스 양자역학(Biz Quantum Mechanics)으로 돌아가기 인쇄 / PDF 저장"
+  },
+  "← Back to one spark infinite galaxifying": {
+    "ko": "← One Spark, Infinite Galaxifying으로 돌아가기"
+  },
+  "Paper 01: Biz Quantum Mechanics": {
+    "ko": "논문 01: 비즈니스 양자역학(Biz Quantum Mechanics)"
+  },
+  "Print / Save PDF": {
+    "ko": "인쇄 / PDF 저장"
+  },
+  "ACADEMIC RESEARCH MONOGRAPH • QUANTUM-AI ENTERPRISE OPERATING SYSTEM": {
+    "ko": "학술 연구 모노그래프 • 양자-AI 엔터프라이즈 운영체제(OS)"
+  },
+  "MONOGRAPH SERIES 02": {
+    "ko": "모노그래프 시리즈 02"
+  },
+  "ABSTRACT Modern global enterprise management confronts Newtonian Linear Friction: departmental silos and independent resource allocation cause human capital, execution lead times, and operating expenditures to scale linearly O(N) with the number of concurrent projects. To transcend this structural limit, this paper proposes the \"Qubit Deep Learning Mechanism (Qubit Algorithm: One Spark Infinite Galaxifying),\" a hyper-parallel enterprise operating system that mathematically binds quantum superposition, entanglement, and WKB tunneling mechanisms to deep learning high-dimensional vector embeddings, cross-attention, and Low-Rank Adaptation (LoRA) fine-tuning. In this architecture, every project originates from a quantified initial condition vector, Cosmo Seed (|psi_0>), while enterprise, departmental, and individual tasks undergo Hierarchical Semantic Chunking into a shared latent space R^d. The importance weight (w_k %) of each task parameter is calibrated via fine-tuning that combines internal priors from the Enterprise RAG Database with dynamic external weights from real-time Deep Research. Furthermore, this study defines a Dual-Axis Governance matrix coupling 6 specialized AI Centers with 8 Functional Divisions (48 operational basis states) and derives a Cross-Project Correlation Matrix (C) based on weighted cosine similarity. We mathematically prove and empirically demonstrate through a multi-project simulation how a single core task execution (One Spark) simultaneously transitions entangled task states across multiple projects to generate exponential Multi-Outcomes.": {
+    "ko": "초록(ABSTRACT) 현대 글로벌 엔터프라이즈 경영은 뉴턴식 선형 마찰(Newtonian Linear Friction)에 직면해 있습니다. 즉, 부서 간 사일로와 분절된 자원 배분으로 인해 동시 다발적 프로젝트 수가 증가함에 따라 인적 자본, 실행 리드타임 및 운영 비용(OPEX)이 O(N)으로 선형 확장되는 한계를 보입니다. 이러한 구조적 한계를 극복하기 위해, 본 연구는 양자 중첩, 얽힘, WKB 터널링 메커니즘을 딥러닝 고차원 벡터 임베딩, 크로스 어텐션, LoRA(Low-Rank Adaptation) 미세조정과 수학적으로 결합한 초병렬 엔터프라이즈 운영체제인 \"큐비트 딥러닝 메커니즘(Qubit Algorithm: One Spark Infinite Galaxifying)\"을 제안합니다. 본 아키텍처에서 모든 프로젝트는 정량화된 초기 상태 벡터인 Cosmo Seed™(|psi_0>)로부터 태동하며, 전사적·부서별·개별 과업은 공유 잠재 공간(shared latent space) R^d 내에서 계층적 의미론적 청킹(Hierarchical Semantic Chunking)을 거칩니다. 각 과업 파라미터의 중요도 가중치(w_k %)는 사내 RAG 데이터베이스의 내부 사전 확률(priors)과 실시간 Deep Research의 동적 외부 가중치를 통합한 파인튜닝을 통해 보정됩니다. 나아가, 본 연구는 6대 전문 AI 센터와 8대 기능 본부(48개 운영 기저 상태)를 결합한 이중축 거버넌스(Dual-Axis Governance) 매트릭스를 정의하고, 가중 코사인 유사도에 기반한 프로젝트 간 상관관계 행렬(C)을 도출합니다. 단일 핵심 과업의 실행(One Spark)이 다중 프로젝트에 걸쳐 얽힌(entangled) 과업 상태를 동시에 전이시켜 기하급수적 다중 성과(Multi-Outcomes)를 창출하는 과정을 수학적으로 증명하고 다중 프로젝트 시뮬레이션을 통해 실증적으로 검증합니다."
+  },
+  "CHAPTER 1 • INTRODUCTION & PROBLEM FORMULATION": {
+    "ko": "제1장 • 서론 및 문제 정의"
+  },
+  "SECTION 01 / 07": {
+    "ko": "섹션 01 / 07"
+  },
+  "EQUATION 1.1 • CLASSICAL LINEAR RESOURCE ACCUMULATION E_classical = Sum_{m=1..M} Sum_{i=1..N_m} c(T_{m,i}) => Resource & Cost Complexity Scales Linearly O(N)": {
+    "ko": "수식 1.1 • 고전적 선형 자원 누적 E_classical = Sum_{m=1..M} Sum_{i=1..N_m} c(T_{m,i}) => 자원 및 비용 복잡도가 O(N)으로 선형 확장"
+  },
+  "CHAPTER 2 • THEORETICAL BACKGROUND & QUANTUM-TO-AI ISOMORPHISM": {
+    "ko": "제2장 • 이론적 배경 및 양자-AI 동형성(Isomorphism)"
+  },
+  "SECTION 02 / 07": {
+    "ko": "섹션 02 / 07"
+  },
+  "EQUATION 2.1 & 2.2 • SUPERPOSED DEPARTMENTAL STATE & WKB TUNNELING PROBABILITY |T_i> = Sum_{r=1..8} alpha_{i,r} |d_r>, where Sum_{r=1..8} |alpha_{i,r}|^2 = 1 (|alpha_{i,r}|^2 = Departmental Competency Amplitude) T_WKB approx exp( - (2 / hbar) * Integral sqrt( 2m * (V(x) - E_spark) ) dx ) => Simultaneous Multi-Project Barrier Penetration": {
+    "ko": "수식 2.1 & 2.2 • 중첩된 부서 상태 및 WKB 터널링 확률 |T_i> = Sum_{r=1..8} alpha_{i,r} |d_r>, 단 Sum_{r=1..8} |alpha_{i,r}|^2 = 1 (|alpha_{i,r}|^2 = 부서별 역량 진폭) T_WKB approx exp( - (2 / hbar) * Integral sqrt( 2m * (V(x) - E_spark) ) dx ) => 다중 프로젝트 장벽의 동시 투과"
+  },
+  "CHAPTER 3 • HIERARCHICAL SEMANTIC CHUNKING, EMBEDDING & LORA ENGINE": {
+    "ko": "제3장 • 계층적 의미론적 청킹, 임베딩 및 LoRA 엔진"
+  },
+  "SECTION 03 / 07": {
+    "ko": "섹션 03 / 07"
+  },
+  "EQUATION 3.1 • 4-TUPLE ATOMIC TASK CHUNK & DOMAIN-ADAPTED EMBEDDING C_{m,i} = < O_{m,i} (Objective), I_{m,i} (Input Data & Context), K_{m,i} (Dept × AI Center Competency), D_{m,i} (Deliverable Spec) > e_{m,i} = f_Theta( C_{m,i} ) in R^d (Encodes strategic alignment, ROI contribution, lead-time sensitivity, regulatory risk, and reusability)": {
+    "ko": "수식 3.1 • 4-튜플 원자적 과업 청크 및 도메인 적응 임베딩 C_{m,i} = < O_{m,i} (목표), I_{m,i} (입력 데이터 및 컨텍스트), K_{m,i} (부서 × AI 센터 역량), D_{m,i} (산출물 사양) > e_{m,i} = f_Theta( C_{m,i} ) in R^d (전략적 정렬도, ROI 기여도, 리드타임 민감도, 규제 리스크 및 재사용성을 인코딩)"
+  },
+  "EQUATION 3.2 & 3.3 • LORA WEIGHT ADAPTATION & PARAMETER WEIGHT PERCENTAGE (w_{m,i} %) W_m = W_0 + gamma * Delta W_m = W_RAG + gamma * (B_m * A_m)_DeepResearch w_{m,i} (%) = [ exp( g_m^T * W_m * e_{m,i} / tau ) / Sum_{j=1..N_m} exp( g_m^T * W_m * e_{m,j} / tau ) ] * 100 (%) (Sum_{i=1..N_m} w_{m,i} = 100%)": {
+    "ko": "수식 3.2 & 3.3 • LoRA 가중치 적응 및 파라미터 가중치 백분율 (w_{m,i} %) W_m = W_0 + gamma * Delta W_m = W_RAG + gamma * (B_m * A_m)_DeepResearch w_{m,i} (%) = [ exp( g_m^T * W_m * e_{m,i} / tau ) / Sum_{j=1..N_m} exp( g_m^T * W_m * e_{m,j} / tau ) ] * 100 (%) (Sum_{i=1..N_m} w_{m,i} = 100%)"
+  },
+  "CHAPTER 4 • DUAL-AXIS GOVERNANCE: 6 AI CENTERS × 8 FUNCTIONAL DIVISIONS": {
+    "ko": "제4장 • 이중축 거버넌스: 6대 AI 센터 × 8대 기능 본부"
+  },
+  "SECTION 04 / 07": {
+    "ko": "섹션 04 / 07"
+  },
+  "CHAPTER 5 • CROSS-PROJECT CORRELATION & ONE SPARK MULTI-OUTCOME DYNAMICS": {
+    "ko": "제5장 • 프로젝트 간 상관관계 및 One Spark 다중 성과 역학"
+  },
+  "SECTION 05 / 07": {
+    "ko": "섹션 05 / 07"
+  },
+  "EQUATION 5.1 • WEIGHTED RIEMANNIAN CROSS-PROJECT CORRELATION (%) rho(T_{A,i}, T_{B,j}) = max( 0, [ e_{A,i}^T * Omega_{AB} * e_{B,j} ] / [ sqrt(e_{A,i}^T Omega_{AB} e_{A,i}) * sqrt(e_{B,j}^T Omega_{AB} e_{B,j}) ] ) * 100 (%)": {
+    "ko": "수식 5.1 • 가중 리만 프로젝트 간 상관계수 (%) rho(T_{A,i}, T_{B,j}) = max( 0, [ e_{A,i}^T * Omega_{AB} * e_{B,j} ] / [ sqrt(e_{A,i}^T Omega_{AB} e_{A,i}) * sqrt(e_{B,j}^T Omega_{AB} e_{B,j}) ] ) * 100 (%)"
+  },
+  "EQUATION 5.2 – 5.4 • INDUCED STATE ADVANCEMENT & SPARK AMPLIFICATION FACTOR (M_spark) Induced State Advancement: Delta s_{B,j} = eta_{AB} * [ rho(T_{A,i*}, T_{B,j}) / 100 ] * Delta s_{A,i*} Total Multi-Outcome Impact: Y_multi(T_{A,i*}) = w_{A,i*} Delta s_{A,i*} + Sum_{B != A} Sum_{j=1..N_B} w_{B,j} * eta_{AB} * [ rho(T_{A,i*}, T_{B,j}) / 100 ] * Delta s_{A,i*} Spark Amplification Factor: M_spark(T_{A,i*}) = Y_multi / (w_{A,i*} Delta s_{A,i*}) = 1 + (1 / w_{A,i*}) * Sum_{B != A} Sum_{j=1..N_B} w_{B,j} * eta_{AB} * [ rho / 100 ]": {
+    "ko": "수식 5.2 – 5.4 • 유도된 상태 진척도 및 Spark 증폭 계수 (M_spark) 유도된 상태 진척도: Delta s_{B,j} = eta_{AB} * [ rho(T_{A,i*}, T_{B,j}) / 100 ] * Delta s_{A,i*} 총 다중 성과 임팩트: Y_multi(T_{A,i*}) = w_{A,i*} Delta s_{A,i*} + Sum_{B != A} Sum_{j=1..N_B} w_{B,j} * eta_{AB} * [ rho(T_{A,i*}, T_{B,j}) / 100 ] * Delta s_{A,i*} Spark 증폭 계수: M_spark(T_{A,i*}) = Y_multi / (w_{A,i*} Delta s_{A,i*}) = 1 + (1 / w_{A,i*}) * Sum_{B != A} Sum_{j=1..N_B} w_{B,j} * eta_{AB} * [ rho / 100 ]"
+  },
+  "CHAPTER 6 • EMPIRICAL SIMULATION & EXECUTIVE QUANTUM DASHBOARD TELEMETRY": {
+    "ko": "제6장 • 실증 시뮬레이션 및 경영진 양자 대시보드 텔레메트리"
+  },
+  "SECTION 06 / 07": {
+    "ko": "섹션 06 / 07"
+  },
+  "CHAPTER 7 • CONCLUSION & REFERENCES": {
+    "ko": "제7장 • 결론 및 참고문헌"
+  },
+  "SECTION 07 / 07": {
+    "ko": "섹션 07 / 07"
+  },
+  "ACADEMIC RESEARCH MONOGRAPH • PAPER QUBIT ALGORITHM DUAL ENGINES MONOGRAPH SERIES 03": {
+    "ko": "학술 연구 모노그래프 • 논문 Qubit Algorithm 듀얼 엔진 모노그래프 시리즈 03"
+  },
+  "Paper Qubit Algorithm Dual Engines: Hybrid Vector/GraphRAG Knowledge Retrieval Coupled with Multi-Task Learning (GradNorm & TAG), DSM Combinatorial Optimization, and Independent Hard-Constraint Firewalls": {
+    "ko": "논문 Qubit Algorithm 듀얼 엔진: 멀티태스크 학습(GradNorm & TAG), DSM 조합 최적화 및 독립적 하드 제약 방화벽과 결합된 하이브리드 벡터/GraphRAG 지식 검색"
+  },
+  "Authors: SISTAR Company (*SC), Dennii Ku (denniiku) | Title Note: Official monograph title standardized from qubit algorithm, one spark infinate galaxifying to Qubit Algorithm, One Spark Infinite Galaxifying.": {
+    "ko": "저자: SISTAR Company (*SC), Dennii Ku (denniiku) | 제목 주기: 공식 논문 표제를 qubit algorithm, one spark infinate galaxifying에서 Qubit Algorithm, One Spark Infinite Galaxifying으로 표준화함."
+  },
+  "CHAPTER 1 • INTRODUCTION SECTION 01 / 07": {
+    "ko": "제1장 • 서론 섹션 01 / 07"
+  },
+  "1. Introduction: Transcending Newtonian Causality in Global Enterprise": {
+    "ko": "1. 서론: 글로벌 엔터프라이즈에서 뉴턴식 인과율의 초월"
+  },
+  "Modern global commerce and diversified multi-project corporate management remain bound by Newtonian sequential causality (A → B → C). In traditional trade and venture building diagnosed by *SC, downstream stages cannot commence until upstream inventory procurement, customs clearance, and payment collection are sequentially completed, locking working capital for 60–180 days and demanding $150,000–$500,000 in upfront fixed capital per venture. Furthermore, when launching multiple new business projects in parallel, isolated silos consume redundant human capital, data pipelines, and marketing budgets, causing management complexity and fixed overhead to escalate rapidly with project count N.": {
+    "ko": "현대 글로벌 통상과 다각화된 멀티 프로젝트 기업 경영은 여전히 뉴턴식 선형 인과율(A → B → C)의 굴레에 얽매여 있다. *SC가 진단한 전통적인 무역 및 벤처 빌딩 구조에서는 업스트림의 재고 조달, 통관, 대금 회수가 순차적으로 완료되기 전까지 다운스트림 단계를 개시할 수 없으며, 이로 인해 운전자본이 60~180일간 묶이고 벤처당 15만~50만 달러 규모의 초기 고정자본이 요구된다. 나아가 다수의 신규 사업 프로젝트를 병렬로 론칭할 때 고립된 사일로(silo)들이 인적 자본, 데이터 파이프라인, 마케팅 예산을 중복 소진함으로써 프로젝트 수 N의 증가에 따라 관리 복잡성과 고정 오버헤드가 급격히 가중된다."
+  },
+  "By uniting over 20 years (30 years per the logistics monograph) of on-the-ground global trade and business development expertise with autonomous AI infrastructure, SISTAR Company (*SC) engineered an operational paradigm—Qubit Algorithm™—where a single human insight or operational input (One Spark / One Task) simultaneously manifests as multiple derivative business models and cross-project outcomes (Infinite Galaxifying / Multi Outcomes). Just as quantum vacuum fluctuations trigger state genesis and quantum superposition and entanglement determine states instantaneously across non-local distances, an AI-unified enterprise superposes a single intent signal in complex state space to lock in the utility of buyers, manufacturers, logistics providers, and financial institutions simultaneously at t = 0.": {
+    "ko": "SISTAR Company(*SC)는 20년 이상(물류 논문 기준 30년) 축적된 현장 글로벌 무역 및 사업 개발 전문성을 자율 AI 인프라와 결합함으로써, 단일 인간 통찰 또는 운영 투입(One Spark / One Task)이 다수의 파생 비즈니스 모델과 크로스 프로젝트 성과(Infinite Galaxifying / Multi Outcomes)로 동시 발현되는 운영 패러다임인 Qubit Algorithm™을 설계했다. 양자 진공 요동(vacuum fluctuation)이 상태 생성을 촉발하고 양자 중첩 및 얽힘이 비국소적(non-local) 거리 전반에 걸쳐 상태를 즉각적으로 결정짓는 것과 마찬가지로, AI 통합 엔터프라이즈는 복소 상태 공간에서 단일 의도 신호를 중첩하여 t = 0 시점에 바이어, 제조사, 물류사 및 금융기관의 효용을 동시에 확정(lock-in)한다."
+  },
+  "However, scaling and governing this conceptual algorithm across 15 to 100+ commercial projects requires a deep learning computation engine that quantitatively and qualitatively measures how a single quantum fluctuation propagates across specific departments and AI Centers with exact weight and correlation percentages (%). Moving beyond static prototype rules, this paper presents the complete mathematical and systems model of Qubit Algorithm™ uniting multi-task deep learning, GraphRAG, lightweight fine-tuning, and combinatorial optimization.": {
+    "ko": "그러나 이러한 개념적 알고리즘을 15개에서 100개 이상의 상업 프로젝트로 확장하고 통제(governance)하기 위해서는 단일 양자 요동이 특정 부서 및 AI Center 전반으로 정확한 가중치와 상관 백분율(%)을 수반하며 전파되는 양상을 정량적·정성적으로 측정하는 딥러닝 연산 엔진이 필수적이다. 본 논문은 정적 프로토타입 규칙을 넘어 멀티태스크 딥러닝, GraphRAG, 경량 미세조정(lightweight fine-tuning), 조합 최적화를 융합한 Qubit Algorithm™의 완전한 수학적·시스템적 모델을 제시한다."
+  },
+  "CHAPTER 2 • THEORETICAL BACKGROUND & RELATED WORK SECTION 02 / 07": {
+    "ko": "제2장 • 이론적 배경 및 관련 연구 섹션 02 / 07"
+  },
+  "2. Theoretical Background and Related Work": {
+    "ko": "2. 이론적 배경 및 관련 연구"
+  },
+  "The mathematical framework of this study is built upon four academic and industrial pillars:": {
+    "ko": "본 연구의 수학적 프레임워크는 학술 및 산업계의 다음 네 가지 기둥을 기반으로 구축된다:"
+  },
+  "Hilbert Context Moderation, QUBO & QCBM Hard Firewalls": {
+    "ko": "힐베르트 컨텍스트 조정, QUBO 및 QCBM 하드 방화벽"
+  },
+  "1. Quantum Cognition & Decision Theory: Busemeyer, Wang, Pothos, and Shiffrin formalized context-dependent human decision-making via state superposition and wavefunction collapse in Hilbert space. In Smart Organizations, AI decision support systems act as Context Moderators that maintain superposed executive states until collapsing them into optimal actions. 2. QUBO Portfolio & Hybrid Hard-Constraint Layers: Lu et al. (2024) formulated portfolio allocation in the Quadratic Unconstrained Binary Optimization (QUBO) framework, while Symplectic QPM combined symplectic geometry, Inverse Reinforcement Learning (IRL), and PMI governance. Crucially, hybrid quantum-classical autonomous decision architectures (QCBM) demonstrate that learned probability distributions must pass through an independent classical Hard Constraint Layer (filtering candidates below threshold and enforcing deterministic fallbacks, elevating holdout accuracy from 74.03% to 83.26% in robotics simulations).": {
+    "ko": "1. 양자 인지 및 의사결정 이론: Busemeyer, Wang, Pothos, Shiffrin은 힐베르트 공간에서의 상태 중첩과 파동함수 붕괴를 통해 맥락 의존적 인간 의사결정을 정형화했다. 스마트 조직(Smart Organizations)에서 AI 의사결정 지원 시스템은 중첩된 경영 상태를 유지하다가 최적의 실행으로 붕괴시키는 컨텍스트 조정자(Context Moderator) 역할을 수행한다. 2. QUBO 포트폴리오 및 하이브리드 하드 제약 레이어: Lu 등(2024)은 포트폴리오 배분을 2차 무제약 이진 최적화(QUBO) 프레임워크로 정식화했으며, Symplectic QPM은 심플렉틱 기하학, 역강화학습(IRL) 및 PMI 거버넌스를 결합했다. 특히 하이브리드 양자-고전 자율 의사결정 아키텍처(QCBM)는 학습된 확률 분포가 독립적인 고전적 하드 제약 레이어(임계값 미달 후보 필터링 및 결정론적 폴백 강제, 로보틱스 시뮬레이션에서 홀드아웃 정확도를 74.03%에서 83.26%로 향상)를 통과해야 함을 입증한다."
+  },
+  "Dynamic Loss Balancing, Task Affinity & Hybrid LLM Routing": {
+    "ko": "동적 손실 밸런싱, 태스크 유사도 및 하이브리드 LLM 라우팅"
+  },
+  "3. DSM, RCPSP & Multi-Task Learning: Design Structure Matrices (DSM) and Resource-Constrained Project Scheduling (RCPSP) model task interdependencies. In deep learning, Chen et al. (2018) introduced GradNorm to dynamically balance multi-task loss weights wi(t) via a single hyperparameter &alpha; (coupled with explicit Dynamic Scaling to reduce relative error from 18.4% to 2.2% under extreme scale disparity). Fifty et al. (2021) introduced TAG (Task Affinity Grouping), computing 1-step lookahead gradient affinities to reduce test loss by 10.0% at 11.6x faster grouping speed, extended via Mixed-Integer Programming (MIP). 4. Enterprise Hybrid Vector/GraphRAG, MRL & LoRA: Industry benchmarks (Winder.ai, Databricks, Fabrix, Persistent) confirm that volatile facts and provenance belong in Hybrid RAG (Text RAG for single-hop lookups; GraphRAG for multi-hop causal reasoning: +10 pts complex reasoning, +13 pts summarization, +28~31 pts on 2Wiki/MuSiQue), while LoRA fine-tuning (~1% parameters, up to 50% VRAM savings, 22% higher hybrid accuracy, 40% lower compute cost) locks JSON schemas and distills local models (~10x lower inference cost) alongside 768~1,024-dim Matryoshka (MRL) embeddings.": {
+    "ko": "3. DSM, RCPSP 및 멀티태스크 학습: 설계 구조 행렬(DSM)과 자원 제약 프로젝트 일정 계획(RCPSP)은 태스크 간 상호의존성을 모델링한다. 딥러닝 분야에서 Chen 등(2018)은 단일 초매개변수 &alpha;를 통해 멀티태스크 손실 가중치 wi(t)를 동적으로 균형 잡는 GradNorm을 도입했다(극단적인 스케일 격차 하에서 상대 오차를 18.4%에서 2.2%로 감소시키는 명시적 Dynamic Scaling 결합). Fifty 등(2021)은 TAG(Task Affinity Grouping)를 제안하여 1단계 룩어헤드 그래디언트 유사도를 계산함으로써 11.6배 빠른 그룹화 속도와 함께 테스트 손실을 10.0% 감소시켰으며, 이는 혼합 정수 계획법(MIP)을 통해 확장되었다. 4. 엔터프라이즈 하이브리드 벡터/GraphRAG, MRL 및 LoRA: 산업 벤치마크(Winder.ai, Databricks, Fabrix, Persistent)에 따르면 변동성이 큰 사실 및 출처 추적은 하이브리드 RAG(단일 홉 조회를 위한 텍스트 RAG; 다중 홉 인과 추론을 위한 GraphRAG: 복합 추론 +10포인트, 요약 +13포인트, 2Wiki/MuSiQue에서 +28~31포인트)에 배치하는 반면, LoRA 미세조정(약 1% 파라미터, 최대 50% VRAM 절감, 22% 높은 하이브리드 정확도, 40% 낮은 연산 비용)은 768~1,024차원 Matryoshka(MRL) 임베딩과 함께 JSON 스키마를 고정하고 로컬 모델을 증류(추론 비용 약 10배 절감)하는 데 최적임을 입증한다."
+  },
+  "CHAPTER 3 • MATHEMATICAL FORMALISM OF QUBIT ALGORITHM™ SECTION 03 / 07": {
+    "ko": "제3장 • QUBIT ALGORITHM™의 수학적 정식화 섹션 03 / 07"
+  },
+  "3. Mathematical Formalism of Qubit Algorithm™": {
+    "ko": "3. Qubit Algorithm™의 수학적 정식화"
+  },
+  "3.1 Composite Hilbert Space State Vectors and the Five Quantum Laws of Management": {
+    "ko": "3.1 복합 힐베르트 공간 상태 벡터 및 경영의 5대 양자 법칙"
+  },
+  "Every business opportunity and execution unit in the enterprise ecosystem is defined as a state vector in the composite complex Hilbert space H_total = H_Project (x) H_Dept^8 (x) H_AICenter^6 (x) H_Unit. On this space, *SC's Five Quantum Laws of Management operate as follows:": {
+    "ko": "엔터프라이즈 생태계 내의 모든 비즈니스 기회와 실행 단위는 복합 복소 힐베르트 공간 H_total = H_Project (x) H_Dept^8 (x) H_AICenter^6 (x) H_Unit 내의 상태 벡터로 정의된다. 이 공간 위에서 *SC의 경영 5대 양자 법칙은 다음과 같이 작동한다:"
+  },
+  "3.2 Task Parameter Vectorization and Dynamic Weight Learning Model (GradNorm)": {
+    "ko": "3.2 태스크 파라미터 벡터화 및 동적 가중치 학습 모델(GradNorm)"
+  },
+  "Replacing static prototype scalars (0.8, 0.4), the normalized dynamic importance weight W_{p,d,a,u}(t) of a task chunk assigned to Project p, Department d, AI Center a, and Individual Unit u is formulated as the normalized product of three terms: cosine semantic alignment S_target with the project target vector, real-time Hybrid RAG + Deep Research evidence score R_{RAG+DR} in [0, 1], and the GradNorm adaptive loss weight w_{d,a}^GN(t) (with explicit Dynamic Scaling at the output head):": {
+    "ko": "정적 프로토타입 스칼라(0.8, 0.4)를 대체하여, 프로젝트 p, 부서 d, AI Center a, 개별 유닛 u에 할당된 태스크 청크의 정규화된 동적 중요도 가중치 W_{p,d,a,u}(t)는 세 항의 정규화된 곱으로 공식화된다: 프로젝트 타깃 벡터와의 코사인 의미론적 일치도 S_target, [0, 1] 범위의 실시간 하이브리드 RAG + Deep Research 근거 점수 R_{RAG+DR}, 그리고 GradNorm 적응형 손실 가중치 w_{d,a}^GN(t)(출력 헤드에서의 명시적 Dynamic Scaling 포함):"
+  },
+  "3.3 Cross-Project Correlation Tensor Cij(t), Destructive Interference Firewall & QUBO/MIP": {
+    "ko": "3.3 크로스 프로젝트 상관 텐서 Cij(t), 상쇄 간섭 방화벽 및 QUBO/MIP"
+  },
+  "When a single operational spark occurs in Project i, the Cross-Project Co-relation % Cij(t) that triggers Project j combines MRL cosine similarity, DSM + GraphRAG multi-hop structural reachability, and TAG lookahead task affinity, gated by the AI Risk Management Center's independent Hard-Constraint indicator function I_hard(i,j,t) in {0, 1}. Surviving tasks are scheduled under Resource-Constrained Project Scheduling (RCPSP) via QUBO / MIP:": {
+    "ko": "프로젝트 i에서 단일 운영 스파크(spark)가 발생할 때 프로젝트 j를 트리거하는 크로스 프로젝트 상관율(%) Cij(t)는 MRL 코사인 유사도, DSM + GraphRAG 다중 홉 구조적 도달 가능성, TAG 룩어헤드 태스크 유사도를 결합하며, {0, 1} 값을 갖는 AI 위험관리센터의 독립적 하드 제약 지시 함수 I_hard(i,j,t)에 의해 게이팅(gated)된다. 잔여 태스크는 QUBO / MIP를 통한 자원 제약 프로젝트 일정 계획(RCPSP) 하에서 스케줄링된다:"
+  },
+  "CHAPTER 4 • SYSTEM ARCHITECTURE & 6 AI CENTERS ORCHESTRATION SECTION 04 / 07": {
+    "ko": "제4장 • 시스템 아키텍처 및 6대 AI CENTER 오케스트레이션 섹션 04 / 07"
+  },
+  "4. System Architecture: 6 AI Centers, 8 Divisions & 5 Cosmo Seed™ Engines": {
+    "ko": "4. 시스템 아키텍처: 6대 AI Center, 8대 부문 및 5대 Cosmo Seed™ 엔진"
+  },
+  "To operate the mathematical formalism 24/7 without human intervention, *SC's 12-domain infrastructure expands its original 3 Control Towers into an integrated 6 AI Centers – 8 Functional Divisions – 5 Cosmo Seed™ Engines orchestration architecture:": {
+    "ko": "인간의 개입 없이 연중무휴(24/7) 수학적 정식화를 구동하기 위해, *SC의 12대 도메인 인프라는 기존 3대 컨트롤 타워를 6대 AI Center – 8대 기능 부문 – 5대 Cosmo Seed™ 엔진의 통합 오케스트레이션 아키텍처로 확장한다:"
+  },
+  "Layer": {
+    "ko": "계층"
+  },
+  "AI Center Module (*SC Mapping)": {
+    "ko": "AI Center 모듈 (*SC 매핑)"
+  },
+  "Engineering Pipeline & Operational Role": {
+    "ko": "엔지니어링 파이프라인 및 운영 역할"
+  },
+  "Command & Dispatch": {
+    "ko": "지휘 및 디스패치 (Command & Dispatch)"
+  },
+  "Upon receiving a single natural-language memo (One Spark), immediately dispatches parameterized mission JSON payloads across the 8 divisions (Sales & Opr, Finance, HR, SCM, RA, IT, Marketing, Biz Development) and individual Challenger units.": {
+    "ko": "단일 자연어 메모(One Spark)를 수신하는 즉시, 8대 부문(영업 및 운영, 재무, 인사, SCM, RA, IT, 마케팅, 사업개발) 및 개별 Challenger 유닛 전반으로 매개변수화된 미션 JSON 페이로드를 즉각 디스패치한다."
+  },
+  "Ingestion & Vector": {
+    "ko": "인제스천 및 벡터화"
+  },
+  "2. AI Data Center (Overnight Data Factory, Workspace, pgvector)": {
+    "ko": "2. AI 데이터 센터 (오버나이트 데이터 팩토리, 워크스페이스, pgvector)"
+  },
+  "Ingests 22:00–08:00 Playwright/Apify crawls and cleaned Keep/Drive/[Projects]_Master tables via 3-tier structured chunking, MRL embeddings (768~1,024-dim), and GraphRAG entity-relation triples.": {
+    "ko": "22:00~08:00 간의 Playwright/Apify 크롤링 데이터 및 정제된 Keep/Drive/[Projects]_Master 테이블을 3계층 구조화 청킹(3-tier structured chunking), MRL 임베딩(768~1,024차원), GraphRAG 엔티티-관계 트리플(entity-relation triples)을 통해 인제스트(수집·적재)합니다."
+  },
+  "Computation & MTL": {
+    "ko": "연산 및 MTL"
+  },
+  "3. AI Analysis Center (Intelligence-Core, NotebookLM, Dify, MTL)": {
+    "ko": "3. AI 분석 센터 (인텔리전스 코어, NotebookLM, Dify, MTL)"
+  },
+  "Executes Deep Research prior scoring, computes GradNorm dynamic weights Wp,d,a,u(t), TAG affinity & DSM reachability Co-relation % Cij(t), and locks QUBO/MIP execution priority.": {
+    "ko": "Deep Research 사전 스코어링을 수행하고, GradNorm 동적 가중치 Wp,d,a,u(t), TAG 친화도 및 DSM 도달 가능성 기반의 상관 계수(Co-relation %) Cij(t)를 산출하며, QUBO/MIP 실행 우선순위를 확정(lock)합니다."
+  },
+  "Media & Conversion": {
+    "ko": "미디어 및 전환"
+  },
+  "4. AI Media Generation Center (SISTAR Studio, mall.sisTV, Qubit Ads)": {
+    "ko": "4. AI 미디어 생성 센터 (SISTAR Studio, mall.sisTV, Qubit Ads)"
+  },
+  "Autonomously produces 10+ daily multilingual short-form videos, SPIN B2B proposals, and QR Shoppable commerce links for high-correlation projects.": {
+    "ko": "높은 상관관계의 프로젝트를 대상으로 일일 10편 이상의 다국어 숏폼 영상, SPIN B2B 제안서, QR 기반 쇼퍼블(Shoppable) 커머스 링크를 자율적으로 생성합니다."
+  },
+  "Firewall & Control": {
+    "ko": "방화벽 및 통제"
+  },
+  "5. AI Risk Management Center (Triple Control Towers, Qubit ERP, CCTV Vision)": {
+    "ko": "5. AI 리스크 관리 센터 (트리플 컨트롤 타워, Qubit ERP, CCTV Vision)"
+  },
+  "Enforces the Hard-Constraint Firewall (Ihard): verifies 70/30 PG split, K-SURE BNPL limits, 3-month RPF, real-time CCTV + Gemini Vision warehouse audits, and blocks negative transfer (TAG < 0).": {
+    "ko": "하드 제약 방화벽(Hard-Constraint Firewall, Ihard)을 집행합니다: 70/30 PG 정산 분할, K-SURE BNPL 한도, 3개월 RPF, 실시간 CCTV + Gemini Vision 물류 창고 실사를 검증하고, 부정적 전이(negative transfer, TAG < 0)를 원천 차단합니다."
+  },
+  "Execution & Billing": {
+    "ko": "실행 및 정산/빌링"
+  },
+  "6. AI Web Working Center (Qubit Factory, Browser Works, Firebase, MCP/x402)": {
+    "ko": "6. AI 웹 워킹 센터 (Qubit Factory, Browser Works, Firebase, MCP/x402)"
+  },
+  "LoRA-tuned Ollama and cloud LLMs emit zero-error Qubit Master JSON to deploy web apps (Vibe Coding), execute headless browser orders, and collect external agent HTTP x402 API payments.": {
+    "ko": "LoRA 튜닝된 Ollama 및 클라우드 LLM이 무오류(zero-error) Qubit Master JSON을 생성하여 웹 앱을 배포(Vibe Coding)하고, 헤드리스 브라우저 주문을 실행하며, 외부 에이전트의 HTTP x402 API 결제를 청구 및 수취합니다."
+  },
+  "CHAPTER 5 • EMPIRICAL SCENARIO & VERIFICATION PROTOCOL SECTION 05 / 07": {
+    "ko": "CHAPTER 5 • 실증 시나리오 및 검증 프로토콜 SECTION 05 / 07"
+  },
+  "5. Korea–Indonesia One-Work Cascade Scenario and Verification Protocol": {
+    "ko": "5. 한-인도네시아 원워크 연쇄(One-Work Cascade) 시나리오 및 검증 프로토콜"
+  },
+  "5.1 Korea–Indonesia POCT 10-Container One-Work Cascade": {
+    "ko": "5.1 한-인도네시아 POCT 10개 컨테이너 원워크 연쇄(One-Work Cascade)"
+  },
+  "Applying *SC's One-Work event to this architecture demonstrates the leap from static heuristics to dynamic computation. At t = 0, when the CEO approves “10-container POCT diagnostic kit order for Indonesian B2B veterinary partners with 50% advance deposit” in the CEO ActionNote app, the legacy static prototype merely outputs hardcoded correlations (CS 01 Pro Note 100%, CS 11 Open Acc 95%, CS 19 Arbitrage 92%, CS 31 K-Vet 88%, CS 41 Auction 85%).": {
+    "ko": "*SC의 원워크(One-Work) 이벤트를 본 아키텍처에 적용하면 정적 휴리스틱에서 동적 컴퓨테이션으로의 도약을 입증할 수 있습니다. t = 0 시점에 CEO ActionNote 앱에서 CEO가 “인도네시아 B2B 수의학 파트너용 POCT 진단 키트 10개 컨테이너 주문(선급금 50% 입금 조건)”을 승인하면, 기존의 정적 프로토타입은 하드코딩된 상관관계(CS 01 Pro Note 100%, CS 11 Open Acc 95%, CS 19 Arbitrage 92%, CS 31 K-Vet 88%, CS 41 Auction 85%)만을 단순 출력하는 데 그쳤습니다."
+  },
+  "In contrast, under our dual-engine architecture, the AI Data Center queries Indonesian BPOM regulations, Shopee/Tokopedia wholesale prices, and Rp 1,320 sachet ODM cost tables via GraphRAG. The AI Analysis Center's GradNorm + TAG + DSM engine computes real-time dynamic Cij(t) across Sistar DX/MedIX, SisPet, SisPharm, Qubit Flow, and Biz-Hub based on actual loss-reduction affinity and structural reachability. Simultaneously, the AI Risk Management Center enforces the hard constraint (50% deposit + 3-month RPF + K-SURE limit + 70/30 PG split), and the LoRA adapter emits the Qubit Master JSON to execute Indonesian vet web-node updates, freight reverse-auction bidding, and multilingual video syndication simultaneously at t = 0.": {
+    "ko": "반면, 본 듀얼 엔진 아키텍처 하에서는 AI 데이터 센터가 GraphRAG를 통해 인도네시아 식약청(BPOM) 규정, Shopee/Tokopedia 도매가, Rp 1,320 사셰(sachet) ODM 원가표를 즉시 질의·조회합니다. AI 분석 센터의 GradNorm + TAG + DSM 엔진은 실제 손실 감소 친화도(loss-reduction affinity) 및 구조적 도달 가능성을 기반으로 Sistar DX/MedIX, SisPet, SisPharm, Qubit Flow, Biz-Hub 전반에 걸친 실시간 동적 Cij(t)를 연산합니다. 이와 동시에 AI 리스크 관리 센터는 하드 제약(50% 선급금 + 3개월 RPF + K-SURE 한도 + 70/30 PG 분할)을 집행하며, LoRA 어댑터는 Qubit Master JSON을 생성하여 t = 0 시점에 인도네시아 수의학 웹 노드 업데이트, 화물 역경매 입찰, 다국어 영상 신디케이션을 동시 다발적으로 즉각 실행합니다."
+  },
+  "5.2 Internal Target Benchmarks vs. Objective Empirical Verification Protocol": {
+    "ko": "5.2 내부 목표 벤치마크 vs. 객관적 실증 검증 프로토콜"
+  },
+  "Evaluation Dimension": {
+    "ko": "평가 차원"
+  },
+  "Classical Linear Baseline (*SC Internal Comparison)": {
+    "ko": "전통적 선형 베이스라인 (*SC 내부 비교군)"
+  },
+  "*SC Qubit Algorithm™ Target Benchmark": {
+    "ko": "*SC Qubit Algorithm™ 목표 벤치마크"
+  },
+  "Objective Empirical Verification Protocol (Proposed)": {
+    "ko": "객관적 실증 검증 프로토콜 (제안안)"
+  },
+  "New Project Launch": {
+    "ko": "신규 프로젝트 론칭"
+  },
+  "$150,000–$500,000 upfront Capex, 6–12 months": {
+    "ko": "$150,000~$500,000의 초기 Capex, 6~12개월 소요"
+  },
+  "~$0 Initial Capex (Vcapital = 0), 24–72 hours": {
+    "ko": "~$0 수준의 초기 Capex (Vcapital = 0), 24~72시간 소요"
+  },
+  "Measure actual portal deployment timestamps and cloud variable cost ledgers across anchor projects.": {
+    "ko": "앵커 프로젝트 전반의 실제 포털 배포 타임스탬프 및 클라우드 변동비 원장을 실측 및 검증."
+  },
+  "Cash Conversion & Clearing": {
+    "ko": "현금 전환 및 결제·정산"
+  },
+  "90–180 day capital lock, 60–120 day sequential settlement (5%–8% FX loss)": {
+    "ko": "90–180일 자본 동결, 60–120일 순차 정산 (5%–8% 환손실)"
+  },
+  "t = 0 Simultaneous Settlement, 50% deposit + K-SURE BNPL, 70/30 PG split": {
+    "ko": "t = 0 동시 정산, 50% 계약금 + K-SURE BNPL, 70/30 PG 분할"
+  },
+  "Audit order-to-settlement lead time (Δt) and default rate (0% target) on live Korea–Indonesia shipments.": {
+    "ko": "한국–인도네시아 실물 선적 대상 주문-정산 리드타임(Δt) 및 채무불이행률(목표치 0%) 감사"
+  },
+  "Gross Margin (GM) & CAC": {
+    "ko": "매출총이익률(GM) 및 고객획득비용(CAC)"
+  },
+  "$50,000+/yr SaaS fees, 3–9 mo CAC payback, 3%–7% bad debt": {
+    "ko": "연간 $50,000 이상의 SaaS 비용, 3–9개월 CAC 회수 기간, 3%–7% 부실채권율"
+  },
+  "SW/MCP API GM 75%–88% (or 75%–85%), Physical Trade GM 45%–65%, CAC payback < 0.5 mo": {
+    "ko": "SW/MCP API GM 75%–88% (또는 75%–85%), 실물 무역 GM 45%–65%, CAC 회수 기간 < 0.5개월"
+  },
+  "Audit quarterly SKU/API gross margins and free educational funnel CAC via C-Suite console ledgers.": {
+    "ko": "C-Suite 콘솔 원장을 통한 분기별 SKU/API 매출총이익 및 무료 교육 퍼널 CAC 감사"
+  },
+  "Weight & Correlation Engine": {
+    "ko": "가중치 및 상관관계 엔진"
+  },
+  "Legacy Dify node: static 0.8/0.4 & manual % ratios": {
+    "ko": "레거시 Dify 노드: 정적 0.8/0.4 및 수동 % 비율"
+  },
+  "Backtest negative transfer blocking rate and resource allocation ROI against historical execution logs.": {
+    "ko": "과거 실행 로그 기반 부정적 전이(Negative Transfer) 차단율 및 자원 배분 ROI 백테스트"
+  },
+  "CHAPTER 6 & 7 • GOVERNANCE, LIMITATIONS, CONCLUSION & REFERENCES SECTION 06-07 / 07": {
+    "ko": "제6장 및 제7장 • 거버넌스, 한계점, 결론 및 참고문헌 섹션 06-07 / 07"
+  },
+  "6. Governance, Risk Firewalls, and Explicit Research Limitations": {
+    "ko": "6. 거버넌스, 리스크 방화벽 및 명시적 연구 한계점"
+  },
+  "Because multi-project entanglement amplifies operational leverage, strict legal and financial containment is mandatory. *SC enforces a Dual-Track Legal Firewall that legally separates core IP and holding assets (SC Index) from commercial execution liabilities (Biz Galaxy subsidiaries), operates 4-Way Multilateral Asset Offsetting (physical goods, free AI/SCM education knowledge assets, IT/AI solutions, and credit vouchers) via closed-loop B2B procurement vouchers (Qubit Banks) to bypass money-transmitter friction, and publishes daily Net Asset Value (NAV) calculations.": {
+    "ko": "다중 프로젝트 얽힘(Entanglement)은 운영 레버리지를 증폭시키므로 엄격한 법적·재무적 격리가 필수적이다. *SC는 핵심 IP 및 지주 자산(SC Index)을 상업적 실행 부채(Biz Galaxy 자회사)로부터 법적으로 분리하는 듀얼 트랙 법적 방화벽을 시행하고, 자금 이체 마찰을 우회하기 위해 폐쇄형 B2B 조달 바우처(Qubit Banks)를 통한 4자 다자간 자산 상계(실물 상품, 무료 AI/SCM 교육 지식 자산, IT/AI 솔루션, 신용 바우처)를 운영하며, 일일 순자산가치(NAV) 산출 내역을 공시한다."
+  },
+  "Four Explicit Research Limitations: (1) As a quantum-inspired algorithm running on classical cloud and edge hardware (Ollama), scaling task count n into the thousands expands TAG complexity by (n^2 + n)F, requiring periodic sampling or cluster partitioning; (2) GraphRAG indexing incurs initial LLM token costs (~$48 on GPT-4o for mid-sized corpora per Persistent benchmarks) and must be selectively applied to core cross-project documents; (3) clean source data integrity is a prerequisite before any deep learning weight model can learn valid correlations; and (4) target gross margin and 0% default benchmarks require prospective third-party accounting audits.": {
+    "ko": "4가지 명시적 연구 한계점: (1) 고전 클라우드 및 엣지 하드웨어(Ollama)에서 구동되는 양자 영감 알고리즘 특성상, 태스크 수 n이 수천 단위로 확장될 경우 TAG 복잡도가 (n^2 + n)F로 급증하여 주기적 샘플링이나 클러스터 파티셔닝이 요구됨; (2) GraphRAG 인덱싱은 초기 LLM 토큰 비용(Persistent 벤치마크 기준 중형 코퍼스 대상 GPT-4o 약 $48)을 발생시키므로 핵심 교차 프로젝트 문서에 선별적으로 적용되어야 함; (3) 딥러닝 가중치 모델이 유효한 상관관계를 학습하기 위해서는 무결성이 확보된 정제 원천 데이터가 전제되어야 함; (4) 목표 매출총이익률 및 0% 채무불이행 벤치마크는 전향적 외부 회계 감사가 요구됨."
+  },
+  "7. Conclusion & Works Cited": {
+    "ko": "7. 결론 및 참고문헌"
+  },
+  "This paper formalized SISTAR Company's (*SC) One Spark, Infinite Galaxifying philosophy through 3-tier MRL embeddings, Hybrid Vector/GraphRAG, GradNorm + TAG multi-task learning, DSM + QUBO combinatorial optimization, an independent Hard-Constraint Firewall, and LoRA schema distillation—establishing an integrated enterprise operating system where 6 AI Centers and 8 corporate divisions generate simultaneous t = 0 multi-project outcomes without negative transfer.": {
+    "ko": "본 논문은 3계층 MRL 임베딩, 하이브리드 Vector/GraphRAG, GradNorm + TAG 멀티태스크 학습, DSM + QUBO 조합 최적화, 독립적 Hard-Constraint Firewall, LoRA 스키마 증류를 통해 SISTAR Company(*SC)의 'One Spark, Infinite Galaxifying' 철학을 공식화하였으며, 이를 통해 6개 AI 센터와 8개 사업 부문이 부정적 전이 없이 동시적 t = 0 다중 프로젝트 성과를 창출하는 통합 엔터프라이즈 운영체제를 구축하였다."
+  },
+  "Works Cited & Bibliographic Sources": {
+    "ko": "참고문헌 및 서지 출처"
+  },
+  "← Back to one spark infinite galaxifying Paper 01: Biz Quantum Mechanics Paper 02: Qubit Deep Learning Mechanism Print / Save PDF": {
+    "ko": "← One Spark, Infinite Galaxifying으로 돌아가기 논문 01: 비즈니스 양자역학 논문 02: 큐비트 딥러닝 메커니즘 인쇄 / PDF 저장"
+  },
+  "Paper 02: Qubit Deep Learning Mechanism": {
+    "ko": "논문 02: 큐비트 딥러닝 메커니즘"
+  },
+  "ACADEMIC RESEARCH MONOGRAPH • PAPER QUBIT ALGORITHM DUAL ENGINES": {
+    "ko": "학술 연구 모노그래프 • 논문 QUBIT ALGORITHM DUAL ENGINES"
+  },
+  "MONOGRAPH SERIES 03": {
+    "ko": "모노그래프 시리즈 03"
+  },
+  "ABSTRACT This paper establishes Qubit Algorithm™ and the \"One Spark, Infinite Galaxifying\" mechanism by transplanting the conceptual and mathematical principles of quantum mechanics and quantum information theory into a multi-project AI enterprise architecture, overcoming the temporal friction (Delta t > 0), capital/inventory potential barriers, and inter-project information silos inherent in classical linear value chains (Capital Input -> Manufacturing -> Customs -> Distribution -> Settlement). Existing rule-based automation prototypes suffered from assuming static heuristic task weights (0.8 / 0.4) and fixed Cross-Project Co-relation % ratios when a single task propagates across multiple projects. To resolve this, this study proposes an integrated dual-engine architecture comprising: (1) 3-tier structured chunking and Matryoshka Representation Learning (MRL 768~1,024-dim) vectorization; (2) a hybrid coupling of Vector RAG for volatile factual data and GraphRAG for multi-hop causal reasoning; (3) a dynamic Cross-Project Correlation Tensor C_{ij}(t) fusing Multi-Task Learning adaptive loss balancing (GradNorm), Task Affinity Grouping (TAG), and Design Structure Matrices (DSM); (4) a hybrid classical-quantum Hard-Constraint Firewall that separates risk, regulatory, and financial limits from learned preferences to annihilate Negative Transfer via destructive interference; and (5) LoRA fine-tuning orchestration dedicated to 100% deterministic JSON schema emission and local edge model cost distillation. We apply this architecture across SISTAR Company's (*SC) 6 AI Centers, 8 Corporate Divisions, 5 Cosmo Seed™ Engines, and a real-world Korea–Indonesia cross-border trade scenario to demonstrate structural validity and establish empirical verification protocols.": {
+    "ko": "초록 본 논문은 양자역학 및 양자정보이론의 개념적·수학적 원리를 다중 프로젝트 AI 엔터프라이즈 아키텍처에 이식하여 Qubit Algorithm™ 및 \"One Spark, Infinite Galaxifying\" 메커니즘을 정립하고, 고전적 선형 가치사슬(자본 투입 -> 제조 -> 통관 -> 유통 -> 정산)에 내재된 시간적 마찰(Delta t > 0), 자본/재고 포텐셜 장벽, 프로젝트 간 정보 사일로를 극복한다. 기존의 규칙 기반 자동화 프로토타입은 단일 태스크가 다중 프로젝트로 전파될 때 정적 휴리스틱 태스크 가중치(0.8 / 0.4)와 고정된 프로젝트 간 상관관계 % 비율을 가정하는 한계를 지녔다. 이를 해결하기 위해 본 연구는 다음과 같은 통합 듀얼 엔진 아키텍처를 제안한다: (1) 3계층 구조화 청킹 및 Matryoshka Representation Learning (MRL 768~1,024차원) 벡터화; (2) 휘발성 사실 데이터를 위한 Vector RAG와 다단계(Multi-hop) 인과 추론을 위한 GraphRAG의 하이브리드 결합; (3) 멀티태스크 학습 적응형 손실 균형(GradNorm), 태스크 친화도 그룹화(TAG), 설계 구조 행렬(DSM)을 융합한 동적 프로젝트 간 상관 텐서 C_{ij}(t); (4) 상쇄 간섭을 통해 부정적 전이(Negative Transfer)를 소멸시키고자 리스크, 규제, 재무적 한계를 학습된 선호도와 분리하는 고전-양자 하이브리드 Hard-Constraint Firewall; (5) 100% 결정론적 JSON 스키마 출력 및 로컬 엣지 모델 비용 증류에 특화된 LoRA 파인튜닝 오케스트레이션. 본 아키텍처를 SISTAR Company(*SC)의 6개 AI 센터, 8개 사업 부문, 5개 Cosmo Seed™ 엔진 및 한국–인도네시아 글로벌 크로스보더 무역 실증 시나리오에 적용하여 구조적 유효성을 입증하고 실증적 검증 프로토콜을 확립한다."
+  },
+  "CHAPTER 2 • THEORETICAL BACKGROUND & RELATED WORK": {
+    "ko": "제2장 • 이론적 배경 및 관련 연구"
+  },
+  "CHAPTER 3 • MATHEMATICAL FORMALISM OF QUBIT ALGORITHM™": {
+    "ko": "제3장 • Qubit Algorithm™의 수학적 정식화(Mathematical Formalism)"
+  },
+  "EQUATION 3.1 – 3.5 • THE FIVE QUANTUM LAWS OF MANAGEMENT 1) Law 1 — Quantum Fluctuation (One Spark Genesis from Vacuum State V_capital = 0): |0_vacuum> --[ H_spark (Human Insight + Overnight Data Factory) ]--> Sum_{p=1..N} alpha_p |Psi_seed^(p)> 2) Law 2 — Quantum Superposition (t = 0 Simultaneous 4-Party Settlement): |Psi_trade> = c_B |Buyer> + c_M |Manufacturer> + c_L |Logistics> + c_F |Finance> => rho_settlement(t = 0) 3) Law 3 — Quantum Entanglement (One Task, Multi Outcomes Non-Local Coupling): |Psi_{AB}> = (1 / sqrt(2)) * ( |Executed_A, Triggered_B> + e^(i*phi) |Idle_A, Idle_B> ) != |psi_A> (x) |psi_B> 4) Law 4 — WKB Quantum Tunneling (Zero-Inventory Entry via Buy4Me, 50% Deposit, 3-Mo RPF & K-SURE): T_tunneling approx exp( -2 * Integral_{x1..x2} sqrt( (2m / hbar^2) * max(0, V_capital - E_intent) ) dx ) --> 1 (as Delta x -> 0) 5) Law 5 — Discrete Credit Energy Quantization & Wavefunction Collapse: E_n = n^2 * E_1 (n = 1: Sample/50% Deposit -> n = 2: Partial Open Account -> n = 3: Full K-SURE Open Account), P(Contract_k) = |<phi_k | Psi>|^2": {
+    "ko": "수식 3.1 – 3.5 • 경영의 5대 양자 법칙 1) 제1법칙 — 양자 요동 (진공 상태 V_capital = 0으로부터의 One Spark 발원): |0_vacuum> --[ H_spark (인간의 통찰 + 야간 무인 데이터 팩토리) ]--> Sum_{p=1..N} alpha_p |Psi_seed^(p)> 2) 제2법칙 — 양자 중첩 (t = 0 동시 4자 정산): |Psi_trade> = c_B |Buyer> + c_M |Manufacturer> + c_L |Logistics> + c_F |Finance> => rho_settlement(t = 0) 3) 제3법칙 — 양자 얽힘 (단일 태스크, 다중 결과 비국소 커플링): |Psi_{AB}> = (1 / sqrt(2)) * ( |Executed_A, Triggered_B> + e^(i*phi) |Idle_A, Idle_B> ) != |psi_A> (x) |psi_B> 4) 제4법칙 — WKB 양자 터널링 (Buy4Me 역경매, 50% 선급금, 3개월 RPF 및 K-SURE를 통한 무재고 진입): T_tunneling approx exp( -2 * Integral_{x1..x2} sqrt( (2m / hbar^2) * max(0, V_capital - E_intent) ) dx ) --> 1 (as Delta x -> 0) 5) 제5법칙 — 이산적 신용 에너지 양자화 및 파동함수 붕괴: E_n = n^2 * E_1 (n = 1: 샘플/50% 계약금 -> n = 2: 부분 외상 거래 -> n = 3: 전액 K-SURE 외상 거래), P(Contract_k) = |<phi_k | Psi>|^2"
+  },
+  "EQUATION 3.6 & 3.7 • DYNAMIC TASK WEIGHT & GRADNORM ADAPTIVE GRADIENT BALANCING W_{p,d,a,u}(t) = [ S_target(g_p, e_{p,d,a,u}) * R_{RAG+DR}(p,d,a,u,t) * w_{d,a}^GN(t) ] / [ Sum_{d',a',u'} S_target * R_{RAG+DR} * w_{d',a'}^GN(t) ] L_GradNorm(t) = Sum_{d,a} | G_W^(d,a)(t) - G_bar_W(t) * [ r_{d,a}(t) ]^alpha |, where G_W^(d,a)(t) = || grad_{W_shared} [ w_{d,a}^GN(t) * L_{d,a}(t) ] ||_2": {
+    "ko": "수식 3.6 & 3.7 • 동적 태스크 가중치 및 GradNorm 적응형 그래디언트 밸런싱 W_{p,d,a,u}(t) = [ S_target(g_p, e_{p,d,a,u}) * R_{RAG+DR}(p,d,a,u,t) * w_{d,a}^GN(t) ] / [ Sum_{d',a',u'} S_target * R_{RAG+DR} * w_{d',a'}^GN(t) ] L_GradNorm(t) = Sum_{d,a} | G_W^(d,a)(t) - G_bar_W(t) * [ r_{d,a}(t) ]^alpha |, 단, G_W^(d,a)(t) = || grad_{W_shared} [ w_{d,a}^GN(t) * L_{d,a}(t) ] ||_2"
+  },
+  "EQUATION 3.8 & 3.9 • CROSS-PROJECT CORRELATION TENSOR, HARD FIREWALL & QUBO/MIP SCHEDULING C_{ij}(t) = 100 * I_hard(i,j,t) * sigma( beta_1 * cos(v_i, v_j) + beta_2 * Reach_{DSM+Graph}(i -> j) + beta_3 * Z_bar_{i->j}^TAG(t) ) where I_hard(i,j,t) = 0 if Z_bar_{i->j}^TAG < 0 (Negative Transfer), raw correlation < 0.25, or RA / K-SURE / 70:30 PG rules are violated. min_{x in {0,1}^K} [ - Sum_k (mu_k * W_k) x_k - Sum_{k != l} (J_{kl} * C_{kl}) x_k x_l + lambda_pen * || A_res * x - b_cap ||_2^2 ]": {
+    "ko": "수식 3.8 & 3.9 • 크로스-프로젝트 상관관계 텐서, 하드 방화벽 및 QUBO/MIP 스케줄링 C_{ij}(t) = 100 * I_hard(i,j,t) * sigma( beta_1 * cos(v_i, v_j) + beta_2 * Reach_{DSM+Graph}(i -> j) + beta_3 * Z_bar_{i->j}^TAG(t) ) 단, Z_bar_{i->j}^TAG < 0(부정적 전이), 원시 상관관계 < 0.25이거나, RA / K-SURE / 70:30 PG 정산 규칙 위반 시 I_hard(i,j,t) = 0. min_{x in {0,1}^K} [ - Sum_k (mu_k * W_k) x_k - Sum_{k != l} (J_{kl} * C_{kl}) x_k x_l + lambda_pen * || A_res * x - b_cap ||_2^2 ]"
+  },
+  "CHAPTER 4 • SYSTEM ARCHITECTURE & 6 AI CENTERS ORCHESTRATION": {
+    "ko": "제4장 • 시스템 아키텍처 및 6대 AI 센터 오케스트레이션"
+  },
+  "CHAPTER 5 • EMPIRICAL SCENARIO & VERIFICATION PROTOCOL": {
+    "ko": "제5장 • 실증적 시나리오 및 검증 프로토콜"
+  },
+  "CHAPTER 6 & 7 • GOVERNANCE, LIMITATIONS, CONCLUSION & REFERENCES": {
+    "ko": "제6장 & 7장 • 거버넌스, 한계점, 결론 및 참고문헌"
+  },
+  "SECTION 06-07 / 07": {
+    "ko": "섹션 06-07 / 07"
+  },
+  "PART I • QUBIT ALGORITHM™ MULTI-DIMENSIONAL FEATURES & ENTERPRISE BENEFITS EXECUTIVE FEATURE MATRIX": {
+    "ko": "제1부 • Qubit Algorithm™ 다차원 기능 및 엔터프라이즈 기대효과 핵심 매트릭스"
+  },
+  "Multi-Project Value Realization: Qubit Algorithm™ Features & Academic Monograph": {
+    "ko": "다중 프로젝트 가치 실현: Qubit Algorithm™ 다각도 특징 및 학술 모노그래프"
+  },
+  "Part I: Multi-Dimensional Operational Features & Real-World Enterprise Advantages • Part II: Academic Monograph on Simultaneous Multi-Project Value Realization": {
+    "ko": "제1부: 다차원 운영 기능 및 실무 엔터프라이즈 경쟁 우위 • 제2부: 동시 다발적 다중 프로젝트 가치 실현에 관한 학술 모노그래프"
+  },
+  "Quantum Superposition (t = 0) & Destructive Interference": {
+    "ko": "양자 중첩(t = 0) 및 상쇄 간섭"
+  },
+  "• Core Feature 1 — Simultaneous Value Lock at t = 0: Buyers, sellers, manufacturers, logistics providers, and financial institutions do not wait in a linear queue; their intent states are superposed into a single state vector in complex Hilbert space, locking in profit simultaneously at the exact moment of transaction observation (t = 0).": {
+    "ko": "• 핵심 기능 1 — t = 0 시점에서의 동시 가치 확정: 구매자, 판매자, 제조사, 물류사 및 금융기관은 선형적 대기열에 머무르지 않고 복소 힐베르트 공간 내의 단일 상태 벡터로 의도 상태가 중첩되며, 거래 관측(t = 0) 순간 모든 참여자의 이익이 동시에 확정됩니다."
+  },
+  "• Core Feature 2 — Wavefunction Collapse & Destructive Interference: Market noise remains as uncollapsed probability waves until AI agents observe verified demand and price spreads, while high fees, settlement delays, and negative transfer (TAG < 0) are automatically annihilated via destructive interference.": {
+    "ko": "• 핵심 기능 2 — 파동함수 붕괴 및 상쇄 간섭: 시장 노이즈는 AI 에이전트가 검증된 수요와 스프레드를 관측하기 전까지 미붕괴 확률파동으로 잔류하며, 과도한 수수료, 정산 지연, 부정적 전이(TAG < 0)는 상쇄 간섭을 통해 자동으로 소멸됩니다."
+  },
+  "• Real-World Advantage (Velocity Revolution & Zero Sunk Cost): Compresses the 60–180 day cash conversion cycle of traditional trade (Manufacturing → Customs → Wholesale → Settlement) into real-time t = 0 webhook settlement, eliminating wasted time, capital, and ideas (Zero-Wasting).": {
+    "ko": "• 엔터프라이즈 실무 강점 (속도 혁명 및 매몰비용 제로화): 전통 무역의 60~180일 현금전환주기(제조 → 통관 → 도매 → 정산)를 실시간 t = 0 웹훅 정산으로 압축하여 시간, 자본, 아이디어의 손실(Zero-Wasting)을 원천 차단합니다."
+  },
+  "WKB Quantum Tunneling & Discrete Credit Quantization": {
+    "ko": "WKB 양자 터널링 및 이산적 신용 양자화"
+  },
+  "• Core Feature 1 — Zero-Inventory / Zero-Capital Tunneling: Prior to manufacturing or procurement, the Data Factory aggregates demand energy via Buy4Me reverse auctions, 50% advance deposits, 3-month Rolling Purchasing Forecasts (RPF), and K-SURE export credit insurance—compressing the capital/inventory potential barrier thickness to zero.": {
+    "ko": "• 핵심 기능 1 — 무재고 / 무자본 터널링: 제조 또는 조달 단계 이전에 Data Factory가 Buy4Me 역경매, 50% 선급금, 3개월 연속구매예측(RPF), K-SURE 수출신용보증을 통해 수요 에너지를 사전 응집함으로써 자본 및 재고 전위 장벽의 두께를 사실상 0으로 압축합니다."
+  },
+  "• Core Feature 2 — Quantized Credit Levels (En = n2E1) & Hard Firewall: Locks credit limits and order units into discrete quantum steps—Sample (E1) → Bundle/Partial Credit (E2) → Clinic Bulk/Open Account (E3)—while isolating risk via 70/30 PG splits and CCTV + Gemini Vision physical audits.": {
+    "ko": "• 핵심 기능 2 — 양자화된 신용 레벨(En = n2E1) 및 하드 방화벽: 여신 한도와 발주 단위를 샘플(E1) → 번들/부분 여신(E2) → 클리닉 대량/외상 거래(E3)의 이산적 양자화 단계로 고정하고, 70/30 PG 분할 결제와 CCTV + Gemini Vision 현장 감사를 통해 리스크를 완벽히 격리합니다."
+  },
+  "• Real-World Advantage ($0 Initial Capex & 0% Default Convergence): Launches global ventures immediately without the $150,000–$500,000 upfront fixed capital or dead-stock burden of traditional business, eliminating accounts receivable default risk.": {
+    "ko": "• 엔터프라이즈 실무 강점 (초기 자본적 지출 $0 및 디폴트율 0% 수렴): 기존 비즈니스의 $150,000~$500,000에 달하는 초기 고정자본이나 악성 재고 부담 없이 즉시 글로벌 사업을 론칭하며, 미수금 채권의 대손 리스크를 근본적으로 제거합니다."
+  },
+  "PART II • ACADEMIC MONOGRAPH: BEYOND LINEAR COMMERCE MONOGRAPH SERIES 04": {
+    "ko": "제2부 • 학술 모노그래프: BEYOND LINEAR COMMERCE 모노그래프 시리즈 04"
+  },
+  "Beyond Linear Commerce: The Qubit Algorithm™ as a Quantum-Inspired Mathematical and Deep-Learning Operating System for Simultaneous Multi-Project Value Realization": {
+    "ko": "선형 상거래를 넘어: 동시 다중 프로젝트 가치 실현을 위한 양자 영감 수리·딥러닝 운영체제로서의 Qubit Algorithm™"
+  },
+  "Subtitle: Quantum-Mechanical Enterprise Architecture and Multi-Task AI Weight Control Model for Friction Annihilation in Linear Value Chains and Simultaneous Profit Realization at t = 0": {
+    "ko": "부제: 선형 밸류체인의 마찰 소멸 및 t = 0 시점의 동시 이익 실현을 위한 양자역학적 엔터프라이즈 아키텍처 및 멀티태스크 AI 가중치 제어 모델"
+  },
+  "1. Introduction: The Limits of Linear Business and the Rise of the Quantum Management Paradigm": {
+    "ko": "1. 서론: 선형 비즈니스의 한계와 양자 경영 패러다임의 태동"
+  },
+  "Industrial-era enterprises operate along a sequential linear chain where manufacturers, banks, wholesalers, retailers, and consumers pass the baton one after another. Because downstream steps must wait until upstream steps conclude, temporal lag (Δt > 0) and middleman margin leakage are inevitable, while scaling revenue requires proportional increases in fixed headcount and upfront working capital. In the modern Intent Economy, these linear physical constraints act as a fatal liability. Engineered by SISTAR Company (*SC), the Qubit Algorithm™ shatters this linear prison—empowering a single operator (“Ant”) armed with quantum logic and autonomous AI pipelines to surpass massive bureaucratic organizations (“Giant”) in both velocity and profitability.": {
+    "ko": "산업화 시대의 기업들은 제조업체, 은행, 도매업체, 소매업체, 소비자가 차례로 바통을 넘기는 순차적 선형 가치사슬을 기반으로 운영되었습니다. 후속 단계는 선행 단계가 완료될 때까지 대기해야 하므로 필연적으로 시간 지연(Δt > 0)과 중간 마진 누수가 발생하며, 매출 확장은 고정 인력과 선행 운전자본의 비례적 증가를 요구했습니다. 오늘날의 의도 경제(Intent Economy)에서 이러한 물리적 선형 제약은 치명적인 비효율로 작용합니다. SISTAR Company(*SC)가 설계한 Qubit Algorithm™은 이러한 선형의 감옥을 해체하여, 양자 논리와 자율형 AI 파이프라인으로 무장한 단일 운영자(‘개미’)가 거대 관료제 조직(‘거인’)을 속도와 수익성 모두에서 압도할 수 있도록 지원합니다."
+  },
+  "2. Five Core Quantum Mathematical-Physics Features of the Qubit Algorithm™": {
+    "ko": "2. Qubit Algorithm™의 5대 핵심 양자 수학·물리학적 메커니즘"
+  },
+  "One Spark Genesis & Simultaneous Value Collapse": {
+    "ko": "One Spark Genesis 및 동시적 가치 붕괴"
+  },
+  "2.1 Quantum Fluctuation & One Spark Genesis: Classical economics treats zero initial capital (Vcapital = 0) and zero inventory as a barren state. In the Qubit Algorithm™, just as zero-point energy (E0 = &frac12;&hbar;ω > 0) exists in a quantum vacuum |0⟩, the Hamiltonian operator Ĥfluc combining founder insight (One Spark) with the Overnight Data Factory triggers spontaneous symmetry breaking into 50–100 derivative project seed states |Ψspark⟩ at zero fixed capital. 2.2 Quantum Superposition & t = 0 Simultaneous Profit: Buyer (Bi), Manufacturer (Mi), Logistics (Li), and Finance (Fi) intent vectors are superposed in complex Hilbert space H as |ΦMarket⟩ = Σ ci |BiMiLiFi⟩. At the moment of buyer payment/order observation (t = 0), the entire value chain collapses into a single instant, locking in all participants' margins simultaneously.": {
+    "ko": "2.1 양자 요동 및 One Spark Genesis: 고전 경제학은 초기 자본 제로(Vcapital = 0)와 무재고 상태를 불모지로 간주합니다. 그러나 Qubit Algorithm™에서는 양자 진공 |0⟩에 영점 에너지(E0 = ½ħω > 0)가 존재하는 것처럼, 창업자의 직관적 통찰(One Spark)과 야간 무인 데이터 팩토리(Overnight Data Factory)가 결합된 해밀토니안 연산자 Ĥfluc가 자발적 대칭성 붕괴를 촉발하여 고정자본 없이도 50~100개의 파생 프로젝트 시드 상태 |Ψspark⟩를 발원시킵니다. 2.2 양자 중첩 및 t = 0 동시 이익: 구매자(Bi), 제조사(Mi), 물류사(Li), 금융사(Fi)의 의도 벡터는 복소 힐베르트 공간 H 내에서 |ΦMarket⟩ = Σ ci |BiMiLiFi⟩ 형태로 중첩됩니다. 구매자의 결제/발주 관측 순간(t = 0), 전체 밸류체인은 단일 시점으로 붕괴되며 모든 참여자의 마진을 동시에 확정합니다."
+  },
+  "Non-Local Propagation, Barrier Penetration & Filtering": {
+    "ko": "비국소 전파, 장벽 투과 및 필터링"
+  },
+  "2.3 Quantum Entanglement: Project nodes are non-locally entangled like Bell states (|Φ+⟩AB). A verified success signal in Project A (e.g., clinical trial or buyer lock) instantaneously triggers regulatory filing and autonomous invoicing in Project B and sales updates in Project C. 2.4 WKB Quantum Tunneling: Pre-aggregates buyer intent energy (Eintent) via 50% deposits, 3-month RPF, and K-SURE guarantees before production, compressing capital barrier width a → 0 and driving tunneling transmission probability T → 1. 2.5 Discrete Quantization (En = n2E1) & Destructive Interference: High fees, settlement delays, and negative transfer (TAG < 0) waves (ψfriction) are annihilated by Quantum_Filter_Math and the AI Risk Management Center, while pricing and credit are quantized into Sample (E1), 3-Pack Bundle (E2), and Clinic Bulk Open Account (E3).": {
+    "ko": "2.3 양자 얽힘: 프로젝트 노드들은 벨 상태(|Φ+⟩AB)처럼 비국소적으로 얽혀 있습니다. 프로젝트 A의 검증된 성공 시그널(예: 임상 시험 통과 또는 구매자 확정)은 프로젝트 B의 인허가 신청 및 자율 인보이스 발행, 프로젝트 C의 판매 정보 갱신을 즉각적으로 격발합니다. 2.4 WKB 양자 터널링: 생산 이전 단계에서 50% 계약금, 3개월 RPF, K-SURE 보증을 통해 구매자 의도 에너지(Eintent)를 사전 집약함으로써 자본 장벽 폭 a → 0으로 압축하고, 터널링 투과 확률 T → 1을 달성합니다. 2.5 이산적 양자화(En = n2E1) 및 상쇄 간섭: 고비용 수수료, 정산 지연, 부정적 전이(TAG < 0) 파동(ψfriction)은 Quantum_Filter_Math 및 AI 리스크 관리 센터에 의해 상쇄 소멸되며, 가격 책정 및 여신은 샘플(E1), 3팩 번들(E2), 클리닉 대량 외상(E3) 단계로 정밀하게 양자화됩니다."
+  },
+  "3. Quantitative Control Mechanism via Hybrid AI and Deep Learning": {
+    "ko": "3. 하이브리드 AI 및 딥러닝 기반 정량적 제어 메커니즘"
+  },
+  "4. Multi-Dimensional Real-World Enterprise Advantages": {
+    "ko": "4. 다차원 실물 엔터프라이즈 경쟁 우위"
+  },
+  "Analysis Dimension": {
+    "ko": "분석 차원"
+  },
+  "Classical Linear Enterprise": {
+    "ko": "고전적 선형 기업 모델"
+  },
+  "Qubit Algorithm™ (Quantum-Native)": {
+    "ko": "Qubit Algorithm™ (양자 네이티브)"
+  },
+  "Real-World Competitive Advantage": {
+    "ko": "실물 비즈니스 경쟁 우위"
+  },
+  "Transaction & Settlement Velocity": {
+    "ko": "거래 및 정산 속도"
+  },
+  "Sequential Manufacturing → Export → Distribution → Settlement (60–180 days)": {
+    "ko": "순차적 제조 → 수출 → 유통 → 정산 프로세스 (60~180일 소요)"
+  },
+  "t = 0 Simultaneous Settlement upon buyer payment observation (70/30 PG split webhook)": {
+    "ko": "바이어 결제 관측 즉시 t = 0 동시 정산 (70/30 PG 스플릿 웹훅)"
+  },
+  "Extreme compression of working capital turn days; eliminates 5%–8% FX/wire friction and maximizes liquidity.": {
+    "ko": "운전자본 회전일수의 극단적 압축, 5%~8% 수준의 외환/송금 마찰 비용 제거 및 유동성 극대화."
+  },
+  "Initial Capital & Inventory": {
+    "ko": "초기 자본 및 재고 부담"
+  },
+  "Upfront production & warehouse purchase mandatory ($150k–$500k Capex locked)": {
+    "ko": "사전 생산 및 물류창고 확보 필수 ($150k~$500k 규모 Capex 동결)"
+  },
+  "Zero-Inventory / Zero-Capital Tunneling (50% deposit + 3-mo RPF + K-SURE)": {
+    "ko": "무재고 / 무자본 터널링 (50% 선수금 + 3개월 RPF + K-SURE BNPL 연계)"
+  },
+  "Zero dead-stock risk; immediate entry into high-ticket global B2B markets without capital barriers.": {
+    "ko": "악성 재고 리스크 완전 해소, 자본 장벽 없는 고단가 글로벌 B2B 시장 즉각 진입."
+  },
+  "Multi-Project Scaling": {
+    "ko": "멀티 프로젝트 스케일링"
+  },
+  "Linear headcount & budget addition per new project (organizational silos)": {
+    "ko": "신규 프로젝트마다 인력 및 예산의 선형적 투입 (조직 사일로 심화)"
+  },
+  "One Task, Multi Outcomes cross-entanglement auto-propagation": {
+    "ko": "단일 태스크-다중 성과(One Task, Multi Outcomes) 상호 얽힘 자동 전파"
+  },
+  "A single market study, licensing dossier, or video asset is reused across 10–100 derivative projects (marginal cost → $0).": {
+    "ko": "단 한 번의 시장 조사, 인허가 서류, 영상 자산이 10~100개 파생 프로젝트로 교차 재사용 (한계비용 → $0)."
+  },
+  "Decision-Making & Risk Control": {
+    "ko": "의사결정 및 리스크 거버넌스"
+  },
+  "Reliance on intuition or delayed inter-departmental meetings (“Human Silences”)": {
+    "ko": "직관 의존 및 부서 간 회의 지연에 따른 병목 (\"인간적 침묵\")"
+  },
+  "Destructive Interference Firewall + live Co-relation % C-Suite dashboard": {
+    "ko": "상쇄 간섭 방화벽 + 실시간 상관관계(Co-relation %) C-Suite 대시보드"
+  },
+  "Automatically freezes negative-transfer (margin-eroding or non-compliant) projects and focuses on maximum-leverage sparks.": {
+    "ko": "부정적 전이(마진 잠식 또는 컴플라이언스 위반) 프로젝트를 자동 동결하고 최대 레버리지 스파크에 자원 집중."
+  },
+  "5. Conclusion": {
+    "ko": "5. 결론 (Conclusion)"
+  },
+  "The Qubit Algorithm™ is the world's first operational AI enterprise operating system that translates the micro-physical laws of quantum mechanics into macro-level corporate project management and global commerce workflows. By replacing linear temporal lag with t = 0 simultaneous settlement, penetrating capital barriers via data-driven demand tunneling, and binding fragmented departmental tasks into cross-project entanglement synergy, it fundamentally resolves the growth stagnation and cost-structure limits of the modern enterprise.": {
+    "ko": "Qubit Algorithm™은 양자역학의 미시물리학적 법칙을 거시적 기업 프로젝트 관리 및 글로벌 커머스 워크플로우로 구현해 낸 세계 최초의 엔터프라이즈 AI 운영체제입니다. 선형적 시간 지연을 t = 0 동시 정산으로 전환하고, 데이터 기반 수요 터널링을 통해 자본 장벽을 돌파하며, 파편화된 부서 단위 업무를 프로젝트 간 양자 얽힘 시너지로 결속함으로써 현대 기업이 직면한 성장 정체와 비용 구조의 한계를 근본적으로 혁신합니다."
+  },
+  "← Back to One Spark Infinite Galaxifying 03. Dual Engines Paper Print / Save PDF": {
+    "ko": "← One Spark Infinite Galaxifying 03. Dual Engines Paper로 돌아가기 (인쇄 / PDF 저장)"
+  },
+  "← Back to One Spark Infinite Galaxifying": {
+    "ko": "← One Spark Infinite Galaxifying으로 돌아가기"
+  },
+  "PART I • QUBIT ALGORITHM™ MULTI-DIMENSIONAL FEATURES & ENTERPRISE BENEFITS": {
+    "ko": "PART I • QUBIT ALGORITHM™ 다차원 핵심 기능 및 엔터프라이즈 효용"
+  },
+  "EXECUTIVE FEATURE MATRIX": {
+    "ko": "경영진을 위한 핵심 기능 매트릭스 (EXECUTIVE FEATURE MATRIX)"
+  },
+  "CATEGORY C • ORGANIZATION, HR & SCALABILITY DIMENSION (ONE-MAN UNICORN LEVERAGE) • Core Feature 1 — Non-Local Cross-Project Orchestration via Quantum Entanglement: The moment clinical validation, buyer acquisition, or regulatory approval is observed in Project A, invoice dispatch in Project B and marketing syndication in Project C are triggered simultaneously. • Core Feature 2 — One-Man Unicorn Compression Leverage: Combines MRL embeddings, Vector + GraphRAG, GradNorm + TAG weight engines, and LoRA JSON schema locking so a single conductor (\"Ant\") outperforms the bureaucratic \"Human Silences\" of a massive conglomerate (\"Giant\"). • Real-World Advantage (Compressing 30 Years of Growth into 10 Years): Eliminates inter-departmental meeting and reporting delays; a single operational action (One Task) automatically replicates into Multi Outcomes across 100+ global projects operating out of \"2 Suitcases.\"": {
+    "ko": "CATEGORY C • 조직, 인사 및 확장성 차원 (1인 유니콘 레버리지) • 핵심 기능 1 — 양자 얽힘 기반 비국소적 다중 프로젝트 오케스트레이션: 프로젝트 A에서 임상 검증, 바이어 확보 또는 규제 승인이 관측되는 순간, 프로젝트 B의 인보이스 발송과 프로젝트 C의 마케팅 신디케이션이 동시 트리거됩니다. • 핵심 기능 2 — 1인 유니콘 압축 레버리지: MRL 임베딩, Vector + GraphRAG, GradNorm + TAG 가중치 엔진, LoRA JSON 스키마 락킹을 결합하여 단 한 명의 지휘자(\"개미\")가 거대 복합기업(\"거인\")의 관료제적 \"인간적 침묵\"을 능가합니다. • 실물 경쟁 우위 (30년의 성장을 10년으로 압축): 부서 간 회의 및 보고 지연을 완전히 제거하며, \"2개의 여행 가방\"에서 운용되는 단 단일의 오퍼레이션(One Task)이 100개 이상의 글로벌 프로젝트에 걸쳐 다중 성과(Multi Outcomes)로 자동 복제·확장됩니다."
+  },
+  "Applied Algorithms": {
+    "ko": "적용 알고리즘"
+  },
+  "Core Operational Role Inside Qubit Algorithm™": {
+    "ko": "Qubit Algorithm™ 내 핵심 운영 역할"
+  },
+  "Governing AI Center & Depts": {
+    "ko": "관할 AI 센터 및 부서"
+  },
+  "Machine Learning": {
+    "ko": "머신러닝 (Machine Learning)"
+  },
+  "3-month RPF demand/COGS forecasting, project clustering, dependency matrix modeling, resource-constrained combinatorial optimization, and arbitrage policy learning.": {
+    "ko": "3개월 단위 RPF 수요 및 매출원가(COGS) 예측, 프로젝트 클러스터링, 의존성 매트릭스 모델링, 자원 제약 조건 하의 조합 최적화 및 차익거래(Arbitrage) 정책 학습."
+  },
+  "AI Analysis / Risk Centers (SCM, Finance, Biz Dev)": {
+    "ko": "AI 분석 / 리스크 센터 (SCM, 재무, 사업개발)"
+  },
+  "Deep Learning": {
+    "ko": "딥러닝 (Deep Learning)"
+  },
+  "MRL Embeddings, Vector + GraphRAG, GradNorm, TAG, ViT/Diffusion": {
+    "ko": "MRL 임베딩, Vector + GraphRAG, GradNorm, TAG, ViT/Diffusion"
+  },
+  "3-tier task semantic vectorization, multi-hop regulatory/market reasoning, dynamic weight (W) & cross-correlation (Cij) learning, CCTV stock audits, and video rendering.": {
+    "ko": "3계층 태스크 시맨틱 벡터화, 다단계 규제/시장 추론, 동적 가중치(W) 및 상호 상관계수(Cij) 학습, CCTV 재고 실사 및 비디오 렌더링."
+  },
+  "AI Data / Analysis / Media Centers (All 8 Divisions)": {
+    "ko": "AI 데이터 / 분석 / 미디어 센터 (전체 8개 사업부)"
+  },
+  "Fine-Tuning": {
+    "ko": "파인튜닝 (Fine-Tuning)"
+  },
+  "LoRA/QLoRA, Structured JSON SFT, DPO, Knowledge Distillation": {
+    "ko": "LoRA/QLoRA, 구조화된 JSON SFT, DPO, 지식 증류(Knowledge Distillation)"
+  },
+  "100% deterministic Qubit Master JSON locking, departmental tone/policy alignment, and 90% inference cost reduction via local Ollama edge model distillation.": {
+    "ko": "100% 결정론적 Qubit Master JSON 락킹, 부서별 톤앤매너 및 정책 정렬, 로컬 Ollama 엣지 모델 증류를 통한 추론 비용 90% 절감."
+  },
+  "AI Command / Web Working Centers (IT, RA, Sales & Opr)": {
+    "ko": "AI 지휘 / 웹 워킹 센터 (IT, RA, 영업 및 운영)"
+  },
+  "CHAPTER 4 • APPLICATION DEVELOPMENT IMPLICATIONS & CONCLUSION SECTION 04 / 04": {
+    "ko": "제4장 • 애플리케이션 개발 시사점 및 결론 섹션 04 / 04"
+  },
+  "4. Application Development Implications and Conclusion": {
+    "ko": "4. 애플리케이션 개발 시사점 및 결론"
+  },
+  "This study established a complete taxonomy of Machine Learning, Deep Learning, and Fine-Tuning technologies and formalized the 5-stage integration mechanism required to build the Qubit Algorithm™ as a commercial enterprise software application. By strictly separating architectural responsibilities—routing volatile facts to Hybrid RAG, delegating dynamic weight and correlation learning to MTL (GradNorm + TAG) and ML (QUBO/DSM), and dedicating LoRA Fine-Tuning to deterministic JSON schema locking and local edge distillation—engineering teams can deploy a production application that governs dozens of entangled projects in real time without hallucination or knowledge obsolescence.": {
+    "ko": "본 연구는 Qubit Algorithm™을 실제 엔터프라이즈 소프트웨어로 구현하기 위해 머신러닝, 딥러닝, 파인튜닝의 세부 기술을 전수 분류하고, 각 기술이 프로젝트 생성부터 교차 프로젝트 가중치·상관계수 산출 및 무인 실행에 이르기까지 유기적으로 결합되는 5단계 메커니즘을 확립하였다. 변동 지식은 Hybrid RAG로, 동적 가중치·상관관계 학습은 MTL(GradNorm + TAG)과 ML(QUBO/DSM)로, 출력 스키마 고정과 로컬 추론 비용 절감은 LoRA 파인튜닝으로 분리 설계함으로써, 개발팀은 환각과 지식 노후화 없이 수십 개의 교차 프로젝트를 실시간 통제하는 상용 애플리케이션을 구축할 수 있다."
+  },
+  "← Back to One Spark Infinite Galaxifying 04. Multi-Project Value Realization 06. QubitOS Core Engine → Print / Save PDF": {
+    "ko": "← One Spark Infinite Galaxifying으로 돌아가기 04. 다중 프로젝트 가치 실현 06. QubitOS Core Engine → 인쇄 / PDF 저장"
+  },
+  "04. Multi-Project Value Realization": {
+    "ko": "04. 다중 프로젝트 가치 실현"
+  },
+  "ACADEMIC RESEARCH MONOGRAPH • TRI-LAYER AI ARCHITECTURE": {
+    "ko": "학술 연구 모노그래프 • 3계층 AI 아키텍처"
+  },
+  "MONOGRAPH SERIES 05": {
+    "ko": "모노그래프 시리즈 05"
+  },
+  "ABSTRACT Building enterprise software that simultaneously generates multiple projects and autonomously governs Cross-Project Entanglement requires translating abstract management algorithms into concrete artificial intelligence engineering pipelines. Early rule-based automation prototypes fixed task importance weights and inter-project correlation scores as static heuristics (0.8 / 0.4, threshold 0.25), failing to reflect volatile market data and departmental bottlenecks in real time. To implement the quantum-inspired management principles of the Qubit Algorithm™ (\"One Spark, Infinite Galaxifying\") as a production commercial application, this paper systematically classifies modern AI technologies into three foundational layers—(1) Machine Learning (ML), (2) Deep Learning (DL), and (3) Parameter-Efficient Fine-Tuning (PEFT)—and establishes the mathematical and systems mechanics each technology performs inside the Qubit Algorithm™. Specifically, we formalize a 3-layer hybrid AI orchestration mechanism combining statistical forecasting and combinatorial optimization (ML) for demand and resource scheduling; Matryoshka Representation Learning (MRL), Hybrid Vector/GraphRAG, and Multi-Task Learning (GradNorm + TAG) for dynamic task weights (W) and cross-correlation (C_{ij}) computation (DL); and Low-Rank Adaptation (LoRA) supervised fine-tuning and knowledge distillation for 100% deterministic JSON schema emission and 90% local inference cost reduction.": {
+    "ko": "초록(ABSTRACT) 복수의 프로젝트를 동시다발적으로 생성하고 프로젝트 간 얽힘(Cross-Project Entanglement)을 자율적으로 통제하는 엔터프라이즈 소프트웨어를 구축하려면, 추상적 관리 알고리즘을 구체적인 인공지능 엔지니어링 파이프라인으로 구현해야 한다. 초기 규칙 기반 자동화 프로토타입은 태스크 중요도 가중치와 프로젝트 간 상관관계 점수를 정적 휴리스틱(0.8 / 0.4, 임계값 0.25)으로 고정하여, 변동성이 큰 시장 데이터와 부서별 병목 현상을 실시간으로 반영하지 못했다. Qubit Algorithm™의 양자역학 기반 경영 원리(\"One Spark, Infinite Galaxifying\")를 상용 프로덕션 애플리케이션으로 구현하기 위해, 본 논문은 현대 AI 기술을 (1) 머신러닝(ML), (2) 딥러닝(DL), (3) 매개변수 효율적 파인튜닝(PEFT)의 세 가지 기반 계층으로 체계적으로 분류하고, 각 기술이 Qubit Algorithm™ 내부에서 수행하는 수학적 및 시스템적 메커니즘을 정립한다. 구체적으로 당사는 수요 및 자원 스케줄링을 위한 통계적 예측과 조합 최적화(ML), 동적 태스크 가중치(W) 및 상호 상관관계(C_{ij}) 연산을 위한 Matryoshka Representation Learning(MRL), Hybrid Vector/GraphRAG, 멀티태스크 학습(GradNorm + TAG)(DL), 그리고 100% 결정론적 JSON 스키마 생성 및 로컬 추론 비용 90% 절감을 위한 Low-Rank Adaptation(LoRA) 지도 미세조정(SFT)과 지식 증류를 결합한 3계층 하이브리드 AI 오케스트레이션 메커니즘을 정식화한다."
+  },
+  "CHAPTER 1 & 2 • INTRODUCTION & COMPREHENSIVE TAXONOMY OF AI TECHNOLOGIES": {
+    "ko": "제1장 및 제2장 • 서론 및 AI 기술의 종합적 분류 체계"
+  },
+  "SECTION 01-02 / 04": {
+    "ko": "섹션 01-02 / 04"
+  },
+  "4 CORE FINE-TUNING TECHNOLOGIES FOR DETERMINISTIC ENTERPRISE EXECUTION 1) Parameter-Efficient Fine-Tuning (LoRA & QLoRA): Freezes pretrained foundation weights and trains only ~1% low-rank matrices (Delta W = B * A), cutting VRAM usage by up to 50% and enabling hot-swappable departmental adapters. 2) Supervised Fine-Tuning for Schema Locking (Structured JSON SFT): Trains instruction-response pairs so the model emits 100% compliant Qubit Master JSON schemas with zero hallucination or conversational filler regardless of unstructured input noise. 3) Preference & Policy Alignment (DPO / RLHF): Direct Preference Optimization aligns RA and Finance agents toward conservative regulatory compliance while tuning Marketing agents for high-conversion persuasive copy. 4) Teacher-Student Knowledge Distillation: Distills high-precision project decomposition and weight trajectories generated by cloud frontier models (Gemini Pro/Flash) into local Mini PC (AMD Ryzen 9 64GB RAM) edge models (Ollama: Qwen 2.5 Coder / Llama 3.1), slashing inference costs by ~90%.": {
+    "ko": "결정론적 기업 실행을 위한 4대 핵심 파인튜닝 기술 1) 매개변수 효율적 파인튜닝(LoRA 및 QLoRA): 사전 훈련된 파운데이션 가중치를 동결하고 약 1%의 저순위 행렬(Delta W = B * A)만 학습시켜 VRAM 사용량을 최대 50%까지 절감하며 부서별 어댑터의 핫스왑(Hot-swappable) 교체를 구현한다. 2) 스키마 락킹을 위한 지도 미세조정(구조화된 JSON SFT): 비정형 입력 노이즈에 관계없이 환각이나 대화형 군더더기 없이 100% 규격을 준수하는 Qubit Master JSON 스키마를 출력하도록 인스트럭션-응답 쌍을 학습시킨다. 3) 선호도 및 정책 정렬(DPO / RLHF): 직접 선호도 최적화를 통해 RA 및 재무 에이전트는 보수적인 규제 준수를 지향하도록 정렬하고, 마케팅 에이전트는 전환율이 높은 설득력 있는 카피를 작성하도록 튜닝한다. 4) 교사-학생 지식 증류(Teacher-Student Knowledge Distillation): 클라우드 프론티어 모델(Gemini Pro/Flash)이 생성한 정밀도 높은 프로젝트 분해 및 가중치 궤적을 로컬 미니 PC(AMD Ryzen 9 64GB RAM) 엣지 모델(Ollama: Qwen 2.5 Coder / Llama 3.1)로 증류하여 추론 비용을 약 90% 절감한다."
+  },
+  "CHAPTER 3 • 5-STAGE TRI-LAYER INTEGRATION MECHANISM": {
+    "ko": "제3장 • 5단계 3계층 통합 메커니즘"
+  },
+  "SECTION 03 / 04": {
+    "ko": "섹션 03 / 04"
+  },
+  "CHAPTER 4 • APPLICATION DEVELOPMENT IMPLICATIONS & CONCLUSION": {
+    "ko": "제4장 • 애플리케이션 개발 시사점 및 결론"
+  },
+  "SECTION 04 / 04": {
+    "ko": "섹션 04 / 04"
+  },
+  "ACADEMIC SOFTWARE SPECIFICATION • QUBITOS CORE ENGINE MONOGRAPH SERIES 06": {
+    "ko": "학술 소프트웨어 명세서 • QUBITOS CORE ENGINE 모노그래프 시리즈 06"
+  },
+  "QubitOS Core Engine: Algorithmic Specifications, Tensor Data Structures, and Execution Pseudocode for Autonomous Cross-Project Management Software": {
+    "ko": "QubitOS 코어 엔진: 자율 교차 프로젝트 관리 소프트웨어를 위한 알고리즘 명세, 텐서 데이터 구조 및 실행 의사코드"
+  },
+  "Subtitle: QubitOS Core Engine — Software Core Algorithmic Specifications for Cross-Project Genesis, Dynamic Weight Computation, Destructive Interference Firewalls, and Simultaneous Execution at t = 0": {
+    "ko": "부제: 큐비트 OS 코어 엔진 — 교차 프로젝트 생성·동적 가중치 연산·상쇄 간섭 방화벽 및 t = 0 동시 실행을 위한 소프트웨어 핵심 알고리즘 명세"
+  },
+  "CHAPTER 1 • QUBITOS SOFTWARE ARCHITECTURE & CORE TENSOR DATA STRUCTURES SECTION 01 / 05": {
+    "ko": "제1장 • QUBITOS 소프트웨어 아키텍처 및 코어 텐서 데이터 구조 섹션 01 / 05"
+  },
+  "1. QubitOS Software Architecture and Core Tensor Data Structures": {
+    "ko": "1. QubitOS 소프트웨어 아키텍처 및 핵심 텐서 데이터 구조"
+  },
+  "The QubitOS application represents *SC's 3-tier task hierarchy (Project – Department – Individual) and the 6 AI Centers × 8 Departments × 8 Global Bases execution lattice as standardized in-memory tensor objects across a Python FastAPI + PostgreSQL/Supabase pgvector + Redis Event Bus backend:": {
+    "ko": "QubitOS 애플리케이션은 *SC의 3계층(프로젝트–부서–개인) 업무 구조와 6대 AI Centers × 8대 부서 × 8대 글로벌 거점 실행 격자를 Python FastAPI + PostgreSQL/Supabase pgvector + Redis 이벤트 버스 백엔드 상의 표준 인메모리 텐서 객체로 표현한다:"
+  },
+  "CHAPTER 2 • 5 CORE QUBITOS SOFTWARE ALGORITHMS & PYTHON SPECIFICATIONS SECTION 02 / 05": {
+    "ko": "제2장 • 5대 핵심 QUBITOS 소프트웨어 알고리즘 및 PYTHON 명세 섹션 02 / 05"
+  },
+  "2. Specification of the Five Core QubitOS Software Algorithms": {
+    "ko": "2. QubitOS 5대 핵심 소프트웨어 알고리즘 상세 명세"
+  },
+  "2.1 Algorithm 1: QuantumSeedVectorizer (3-Tier Structured Chunking & MRL Multi-Resolution Indexing)": {
+    "ko": "2.1 알고리즘 1: QuantumSeedVectorizer (3계층 구조화 청킹 및 MRL 다중 해상도 인덱싱)"
+  },
+  "Objective & Logic: Upon receiving a new project input (One Spark), structures project targets, 8 departmental Task Modules, and individual TTP specs via the LoRA SFT parser, then generates both an ultra-fast 128-dim retrieval vector and a high-precision 1,024-dim computation vector in a single forward pass using Matryoshka Representation Learning (e_{1:128} &sub; e_{1:768} &sub; e_{1:1024}):": {
+    "ko": "목적 및 로직: 신규 프로젝트 입력(One Spark) 접수 즉시, LoRA SFT 파서를 통해 프로젝트 목표, 8개 부서별 태스크 모듈, 개별 TTP 명세를 구조화한 후, Matryoshka Representation Learning(e_{1:128} ⊂ e_{1:768} ⊂ e_{1:1024})을 기반으로 단일 순전파(forward pass) 내에서 128차원 초고속 검색 벡터와 1,024차원 고정밀 연산 벡터를 동시 생성합니다:"
+  },
+  "2.2 Algorithm 2: GradNormDynamicWeighter (Bottleneck-Calibrated Dynamic Task Weighting)": {
+    "ko": "2.2 알고리즘 2: GradNormDynamicWeighter (부서·AI센터 병목 보정 동적 가중치 산출 엔진)"
+  },
+  "Objective & Logic: Computes the real-time importance weight W_{p,d,a,u}(t) of every task inside a project. Applies GradNorm inverse training rates and Dynamic Scaling so fast-converging tasks (e.g., content generation) cannot suppress high-difficulty bottleneck tasks (e.g., RA licensing or K-SURE credit approval), combined with Hybrid RAG + Deep Research evidence scores:": {
+    "ko": "목적 및 핵심 로직: 프로젝트 내부 각 태스크가 전체 프로젝트 성공에 기여하는 실시간 중요도 가중치 W_{p,d,a,u}(t)를 산출한다. 단순 콘텐츠 생성처럼 학습·실행 손실이 빠르게 감소하는 태스크가 RA(인허가)나 Finance(K-SURE 여신) 같은 고난도 병목 태스크의 가중치를 압도하지 않도록 GradNorm 역학습률과 Dynamic Scaling을 적용하고 Hybrid RAG + Deep Research 증적 점수를 결합한다:"
+  },
+  "2.3 Algorithm 3 & Algorithm 4: CrossProjectEntanglementEngine & DestructiveInterferenceFirewall": {
+    "ko": "2.3 알고리즘 3 & 4: 교차 프로젝트 상관계수 연산기(CrossProjectEntanglementEngine) 및 상쇄 간섭 하드 방화벽"
+  },
+  "Objective & Logic: Rather than brute-forcing O(N2) pairs, Algorithm 3 screens the top-K candidates in O(log N) time via MRL 128-dim HNSW indexing, then fuses 1,024-dim semantic similarity, 4-Port overlap + DSM/GraphRAG reachability, and TAG 1-step lookahead affinity. Algorithm 4 enforces the independent Hard-Constraint Firewall, immediately zeroing out any link with Negative Transfer (TAG &le; 0), weak correlation (< 0.25), unapproved RA/Vision stock, or unverified 70/30 PG / K-SURE / RPF guardrails:": {
+    "ko": "목적 및 로직: O(N²) 쌍에 대한 무차별 대입 대신, 알고리즘 3은 MRL 128차원 HNSW 인덱싱을 통해 O(log N) 시간 복잡도로 Top-K 후보군을 사전 선별한 후 1,024차원 의미론적 유사도, 4-Port 중첩도 + DSM/GraphRAG 도달 가능성 및 TAG 1단계 선행(lookahead) 친화도를 결합합니다. 알고리즘 4는 독립적인 하드 제약 조건 방화벽을 강제 집행하여, 부성 전이(TAG ≤ 0), 저상관성(< 0.25), 미승인 RA/비전 재고, 또는 미검증 70/30 PG / K-SURE / RPF 가드레일이 감지된 모든 링크를 즉시 영(0)으로 초기화합니다:"
+  },
+  "2.4 Algorithm 5: QUBOEntangledDispatcher (Resource-Constrained QUBO Solver & t = 0 LoRA JSON Dispatch)": {
+    "ko": "2.4 알고리즘 5: QUBOEntangledDispatcher (자원 제약 QUBO 조합 최적화 및 t = 0 LoRA JSON 동시 집행)"
+  },
+  "CHAPTER 3, 4 & 5 • COMPLEXITY OPTIMIZATION, END-TO-END WORKFLOW & CONCLUSION SECTION 03-05 / 05": {
+    "ko": "제3, 4, 5장 • 복잡도 최적화, 엔드투엔드 워크플로우 및 결론 섹션 03-05 / 05"
+  },
+  "3. Computational Complexity Analysis and Engineering Optimizations": {
+    "ko": "3. 연산 복잡도 분석 및 소프트웨어 엔지니어링 최적화"
+  },
+  "Computational Bottleneck": {
+    "ko": "계산 병목 지점"
+  },
+  "Naive Complexity": {
+    "ko": "단순 접근 복잡도"
+  },
+  "QubitOS Engineering Optimization": {
+    "ko": "QubitOS 엔지니어링 최적화 기법"
+  },
+  "Optimized Complexity & Gain": {
+    "ko": "최적화된 복잡도 및 개선 효과"
+  },
+  "Cross-Project Similarity Search": {
+    "ko": "교차 프로젝트 유사도 검색"
+  },
+  "MRL 128-dim HNSW vector index Top-K pre-screening followed by 1,024-dim exact scoring.": {
+    "ko": "MRL 128차원 HNSW 벡터 인덱스 기반 Top-K 사전 선별 후 1,024차원 정밀 스코어링 수행."
+  },
+  "Reduced to O(N log N); cuts vector memory footprint by 87.5%.": {
+    "ko": "O(N log N)으로 감소, 벡터 메모리 사용량 87.5% 절감."
+  },
+  "TAG Task Affinity Refresh": {
+    "ko": "TAG 태스크 친화도 갱신"
+  },
+  "O((M^2 + M)F) per step": {
+    "ko": "스텝당 O((M^2 + M)F)"
+  },
+  "Incremental cluster-level 1-step lookahead gradient update during overnight batch (22:00–08:00) with caching.": {
+    "ko": "심야 배치(22:00–08:00) 간 캐싱을 동반한 증분형 클러스터 레벨 1단계 선행(1-step lookahead) 그래디언트 업데이트."
+  },
+  "O(1) hash-table lookup at runtime (< 5ms latency).": {
+    "ko": "런타임 시 O(1) 해시 테이블 조회 (지연 시간 5ms 미만)."
+  },
+  "QUBO Combinatorial Scheduling": {
+    "ko": "QUBO 조합 최적화 스케줄링"
+  },
+  "CHAPTER 1 • COSMO SEED™ BUSINESS MODEL GENERATION & GOVERNANCE SECTION 01 / 04": {
+    "ko": "제1장 • COSMO SEED™ 비즈니스 모델 생성 및 거버넌스 섹션 01 / 04"
+  },
+  "Cross-Projects Management: Cosmo Seed™ Multi-Outcome Matrix": {
+    "ko": "다중 프로젝트 통합 관리: Cosmo Seed™ 다중 성과 매트릭스"
+  },
+  "How a quantified Cosmo Seed™ (|ψ0⟩) generates scalable business models, calibrates departmental task weights via AI fine-tuning, and orchestrates concurrent multi-project execution on the Executive Quantum Dashboard.": {
+    "ko": "정량화된 Cosmo Seed™(|ψ0⟩)가 확장 가능한 비즈니스 모델을 생성하고, AI 파인튜닝을 통해 부서별 업무 가중치를 캘리브레이션하며, Executive Quantum Dashboard 상에서 동시 다발적 프로젝트 실행을 총괄 오케스트레이션하는 메커니즘."
+  },
+  "Target Quantification → 8-Division Task Allocation": {
+    "ko": "목표 정량화 → 8대 사업 본부별 업무 할당"
+  },
+  "1. Target & Concept Quantification: Every business model begins by encoding revenue targets, regional subsidiary nodes (SCK, SCI, SCV, SCJ, SCC, SCU, SCS, SCIND), and margin thresholds into a Cosmo Seed vector. 2. Dual-Axis Task Binding: The AI Command Center decomposes the business model into atomic task modules across the 8 divisions (Sales & Opr, Finance, HR, SCM, RA, IT, Marketing, Biz Dev) and 6 AI Centers.": {
+    "ko": "1. 목표 및 콘셉트 정량화: 모든 비즈니스 모델은 매출 목표, 지역 법인 노드(SCK, SCI, SCV, SCJ, SCC, SCU, SCS, SCIND) 및 마진 임계값을 Cosmo Seed 벡터로 인코딩하는 것으로부터 시작됩니다. 2. 이축(Dual-Axis) 업무 바인딩: AI 커맨드 센터는 비즈니스 모델을 8대 사업 본부(영업·운영, 재무, HR, SCM, RA, IT, 마케팅, 사업개발) 및 6대 AI 센터 전반에 걸친 원자적(atomic) 업무 모듈로 분해합니다."
+  },
+  "Parameter Weighting (wk %) → Multi-Outcome Galaxifying": {
+    "ko": "파라미터 가중치 설정(wk %) → 다중 성과 은하화(Multi-Outcome Galaxifying)"
+  },
+  "3. RAG + Deep Research Weighting: Each task chunk is embedded into vector space and fine-tuned against internal RAG DB knowledge and external Deep Research to assign exact Parameter Weights (%). 4. Cross-Project Correlation (ρij %): When multiple projects run concurrently, completing one high-weight task automatically updates all correlated tasks across the corporate galaxy.": {
+    "ko": "3. RAG + Deep Research 가중치 산출: 각 업무 청크(chunk)는 벡터 공간에 임베딩되며, 사내 RAG DB 지식 및 외부 Deep Research를 기반으로 파인튜닝되어 정밀한 파라미터 가중치(%)를 부여받습니다. 4. 프로젝트 간 상관관계(ρij %): 복수의 프로젝트가 동시 수행될 때, 가중치가 높은 단위 업무 하나가 완료되면 기업 은하계(galaxy) 전반에 걸쳐 상관관계가 형성된 모든 업무가 자동으로 동기화 및 갱신됩니다."
+  },
+  "CHAPTER 2 • 6 AI CENTERS × 8 FUNCTIONAL DIVISIONS TASK MATRIX SECTION 02 / 04": {
+    "ko": "제2장 • 6대 AI 센터 × 8대 기능별 사업 본부 업무 매트릭스 섹션 02 / 04"
+  },
+  "2. Division-by-Center Operational Responsibility Matrix": {
+    "ko": "2. 센터-본부별 운영 책임 매트릭스"
+  },
+  "Every project generated from a Cosmo Seed™ is managed through standardized task modules governed jointly by the 6 AI Centers and 8 corporate divisions:": {
+    "ko": "Cosmo Seed™로부터 생성된 모든 프로젝트는 6대 AI 센터와 8개 사업 본부가 공동으로 관할하는 표준화된 업무 모듈을 통해 체계적으로 거버넌스됩니다:"
+  },
+  "AI Center Node": {
+    "ko": "AI 센터 노드"
+  },
+  "Primary Intelligence Function": {
+    "ko": "핵심 인텔리전스 기능"
+  },
+  "Coupled Departmental Task Modules & Deliverables": {
+    "ko": "결합 부서별 업무 모듈 및 산출물"
+  },
+  "Master Mission Dispatch & Weight Governance": {
+    "ko": "마스터 미션 디스패치 및 가중치 거버넌스"
+  },
+  "Allocates mission priorities and parameter weights (wk %) across all 8 divisions: Sales & Opr, Finance, HR, SCM, RA, IT, Marketing, and Biz Development.": {
+    "ko": "영업·운영, 재무, HR, SCM, RA, IT, 마케팅, 사업개발 등 8대 전 사업 본부에 걸쳐 미션 우선순위 및 파라미터 가중치(wk %)를 할당합니다."
+  },
+  "Correlation Matrix (ρij %) & Financial Simulation": {
+    "ko": "상관관계 매트릭스(ρij %) 및 재무 시뮬레이션"
+  },
+  "Couples with Finance & Sales/Opr to compute cross-project correlation percentages, unit economics, and ROI sensitivity.": {
+    "ko": "재무 및 영업·운영 본부와 연계하여 다중 프로젝트 간 상관관계 백분율, 단위 경제학(unit economics) 및 ROI 민감도를 산출합니다."
+  },
+  "Semantic Chunking, Embedding & Enterprise RAG DB": {
+    "ko": "시맨틱 청킹, 임베딩 및 엔터프라이즈 RAG DB"
+  },
+  "Couples with IT & HR to vectorize corporate/individual tasks and maintain the centralized vector knowledge base.": {
+    "ko": "IT 및 HR 본부와 연계하여 전사적/개인별 업무를 벡터화하고 중앙 집중형 벡터 지식 베이스를 유지·관리합니다."
+  },
+  "Automated Multilingual Decks, Brochures & Visuals": {
+    "ko": "다국어 덱, 브로슈어 및 비주얼 자산 자동 생성"
+  },
+  "Couples with Marketing & Biz Dev to turn a single strategic spark into global IR pitchdecks, brochures, and campaign assets.": {
+    "ko": "마케팅 및 사업개발 본부와 연계하여 단 하나의 전략적 스파크를 글로벌 IR 피치덱, 브로슈어 및 캠페인 에셋으로 전환합니다."
+  },
+  "Regulatory Compliance, BNPL & WKB Bypass": {
+    "ko": "규제 컴플라이언스, BNPL 및 WKB 우회"
+  },
+  "Couples with RA, SCM & Finance to clear licensing hurdles, manage K-SURE BNPL credit limits, and bypass supply bottlenecks.": {
+    "ko": "RA, SCM 및 재무 본부와 연계하여 인허가 장벽을 해소하고, K-SURE BNPL 여신 한도를 관리하며, 공급망 병목 현상을 우회(WKB Bypass)합니다."
+  },
+  "12-Domain Vibe Working & Platform Deployment": {
+    "ko": "12개 도메인 Vibe Working 및 플랫폼 배포"
+  },
+  "Couples with IT, Marketing & Sales/Opr to deploy live B2B/D2C commerce pipelines and telemetry dashboards.": {
+    "ko": "IT, 마케팅 및 영업·운영 본부와 연계하여 라이브 B2B/D2C 커머스 파이프라인 및 텔레메트리 대시보드를 전개합니다."
+  },
+  "CHAPTER 3 • EXECUTIVE QUANTUM DASHBOARD & TELEMETRY SECTION 03 / 04": {
+    "ko": "제3장 • EXECUTIVE QUANTUM DASHBOARD 및 텔레메트리 섹션 03 / 04"
+  },
+  "3. Real-Time Cross-Project Management Dashboard": {
+    "ko": "3. 실시간 다중 프로젝트 통합 관리 대시보드"
+  },
+  "The Executive Quantum Dashboard provides C-level visibility into every active project, tracking Task Parameter Weights (%), Cross-Project Correlations (%), and Spark Amplification Leverage in real time:": {
+    "ko": "Executive Quantum Dashboard는 가동 중인 모든 프로젝트에 대한 C-레벨 수준의 가시성을 제공하며, 업무 파라미터 가중치(%), 프로젝트 간 상관관계(%), 스파크 증폭 레버리지(Spark Amplification Leverage)를 실시간으로 추적합니다:"
+  },
+  "← Back to cosmo seed biz models Open Paper: Qubit Deep Learning Mechanism → Print / Save PDF": {
+    "ko": "← cosmo seed 비즈니스 모델로 돌아가기 | 논문 열람: Qubit Deep Learning Mechanism → | 인쇄 / PDF 저장"
+  },
+  "← Back to cosmo seed biz models": {
+    "ko": "← cosmo seed 비즈니스 모델로 돌아가기"
+  },
+  "Open Paper: Qubit Deep Learning Mechanism →": {
+    "ko": "논문 열람: Qubit Deep Learning Mechanism →"
+  },
+  "CHAPTER 1 • COSMO SEED™ BUSINESS MODEL GENERATION & GOVERNANCE": {
+    "ko": "제1장 • COSMO SEED™ 비즈니스 모델 생성 및 거버넌스"
+  },
+  "SECTION 01 / 04": {
+    "ko": "섹션 01 / 04"
+  },
+  "CHAPTER 2 • 6 AI CENTERS × 8 FUNCTIONAL DIVISIONS TASK MATRIX": {
+    "ko": "제2장 • 6대 AI 센터 × 8대 기능 본부 태스크 매트릭스"
+  },
+  "SECTION 02 / 04": {
+    "ko": "섹션 02 / 04"
+  },
+  "CHAPTER 3 • EXECUTIVE QUANTUM DASHBOARD & TELEMETRY": {
+    "ko": "제3장 • 최고경영진 전용 퀀텀 대시보드 및 텔레메트리"
+  },
+  "EXECUTIVE BUSINESS REPORT • COSMO SEED™ & QUBIT ALGORITHM™ MASTER DOSSIER CATEGORIES A – G COMPLETE EDITION": {
+    "ko": "최고경영진 비즈니스 리포트 • COSMO SEED™ 및 QUBIT ALGORITHM™ 마스터 도시에 카테고리 A – G 완결판"
+  },
+  "Executive Business Model Report: Qubit Algorithm™ & Cosmo Seed™ Architecture": {
+    "ko": "최고경영진 비즈니스 모델 리포트: Qubit Algorithm™ 및 Cosmo Seed™ 아키텍처"
+  },
+  "A 7-Category C-Suite & Venture Capital Master Report for Immediate Operational Execution Across the *SC 8-Hub, 12-Domain Ecosystem": {
+    "ko": "*SC 8대 허브, 12개 도메인 생태계 전반의 즉각적인 실무 집행을 위한 7개 카테고리 C-Suite 및 벤처 캐피털 마스터 리포트"
+  },
+  "Prepared for: Founder & CEO Dennii Ku (denniiku), Global Strategic Partners, and Institutional Venture Investors | Entity: *SC (SISTAR Company / Signal Star Universe — sistarcompany.com)": {
+    "ko": "수신: 창립자 겸 최고경영자(CEO) Dennii Ku (denniiku), 글로벌 전략 파트너 및 기관 벤처 투자자 | 주체: *SC (SISTAR Company / Signal Star Universe — sistarcompany.com)"
+  },
+  "CATEGORY A & CATEGORY B • CORPORATE TOPOLOGY & QUBIT WEIGHT ENGINE SECTION 01 / 04": {
+    "ko": "카테고리 A & 카테고리 B • 기업 토폴로지 및 QUBIT 가중치 엔진 섹션 01 / 04"
+  },
+  "Category A. Corporate Identity, Global Network & Ecosystem Topology": {
+    "ko": "카테고리 A. 기업 아이덴티티, 글로벌 네트워크 및 생태계 토폴로지"
+  },
+  "Classification Item": {
+    "ko": "분류 항목"
+  },
+  "Verified Status & Core Structural Architecture": {
+    "ko": "검증된 현황 및 핵심 구조 아키텍처"
+  },
+  "Strategic Implication": {
+    "ko": "전략적 시사점"
+  },
+  "Corporate Identity & Leadership": {
+    "ko": "기업 아이덴티티 및 리더십"
+  },
+  "*SC (SISTAR Company / Signal Star Universe). Founder & CEO: Dennii Ku (denniiku) — 20+ years (30 years per logistics whitepaper) of on-the-ground international trade and cross-border business development.": {
+    "ko": "*SC (SISTAR Company / Signal Star Universe). 창립자 겸 최고경영자(CEO): Dennii Ku (denniiku) — 20년 이상(물류 백서 기준 30년)의 실무 중심 국제 무역 및 크로스보더 사업 개발 경력 보유."
+  },
+  "A battle-tested Venture Builder transplanting real-world global trade mastery into autonomous AI pipelines rather than a purely theoretical software startup.": {
+    "ko": "단순 이론적 소프트웨어 스타트업이 아닌, 실전에서 검증된 글로벌 무역 전문성을 자율 AI 파이프라인에 이식한 실전형 벤처 빌더(Venture Builder)."
+  },
+  "Core Vision & Tagline": {
+    "ko": "핵심 비전 및 슬로건"
+  },
+  "Maximizes simultaneous exponential spin-offs and multi-project revenue per single operational input.": {
+    "ko": "단일 운영 투입 대비 동시다발적 기하급수적 스핀오프 및 다각적 프로젝트 수익 극대화."
+  },
+  "8 Global Hubs (SISTAR Int'l)": {
+    "ko": "8대 글로벌 허브 (SISTAR Int'l)"
+  },
+  "South Korea (SCK), Indonesia (SCI / PT SISTAR Indonesia), Vietnam (SCV), Singapore (SCS), China (SCC), Japan (SCJ), USA (SCU), and India (SCIND).": {
+    "ko": "한국 (SCK), 인도네시아 (SCI / PT SISTAR Indonesia), 베트남 (SCV), 싱가포르 (SCS), 중국 (SCC), 일본 (SCJ), 미국 (SCU), 인도 (SCIND)."
+  },
+  "Direct cross-border AI trading network connecting Korean/Chinese R&D and ODM manufacturing with ASEAN, US, Japanese, and Indian markets.": {
+    "ko": "한·중 R&D 및 ODM 제조 역량을 아세안, 미국, 일본, 인도 시장과 직접 연결하는 직통 크로스보더 AI 무역 네트워크."
+  },
+  "6-Tier 12-Domain Web Matrix": {
+    "ko": "6계층 12개 도메인 웹 매트릭스"
+  },
+  "Semantically links Holding → Math Engine → AI Brain → Commercial Platforms → Industry Verticals → Media into one unified digital organism.": {
+    "ko": "지주사 → 수학 엔진 → AI 두뇌 → 상용 플랫폼 → 산업별 버티컬 → 미디어를 유기적으로 결합하여 하나의 통합된 디지털 유기체로 시맨틱 연계."
+  },
+  "Category B. Qubit Algorithm™ Mathematical & AI Weight Control Engine": {
+    "ko": "카테고리 B. Qubit Algorithm™ 수학 및 AI 가중치 제어 엔진"
+  },
+  "Engine Component": {
+    "ko": "엔진 컴포넌트"
+  },
+  "Mechanism Summary": {
+    "ko": "메커니즘 개요"
+  },
+  "Advanced Engineering Application": {
+    "ko": "첨단 엔지니어링 적용"
+  },
+  "5 Quantum Laws of Management": {
+    "ko": "경영의 5대 양자역학 법칙"
+  },
+  "1) Quantum Fluctuation: 1 insight spawns 50 seeds at Vcapital = 0 / 2) Quantum Superposition: Buyer, Manufacturer, Logistics & Finance lock utility at t = 0 / 3) Quantum Entanglement: Project A outcome auto-triggers B, C, D / 4) Quantum Tunneling: Buy4Me, 50% deposit & 3-mo RPF penetrate inventory barriers / 5) Quantization & Destructive Interference: En = n2E1 discrete credit tiers & friction removal.": {
+    "ko": "1) 양자 요동(Quantum Fluctuation): Vcapital = 0 상태에서 단 1개의 인사이트가 50개의 시드 창출 / 2) 양자 중첩(Quantum Superposition): 바이어, 제조사, 물류 및 금융이 t = 0 시점에 효용 동시 확정 / 3) 양자 얽힘(Quantum Entanglement): 프로젝트 A의 결과가 B, C, D를 자동 격발 / 4) 양자 터널링(Quantum Tunneling): Buy4Me, 50% 계약금 및 3개월 RPF를 통해 재고 장벽 돌파 / 5) 양자화 및 상쇄 간섭(Quantization & Destructive Interference): En = n2E1 불연속 신용 티어링 및 마찰 제거."
+  },
+  "Maps directly onto real-time webhook split settlement, RPF demand aggregation, and tiered K-SURE credit guarantees beyond mere metaphor.": {
+    "ko": "단순한 은유를 넘어 실시간 웹훅 분할 정산, RPF 수요 결집, K-SURE 단계별 신용보증 구조로 직접 매핑됨."
+  },
+  "Dynamic Weight & Correlation Engine": {
+    "ko": "동적 가중치 및 상관관계 분석 엔진"
+  },
+  "Replaces static 0.8/0.4 heuristics and manual % ratios. Combines 3-tier (Company–Dept–Individual) MRL embeddings + Vector/GraphRAG + Deep Research + GradNorm, TAG & DSM to dynamically compute Wp,d,a,u(t) and Cij(t).": {
+    "ko": "기존의 정적 0.8/0.4 휴리스틱 및 수동 비율(%) 설정을 대체. 3계층(전사-부서-개인) MRL 임베딩 + Vector/GraphRAG + Deep Research + GradNorm, TAG 및 DSM을 결합하여 Wp,d,a,u(t) 및 Cij(t)를 동적으로 산출."
+  },
+  "Routes volatile market data to Hybrid RAG while dedicating LoRA fine-tuning strictly to 100% deterministic JSON schema emission, tone alignment, and local model distillation.": {
+    "ko": "변동성이 큰 시장 데이터는 Hybrid RAG로 라우팅하는 한편, LoRA 파인튜닝은 100% 결정론적 JSON 스키마 생성, 톤 정렬 및 로컬 모델 증류에만 엄격히 한정 적용."
+  },
+  "Independent Hard-Constraint Firewall": {
+    "ko": "독립 하드 제약 방화벽 (Independent Hard-Constraint Firewall)"
+  },
+  "Adopts the independent constraint layer of hybrid quantum-classical decision architectures (QCBM). Immediately zeroes out (Ihard = 0) any link with TAG < 0 (negative transfer), correlation < 0.25, or RA / K-SURE / 70:30 PG violations.": {
+    "ko": "하이브리드 양자-고전 의사결정 아키텍처(QCBM)의 독립 제약 계층을 채택. TAG < 0(역전이), 상관계수 < 0.25, 또는 RA / K-SURE / 70:30 PG 위반이 발생하는 모든 링크를 즉각 무효화(Ihard = 0) 처리."
+  },
+  "Prevents faulty data or unapproved regulatory states in one node from cascading across entangled projects.": {
+    "ko": "특정 노드의 결함 데이터나 미승인 규제 상태가 얽힘(entangled) 상태의 프로젝트 전반으로 연쇄 확산되는 현상을 차단."
+  },
+  "CATEGORY C & CATEGORY D • 6 AI CENTERS × 8 DIVISIONS & 5 COSMO SEED ENGINES SECTION 02 / 04": {
+    "ko": "CATEGORY C & CATEGORY D • 6개 AI 센터 × 8대 사업부문 및 5개 COSMO SEED 엔진 섹션 02 / 04"
+  },
+  "Category C. Organizational Operating Matrix (6 AI Centers × 8 Corporate Divisions)": {
+    "ko": "Category C. 조직 운영 매트릭스 (6개 AI 센터 × 8대 사업본부)"
+  },
+  "AI Center": {
+    "ko": "AI 센터"
+  },
+  "Dedicated Function & Linked *SC Assets": {
+    "ko": "전담 기능 및 연계 *SC 자산"
+  },
+  "Coupled 8 Departmental Tasks & Quantitative Parameter Examples": {
+    "ko": "결합된 8대 부서 과업 및 정량적 매개변수 예시"
+  },
+  "Ingests One Spark & dispatches mission JSON across all 8 divisions and individual units (Scarlet AI, Qubit Biz, CEO ActionNote).": {
+    "ko": "One Spark를 인제스트하고 전 8대 부문 및 개별 유닛으로 미션 JSON을 배동(Scarlet AI, Qubit Biz, CEO ActionNote)."
+  },
+  "Master orchestration across all 8 divisions: Sales & Opr, Finance, HR, SCM, RA, IT, Marketing, and Biz Development.": {
+    "ko": "전 8대 부문 마스터 오케스트레이션: Sales & Opr(영업/운영), Finance(재무), HR(인사), SCM(공급망), RA(인허가/규제), IT, Marketing(마케팅), Biz Development(사업개발)."
+  },
+  "2. AI Data Center": {
+    "ko": "2. AI 데이터 센터"
+  },
+  "Overnight crawling (22:00–08:00), Workspace central DB cleaning, structured chunking, MRL vectors & GraphRAG indexing.": {
+    "ko": "야간 배치 크롤링(22:00–08:00), 워크스페이스 중앙 DB 정제, 구조화 청킹, MRL 벡터화 및 GraphRAG 인덱싱."
+  },
+  "IT (ingestion pipeline uptime), SCM (wholesale prices, SKU, HS tariffs), Sales & Opr (channel revenue & inquiry logs).": {
+    "ko": "IT (수집 파이프라인 가동률), SCM (도매가, SKU, HS 관세율), Sales & Opr (채널별 매출 및 문의 로그)."
+  },
+  "3. AI Analysis Center": {
+    "ko": "3. AI 분석 센터"
+  },
+  "Deep Research prior scoring, GradNorm/TAG dynamic weight & Co-relation % computation, 08:00 executive briefing.": {
+    "ko": "Deep Research 사전 스코어링, GradNorm/TAG 동적 가중치 및 상관계수(%) 산출, 08:00 경영진 브리핑 발행."
+  },
+  "Biz Development (new venture feasibility score), Finance (P&L and NAV simulation), RA (multi-hop regulatory causal tracking).": {
+    "ko": "Biz Development (신사업 타당성 점수), Finance (손익 및 NAV 시뮬레이션), RA (멀티홉 규제 인과관계 추적)."
+  },
+  "SISTAR Studio + mall.sisTV producing 10+ daily multilingual short-form videos, SPIN proposals, and QR Shoppable links.": {
+    "ko": "SISTAR Studio + mall.sisTV 연계를 통해 일일 10편 이상의 다국어 숏폼 영상 제작, SPIN 제안서 및 QR Shoppable 링크 생성."
+  },
+  "Marketing (SEO & multilingual asset velocity), Sales & Opr (20 persona listings per core SKU).": {
+    "ko": "Marketing (SEO 및 다국어 에셋 제작 속도), Sales & Opr (핵심 SKU당 20개 페르소나 리스팅 수립)."
+  },
+  "Hard-Constraint Firewall, 70/30 PG split verification, K-SURE credit control, CCTV + Gemini Vision real-time inventory audit.": {
+    "ko": "Hard-Constraint Firewall, 70/30 PG 정산 검증, K-SURE 신용 통제, CCTV + Gemini Vision 기반 실시간 재고 실사."
+  },
+  "Finance (0% default rate, tax/VAT compliance), RA (BPOM & import licensing), SCM (warehouse pallet & sachet audit error rate).": {
+    "ko": "Finance (부도율 0%, 세무/부가세 규정 준수), RA (BPOM 및 수입 인허가), SCM (물류창고 팔레트 및 소포장 실사 오차율)."
+  },
+  "Vibe Coding unmanned web/portal generation (Qubit Factory), headless browser execution (Browser Works), MCP x402 billing.": {
+    "ko": "Vibe Coding 무인 웹/포털 구축(Qubit Factory), 헤드리스 브라우저 실행(Browser Works), MCP x402 결제/과금 체계."
+  },
+  "IT (Firebase multi-site deployment, autonomous CI/CD), HR (Challengers onboarding & net-profit pool cap governance).": {
+    "ko": "IT (Firebase 멀티 사이트 배포, 자율형 CI/CD), HR (Challengers 온보딩 및 순이익 풀 상한 거버넌스)."
+  },
+  "Category D. 5 Cosmo Seed™ Engines & Industry Vertical Portfolio": {
+    "ko": "카테고리 D. 5대 Cosmo Seed™ 엔진 및 산업 버티컬 포트폴리오"
+  },
+  "Engine / Portfolio": {
+    "ko": "엔진 / 포트폴리오"
+  },
+  "Constituent Modules & Brands": {
+    "ko": "구성 모듈 및 브랜드"
+  },
+  "Core Business Mechanism & Operational Status": {
+    "ko": "핵심 비즈니스 메커니즘 및 운영 현황"
+  },
+  "Engine 01: Qubit Factory™": {
+    "ko": "엔진 01: Qubit Factory™"
+  },
+  "Auto-reskins and clones a single verified backend into 6 languages, deploying 100+ micro-SaaS and D2C portals within 24–72 hours (< 2% churn target, App Flipping).": {
+    "ko": "단일 검증 백엔드를 6개 언어로 자동 리스킨 및 복제하여 24~72시간 내 100개 이상의 마이크로 SaaS 및 D2C 포털 배포 (이탈률 목표 < 2%, 앱 플리핑)."
+  },
+  "Engine 02: Qubit Ads™": {
+    "ko": "엔진 02: Qubit Ads™"
+  },
+  "Detects viral demand and closes direct factory-price deals via SISTAR Studio shoppable videos, Ms. Scarlet 24/7 multilingual (ID/KR/EN) chatbot, and Buy4Me reverse-auction group buying.": {
+    "ko": "SISTAR Studio 쇼퍼블 비디오, Ms. Scarlet 24/7 다국어(ID/KR/EN) 챗봇, Buy4Me 역경매 공동구매를 통해 바이럴 수요를 감지하고 공장 직거래 가격 딜을 체결."
+  },
+  "Engine 03: Qubit Star™": {
+    "ko": "엔진 03: Qubit Star™"
+  },
+  "Structures One Spark into Target–Timeline–Process (TTP) packages, semantically matching global gig experts and auto-generating multilingual IR pitchdecks.": {
+    "ko": "One Spark를 Target–Timeline–Process (TTP) 패키지로 구조화하여 글로벌 긱(Gig) 전문가를 시맨틱 매칭하고 다국어 IR 피치덱을 자동 생성."
+  },
+  "Engine 04: Qubit Link™": {
+    "ko": "엔진 04: Qubit Link™"
+  },
+  "Links customs, freight, and invoice APIs to close 3-party trade and K-SURE BNPL factoring simultaneously at t = 0, capturing a 1.5%–3.0% clearing spread.": {
+    "ko": "통관, 화물 운송, 인보이스 API를 연동하여 t = 0 시점에 3자 무역 및 K-SURE BNPL 팩토링을 동시 체결, 1.5%~3.0%의 결제/청산 스프레드 확보."
+  },
+  "Engine 05: Qubit Flow™": {
+    "ko": "엔진 05: Qubit Flow™"
+  },
+  "Scans 24/7 wholesale price feeds to execute risk-free arbitrage exceeding friction costs and monetizes external AI agent queries via MCP HTTP x402 pay-per-call APIs.": {
+    "ko": "도매 가격 피드를 24/7 스캔하여 마찰 비용을 초과하는 무위험 차익거래(Arbitrage)를 실행하고, MCP HTTP x402 콜당 과금(Pay-per-call) API를 통해 외부 AI 에이전트 쿼리를 수익화."
+  },
+  "Biz-Galaxy (Industry Verticals)": {
+    "ko": "Biz-Galaxy (산업 버티컬)"
+  },
+  "Forms high-margin niche clusters across veterinary bio-health, pet care, edtech, ayurveda, and K-beauty.": {
+    "ko": "수의 바이오 헬스, 펫케어, 에듀테크, 아유르베다, K-뷰티 전반에 걸쳐 고마진 니치 클러스터를 구축."
+  },
+  "Biz-Hub (Shared Infrastructure)": {
+    "ko": "Biz-Hub (공유 인프라)"
+  },
+  "Drives a zero-CAC customer acquisition flywheel via joint ODM (Rp 1,320 sachets), shared warehouse space, and free AI/SCM academy curriculums.": {
+    "ko": "공동 ODM(Rp 1,320 사셰 포장), 공유 물류창고 공간, 무상 AI/SCM 아카데미 커리큘럼을 통해 제로 CAC 고객 획득 플라이휠을 구동."
+  },
+  "CATEGORY E & CATEGORY F • TECH STACK, C-SUITE DASHBOARD KPI & UNIT ECONOMICS SECTION 03 / 04": {
+    "ko": "카테고리 E & 카테고리 F • 테크 스택, C-레벨 대시보드 KPI 및 유닛 이코노믹스 섹션 03 / 04"
+  },
+  "Category E. End-to-End Tech Stack, Data Pipeline & 4 C-Suite Dashboard Views": {
+    "ko": "카테고리 E. 엔드투엔드 테크 스택, 데이터 파이프라인 및 4대 C-레벨 대시보드 뷰"
+  },
+  "The end-to-end technical pipeline flows from overnight ingestion (Browse AI / Apify / Playwright) into centralized Google Workspace storage (Drive / Workspace Studio / Apps Script / [Projects]_Master 100-Tab Sheets), indexes into MRL + GraphRAG knowledge stores (NotebookLM / Dify / AnythingLLM / Supabase pgvector), computes dynamic weights and correlations via Python (GradNorm / TAG / DSM / QUBO), and emits deterministic JSON commands via LoRA-tuned local Ollama (Qwen 2.5 Coder / Llama 3.1) and Gemini 2.5 Flash APIs to deploy across Firebase Multi-Site and MCP / HTTP x402 endpoints:": {
+    "ko": "엔드투엔드 기술 파이프라인은 심야 인제스천(Browse AI / Apify / Playwright)을 통해 중앙화된 Google Workspace 스토리지(Drive / Workspace Studio / Apps Script / [Projects]_Master 100-Tab Sheets)로 유입되고, MRL + GraphRAG 지식 저장소(NotebookLM / Dify / AnythingLLM / Supabase pgvector)에 인덱싱되며, Python(GradNorm / TAG / DSM / QUBO)을 통해 동적 가중치 및 상관관계를 연산한 후, LoRA 튜닝된 로컬 Ollama(Qwen 2.5 Coder / Llama 3.1) 및 Gemini 2.5 Flash API를 거쳐 결정론적 JSON 커맨드를 발행함으로써 Firebase Multi-Site 및 MCP / HTTP x402 엔드포인트 전반에 걸쳐 배포되는 구조로 가동됩니다:"
+  },
+  "C-Suite Dashboard View": {
+    "ko": "C-레벨 대시보드 뷰"
+  },
+  "Core Visualized Telemetry Metrics (KPIs)": {
+    "ko": "핵심 시각화 텔레메트리 지표 (KPIs)"
+  },
+  "Executive Decision Application": {
+    "ko": "경영진 의사결정 적용 방안"
+  },
+  "Real-time Co-relation % network graph across N entangled projects upon a single One Spark input, plus destructive interference block logs.": {
+    "ko": "단일 One Spark 입력에 따른 N개 얽힘(entangled) 프로젝트 전반의 실시간 상관관계 % 네트워크 그래프 및 상쇄 간섭(destructive interference) 차단 로그."
+  },
+  "Identifies maximum synergy clusters and immediately isolates negative-transfer projects.": {
+    "ko": "최대 시너지 클러스터를 식별하고 부성 전이(negative-transfer) 프로젝트를 즉각 격리."
+  },
+  "2. 8×6 Matrix Heatmap": {
+    "ko": "2. 8×6 매트릭스 히트맵"
+  },
+  "Live dynamic weights Wp,d,a,u(t) across 8 divisions × 6 AI Centers × individual units, GradNorm bottleneck alerts, and automation progress %.": {
+    "ko": "8개 사업부 × 6개 AI 센터 × 개별 유닛 전반의 실시간 동적 가중치 Wp,d,a,u(t), GradNorm 병목 알림 및 자동화 진행률(%)."
+  },
+  "Reallocates compute and support immediately to bottlenecked divisions (e.g., RA licensing or customs).": {
+    "ko": "병목이 발생한 사업 부문(예: 인허가 RA 또는 통관)에 연산 자원(compute)과 지원을 즉시 재배치."
+  },
+  "3. t = 0 Cashflow Ledger": {
+    "ko": "3. t = 0 현금흐름 원장"
+  },
+  "Real-time 70/30 PG webhook split settlement amounts, remaining K-SURE BNPL credit limits, 3-month RPF fulfillment rate, and daily public NAV.": {
+    "ko": "실시간 70/30 PG 웹훅 분할 정산액, K-SURE BNPL 잔여 신용 한도, 3개월 RPF 이행률 및 일일 공개 NAV."
+  },
+  "Verifies working capital velocity and real-time P&L transparency per project.": {
+    "ko": "프로젝트별 운전자본 회전 속도와 실시간 손익(P&L) 투명성 검증."
+  },
+  "4. Engine Telemetry": {
+    "ko": "4. 엔진 텔레메트리"
+  },
+  "External agent MCP x402 API revenue, CCTV Vision warehouse audit error rate, and SISTAR Studio daily asset conversion velocity.": {
+    "ko": "외부 에이전트 MCP x402 API 매출, CCTV Vision 물류창고 실사 오류율, SISTAR Studio 일일 에셋 전환 속도."
+  },
+  "Tracks unmanned automation pipeline health and high-margin external SaaS/API monetization.": {
+    "ko": "무인 자동화 파이프라인의 건전성 및 고마진 외부 SaaS/API 수익화를 추적."
+  },
+  "Category F. Financial Unit Economics, Revenue Model & Legal Governance": {
+    "ko": "카테고리 F. 재무적 유닛 이코노믹스, 수익 모델 및 법률적 거버넌스"
+  },
+  "Financial / Legal Pillar": {
+    "ko": "재무 / 법률 핵심 축 (Financial / Legal Pillar)"
+  },
+  "Engineered Mechanism & Target Metrics (*SC Design)": {
+    "ko": "엔지니어링 메커니즘 및 목표 지표 (*SC Design)"
+  },
+  "Risk Control & Compliance Impact": {
+    "ko": "리스크 통제 및 컴플라이언스 파급효과"
+  },
+  "Multi-Stream Revenue & Gross Margin Targets": {
+    "ko": "다각화 수익 스트림 및 매출총이익률(Gross Margin) 목표"
+  },
+  "B2B AI/SaaS, custom RAG & MCP x402 billing (75%–88% or 75%–85% GM), physical trade & Rp 1,320 (~$0.085) sachet ODM (45%–65% GM), Qubit Link clearing spread (1.5%–3.0%), and 100% internal ERP license savings.": {
+    "ko": "B2B AI/SaaS, 커스텀 RAG 및 MCP x402 과금 (75%–88% 또는 75%–85% GM), 실물 무역 및 Rp 1,320 (~$0.085) 사셰 ODM (45%–65% GM), Qubit Link 청산 스프레드 (1.5%–3.0%), 사내 ERP 라이선스 비용 100% 절감."
+  },
+  "High-margin SW/API cashflows fund physical trade expansion while converting fixed payroll into net-profit-pool variable compensation (Algorithmic Meritocracy).": {
+    "ko": "고마진 SW/API 현금흐름이 실물 무역 확장을 지원하며, 고정 인건비를 순이익 풀 기반의 변동 성과급(알고리즘 기반 성과주의, Algorithmic Meritocracy)으로 전환."
+  },
+  "Payment & Credit Risk Defense": {
+    "ko": "결제 및 신용 리스크 방어 체계"
+  },
+  "70/30 PG webhook split settlement (70% *SC COGS/clearing, 30% local partner margin), 50% advance deposit + 3-month RPF + K-SURE export credit insurance.": {
+    "ko": "70/30 PG 웹훅 분할 정산 (70% *SC 원가/청산, 30% 현지 파트너 마진), 50% 선수금 + 3개월 RPF + K-SURE 수출신용보증."
+  },
+  "Drives accounts receivable default rate toward 0% and eliminates upfront working capital strain.": {
+    "ko": "매출채권 부도율을 0%에 수렴하도록 유도하고 초기 운전자본 부담을 원천 제거."
+  },
+  "4-Way Offsetting & Qubit Banks": {
+    "ko": "4자 다자간 상계 및 Qubit Banks"
+  },
+  "4-party multilateral offsetting across physical goods, knowledge assets (free education), IT/AI solutions, and credit vouchers via Time / Space / Idea / Petfood Banks.": {
+    "ko": "Time / Space / Idea / Petfood Banks를 통한 실물 재화, 지식 자산(무상 교육), IT/AI 솔루션, 신용 바우처 간 4자 다자간 상계."
+  },
+  "Operates as closed-loop B2B procurement vouchers to bypass money-transmitter regulatory friction.": {
+    "ko": "폐쇄형(closed-loop) B2B 조달 바우처로 작동하여 송금업(money-transmitter) 규제 마찰을 우회."
+  },
+  "Strict legal separation between core IP/holding (SC Index) and commercial execution entities (Biz Galaxy), paired with daily public NAV reporting.": {
+    "ko": "핵심 IP/지주사(SC Index)와 상업적 실행 법인(Biz Galaxy) 간의 엄격한 법적 분리 및 일일 공개 NAV 보고 체계 구축."
+  },
+  "Prevents commercial claims or coupon liabilities in individual verticals from contaminating parent holding equity.": {
+    "ko": "개별 버티컬의 상거래 클레임이나 쿠폰 부채가 모회사 지주사 지분을 침해하는 위험을 원천 차단."
+  },
+  "CATEGORY G • VC DUE DILIGENCE CHECKLIST & 12-MONTH EXECUTION ROADMAP SECTION 04 / 04": {
+    "ko": "CATEGORY G • VC 실사(DUE DILIGENCE) 체크리스트 및 12개월 실행 로드맵 섹션 04 / 04"
+  },
+  "Category G. VC Due Diligence Checklist & 12-Month Phased Execution Roadmap": {
+    "ko": "카테고리 G. VC 실사(Due Diligence) 체크리스트 및 12개월 단계별 실행 로드맵"
+  },
+  "Execution Phase": {
+    "ko": "실행 단계"
+  },
+  "Timeline": {
+    "ko": "추진 일정"
+  },
+  "Core Engineering & Commercial Milestones": {
+    "ko": "핵심 엔지니어링 및 상용화 마일스톤"
+  },
+  "VC & Executive Verification Gate": {
+    "ko": "VC 및 최고경영진 검증 게이트"
+  },
+  "Phase 1: Anchor Entanglement": {
+    "ko": "단계 1: 앵커 얽힘(Anchor Entanglement)"
+  },
+  "Months 1–3": {
+    "ko": "1~3개월 차"
+  },
+  "1) Finalize [Projects]_Master data cleaning schema. 2) Index 3–5 Korea–Indonesia anchor projects (Sistar Medix + SisPet + SisPharm) into MRL + GraphRAG. 3) Codify AI Risk Management Center Hard-Constraint ruleset (Ihard).": {
+    "ko": "1) [Projects]_Master 데이터 정제 스키마 확정. 2) 한국-인도네시아 앵커 프로젝트(Sistar Medix + SisPet + SisPharm) 3~5개를 MRL + GraphRAG로 인덱싱. 3) AI 리스크 관리 센터 하드 제약(Hard-Constraint) 룰셋(Ihard) 코드화."
+  },
+  "Minimize unstructured input noise and accumulate verified live transactions proving 70/30 PG split & RPF t = 0 settlement.": {
+    "ko": "비정형 인풋 노이즈를 최소화하고 70/30 PG 분할 및 RPF t = 0 정산을 입증하는 검증된 라이브 트랜잭션 축적."
+  },
+  "Phase 2: Dynamic Weight & LoRA": {
+    "ko": "단계 2: 동적 가중치(Dynamic Weight) & LoRA"
+  },
+  "Months 4–6": {
+    "ko": "4~6개월 차"
+  },
+  "1) Replace static Python node (0.8/0.4) with the GradNorm + TAG + DSM dynamic computation engine. 2) Train LoRA adapters on hundreds/thousands of execution logs (locking JSON schemas & distilling local Ollama inference). 3) Integrate Co-relation % & negative-transfer blocking UI into the C-Suite dashboard.": {
+    "ko": "1) 정적 Python 노드(0.8/0.4)를 GradNorm + TAG + DSM 동적 연산 엔진으로 대체. 2) 수백/수천 건의 실행 로그를 기반으로 LoRA 어댑터 학습(JSON 스키마 고정 및 로컬 Ollama 추론 증류). 3) C-Suite 대시보드에 상관관계(Co-relation) % 및 네거티브 트랜스퍼 차단 UI 통합."
+  },
+  "Demonstrate superior multi-project resource allocation ROI and automated negative-transfer isolation compared to static heuristics.": {
+    "ko": "정적 휴리스틱 대비 탁월한 다중 프로젝트 자원 배분 ROI 및 자동화된 네거티브 트랜스퍼 격리 성능 입증."
+  },
+  "Phase 3: Galaxy & MCP Scale-Out": {
+    "ko": "단계 3: 갤럭시 & MCP 스케일아웃(Scale-Out)"
+  },
+  "Months 7–12": {
+    "ko": "7~12개월 차"
+  },
+  "1) Apply Qubit Factory cloning to verified anchor clusters to scale from 15 → 100 projects. 2) Launch commercial MCP HTTP x402 pay-per-call APIs for external AI agents. 3) Complete third-party accounting audit of daily public NAV.": {
+    "ko": "1) 검증된 앵커 클러스터에 Qubit Factory 클로닝을 적용하여 15개에서 100개 프로젝트로 확장. 2) 외부 AI 에이전트 대상 상업용 MCP HTTP x402 호출당 과금(Pay-per-call) API 출시. 3) 일일 공개 NAV에 대한 제3자 회계 감사 완료."
+  },
+  "Expand external SaaS/MCP revenue share, validate CAC payback < 0.5 months, and lock institutional Series valuation with a 0% default ledger.": {
+    "ko": "외부 SaaS/MCP 매출 비중 확대, CAC 회수 기간 < 0.5개월 검증, 무부도(0% Default) 원장 기반 기관 시리즈 밸류에이션 확정."
+  },
+  "← Back to cosmo seed biz models 01. Cross-Projects Management Open Paper: Qubit Algorithm Dual Engines → Print / Save PDF": {
+    "ko": "← cosmo seed biz models 01로 돌아가기. 크로스 프로젝트 매니지먼트 논문 열람: Qubit Algorithm Dual Engines → 인쇄 / PDF 저장"
+  },
+  "01. Cross-Projects Management": {
+    "ko": "01. 크로스 프로젝트 매니지먼트"
+  },
+  "Open Paper: Qubit Algorithm Dual Engines →": {
+    "ko": "논문 열람: Qubit Algorithm Dual Engines →"
+  },
+  "EXECUTIVE BUSINESS REPORT • COSMO SEED™ & QUBIT ALGORITHM™ MASTER DOSSIER": {
+    "ko": "경영진 비즈니스 리포트 • COSMO SEED™ & QUBIT ALGORITHM™ 마스터 도시에"
+  },
+  "CATEGORIES A – G COMPLETE EDITION": {
+    "ko": "카테고리 A – G 통합본"
+  },
+  "CATEGORY A & CATEGORY B • CORPORATE TOPOLOGY & QUBIT WEIGHT ENGINE": {
+    "ko": "카테고리 A & 카테고리 B • 기업 토폴로지 및 QUBIT 가중치 엔진"
+  },
+  "CATEGORY C & CATEGORY D • 6 AI CENTERS × 8 DIVISIONS & 5 COSMO SEED ENGINES": {
+    "ko": "카테고리 C & 카테고리 D • 6대 AI 센터 × 8대 사업부문 및 5대 COSMO SEED 엔진"
+  },
+  "CATEGORY E & CATEGORY F • TECH STACK, C-SUITE DASHBOARD KPI & UNIT ECONOMICS": {
+    "ko": "카테고리 E & 카테고리 F • 테크 스택, C-SUITE 대시보드 KPI 및 유닛 이코노믹스"
+  },
+  "CATEGORY G • VC DUE DILIGENCE CHECKLIST & 12-MONTH EXECUTION ROADMAP": {
+    "ko": "카테고리 G • VC 실사 체크리스트 및 12개월 실행 로드맵"
+  },
+  "IMMEDIATE ACTION PRIORITY #1 Lock the standardized \"8 Corporate Divisions x 6 AI Centers x Individual Unit\" parameter JSON schema inside the [Projects]_Master sheet for the Sistar Medix + SisPet + SisPharm anchor cluster, and codify the AI Risk Management Center's Hard-Constraint Firewall ruleset first.": {
+    "ko": "즉각 실행 우선순위 #1 Sistar Medix + SisPet + SisPharm 앵커 클러스터를 대상으로 [Projects]_Master 시트 내 표준화된 \"8대 기업 부문 x 6대 AI 센터 x 개별 유닛\" 파라미터 JSON 스키마를 동결하고, AI 리스크 관리 센터의 하드 제약 방화벽 룰셋을 최우선적으로 코드화할 것."
+  },
+  "CANONICAL QUANTUM-SEED PROJECT ARCHITECTURE • FOLLOW-UP RESEARCH MONOGRAPH COSMO SEED SERIES 03": {
+    "ko": "표준 양자-시드 프로젝트 아키텍처 • 후속 연구 모노그래프 COSMO SEED 시리즈 03"
+  },
+  "Canonical Quantum-Seed Project Architecture: Engineering Intra-Project Orchestration and Cross-Project Entanglement across AI Centers, Corporate Departments, and Global Bases": {
+    "ko": "표준 양자-시드 프로젝트 아키텍처: AI 센터, 기업 부서 및 글로벌 거점 간 프로젝트 내부 오케스트레이션과 교차 프로젝트 얽힘 공학"
+  },
+  "Subtitle: Qubit Algorithm™ Follow-Up Study — Canonical Production Specification for a Single Project and the 3-Dimensional (6 AI Centers × 8 Departments × 8 International Bases) Execution Mechanism": {
+    "ko": "부제: Qubit Algorithm™ 후속 연구 — 단일 프로젝트의 표준 제작 규격과 3차원(6대 AI Centers × 8대 부서 × 8대 글로벌 거점) 실행 메커니즘"
+  },
+  "Authors: SISTAR Company (*SC), Dennii Ku (denniiku) | Domain: qubit-algorithm.sistarcompany.com": {
+    "ko": "저자 (Authors): SISTAR Company (*SC), Dennii Ku (denniiku) | 도메인: qubit-algorithm.sistarcompany.com"
+  },
+  "CHAPTER 1 • INTRODUCTION & ENGINEERING FEASIBILITY ASSESSMENT SECTION 01 / 07": {
+    "ko": "제1장 • 서론 및 엔지니어링 실현 가능성 평가 섹션 01 / 07"
+  },
+  "1. Introduction and Engineering Feasibility Assessment": {
+    "ko": "1. 서론 및 엔지니어링 실현 가능성 평가"
+  },
+  "1.1 Research Background: Transitioning from Concept to Unmanned Commercial Engine": {
+    "ko": "1.1 연구 배경: 개념적 구상에서 무인 상업 엔진으로의 전환"
+  },
+  "SISTAR Company (*SC) is building Qubit Algorithm™ to simultaneously generate multiple derivative business models and cross-project revenues (Infinite Galaxifying) from a single operational input (One Spark). However, as Founder Dennii Ku accurately diagnosed, for this vast quantum entanglement ecosystem to operate reliably in practice, the very first project (Seed Project #1) must be assembled according to a strict, canonical engineering specification. When the data schema and I/O ports of the first project are rigorously engineered, the subsequent 10 to 100 projects automatically entangle on top of the identical schema; conversely, if initial projects are created as fragmented prose documents, management complexity explodes exponentially as project count increases.": {
+    "ko": "SISTAR Company (*SC)는 단일 운영 투입(One Spark)으로부터 다중 파생 비즈니스 모델 및 프로젝트 간 교차 수익(Infinite Galaxifying)을 동시 창출하기 위해 Qubit Algorithm™을 구축하고 있다. 그러나 창립자 Dennii Ku가 정확히 진단했듯, 이 방대한 양자 얽힘 생태계가 실무에서 안정적으로 작동하기 위해서는 최초의 프로젝트(Seed Project #1)가 엄격하고 표준화된(canonical) 엔지니어링 규격에 따라 조립되어야만 한다. 첫 번째 프로젝트의 데이터 스키마와 입출력(I/O) 포트가 정밀하게 엔지니어링될 때, 후속 10개에서 100개의 프로젝트가 동일 스키마 상에서 자동으로 얽히게(entangle) 된다. 반대로 초기 프로젝트가 파편화된 줄글 형태의 문서로 작성된다면, 프로젝트 수 증가에 따라 관리 복잡도는 기하급수적으로 폭발하게 된다."
+  },
+  "1.2 Executive and Engineering Feasibility Verification": {
+    "ko": "1.2 경영진 및 엔지니어링 실현 가능성 검증"
+  },
+  "To state the conclusion unequivocally: this architecture is 100% engineerable and commercially deployable today. Crucially, its realization does not rely on a monolithic single AI model attempting to do everything at once, but rather on a microservice-style multi-agent architecture operating over a standardized JSON Event Bus. Four core pillars validate its immediate feasibility:": {
+    "ko": "결론부터 명확히 밝히자면, 본 아키텍처는 오늘날 100% 엔지니어링 가능하며 상용 배포 가능한 수준이다. 결정적으로, 본 아키텍처의 구현은 모든 것을 한 번에 처리하려는 단일 모놀리식 AI 모델에 의존하지 않고, 표준화된 JSON Event Bus 상에서 구동되는 마이크로서비스 형태의 멀티 에이전트 아키텍처를 기반으로 한다. 다음 네 가지 핵심 기둥이 즉각적인 실현 가능성을 입증한다:"
+  },
+  "Commercial Tech Stack & Structured JSON Determinism": {
+    "ko": "상용 기술 스택 및 구조화된 JSON 결정론(Determinism)"
+  },
+  "1. Maturity of Available Tech Stack: *SC's existing Overnight Data Factory (Playwright/Apify), centralized Google Workspace DB ([Projects]_Master), vector/graph retrieval (Supabase pgvector, Dify, NotebookLM), hybrid inference (Ollama + Gemini 2.5 Flash), and 70/30 PG webhook split settlement are all proven commercial technologies. 2. Engineering Control of Unstructured Data Risk: Source data contamination is eliminated by replacing free-form planning docs with a mandatory Canonical JSON Schema coupled with 100% structured output locking via LoRA adapters.": {
+    "ko": "1. 가용 기술 스택의 성숙도: *SC의 기존 Overnight Data Factory(Playwright/Apify), 중앙 집중형 Google Workspace DB([Projects]_Master), 벡터/그래프 검색(Supabase pgvector, Dify, NotebookLM), 하이브리드 추론(Ollama + Gemini 2.5 Flash), 70/30 PG 웹훅 분할 정산은 모두 이미 검증된 상용 기술이다. 2. 비정형 데이터 리스크의 엔지니어링적 제어: 자유 형식의 기획 문서를 필수 Canonical JSON Schema로 대체하고, LoRA 어댑터를 통한 100% 구조화된 출력 잠금(structured output locking)을 결합함으로써 원천 데이터 오염을 원천 차단한다."
+  },
+  "4-Port Hub Entanglement & Phased Clone Scaling": {
+    "ko": "4-포트 허브 얽힘 및 단계적 클론 스케일링"
+  },
+  "3. Linearization of Computational Complexity: Rather than N-to-N combinatorial explosion, all projects entangle indirectly through 4 Standardized Shared Pools (Demand, Supply, Regulatory, and Clearing Ports) while the AI Risk Management Center prunes links below 0.25 correlation or with negative transfer (TAG < 0). 4. Capital-Efficient Phased Expansion: Validating unit economics and t = 0 simultaneous settlement on 3–5 anchor projects first and then cloning via Qubit Factory™ represents the ideal low-fixed-cost VC scaling model.": {
+    "ko": "3. 연산 복잡도의 선형화: N대N 조합 폭발 대신, 모든 프로젝트는 4대 표준화 공유 풀(수요, 공급, 규제, 정산 포트)을 통해 간접적으로 얽히며, AI Risk Management Center가 상관관계 0.25 미만 또는 부정적 전이(TAG < 0)가 발생하는 링크를 프루닝(가지치기)한다. 4. 자본 효율적 단계적 확장: 3~5개의 앵커 프로젝트에서 유닛 이코노믹스와 t = 0 시점의 동시 정산을 선제 검증한 뒤 Qubit Factory™를 통해 복제·확장하는 방식은 이상적인 저고정비 VC 스케일링 모델을 구현한다."
+  },
+  "CHAPTER 2 • QUANTUM-SEED PROJECT CANONICAL SCHEMA SECTION 02 / 07": {
+    "ko": "제2장 • 양자-시드 프로젝트 표준 스키마 섹션 02 / 07"
+  },
+  "2. Canonical Anatomy of an Optimal Single Project: Quantum-Seed Schema": {
+    "ko": "2. 최적 단일 프로젝트의 표준 해부도: 양자-시드(Quantum-Seed) 스키마"
+  },
+  "For a project to execute autonomously while immediately entangling with other projects, every project Pk must be instantiated from genesis as a standardized Digital Object containing four canonical blocks:": {
+    "ko": "프로젝트가 자율적으로 실행되는 동시에 타 프로젝트와 즉각 얽히기 위해서는, 모든 프로젝트 Pk가 생성 초기부터 다음 네 가지 표준 블록을 포함하는 표준화된 디지털 객체(Digital Object)로 인스턴스화되어야 한다:"
+  },
+  "Canonical Block": {
+    "ko": "표준 블록 (Canonical Block)"
+  },
+  "Core Data Fields & Mathematical Definition": {
+    "ko": "핵심 데이터 필드 및 수학적 정의"
+  },
+  "Operational Function & Cross-Project Role": {
+    "ko": "운영 기능 및 교차 프로젝트 역할"
+  },
+  "1. Header Vector (Hk)": {
+    "ko": "1. 헤더 벡터 (Hk)"
+  },
+  "project_id, cluster_tag, target revenue (Rtarget), minimum gross margin (GMmin), max lead time (&tau;max), initial capital limit (Vcap ≈ 0), and 1,024-dim MRL concept embedding vector ek.": {
+    "ko": "project_id, cluster_tag, 목표 매출(Rtarget), 최소 매출총이익률(GMmin), 최대 리드타임(&tau;max), 초기 자본 한도(Vcap ≈ 0), 1,024차원 MRL 개념 임베딩 벡터 ek."
+  },
+  "Quantifies project identity and targets into scalars and vectors, serving as the reference point for instant primary semantic similarity cos(ei, ej).": {
+    "ko": "프로젝트의 정체성과 목표를 스칼라 및 벡터로 정량화하여, 즉각적인 1차 의미론적 유사도 cos(ei, ej) 산출을 위한 기준점으로 기능함."
+  },
+  "2. 3D Execution Tensor (Tk)": {
+    "ko": "2. 3D 실행 텐서 (Tk)"
+  },
+  "Decomposes internal project execution into a 3D lattice of 6 AI Centers (a) × 8 Departments (d) × 8 Global Bases (b). Each node Tk,a,d,b holds a dynamic weight Wk,a,d,b(t) and an assigned Challenger/owner ID.": {
+    "ko": "프로젝트 내부 실행을 6개 AI Center(a) × 8개 부서(d) × 8개 글로벌 거점(b)의 3차원 격자로 분해함. 각 노드 Tk,a,d,b는 동적 가중치 Wk,a,d,b(t) 및 할당된 챌린저/오너 ID를 보유함."
+  },
+  "Locks down without omission “Who (Base • Dept • Individual), using which AI Engine (AI Center), executes what task at what importance weight (%).”": {
+    "ko": "‘누가(거점·부서·개인), 어떤 AI 엔진(AI Center)을 활용하여, 어떤 업무를, 얼마의 중요도 가중치(%)로 실행하는가’를 누락 없이 확정함."
+  },
+  "3. Entanglement Ports (&Pi;kent)": {
+    "ko": "3. 얽힘 포트 (&Pi;kent)"
+  },
+  "4 Standardized I/O Interface Ports (Demand/Intent, Supply/RPF/ODM, Regulatory/GraphRAG, and Clearing/PG/Credit) that exchange resources and signals with other projects.": {
+    "ko": "타 프로젝트와 자원 및 신호를 교환하는 4대 표준 I/O 인터페이스 포트(수요/인텐트, 공급/RPF/ODM, 규제/GraphRAG, 정산/PG/신용)."
+  },
+  "Acts as the physical coupling socket preventing project silos and automatically injecting Project A's outputs as Project B's inputs.": {
+    "ko": "프로젝트 사일로화를 방지하고 프로젝트 A의 산출물을 프로젝트 B의 투입물로 자동 주입하는 물리적 결합 소켓 역할을 수행함."
+  },
+  "4. Firewall Gates (&Gamma;khard)": {
+    "ko": "4. 방화벽 게이트 (&Gamma;khard)"
+  },
+  "Minimum correlation threshold (&theta;c = 0.25), positive TAG affinity condition (Z̄ijTAG > 0), 70/30 PG split ratio, K-SURE credit limit, 3-month RPF fulfillment rate, and RA licensing flag.": {
+    "ko": "최소 상관계수 임계값(&theta;c = 0.25), 양(陽)의 TAG 친화도 조건(Z̄ijTAG > 0), 70/30 PG 분할 정산 비율, K-SURE 신용 한도, 3개월 RPF 이행률, RA 인허가 플래그."
+  },
+  "Hard constraints enforced independently by the AI Risk Management Center; any violation immediately zeroes out derivative execution via destructive interference.": {
+    "ko": "AI Risk Management Center에 의해 독립적으로 강제되는 하드 제약 조건; 위반 시 상쇄 간섭(destructive interference)을 통해 파생 실행을 즉각 무효화(0으로 처리)함."
+  },
+  "2.2 The 4 Standardized Interface Ports (&Pi;kent) Enabling Cross-Project Entanglement": {
+    "ko": "2.2 프로젝트 간 교차 얽힘을 가능케 하는 4대 표준 인터페이스 포트 (&Pi;kent)"
+  },
+  "Demand/Viral Intent Port & Supply/RPF/ODM Port": {
+    "ko": "수요/바이럴 인텐트 포트 및 공급/RPF/ODM 포트"
+  },
+  "• Port 1 (Demand & Intent Port): Emits target buyer cohorts, search keywords, target willingness-to-pay (Ptarget), and wait time (twait) captured by Qubit Ads™ and SISTAR Studio. When Project A captures an Indonesian pet-owner DB, it automatically feeds the marketing parameters of Project B (SisPet food) and Project C (Sistar Medix diagnostics). • Port 2 (Supply, RPF & ODM Port): Emits raw material specs, Rp 1,320 sachet ODM production slots, 3-month RPF residual volume, and shared warehouse (Space Bank) pallet capacity. If Project A fills 70% of a container or ODM MOQ, the remaining 30% slot is automatically allocated to high-correlation Project B.": {
+    "ko": "• 포트 1 (수요 및 인텐트 포트): Qubit Ads™ 및 SISTAR Studio를 통해 확보된 타깃 바이어 코호트, 검색 키워드, 타깃 지불의향가격(Ptarget), 대기 시간(twait)을 송출합니다. 프로젝트 A가 인도네시아 반려동물 보호자 DB를 확보하면, 이는 프로젝트 B(SisPet 사료) 및 프로젝트 C(Sistar Medix 진단)의 마케팅 파라미터로 자동 피딩됩니다. • 포트 2 (공급, RPF 및 ODM 포트): 원자재 규격, Rp 1,320 사셰 ODM 생산 슬롯, 3개월 RPF 잔여 용량, 공유 창고(Space Bank) 팔레트 캐파를 송출합니다. 프로젝트 A가 컨테이너 또는 ODM MOQ의 70%를 충족하면, 잔여 30% 슬롯은 상관관계가 높은 프로젝트 B에 자동 배정됩니다."
+  },
+  "Regulatory/GraphRAG Port & Clearing/PG/Credit Port": {
+    "ko": "규제/GraphRAG 포트 및 정산/PG/신용 포트"
+  },
+  "• Port 3 (Regulatory & GraphRAG Port): Emits HS codes, Indonesian BPOM / US FDA / Korean MFDS licensing dossiers, ingredient stability data, and local legal templates. Completed licensing nodes in Project A drastically compress the RA lead-time weight of subsequent Project B. • Port 4 (Clearing, PG & Credit Port): Emits real-time 70/30 PG webhook cashflows, remaining K-SURE export credit insurance limits, and 4-Way asset offsetting voucher (Qubit Banks) balances—linking t = 0 revenue from Project A directly to raw-material deposits or Time/Space Bank credits in sibling projects.": {
+    "ko": "• 포트 3 (규제 및 GraphRAG 포트): HS 코드, 인도네시아 BPOM / 미국 FDA / 한국 MFDS 인허가 도시에(dossier), 원료 안정성 데이터, 현지 법률 템플릿을 송출합니다. 프로젝트 A에서 완료된 인허가 노드는 후속 프로젝트 B의 RA 리드타임 가중치를 대폭 압축합니다. • 포트 4 (정산, PG 및 신용 포트): 실시간 70/30 PG 웹훅 현금흐름, 잔여 K-SURE 수출신용보험 한도, 4원(4-Way) 자산 상계 바우처(Qubit Banks) 잔액을 송출하여, 프로젝트 A의 t = 0 매출을 유관(sibling) 프로젝트의 원자재 계약금 또는 Time/Space Bank 크레딧으로 직접 연계합니다."
+  },
+  "CHAPTER 3 • 3-AXIS INTRA-PROJECT ORCHESTRATION (6 AI CENTERS × 8 DEPTS × 8 BASES) SECTION 03 / 07": {
+    "ko": "제3장 • 프로젝트 내부 3축 오케스트레이션 (6대 AI 센터 × 8대 부서 × 8대 거점) 섹션 03 / 07"
+  },
+  "3. Optimal 3-Axis Intra-Project Role and Task Composition": {
+    "ko": "3. 프로젝트 내부 최적 3축 역할 및 과업 구성"
+  },
+  "Inside a single project Pk, Axis 1 (6 AI Centers), Axis 2 (8 Corporate Departments), and Axis 3 (8 International Bases) interlock like precision gears:": {
+    "ko": "단일 프로젝트 Pk 내부에서 제1축(6대 AI 센터), 제2축(8대 사내 부서), 제3축(8대 글로벌 거점)은 정밀 기어처럼 유기적으로 맞물려 구동됩니다:"
+  },
+  "3.2 Axis 2: Standardized Task Modules & Quantitative Parameters Across 8 Corporate Departments": {
+    "ko": "3.2 제2축: 8대 사내 부서별 표준 과업 모듈 및 정량 파라미터"
+  },
+  "Department": {
+    "ko": "부서"
+  },
+  "Primary Coupled AI Center": {
+    "ko": "주요 결합 AI 센터"
+  },
+  "Core Intra-Project Task Module": {
+    "ko": "핵심 프로젝트 내부 과업 모듈"
+  },
+  "Quantitative Parameter (Weight Input)": {
+    "ko": "정량 파라미터 (가중치 입력값)"
+  },
+  "Shared Port": {
+    "ko": "공유 포트"
+  },
+  "1. Sales & Opr": {
+    "ko": "1. 영업 및 운영 (Sales & Opr)"
+  },
+  "Online/offline channel onboarding, 20 persona multi-listings per core SKU, Ms. Scarlet 24/7 multilingual consultation.": {
+    "ko": "온·오프라인 채널 온보딩, 핵심 SKU당 20개 페르소나 멀티 리스팅 구축, Ms. Scarlet 24/7 다국어 상담 지원."
+  },
+  "Channel CVR, SKU listing multiplier, daily order volume.": {
+    "ko": "채널 CVR, SKU 리스팅 승수, 일일 주문량."
+  },
+  "Port 1 (Demand/Channel)": {
+    "ko": "포트 1 (수요/채널)"
+  },
+  "2. Finance": {
+    "ko": "2. 재무 (Finance)"
+  },
+  "70/30 PG split setup, 50% deposit + K-SURE BNPL financing, daily project-level NAV and P&L calculation.": {
+    "ko": "70/30 PG 정산 분할 설정, 선금 50% + K-SURE BNPL 파이낸싱, 일일 프로젝트 단위 NAV 및 손익(P&L) 산출."
+  },
+  "Gross Margin (GM %), working capital days (target t=0), default rate (0%).": {
+    "ko": "매출총이익률(GM %), 운전자본 회전일수(목표 t=0), 부도율(0%)."
+  },
+  "Port 4 (Clearing/Credit)": {
+    "ko": "포트 4 (정산/신용)"
+  },
+  "3. Human Resources": {
+    "ko": "3. 인사 (Human Resources)"
+  },
+  "SISTAR Challengers global expert/gig-worker semantic matching, net-profit-pool capped performance reward allocation.": {
+    "ko": "SISTAR Challengers 글로벌 전문가/긱워커 시맨틱 매칭, 순이익 풀 한도 기반 성과 보상 배분."
+  },
+  "Talent match fit (%), variable labor ratio, task completion SLA.": {
+    "ko": "인재 매칭 적합도(%), 가변 인건비 비율, 과업 완료 SLA."
+  },
+  "3D Tensor Individual Node": {
+    "ko": "3D 텐서 개별 노드"
+  },
+  "4. SCM": {
+    "ko": "4. 공급망 관리 (SCM)"
+  },
+  "Lowest-cost supplier & ODM (Rp 1,320 sachet) sourcing, 3-month RPF volume aggregation, shared warehouse audit.": {
+    "ko": "최저가 공급업체 및 ODM(Rp 1,320 사셰) 소싱, 3개월 RPF 물량 통합 집계, 공유 물류창고 실사 감사."
+  },
+  "Target unit-cost achievement, RPF fulfillment (%), inventory audit accuracy.": {
+    "ko": "목표 단가 달성률, RPF 이행률(%), 재고 실사 정확도."
+  },
+  "Port 2 (Supply/Logistics)": {
+    "ko": "Port 2 (공급/물류)"
+  },
+  "5. RA (Regulatory)": {
+    "ko": "5. RA (인허가/규제)"
+  },
+  "Data / Analysis / Risk": {
+    "ko": "데이터 / 분석 / 리스크 관리"
+  },
+  "Import/export HS code lock, Indonesian BPOM / local health & quarantine licensing, labeling & legal compliance.": {
+    "ko": "수출입 HS 코드 확정(Lock), 인도네시아 BPOM / 현지 보건·검역 인허가, 라벨링 및 법적 컴플라이언스 준수."
+  },
+  "Licensing lead time (days), regulatory pass flag (0 or 1 hard gate).": {
+    "ko": "인허가 리드타임(일), 규제 통과 플래그(0 또는 1 하드 게이트)."
+  },
+  "Port 3 (Regulatory/Graph)": {
+    "ko": "Port 3 (규제/그래프)"
+  },
+  "Data / Web Working": {
+    "ko": "데이터 / 웹 워킹"
+  },
+  "Qubit Factory backend API cloning, Firebase Multi-Site domain deployment, MCP x402 agent endpoint construction.": {
+    "ko": "Qubit Factory 백엔드 API 클로닝, Firebase 멀티사이트 도메인 배포, MCP x402 에이전트 엔드포인트 구축."
+  },
+  "Deployment lead time (24–72h), API uptime (%), inference token cost.": {
+    "ko": "배포 리드타임(24–72시간), API 가동률(%), 추론 토큰 비용."
+  },
+  "All 4 Ports API Event Bus": {
+    "ko": "4대 Port 통합 API 이벤트 버스"
+  },
+  "7. Marketing": {
+    "ko": "7. 마케팅"
+  },
+  "Media Generation / Data": {
+    "ko": "미디어 생성 / 데이터"
+  },
+  "Country-specific viral signal mining, SISTAR Studio short-form & SEO asset mass production, free academy funnel design.": {
+    "ko": "국가별 바이럴 시그널 마이닝, SISTAR Studio 숏폼 및 SEO 에셋 대량 생성, 무료 아카데미 퍼널 설계."
+  },
+  "CAC payback (< 0.5 mo), daily generated assets, ROAS.": {
+    "ko": "CAC 회수 기간(< 0.5개월), 일일 에셋 생성량, ROAS."
+  },
+  "Port 1 (Viral Signals)": {
+    "ko": "Port 1 (바이럴 시그널)"
+  },
+  "8. Biz Development": {
+    "ko": "8. 사업개발 (BD)"
+  },
+  "Command / Analysis": {
+    "ko": "커맨드 / 분석"
+  },
+  "Buy4Me reverse-auction demand aggregation, local distributor/franchise alliances, 4-Way asset offsetting deal structuring.": {
+    "ko": "Buy4Me 역경매 수요 집계, 현지 유통사/프랜차이즈 얼라이언스, 4-Way 자산 상계(Offsetting) 딜 구조화."
+  },
+  "Partner closing rate, 4-Way offsetting ratio (%), derivative project count.": {
+    "ko": "파트너 계약 체결률, 4-Way 상계 비율(%), 파생 프로젝트 수."
+  },
+  "Ports 1, 2, 4 Integrated": {
+    "ko": "Port 1, 2, 4 통합"
+  },
+  "3.3 Axis 3: Comparative-Advantage Role Allocation Across the 8 Global Bases": {
+    "ko": "3.3 Axis 3: 8대 글로벌 거점 간 비교우위 기반 역할 배분"
+  },
+  "Global Hub": {
+    "ko": "글로벌 허브"
+  },
+  "Comparative Advantage & Core Functional Role": {
+    "ko": "비교우위 및 핵심 기능적 역할"
+  },
+  "Primary Intra-Project Execution Tasks": {
+    "ko": "프로젝트 내 주요 실행 과제"
+  },
+  "Coupled Depts & Ports": {
+    "ko": "연계 부서 및 Port"
+  },
+  "Korea HQ": {
+    "ko": "한국 본사 (Korea HQ)"
+  },
+  "Global Control Tower, R&D/Bio/Beauty IP & K-SURE Finance Hub": {
+    "ko": "글로벌 컨트롤 타워, R&D/바이오/뷰티 IP 및 K-SURE 금융 허브"
+  },
+  "Initiates One Spark, sources Korean bio/vet IP & manufacturers, executes K-SURE export guarantees, runs core AI engines.": {
+    "ko": "One Spark를 발화시키고, 한국 바이오/동물용 의약품 IP 및 제조사를 발굴·소싱하며, K-SURE 수출보증을 집행하고 핵심 AI 엔진을 구동합니다."
+  },
+  "Command/Analysis, Finance, RA (Ports 3, 4)": {
+    "ko": "지휘/분석, 재무, 인허가(RA) (포트 3, 4)"
+  },
+  "ASEAN Commercial Volume Market, Sachet ODM & Logistics Forward Base": {
+    "ko": "아세안 상업 볼륨 마켓, 소포장 파우치 ODM 및 물류 전진기지"
+  },
+  "Local BPOM licensing, Rp 1,320 micro-sachet ODM localization, Shopee/Tokopedia & B2B distribution, 70/30 PG settlement.": {
+    "ko": "현지 BPOM 인허가 취득, Rp 1,320 마이크로 사셰 ODM 현지화, Shopee/Tokopedia 및 B2B 유통망 구축, 70/30 PG 정산 체계 가동."
+  },
+  "Sales & Opr, SCM, RA (Ports 1, 2, 3)": {
+    "ko": "영업·운영, 공급망관리(SCM), 인허가(RA) (포트 1, 2, 3)"
+  },
+  "Vietnam": {
+    "ko": "베트남"
+  },
+  "High-Growth Manufacturing/Consumer Expansion & ASEAN Cross-Border Hub": {
+    "ko": "고성장 제조/소비재 확장 및 아세안 크로스보더 허브"
+  },
+  "Secures alternative ODM/OEM production bases, deploys domestic Vietnamese D2C and short-form commerce clones.": {
+    "ko": "대체 ODM/OEM 생산 기지를 확보하고, 베트남 내수 D2C 및 숏폼 커머스 복제 모델을 전개합니다."
+  },
+  "SCM, Sales & Opr, Marketing (Ports 1, 2)": {
+    "ko": "공급망관리(SCM), 영업·운영, 마케팅 (포트 1, 2)"
+  },
+  "Asian Financial/Trade Clearing Hub & Global Holding/IP Governance Base": {
+    "ko": "아시아 금융/무역 청산 허브 및 글로벌 지주사/IP 거버넌스 기지"
+  },
+  "Multilateral 3-party trade settlement (Qubit Link), offshore MCP/SaaS global billing, Dual-Track Legal Firewall governance.": {
+    "ko": "다자간 3자 무역 정산(Qubit Link), 역외 MCP/SaaS 글로벌 결제 인프라 구축, 듀얼 트랙 법적 방화벽 거버넌스 확립."
+  },
+  "Finance, Biz Dev (Port 4)": {
+    "ko": "재무, 사업개발(Biz Dev) (포트 4)"
+  },
+  "Ultra-Low-Cost High-Speed Raw Material, Hardware & Packaging Supply Hub": {
+    "ko": "초저가·초고속 원자재, 하드웨어 및 패키징 공급 거점"
+  },
+  "Rapid sourcing of OEM/ODM raw materials, diagnostic hardware, and packaging; primary supply source for Qubit Flow arbitrage.": {
+    "ko": "OEM/ODM 원자재, 진단 하드웨어, 패키징의 신속 소싱; Qubit Flow 차익거래를 위한 1차 공급 파이프라인 구축."
+  },
+  "SCM, Biz Dev (Port 2)": {
+    "ko": "공급망관리(SCM), 사업개발(Biz Dev) (포트 2)"
+  },
+  "Premium Quality Validation & High-Margin Consumer/Pet/Healthcare Market": {
+    "ko": "프리미엄 품질 검증 및 고마진 컨슈머/펫케어/헬스케어 시장"
+  },
+  "High-margin premium SKU testbed, Japanese quality certification, cross-border D2C and B2B wholesale distribution.": {
+    "ko": "고마진 프리미엄 SKU 테스트베드 운영, 일본 품질 인증 획득, 크로스보더 D2C 및 B2B 도매 유통망 전개."
+  },
+  "Sales & Opr, RA, Marketing (Ports 1, 3)": {
+    "ko": "영업·운영, 인허가(RA), 마케팅 (포트 1, 3)"
+  },
+  "USA": {
+    "ko": "미국"
+  },
+  "Largest Global AI/SaaS (MCP x402) Demand Hub & FDA/North America Scale-Up": {
+    "ko": "글로벌 최대 AI/SaaS (MCP x402) 수요 허브 및 FDA/북미 스케일업 기지"
+  },
+  "North American AI agent API (MCP) monetization, micro-SaaS (Qubit Factory) flipping, Amazon/TikTok Shop expansion.": {
+    "ko": "북미 AI 에이전트 API(MCP) 수익화, 마이크로 SaaS(Qubit Factory) 플리핑, Amazon/TikTok Shop 기반 확장."
+  },
+  "IT, Marketing, Sales & Opr (Ports 1, 4)": {
+    "ko": "IT, 마케팅, 영업·운영 (포트 1, 4)"
+  },
+  "India": {
+    "ko": "인도"
+  },
+  "Global AI/SW Engineering (Challengers) Talent Pool & Ayurveda/Pharma API Hub": {
+    "ko": "글로벌 AI/SW 엔지니어링(Challengers) 인재 풀 및 아유르베다/제약 원료의약품(API) 허브"
+  },
+  "Supplies full-stack Qubit Factory web-cloning developers (Qubit Star) and sources Sisayurvedic & pharmaceutical raw materials.": {
+    "ko": "풀스택 Qubit Factory 웹 클로닝 개발자(Qubit Star)를 공급하고 Sisayurvedic 및 제약 원료를 소싱합니다."
+  },
+  "IT, HR, SCM (Port 2, Tensor Individual)": {
+    "ko": "IT, 인사(HR), 공급망관리(SCM) (포트 2, 텐서 개체)"
+  },
+  "CHAPTER 4 • CROSS-PROJECT ENTANGLEMENT & DYNAMIC WEIGHT MECHANISM SECTION 04 / 07": {
+    "ko": "제4장 • 프로젝트 간 얽힘 및 동적 가중치 메커니즘 섹션 04 / 07"
+  },
+  "4. Cross-Project Entanglement Drive and Dynamic Weight Control": {
+    "ko": "4. 프로젝트 간 얽힘 구동 및 동적 가중치 제어"
+  },
+  "When a single task executes in Base b, Department d, and AI Center a of Project i (generating state change ΔSi), the system processes it simultaneously across two stages: (1) Intra-Project Propagation along the internal DSM dependency matrix Diintra (e.g., SCK RA ingredient approval immediately elevates the priority weight Wi,a,d,b(t) of SCC packaging procurement and SCI SISTAR Studio video production); and (2) Cross-Project Entanglement Propagation across all projects P1...PN via the 4 Entanglement Ports (&Pi;ient):": {
+    "ko": "프로젝트 i의 거점 b, 부서 d, AI 센터 a에서 단일 태스크가 실행되어 상태 변화 ΔSi를 생성하면, 시스템은 이를 두 단계에 걸쳐 동시에 처리합니다: (1) 내부 DSM 종속성 매트릭스 Diintra를 따르는 프로젝트 내부 전파 (예: SCK RA 성분 승인은 SCC 패키징 조달 및 SCI SISTAR Studio 영상 제작의 우선순위 가중치 Wi,a,d,b(t)를 즉시 격상시킴), (2) 4대 얽힘 포트(Πient)를 통해 전체 프로젝트 P1...PN으로 전달되는 프로젝트 간 얽힘 전파."
+  },
+  "CHAPTER 5 • EMPIRICAL BLUEPRINT: KOREA–INDONESIA ANCHOR CLUSTER (P-01 × P-02 × P-03) SECTION 05 / 07": {
+    "ko": "제5장 • 실증적 블루프린트: 한-인도네시아 앵커 클러스터 (P-01 × P-02 × P-03) 섹션 05 / 07"
+  },
+  "5. Practical Design Blueprint: Korea–Indonesia Anchor Cluster (P-01 × P-02 × P-03)": {
+    "ko": "5. 실무 설계 청사진: 한국–인도네시아 앵커 클러스터 (P-01 × P-02 × P-03)"
+  },
+  "To demonstrate how this canonical schema is assembled in practice, we construct Seed Project #1 (P-01: Sistar Medix POCT Rapid Diagnostic Kit Korea→Indonesia Launch) and entangle it with P-02: SisPet (Companion Animal Healthcare) and P-03: SisPharm (Pharmaceutical & Nutraceutical Sachet ODM):": {
+    "ko": "본 표준 스키마가 실무에서 어떻게 조립되는지 실증하기 위해, 시드 프로젝트 #1(P-01: Sistar Medix POCT 현장신속진단키트 한국→인도네시아 론칭)을 구축하고 이를 P-02: SisPet(반려동물 헬스케어) 및 P-03: SisPharm(의약품 및 건기식 사셰 ODM)과 양자 얽힘(entangle) 방식으로 연계한다:"
+  },
+  "Execution Step": {
+    "ko": "실행 단계"
+  },
+  "Lead Base": {
+    "ko": "주도 거점"
+  },
+  "Responsible Dept": {
+    "ko": "담당 부서"
+  },
+  "Active AI Center": {
+    "ko": "가동 AI 센터"
+  },
+  "Concrete Execution Task & Standard Port Emission": {
+    "ko": "구체적 실행 과업 및 표준 포트 방출"
+  },
+  "Step 1. Seed Genesis & Target Quantification": {
+    "ko": "1단계. 시드 제네시스 및 목표 정량화"
+  },
+  "SCK (Korea)": {
+    "ko": "SCK (한국)"
+  },
+  "Biz Development": {
+    "ko": "사업개발(Biz Development)"
+  },
+  "AI Command Center": {
+    "ko": "AI 커맨드 센터"
+  },
+  "Inputs targets into CEO ActionNote (target GM 55%, initial Capex $0, 500 Indonesian vet clinics) → locks Header Vector H1.": {
+    "ko": "CEO ActionNote에 목표치 입력(목표 매출총이익률(GM) 55%, 초기 Capex $0, 인도네시아 동물병원 500개소) → 헤더 벡터 H1 동결(lock)."
+  },
+  "Step 2. Data Crawl & Weight Computation": {
+    "ko": "2단계. 데이터 크롤링 및 가중치 산출"
+  },
+  "Analysis / SCM": {
+    "ko": "분석 / SCM"
+  },
+  "AI Data & Analysis Centers": {
+    "ko": "AI 데이터 & 분석 센터"
+  },
+  "Overnight crawler gathers Indonesian POCT import prices & clinic demand → MRL vectorization & GradNorm/TAG assign top weights to RA & SCM.": {
+    "ko": "야간 크롤러를 통해 인도네시아 POCT 수입 단가 및 동물병원 수요 수집 → MRL 벡터화 및 GradNorm/TAG를 통해 RA 및 SCM에 최우선 가중치 부여."
+  },
+  "Step 3. Regulatory & Financial Hard Gate": {
+    "ko": "3단계. 규제 및 금융 하드 게이트(Hard Gate)"
+  },
+  "RA + Finance": {
+    "ko": "RA + 재무"
+  },
+  "AI Risk Management Center": {
+    "ko": "AI 리스크 관리 센터"
+  },
+  "SCK secures Korean export docs, SCI locks local licensing + 50% deposit + 3-mo RPF, SCS approves 70/30 PG & K-SURE limit (Firewall = PASS).": {
+    "ko": "SCK 한국 수출 서류 확보, SCI 현지 라이선스 확정 + 계약금 50% + 3개월 RPF 체결, SCS 70/30 PG 승인 및 K-SURE BNPL 한도 확보 (방화벽 = PASS)."
+  },
+  "Step 4. Sourcing, Media & Web Explosion": {
+    "ko": "4단계. 소싱, 미디어 및 웹 확산(Explosion)"
+  },
+  "SCM + Marketing + IT": {
+    "ko": "SCM + 마케팅 + IT"
+  },
+  "Media Gen & Web Working": {
+    "ko": "미디어 생성 & 웹 워킹(Media Gen & Web Working)"
+  },
+  "SCC supplies packaging, SCIND deploys B2B vet ordering portal in 48h via Qubit Factory, SCI Studio syndicates 10 Indonesian demo shorts.": {
+    "ko": "SCC 패키징 공급, SCIND는 Qubit Factory를 통해 48시간 내 B2B 동물병원 발주 포털 배포, SCI Studio는 10편의 인도네시아 시연 쇼츠 배급."
+  },
+  "Step 5. t = 0 Order & Simultaneous Clearing": {
+    "ko": "5단계. t = 0 발주 및 동시 결제·정산(Simultaneous Clearing)"
+  },
+  "Sales & Opr + Finance": {
+    "ko": "영업·운영 + 재무"
+  },
+  "Core Engine": {
+    "ko": "핵심 엔진"
+  },
+  "Core Architectural Feature": {
+    "ko": "핵심 아키텍처 특성"
+  },
+  "Real-World Enterprise Advantage": {
+    "ko": "실물 엔터프라이즈 경쟁 우위"
+  },
+  "24-hour unmanned software factory that auto-reskins and clones global micro-SaaS and D2C web/apps into 6 languages from a single core backend API and self-healing CI/CD pipeline.": {
+    "ko": "단일 코어 백엔드 API 및 자가 치유 CI/CD 파이프라인을 기반으로 글로벌 마이크로 SaaS 및 D2C 웹/앱을 6개 국어로 자동 리스킨 및 복제하는 24시간 무인 소프트웨어 팩토리."
+  },
+  "Launches localized commercial portals in 24–72 hours (vs. 6–12 months in traditional firms), generating recurring subscription revenue (< 2% churn target) and 100-unit App-Flipping assets.": {
+    "ko": "기존 기업의 6~12개월 대비 24~72시간 내 현지화 커머셜 포털 런칭, 반복 구독 매출(이탈률 2% 미만 목표) 및 100개 단위의 앱 플리핑(App-Flipping) 자산 창출."
+  },
+  "2. Qubit Ads™ / Commerce™ (Qubit Commerce & Media)": {
+    "ko": "2. Qubit Ads™ / Commerce™ (큐비트 커머스 & 미디어)"
+  },
+  "Mines real-time TikTok/Instagram viral signals to auto-generate 10+ daily multilingual shoppable short-form videos (NotebookLM, Sharon TTS, Veo 3.1) and registers 20 persona derivative listings per core SKU across Shopee/Tokopedia.": {
+    "ko": "실시간 틱톡/인스타그램 바이럴 시그널을 마이닝하여 일일 10개 이상의 다국어 쇼퍼블 숏폼 영상(NotebookLM, Sharon TTS, Veo 3.1)을 자동 생성하고, Shopee/Tokopedia 전반에 걸쳐 핵심 SKU당 20개의 페르소나 파생 리스팅 등록."
+  },
+  "Realizes zero-inventory commerce (capturing verified sales intent before sourcing) and pairs with free educational/media funnels to compress CAC payback below 0.5 months.": {
+    "ko": "무재고 커머스(소싱 전 검증된 구매 의도 확보) 실현 및 무료 교육/미디어 퍼널과의 결합을 통한 CAC 회수 기간 0.5개월 미만 단축."
+  },
+  "Intelligence on Tab platform that structures the founder's One Spark into TTP (Target, Timeline, Process) packages and semantically matches top 1% global freelancers/Challengers via cross-domain knowledge graphs.": {
+    "ko": "창업자의 One Spark를 TTP(Target, Timeline, Process) 패키지로 구조화하고, 크로스 도메인 지식 그래프를 통해 글로벌 상위 1% 프리랜서/챌린저를 시맨틱 매칭하는 인텔리전스 온 탭(Intelligence on Tab) 플랫폼."
+  },
+  "Eliminates Fixed Labor Drag by compensating contributors strictly within a 30% cap of the project net-profit pool (Algorithmic Meritocracy) while auto-generating multilingual proposals and IR decks.": {
+    "ko": "프로젝트 순이익 풀의 30% 상한선 내에서 기여도를 엄격히 보상(알고리즘 기반 능력주의)하여 고정 인건비 저항을 제거하는 동시에 다국어 제안서 및 IR 덱 자동 생성."
+  },
+  "Simultaneous 3-party trade platform linking customs DBs, vessel schedules, and invoices in real time to lock trade contracts, export declarations, Space Sharing freight, and K-SURE trade finance in a single event.": {
+    "ko": "관세청 DB, 선박 스케줄, 인보이스를 실시간 연동하여 무역 계약, 수출 신고, 스페이스 셰어링 화물 운송, K-SURE 무역 금융을 단일 이벤트로 동시 체결하는 3자 무역 플랫폼."
+  },
+  "Completely eliminates multi-tier middleman friction, enabling SMEs to secure conglomerate-grade Volume-wise Deals, a 1.5%–3.0% risk-free clearing spread, and 45%–65% physical trade GM.": {
+    "ko": "다단계 중개 마찰을 완전히 제거하여 중소기업이 대기업 수준의 볼륨 딜(Volume-wise Deals), 1.5%~3.0% 무위험 결제 스프레드, 45%~65%의 실물 무역 매출총이익률(GM)을 확보할 수 있도록 지원."
+  },
+  "Scans micro price spreads across countries, raw materials, B2B wholesale feeds, and FX rates 24/7 via vector DBs and reinforcement-learning webhook loops to execute risk-free arbitrage and bill external agents via MCP HTTP x402 APIs.": {
+    "ko": "벡터 DB와 강화학습 웹훅 루프를 통해 국가 간 미세 가격 스프레드, 원자재, B2B 도매 피드, 환율을 24시간 연중무휴 스캔하여 무위험 차익거래를 집행하고 MCP HTTP x402 API를 통해 외부 에이전트에 과금."
+  },
+  "Self-improves algorithm weights with every trade, creating an unassailable profit-absorption moat and generating 75%–88% gross margin software and API cashflows.": {
+    "ko": "거래마다 알고리즘 가중치를 자가 개선하여 난공불락의 수익 흡수 해자를 구축하고, 75%~88%의 매출총이익률을 기록하는 소프트웨어 및 API 현금 흐름 창출."
+  },
+  "PART II • ACADEMIC MONOGRAPH: THE COSMO SEED™ BUSINESS ARCHITECTURE COSMO SEED SERIES 04": {
+    "ko": "제2부 • 학술 모노그래프: COSMO SEED™ 비즈니스 아키텍처 COSMO SEED 시리즈 04"
+  },
+  "The COSMO SEED™ Business Architecture: Autonomous Five-Engine Orchestration and Closed-Loop Value Entanglement": {
+    "ko": "COSMO SEED™ 비즈니스 아키텍처: 5대 자율 상업 엔진 오케스트레이션과 폐쇄 루프 가치 얽힘"
+  },
+  "Subtitle: Infinite Synergetic Loop of the 5 Commercial Engines Powered by Qubit Algorithm™ and an Empirical Model for Zero-Inventory, Ultra-Compressed Global Venture Building": {
+    "ko": "부제: Qubit Algorithm™ 기반 5대 커머셜 엔진의 무한 시너지 루프 및 무재고·초압축 글로벌 벤처 빌딩 실증 모델"
+  },
+  "1. Introduction: Paradigm Shift in Venture Building and Strategic Compression": {
+    "ko": "1. 서론: 벤처 빌딩의 패러다임 전환과 전략적 압축"
+  },
+  "Traditional venture builders and diversified conglomerates are trapped in “Fixed Overhead Drag”—forced to duplicate engineering teams, marketing departments, warehouses, and legal/accounting staff every time a new business line is launched. Established by SISTAR Company (*SC), the COSMO SEED™ Biz Model is a Strategic Compression framework engineered to abolish this inefficiency. Maintaining a minimal physical footprint equivalent to just “2 Suitcases,” the founder replaces bloated internal departments with on-demand intelligence utilities (Intelligence on Tab) and a 24/7 AI Data Factory to command a global digital business galaxy (Biz Galaxy).": {
+    "ko": "전통적인 벤처 빌더와 종합 대기업은 신규 사업 라인을 출시할 때마다 엔지니어링 팀, 마케팅 부서, 창고, 법무/회계 인력을 중복 투입해야 하는 '고정비 저항(Fixed Overhead Drag)'에 갇혀 있다. SISTAR Company(*SC)가 정립한 COSMO SEED™ 비즈니스 모델은 이러한 비효율성을 타파하기 위해 설계된 전략적 압축(Strategic Compression) 프레임워크다. 창업자는 '슈트케이스 2개'에 불과한 최소한의 물리적 풋프린트를 유지하면서, 비대해진 내부 부서를 온디맨드 인텔리전스 유틸리티(Intelligence on Tab)와 24/7 AI 데이터 팩토리로 대체하여 글로벌 디지털 비즈니스 은하(Biz Galaxy)를 지휘한다."
+  },
+  "2. Two-Phase Genesis Pipeline and the TTP Algorithmic Meritocracy": {
+    "ko": "2. 2단계 제네시스 파이프라인 및 TTP 알고리즘 능력주의"
+  },
+  "Phase I (From Insights) → Phase II (Data Factory & RAG)": {
+    "ko": "1단계 (인사이트 발굴) → 2단계 (데이터 팩토리 & RAG)"
+  },
+  "• Phase I — From Insights (Problem Definition & Seed Structuring): Captures real-world B2B/B2C pain points to design project naming, identity signatures, strategic mapping, and the PPDMCCPP value chain (Pipelines → Projects → Development → Management → Contents → Courses → Platforms → Proposals). • Phase II — DF (Data Factory) & Autonomous Action: The Data Centralizer AI (DC AI) centralizes unstructured data from Browse AI/Apify scrapers and Google Workspace (Keep, Gmail, Drive, Sheets). Validated through local and cloud RAG simulations (NotebookLM, AnythingLLM, Dify), workflows are locked into 24/7 self-driving execution scripts.": {
+    "ko": "• 1단계 — 인사이트 발굴(문제 정의 및 시드 구조화): 실제 B2B/B2C 페인포인트를 포착하여 프로젝트 네이밍, 아이덴티티 시그니처, 전략적 매핑, PPDMCCPP 밸류체인(Pipelines → Projects → Development → Management → Contents → Courses → Platforms → Proposals)을 설계한다. • 2단계 — DF(데이터 팩토리) 및 자율 실행: 데이터 센트럴라이저 AI(DC AI)가 Browse AI/Apify 스크래퍼 및 Google Workspace(Keep, Gmail, Drive, Sheets)의 비정형 데이터를 중앙 집중화한다. 로컬 및 클라우드 RAG 시뮬레이션(NotebookLM, AnythingLLM, Dify)을 통해 검증된 워크플로는 24/7 자율 주행 실행 스크립트로 확정된다."
+  },
+  "30% Net-Profit Shared Pool & Zero-Friction Governance": {
+    "ko": "30% 순이익 공유 풀 & 무마찰 거버넌스"
+  },
+  "Every task in the organization is strictly defined by the TTP Matrix: Target (quantified objective), Timeline (hardcoded deadline matched to market velocity), and Process (zero-friction automation script). Instead of fixed salaries, up to 30% of project net profit is allocated to a Shared Budget Pool and distributed mathematically across Group I (Lead Architects) through Group V (Affiliate Partners) based on TTP contribution—enforcing a frictionless “Good Goodbye” protocol when milestones are unmet.": {
+    "ko": "조직 내 모든 과업은 TTP 매트릭스로 엄격히 규정된다: Target(정량화된 목표), Timeline(시장 속도에 하드코딩된 마감 기한), Process(무마찰 자동화 스크립트). 고정 급여 대신 프로젝트 순이익의 최대 30%가 공유 예산 풀로 배정되며, TTP 기여도에 따라 그룹 I(리드 아키텍트)부터 그룹 V(제휴 파트너)까지 수학적으로 배분된다. 마일스톤 미달성 시 마찰 없는 '굿 굿바이(Good Goodbye)' 프로토콜이 즉각 실행된다."
+  },
+  "3. The 5 Core Engines and the Infinite Synergetic Loop Mechanism": {
+    "ko": "3. 5대 핵심 엔진과 무한 시너지 루프 메커니즘"
+  },
+  "5 Core Engines": {
+    "ko": "5대 핵심 엔진"
+  },
+  "Engine Identity & Operating Mechanism": {
+    "ko": "엔진 정체성 및 운영 메커니즘"
+  },
+  "Coupled 15 Revenue Archetypes": {
+    "ko": "결합된 15개 수익 아키타입"
+  },
+  "Strategic Moat & Real-World Benefit": {
+    "ko": "전략적 해자 및 실물 이익"
+  },
+  "24/7 unmanned multilingual micro-SaaS & D2C app cloning (“Re-skin”) and self-healing CI/CD deployment from a single core API.": {
+    "ko": "단일 코어 API 기반 24/7 무인 다국어 마이크로 SaaS 및 D2C 앱 복제(‘리スキン’) 및 자가 치유(Self-healing) CI/CD 배포."
+  },
+  "Subscription, White Labeling, Direct App-Flipping": {
+    "ko": "구독 모델, 화이트 라벨링, 다이렉트 앱 플리핑(Direct App-Flipping)"
+  },
+  "Hyper-Speed Cloning Moat: Launches local brands in 24–72 hours while incumbents spend months in research.": {
+    "ko": "초고속 복제 해자(Moat): 기존 플레이어들이 수개월의 리서치에 소요하는 동안 24~72시간 내 현지화 브랜드 론칭."
+  },
+  "TikTok/IG viral signal scraping → Sharon TTS + Veo 3.1 daily 10+ multilingual shorts & programmatic ad execution.": {
+    "ko": "TikTok/IG 바이럴 시그널 스크래핑 → Sharon TTS + Veo 3.1 기반 일일 10편 이상의 다국어 숏폼 생성 및 프로그래매틱 광고 집행."
+  },
+  "Advertising, Affiliate, Razor-and-Blade (Device + Sachet)": {
+    "ko": "광고 수익, 제휴 마케팅, 면도기-면도날(디바이스 + 소포장 사셰) 비즈니스 모델"
+  },
+  "Zero-Inventory Intent Economy: Sources only products whose demand is already locked by viral intent.": {
+    "ko": "무재고 인텐트 이코노미(Zero-Inventory Intent Economy): 바이럴 구매 의향으로 이미 수요가 확정된 제품만을 소싱."
+  },
+  "Converts One Spark into TTP packages; matches global Challengers via cross-domain knowledge graphs & auto-builds IR decks.": {
+    "ko": "One Spark를 TTP 패키지로 전환; 크로스 도메인 지식 그래프를 통해 글로벌 챌린저를 매칭하고 IR 덱 자동 빌드."
+  },
+  "Matching Fee, Performance Success Fee": {
+    "ko": "매칭 수수료, 성과 성공 보수"
+  },
+  "Zero Fixed Labor Drag: Taps top 1% global talent on a pay-as-you-go basis and transplants cross-industry insights.": {
+    "ko": "고정 인건비 부하 제로(Zero Fixed Labor Drag): 사용량 기반(Pay-as-you-go)으로 상위 1% 글로벌 인재를 확보하고 이종 산업 간 인사이트 이식."
+  },
+  "Simultaneously closes customs, vessel space, invoicing, and K-SURE BNPL factoring via MCP and RAG verification upon buyer signal.": {
+    "ko": "바이어 시그널 감지 즉시 MCP 및 RAG 검증을 거쳐 통관, 선복 확보, 인보이싱, K-SURE BNPL 팩토링을 동시 체결."
+  },
+  "Clearing Spread (1.5%–3.0%), Volume Deal GM (45%–65%)": {
+    "ko": "청산 스프레드(1.5%–3.0%), 볼륨 딜 GM(45%–65%)"
+  },
+  "Total Middleman Elimination: Enables lean teams to capture conglomerate volume discounts and t = 0 trade finance.": {
+    "ko": "중개자 완전 제거(Total Middleman Elimination): 린(Lean) 조직이 대기업 수준의 대량 구매 할인과 t = 0 무역 금융을 확보하도록 구현."
+  },
+  "24/7 global wholesale, raw-material, and FX micro-spread arbitrage via vector DB + RL webhooks, plus MCP x402 API billing.": {
+    "ko": "벡터 DB + RL 웹훅 및 MCP x402 API 과금 체계를 통한 24/7 글로벌 도매, 원자재, FX 마이크로 스프레드 차익거래(Arbitrage)."
+  },
+  "Data Licensing, Pay-As-You-Go API, Risk-Free Arbitrage": {
+    "ko": "데이터 라이선싱, 종량제 API, 무위험 차익거래(Risk-Free Arbitrage)"
+  },
+  "Self-Evolving Profit Absorption: Updates global weights on every trade, securing 75%–88% GM.": {
+    "ko": "자기 진화형 이익 흡수(Self-Evolving Profit Absorption): 모든 거래마다 글로벌 가중치를 업데이트하여 75%–88% GM 확보."
+  },
+  "4. Departmental Automation Proof & Hyper-Closed Tokenomics Firewall": {
+    "ko": "4. 부서별 자동화 검증 및 극단적 폐쇄형 토크노믹스 방화벽"
+  },
+  "5-Minute AI Response, Vision Stock Opname & Legal AI": {
+    "ko": "5분 AI 응답, 비전 기반 재고 실사(Stock Opname) 및 리걸(Legal) AI"
+  },
+  "• Sales/Opr & Marketing: Captures omnichannel WhatsApp/IG/Web inquiries and dispatches tailored AI responses + dynamic B2B proposal PDFs within 5 minutes; triggers automated advance-deposit drip campaigns for deals stalled > 7 days and cross-segments pet-food buyers into high-margin K-vet pharmaceuticals (Sistar MedIX). • SCM & R&D/Mfg: Connects mobile video and low-cost CCTV streams to Vertex AI / Gemini Vision for zero-labor real-time warehouse auditing (Stock Opname), drives logistics cost toward zero via 3-month RPF + LTL Space Sharing, and achieves unmatched cost competitiveness via Indonesian Rp 1,320 (~$0.085) sachet repacking ODM. • Finance & RA: Automates Korea/India/Indonesia VAT refund matching (export declarations, B/L, FX receipts) while Constitutional AI Legal agents continuously monitor FDA/EMA/BPOM filings, trademark squatting, and OFAC sanctions.": {
+    "ko": "• 영업/운영 및 마케팅: 옴니채널 WhatsApp/IG/Web 인콰이어리를 캡처하여 5분 이내 맞춤형 AI 응답 및 동적 B2B 제안서 PDF 발송; 7일 이상 정체된 딜에 대한 선수금 드립 캠페인 자동 트리거 및 펫푸드 바이어 대상 고마진 K-동물의약품(Sistar MedIX) 크로스 세그먼트 전개. • SCM 및 R&D/제조: 모바일 비디오 및 저비용 CCTV 스트림을 Vertex AI / Gemini Vision에 연결해 무인 실시간 창고 실사(Stock Opname) 수행, 3개월 RPF + LTL 공간 공유를 통한 물류비 제로화 수렴, 인도네시아 Rp 1,320(~0.085달러) 사셰 리패키징 ODM을 통한 압도적 원가경쟁력 달성. • 재무 및 RA: 한/인도/인니 부가세 환급 매칭(수출신고필증, B/L, 외환입금증명) 자동화 및 Constitutional AI 기반 리걸 에이전트를 통한 FDA/EMA/BPOM 인허가, 상표권 선점, OFAC 제재 대상 실시간 모니터링."
+  },
+  "Closed-Loop Couponization, SC Index Isolation & Daily NAV": {
+    "ko": "폐쇄형 쿠폰화, SC Index 격리 및 일일 NAV 공시"
+  },
+  "1. Closed-Loop Couponization (Qubit Coins & Qubit Banks): Circulates internal value via Time / Space / Idea / Petfood Bank vouchers rather than fiat wire transfers—legally reclassifying rewards as e-commerce loyalty coupons to bypass money-transmitter and FX regulations. 2. Dual-Track Liability Separation: Legally isolates core IP and holding equity (SC Index) from high-yield commercial execution entities (Biz Galaxy: SISPet, Sistar MedIX, SISPharm, SISMii, SISTAR AT), preventing commercial claims from contaminating the parent company. 3. Daily Public NAV Disclosure: Links live revenue, social signals, and B2B volume to external AI valuation APIs to publish daily Net Asset Value (NAV) transparently.": {
+    "ko": "1. 폐쇄 루프 쿠폰화(Qubit Coins & Qubit Banks): 법정화폐 송금 대신 Time / Space / Idea / Petfood Bank 바우처를 통해 내부 가치를 순환—보상 체계를 이커머스 로열티 쿠폰으로 법적 재분류하여 자금이체업 및 외환 규제 우회. 2. 이원화 책임 격리 구조(Dual-Track Liability Separation): 핵심 IP 및 지주 지분(SC Index)을 고수익 사업 실행 법인(Biz Galaxy: SISPet, Sistar MedIX, SISPharm, SISMii, SISTAR AT)과 법적으로 완벽 격리하여 상거래 클레임의 모회사 전이 차단. 3. 일일 공개 NAV 공시: 실시간 매출, 소셜 시그널, B2B 거래량을 외부 AI 밸류에이션 API와 연동하여 일일 순자산가치(NAV) 투명 공시."
+  },
+  "COSMO SEED™ Biz Models represent the complete commercial architecture that converts the mathematical energy of the Qubit Algorithm™ into real-world revenue and profit. Through the Infinite Synergetic Loop of the 5 autonomous engines and a 24/7 local-cloud hybrid AI stack (AMD Ryzen 9 64GB RAM + Ollama + Gemini + Firebase), enterprises break free from the three shackles of inventory, upfront capital, and fixed payroll—realizing the operational standard of the One-Man Unicorn.": {
+    "ko": "COSMO SEED™ 비즈니스 모델은 Qubit Algorithm™의 수학적 에너지를 현실 세계의 매출과 영업이익으로 변환하는 완성된 상업 아키텍처를 대변합니다. 5대 자율 엔진의 무한 시너지 루프(Infinite Synergetic Loop)와 24/7 로컬-클라우드 하이브리드 AI 스택(AMD Ryzen 9 64GB RAM + Ollama + Gemini + Firebase)을 통해, 기업은 재고, 선투자 자본, 고정 인건비라는 3대 굴레를 탈피하여 진정한 1인 유니콘(One-Man Unicorn)의 운영 표준을 실현합니다."
+  },
+  "← Back to Cosmo Seed Biz Models 03. Ideal Project Composing Print / Save PDF": {
+    "ko": "← Cosmo Seed 비즈니스 모델로 돌아가기 03. 이상적 프로젝트 구성 인쇄 / PDF 저장"
+  },
+  "03. Ideal Project Composing": {
+    "ko": "03. 이상적 프로젝트 구성"
+  },
+  "PART I • COSMO SEED™ BIZ MODELS: 5 AUTONOMOUS ENGINES & ENTERPRISE ADVANTAGES": {
+    "ko": "PART I • COSMO SEED™ 비즈니스 모델: 5대 자율 엔진 및 엔터프라이즈 경쟁우위"
+  },
+  "STRATEGIC COMPRESSION DOSSIER": {
+    "ko": "전략적 압축 도시에(STRATEGIC COMPRESSION DOSSIER)"
+  },
+  "CATEGORY B • CLOSED-LOOP ECOSYSTEM, TOKENOMICS & 24/7 ROUTINE DIMENSION • Core Feature — Infinite Synergetic Loop & Closed-Loop Financial Firewall: The 5 engines rotate in a self-reinforcing loop: App Creation (Factory) -> Viral Traffic (Ads) -> 3-Party Trade Clearing (Link) -> Price Spread Arbitrage (Flow) -> Talent/Partner Expansion (Star), governed by closed-loop vouchers (Qubit Coins / Qubit Banks), a Dual-Track Legal Firewall (SC Index vs. Biz Galaxy), and daily public NAV disclosure. • Real-World Advantage (Legal/Regulatory Isolation & 24/7 Unmanned Operation): Reclassifies profit distribution as e-commerce loyalty coupons to legally bypass money-transmitter and FX friction, while the founder controls a 24/7 global empire using the MCSA/PPAA daily routine and a single 64GB RAM Mini PC (Ollama) local stack.": {
+    "ko": "CATEGORY B • 폐쇄 루프 생태계, 토크노믹스 및 24/7 루틴 디멘션 • 핵심 기능 — 무한 시너지 루프 및 폐쇄형 금융 방화벽: 5대 엔진이 앱 생성(Factory) -> 바이럴 트래픽(Ads) -> 3자 무역 결제(Link) -> 가격 스프레드 차익거래(Flow) -> 인재/파트너 확장(Star)의 자기강화 루프로 회전하며, 폐쇄형 바우처(Qubit Coins / Qubit Banks), 이원화 법적 방화벽(SC Index vs. Biz Galaxy), 일일 공개 NAV 공시로 통제됨. • 실전적 우위 (법적/규제 격리 및 24/7 무인 운영 체제): 수익 분배를 이커머스 로열티 쿠폰으로 재분류해 자금이체업 및 외환 규제 마찰을 법적으로 회피하며, 창업자는 MCSA/PPAA 데일리 루틴과 단일 64GB RAM 미니 PC(Ollama) 로컬 스택을 기반으로 24/7 글로벌 제국을 통제."
+  },
+  "PART II • ACADEMIC MONOGRAPH: THE COSMO SEED™ BUSINESS ARCHITECTURE": {
+    "ko": "제2부 • 학술 모노그래프: COSMO SEED™ 비즈니스 아키텍처"
+  },
+  "COSMO SEED SERIES 04": {
+    "ko": "COSMO SEED 시리즈 04"
+  },
+  "ABSTRACT This paper analyzes the structural mechanics and commercial advantages of \"COSMO SEED™ Biz Models,\" which use the Qubit Algorithm™ as their operating kernel to materialize a single business insight (One Spark) into an interconnected galaxy of autonomous cash-generating ventures (Infinite Galaxifying). The COSMO SEED™ architecture comprises: (1) a Two-Phase Execution Pipeline (Phase I: From Insights -> Phase II: Data Factory & RAG Automation); (2) the \"Infinite Synergetic Loop\" of 5 organically entangled core commercial engines (Qubit Factory™, Qubit Ads™, Qubit Star™, Qubit Link™, and Qubit Flow™); (3) closed-loop voucher tokenomics (Qubit Funds) and Dual-Track Governance that isolate legal liability and FX friction; and (4) a 24-hour AI multi-working system grounded in the TTP matrix and MCSA/PPAA routines. We demonstrate how this model compresses 30 years of traditional linear corporate growth into 10 years, realizing the economics of the \"One-Man Unicorn.\"": {
+    "ko": "초록 본 논문은 Qubit Algorithm™을 운영 커널로 활용하여 단일 비즈니스 인사이트(One Spark)를 상호 연결된 자율 현금 창출 벤처 은하계(Infinite Galaxifying)로 구체화하는 'COSMO SEED™ 비즈니스 모델'의 구조적 메커니즘과 상업적 우위를 분석한다. COSMO SEED™ 아키텍처의 구성 요소는 다음과 같다: (1) 2단계 실행 파이프라인(1단계: 인사이트 도출 -> 2단계: 데이터 팩토리 및 RAG 자동화); (2) 유기적으로 얽힌 5대 핵심 커머셜 엔진(Qubit Factory™, Qubit Ads™, Qubit Star™, Qubit Link™, Qubit Flow™)의 '무한 시너지 루프'; (3) 법적 책임과 외환 마찰을 격리하는 폐쇄형 바우처 토크노믹스(Qubit Funds) 및 듀얼 트랙 거버넌스; (4) TTP 매트릭스와 MCSA/PPAA 루틴에 기반한 24시간 AI 멀티 워킹 시스템. 본 연구는 이 모델이 기존의 30년 선형적 기업 성장을 10년으로 압축하여 '원맨 유니콘(One-Man Unicorn)'의 경제학을 실현하는 방식을 입증한다."
+  },
+  "Within the 6-Layer, 12-Domain topology of *SC, this monograph in Domain 02 (qubit-algorithm/02_cosmo-seed-biz-models) defines the theoretical and operational engine of Cosmo Seed™, while Domain 05 (qubit-biz) serves as the live commercial launchpad where global entrepreneurs, clinics, and factories adopt these models in practice.": {
+    "ko": "*SC의 6계층 12도메인 토폴로지 내에서 도메인 02(qubit-algorithm/02_cosmo-seed-biz-models)의 본 모노그래프는 Cosmo Seed™의 이론 및 운영 엔진을 정의하며, 도메인 05(qubit-biz)는 글로벌 기업가, 클리닉, 제조 공장이 본 모델을 실제 현장에 도입하는 라이브 커머셜 런치패드 역할을 수행한다."
+  },
+  "Open Academic Paper -> Open L3: Cross-Projects Management -> Open L3: Ideal Project Composing -> Open L3: Strategic Compression -> Print / Export Cosmo Seed™ Monograph PDF": {
+    "ko": "학술 논문 열람 -> L3: 크로스 프로젝트 관리 열람 -> L3: 이상적 프로젝트 구성 열람 -> L3: 전략적 압축 열람 -> Cosmo Seed™ 모노그래프 PDF 인쇄/내보내기"
+  },
+  "Open L3: Cross-Projects Management ->": {
+    "ko": "L3: 크로스 프로젝트 관리 열람 ->"
+  },
+  "Open L3: Ideal Project Composing ->": {
+    "ko": "L3: 이상적 프로젝트 구성 열람 ->"
+  },
+  "Open L3: Strategic Compression ->": {
+    "ko": "L3: 전략적 압축 열람 ->"
+  },
+  "Deployment Velocity: 1 Core Backend -> 100+ Localized Vertical Micro-SaaS Portals Monetization Archetypes: Recurring SaaS Subscriptions (MRR), Enterprise Licensing & App-Flipping Retention & Margin: < 2% Monthly Churn Rate | 80% ~ 88% Serverless Gross Margin": {
+    "ko": "배포 속도: 1개 코어 백엔드 -> 100개 이상의 로컬라이징된 버티컬 마이크로 SaaS 포털 | 수익화 아키타입: SaaS 정기 구독(MRR), 엔터프라이즈 라이선싱 및 앱 플리핑 | 리텐션 및 마진: 월간 이탈률 < 2% | 80% ~ 88% 서버리스 매출총이익률"
+  },
+  "Demand Mechanism: Conditional Reverse Auctions (P_target, t_wait) + 50% Deposit Tunneling Media Engine: 10 Daily Multilingual Shoppable Videos per Project via SISTAR Studio Monetization Archetypes: Reverse-Auction Take-Rates, Zero-Inventory Volume Margins & Freemium Tools": {
+    "ko": "수요 메커니즘: 조건부 역경매(P_target, t_wait) + 50% 계약금 터널링 | 미디어 엔진: SISTAR Studio 기반 프로젝트당 일일 10편의 다국어 쇼퍼블 비디오 생성 | 수익화 아키타입: 역경매 테이크레이트, 무재고 볼륨 마진 및 프리미엄(Freemium) 툴"
+  },
+  "Structuring Protocol: Automated Spark -> TTP (Target, Timeline, Process) Blueprinting Matching Engine: Semantic Knowledge-Graph Screening of Challengers, Devs & Creators Monetization Archetypes: 10% ~ 15% Platform Matching Take-Rate + Automated IR Deck Generation Fees": {
+    "ko": "구조화 프로토콜: 스파크 자동화 -> TTP(Target, Timeline, Process) 청사진 구축 | 매칭 엔진: 도전자, 개발자, 크리에이터 대상 시맨틱 지식 그래프 스크리닝 | 수익화 아키타입: 10% ~ 15% 플랫폼 매칭 수수료 + 자동화된 IR 덱 생성 수수료"
+  },
+  "CHAPTER III • PILLAR I: one spark infinite galaxifying SUB-DOMAIN 01 • STRATEGIC COMPRESSION & THE ONE-MAN UNICORN": {
+    "ko": "제3장 • 기둥 I: one spark infinite galaxifying 서브도메인 01 • 전략적 압축 및 원맨 유니콘"
+  },
+  "Pillar I: one spark infinite galaxifying — Engineering the One-Man Unicorn": {
+    "ko": "기둥 I: one spark infinite galaxifying — 원맨 유니콘 엔지니어링"
+  },
+  "Under our first specialized sub-domain (01_one-spark-infinite-galaxifying), we translate the mathematical laws of the Qubit Algorithm™ into the operational doctrine of Strategic Compression. By fusing 20+ years of international trade domain mastery with 24/7 autonomous AI agent swarms, *SC empowers a central commander operating with an ultra-lean \"Two Suitcases\" cloud footprint to compress 30 years of conventional conglomerate output into a single 10-year exponential horizon.": {
+    "ko": "첫 번째 특화 서브도메인(01_one-spark-infinite-galaxifying) 아래, 본 체계는 Qubit Algorithm™의 수학적 법칙을 전략적 압축의 운영 원칙으로 변환한다. 20년 이상의 글로벌 무역 도메인 숙련도와 연중무휴 24시간 자율 AI 에이전트 스웜을 융합함으로써, *SC는 최고 의사결정권자가 초경량 '투 수트케이스(Two Suitcases)' 클라우드 풋프린트로 운영하며 30년에 걸친 기존 대기업의 생산량을 10년의 기하급수적 지평으로 압축할 수 있도록 지원한다."
+  },
+  "To provide institutional investors, sovereign trade partners, and AI systems architects with peer-review-grade theoretical verification, qubit-algorithm houses the complete 8-Chapter Academic Research Monograph authored by DennyKu (*SC) at 01_one-spark-infinite-galaxifying/01_paper-biz-quantum-mechanics: \"Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory.\"": {
+    "ko": "기관 투자자, 국부 무역 파트너, AI 시스템 아키텍트에게 피어 리뷰(동료 평가)급 이론 검증을 제공하기 위해, qubit-algorithm은 01_one-spark-infinite-galaxifying/01_paper-biz-quantum-mechanics에 DennyKu(*SC)가 집필한 총 8장의 학술 연구 모노그래프 \"양자장론 및 정보이론 기반 비즈니스 프로세스 파동함수 최적화\" 전문을 수록하고 있다."
+  },
+  "While the Qubit Algorithm™ defines the mathematical laws of our universe, Cosmo Seed™ (02_cosmo-seed-biz-models) is the standardized, infinitely replicable commercial blueprint that packages those laws into five autonomous engines, five commercial software applications, 15 hybrid revenue archetypes, and machine-callable Model Context Protocol (MCP) servers monetized via x402 agentic micropayments.": {
+    "ko": "Qubit Algorithm™이 본 비즈니스 세계의 수학적 법칙을 정의하는 반면, Cosmo Seed™(02_cosmo-seed-biz-models)는 이러한 법칙을 5개의 자율 엔진, 5개의 커머셜 소프트웨어 애플리케이션, 15개의 하이브리드 수익 아키타입, 그리고 x402 에이전틱 마이크로페이먼트로 수익화되는 기계 호출 가능 Model Context Protocol(MCP) 서버로 패키징한 표준화되고 무한 복제 가능한 상업 청사진이다."
+  },
+  "Open Academic Paper -> Explore Cosmo Seed™ Models -> Print / Export PDF": {
+    "ko": "학술 논문 열람 -> Cosmo Seed™ 모델 탐색 -> PDF 인쇄/내보내기"
+  },
+  "CHAPTER III • PILLAR I: one spark infinite galaxifying": {
+    "ko": "제3장 • 기둥 I: one spark infinite galaxifying"
+  },
+  "SKU Superposition Multiplier: 1 Core Spark -> 20 Persona-Targeted Global Listings Simultaneously Fixed Overhead Footprint: \"Two Suitcases\" Cloud-Native Command + 0% Speculative Inventory Human-AI Division of Labor: Humans Focus on Ideas & Relationships; Autonomous AI Executes Admin": {
+    "ko": "SKU 중첩 배수: 1개 코어 스파크 -> 20개 페르소나 타깃 글로벌 리스팅 동시 배포 | 고정 간접비 풋프린트: '투 수트케이스' 클라우드 네이티브 커맨드 + 투기성 재고 0% | 인간-AI 분업 체계: 인간은 아이디어와 관계에 집중, 자율 AI는 행정 및 운영 전담"
+  },
+  "01 / SPARK": {
+    "ko": "01 / 스파크 (SPARK)"
+  },
+  "A focused executive insight or verified market signal starts the cycle.": {
+    "ko": "고도로 집중된 경영진 인사이트 또는 검증된 시장 시그널이 사이클을 촉발한다."
+  },
+  "02 / INTELLIGENCE": {
+    "ko": "02 / 인텔리전스 (INTELLIGENCE)"
+  },
+  "AI Intelligence-Core and Company RAG align the relevant context.": {
+    "ko": "AI Intelligence-Core와 전사 RAG가 핵심 컨텍스트를 정렬합니다."
+  },
+  "03 / EXECUTION": {
+    "ko": "03 / 실행 (EXECUTION)"
+  },
+  "Signal Star (*SC): The Guiding North Star of Quantum AI Commerce turns shared infrastructure into domain-specific action.": {
+    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성은 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "04 / OUTCOME": {
+    "ko": "04 / 성과 (OUTCOME)"
+  },
+  "Qubit settlement and operating data inform the next opportunity.": {
+    "ko": "Qubit 정산 및 운영 데이터는 차세대 비즈니스 기회를 구체화합니다."
+  },
+  "Legacy workflow": {
+    "ko": "레거시 워크플로우"
+  },
+  "Sequential sourcing, fragmented data, and settlement delays make every new market or project carry duplicated friction.": {
+    "ko": "순차적 소싱, 단절된 데이터, 정산 지연은 모든 신규 시장 진출과 프로젝트마다 중복된 마찰 비용을 초래합니다."
+  },
+  "*SC coordinated execution": {
+    "ko": "*SC 조율된 실행"
+  },
+  "For Signal Star (*SC): The Guiding North Star of Quantum AI Commerce, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "SISTAR Company (*SC): Full-Stack AI Commerce & International Trading turns shared infrastructure into domain-specific action.": {
+    "ko": "SISTAR Company (*SC): 풀스택 AI 커머스 & 글로벌 무역은 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For SISTAR Company (*SC): Full-Stack AI Commerce & International Trading, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "SISTAR Company (*SC): 풀스택 AI 커머스 & 글로벌 무역에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "Four proofs anchor the executive case: practical field experience, one shared AI core, coordinated market execution, and reusable capability across the Founder Projects.": {
+    "ko": "실전 현장 경험, 단일 AI 코어 공유, 조율된 시장 실행력, 파운더 프로젝트 전반의 역량 재사용성이라는 네 가지 증거가 경영진의 핵심 논거를 견고히 뒷받침합니다."
+  },
+  "[Open Letter] Our Answer to the Question: &quot;How Can You Possibly Manage All of These Projects Simultaneously?&quot; turns shared infrastructure into domain-specific action.": {
+    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답: 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For [Open Letter] Our Answer to the Question: &quot;How Can You Possibly Manage All of These Projects Simultaneously?&quot;, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "*SC : SISTAR Company Founder & CEO Signal Star Universe • 8 Global Operational Bases sistarcompany.com": {
+    "ko": "*SC : SISTAR Company 설립자 겸 CEO Signal Star Universe • 8개 글로벌 운영 거점 sistarcompany.com"
+  },
+  "*SC Identity & Signatures: One Spark, Infinite Galaxifying turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying은 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For *SC Identity & Signatures: One Spark, Infinite Galaxifying, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "PILLAR I • MATHEMATICAL & OPERATIONAL ENGINE The Quantum Paradigm Shift: From Newtonian Linearity to Qubit Mechanics": {
+    "ko": "기둥 I • 수학 및 운영 엔진 | 양자 패러다임 전환: 뉴턴 역학적 선형성에서 큐비트 역학으로"
+  },
+  "*SC 4 Pillars: The Quantum & International AI Architecture turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처는 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For *SC 4 Pillars: The Quantum & International AI Architecture, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "PILLAR II • UNFAIR DOMAIN MOAT 20+ Years of International Mastery Meets Autonomous AI": {
+    "ko": "기둥 II • 압도적 도메인 해자 | 20년 이상의 글로벌 무역 전문성과 자율형 AI의 융합"
+  },
+  "PILLAR III • GLOBAL MOVEMENT & NEW WORK PARADIGM The Federated Alliance: “Ants United Against Global AI Giants”": {
+    "ko": "기둥 III • 글로벌 무브먼트 & 새로운 업무 패러다임 | 연합 동맹: “글로벌 AI 거인에 맞서는 개미들의 연대”"
+  },
+  "PILLAR IV • FOUNDATIONAL CAPABILITY MULTIPLIER The 15 Founder Projects: Entangled Nodes of One Quantum Engine": {
+    "ko": "기둥 IV • 근원적 역량 승수인자 | 15개 파운더 프로젝트: 단일 퀀텀 엔진의 얽힘 노드"
+  },
+  "Internal Efficiency Moat: 100% Admin/ERP Cost Savings via Autonomous Overnight Processing External B2B SaaS Margin: 75% ~ 85% Gross Margin Licensing across Federated Alliance Members Downstream Injection: Direct Real-Time API/Vector Feed into scarlet-ai & qubit-biz": {
+    "ko": "내부 효율성 해자: 야간 자율 프로세싱을 통한 관리/ERP 비용 100% 절감 | 외부 B2B SaaS 마진: 연합 동맹 회원사 대상 라이선싱을 통한 75% ~ 85% 매출총이익률 달성 | 다운스트림 인젝션: scarlet-ai 및 qubit-biz로의 실시간 직결 API/벡터 피드"
+  },
+  "Core Marketplaces: SisCart, Nearbuy, Buy4Me Reverse Auction & mall.sisTV Live Commerce Financial Mechanics: K-SURE BNPL Credit Tunneling + 70/30 PG Fee Split Cashback Settlement Law: Simultaneous t = 0 Value Realization for Buyer, Factory & Logistics": {
+    "ko": "핵심 마켓플레이스: SisCart, Nearbuy, Buy4Me 역경매 및 mall.sisTV 라이브 커머스 | 금융 메커니즘: K-SURE BNPL 신용 터널링 + 70/30 PG 수수료 분할 캐시백 | 정산 법칙: 구매자, 공장, 물류사를 위한 동시적 t = 0 가치 실현"
+  },
+  "Core Philosophy: One Spark, Infinite Galaxifying -> One Task, Multi Outcomes 5 Cosmo Seed™ Engines: Qubit Factory™ • Commerce™ • Star™ • Link™ • Flow™ Clearing Infrastructure: c.a.n. ActionNote Dispatch + 4-Way Qubit Bank Offsetting": {
+    "ko": "핵심 철학: One Spark, Infinite Galaxifying -> 단일 과업 다중 성과(One Task, Multi Outcomes) | 5대 Cosmo Seed™ 엔진: Qubit Factory™ • Commerce™ • Star™ • Link™ • Flow™ | 결제·청산 인프라: c.a.n. ActionNote 디스패치 + 4방향 Qubit Bank 상계 처리"
+  },
+  "*SC Enterprise Architecture: The 6-Layer, 12-Domain Quantum Galaxy turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시는 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For *SC Enterprise Architecture: The 6-Layer, 12-Domain Quantum Galaxy, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+  },
+  "Primary Audience: Global Enterprise Counterparties, Sovereign Trade Bodies & Institutional VCs Physical Footprint: 8 Global Operational Bases (KR -> ID -> VN -> SG -> CN -> JP -> US -> IN) Alliance Moat: IATA (Direct AI Trade) & IADA (Federated AI Co-Development)": {
+    "ko": "주요 타깃: 글로벌 엔터프라이즈 거래처, 국부 무역 기구 및 기관 투자자(VC) | 물리적 거점: 8개 글로벌 운영 기지 (KR -> ID -> VN -> SG -> CN -> JP -> US -> IN) | 얼라이언스 해자: IATA(직접 AI 무역) 및 IADA(연합형 AI 공동 개발)"
+  },
+  "Theoretical Core: 5 Quantum Laws Engineered into Commercial Execution Code Empirical Anchor: Optimization of Business Process Wavefunctions Academic Monograph Systemic Impact: Collapses Working Capital Risk & Settlement Latency to t = 0": {
+    "ko": "이론적 핵심: 상업적 실행 코드로 엔지니어링된 5대 양자 법칙 | 실증적 닻: 비즈니스 프로세스 파동함수의 최적화 (학술 모노그래프) | 시스템적 임팩트: 운전자본 리스크 및 결제 지연 시간을 t = 0으로 수렴"
+  },
+  "Bio-Health Constellation: SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic Cognitive & Tech Stars: Mind Company • FlexKids AI • SISMii • SISTAR DX • SR Robotics Gross Margin Profile: 45% ~ 65% Physical Vertical GM + High-Velocity Repeat Replenishment": {
+    "ko": "바이오·헬스 성단: SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic | 인지 및 테크 스타: Mind Company • FlexKids AI • SISMii • SISTAR DX • SR Robotics | 매출총이익 프로파일: 45% ~ 65% 피지컬 버티컬 매출총이익(GM) + 초고속 반복 재발주 체계"
+  },
+  "Shared R&D & ODM: Auto-Formulator for Vet + Joint GMP Manufacturing Pools Unit Economics Anchor: Rp 1,320 (~$0.085) Micro-Sachet Protocol for Mass SEA Penetration Shared Logistics & ESG: Space Sharing & Deliver Together + PetFood Bank Re:D + Mint": {
+    "ko": "공유 R&D 및 ODM: 수의학용 자동 포뮬레이터 + 공동 GMP 제조 풀 | 유닛 이코노믹스 닻: 동남아시아 대량 침투를 위한 Rp 1,320 (~$0.085) 마이크로 샤셰 프로토콜 | 공유 물류 및 ESG: 공간 공유 및 공동 배송 + PetFood Bank Re:D + Mint"
+  },
+  "Work Philosophy: Vibe Working — Humans Lead Strategy & Relationships; AI Executes Admin Identity & Progression: International SISTAR Family Scaling Through S1 -> S6 Franchise-ship Economic Alignment: Zero Fixed-Salary Bloating; Direct Revenue & Equity Profit Sharing": {
+    "ko": "업무 철학: Vibe Working — 인간은 전략과 관계를 주도하고, AI는 관리 행정을 실행 | 정체성 및 성장: S1 -> S6 프랜차이즈십을 통한 글로벌 SISTAR 패밀리 스케일링 | 경제적 정렬: 고정 급여 비대화 제로; 직접 매출 및 지분 수익 분배"
+  },
+  "Factory Value Prop: Pre-Aggregated Buy4Me Volume + K-SURE BNPL Zero-Default Settlement Clinic & Retail Value Prop: AI Diagnostics (MedIX) + Custom ODM Prescriptions + 70/30 PG Cashback Cross-Border Reach: Instant Plug-In to 8 National Bases & IATA/IADA Federated Networks": {
+    "ko": "제조사 가치 제안: 사전 집계된 Buy4Me 물량 + K-SURE BNPL 디폴트 제로 정산 | 클리닉 및 리테일 가치 제안: AI 진단(MedIX) + 맞춤형 ODM 처방 + 70/30 PG 캐시백 | 크로스보더 도달성: 8개국 거점 및 IATA/IADA 연합 네트워크 즉각 연동(Plug-In)"
+  },
+  "Investment Vehicles: Supreme Holding Equity • Ring-Fenced Project SPVs • Country Regional JVs Dual-Return Engine: 100% Internal ERP/Admin Savings + High-Margin SaaS & Physical Cashflow Due-Diligence Transparency: Live Qubit ERP Auditability & Mathematical Wavefunction Validation": {
+    "ko": "투자 비클: 최상위 지주사 지분 • 링펜스(자산격리형) 프로젝트 SPV • 국가별 지역 JV | 듀얼 리턴 엔진: 100% 내부 ERP/관리비용 절감 + 고마진 SaaS 및 실물 현금흐름 | 실사 투명성: 실시간 Qubit ERP 감사 가능성 및 수학적 파동함수 검증"
+  },
+  "Structural Taxonomy: Category-by-Category B2B Proposals & Verified Corporate Profiles Platform Routing: Direct API & Agentic Ingestion into scarlet-ai & qubit-biz LLM / GEO Advantage: Schema.org Structured Data Engineered for Global AI Search Discovery": {
+    "ko": "구조적 분류 체계: 카테고리별 B2B 제안서 및 검증된 기업 프로필 | 플랫폼 라우팅: scarlet-ai 및 qubit-biz LLM 대상 직접 API 및 에이전틱 수집 | GEO 우위: 글로벌 AI 검색 발견에 최적화된 Schema.org 구조화 데이터 엔지니어링"
+  },
+  "Autonomous Production: SISTAR Studio + Marketing Tool Package (10 Daily Assets / Project) Editorial Journalism: The SIGNAL STAR Post Global AI & Trade Publication Multilingual Reach: Simultaneous 6-Language Localization (en / kr / id / vn / cn / jp)": {
+    "ko": "자율형 제작: SISTAR Studio + 마케팅 툴 패키지 (프로젝트당 일일 10개 에셋 제작) | 에디토리얼 저널리즘: The SIGNAL STAR Post 글로벌 AI 및 무역 전문 퍼블리케이션 | 다국어 도달성: 동시 6개 국어 현지화 (en / kr / id / vn / cn / jp)"
+  },
+  "Original source details preserved": {
+    "ko": "원본 소스 상세 정보 보존"
+  },
+  "Domains: intelligence.sistarcompany.com, media. Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post, and SISTAR Studio.": {
+    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 및 SISTAR Studio 운영."
+  },
+  "Domain: scarlet.sistarcompany.com. Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy, and vertical portals (petclinic., ayurvedic.).": {
+    "ko": "도메인: scarlet.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동구매, sisCart NearBuy 및 버티컬 포털(petclinic., ayurvedic.) 구동."
+  },
+  "Domain: qubit.sistarcompany.com. Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
+    "ko": "도메인: qubit.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE BNPL 무역 금융, 4-Way Qubit 상계(Offsetting) 물물교환, Qubit Bank(시간/공간/아이디어/펫푸드) 총괄 통제."
+  },
+  "Open Companion Annex: 15 Founder Projects → Print / Export 12-Page PDF": {
+    "ko": "동반 부록 열기: 15개 파운더 프로젝트 → 12페이지 PDF 인쇄 / 내보내기"
+  },
+  "ARCHITECTURAL DIAGRAM 04 • PROPRIETARY FINTECH CLEARING TOPOLOGY: K-SURE BNPL + 4-WAY QUBIT OFFSETTING + 70/30 PG LOOP": {
+    "ko": "아키텍처 다이어그램 04 • 독자적 핀테크 청산 토폴로지: K-SURE BNPL + 4-WAY QUBIT OFFSETTING + 70/30 PG 루프"
+  },
+  "*SC (SISTAR Company): The Quantum-Concurrent AI & International Trading Enterprise turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈로서 공유 인프라를 도메인 특화 실행으로 전환합니다."
+  },
+  "For *SC (SISTAR Company): The Quantum-Concurrent AI & International Trading Enterprise, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈의 Qubit Algorithm™과 AI 인텔리전스 코어는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다."
+  },
+  "1. K-SURE + B2B BNPL CLEARING": {
+    "ko": "1. K-SURE + B2B BNPL 청산"
+  },
+  "Korean / Global OEM Maker": {
+    "ko": "한국 / 글로벌 OEM 제조사"
+  },
+  "Receives 100% Cash at B/L (t = 0)": {
+    "ko": "선하증권(B/L) 발행 즉시 100% 현금 수령 (t = 0)"
+  },
+  "K-SURE Export Guarantee": {
+    "ko": "K-SURE 수출보증"
+  },
+  "Zero Balance-Sheet Default Risk to *SC": {
+    "ko": "*SC 대차대조표상 부도 리스크 제로"
+  },
+  "ASEAN Distributor / Vet Hospital": {
+    "ko": "아세안(ASEAN) 총판 / 동물병원"
+  },
+  "Enjoys 30–60 Day BNPL Credit Terms": {
+    "ko": "30~60일 BNPL 신용 여신 조건 수혜"
+  },
+  "*SC Earns 2–4% Clearing & Factoring Spread": {
+    "ko": "*SC, 2~4% 청산 및 팩토링 스프레드 수익 확보"
+  },
+  "2. 4-WAY QUBIT OFFSETTING MATRIX": {
+    "ko": "2. 4방향 큐비트 상계 매트릭스 (4-WAY QUBIT OFFSETTING MATRIX)"
+  },
+  "01. Physical Goods": {
+    "ko": "01. 실물 재화 (Physical Goods)"
+  },
+  "Raw Materials": {
+    "ko": "원자재"
+  },
+  "Vet / Pet / K-Beauty": {
+    "ko": "동물의약품 / 펫케어 / K-뷰티"
+  },
+  "Vet CDSS Licensing": {
+    "ko": "수의학 CDSS 라이선싱"
+  },
+  "QUBIT": {
+    "ko": "큐비트 (QUBIT)"
+  },
+  "LEDGER": {
+    "ko": "원장 (LEDGER)"
+  },
+  "03. Media & IP": {
+    "ko": "03. 미디어 & IP"
+  },
+  "SISTAR Studio Ads": {
+    "ko": "SISTAR Studio 광고"
+  },
+  "Brand Cloning Rights": {
+    "ko": "브랜드 클로닝 권리"
+  },
+  "04. Space & 3PL": {
+    "ko": "04. 공간 및 3PL"
+  },
+  "Shared Warehouse": {
+    "ko": "공유 물류센터"
+  },
+  "Container Slot Swap": {
+    "ko": "컨테이너 선복(Slot) 스왑"
+  },
+  "Zero FX Cash Drain • Multilateral Netting": {
+    "ko": "외환 유출 제로 (Zero FX Cash Drain) • 다자간 상계 (Multilateral Netting)"
+  },
+  "3. 70/30 PG FEE CASHBACK LOOP": {
+    "ko": "3. 70/30 PG 수수료 캐시백 루프"
+  },
+  "Legacy PG & Platform Toll": {
+    "ko": "레거시 PG사 및 플랫폼 통행세"
+  },
+  "3.5% – 5.0% Lost Per Transaction": {
+    "ko": "거래 건당 3.5% – 5.0% 자본 유출"
+  },
+  "Destructive Wave Interference": {
+    "ko": "파동 상쇄 간섭 (Destructive Wave Interference)"
+  },
+  "Closed-Loop Qubit Credit Settlement": {
+    "ko": "폐쇄 루프형 큐비트 크레딧 정산"
+  },
+  "Instant Buyer": {
+    "ko": "구매자 대상 즉시"
+  },
+  "Cashback Rebate": {
+    "ko": "캐시백 리베이트 환원"
+  },
+  "*SC Platform": {
+    "ko": "*SC 플랫폼"
+  },
+  "Net Fee Margin": {
+    "ko": "순수수료 마진"
+  },
+  "← View Master Corporate Brochure Print / Export Dossier PDF": {
+    "ko": "← 마스터 기업 브로슈어 보기 인쇄 / 도시에(Dossier) PDF 내보내기"
+  },
+  "EXPONENTIAL GALAXIFYING VELOCITY: 1 NEW TURNKEY VIP PARTNER VENTURE DEPLOYED EVERY 24 HOURS WITH BUILT-IN AI MEDIA": {
+    "ko": "지수함수적 은하화 속도: AI 미디어가 내장된 신규 턴키 VIP 파트너 벤처를 24시간마다 1건씩 실전 배포"
+  },
+  "Zero Incremental Engineering Headcount • Perpetual Equity Carry & Revenue Share Across Every Cloned Node": {
+    "ko": "엔지니어링 인력 추가 증원 제로(0) • 모든 복제 노드 전반의 영구적 지분 캐리(Equity Carry) 및 수익 공유"
+  },
+  "Foundational Impact: Near-Zero Marginal Cost Venture Replication Speed External Revenue Model: Turnkey VIP Launch Fee + Ongoing Royalty / Equity Carry Target Gross Margin: 85%+ Automated Cloning Margin": {
+    "ko": "근본적 임팩트: 한계비용 제로 수준의 벤처 복제 속도 외부 수익 모델: 턴키 VIP 론칭 피 + 지속적 로열티 / 지분 캐리(Equity Carry) 목표 매출총이익률: 85%+ 자동화 복제 마진"
+  },
+  "Foundational Impact: Guaranteed Go-To-Market Velocity for Every Ecosystem Node External Revenue Model: Project-Tiered Marketing SaaS + Performance Revenue Share Target Gross Margin: 75–85% Programmatic Media & SaaS Margin": {
+    "ko": "근본적 임팩트: 모든 생태계 노드를 위한 시장 진입(GTM) 속도 보장 외부 수익 모델: 프로젝트 티어별 마케팅 SaaS + 성과 기반 수익 공유 목표 매출총이익률: 75–85% 프로그래매틱 미디어 및 SaaS 마진"
+  },
+  "Foundational Impact: Near-$0 Internal ERP & Admin Drag External Revenue Model: Tiered B2B SaaS + Shared SCM Spread Target Gross Margin: 80–85% Software & Clearing Margin": {
+    "ko": "근본적 임팩트: 사실상 $0에 수렴하는 내부 ERP 및 관리 오버헤드 외부 수익 모델: 티어드 B2B SaaS + SCM 마진 스프레드 공유 목표 매출총이익률: 80–85% 소프트웨어 및 정산(Clearing) 마진"
+  },
+  "Foundational Impact: 24/7 Automated Market & Tariff Intelligence External Revenue Model: Enterprise Deployment Fee + Monthly Retainer Target Gross Margin: 75–85% Hybrid Local/Cloud Margin": {
+    "ko": "근본적 임팩트: 24/7 자동화된 시장 및 관세 인텔리전스 외부 수익 모델: 엔터프라이즈 구축 피 + 월간 리테이너 목표 매출총이익률: 75–85% 하이브리드 로컬/클라우드 마진"
+  },
+  "Foundational Impact: 24/7 Autonomous Sales & Partner Support External Revenue Model: AaaS Subscription + Closing Commission Target Gross Margin: 80%+ Automated Execution Margin": {
+    "ko": "근본적 임팩트: 24/7 자율형 세일즈 및 파트너 지원 외부 수익 모델: AaaS 구독 + 클로징 커미션 목표 매출총이익률: 80%+ 자동화 실행 마진"
+  },
+  "Foundational Impact: 10x Executive Ideation-to-Deployment Velocity External Revenue Model: Executive SaaS Licensing + Seat Tiers Target Gross Margin: 85%+ Pure Software Margin": {
+    "ko": "근본적 임팩트: C-레벨 구상부터 배포까지의 속도 10배 가속화 외부 수익 모델: 경영진 SaaS 라이선싱 + 시트(Seat) 티어 목표 매출총이익률: 85%+ 순수 소프트웨어 마진"
+  },
+  "Foundational Impact: Zero-Friction Real-World Data Capture External Revenue Model: Hardware-as-a-Service (HaaS) + Cloud Subscription Target Gross Margin: 55% Hardware / 80% Cloud Bundle": {
+    "ko": "근본적 임팩트: 마찰 없는(Zero-Friction) 실세계 데이터 캡처 외부 수익 모델: HaaS(Hardware-as-a-Service) + 클라우드 구독 목표 매출총이익률: 55% 하드웨어 / 80% 클라우드 번들 마진"
+  },
+  "Foundational Impact: Zero-CAC Certified Talent & Operator Pipeline External Revenue Model: B2C/B2B Subscriptions & Curriculum Licensing Target Gross Margin: 75–85% Digital Content & SaaS Margin": {
+    "ko": "근본적 임팩트: 고객획득비용(CAC) 제로의 검증된 인재 및 오퍼레이터 파이프라인 외부 수익 모델: B2C/B2B 구독 및 커리큘럼 라이선싱 목표 매출총이익률: 75–85% 디지털 콘텐츠 및 SaaS 마진"
+  },
+  "Foundational Impact: Instant R&D-to-SKU Velocity & Regulatory Tunneling External Revenue Model: B2B Sachet/Bulk Supply + Formulation Royalties Target Gross Margin: 50–65% Proprietary Formulation Margin": {
+    "ko": "근본적 임팩트: 즉각적인 R&D-to-SKU 속도 및 규제 터널링 외부 수익 모델: B2B 사셰(Sachet)/벌크 공급 + 포뮬레이션 로열티 목표 매출총이익률: 50–65% 독점 포뮬레이션 마진"
+  },
+  "Foundational Impact: Point-of-Prescription Lock-In & Clinical Data Factory External Revenue Model: Clinic SaaS + Automatic Prescription Supply Spread Target Gross Margin: 60–75% Blended Software & Specialty Margin": {
+    "ko": "근본적 임팩트: 처방 시점(Point-of-Prescription) 락인 및 임상 데이터 팩토리 외부 수익 모델: 클리닉 SaaS + 자동 처방 공급 스프레드 목표 매출총이익률: 60–75% 소프트웨어 및 특화 의약품 복합 마진"
+  },
+  "Foundational Impact: Physical Supply Sovereignty & Immediate Cashflow Anchor External Revenue Model: Direct Clinic B2B Supply + Co-Branded ODM Contracts Target Gross Margin: 45–65% Direct Factory-to-Clinic Margin": {
+    "ko": "근본적 임팩트: 실물 공급 주권 및 즉각적인 현금흐름 앵커 외부 수익 모델: 클리닉 직공급 B2B + 코브랜디드 ODM 계약 목표 매출총이익률: 45–65% 공장 직납(Factory-to-Clinic) 마진"
+  },
+  "Foundational Impact: Borderless On-the-Ground Execution at $0 Fixed HR Cost External Revenue Model: Franchise-ship Royalties + Shared Trade Margins Target Gross Margin: 70%+ Platform & Alliance Royalty Margin": {
+    "ko": "근본적 임팩트: 고정 인건비 $0 기반의 국경 없는 현지 실행력 외부 수익 모델: 프랜차이즈십 로열티 + 무역 마진 공유 목표 매출총이익률: 70%+ 플랫폼 및 얼라이언스 로열티 마진"
+  },
+  "Foundational Impact: Battle-Tested Physical Cross-Border Distribution Spine External Revenue Model: Container Wholesale Spreads + Exclusive Agency Retainers Target Gross Margin: 30–50% Pre-Sold Import/Distribution Margin": {
+    "ko": "근본적 임팩트: 실전 검증된 크로스보더 실물 유통 백본(Spine) 외부 수익 모델: 컨테이너 도매 스프레드 + 독점 대리점 리테이너 목표 매출총이익률: 30–50% 사전 판매 수입/유통 마진"
+  },
+  "Foundational Impact: Proprietary D2C/B2B Demand-Aggregation Gateway External Revenue Model: Transaction Take-Rate + 30% Retained PG Spread + Group-Buy Margin Target Gross Margin: 65–80% Platform Clearing Margin": {
+    "ko": "근본적 임팩트: 독점적 D2C/B2B 수요 집약 게이트웨이 외부 수익 모델: 거래 테이크레이트(Take-Rate) + 30% 내부 유보 PG 스프레드 + 공동구매 마진 목표 매출총이익률: 65–80% 플랫폼 정산 마진"
+  },
+  "Foundational Impact: $t=0$ Global B2B Clearinghouse & Cashless Barter Network External Revenue Model: B2B Clearing Fees + BNPL Factoring Spread + Arbitrage Yield Target Gross Margin: 70%+ Fintech & Algorithmic Trade Margin": {
+    "ko": "근본적 임팩트: $t=0$ 글로벌 B2B 청산소 및 무현금 바터 네트워크 | 외부 수익 모델: B2B 청산 수수료 + BNPL 팩토링 스프레드 + 차익거래 수익률 | 목표 매출총이익률: 70%+ 핀테크 및 알고리즘 트레이딩 마진"
+  },
+  "TIER IV ENTANGLEMENT BLUEPRINT (FP-14 TO FP-15) • 24/7 VENTURE CLONING FACTORY & PROGRAMMATIC GTM MULTIPLIER": {
+    "ko": "TIER IV 얽힘 청사진 (FP-14 ~ FP-15) • 24/7 벤처 클로닝 팩토리 및 프로그래매틱 GTM 승수"
+  },
+  "*SC Founder Projects (01–15): Technical & Commercial Portfolio Dossier turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)는 공유 인프라를 도메인 특화 실행력으로 전환합니다."
+  },
+  "For *SC Founder Projects (01–15): Technical & Commercial Portfolio Dossier, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)의 경우, Qubit Algorithm™ 및 AI 인텔리전스 코어가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 정렬합니다."
+  },
+  "INPUT: TIERS I – III": {
+    "ko": "입력: TIERS I – III"
+  },
+  "Validated Cosmo Seed™": {
+    "ko": "검증된 Cosmo Seed™"
+  },
+  "Pre-Wired Qubit ERP (FP-01)": {
+    "ko": "사전 결합형 Qubit ERP (FP-01)"
+  },
+  "Air-Gapped Vector RAG (FP-02)": {
+    "ko": "에어갭 벡터 RAG (FP-02)"
+  },
+  "Ms. Scarlet AI Closer (FP-03)": {
+    "ko": "Ms. Scarlet AI 클로저 (FP-03)"
+  },
+  "Vet / Trade Supply Spine": {
+    "ko": "수의 / 무역 공급 스파인(Spine)"
+  },
+  "FP-14 • DAILY 1 VIP LAUNCHING FACTORY": {
+    "ko": "FP-14 • 일일 1개 VIP 런칭 팩토리"
+  },
+  "24-Hour Auto-Reskinning Assembly": {
+    "ko": "24시간 자동 리스킨 어셈블리"
+  },
+  "Firebase Multi-Site + Subdomain Routing": {
+    "ko": "Firebase 멀티사이트 + 서브도메인 라우팅"
+  },
+  "6-Language Static AI Dictionary (EN/KR/ID/VN/CN/JP)": {
+    "ko": "6개 국어 정적 AI 딕셔너리 (EN/KR/ID/VN/CN/JP)"
+  },
+  "100 Brands • 100 Platforms • 100 App-Flips": {
+    "ko": "100개 브랜드 • 100개 플랫폼 • 100개 앱 플립(App-Flips)"
+  },
+  "85%+ GM • VIP Launch Fee + Royalty Carry": {
+    "ko": "85%+ 매출총이익률 • VIP 런칭 수수료 + 로열티 캐리"
+  },
+  "FP-15 • MARKETING TOOL PACKAGE": {
+    "ko": "FP-15 • 마케팅 툴 패키지"
+  },
+  "SISTAR Studio + Closed-Loop CRM": {
+    "ko": "SISTAR Studio + 폐루프(Closed-Loop) CRM"
+  },
+  "10x Daily Short-Form Videos (Veo/TTS)": {
+    "ko": "일일 10편 숏폼 비디오 자동 생성 (Veo/TTS)"
+  },
+  "Qubit Star Influencer Matching": {
+    "ko": "Qubit 스타 인플루언서 매칭"
+  },
+  "Near-$0 CAC Organic Viral Funnel": {
+    "ko": "$0에 수렴하는 CAC 기반 오가닉 바이럴 퍼널"
+  },
+  "75–85% GM • Agency-in-a-Box SaaS": {
+    "ko": "75–85% 매출총이익률 • 올인원 에이전시(Agency-in-a-Box) SaaS"
+  },
+  "01 / CAPTURE": {
+    "ko": "01 / 포착(CAPTURE)"
+  },
+  "Partner and customer intent enters the shared relationship record.": {
+    "ko": "파트너 및 고객의 의도가 공유 관계 레코드에 동기화됩니다."
+  },
+  "02 / ENRICH": {
+    "ko": "02 / 고도화(ENRICH)"
+  },
+  "Company RAG and Qubit ERP resolve context and next actions.": {
+    "ko": "기업 RAG와 Qubit ERP가 맥락과 후속 실행 조치를 해결·도출합니다."
+  },
+  "03 / ENGAGE": {
+    "ko": "03 / 인게이지먼트(ENGAGE)"
+  },
+  "AI agents prepare follow-up while people focus on decisions.": {
+    "ko": "인간이 핵심 의사결정에 집중하는 동안 AI 에이전트가 후속 조치를 완결합니다."
+  },
+  "04 / LEARN": {
+    "ko": "04 / 학습(LEARN)"
+  },
+  "Deal outcomes and service history improve future routing.": {
+    "ko": "딜 성과 및 서비스 이력 데이터를 기반으로 차세대 라우팅 경로를 정밀하게 최적화합니다."
+  },
+  "For SISTAR CRM: From Manual Sales to 24/7 Autonomous Data Feeding, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "SISTAR CRM: 수동 영업에서 24/7 상시 자율 데이터 피딩으로 전환하며, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다."
+  },
+  "01 / EXPERIENCE": {
+    "ko": "01 / 경험"
+  },
+  "Field experience surfaces recurring cross-border pain points.": {
+    "ko": "현장 실무 경험을 통해 국경 간 거래에서 반복되는 핵심 난제와 페인 포인트를 도출합니다."
+  },
+  "02 / CODIFY": {
+    "ko": "02 / 체계화"
+  },
+  "The Qubit Algorithm formalizes those patterns into operating logic.": {
+    "ko": "Qubit Algorithm은 이러한 반복 패턴을 실행 가능한 운영 로직으로 공식화합니다."
+  },
+  "03 / BUILD": {
+    "ko": "03 / 구축"
+  },
+  "Founder projects turn the logic into repeatable products and services.": {
+    "ko": "파운더 프로젝트는 해당 로직을 확장 및 재현 가능한 제품과 서비스로 구현합니다."
+  },
+  "04 / SHARE": {
+    "ko": "04 / 공유"
+  },
+  "Partners contribute outcomes back to the Signal Star Universe.": {
+    "ko": "파트너사는 도출된 최종 성과를 Signal Star Universe로 환원하여 생태계에 기여합니다."
+  },
+  "For SISTAR Company — Corporate Heritage, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "SISTAR Company — 기업 헤리티지 관점에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 바탕으로 수요, 도메인 실행력, 다자간 가치 창출을 통합 정렬합니다."
+  },
+  "*SC — Supreme Command Hub of the Signal Star Universe turns shared infrastructure into domain-specific action.": {
+    "ko": "*SC — Signal Star Universe의 최고 사령부 허브(Supreme Command Hub)는 공유 인프라를 도메인 특화 실행력으로 전환합니다."
+  },
+  "For *SC — Supreme Command Hub of the Signal Star Universe, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC — Signal Star Universe 최고 사령부 허브 체계에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 유기적으로 정렬합니다."
+  },
+  "01 / SIGNAL": {
+    "ko": "01 / 시그널"
+  },
+  "Local demand and regulatory signals enter the SCK hub.": {
+    "ko": "현지 시장 수요 및 규제 시그널이 SCK 허브로 인입됩니다."
+  },
+  "02 / CONTEXT": {
+    "ko": "02 / 컨텍스트"
+  },
+  "Company RAG aligns market, clinical, and trade intelligence.": {
+    "ko": "기업형 RAG가 시장, 임상, 글로벌 무역 인텔리전스를 입체적으로 정렬합니다."
+  },
+  "Regional ODM, distribution, or service partners deliver locally.": {
+    "ko": "권역별 ODM, 유통 및 서비스 파트너가 현지 최적화된 실행 및 딜리버리를 전개합니다."
+  },
+  "Qubit settlement and operating data feed the next forecast.": {
+    "ko": "Qubit 정산 및 운용 데이터는 차기 예측 모델로 피드백·반영됩니다."
+  },
+  "For sistar company korea (SCK) — Global HQ, R&D Origination & K-SURE Export Command, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company korea (SCK) — 글로벌 헤드쿼터, R&D 오리지네이션 및 K-SURE 수출 커맨드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "Local demand and regulatory signals enter the SCI hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCI 허브로 유입됩니다."
+  },
+  "For sistar company indonesia (SCI) — ASEAN Quantum Scale & Volume-Deal Anchor, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company indonesia (SCI) — 아세안 퀀텀 스케일 및 대형 볼륨 딜 앵커의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "Local demand and regulatory signals enter the SCV hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCV 허브로 유입됩니다."
+  },
+  "For sistar company vietnam (SCV) — Indochina High-Velocity Commerce, AgTech & AI Challenger Hub, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company vietnam (SCV) — 인도차이나 초고속 커머스, 애그테크(AgTech) 및 AI 챌린저 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "Local demand and regulatory signals enter the SCS hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCS 허브로 유입됩니다."
+  },
+  "For sistar company singapore (SCS) — Global Quantum Finance, Multilateral Clearing & Treasury Hub, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company singapore (SCS) — 글로벌 퀀텀 금융, 다자간 청산 및 트레저리 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "Local demand and regulatory signals enter the SCC hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCC 허브로 유입됩니다."
+  },
+  "For sistar company china (SCC) — Global Hardware, Physical AI Robotics & Algorithmic Supply-Chain Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company china (SCC) — 글로벌 하드웨어, 피지컬 AI 로보틱스 및 알고리즘 공급망 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "Local demand and regulatory signals enter the SCJ hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCJ 허브로 유입됩니다."
+  },
+  "For sistar company japan (SCJ) — Premium Longevity, Clinical Pet Care & High-Trust Brand Constellation Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company japan (SCJ) — 프리미엄 론제비티(Longevity), 임상 펫케어 및 고신뢰 브랜드 콘스텔레이션 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "• High-Multiple SaaS & Digital Asset Liquidity: Combines recurring B2B/B2C SaaS subscription streams across scarlet.sistarcompany.com and qubit.sistarcompany.com with systematic micro-SaaS app-flipping exits.": {
+    "ko": "• 고배수(High-Multiple) SaaS 및 디지털 자산 유동성: scarlet.sistarcompany.com 및 qubit.sistarcompany.com 전반의 반복적 B2B/B2C SaaS 구독 파이프라인과 체계적인 마이크로 SaaS 앱 플리핑(App-flipping) 엑시트를 결합합니다."
+  },
+  "Local demand and regulatory signals enter the SCU hub.": {
+    "ko": "현지 수요 및 규제 시그널이 SCU 허브로 유입됩니다."
+  },
+  "For sistar company usa (SCU) — North American Agentic AI, Micro-SaaS Factory & Global Capital Markets Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar company usa (SCU) — 북미 에이전틱 AI, 마이크로 SaaS 팩토리 및 글로벌 자본시장 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+  },
+  "01 / INGEST": {
+    "ko": "01 / 수집 (INGEST)"
+  },
+  "Clinical, tariff, market, and investor sources enter the data pool.": {
+    "ko": "임상, 관세, 시장 및 투자자 데이터 소스가 데이터 풀로 유입됩니다."
+  },
+  "02 / VALIDATE": {
+    "ko": "02 / 검증 (VALIDATE)"
+  },
+  "Company RAG cross-checks context and preserves source lineage.": {
+    "ko": "엔터프라이즈 RAG가 컨텍스트를 교차 검증하고 소스 계보(Lineage)를 완벽히 보존합니다."
+  },
+  "03 / ACTIVATE": {
+    "ko": "03 / 활성화 (ACTIVATE)"
+  },
+  "Partner offers and unmanned media distribute the verified intelligence.": {
+    "ko": "파트너 오퍼와 무인화 미디어를 통해 검증된 인텔리전스를 배포합니다."
+  },
+  "Commercial outcomes refresh the next intelligence cycle.": {
+    "ko": "상업적 성과는 다음 인텔리전스 사이클을 지속적으로 리프레시합니다."
+  },
+  "For *SC - Intl AI Data Alliance (IADA), the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC - 국제 AI 데이터 연합(IADA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+  },
+  "01 / CONNECT": {
+    "ko": "01 / 연결 (CONNECT)"
+  },
+  "Independent manufacturers, clinics, distributors, and creators join.": {
+    "ko": "독립 제조업체, 클리닉, 유통사 및 크리에이터가 생태계에 참여합니다."
+  },
+  "02 / ALIGN": {
+    "ko": "02 / 정렬 (ALIGN)"
+  },
+  "IATA and IADA coordinate trade execution and verified intelligence.": {
+    "ko": "IATA와 IADA가 무역 실행과 검증된 인텔리전스를 유기적으로 조율합니다."
+  },
+  "Shared AI infrastructure turns partner intent into cross-border action.": {
+    "ko": "공유 AI 인프라는 파트너의 비즈니스 인텐트를 즉각적인 크로스보더 실행으로 전환합니다."
+  },
+  "04 / RECYCLE": {
+    "ko": "04 / 재순환 (RECYCLE)"
+  },
+  "Settlement and data feedback strengthen the next opportunity.": {
+    "ko": "정산 및 데이터 피드백 루프가 다음 비즈니스 기회의 정밀도를 강화합니다."
+  },
+  "For *SC - Intl Alliance: Sovereign AI Trade & Data Federation, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC - 국제 연합: 소버린 AI 무역 & 데이터 연합의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+  },
+  "Signal Star governance links one strategic spark to shared AI execution and federated global outcomes.": {
+    "ko": "Signal Star 거버넌스는 단 하나의 전략적 스파크를 공유 AI 실행 및 연합형 글로벌 성과로 연계합니다."
+  },
+  "The domain topology separates distinct operating roles while sharing one constitutional and AI engine.": {
+    "ko": "도메인 토폴로지는 단일 헌법 및 AI 엔진을 공유하면서도 독립된 운영 역할을 명확히 분리합니다."
+  },
+  "EXECUTIVE QUESTION -> OPERATING ANSWER": {
+    "ko": "경영진 전략 질의 -> 현장 운영 솔루션"
+  },
+  "Signal Star Universe One Spark, Infinite Galaxifying turns shared infrastructure into domain-specific action.": {
+    "ko": "Signal Star Universe의 One Spark, Infinite Galaxifying 프레임워크는 공유 인프라를 도메인 특화 실행으로 즉각 전환합니다."
+  },
+  "For Signal Star Universe One Spark, Infinite Galaxifying, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "Signal Star Universe One Spark, Infinite Galaxifying 환경에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+  },
+  "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{Raw}}\\rangle \\otimes \\beta |F_{\\text{Factory}}\\rangle \\otimes \\gamma |L_{\\text{Logistics}}\\rangle \\otimes \\delta |B_{\\text{Bank}}\\rangle \\xrightarrow{\\hat{M}_{\\text{Vision}}} |\\text{Settled}_{t=0}\\rangle Where $\\hat{M}_{\\text{Vision}}$ is the Gemini Vision optical audit operator. The instant warehouse CCTV verifies physical pallet arrival, the wave function collapses into four simultaneous ledger updates: factory COGS payout ($70\\%$), platform reserve ($30\\%$), instant VAT remittance, and client credit release. \\Delta S_{\\text{entropy}} = k_B \\ln\\left(\\frac{W_{\\text{unverified}}}{W_{\\text{optical}}}\\right) \\longrightarrow 0 \\quad \\text{and} \\quad CCC = \\text{DIO} + \\text{DSO} - \\text{DPO} \\xrightarrow{t=0} 0 Physical inventory entropy $\\Delta S$ approaches zero via continuous 60-second optical observation, collapsing the traditional 90-day cash conversion cycle ($CCC$) to instantaneous settlement ($t=0$).": {
+    "ko": "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{Raw}}\\rangle \\otimes \\beta |F_{\\text{Factory}}\\rangle \\otimes \\gamma |L_{\\text{Logistics}}\\rangle \\otimes \\delta |B_{\\text{Bank}}\\rangle \\xrightarrow{\\hat{M}_{\\text{Vision}}} |\\text{Settled}_{t=0}\\rangle (여기서 $\\hat{M}_{\\text{Vision}}$은 Gemini Vision 광학 감사 연산자임). 물류창고 CCTV가 물리적 팔레트 입고를 검증하는 즉시 파동함수는 4개의 동시 원장 업데이트(공장 COGS 지급($70\\%$), 플랫폼 유보금($30\\%$), 실시간 VAT 송금, 고객 여신 한도 해제)로 붕괴됩니다. \\Delta S_{\\text{entropy}} = k_B \\ln\\left(\\frac{W_{\\text{unverified}}}{W_{\\text{optical}}}\\right) \\longrightarrow 0 \\quad \\text{및} \\quad CCC = \\text{DIO} + \\text{DSO} - \\text{DPO} \\xrightarrow{t=0} 0. 60초 단위의 지속적인 광학 관측을 통해 물리적 재고 엔트로피 $\\Delta S$가 0에 수렴함으로써, 전통적인 90일 현금전환주기($CCC$)를 즉각 정산($t=0$) 상태로 붕괴시킵니다."
+  },
+  "|\\Phi^+\\rangle_{\\text{Global}} = \\frac{1}{\\sqrt{8}} \\sum_{k=1}^{8} |\\text{Node}_k\\rangle \\otimes |\\text{Inventory}_k, \\text{Tariff}_k, \\text{Settlement}_k\\rangle \\quad \\text{with} \\quad \\lim_{\\Delta t \\to 0} \\mathcal{L}_{\\text{mesh}} = \\tau_{\\text{crypto}} A change in warehouse inventory state in Jakarta ($k=2$) or a regulatory gazette update in Seoul ($k=1$) collapses the global state non-locally at $t=0$, updating all connected AI agents across the 12-domain matrix without message-passing drift. \\text{Compute Arbitrage Ratio: } \\mathcal{R}_{\\text{Opex}} = \\frac{\\sum_{i} Q_i \\cdot \\text{Cost}(\\text{Frontier})}{\\sum_{i} Q_i \\cdot [\\omega_{\\text{flash}} C_{\\text{flash}} + \\omega_{\\text{rag}} C_{\\text{rag}} + \\omega_{\\text{reason}} C_{\\text{reason}}]} \\ge 11.6\\times Where dynamic routing allocates 84% of queries to ultra-low-cost Flash models ($\\omega_{\\text{flash}} = 0.84$), 12% to zero-hallucination vector RAG ($\\omega_{\\text{rag}} = 0.12$), and 4% to deep reasoning engines ($\\omega_{\\text{reason}} = 0.04$), delivering an 11.6x structural compute cost advantage over monolithic deployments.": {
+    "ko": "|\\Phi^+\\rangle_{\\text{Global}} = \\frac{1}{\\sqrt{8}} \\sum_{k=1}^{8} |\\text{Node}_k\\rangle \\otimes |\\text{Inventory}_k, \\text{Tariff}_k, \\text{Settlement}_k\\rangle \\quad (단, \\lim_{\\Delta t \\to 0} \\mathcal{L}_{\\text{mesh}} = \\tau_{\\text{crypto}}). 자카르타($k=2$)의 창고 재고 상태 변화 또는 서울($k=1$)의 규제 공보 개정은 $t=0$ 시점에 글로벌 상태를 비국소적으로 붕괴시켜, 메시지 전달 드리프트 없이 12개 도메인 매트릭스 전반의 모든 연결된 AI 에이전트를 즉각 업데이트합니다. \\text{연산 차익거래 비율: } \\mathcal{R}_{\\text{Opex}} = \\frac{\\sum_{i} Q_i \\cdot \\text{Cost}(\\text{Frontier})}{\\sum_{i} Q_i \\cdot [\\omega_{\\text{flash}} C_{\\text{flash}} + \\omega_{\\text{rag}} C_{\\text{rag}} + \\omega_{\\text{reason}} C_{\\text{reason}}]} \\ge 11.6\\times. 동적 라우팅을 통해 쿼리의 84%를 초저비용 Flash 모델에 할당하고($\\omega_{\\text{flash}} = 0.84$), 12%를 환각 제로 벡터 RAG에($\\omega_{\\text{rag}} = 0.12$), 4%를 심층 추론 엔진에 배분함으로써($\\omega_{\\text{reason}} = 0.04$), 모놀리식 배포 대비 11.6배의 구조적 연산 비용 우위를 제공합니다."
+  },
+  "|\\Phi_{\\text{Trade}}\\rangle = \\frac{1}{2} \\left( |B_0 M_0 L_0 S_0\\rangle + |B_1 M_1 L_1 S_1\\rangle \\right) \\xrightarrow{\\hat{M}_{\\text{CCTV}}} |\\text{Settled}\\rangle_{t=0} Where $B$ is the Buyer, $M$ is the Manufacturer, $L$ is the Logistics Carrier, and $S$ is *SC Holding. The 4-way clearing operator settles all accounts simultaneously at $t=0$, collapsing traditional 90-day cash conversion cycles ($CCC \\to 0$). \\Delta \\text{Profit} = \\sum_{k} \\left[ \\text{Duty\\_Saved}_k(\\text{FTA}) + \\text{Margin\\_Gain}_k(\\text{Direct}) - \\text{Toll}_{\\text{K-SURE}} \\right] \\ge 28.4\\% Net profit expansion exceeds 28.4% compared to legacy broker intermediation, unlocked by zero-tariff treaty routing and sovereign insurance guarantees.": {
+    "ko": "|\\Phi_{\\text{Trade}}\\rangle = \\frac{1}{2} \\left( |B_0 M_0 L_0 S_0\\rangle + |B_1 M_1 L_1 S_1\\rangle \\right) \\xrightarrow{\\hat{M}_{\\text{CCTV}}} |\\text{Settled}\\rangle_{t=0} (여기서 $B$는 바이어, $M$은 제조사, $L$은 물류 운송사, $S$는 *SC Holding임). 4자 동시 결제·청산 오퍼레이터는 $t=0$ 시점에 전 계정을 즉각 결제·정산하여, 전통적인 90일 현금전환주기($CCC \\to 0$)를 영(0)으로 수축시킴. \\Delta \\text{Profit} = \\sum_{k} \\left[ \\text{Duty\\_Saved}_k(\\text{FTA}) + \\text{Margin\\_Gain}_k(\\text{Direct}) - \\text{Toll}_{\\text{K-SURE}} \\right] \\ge 28.4\\% 무관세 협정 기반 최적 경로 라우팅과 국가 주권 보험(K-SURE) 보증을 통해, 기존 중개 브로커 구조 대비 28.4%를 초과하는 순이익률 확장을 달성함."
+  },
+  "From 6.4% Industry Avg -> < 0.06% Verified": {
+    "ko": "업계 평균 6.4% → 검증치 < 0.06%"
+  },
+  "Real-Time Proof-of-Reserve for Qubit Bank BNPL": {
+    "ko": "Qubit Bank BNPL을 위한 실시간 지급준비금 증명(Real-Time Proof-of-Reserve)"
+  },
+  "Upfront CAC Risk: $0.00 (100% Post-Settlement Split) Platform Retention: 70% Net Fee Capture at t = 0 Viral Loop Allocation: 30% Instant Buyer/Challenger Reward": {
+    "ko": "선행 CAC(고객획득비용) 리스크: $0.00 (100% 사후 정산 배분) 플랫폼 마진 확보: t = 0 시점 순수수료 70% 수취 바이럴 루프 배분: 구매자/챌린저 즉각 보상에 30% 배정"
+  },
+  "Retail Entry Point: Rp 1,320 (~$0.085 USD / Sachet) Gross Margin Band: 45% - 65% via Local Repacking Distribution Network: Warungs, Clinics & S1-S6 Challengers": {
+    "ko": "소매 진입 단가: Rp 1,320 (약 $0.085 USD / 사셰) 매출총이익률(Gross Margin) 밴드: 현지 소분 재포장을 통해 45% - 65% 확보 유통 네트워크: 와룽(Warung), 로컬 클리닉 및 S1-S6 챌린저"
+  },
+  "Cart Abandonment Drop: Reduced from 74% to 28% Viral Referral Lift: 3.4x Organic Social Shares per Buyer Escrow Protection: 100% Automated Tier-Rebate Settlement": {
+    "ko": "장바구니 이탈률(Cart Abandonment) 감소: 74%에서 28%로 축소 바이럴 추천 부스팅: 구매자당 3.4배의 오가닉 소셜 공유 확산 에스크로 보호: 100% 자동화된 티어별 리베이트 정산"
+  },
+  "Watch-to-Buy Rate: 22.5% Direct In-Stream Checkout Stream Uptime: 24/7 Hybrid Human + AI Avatar Broadcasts Language Support: EN, KR, ID, VN, CN, JP Synchronized": {
+    "ko": "시청 대비 구매 전환율(Watch-to-Buy Rate): 22.5% 라이브 스트림 내 즉각 결제 스트리밍 가동률: 24/7 무중단 인간+AI 아바타 하이브리드 방송 다국어 지원: EN, KR, ID, VN, CN, JP 실시간 동기화"
+  },
+  "Nocturnal Duty Cycle: 10 PM -> 8 AM Unmanned Harvesting, ETL, Embedding & Synthesis Retrieval Precision: 99.4% Top-3 Citation Accuracy | 0% Unverified Hallucination Morning Output (08:00 AM): Executive Brief + Arbitrage Alerts + Pre-Built B2B Proposals": {
+    "ko": "심야 듀티 사이클: 22:00 -> 08:00 무인 하베스팅, ETL, 임베딩 및 종합 검색 정밀도: 99.4% Top-3 인용 정확도 | 미검증 환각(Hallucination) 0% 익일 아침 인텔리전스(08:00 AM): C-Level 경영 브리프 + 차익거래 알림 + 사전 구성된 B2B 제안서"
+  },
+  "02. TikTok Live & Reels (ID / VN / KR)": {
+    "ko": "02. 틱톡 라이브 및 릴스 (ID / VN / KR)"
+  },
+  "VOICE LATENCY < 900 ms RAG": {
+    "ko": "음성 지연 시간 < 900 ms RAG"
+  },
+  "STUDIO COST -94% vs Human": {
+    "ko": "스튜디오 비용 인력 대비 -94%"
+  },
+  "CHECKOUT TIME 1.8 Sec One-Tap": {
+    "ko": "체크아웃 시간 1.8초 원탭"
+  },
+  "CHAT PARSER Ms. Scarlet NLP": {
+    "ko": "채팅 파서 Ms. Scarlet NLP"
+  },
+  "PROTOCOL SPECIFICATION // MALL.SISTV IN-FRAME OVERLAY & SPELL PAYLOAD": {
+    "ko": "프로토콜 사양 // MALL.SISTV 인프레임 오버레이 및 주문(SPELL) 페이로드"
+  },
+  "EQUATION 4.1 // IN-FRAME QUANTUM CONVERSION & SYNCHRONIZED BROADCAST POOLING HAMILTONIAN CVR_sisTV(t) = CVR_0 * exp( -lambda * Delta_t_spell ) * [ 1 + gamma * ( Q_pool(t) / Q_tier3 )^alpha ]": {
+    "ko": "방정식 4.1 // 인프레임 양자 전환 및 동기화 브로드캐스트 풀링 해밀토니안 CVR_sisTV(t) = CVR_0 * exp( -lambda * Delta_t_spell ) * [ 1 + gamma * ( Q_pool(t) / Q_tier3 )^alpha ]"
+  },
+  "DOMAIN 04 ??SCARLET-AI // L2 NODE 08: SISCART.ID": {
+    "ko": "도메인 04 ??SCARLET-AI // L2 노드 08: SISCART.ID"
+  },
+  "Figure 11.1: End-to-End Wassenaar Compliance, End-User Screening, and Bonded Fast-Track Execution.": {
+    "ko": "그림 11.1: 엔드투엔드 바세나르 체제 준수, 최종 사용자 심사 및 보세 패스트트랙 집행."
+  },
+  "Figure 11.2: Cross-Border Technology Equipment Leasing, Sovereign Guarantee, and Multilateral Escrow Circuit.": {
+    "ko": "그림 11.2: 국경 간 첨단 기술 장비 리스, 주권 보증 및 다자간 에스크로 서킷."
+  },
+  "Figure 11.3: Distributed Sourcing, Sub-Assembly, and Quality Assurance Across 8 Sovereign Nodes.": {
+    "ko": "그림 11.3: 8개 주권 노드 전반의 분산 조달, 하위 조립 및 품질 보증(QA)."
+  },
+  "Nightly Window: 10:00 PM -> 08:00 AM Unmanned Batch Asset Output: 120+ Localized Quests & Drop Tables / Night Human Live-Ops Staff: 0 Headcount (100% Autonomous Agent Swarm)": {
+    "ko": "야간 가동 윈도우: 22:00 -> 익일 08:00 무인 배치 에셋 산출: 야간당 120개 이상의 현지화 퀘스트 및 드롭 테이블 운영 인력: 0명 (100% 자율 에이전트 스웜 구동)"
+  },
+  "Knowledge Grounding: NotebookLM Verified Corpus + Dify API Hallucination Rate: 0.00% (Strict Citation-Locked Generation) Educational Conversion: +310% Brand Recall vs. Video Ads": {
+    "ko": "지식 그라운딩: NotebookLM 검증 코퍼스 + Dify API 환각률(Hallucination Rate): 0.00% (엄격한 인용 고정 생성) 교육 전환율: 동영상 광고 대비 브랜드 회상도 +310%"
+  },
+  "Inventory Sync Latency: < 250ms CCTV Vision -> Loot Table API Redemption Stockout Rate: < 0.05% Across 8 Global Bases 8-Team AI ERP Integration: Supply, Finance, Logistics, CRM, Legal, HR, R&D, Tax": {
+    "ko": "재고 동기화 지연 시간: < 250ms CCTV 비전 -> 루팅 테이블 API 리딤 품절률: 글로벌 8개 거점 전반 < 0.05% 8개 핵심 부서 AI ERP 연동: 공급망, 재무, 물류, CRM, 법무, 인사, R&D, 조세"
+  },
+  "Dynamic Affiliate Quota Throttling": {
+    "ko": "동적 제휴 쿼터 스로틀링(Throttling)"
+  },
+  "Autonomous Script Dispatch Pipeline (Delivered at 08:00 AM)": {
+    "ko": "자율 스크립트 디스패치 파이프라인 (08:00 AM 일괄 전송)"
+  },
+  "Simultaneous Cross-Border Marketing Synchronization": {
+    "ko": "글로벌 크로스보더 동시 마케팅 싱크로나이제이션"
+  },
+  "The Time Bank: Quantizing Specialist Expertise & Challenger Execution into Liquid Equity": {
+    "ko": "타임 뱅크(The Time Bank): 전문성 및 챌린저 실행력의 양자화 기반 유동성 지분화"
+  },
+  "Space Bank & Idea Bank: Optical Warehouse Tokenization and RAG-Locked IP Royalties": {
+    "ko": "스페이스 뱅크 & 아이디어 뱅크: 광학 물류창고 토큰화 및 RAG 고정형 IP 로열티 구조"
+  },
+  "Mathematical Formalism: Tri-Partite State Superposition & Zero-Cash Clearing Equations": {
+    "ko": "수학적 정식화: 삼자 상태 중첩 및 무현금 청산 방정식"
+  },
+  "01. Time Bank": {
+    "ko": "01. 타임 뱅크(Time Bank)"
+  },
+  "02. Space Bank": {
+    "ko": "02. 스페이스 뱅크(Space Bank)"
+  },
+  "Packaging topical cosmetics and veterinary dietary solutions requires strict cleanroom discipline (ISO Class 7 / Class 8, cGMP, and BPOM CPKB standards). NotebookLM grounds all robotic operations in certified compliance protocols.": {
+    "ko": "국소용 화장품 및 수의학적 식이 솔루션의 패키징은 엄격한 클린룸 규율(ISO Class 7 / Class 8, cGMP 및 BPOM CPKB 표준)을 요구합니다. NotebookLM은 모든 로봇 운영 프로세스를 공인된 규제 준수 프로토콜에 기반하여 정립합니다."
+  },
+  "Compiles ultralight, sub-50KB initial payload storefronts optimized for tier-3 emerging market bandwidth, delivering sub-300ms First Contentful Paint (FCP) across 240+ global POPs.": {
+    "ko": "티어 3 신흥국 시장의 대역폭 환경에 최적화된 50KB 미만의 초경량 초기 페이로드 스토어프론트를 컴파일하여, 전 세계 240개 이상의 POP 전역에서 300ms 미만의 FCP(First Contentful Paint)를 구현합니다."
+  },
+  "Autonomous provisioning of localized QRIS, Virtual Account, credit card, and e-wallet webhooks, linking checkout events straight into the automated 70/30 split payment gateway.": {
+    "ko": "현지화된 QRIS, 가상계좌(Virtual Account), 신용카드 및 전자지갑 웹훅의 자율 프로비저닝을 통해 결제 이벤트를 자동화된 70/30 분할 정산 결제 게이트웨이로 직접 연동합니다."
+  },
+  "Dynamically generates a scannable QR code resolving to the official BPOM portal (cekbpom.pom.go.id), verifying notification number, registered manufacturer (PT Sistar Sinergi Berjaya), and active ingredients.": {
+    "ko": "인도네시아 식약청(BPOM) 공식 포털(cekbpom.pom.go.id)로 연결되는 스캔 가능한 QR 코드를 동적으로 생성하여 허가 번호, 등록된 제조사(PT Sistar Sinergi Berjaya) 및 유효 활성 성분을 즉각 검증합니다."
+  },
+  "Embeds verifiable Halal assurance marks confirming porcine-free raw materials, clean room sanitization logs, and raw material traceability back to primary chemical synthesis partners.": {
+    "ko": "돼지 유래 원료 배제(Porcine-free), 클린룸 멸균 소독 로그, 1차 화학 합성 파트너까지 역추적 가능한 원자재 이력 추적성을 보증하는 검증 가능한 할랄(Halal) 인증 마크를 임베딩합니다."
+  },
+  "Enables instant one-touch selection between Single Trial (IDR 15,000), 7-Day Intensive (IDR 75,000), and 30-Day Regimen (IDR 250,000) with automatic shipping subsidies.": {
+    "ko": "1회 체험용(15,000 IDR), 7일 집중 케어(75,000 IDR), 30일 레지멘(250,000 IDR) 옵션 간 원터치 선택 및 배송비 자동 보조금 적용을 지원합니다."
+  },
+  "Algorithmically pairs brightening serums with peptide sunscreens at cart checkout, lifting average order value (AOV) by +42.6% without increasing marketing spend.": {
+    "ko": "장바구니 결제 단계에서 브라이트닝 세럼과 펩타이드 선스크린을 알고리즘 기반으로 교차 제안하여 마케팅 비용 증가 없이 평균 주문 가치(AOV)를 +42.6% 제고합니다."
+  },
+  "Automates bi-weekly recurring sachet delivery via recurring e-wallet debits, ensuring perpetual customer lifetime value (LTV) and predictable factory manufacturing schedules.": {
+    "ko": "전자지갑 자동 이체를 통한 격주 단위 사셰 정기 배송을 자동화하여 지속적인 고객 생애 가치(LTV)를 확보하고 공장 제조 일정의 예측 가능성을 극대화합니다."
+  },
+  "Traditional monolithic e-commerce platforms suffer from bloated client-side JavaScript bundles and server-side latency that devastate mobile conversion rates in emerging markets. Qubit Web Builder implements an edge-native, zero-hydration micro-storefront architecture built on top of Cloudflare Workers and Fastly Compute@Edge.": {
+    "ko": "기존의 모놀리식 이커머스 플랫폼은 비대해진 클라이언트 측 자바스크립트 번들과 서버 측 레이턴시로 인해 신흥 시장에서의 모바일 전환율을 심각하게 저하시킵니다. Qubit Web Builder는 Cloudflare Workers 및 Fastly Compute@Edge를 기반으로 구축된 엣지 네이티브, 제로 하이드레이션(Zero-hydration) 마이크로 스토어프론트 아키텍처를 구현합니다."
+  },
+  "Product catalogs, interactive sachet quantity selectors, and real-time inventory levels are cached directly on edge points of presence (POPs). When an end consumer visits a Cosmo Seed™ storefront, dynamic server-side rendering occurs within 15 milliseconds of the nearest cellular base station.": {
+    "ko": "제품 카탈로그, 인터랙티브 사셰 수량 선택기 및 실시간 재고 수준이 엣지 거점(POP)에 직접 캐싱됩니다. 최종 소비자가 Cosmo Seed™ 스토어프론트에 접속하면 가장 인접한 기지국 기준 15밀리초(ms) 이내에 동적 서버 사이드 렌더링이 수행됩니다."
+  },
+  "Cosmetic e-commerce in Southeast Asia and global markets requires absolute consumer trust. Illegitimate claims or unverified certifications result in high cart abandonment and regulatory penalties. Qubit Web Builder links directly with national regulatory verification databases to programmatically stamp genuine cryptographic trust badges onto every storefront.": {
+    "ko": "동남아시아 및 글로벌 시장의 코스메틱 이커머스는 소비자의 절대적인 신뢰를 전제로 합니다. 부적격한 효능 주장이나 미검증 인증은 높은 이탈률과 규제 당국의 처벌로 이어집니다. Qubit Web Builder는 각국 규제 기관의 검증 데이터베이스와 직접 연동하여 모든 스토어프론트에 진본성을 증명하는 암호학적 신뢰 배지를 프로그래밍 방식으로 날인합니다."
+  },
+  "During the automated compilation phase, the system performs a bidirectional API verification with Indonesian BPOM registration endpoints and MUI Halal certification ledgers. Once validated, an interactive SVG cryptographic badge is embedded into the product header, allowing mobile shoppers to tap and instantly inspect the authentic government dossier.": {
+    "ko": "자동화된 컴파일 단계에서 시스템은 인도네시아 BPOM 등록 엔드포인트 및 MUI 할랄 인증 원장과의 양방향 API 검증을 수행합니다. 검증이 완료되면 인터랙티브 SVG 암호화 배지가 제품 헤더에 임베딩되어 모바일 고객이 이를 터치함으로써 정부 공인 원본 문서를 즉각 확인할 수 있습니다."
+  },
+  "At the core of the Cosmo Seed™ economic model is the automated dual-return settlement protocol. Monolithic e-commerce plugins require manual bookkeeping or delayed merchant payouts to divide sales revenue between the manufacturing facility and corporate reserves.": {
+    "ko": "Cosmo Seed™ 경제 모델의 핵심은 자동화된 듀얼 리턴(Dual-return) 정산 프로토콜입니다. 기존의 모놀리식 이커머스 플러그인은 제조 시설과 본사 유보금 간의 매출 배분을 위해 수기 장부 관리나 지연된 정산 주기에 의존해야 했습니다."
+  },
+  "Qubit Web Builder natively embeds a dual-ledger PG webhook router. Whenever a customer completes payment via QRIS, GoPay, OVO, ShopeePay, Virtual Account, or international credit card, the webhook triggers an atomic dual-split transaction:": {
+    "ko": "Qubit Web Builder는 듀얼 원장 PG 웹훅 라우터를 기본 내장하고 있습니다. 고객이 QRIS, GoPay, OVO, ShopeePay, 가상계좌 또는 해외 신용카드로 결제를 완료하는 즉시, 웹훅이 원자적(Atomic) 듀얼 분할 정산 트랜잭션을 트리거합니다:"
+  },
+  "Storefront Conversion Velocity Index & Instant Settlement Distribution Formula V_{storefront} = \\sum_{k=1}^N \\frac{C_k \\cdot T_{render}^{-1}}{L_{latency}} \\cdot \\left[ \\alpha \\cdot \\text{PWA}_{cache} + \\beta \\cdot \\text{PG}_{webhook} \\right] Where $V_{storefront}$ represents the composite sales velocity of an edge-deployed storefront, $C_k$ is the conversion probability of micro-sachet SKU $k$, $T_{render}$ is the server-side first-byte render latency (< 25ms), $L_{latency}$ is cellular hop latency, $\\text{PWA}_{cache}$ is the local service worker caching efficiency factor, and $\\text{PG}_{webhook}$ is the sub-second webhook split routing success probability (99.99%).": {
+    "ko": "스토어프론트 전환 속도 지수 및 즉각 정산 분배 공식: V_{storefront} = \\sum_{k=1}^N \\frac{C_k \\cdot T_{render}^{-1}}{L_{latency}} \\cdot \\left[ \\alpha \\cdot \\text{PWA}_{cache} + \\beta \\cdot \\text{PG}_{webhook} \\right] 여기서 $V_{storefront}$는 엣지 배포 스토어프론트의 종합 매출 속도를 나타내며, $C_k$는 마이크로 사셰 SKU $k$의 전환 확률, $T_{render}$는 서버 측 최초 바이트 렌더링 지연 시간(< 25ms), $L_{latency}$는 무선 통신 홉 지연 시간, $\\text{PWA}_{cache}$는 로컬 서비스 워커 캐싱 효율 계수, $\\text{PG}_{webhook}$은 1초 미만 웹훅 분할 라우팅 성공 확률(99.99%)을 의미합니다."
+  },
+  "Cosmo Seed™ consumer adoption in Indonesia and emerging Asian markets is fundamentally powered by low-barrier sachet pricing. Selling large 100ml bottles creates prohibitive upfront costs for mass consumers. Instead, Qubit Web Builder automatically configures dynamic 5ml to 10ml sachet bundle selectors.": {
+    "ko": "인도네시아 및 아시아 신흥 시장에서 Cosmo Seed™의 소비자 도입은 진입 장벽이 낮은 사셰(Sachet) 가격 정책에 근간을 두고 있습니다. 대용량 100ml 병 단위 판매는 대중 소비자에게 과도한 초기 비용 부담을 유발합니다. 이에 Qubit Web Builder는 5ml에서 10ml 규격의 동적 사셰 번들 선택기를 자동 구성합니다."
+  },
+  "The storefront frontend features an interactive, reactive sachet pricing calculator. As the user slides from 3 sachets to 10 or 30 sachets, the real-time cost per application drops dynamically, showing comparative savings against premium luxury department store brands while maintaining healthy gross margins above 65%.": {
+    "ko": "스토어프론트 프론트엔드는 인터랙티브 반응형 사셰 가격 계산기를 탑재하고 있습니다. 사용자가 슬라이더를 3개에서 10개 또는 30개로 조정함에 따라 1회 사용당 실시간 단가가 동적으로 절감되며, 65% 이상의 건전한 매출총이익률을 유지하면서 프리미엄 백화점 럭셔리 브랜드 대비 우수한 비용 절감 효과를 가시화합니다."
+  },
+  "A digital storefront cannot operate in isolation. In modern digital commerce, sales occur across decentralized social channels including TikTok Shop, Shopee, Instagram Live, and direct WhatsApp commerce.": {
+    "ko": "디지털 스토어프론트는 단독으로 고립되어 운영될 수 없습니다. 현대 디지털 커머스 환경에서 매출은 TikTok Shop, Shopee, Instagram Live 및 직거래 WhatsApp 커머스를 포함한 탈중앙화된 소셜 채널 전반에서 발생합니다."
+  },
+  "Qubit Web Builder automatically compiles structured JSON-LD Schema.org microdata (Product, Review, MedicalCondition, Organization) for optimal Google Merchant indexing. Concurrently, it exposes real-time catalog feeds formatted for TikTok Shop API, Shopee OpenAPI, and WhatsApp Business Catalogs.": {
+    "ko": "Qubit Web Builder는 최적의 Google Merchant 색인을 위해 구조화된 JSON-LD Schema.org 마이크로데이터(Product, Review, MedicalCondition, Organization)를 자동 컴파일합니다. 이와 동시에 TikTok Shop API, Shopee OpenAPI 및 WhatsApp Business 카탈로그 규격에 맞춘 실시간 카탈로그 피드를 제공합니다."
+  },
+  "To establish institutional leadership, Qubit Web Builder has been evaluated against prevailing global web and e-commerce platforms. The matrix below demonstrates dramatic improvements in deployment velocity, edge performance, regulatory compliance automation, and automated split settlements.": {
+    "ko": "기관 수준의 입지를 확립하기 위해, Qubit Web Builder는 주요 글로벌 웹 및 이커머스 플랫폼과 비교 평가되었습니다. 아래 매트릭스는 배포 속도, 엣지 성능, 규제 준수 자동화 및 자동 분할 정산 측면에서 달성한 비약적인 성능 향상을 입증합니다."
+  },
+  "CHAPTER I • DOMAIN 05 MASTER PORTAL COSMO SEED™ LAUNCHPAD • FINANCIAL CLEARINGHOUSE": {
+    "ko": "제1장 • 도메인 05 마스터 포털 COSMO SEED™ 런치패드 • 금융 청산 결제원"
+  },
+  "CHAPTER VI • TRACK I SAAS COMMERCIALIZATION INTERNAL DOGFOODING -> EXTERNAL B2B SAAS": {
+    "ko": "제6장 • 트랙 I SaaS 상용화: 내부 도그푸딩(Dogfooding) -> 외부 B2B SaaS 확장"
+  },
+  "A defining principle of the `*SC` Master PRD is that software is never built as speculative vaporware. Every Track I technology project is first battle-tested across our own 8 international bases (`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`) and our own physical Track II verticals (`Smart ODM Rp 1,320 Sachet`, `MedIX / SISPet`, `FlexKids AI`, `Mint S1–S6 Franchises`). Once proven to eliminate 100% of internal administrative friction, it is multi-tenant packaged on `qubit-biz`.": {
+    "ko": "`*SC` 마스터 PRD의 핵심 원칙은 소프트웨어를 결코 투기적 베이퍼웨어(Vaporware)로 개발하지 않는다는 점입니다. 모든 트랙 I 기술 프로젝트는 당사의 8개 글로벌 거점(`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`)과 자체 실물 트랙 II 버티컬(`Smart ODM Rp 1,320 Sachet`, `MedIX / SISPet`, `FlexKids AI`, `Mint S1–S6 Franchises`) 전반에서 철저한 실전 검증을 거칩니다. 내부 행정적 마찰을 100% 제거하는 것으로 입증된 후에야 비로소 `qubit-biz` 기반의 멀티테넌트(Multi-tenant) 솔루션으로 패키징됩니다."
+  },
+  "Figure 6.1 — The Track I SaaS Commercialization Pipeline: Converting Internal `*SC` Enterprise Infrastructure into High-Margin Multi-Tenant ARR.": {
+    "ko": "그림 6.1 — 트랙 I SaaS 상용화 파이프라인: 내부 `*SC` 엔터프라이즈 인프라를 고마진 멀티테넌트 ARR(연간 반복 매출)로 전환."
+  },
+  "Unlike legacy enterprise software vendors that demand six-figure upfront implementation fees before delivering value, `qubit-biz` allows qualifying B2B partners to onboard onto Qubit ERP, C.A.N., and Qubit Web Builder with zero upfront cash by routing SaaS fees out of their 30% PG margin pool or offsetting subscription costs with verified Space Bank / Idea Bank contributions.": {
+    "ko": "실질적 가치 창출에 앞서 수억 원대(Six-figure)의 초기 도입 비용을 요구하는 기존 엔터프라이즈 소프트웨어 벤더와 달리, `qubit-biz`는 SaaS 라이선스 비용을 파트너사의 30% PG 마진 풀에서 분할 공제하거나 검증된 Space Bank / Idea Bank 기여도로 상계(Offsetting) 처리함으로써, 적격 B2B 파트너가 초기 현금 부담 제로(Zero upfront cash)로 Qubit ERP, C.A.N., Qubit Web Builder를 즉각 도입할 수 있도록 지원합니다."
+  },
+  "CHAPTER VII • PARTNER & INVESTOR ECONOMICS DUAL-TRACK FIREWALL • IR VALUATION MATRIX": {
+    "ko": "제7장 • 파트너 및 투자자 경제학: 듀얼 트랙 방화벽(Dual-Track Firewall) • IR 밸류에이션 매트릭스"
+  },
+  "Protected by the *SC Triple Control Towers and our strict Dual-Track Legal Firewall—which isolates upstream `SC Index` holding intellectual property and algorithmic patents from downstream commercial operating liabilities—`qubit-biz` delivers institutional-grade governance for global partners (`partnership`), entrepreneurial autonomy for `SISTAR Challengers`, and high-multiple recurring cashflows for venture and sovereign investors (`ir-pitchdeck`).": {
+    "ko": "*SC 트리플 컨트롤 타워(Triple Control Towers)와 상위 지식재산권 및 알고리즘 특허 보유사인 `SC Index`를 하위 상업 운영 리스크로부터 완전 격리하는 엄격한 듀얼 트랙 법적 방화벽의 보호 아래, `qubit-biz`는 글로벌 파트너(`partnership`)에게는 기관급 거버넌스를, `SISTAR Challengers`에게는 기업가적 자율성을, 벤처 및 국부 펀드 투자자(`ir-pitchdeck`)에게는 고멀티플의 반복 현금흐름을 제공합니다."
+  },
+  "Legacy Trading / Venture Conglomerate": {
+    "ko": "전통적 무역상사 / 벤처 복합기업(Legacy Trading / Venture Conglomerate)"
+  },
+  "Standalone SaaS / Marketplace Startup": {
+    "ko": "단독형 SaaS / 마켓플레이스 스타트업(Standalone SaaS / Marketplace Startup)"
+  },
+  "*SC Domain 05 (`qubit-biz` Cosmo Seed™)": {
+    "ko": "*SC 도메인 05 (`qubit-biz` Cosmo Seed™)"
+  },
+  "Executive Verification & Direct Navigation Across Domain 05": {
+    "ko": "도메인 05 경영진 검증 및 다이렉트 내비게이션"
+  },
+  "Every L2 and L3 module inside `qubit-biz` is live-indexed for autonomous AI discovery and connected across our 8 global operating bases (`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`). Select any specialized node in the left navigator—beginning with 01 Qubit ERP, 02 C.A.N. CEO ActionNote, and 03 Qubit Marketplace Work—to inspect its dedicated institutional monograph, mathematical formalism, and API specifications.": {
+    "ko": "`qubit-biz` 내부의 모든 L2 및 L3 모듈은 자율형 AI 디스커버리를 위해 실시간 색인(live-indexed)되며 당사의 8대 글로벌 거점(`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`)과 유기적으로 상호 연결되어 있습니다. 좌측 내비게이터에서 01 Qubit ERP, 02 C.A.N. CEO ActionNote, 03 Qubit Marketplace Work를 비롯한 특화 노드를 선택하여 전용 기관 모노그래프, 수학적 형식화(Formalism) 및 API 규격을 검토하십시오."
+  },
+  "CLEARING MECHANISM K-SURE BNPL + 70/30 PG + 4-Way Qubit Banks": {
+    "ko": "청산 메커니즘(Clearing Mechanism): K-SURE BNPL + 70/30 PG + 4-Way Qubit Banks"
+  },
+  "EXECUTIVE CONTACT DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "경영진 문의(Executive Contact): DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Domain Root Gateway": {
+    "ko": "도메인 루트 게이트웨이"
+  },
+  "Master Portal Overview": {
+    "ko": "마스터 포털 개요"
+  },
+  "CHAPTER I • DOMAIN 05 MASTER PORTAL": {
+    "ko": "제1장 • 도메인 05 마스터 포털"
+  },
+  "COSMO SEED™ LAUNCHPAD • FINANCIAL CLEARINGHOUSE": {
+    "ko": "COSMO SEED™ 런치패드 • 금융 결제·청산소(Financial Clearinghouse)"
+  },
+  "In the Signal Star Universe, every enterprise tool built to run our 8 international bases (`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`) is simultaneously packaged on `qubit-biz` as a commercial B2B SaaS engine and cross-project liquidity clearinghouse. By combining the 5 Core Cosmo Seed™ Engines, the 4-Way Qubit Banks (`Time`, `Space`, `Idea`, `Petfood`), sovereign K-SURE BNPL export guarantees, and automated 70/30 PG Split Settlement webhooks, `qubit-biz` eliminates capex friction at $t = 0$ and empowers global partners and SISTAR Challengers to launch profitable commercial nodes instantaneously.": {
+    "ko": "시그널 스타 유니버스(Signal Star Universe)에서 당사의 8대 글로벌 거점(`SCK`, `SCI`, `SCV`, `SCJ`, `SCC`, `SCU`, `SCS`, `SCIND`)을 운영하기 위해 구축된 모든 엔터프라이즈 툴은 `qubit-biz` 상에서 상업용 B2B SaaS 엔진이자 크로스 프로젝트 유동성 청산소로 동시 패키징됩니다. 5대 핵심 Cosmo Seed™ 엔진, 4-Way Qubit Banks(`Time`, `Space`, `Idea`, `Petfood`), 공적 보증 기반 K-SURE BNPL, 자동화된 70/30 PG 분할 정산 웹훅을 통합함으로써, `qubit-biz`는 $t = 0$ 시점에서의 Capex 마찰을 원천 배제하고 글로벌 파트너와 SISTAR Challengers가 고수익 상업 노드를 즉각 가동할 수 있도록 지원합니다."
+  },
+  "CHAPTER II • STRUCTURAL PARADIGM SHIFT": {
+    "ko": "제2장 • 구조적 패러다임 전환"
+  },
+  "LEGACY FRICTION VS. QUANTUM OFFSETTING": {
+    "ko": "레거시 마찰 vs. 양자 상계(Quantum Offsetting)"
+  },
+  "CHAPTER III • FINANCIAL CLEARINGHOUSE & OFFSETTING": {
+    "ko": "제3장 • 금융 청산소 및 상계(Offsetting)"
+  },
+  "CHAPTER IV • QUANTUM FINANCIAL FORMALISM": {
+    "ko": "제4장 • 양자 금융 형식화(Quantum Financial Formalism)"
+  },
+  "4-WAY OFFSETTING TENSOR • BELL-STATE SYNERGY": {
+    "ko": "4-WAY 상계 텐서 • 벨 상태 시너지"
+  },
+  "CHAPTER V • COMPLETE 12-NODE ARCHITECTURAL MATRIX": {
+    "ko": "CHAPTER V • 12개 노드 완성형 아키텍처 매트릭스"
+  },
+  "TRACK I SAAS • MARKETPLACES • BANKS • DEEP TECH": {
+    "ko": "TRACK I SAAS • 마켓플레이스 • 뱅킹 • 딥테크"
+  },
+  "CHAPTER VI • TRACK I SAAS COMMERCIALIZATION": {
+    "ko": "CHAPTER VI • TRACK I SAAS 상용화"
+  },
+  "INTERNAL DOGFOODING -> EXTERNAL B2B SAAS": {
+    "ko": "내부 도그푸딩(DOGFOODING) → 외부 B2B SAAS"
+  },
+  "CHAPTER VII • PARTNER & INVESTOR ECONOMICS": {
+    "ko": "CHAPTER VII • 파트너 및 투자자 이코노믹스"
+  },
+  "DUAL-TRACK FIREWALL • IR VALUATION MATRIX": {
+    "ko": "듀얼 트랙 파이어월 • IR 밸류에이션 매트릭스"
+  },
+  "DOMAIN 05 MASTER DOSSIER • QUBIT-BIZ": {
+    "ko": "도메인 05 마스터 도시에 • QUBIT-BIZ"
+  },
+  "SIGNAL STAR UNIVERSE (*SC) • LAYER 3 COMMERCIAL PLATFORM": {
+    "ko": "SIGNAL STAR UNIVERSE (*SC) • 레이어 3 커머셜 플랫폼"
+  },
+  "UPSTREAM ENGINE 02 Qubit-Algorithm & 03 Intelligence-Core CLEARING MECHANISM K-SURE BNPL + 70/30 PG + 4-Way Qubit Banks EXECUTIVE CONTACT DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "업스트림 엔진 02 Qubit-Algorithm & 03 Intelligence-Core 청산 메커니즘 K-SURE BNPL + 70/30 PG + 4-Way Qubit Banks 경영진 문의 DennyKu (denniiku@sistarcompany.com)"
+  },
+  "CHAPTER 01 • EXECUTIVE DOSSIER FLAGSHIP TALENT CLOUD PORTAL": {
+    "ko": "CHAPTER 01 • 최고경영진 전략 보고서: 플래그십 탤런트 클라우드 포털"
+  },
+  "*SC Challengers : Intelligence on Tap": {
+    "ko": "*SC Challengers : 온디맨드 인텔리전스 (Intelligence on Tap)"
+  },
+  "A borderless, 30% net profit-sharing meritocracy, AI specialist certification academy (SISTAR Camp), and distributed \"Vibe Working\" operating system. Rather than absorbing 70%+ of operating capital into rigid office leases, localized payroll taxes, and bureaucratic friction, *SC (SISTAR Company) orchestrates an autonomous global specialist network governed by transparent AI-driven ledgers and shared project equity.": {
+    "ko": "국경 없는 30% 순이익 배분 능력주의(Meritocracy), AI 전문가 인증 아카데미(SISTAR Camp), 그리고 분산형 \"Vibe Working\" 운영체제입니다. *SC(SISTAR Company)는 운영 자본의 70% 이상을 경직된 오피스 임대료, 현지 급여세, 관료주의적 마찰에 소진하는 대신, 투명한 AI 기반 원장과 공유 프로젝트 지분으로 관리되는 자율형 글로벌 전문가 네트워크를 오케스트레이션합니다."
+  },
+  "AUTONOMOUS MERITOCRACY MATRIX LAYER 5 TALENT CORE": {
+    "ko": "자율 능력주의 매트릭스 레이어 5 탤런트 코어"
+  },
+  "The Quantum Workforce: Borderless, Asynchronous, Equity-Aligned": {
+    "ko": "퀀텀 워크포스: 국경 없는, 비동기식의, 지분 연계형 인재풀"
+  },
+  "Conventional enterprise structures collapse under fixed-cost weight during macroeconomic volatility. *SC Challengers inverts the hiring paradigm into an on-demand, hyper-scalable talent alliance. Members contribute to high-conviction ventures across cross-border trade, AI commerce, quantum-inspired optimization, and brand franchising, earning verifiable shares of monthly commercial profits directly audited by Scarlet AI and the Workspace Trilogy.": {
+    "ko": "전통적 기업 구조는 거시경제적 변동성 속에서 고정비의 무게를 견디지 못하고 붕괴합니다. *SC Challengers는 채용 패러다임을 온디맨드 방식의 초확장형 인재 얼라이언스로 전환합니다. 멤버들은 크로스보더 무역, AI 커머스, 양자 영감 최적화(Quantum-inspired Optimization), 브랜드 프랜차이징 등 확신도 높은 벤처에 기여하며, Scarlet AI와 Workspace Trilogy에 의해 직접 감사된 월간 상업적 순이익의 검증 가능한 지분을 수취합니다."
+  },
+  "Net Profit Shared Monthly with Active Contributors": {
+    "ko": "활동 기여자 대상 매월 순이익 배분"
+  },
+  "Global Bases (KR, ID, VN, SG, CN, JP, US, IN)": {
+    "ko": "글로벌 거점 (KR, ID, VN, SG, CN, JP, US, IN)"
+  },
+  "AI-Audited Ledgers via Google Workspace Trilogy": {
+    "ko": "Google Workspace Trilogy 기반 AI 감사 분산원장"
+  },
+  "SISTAR Camp AI Certifications & Co-Founder Tracks": {
+    "ko": "SISTAR Camp AI 인증 및 공동창업자 트랙"
+  },
+  "FIG 1.0 • THE *SC CHALLENGERS AUTONOMOUS MERITOCRACY & TALENT SETTLEMENT PIPELINE": {
+    "ko": "FIG 1.0 • *SC CHALLENGERS 자율 능력주의 및 인재 정산 파이프라인"
+  },
+  "Solving the 70% Operating Expense Drain": {
+    "ko": "운영비용(OPEX) 70% 소진 문제의 원천적 해결"
+  },
+  "Traditional tech startups and conglomerates succumb to structural sclerosis: over 70% of venture capital is committed to fixed executive salaries, physical office leases in Tier-1 metros, and regional employer taxation prior to validating product-market fit. When demand fluctuates, these organizations resort to destructive mass layoffs or distress dilution.": {
+    "ko": "전통적인 기술 스타트업과 대기업은 구조적 경직성에 굴복합니다. 제품-시장 적합성(PMF)을 검증하기도 전에 벤처 자본의 70% 이상이 임원 고정 급여, 주요 1급 대도시의 물리적 오피스 임대료, 지역 고용주 세금에 묶이기 때문입니다. 수요가 변동하면 이러한 조직들은 파괴적인 대규모 정리해고나 가치 절하를 초래하는 긴급 지분 희석(Distress Dilution)에 의존하게 됩니다."
+  },
+  "*SC eliminates this fragility by decomposing complex enterprise operations into modular, asynchronous Vibe Working assignments. Talent is engaged with zero jurisdictional friction, compensated on actual realized gross margin, and rewarded with transparent upside.": {
+    "ko": "*SC는 복잡한 엔터프라이즈 운영을 모듈화된 비동기식 Vibe Working 과제로 분해하여 이러한 취약성을 완전히 해소합니다. 인재는 관할권 간 마찰 없이 참여하고, 실제 실현된 매출총이익을 기반으로 보상받으며, 투명한 업사이드 수익을 공유받습니다."
+  },
+  "AI-Assisted Sprint": {
+    "ko": "AI 지원 스프린트"
+  },
+  "Challenger leverages Scarlet AI tools and Qubit frameworks to execute deliverables.": {
+    "ko": "챌린저는 Scarlet AI 도구 및 Qubit 프레임워크를 활용하여 산출물을 실행 및 완수합니다."
+  },
+  "Zero-Trust Audit": {
+    "ko": "제로 트러스트 감사"
+  },
+  "Code/deliverable verified by peer lead and Scarlet AI automated compliance check.": {
+    "ko": "피어 리드 및 Scarlet AI 자동 컴플라이언스 점검을 통한 코드/산출물 검증."
+  },
+  "25th Settlement": {
+    "ko": "25일 정산"
+  },
+  "Automated disbursement of 30% profit share directly to Challenger accounts.": {
+    "ko": "수익 배분액의 30%를 챌린저 계좌로 직접 자동 지급."
+  },
+  "Fixed Inflexible Overhead: 70%+ of operating capital burned on baseline salaries regardless of venture revenue.": {
+    "ko": "경직된 고정 오버헤드: 벤처 매출과 무관하게 기본 급여 지출로 운용 자본의 70% 이상 소진."
+  },
+  "Geographic Prison: Bound to physical office leases in high-cost tech capitals with long daily commutes.": {
+    "ko": "지리적 종속성: 고비용 테크 거점 도시의 물리적 사무실 임대차 및 장거리 통근에 결속."
+  },
+  "Bureaucratic Sclerosis: Annual performance reviews disconnected from direct economic contribution.": {
+    "ko": "관료주의적 경화: 직접적인 경제적 기여와 단절된 연례 성과 평가 체계."
+  },
+  "Zero Downside Protection: Sudden corporate downsizings and layoffs during economic recessions.": {
+    "ko": "하방 위험 방어 부재: 경기 침체 시 급작스러운 기업 다운사이징 및 인력 감원 직면."
+  },
+  "Asymmetric Value Capture: Founders and VCs capture 99% of equity; employees receive negligible return.": {
+    "ko": "비대칭적 가치 점유: 창업자와 VC가 지분의 99%를 독점하며 구성원에게는 미미한 보상만 귀속."
+  },
+  "100% Variable Margin Alignment: Zero fixed enterprise burn; compensation derived directly from commercial profit.": {
+    "ko": "100% 변동 마진 정렬: 기업 고정비 지출(Burn) 제로화 및 상업적 순이익에 직접 연동된 보상 실현."
+  },
+  "Sovereign Borderless Autonomy: Asynchronous execution across 8 global hubs with zero commute requirements.": {
+    "ko": "국경 없는 자주적 자율성: 출퇴근이 전무한 8대 글로벌 허브 기반 비동기식 자율 실행."
+  },
+  "Algorithmic AI Audits: Continuous contribution tracking via Console.csv and Dashboard I.csv.": {
+    "ko": "알고리즘 기반 AI 감사: Console.csv 및 Dashboard I.csv를 통한 지속적 기여도 트래킹."
+  },
+  "Portfolio Resilience: Challengers participate across multiple parallel ventures simultaneously.": {
+    "ko": "포트폴리오 복원력: 챌린저는 복수의 병렬 벤처에 동시 참여하여 리스크 분산."
+  },
+  "Direct 30% Economic Share: Uncapped meritocratic upside with co-founder progression tracks.": {
+    "ko": "직접적 30% 경제적 지분: 공동 창업자 승급 트랙과 연계된 상한선 없는 실력주의 기반 업사이드."
+  },
+  "SISTAR Camp: Practical AI Specialization": {
+    "ko": "SISTAR Camp: 실무형 AI 전문화 과정"
+  },
+  "*SC Challengers is not merely an execution marketplace; it is an elite AI specialization institute. Through SISTAR Camp, candidates undergo immersive \"Learning by Doing\" apprenticeships on live commercial ventures, earning internationally accredited Tier 1 through Tier 3 credentials that dictate contribution eligibility and profit share weightings.": {
+    "ko": "*SC Challengers는 단순한 실행 마켓플레이스가 아닌 엘리트 AI 전문 교육 기관입니다. 후보자는 SISTAR Camp를 통해 실제 상업 벤처 프로젝트에서 몰입형 '실행을 통한 학습(Learning by Doing)' 도제 과정을 거치며, 기여 자격과 이익 배분 가중치를 결정하는 국제 공인 Tier 1~Tier 3 자격을 취득합니다."
+  },
+  "Tier 1: AI Practitioner": {
+    "ko": "Tier 1: AI 실무자 (AI Practitioner)"
+  },
+  "Mastery of modern prompt engineering, few-shot prompting patterns, multimodal context windows, agentic web research, and tool-augmented LLM operations. Certified Challengers execute operational task modules autonomously with 3x-5x human velocity.": {
+    "ko": "최신 프롬프트 엔지니어링, 퓨샷(Few-shot) 프롬프팅 패턴, 멀티모달 컨텍스트 윈도우, 에이전트 기반 웹 리서치 및 툴 증강 LLM 오퍼레이션 완벽 숙달. 공인 챌린저는 인간 대비 3~5배의 속도로 운영 태스크 모듈을 자율 실행합니다."
+  },
+  "Tier 2: AI Strategist": {
+    "ko": "Tier 2: AI 전략가 (AI Strategist)"
+  },
+  "Architecture of autonomous multi-agent swarms, semantic vector retrieval pipelines (RAG), structured JSON/YAML generation for ERP ingestion, and automated workflow orchestrations across complex commercial scenarios.": {
+    "ko": "자율형 멀티 에이전트 스웜 아키텍처, 시맨틱 벡터 검색 파이프라인(RAG), ERP 연동용 구조화된 JSON/YAML 생성, 복합 상업 시나리오 전반의 워크플로우 자동화 오케스트레이션 설계."
+  },
+  "Tier 3: AI Developer / PL": {
+    "ko": "Tier 3: AI 개발자 / PL (AI Developer / PL)"
+  },
+  "Parameter-Efficient Fine-Tuning (PEFT/LoRA), custom transformer inference pipelines, quantum-inspired tensor reductions via Qubit Algorithm™, and live project lead responsibilities governing enterprise revenue production.": {
+    "ko": "매개변수 효율적 미세조정(PEFT/LoRA), 커스텀 트랜스포머 추론 파이프라인, Qubit Algorithm™ 기반 양자 영감 텐서 축소 구현, 기업 수익 창출을 총괄하는 실전 프로젝트 리드(PL) 책임 수행."
+  },
+  "Challengers Sub-Category Directory": {
+    "ko": "Challengers 서브 카테고리 디렉토리"
+  },
+  "Explore the specialized sub-portals of the *SC Challengers ecosystem. Each module houses dedicated onboarding checklists, team profiles, operational task definitions, and cultural charters.": {
+    "ko": "*SC Challengers 생태계의 전문화된 서브 포털을 확인하십시오. 각 모듈에는 전용 온보딩 체크리스트, 팀 프로필, 운영 태스크 정의 및 조직 문화 헌장이 수록되어 있습니다."
+  },
+  "Explore On-Boarding Protocol →": {
+    "ko": "온보딩 프로토콜 살펴보기 →"
+  },
+  "CHAPTER 06 • GOVERNANCE & SYNERGY INTEGRATION IN THE SIGNAL STAR UNIVERSE": {
+    "ko": "제06장 • SIGNAL STAR 유니버스 거버넌스 및 시너지 통합"
+  },
+  "Institutional Synergy & Dual-Track Risk Firewalls": {
+    "ko": "기관적 시너지 및 듀얼트랙 리스크 방화벽"
+  },
+  "Challengers do not operate in a vacuum: they represent the cognitive execution arm of the broader Signal Star (*SC) Universe. Every module links seamlessly into holding IP and automated financial protections.": {
+    "ko": "Challenger 조직은 진공 상태에서 독립적으로 작동하지 않으며, 광범위한 Signal Star(*SC) 유니버스의 인지적 실행 축(cognitive execution arm)을 담당합니다. 모든 모듈은 지주 지식재산권(IP) 및 자동화된 금융 보호 체계와 유기적으로 결합되어 운영됩니다."
+  },
+  "Cross-Domain Interoperability": {
+    "ko": "크로스 도메인 상호운용성"
+  },
+  "Challengers interface directly with qubit-algorithm for mathematical and optimization models, leverage intelligence-core for ERP cognitive tooling and automated RAG stores, deploy marketing and commerce via scarlet-ai, and build brand equity across biz-galaxy consumer operations.": {
+    "ko": "Challenger 조직은 수학 및 최적화 모델 구축을 위해 qubit-algorithm과 직접 인터페이스하고, ERP 인지 툴링과 자동화된 RAG 저장소 활용을 위해 intelligence-core를 가동하며, scarlet-ai를 통해 마케팅 및 커머스를 전개하고, biz-galaxy 소비자 사업 전반에 걸쳐 브랜드 자산을 구축합니다."
+  },
+  "Dual-Track Firewall & Trade Guarantees": {
+    "ko": "듀얼트랙 방화벽 및 무역 보증 체계"
+  },
+  "Commercial operations are insulated by *SC's Dual-Track Legal Firewall, isolating intellectual property holding entities from operational trading liabilities. Cross-border accounts receivable are fortified through K-SURE export insurance, 3-Month Rolling Purchasing Forecasts (RPF), and programmatic 70/30 PG split routing.": {
+    "ko": "상업적 운영은 *SC의 듀얼트랙 법적 방화벽을 통해 보호되며, 지식재산권(IP) 보유 법인과 운영상 무역 부채를 원천적으로 격리합니다. 국가 간 매출채권은 K-SURE 수출보험, 3개월 롤링 구매 예측(RPF), 그리고 프로그래밍 기반 70/30 PG 분할 라우팅을 통해 견고하게 방어됩니다."
+  },
+  "CHAPTER 01 • EXECUTIVE DOSSIER": {
+    "ko": "제01장 • 이그제큐티브 도시에(EXECUTIVE DOSSIER)"
+  },
+  "FLAGSHIP TALENT CLOUD PORTAL": {
+    "ko": "플래그십 탤런트 클라우드 포털"
+  },
+  "CHAPTER 02 • FINANCIAL MATHEMATICS": {
+    "ko": "제02장 • 금융수학(FINANCIAL MATHEMATICS)"
+  },
+  "ALGORITHMIC WATERFALL & SETTLEMENT RULES": {
+    "ko": "알고리즘 기반 워터폴 및 정산 규칙"
+  },
+  "Contributor Group": {
+    "ko": "기여자 그룹"
+  },
+  "Pool Share": {
+    "ko": "풀 배분율"
+  },
+  "Individual Ceiling": {
+    "ko": "개인별 한도액"
+  },
+  "Role Profile & Responsibilities": {
+    "ko": "직무 프로파일 및 책임"
+  },
+  "Settlement Cadence": {
+    "ko": "정산 주기"
+  },
+  "Group I • Lead Architects": {
+    "ko": "그룹 I • 리드 아키텍트"
+  },
+  "10.0% of Net Profit": {
+    "ko": "순이익의 10.0%"
+  },
+  "Project Leaders (PL), Solution Architects, Core AI Prompt Engineers, Commercial Deal Closers": {
+    "ko": "프로젝트 리더(PL), 솔루션 아키텍트, 핵심 AI 프롬프트 엔지니어, 커머셜 딜 클로저"
+  },
+  "25th of every month": {
+    "ko": "매월 25일"
+  },
+  "Group II • Senior Operators": {
+    "ko": "그룹 II • 시니어 오퍼레이터"
+  },
+  "7.5% of Net Profit": {
+    "ko": "순이익의 7.5%"
+  },
+  "Full-stack Engineers, Regional Trade Compliance Leads, Cross-Border Logistics Coordinators": {
+    "ko": "풀스택 엔지니어, 리전 무역 규제 준수 리드, 국가 간 물류 코디네이터"
+  },
+  "Group III • Mid Specialists": {
+    "ko": "그룹 III • 미드 스페셜리스트"
+  },
+  "5.0% of Net Profit": {
+    "ko": "순이익의 5.0%"
+  },
+  "Data Curators, Prompt Tuners, RAG Knowledge Base Curators, Localization Translators": {
+    "ko": "데이터 큐레이터, 프롬프트 튜너, RAG 지식 베이스 큐레이터, 로컬라이제이션 번역가"
+  },
+  "Group IV • Junior Challengers": {
+    "ko": "그룹 IV • 주니어 챌린저"
+  },
+  "2.5% of Net Profit": {
+    "ko": "순이익의 2.5%"
+  },
+  "Execution Contributors, Content Creators, Script Runners, QA Automation Testers": {
+    "ko": "실행 기여자, 콘텐츠 크리에이터, 스크립트 러너, QA 자동화 테스터"
+  },
+  "Group V • QA & Sprint Reserve": {
+    "ko": "그룹 V • QA 및 스프린트 리저브"
+  },
+  "Variable / Discretionary": {
+    "ko": "변동 / 재량 배분"
+  },
+  "5% Peer Mentors & Security Reviewers; 10% Reserve Buffer for dispute arbitration & sprint velocity bonuses": {
+    "ko": "피어 멘토 및 보안 리뷰어 5%; 분쟁 중재 및 스프린트 속도(Velocity) 보너스를 위한 리저브 버퍼 10%"
+  },
+  "Monthly + Sprint Close": {
+    "ko": "월간 + 스프린트 마감 시"
+  },
+  "CHAPTER 03 • OPERATIONAL INFRASTRUCTURE": {
+    "ko": "제3장 • 운영 인프라스트럭처"
+  },
+  "STAGE 02 Asynchronous Claim Qualified Challengers claim module based on Tier 1-3 badge permissions.": {
+    "ko": "STAGE 02 비동기식 클레임 — 자격을 갖춘 챌린저가 Tier 1-3 배지 권한을 기반으로 모듈을 클레임합니다."
+  },
+  "STAGE 03 AI-Assisted Sprint Challenger leverages Scarlet AI tools and Qubit frameworks to execute deliverables.": {
+    "ko": "STAGE 03 AI 지원 스프린트 — 챌린저가 Scarlet AI 툴과 Qubit 프레임워크를 활용하여 산출물을 실행 및 도출합니다."
+  },
+  "STAGE 04 Zero-Trust Audit Code/deliverable verified by peer lead and Scarlet AI automated compliance check.": {
+    "ko": "STAGE 04 제로 트러스트 감사 — 피어 리드 및 Scarlet AI 자동 컴플라이언스 검증을 통해 코드/산출물을 검증합니다."
+  },
+  "STAGE 05 25th Settlement Automated disbursement of 30% profit share directly to Challenger accounts.": {
+    "ko": "STAGE 05 25일 정산 — 수익 배분액의 30%를 챌린저 계좌로 자동 지급합니다."
+  },
+  "CHAPTER 04 • HUMAN CAPITAL FORMATION": {
+    "ko": "제4장 • 인적 자본 형성"
+  },
+  "SISTAR CAMP ACADEMY & CAREER PROGRESSION": {
+    "ko": "SISTAR 캠프 아카데미 및 커리어 패스"
+  },
+  "CHAPTER 05 • SUB-CATEGORY DIRECTORY": {
+    "ko": "제5장 • 서브 카테고리 디렉터리"
+  },
+  "SUB-SYSTEM ACCESS PORTALS": {
+    "ko": "서브시스템 액세스 포털"
+  },
+  "CHAPTER 06 • GOVERNANCE & SYNERGY": {
+    "ko": "제6장 • 거버넌스 및 시너지"
+  },
+  "INTEGRATION IN THE SIGNAL STAR UNIVERSE": {
+    "ko": "시그널 스타 유니버스(SIGNAL STAR UNIVERSE) 통합"
+  },
+  "AUTONOMOUS MERITOCRACY MATRIX": {
+    "ko": "자율형 능력주의(Meritocracy) 매트릭스"
+  },
+  "LAYER 5 TALENT CORE": {
+    "ko": "레이어 5 탤런트 코어"
+  },
+  "STAGE 01 Task Ingestion Project Leader defines TTP (Target, Timeline, Process) and posts module scope to Console.csv. STAGE 02 Asynchronous Claim Qualified Challengers claim module based on Tier 1-3 badge permissions. STAGE 03 AI-Assisted Sprint Challenger leverages Scarlet AI tools and Qubit frameworks to execute deliverables. STAGE 04 Zero-Trust Audit Code/deliverable verified by peer lead and Scarlet AI automated compliance check. STAGE 05 25th Settlement Automated disbursement of 30% profit share directly to Challenger accounts.": {
+    "ko": "STAGE 01 태스크 수집: 프로젝트 리더가 TTP(목표·일정·프로세스)를 정의하고 모듈 범위를 Console.csv에 게시합니다. STAGE 02 비동기식 클레임: 자격을 갖춘 챌린저가 Tier 1-3 배지 권한을 기반으로 모듈을 클레임합니다. STAGE 03 AI 지원 스프린트: 챌린저가 Scarlet AI 툴과 Qubit 프레임워크를 활용하여 산출물을 실행 및 도출합니다. STAGE 04 제로 트러스트 감사: 피어 리드 및 Scarlet AI 자동 컴플라이언스 검증을 통해 코드/산출물을 검증합니다. STAGE 05 25일 정산: 수익 배분액의 30%를 챌린저 계좌로 자동 지급합니다."
+  },
+  "*SC — Back Us: Zero Sunk-Capex Command Hub": {
+    "ko": "*SC — Back Us: 매몰 자본 지출 제로(Zero Sunk-Capex) 커맨드 허브"
+  },
+  "Back Us functions as the dedicated institutional interface and counterparty coordination command hub connecting global venture funds, commercial debt syndicates, manufacturing consortia, wholesale networks, and media distribution nodes with the *SC (SISTAR Company / Signal Star Universe) ecosystem. Engineered upon completed cloud/AI infrastructure with automated multi-agent operational telemetry and daily transparent NAV auditing, Back Us transforms conventional speculative funding into mathematically verifiable, cash-generative commercial co-execution.": {
+    "ko": "Back Us는 글로벌 벤처 펀드, 상업용 부채 신디케이트, 제조 컨소시엄, 도매 유통망 및 미디어 배급 노드를 *SC(SISTAR Company / Signal Star Universe) 생태계와 연결하는 전담 기관용 인터페이스이자 거래 상대방 조율 커맨드 허브 역할을 수행합니다. 자동화된 멀티 에이전트 운영 텔레메트리와 일일 투명 기준가(NAV) 감사를 지원하는 완결형 클라우드/AI 인프라를 기반으로 구축된 Back Us는, 전통적인 투기성 펀딩을 수학적으로 검증 가능하며 현금을 창출하는 상업적 공동 실행 모델로 전환합니다."
+  },
+  "Zero Sunk-Capex Infrastructure Architecture": {
+    "ko": "매몰 자본 지출 제로(Zero Sunk-Capex) 인프라 아키텍처"
+  },
+  "Capital allocated to *SC does not fund speculative software R&D or overhead expansion. Our multi-agent intelligence core (*SC AI Centers International, Qubit ERP, Scarlet AI, and SISTAR Studio) is operational today. Institutional capital acts strictly as working-capital accelerant, trade guarantee collateral, and volume arbitrage liquidity, yielding immediate asset-backed velocity.": {
+    "ko": "*SC에 배정된 자본은 투기성 소프트웨어 R&D나 간접비 확장에 투입되지 않습니다. 당사의 멀티 에이전트 인텔리전스 코어(*SC AI Centers International, Qubit ERP, Scarlet AI, SISTAR Studio)는 현재 완전히 가동 중입니다. 기관 자본은 철저히 운전자본 가속기, 무역 보증 담보, 거래량 아비트라지 유동성으로만 기능하여 즉각적인 자산 담보형 회전 속도를 창출합니다."
+  },
+  "Institutional backers enjoy real-time ledger verification via standardized Google Workspace consoles, automated transaction webhooks, and segregated project escrow ledgers. Daily inventory movements, accounts receivable aging, and multi-currency exchange reconciliations are programmatically surfaced to audit partners without latency.": {
+    "ko": "기관 투자자는 표준화된 Google Workspace 콘솔, 자동화된 트랜잭션 웹훅, 격리된 프로젝트 에스크로 원장을 통해 실시간으로 원장을 검증할 수 있습니다. 일일 재고 이동, 매출채권 연체 분석(Aging), 다통화 환전 대사는 지연 없이 감사 파트너에게 프로그래밍 방식으로 즉각 가시화됩니다."
+  },
+  "The *SC financial architecture eliminates the historical vulnerability of international commerce—excess inventory holding costs and lengthy cash-conversion friction—through algorithmic pre-matching, rolling purchasing forecasts, and structured advance payment protocols.": {
+    "ko": "*SC 금융 아키텍처는 알고리즘 기반 사전 매칭, 롤링 구매 예측, 구조화된 선급금 프로토콜을 통해 과잉 재고 보유 비용과 장기 현금전환 마찰이라는 국제 무역의 고질적 취약성을 근본적으로 제거합니다."
+  },
+  "Here, $\\Delta M_k$ represents the net spread captured on the $k$-th transaction tier (ranging between 20% and 45%), $V_k$ is the locked volume backed by a minimum 50% non-refundable cash deposit, $\\delta_{risk}$ is the K-SURE credit-underwritten default probability ($< 0.005$), $C_{alloc}$ is the marginal capital deployed, and $T_{CCC}$ represents the constrained cash-conversion cycle.": {
+    "ko": "여기서 $\\Delta M_k$는 $k$번째 거래 티어에서 확보되는 순 스프레드(20%~45% 범위)를, $V_k$는 최소 50%의 환불 불가 현금 보증금으로 확보된 확정 볼륨을, $\\delta_{risk}$는 K-SURE 신용 인수가 적용된 부도 확률($< 0.005$)을, $C_{alloc}$은 투입된 한계 자본을, $T_{CCC}$는 제약된 현금전환주기를 나타냅니다."
+  },
+  "Driven by Tier I & II container shipments (SISTAR MedIX, SISPet, SISPharm) and initial franchise on-ramps in Indonesia (SCI) and Vietnam (SCV). Operating profit margin locks at 20% (KRW 400M) under conservative volume ramp-up.": {
+    "ko": "Tier I 및 II 컨테이너 선적(SISTAR MedIX, SISPet, SISPharm)과 인도네시아(SCI) 및 베트남(SCV)의 초기 프랜차이즈 온램프에 의해 견인됩니다. 보수적인 물량 증대(Ramp-up) 시나리오에서도 영업이익률 20%(4억 원)를 확보합니다."
+  },
+  "Scale achieved through automated B2B offer conversions, unmanned media traffic synthesis via SISTAR Studio, and 20-track B2B fulfillment across 8 regional bases. Operating margin expands to 35% (KRW 2.45B) due to zero-CAC organic lead loops.": {
+    "ko": "자동화된 B2B 오퍼 전환, SISTAR Studio를 통한 무인 미디어 트래픽 합성, 8개 지역 거점에 걸친 20개 트랙 B2B 풀필먼트를 통해 확장을 달성합니다. CAC 제로(Zero-CAC)의 오가닉 리드 루프로 영업이익률은 35%(24.5억 원)까지 확대됩니다."
+  },
+  "Full institutional maturity. High-margin SaaS licensing from Qubit ERP and automated trade finance clearing fees compound with container volume syndicates. Sustained 35% OPM generates KRW 5.25B in annual operating cashflow.": {
+    "ko": "완전한 기관급 성숙 단계입니다. Qubit ERP의 고마진 SaaS 라이선싱과 자동화된 무역 금융 청산 수수료가 컨테이너 볼륨 신디케이트와 복합적으로 작용합니다. 35% 수준의 지속 가능한 영업이익률(OPM)을 바탕으로 연간 52.5억 원의 영업 현금 흐름을 창출합니다."
+  },
+  "Algorithms without domain knowledge fail when confronted with ASEAN customs, local OTC regulations, and fragmented supply chains. *SC's intelligence core encodes two decades of lived cross-border trade execution into production agents.": {
+    "ko": "도메인 지식이 결여된 알고리즘은 아세안(ASEAN) 통관, 현지 일반의약품(OTC) 규제, 파편화된 공급망에 직면할 때 필연적으로 실패합니다. *SC의 인텔리전스 코어는 지난 20년간 축적된 현장 크로스보더 무역 실행 노하우를 프로덕션 레벨 에이전트로 정교히 코드화했습니다."
+  },
+  "Liberates cross-border commerce from classical linear friction ($A \\to B \\to C$) into quantum superposition ($t=0$ simultaneous settlement) and quantum entanglement (one task, multiple autonomous commercial outcomes).": {
+    "ko": "크로스보더 커머스를 고전적인 선형 마찰($A \\to B \\to C$)로부터 해방시켜, 양자 중첩($t=0$ 동시 결제) 및 양자 얽힘(단일 태스크를 통한 다중 자율 상업 성과 창출)의 패러다임으로 진화시킵니다."
+  },
+  "Holding company IP, algorithms, and core domain assets are held strictly in SC Index, insulated from commercial trading liabilities. Trade is backed by K-SURE credit guarantees and 50% cash deposits.": {
+    "ko": "지주회사의 지식재산권(IP), 알고리즘 및 핵심 도메인 자산은 상업 무역 채무로부터 철저히 격리되어 SC Index에 안전하게 귀속됩니다. 무역 거래는 한국무역보험공사(K-SURE) 신용보증 및 50%의 현금 계약금을 통해 담보됩니다."
+  },
+  "Chapter 02 • Macro Financial Trajectory 3-Year Financial Model & Dual-Return Valuation": {
+    "ko": "제2장 • 거시 재무 궤적 3개년 재무 모델 및 듀얼 리턴(Dual-Return) 밸류에이션"
+  },
+  "The *SC economic model provides investors with Dual-Return Economics: long-term equity capital appreciation driven by holding NAV growth, combined with short-cycle, dividend-distributive quarterly cash yield generated by self-liquidating trade finance pools.": {
+    "ko": "*SC의 경제 모델은 투자자에게 '듀얼 리턴(Dual-Return)' 경제학을 제공합니다. 이는 지주사 순자산가치(NAV) 성장에 기인한 장기 자기자본 가치 상승과, 자체 청산형(self-liquidating) 무역금융 풀에서 창출되는 단주기 분기별 배당 현금 수익률의 결합으로 구현됩니다."
+  },
+  "Where $V_{IP}$ represents the audited proprietary value of the Qubit Algorithm™ and cognitive AI codebase; $NAV(D_j)$ is the net asset value of each of the 12 domain subsidiaries; $CF_{trade,m}$ is the cashflow generated across the 20 B2B offer sheets; $\\gamma_{reinvest}$ is the retained earning ratio (40%); and $r$ is the risk-adjusted hurdle rate ($8.5\\%$).": {
+    "ko": "여기서 $V_{IP}$는 감사 검증을 마친 Qubit Algorithm™ 및 인지 AI 코드베이스의 독점적 가치를 나타내며, $NAV(D_j)$는 12개 도메인 자회사의 개별 순자산가치, $CF_{trade,m}$은 20개 B2B 오퍼 시트 전반에서 창출되는 현금흐름, $\\gamma_{reinvest}$는 이익잉여금 유보율(40%), $r$은 위험조정 허들 레이트($8.5\\%$)를 의미합니다."
+  },
+  "KRW 2.0B / 20% OPM": {
+    "ko": "매출 20억 원 / 영업이익률(OPM) 20%"
+  },
+  "Focuses on high-margin vet medical supplies (SISTAR MedIX) and specialized pet nutrition (SISPet) deployed across Korea (SCK) and Indonesia (SCI). Establishes initial franchise cash flows and K-SURE backed trade financing lines.": {
+    "ko": "한국(SCK) 및 인도네시아(SCI) 전역에 전개된 고마진 동물의료용품(SISTAR MedIX) 및 특화 펫 뉴트리션(SISPet)에 집중합니다. 초기 프랜차이즈 현금흐름 및 K-SURE 담보 무역금융 한도를 구축합니다."
+  },
+  "KRW 7.0B / 35% OPM": {
+    "ko": "매출 70억 원 / 영업이익률(OPM) 35%"
+  },
+  "Scale enabled by unmanned media traffic loops (SISTAR Studio), 20-track B2B offer sheets, and ASEAN expansion into Vietnam (SCV) and Singapore (SCS). Operating leverage reduces administrative overhead to under 12% of gross revenue.": {
+    "ko": "무인 미디어 트래픽 루프(SISTAR Studio), 20트랙 B2B 오퍼 시트, 그리고 베트남(SCV) 및 싱가포르(SCS) 등 아세안 확장을 기반으로 스케일업을 달성합니다. 영업 레버리지 효과를 통해 관리비용을 총매출의 12% 미만으로 감축합니다."
+  },
+  "KRW 15.0B / 35% OPM": {
+    "ko": "매출 150억 원 / 영업이익률(OPM) 35%"
+  },
+  "Global multi-hub maturity across 8 international bases. SaaS enterprise licensing from Qubit ERP and AI Trade clearing commissions compound with container volume syndicates to generate KRW 5.25B in annual operating cashflow.": {
+    "ko": "전 세계 8개 거점을 아우르는 글로벌 멀티 허브의 성숙기입니다. Qubit ERP 엔터프라이즈 SaaS 라이선싱 및 AI 무역 정산 수수료가 컨테이너 볼륨 신디케이트와 복합적으로 작용하여 연간 52.5억 원의 영업 현금흐름을 창출합니다."
+  },
+  "Chapter 03 • Investment Structuring Tri-Tier Institutional Investment Vehicles": {
+    "ko": "제3장 • 투자 구조화 3단계 기관 투자 비클(Vehicles)"
+  },
+  "To accommodate diverse institutional risk profiles, liquidity mandates, and regulatory boundaries, *SC provides three distinct, legally segregated investment vehicles: HoldCo Master Equity, Vertical Project SPVs, and Self-Liquidating Trade Finance Pools.": {
+    "ko": "기관투자자들의 상이한 위험 프로파일, 유동성 운용 원칙, 규제 환경을 수용하기 위해, *SC는 법적으로 완벽히 분리된 세 가지 투자 비클을 제공합니다: 지주사 마스터 에쿼티(HoldCo Master Equity), 버티컬 프로젝트 특수목적법인(SPV), 그리고 자체 청산형 무역금융 풀(Self-Liquidating Trade Finance Pools)."
+  },
+  "The diagram below details the structural insulation and cash flow waterfall across *SC Master HoldCo, Vertical Project SPVs, and Self-Liquidating Trade Finance Pools, demonstrating complete capital protection.": {
+    "ko": "하기 다이어그램은 *SC 마스터 지주사(HoldCo), 버티컬 프로젝트 SPV, 자체 청산형 무역금융 풀 간의 구조적 리스크 차단 및 현금흐름 워터폴(waterfall) 구조를 상술하며, 철저한 원금 보호 메커니즘을 입증합니다."
+  },
+  "Chapter 05 • Commercial Execution Engine 20-Track B2B Offer Sheets & S1-S6 Franchises": {
+    "ko": "제5장 • 상업 실행 엔진 20트랙 B2B 오퍼 시트 및 S1-S6 프랜차이즈"
+  },
+  "To ensure that capital investments generate immediate operational returns without contract customization lag, *SC has engineered 20 standardized, programmatic B2B commercial offer tracks. Spanning container-level international procurement to hyper-localized micro-sachet packaging, these ready-to-execute commercial frameworks allow *SC to onboard enterprise clients in minutes.": {
+    "ko": "투자 자본이 계약 맞춤화에 따른 시차 없이 즉각적인 운영 수익을 창출할 수 있도록, *SC는 20개의 표준화·프로그래밍된 B2B 상업 오퍼 트랙을 설계했습니다. 컨테이너 단위의 국제 조달부터 극초국소화된 마이크로 샤셰 소포장에 이르기까지, 즉시 실행 가능한 이 상업 프레임워크를 통해 *SC는 수 분 내에 엔터프라이즈 고객을 온보딩합니다."
+  },
+  "Structured for national distributors and regional clinic consortia. Requires 50% non-refundable cash deposit upon order placement for the first three consecutive shipments. Hedged via K-SURE export guarantees, ensuring zero manufacturer default exposure and negative working capital requirements.": {
+    "ko": "국가 단위 총판 및 지역 클리닉 컨소시엄을 위해 구조화되었습니다. 최초 연속 3회 선적에 대해 발주 시 50%의 환불 불가 현금 계약금을 수취합니다. 잔여 대금은 K-SURE 수출보증을 통해 헤지되어 제조사 채무불이행 리스크를 원천 차단하고 마이너스 운전자본(negative working capital) 운용을 실현합니다."
+  },
+  "Enables cross-border e-commerce power merchants to list and sell *SC pharmaceutical and nutritional products with zero upfront inventory commitment. Direct API integration debits customer payment at checkout and triggers automated bonded warehouse pick-and-pack fulfillment.": {
+    "ko": "크로스보더 이커머스 파워 셀러가 사전 재고 부담 없이 *SC의 의약품 및 뉴트리션 제품을 등록·판매할 수 있도록 지원합니다. 직접 API 연동을 통해 결제 시 고객 대금을 즉각 정산하고 보세창고의 픽앤팩(pick-and-pack) 풀필먼트를 자동 트리거합니다."
+  },
+  "Aligns provincial wholesalers with defined territorial exclusivity and empowers Tier I-III digital creators with co-branded private label lines. Influencers monetize engaged audiences with turn-key product formulation and fulfillment backed by *SC.": {
+    "ko": "지방 거점 도매상에게 명확한 지역 독점권을 부여하고, Tier I-III 디지털 크리에이터에게는 공동 브랜드 PB 라인을 제공합니다. 인플루언서는 *SC가 뒷받침하는 턴키 포뮬레이션 및 풀필먼트를 통해 충성도 높은 오디언스로부터 즉각적인 수익을 창출합니다."
+  },
+  "From S1 individual entrepreneurial operators and S2 district master franchises to S6 institutional co-investment syndicates, our franchise architecture rapidly scales brand presence across ASEAN, India, and the Americas with zero holding debt.": {
+    "ko": "S1 개인 사업자 및 S2 지역 마스터 프랜차이즈부터 S6 기관 공동투자 신디케이트에 이르기까지, 당사의 프랜차이즈 아키텍처는 지주사 부채 전무(zero debt) 상태를 유지하며 아세안, 인도, 미주 전역에서 브랜드 입지를 기하급수적으로 확장합니다."
+  },
+  "Chapter 06 • Visual Architecture 02 Quantum Compounding & 12-Domain Synergistic Flywheel": {
+    "ko": "제6장 • 시각적 아키텍처 02 퀀텀 복리(Quantum Compounding) 및 12개 도메인 시너지 플라이휠"
+  },
+  "Chapter 07 • NAV Attribution & Governance 12-Domain Net Asset Value & Global Standards": {
+    "ko": "제7장 • 순자산가치(NAV) 귀속 및 거버넌스 12개 도메인 순자산가치와 글로벌 표준"
+  },
+  "Chapter 08 • Risk Firewalls & Due Diligence Dual-Track Insulation & Institutional Data Room": {
+    "ko": "제8장 • 리스크 방화벽 및 실사(Due Diligence) 듀얼 트랙 격리 및 기관용 데이터룸"
+  },
+  "RPF, K-SURE & Automated Webhook Settlement": {
+    "ko": "RPF, K-SURE 및 자동화 웹훅 정산"
+  },
+  "Commercial transactions operate on 3-Month Rolling Purchasing Forecasts (RPF). Production commences only upon receipt of a 50% non-refundable cash deposit on initial shipments. Remaining balances are covered by K-SURE (Korea Trade Insurance Corporation) export credit guarantees. Automated payment gateway webhooks enforce instant 70/30 revenue splits, ensuring suppliers are paid immediately while *SC retains its margin with zero collection latency.": {
+    "ko": "상업 거래는 3개월 롤링 구매 예측(RPF)을 기반으로 실행됩니다. 초기 선적 물량의 50% 환불 불가 현금 계약금이 입금된 후에만 생산이 개시됩니다. 잔여 대금은 한국무역보험공사(K-SURE) 수출신용보증으로 담보됩니다. 결제 게이트웨이(PG)의 자동화 웹훅(Webhook)이 70/30 수익 배분을 즉각 집행하여 공급사 대금은 즉시 결제되고 *SC는 회수 시차(latency) 없이 마진을 확보합니다."
+  },
+  "One Spark, Infinite Galaxifying — Beyond Linear Trade, Quantum Value Entanglement. Institutional Data Room Access, Cap Table Verification & SPV Inquiries: Executive Managing Director: DennyKu (denniiku@sistarcompany.com) Corporate Holding Flagship: https://sistarcompany.com • Global Operations Hubs: Korea • Singapore • United States • Indonesia • Vietnam • India • China • Japan": {
+    "ko": "One Spark, Infinite Galaxifying — 선형 무역을 넘어, 양자 가치 얽힘으로. 기관용 데이터룸 접근, 캡테이블(Cap Table) 실사 및 SPV 문의: 전무이사(Executive Managing Director): DennyKu (denniiku@sistarcompany.com) 지주사 공식 포털: https://sistarcompany.com • 글로벌 운영 허브: 한국 • 싱가포르 • 미국 • 인도네시아 • 베트남 • 인도 • 중국 • 일본"
+  },
+  "Chapter 01 • Executive Memorandum": {
+    "ko": "제1장 • 경영진 메모랜덤(Executive Memorandum)"
+  },
+  "Domain Root Gateway • Master Portal Overview": {
+    "ko": "도메인 루트 게이트웨이 • 마스터 포털 개요"
+  },
+  "Unlike early-stage ventures that burn capital engineering speculative codebases or establishing unproven supply lines, *SC presents a 100% completed cloud and AI infrastructure. Institutional capital is not allocated to build software; it is deployed as high-velocity working capital, trade guarantee liquidity, and regional market expansion capital across 8 international bases.": {
+    "ko": "불확실한 코드베이스 엔지니어링이나 검증되지 않은 공급망 구축에 자본을 소진하는 초기 단계 벤처들과 달리, *SC는 100% 완비된 클라우드 및 AI 인프라를 제시합니다. 기관 자본은 소프트웨어 개발에 소모되지 않으며, 고회전 운전자본, 무역 보증 유동성, 그리고 8개 글로벌 거점 전반의 권역별 시장 확장 자본으로 즉각 집행됩니다."
+  },
+  "Chapter 02 • Macro Financial Trajectory": {
+    "ko": "Chapter 02 • 거시 재무 궤적"
+  },
+  "3-Year Financial Model & Dual-Return Valuation": {
+    "ko": "3개년 재무 모델 및 듀얼 리턴 가치평가"
+  },
+  "Financial & Unit Economic Metric": {
+    "ko": "재무 및 유닛 이코노믹스 지표"
+  },
+  "Year 3 (Institutional Scale)": {
+    "ko": "3차년도 (기관급 스케일)"
+  },
+  "Analytical Commentary & Benchmarks": {
+    "ko": "분석적 논평 및 벤치마크"
+  },
+  "Cross-border container deals, wholesale orders, and franchise throughput": {
+    "ko": "크로스보더 컨테이너 딜, 도매 주문 및 프랜차이즈 처리량"
+  },
+  "Declines rapidly as SISTAR Studio organic media generation scales": {
+    "ko": "SISTAR Studio의 오가닉 미디어 생성 확장에 따라 급격히 감소"
+  },
+  "Customer Lifetime Value (LTV)": {
+    "ko": "고객 생애 가치 (LTV)"
+  },
+  "58 Days": {
+    "ko": "58일"
+  },
+  "50% advance deposits and automated 70/30 webhook splits eliminate credit lag": {
+    "ko": "50% 선수금 수취 및 자동화된 70/30 웹훅 분할 정산을 통해 신용 리스크 지연(Credit Lag) 제거"
+  },
+  "Chapter 03 • Investment Structuring": {
+    "ko": "Chapter 03 • 투자 구조화"
+  },
+  "Tri-Tier Institutional Investment Vehicles": {
+    "ko": "3계층 기관 투자 비히클"
+  },
+  "Vehicle Tier & Structure": {
+    "ko": "비히클 계층 및 구조"
+  },
+  "Target Institutional Investor": {
+    "ko": "타깃 기관 투자자"
+  },
+  "Minimum Ticket & Horizon": {
+    "ko": "최소 투자 단위(Ticket) 및 투자 기간(Horizon)"
+  },
+  "Return Profile & Yield Mechanism": {
+    "ko": "수익 프로파일 및 일드(Yield) 메커니즘"
+  },
+  "Governance, Security & Firewalls": {
+    "ko": "거버넌스, 보안 및 파이어월"
+  },
+  "Tier 1: Master HoldCo Equity (Series Seed / Series A)": {
+    "ko": "Tier 1: 마스터 지주사(HoldCo) 지분 (시리즈 시드 / 시리즈 A)"
+  },
+  "Sovereign Wealth Funds, Global VC Funds, Multi-Family Offices": {
+    "ko": "국부펀드, 글로벌 VC 펀드, 멀티 패밀리 오피스"
+  },
+  "KRW 2.0B – KRW 5.0B (4 to 6 Year Horizon)": {
+    "ko": "20억 원 – 50억 원 (운용 기간 4~6년)"
+  },
+  "Long-term capital appreciation; share in all 12 domains, algorithms, and global base dividends. Target 10x-25x MOIC upon NASDAQ/KRX IPO.": {
+    "ko": "장기 자본 증대; 12개 전 도메인, 알고리즘 및 글로벌 거점 배당 공유. 나스닥/KRX IPO 시 10배~25배 MOIC 목표."
+  },
+  "Tier 3: Regional JV Operating Cos (ASEAN & Global Hubs)": {
+    "ko": "Tier 3: 권역별 합작 사업법인(JV Operating Cos) (아세안 및 글로벌 허브)"
+  },
+  "Local In-Country Conglomerates & Distribution Partners": {
+    "ko": "현지 진출국 복합기업(대기업) 및 유통 파트너사"
+  },
+  "KRW 300M – KRW 1.0B (3 to 5 Year Horizon)": {
+    "ko": "3억 원 – 10억 원 (운용 기간 3~5년)"
+  },
+  "Co-ownership of localized operating entity (e.g., SCI Indonesia or SCV Vietnam). Local market dividends + exclusive franchise territory rights.": {
+    "ko": "현지화된 사업 운영 법인(예: SCI 인도네시아 또는 SCV 베트남) 공동 소유권. 현지 시장 배당 + 독점 프랜차이즈 권역 권리."
+  },
+  "Local legal registration, dual-signature banking, joint management committee, shared IP licensing.": {
+    "ko": "현지 법인 설립 등록, 이중 서명 금융 결제 체계, 공동 경영 위원회, 지식재산권(IP) 공유 라이선싱."
+  },
+  "Tier 4: Trade Finance Liquidity Pool (Short-Cycle Debt Syndicate)": {
+    "ko": "Tier 4: 무역 금융 유동성 풀 (단기 부채 신디케이트)"
+  },
+  "Private Debt Funds, Credit Unions, High-Net-Worth Syndicates": {
+    "ko": "사모 대출 펀드(PDF), 신용협동조합, 초고액 자산가 신디케이트"
+  },
+  "KRW 200M – KRW 500M (90 to 180 Day Rolling)": {
+    "ko": "2억 원 – 5억 원 (90~180일 롤링 회전 주기)"
+  },
+  "12.0% – 15.5% annualized net yield. Self-liquidating senior secured return paid per completed container shipment.": {
+    "ko": "연환산 순수익률 12.0% – 15.5%. 컨테이너 선적 완료 건별로 지급되는 자기청산형(Self-liquidating) 선순위 담보 수익."
+  },
+  "Senior lien on inventory and receivables, K-SURE export insurance wrap, 50% cash buyer deposit lock.": {
+    "ko": "재고자산 및 매출채권에 대한 선순위 담보권, K-SURE 수출보험 보증, 바이어 계약금 50% 현금 예치 락업."
+  },
+  "Figure 2.1: *SC Tri-Tier Institutional Capital Allocation Topology, illustrating the segregation between holding equity, dedicated project SPVs, and rolling self-liquidating trade finance facilities.": {
+    "ko": "Figure 2.1: *SC 3단계 기관 자본 배분 토폴로지 — 지주 지분, 전용 프로젝트 SPV, 롤링 방식의 자기청산형 무역 금융 퍼실리티 간의 분리 구조 제시."
+  },
+  "Chapter 05 • Commercial Execution Engine": {
+    "ko": "Chapter 05 • 커머셜 실행 엔진"
+  },
+  "20-Track B2B Offer Sheets & S1-S6 Franchises": {
+    "ko": "20개 트랙 B2B 오퍼 시트 및 S1-S6 프랜차이즈"
+  },
+  "Quantum Compounding & 12-Domain Synergistic Flywheel": {
+    "ko": "양자 복리 증대 및 12개 도메인 시너지 플라이휠"
+  },
+  "Figure 2.2: The *SC Quantum Business Flywheel, illustrating how the centralized Qubit Algorithm and multi-agent intelligence core continuously compound value across enterprise AI, bio-health, international commerce, and unmanned media broadcast.": {
+    "ko": "Figure 2.2: *SC 퀀텀 비즈니스 플라이휠 — 중앙 집중형 Qubit Algorithm™ 및 멀티 에이전트 인텔리전스 코어가 엔터프라이즈 AI, 바이오·헬스, 국제 커머스, 무인 미디어 방송 전반에 걸쳐 지속적으로 가치를 복리 증대시키는 메커니즘 제시."
+  },
+  "Chapter 07 • NAV Attribution & Governance": {
+    "ko": "Chapter 07 • 순자산가치(NAV) 귀속 및 거버넌스"
+  },
+  "12-Domain Net Asset Value & Global Standards": {
+    "ko": "12개 도메인 순자산가치(NAV) 및 글로벌 스탠다드"
+  },
+  "Domain Path & Strategic Role": {
+    "ko": "도메인 경로 및 전략적 역할"
+  },
+  "Operational Function & Technology Stack": {
+    "ko": "운영 기능 및 기술 스택"
+  },
+  "Direct Revenue Model & Monetization": {
+    "ko": "직접 수익 모델 및 수익화 구조"
+  },
+  "3-Year Target Valuation Contribution": {
+    "ko": "3개년 목표 기업가치 기여도"
+  },
+  "Breakeven Status": {
+    "ko": "손익분기점(BEP) 달성 현황"
+  },
+  "01. sc-sistarcompany Corporate Flagship & Global Alliances": {
+    "ko": "01. sc-sistarcompany 기업 플래그십 및 글로벌 얼라이언스"
+  },
+  "Institutional identity, 8 global bases coordination, and sovereign joint venture governance.": {
+    "ko": "기관 아이덴티티 확립, 8대 글로벌 거점 총괄 조율 및 전략적 합작법인 거버넌스 관할."
+  },
+  "Holding royalties, trademark licensing, and strategic JV equity dividends.": {
+    "ko": "지주사 로열티, 상표권 라이선싱 및 전략적 JV 지분 배당금."
+  },
+  "KRW 12.0B (HoldCo Core)": {
+    "ko": "120억 원 (HoldCo 코어)"
+  },
+  "Achieved (Day 1)": {
+    "ko": "달성 완료 (Day 1)"
+  },
+  "02. qubit-algorithm Theoretical & Propulsion Engine": {
+    "ko": "02. qubit-algorithm 이론 및 추진 엔진"
+  },
+  "Formal mathematical proofs, wave-particle business modeling, and academic publications.": {
+    "ko": "형식 수학적 증명, 파동-입자 비즈니스 모델링 및 학술 논문 게재."
+  },
+  "Algorithmic optimization IP licensing and enterprise patent monetization.": {
+    "ko": "알고리즘 최적화 IP 라이선싱 및 엔터프라이즈 특허 수익화."
+  },
+  "Achieved": {
+    "ko": "달성 완료"
+  },
+  "03. intelligence-core Core AI Vault & Cognitive Engine": {
+    "ko": "03. intelligence-core 핵심 AI 볼트 및 인지 엔진"
+  },
+  "*SC AI Centers International, Qubit ERP, Company RAG, and Exo-Brain physical AI.": {
+    "ko": "*SC AI Centers International, Qubit ERP, Company RAG 및 Exo-Brain 피지컬 AI."
+  },
+  "Enterprise Cognitive OS licensing, API subscription fees, and private cloud hosting.": {
+    "ko": "엔터프라이즈 인지 OS 라이선싱, API 구독료 및 프라이빗 클라우드 호스팅."
+  },
+  "04. scarlet-ai AI Commerce & Trade Marketplace": {
+    "ko": "04. scarlet-ai AI 커머스 및 무역 마켓플레이스"
+  },
+  "Autonomous multi-agent trade platform, 24/7 sales bots, Volume Deals, and Buy4Me.": {
+    "ko": "자율형 멀티 에이전트 무역 플랫폼, 24/7 세일즈 봇, 대량 거래(Volume Deals) 및 Buy4Me."
+  },
+  "2.5% - 5.0% platform take-rate, automated BNPL financing fees, and merchant subscriptions.": {
+    "ko": "2.5% - 5.0% 플랫폼 수수료율(Take-rate), 자동화된 BNPL 금융 수수료 및 머천트 구독료."
+  },
+  "Month 6": {
+    "ko": "6개월 차"
+  },
+  "05. qubit-biz Cosmo Seed™ Model Showcase": {
+    "ko": "05. qubit-biz Cosmo Seed™ 모델 쇼케이스"
+  },
+  "Open business model showcase, cross-project entanglement, and 4-way settlement offsetting.": {
+    "ko": "오픈 비즈니스 모델 쇼케이스, 크로스 프로젝트 얽힘(Entanglement) 및 4자 정산 상계."
+  },
+  "Commercial licensing of Cosmo Seed blueprints and cross-border partnership fees.": {
+    "ko": "Cosmo Seed 블루프린트 상용 라이선싱 및 크로스보더 파트너십 수수료."
+  },
+  "06. biz-galaxy Industry Verticals Constellation": {
+    "ko": "06. biz-galaxy 산업 버티컬 콘스텔레이션"
+  },
+  "Direct physical product manufacturing and container sales (60%-75% margin).": {
+    "ko": "실물 제품 직접 제조 및 컨테이너 단위 판매 (마진율 60%-75%)."
+  },
+  "Achieved (Active Cashflow)": {
+    "ko": "달성 완료 (활성 현금흐름)"
+  },
+  "07. biz-hub Co-Creation & Shared Value Hub": {
+    "ko": "07. biz-hub 공진화 및 공유가치 허브"
+  },
+  "Auto-Formulator, Joint ODM manufacturing, Rp 1,320 Micro-Sachets, Space Sharing.": {
+    "ko": "Auto-Formulator, 공동 ODM 제조, Rp 1,320 마이크로 샤셰(Micro-Sachets), 공간 공유."
+  },
+  "Shared-manufacturing facility margins, micro-sachet packaging distribution.": {
+    "ko": "공동 제조 설비 마진, 마이크로 샤셰 패키징 유통."
+  },
+  "B2B manufacturer onboarding, private label ODM matching, and clinical trial coordination.": {
+    "ko": "B2B 제조사 온보딩, 프라이빗 라벨(PB) ODM 매칭 및 임상시험 코디네이션."
+  },
+  "Supplier onboarding retainers, volume procurement brokerage commissions.": {
+    "ko": "공급업체 온보딩 리테이너, 대량 구매 조달 중개 수수료."
+  },
+  "KRW 3.5B (B2B Hub)": {
+    "ko": "KRW 3.5B (B2B 허브)"
+  },
+  "10. ir-pitchdeck Institutional Conviction Hub": {
+    "ko": "10. ir-pitchdeck 기관 투자 확신 허브"
+  },
+  "Institutional investor deal room, daily NAV audit data room, and capital syndicate clearing.": {
+    "ko": "기관 투자자 전용 딜룸, 일일 순자산가치(NAV) 감사 데이터룸 및 자본 신디케이트 청산 체계."
+  },
+  "SPV structuring management fees, syndicated carry, and institutional equity funding.": {
+    "ko": "SPV 구조화 운용 보수, 신디케이트 캐리(Carry) 및 기관 지분 투자 유치."
+  },
+  "N/A (Holding Anchor)": {
+    "ko": "해당 없음 (Holding Anchor)"
+  },
+  "Operational": {
+    "ko": "운영 중"
+  },
+  "11. biz-directory Open B2B Proposal & Directory": {
+    "ko": "11. biz-directory 오픈 B2B 제안서 및 디렉토리"
+  },
+  "Category-by-category business proposals and verified corporate listings.": {
+    "ko": "카테고리별 사업 제안서 및 검증된 기업 디렉토리 리스팅."
+  },
+  "Enterprise verified directory listings, priority B2B matchmaking placement.": {
+    "ko": "엔터프라이즈 검증 디렉토리 등재 및 우선 B2B 매칭 배치."
+  },
+  "KRW 2.5B (Directory Asset)": {
+    "ko": "KRW 2.5B (디렉토리 자산)"
+  },
+  "12. media Content Forge & Media Archive": {
+    "ko": "12. media 콘텐츠 포지 & 미디어 아카이브"
+  },
+  "SISTAR Studio unmanned production engine, The SIGNAL STAR Post global journal.": {
+    "ko": "SISTAR Studio 무인 제작 엔진, The SIGNAL STAR Post 글로벌 저널."
+  },
+  "Zero-CAC customer acquisition, programmatic syndication, sponsored briefings.": {
+    "ko": "CAC(고객 획득 비용) 제로 기반 고객 확보, 프로그래머틱 신디케이션, 스폰서드 브리핑."
+  },
+  "KRW 7.0B (Media Moat)": {
+    "ko": "KRW 7.0B (미디어 해자)"
+  },
+  "Chapter 08 • Risk Firewalls & Due Diligence": {
+    "ko": "제08장 • 리스크 방화벽 및 실사(Due Diligence)"
+  },
+  "Dual-Track Insulation & Institutional Data Room": {
+    "ko": "듀얼 트랙 격리 구조 및 기관 전용 데이터룸"
+  },
+  "Chapter I • Commercial Onboarding Gateway Layer 5 Node • Connect Command Protocol": {
+    "ko": "제1장 • 상업 온보딩 게이트웨이 레이어 5 노드 • 커넥트 커맨드 프로토콜"
+  },
+  "*SC Connect: Partner Onboarding & Execution": {
+    "ko": "*SC Connect: 파트너 온보딩 및 실행"
+  },
+  "The deterministic operational gateway for executing commercial partnerships, 20-track B2B offer sheets, Qubit ERP data synchronization, and joint venture formations across the Signal Star Universe (*SC).": {
+    "ko": "Signal Star Universe (*SC) 전반에서 상업적 파트너십 실행, 20트랙 B2B 제안서 처리, Qubit ERP 데이터 동기화 및 합작법인 설립을 관장하는 결정론적 운영 게이트웨이."
+  },
+  "Fast-track technical integration velocity from initial qualification to live API test transaction.": {
+    "ko": "최초 적격성 심사부터 실시간 API 테스트 트랜잭션까지 가속화된 기술 통합 속도."
+  },
+  "Automated webhook payloads, cryptographic HMAC signing, and synchronized Google Workspace Console ledgers.": {
+    "ko": "자동화된 웹훅 페이로드, 암호화 HMAC 서명 및 동기화된 Google Workspace Console 원장."
+  },
+  "Instantaneous 70/30 split settlement eliminating merchant receivables float and working-capital drag.": {
+    "ko": "머천트 매출채권 플로트와 운전자본 부담을 원천 제거하는 즉각적인 70/30 분할 정산."
+  },
+  "Automated customs documentation compiling for MFDS, BPOM, FDA, PMDA, and NMPA jurisdictional passage.": {
+    "ko": "MFDS(식약처), BPOM, FDA, PMDA 및 NMPA 관할 승인을 위한 통관 서류 자동 컴파일."
+  },
+  "Through *SC Connect, commercial partners gain direct, programmatic access to the operational core of the 12-domain *SC matrix. By establishing bi-directional data pipelines with Qubit ERP (Domain 03) and connecting to the automated fulfillment routers of Scarlet AI (Domain 04) and Biz Hub (Domain 07), every partner transaction is settled with mathematical auditability on our daily Net Asset Value (NAV) ledgers.": {
+    "ko": "*SC Connect를 통해 상업적 파트너는 12개 도메인으로 구성된 *SC 매트릭스의 운영 코어에 프로그래밍 방식으로 직접 접근할 수 있습니다. Qubit ERP(도메인 03)와의 양방향 데이터 파이프라인을 구축하고 Scarlet AI(도메인 04) 및 Biz Hub(도메인 07)의 자동화된 풀필먼트 라우터와 연동함으로써, 모든 파트너 트랜잭션은 일일 순자산가치(NAV) 원장상에서 수학적 감사 가능성을 갖추어 정산됩니다."
+  },
+  "Figure 2.1: *SC Connect Five-Phase Partner Onboarding & Execution Topology": {
+    "ko": "그림 2.1: *SC Connect 5단계 파트너 온보딩 및 실행 토폴로지"
+  },
+  "Chapter II • Five-Phase Integration Protocol Execution Workflow • Standard Operating Procedure": {
+    "ko": "제2장 • 5단계 통합 프로토콜 실행 워크플로우 • 표준운영절차(SOP)"
+  },
+  "The 5-Phase Commercial Onboarding Protocol": {
+    "ko": "5단계 상업 온보딩 프로토콜"
+  },
+  "A disciplined, step-by-step onboarding pipeline that guides manufacturers, wholesalers, and clinical networks from initial confidential qualification to live commercial trading within fourteen calendar days.": {
+    "ko": "제조사, 도매업체 및 클리닉 네트워크를 최초 비밀유지 적격성 심사부터 14영업일 이내 실시간 상업 거래까지 안내하는 규율화된 단계별 온보딩 파이프라인."
+  },
+  "Chapter III • Technical Architecture Qubit ERP • API Endpoints • Cryptographic Webhooks": {
+    "ko": "제3장 • 기술 아키텍처: Qubit ERP • API 엔드포인트 • 암호화 웹훅"
+  },
+  "Qubit ERP Integration & Real-Time Data Pipelines": {
+    "ko": "Qubit ERP 연동 및 실시간 데이터 파이프라인"
+  },
+  "Partners connect to *SC through code-native, high-throughput interfaces that eliminate manual spreadsheet emailing and order-entry human errors.": {
+    "ko": "파트너는 코드 네이티브 고처리량 인터페이스를 통해 *SC에 연동되어, 수작업 스프레드시트 이메일 발송 및 주문 입력 시 발생하는 인적 오류를 근본적으로 차단합니다."
+  },
+  "Every transactional event (purchase order creation, container customs clearance, inventory depletion, split payout) is broadcast to the partner's secure HTTPS endpoint with an encrypted timestamped signature. Tamper-evident verification guarantees zero unauthorized order modifications and instantaneous reconciliation across all 8 country hubs.": {
+    "ko": "모든 트랜잭션 이벤트(구매 발주서 생성, 컨테이너 통관, 재고 소진, 정산 분배 등)는 암호화된 타임스탬프 서명과 함께 파트너의 보안 HTTPS 엔드포인트로 브로드캐스트됩니다. 위·변조 방지 검증을 통해 무단 주문 변경을 원천 차단하며, 8개국 전 거점 허브 전반에서 즉각적인 정합성 대사를 보장합니다."
+  },
+  "Real-Time Collaborative Ledgers": {
+    "ko": "실시간 협동 분산 원장"
+  },
+  "Partners manage operational velocity without expensive third-party enterprise licenses. *SC provides a standardized Google Workspace environment where Console.csv (task tracking), Monthly Sales I.csv (gross merchandise value), and Dashboard I.csv (consolidated KPI trends) sync bi-directionally with Qubit ERP every 15 minutes.": {
+    "ko": "파트너는 고가의 서드파티 엔터프라이즈 라이선스 없이도 운영 속도를 통제할 수 있습니다. *SC는 Console.csv(태스크 트래킹), Monthly Sales I.csv(총거래액 GMV), Dashboard I.csv(통합 KPI 추이)가 15분마다 Qubit ERP와 양방향 동기화되는 표준화된 Google Workspace 환경을 제공합니다."
+  },
+  "Programmatic ERP Hooks": {
+    "ko": "프로그래머블 ERP 훅스"
+  },
+  "Enterprise partners integrate directly via RESTful APIs and GraphQL endpoints. Core event hooks include: sc.order.placed, sc.inventory.threshold_alert, sc.customs.dossier_approved, and sc.payout.split_cleared, enabling partner internal SAP or Oracle ERPs to reflect *SC transactions in real time.": {
+    "ko": "엔터프라이즈 파트너는 RESTful API 및 GraphQL 엔드포인트를 통해 직접 연동됩니다. 핵심 이벤트 훅에는 sc.order.placed, sc.inventory.threshold_alert, sc.customs.dossier_approved, sc.payout.split_cleared 등이 포함되어, 파트너 내부의 SAP 또는 Oracle ERP가 *SC 트랜잭션을 실시간으로 반영하도록 지원합니다."
+  },
+  "Predictive Stock Reordering": {
+    "ko": "예측 기반 재고 자동 재발주"
+  },
+  "Using historical sell-through velocity, sea-freight transit times, and regional seasonality (e.g., monsoon demand in Indonesia or Lunar New Year in Vietnam), Qubit ERP calculates dynamic safety stock levels and automatically drafts replenishment container purchase orders 45 days before stockouts occur.": {
+    "ko": "Qubit ERP는 과거 판매 소진 속도, 해상 운송 리드타임, 지역적 계절성(예: 인도네시아의 몬순 수요 또는 베트남의 뗏 명절)을 기반으로 동적 안전 재고 수준을 산출하고, 재고 소진 45일 전에 보충용 컨테이너 구매 발주서를 자동으로 초안 작성합니다."
+  },
+  "Chapter IV • Execution Playbook Operational SLAs • Tranche Mechanics": {
+    "ko": "제4장 • 실행 플레이북 운영 SLA • 트랜치 메커니즘"
+  },
+  "Execution Playbook for the 20 B2B Offer Tracks": {
+    "ko": "20대 B2B 오퍼 트랙 실행 플레이북"
+  },
+  "A detailed operational breakdown of contract execution, container movement, and revenue settlement across the four core commercial tranches.": {
+    "ko": "4대 핵심 상업 트랜치에 걸친 계약 이행, 컨테이너 이동, 수익 정산에 대한 상세 운영 분석입니다."
+  },
+  "Bulk Industrial Trade & Contract ODM": {
+    "ko": "벌크 산업재 무역 & 계약 ODM"
+  },
+  "Governs maritime full-container-load (FCL) shipments of raw materials and finished goods under Incoterms 2020 CIF or DDP. Initial orders require 50% production deposit, with balance settled via 60-day K-SURE insured deferred terms upon bill of lading issuance. Contract ODM formulations (Track 02) include mutual IP protection, pilot sample signoff within 10 days, and guaranteed batch stability testing.": {
+    "ko": "Incoterms 2020 CIF 또는 DDP 조건 하의 원자재 및 완제품 해상 FCL(만재 컨테이너) 선적을 규정합니다. 초기 주문 시 50%의 생산 착수금이 요구되며, 잔금은 선하증권(B/L) 발급 시 60일 만기 K-SURE 부보 유예 조건으로 결제됩니다. 계약 ODM 포뮬레이션(Track 02)은 상호 IP 보호, 10일 이내 파일럿 샘플 승인, 배치별 안정성 테스트 보증을 포함합니다."
+  },
+  "Wholesale Distribution & Consignment Depots": {
+    "ko": "도매 유통 & 위탁 판매 거점 물류창고"
+  },
+  "Grants exclusive or selective provincial distribution rights. Master distributors must maintain minimum quarterly purchasing volumes to protect exclusivity. Consignment depot stocking (Track 08) places *SC-owned inventory in partner metropolitan warehouses; ownership transfers and automated invoicing trigger only when pallets leave the loading dock for retail delivery.": {
+    "ko": "독점 또는 선별적 성/주 단위 유통 권한을 부여합니다. 총판 파트너는 독점권 유지를 위해 분기별 최소 구매 물량을 유지해야 합니다. 위탁 데포 재고 배치(Track 08)는 파트너의 주요 대도시 물류창고에 *SC 소유의 재고를 선배치하는 방식이며, 소유권 이전 및 자동 인보이스 발행은 팔레트가 소매 배송을 위해 적재 도크를 통과할 때에만 트리거됩니다."
+  },
+  "Clinical Veterinary Compounding & Prescriptions": {
+    "ko": "임상 수의학 조제 & 처방"
+  },
+  "Deploys the Auto-Formulator for Vet into clinical veterinary hospitals. Clinicians input patient pathology data to generate custom therapeutic botanical blends dispensed directly to pet owners. Clinics capture 55% to 65% retail dispensary margins with zero compounding liability, as all manufacturing is certified under *SC GMP facilities.": {
+    "ko": "임상 동물병원에 Auto-Formulator for Vet을 전격 구축합니다. 임상의가 환축의 병리 데이터를 입력하면 맞춤형 치료용 보태니컬 블렌드가 생성되어 반려동물 보호자에게 직접 조제·투약됩니다. 모든 제조는 *SC GMP 인증 시설에서 수행되므로 동물병원은 조제 책임 리스크 없이 55%~65% 수준의 원내 약국 유통 마진을 확보합니다."
+  },
+  "SISTAR SOD Dropshipping & Retail Franchises": {
+    "ko": "SISTAR SOD 드랍쉬핑 & 리테일 프랜차이즈"
+  },
+  "Empowers digital creators and boutique store owners to sell complete branded product lines without stocking inventory. Orders captured on partner TikTok, Shopify, or in-store POS terminals route automatically to *SC space-sharing hubs. Items are picked, packed, and couriered within 24 hours, with merchant profits disbursed instantaneously via payment gateway webhooks.": {
+    "ko": "디지털 크리에이터 및 부티크 샵 사업자가 재고 부담 없이 브랜드 완제품 라인업을 판매할 수 있도록 지원합니다. 파트너의 TikTok, Shopify, 또는 오프라인 매장 POS 단말기에서 인입된 주문은 *SC 공간 공유 허브로 자동 라우팅됩니다. 24시간 이내에 픽킹, 패킹 및 택배 발송이 완료되며, 가맹점 수익은 PG 웹훅을 통해 즉각 정산 지급됩니다."
+  },
+  "Figure 2.2: Qubit Logistics Router & Multi-Track Commercial Fulfillment Network": {
+    "ko": "그림 2.2: Qubit 물류 라우터 및 다중 트랙 상업 풀필먼트 네트워크"
+  },
+  "Chapter V • Joint Venture Governance Legal Vehicles • SPV Formations • Dual Firewall": {
+    "ko": "제5장 • 합작투자(JV) 거버넌스 법적 기구 • SPV 설립 • 이원화 방화벽"
+  },
+  "Joint Venture & SPV Structuring Models": {
+    "ko": "합작투자 및 SPV 구조화 모델"
+  },
+  "For institutional partners requiring deep capital entanglement and regional corporate localization, *SC provides three flexible joint-venture architectures protected by our Dual-Track Legal Firewall.": {
+    "ko": "심층적인 자본 결합 및 현지 법인화가 요구되는 기관 파트너를 위해, *SC는 듀얼 트랙 법적 방화벽(Dual-Track Legal Firewall)으로 보호되는 세 가지 유연한 조인트 벤처 아키텍처를 제공합니다."
+  },
+  "Special Purpose Project Vehicles": {
+    "ko": "특수목적 프로젝트 법인(SPV)"
+  },
+  "Formed for isolated capital-intensive operations — such as constructing a localized automated pet food extrusion facility in Indonesia or building an overseas botanical extraction laboratory in Vietnam. The partner co-invests equity into a segregated project vehicle with dedicated board seats and ring-fenced balance-sheet accountability.": {
+    "ko": "인도네시아의 현지화된 자동화 펫푸드 압출 성형 설비 구축이나 베트남의 해외 천연물 추출 연구소 건립과 같은 독립형 자본 집약적 운영을 위해 설립됩니다. 파트너는 전속 이사회 의석과 위험 격리된 재무제표 책임을 갖춘 독립 프로젝트 법인에 지분을 공동 출자합니다."
+  },
+  "Sovereign National Co-Ownership": {
+    "ko": "국가 단위 지분 공동 소유 모델"
+  },
+  "Formed for national-scale market dominance (exemplified by PT SISTAR Indonesia in Jakarta). *SC contributes algorithms, ERP software, global brand licenses, and initial inventory float; the regional partner contributes local import licenses, distribution channels, and sales manpower. Equity is typically structured 50/50 or 60/40.": {
+    "ko": "국가 규모의 시장 지배력 확보를 위해 설립됩니다(자카르타의 PT SISTAR Indonesia 모델이 대표적 사례). *SC는 알고리즘, ERP 소프트웨어, 글로벌 브랜드 라이선스, 초기 재고 유동성을 출자하며, 현지 파트너는 로컬 수입 라이선스, 유통 채널, 영업 인력을 투입합니다. 지분율은 통상 50:50 또는 60:40으로 구조화됩니다."
+  },
+  "Zero-Equity Performance Alliance": {
+    "ko": "무지분 퍼포먼스 얼라이언스"
+  },
+  "For partners seeking immediate commercial cashflow without corporate equity restructuring. Collaboration is governed entirely by smart software contracts and automated payment splits. Profits are calculated on gross merchandise volume (GMV) and distributed in real time via payment gateway webhooks.": {
+    "ko": "법인 지분 재구조화 없이 즉각적인 상업적 현금 흐름을 창출하고자 하는 파트너를 위한 모델입니다. 협업은 전적으로 스마트 소프트웨어 계약 및 자동화된 대금 분할 정산을 통해 통제됩니다. 수익은 총거래액(GMV)을 기준으로 산정되며, PG 웹훅을 통해 실시간으로 배분됩니다."
+  },
+  "Under the *SC corporate constitution, all core algorithms, trademarks, software patents, and AI models reside permanently within the supreme holding company (Domain 01: sc-sistarcompany). Regional Joint Ventures and Project SPVs operate as independent commercial subsidiaries. If an individual regional market experiences trade disputes, currency devaluations, or customs regulatory shifts, the liability is strictly contained within that operating SPV, guaranteeing that partner core equity and holding assets remain completely insulated.": {
+    "ko": "*SC의 기업 헌장에 따라 모든 핵심 알고리즘, 상표권, 소프트웨어 특허 및 AI 모델은 최상위 지주회사(Domain 01: sc-sistarcompany)에 영구 귀속됩니다. 현지 조인트 벤처 및 프로젝트 SPV는 독립적인 상업 자회사로 운영됩니다. 개별 현지 시장에서 무역 분쟁, 통화 평가절하, 통관 규제 변화가 발생하더라도 그 부채와 책임은 해당 운영 SPV 내로 엄격히 격리 차단되어 파트너의 핵심 지분과 지주 자산은 완벽히 보호됩니다."
+  },
+  "Chapter VI • Regulatory Compliance Expediting Customs Clearance • 8 Base Certifications": {
+    "ko": "제6장 • 규제 컴플라이언스 및 통관 신속화 • 8대 기본 인증"
+  },
+  "Regulatory Clearance & Customs Expediting": {
+    "ko": "규제 인허가 및 신속 통관 지원"
+  },
+  "Navigating international health, agriculture, and quarantine agencies is the single greatest bottleneck in cross-border trade. *SC deploys autonomous regulatory compilers that slash approval timelines from months to days.": {
+    "ko": "국가별 보건, 농업 및 검역 기관의 규제 승인 절차는 국경 간 무역에서 발생하는 최대의 병목 구간입니다. *SC는 자율 규제 컴파일러를 배포하여 승인 소요 기간을 수개월에서 수일 수준으로 획기적으로 단축합니다."
+  },
+  "Figure 2.3: Automated Regulatory Compliance & Customs Expediting Architecture": {
+    "ko": "그림 2.3: 자동화 규제 컴플라이언스 및 통관 신속화 아키텍처"
+  },
+  "Chapter VII • Service Level Agreements Contractual SLAs • Performance Standards": {
+    "ko": "제7장 • 서비스 수준 계약(SLA) 및 계약상 SLA • 성과 표준 규격"
+  },
+  "Contractual Service Level Agreements (SLAs)": {
+    "ko": "계약상 서비스 수준 계약(SLA)"
+  },
+  "Every partnership contract executed via *SC Connect is backed by explicit, quantifiable operational and financial SLAs enforceable under international arbitration.": {
+    "ko": "*SC Connect를 통해 체결되는 모든 파트너십 계약은 국제 중재 절차를 통해 강제 집행 가능한 명시적이고 정량화된 운영 및 재무적 SLA에 의해 뒷받침됩니다."
+  },
+  "Chapter VIII • Execution Ingress Application Submission • Executive Contact": {
+    "ko": "제8장 • 실행 인그레스(Ingress) 신청서 제출 • 경영진 커뮤니케이션"
+  },
+  "Initiate Commercial Connection": {
+    "ko": "커머셜 커넥션 개시"
+  },
+  "Submit your organizational credentials to initiate Stage 01 onboarding. The *SC commercial review committee evaluates submissions within 48 business hours.": {
+    "ko": "Stage 01 온보딩을 개시하기 위해 기업 자격 증명 문서를 제출하십시오. *SC 커머셜 심의위원회는 영업일 기준 48시간 이내에 제출된 문서를 심사합니다."
+  },
+  "Required Documentation": {
+    "ko": "제출 필수 서류"
+  },
+  "Certificate of Corporate Incorporation and Tax Registration (TIN / NPWP / Business License).": {
+    "ko": "법인 설립 증명서 및 사업자등록증 (TIN / NPWP / 사업자등록증)."
+  },
+  "Manufacturing facility certifications (GMP, ISO, HACCP, Halal) or wholesale distribution license.": {
+    "ko": "제조 시설 인증서 (GMP, ISO, HACCP, Halal) 또는 도매 유통 라이선스."
+  },
+  "Current product catalog with FOB/CIF pricing schedules and minimum order quantities.": {
+    "ko": "FOB/CIF 단가표 및 최소 발주 수량(MOQ)이 명시된 최신 제품 카탈로그."
+  },
+  "Target geographic territories (KR, ID, VN, SG, CN, JP, US, IN) and projected annual volume.": {
+    "ko": "목표 진출 권역 (KR, ID, VN, SG, CN, JP, US, IN) 및 연간 예상 거래량."
+  },
+  "Veterinary clinical practice license, hospital accreditation, or clinic network profile.": {
+    "ko": "수의 진료업 면허, 병원 인가증 또는 클리닉 네트워크 프로필."
+  },
+  "Digital storefront URLs (Shopify, Shopee, TikTok Shop) or physical boutique retail footprint.": {
+    "ko": "디지털 스토어프론트 URL (Shopify, Shopee, TikTok Shop) 또는 오프라인 부티크 리테일 매장 현황."
+  },
+  "Estimated monthly transaction volume and diagnostic patient throughput.": {
+    "ko": "월간 예상 트랜잭션 규모 및 진단 환자 처리량(Throughput)."
+  },
+  "Desired integration track (Track 11 Clinical Rx, Track 16 SOD, Track 18 Mint Boutique).": {
+    "ko": "희망 통합 트랙 (Track 11 Clinical Rx, Track 16 SOD, Track 18 Mint Boutique)."
+  },
+  "Corporate Portal: https://sistarcompany.com • Partnership Portal: https://partnership.sistarcompany.com Connect Command Hub: https://partnership.sistarcompany.com/01_connect/ Executive Managing Partner: DennyKu (denniiku@sistarcompany.com) Global Commercial Ingress: connect@sistarcompany.com • Technical Integration Support: api@sistarcompany.com *SC (SISTAR Company) • One Spark, Infinite Galaxifying • Powered by Qubit Algorithm™, *SC Intelligence Core, Scarlet AI & The Biz Galaxy Constellation.": {
+    "ko": "기업 포털: https://sistarcompany.com • 파트너십 포털: https://partnership.sistarcompany.com 커넥트 커맨드 허브: https://partnership.sistarcompany.com/01_connect/ 대표총괄 파트너: DennyKu (denniiku@sistarcompany.com) 글로벌 커머셜 인그레스: connect@sistarcompany.com • 기술 통합 지원: api@sistarcompany.com *SC (SISTAR Company) • One Spark, Infinite Galaxifying • Powered by Qubit Algorithm™, *SC Intelligence Core, Scarlet AI & The Biz Galaxy Constellation."
+  },
+  "Chapter I • Commercial Onboarding Gateway": {
+    "ko": "제1장 • 커머셜 온보딩 게이트웨이"
+  },
+  "Layer 5 Node • Connect Command Protocol": {
+    "ko": "레이어 5 노드 • 커넥트 커맨드 프로토콜"
+  },
+  "Autonomous Commercial Ingress Architecture": {
+    "ko": "자율형 커머셜 인그레스 아키텍처"
+  },
+  "Connecting with *SC is engineered as a software-grade, zero-bureaucracy deployment. Where traditional corporate alliances suffer from prolonged negotiation deadlocks, ambiguous revenue shares, and disconnected IT backends, *SC Connect provides standardized API hooks, pre-underwritten commercial contracts, and instantaneous ($t = 0$) financial reconciliation. Whether you are an industrial manufacturer activating Track 02 or a national distributor onboarding Track 06, this monograph details every phase of legal, technical, and operational integration.": {
+    "ko": "*SC와의 연계는 소프트웨어 수준의 무(無)관료주의적 배포(Zero-Bureaucracy Deployment)로 설계되었습니다. 기존의 기업 간 제휴가 장기화된 협상 교착 상태, 모호한 수익 배분 구조, 분절된 IT 백엔드로 난항을 겪는 것과 달리, *SC Connect는 표준화된 API 훅, 사전 심사(Pre-underwritten) 완료된 상업 계약, 즉각적인($t = 0$) 금융 정산 환경을 제공합니다. Track 02를 활성화하는 산업 제조사이든 Track 06에 온보딩하는 국가 단위 유통사이든, 본 모노그래프는 법적·기술적·운영적 통합의 전 단계를 상세히 기술합니다."
+  },
+  "Chapter II • Five-Phase Integration Protocol": {
+    "ko": "제2장 • 5단계 통합 프로토콜"
+  },
+  "Execution Workflow • Standard Operating Procedure": {
+    "ko": "실행 워크플로우 • 표준운영절차(SOP)"
+  },
+  "Chapter III • Technical Architecture": {
+    "ko": "제3장 • 기술 아키텍처"
+  },
+  "Qubit ERP • API Endpoints • Cryptographic Webhooks": {
+    "ko": "Qubit ERP • API 엔드포인트 • 암호화 웹훅"
+  },
+  "Chapter IV • Execution Playbook": {
+    "ko": "제4장 • 실행 플레이북"
+  },
+  "Operational SLAs • Tranche Mechanics": {
+    "ko": "운영 SLA • 트랜치 메커니즘"
+  },
+  "Chapter V • Joint Venture Governance": {
+    "ko": "제5장 • 조인트 벤처 거버넌스"
+  },
+  "Legal Vehicles • SPV Formations • Dual Firewall": {
+    "ko": "법적 비히클 • 특수목적법인(SPV) 설립 • 듀얼 방화벽"
+  },
+  "Chapter VI • Regulatory Compliance Expediting": {
+    "ko": "제6장 • 규제 컴플라이언스 신속화"
+  },
+  "Customs Clearance • 8 Base Certifications": {
+    "ko": "통관 • 8대 핵심 인증"
+  },
+  "Chapter VII • Service Level Agreements": {
+    "ko": "제7장 • 서비스 수준 협약(SLA)"
+  },
+  "Contractual SLAs • Performance Standards": {
+    "ko": "계약상 SLA • 성과 기준"
+  },
+  "Operational Domain": {
+    "ko": "운영 도메인"
+  },
+  "Guaranteed Performance Benchmark (SLA)": {
+    "ko": "보장 성과 벤치마크(SLA)"
+  },
+  "Monitoring & Audit Mechanism": {
+    "ko": "모니터링 및 감사 메커니즘"
+  },
+  "Breach Remedy & Penalty Safeguard": {
+    "ko": "계약 위반 구제책 및 페널티 안전장치"
+  },
+  "Order Dispatch & Picking": {
+    "ko": "주문 출고 및 피킹"
+  },
+  "Within 24 hours of customer purchase order capture": {
+    "ko": "고객 구매 발주(PO) 접수 후 24시간 이내"
+  },
+  "Real-time barcode scan log in Qubit ERP": {
+    "ko": "Qubit ERP 내 실시간 바코드 스캔 로그"
+  },
+  "0.5% invoice credit per 12-hour delay": {
+    "ko": "12시간 지연당 0.5% 인보이스 크레딧 부여"
+  },
+  "Enforced": {
+    "ko": "의무 적용"
+  },
+  "Container Port Clearance": {
+    "ko": "컨테이너 항만 통관"
+  },
+  "Under 72 hours from vessel docking in bonded zones": {
+    "ko": "보세구역 내 선박 접안 후 72시간 이내"
+  },
+  "Port authority electronic customs clearance timestamp": {
+    "ko": "항만 당국 전자통관 타임스탬프"
+  },
+  "Demurrage and detention fees covered by *SC logistics": {
+    "ko": "체화료(Demurrage) 및 반출지연료(Detention) *SC logistics 전액 부담"
+  },
+  "70/30 Split Cashflow": {
+    "ko": "70/30 배분 현금흐름"
+  },
+  "Simultaneous ($t = 0$) payout upon customer payment capture": {
+    "ko": "고객 결제 승인 즉시 동시($t = 0$) 대금 정산"
+  },
+  "Payment gateway webhook payload verification log": {
+    "ko": "결제 게이트웨이 웹훅 페이로드 검증 로그"
+  },
+  "Immediate merchant escrow credit + 2% liquidity fee offset": {
+    "ko": "가맹점 에스크로 즉시 입금 + 2% 유동성 수수료 상계"
+  },
+  "Inventory Stock Accuracy": {
+    "ko": "재고 정확도"
+  },
+  "99.85% cycle-count accuracy across all space-sharing hubs": {
+    "ko": "전 공간 공유 허브 전반에 걸친 99.85% 순환 실사 정확도"
+  },
+  "Weekly automated RFID cycle counts on Console.csv": {
+    "ko": "Console.csv 기반 주간 자동화 RFID 순환 실사"
+  },
+  "100% replacement reimbursement at landed cost": {
+    "ko": "도착원가(Landed Cost) 기준 100% 대체 보상"
+  },
+  "Batch Stability & Quality": {
+    "ko": "배치(Batch) 안정성 및 품질"
+  },
+  "100% compliance with AAFCO, FEDIAF, and GMP specifications": {
+    "ko": "AAFCO, FEDIAF 및 GMP 규격 100% 준수"
+  },
+  "Third-party laboratory Certificate of Analysis (CoA)": {
+    "ko": "제3자 공인 시험기관 분석성적서(CoA)"
+  },
+  "Immediate batch recall and free container replacement": {
+    "ko": "즉각적인 배치(Batch) 리콜 및 무상 컨테이너 교체"
+  },
+  "Data Privacy & IP Isolation": {
+    "ko": "데이터 프라이버시 및 지식재산권(IP) 격리"
+  },
+  "Zero cross-partner data leakage or proprietary formula sharing": {
+    "ko": "파트너 간 데이터 유출 및 독점 포뮬러 공유 전면 차단(Zero-Leakage)"
+  },
+  "Cryptographic zero-knowledge access logs via IADA": {
+    "ko": "IADA 기반의 암호학적 영지식(Zero-Knowledge) 접근 로그"
+  },
+  "USD 1,000,000 liquidated damages per willful breach": {
+    "ko": "고의적 위약 건당 미화 1,000,000달러(USD)의 손해배상액 예정(Liquidated Damages)"
+  },
+  "Chapter VIII • Execution Ingress": {
+    "ko": "제8장 • 실행 인그레스(Execution Ingress)"
+  },
+  "Application Submission • Executive Contact": {
+    "ko": "신청서 제출 • 경영진 직통 채널"
+  },
+  "Chapter I • Executive Manifesto & Master Topology Layer 5 Architecture • 3-Pillar Participants": {
+    "ko": "제1장 • 경영진 매니페스토 및 마스터 토폴로지 레이어 5 아키텍처 • 3대 핵심 참여자"
+  },
+  "*SC Partnership Gateway": {
+    "ko": "*SC 파트너십 게이트웨이"
+  },
+  "An institutional co-creation portal engineered to convert linear buyer-seller friction into unified quantum commercial alliances. Governed by zero sunk-capex infrastructure, 20-track standardized B2B commercial offer sheets, joint ODM manufacturing, and algorithmic cross-border settlement.": {
+    "ko": "선형적 바이어-셀러 간 마찰을 단일화된 퀀텀 커머셜 동맹으로 전환하도록 설계된 기관급 공동 창출 포털. 매몰 자본 지출 제로(Zero Sunk-Capex) 인프라, 20트랙 표준화 B2B 상업용 오퍼 시트, 공동 ODM 제조 및 알고리즘 기반 크로스보더 정산 체계를 통해 통제됩니다."
+  },
+  "Ready-to-execute B2B standardized commercial offer sheets covering container deals to digital drop-shipping.": {
+    "ko": "컨테이너 단위 대규모 거래부터 디지털 드롭쉬핑까지 망라하는 즉시 실행 가능한 B2B 표준 상업용 오퍼 시트."
+  },
+  "Instant plug-and-play access to Qubit ERP, Company RAG, and automated 24/7 Data Factory pipelines.": {
+    "ko": "Qubit ERP, Company RAG 및 24/7 자동화 데이터 팩토리(Data Factory) 파이프라인에 대한 즉각적인 플러그 앤 플레이(Plug-and-Play) 액세스."
+  },
+  "Blended gross margin profile via direct-from-source manufacturing and automated split settlement.": {
+    "ko": "산지 직송 제조 및 자동 분할 정산(Split Settlement)을 통한 통합 매출총이익(Blended Gross Margin) 프로파일 확보."
+  },
+  "Sovereign localized legal, logistics, and customs operational bases across KR, ID, VN, SG, CN, JP, US, IN.": {
+    "ko": "KR, ID, VN, SG, CN, JP, US, IN 전역에 걸친 주권적 현지 법률·물류·통관 운영 거점."
+  },
+  "Through the *SC Partnership Gateway, global commercial partners eliminate the traditional 12-to-18-month lead time required to launch cross-border ventures. By entangling partner manufacturing capacities and regional distribution channels with *SC's mathematical algorithms (Domain 02: qubit-algorithm), proprietary cognitive assets (Domain 03: intelligence-core), and automated monetization engines (Domain 04: scarlet-ai and Domain 05: qubit-biz), every partner operates with the agility of a sovereign tech enterprise while retaining independent equity and brand authority.": {
+    "ko": "*SC 파트너십 게이트웨이를 통해 글로벌 커머셜 파트너는 크로스보더 벤처 출범에 소요되던 기존 12~18개월의 리드타임을 완전히 제거합니다. 파트너의 제조 역량 및 권역별 유통 채널을 *SC의 수학적 알고리즘(Domain 02: qubit-algorithm), 독점 인지 자산(Domain 03: intelligence-core), 자동화 수익화 엔진(Domain 04: scarlet-ai 및 Domain 05: qubit-biz)과 양자 얽힘(Entangling) 방식으로 결합함으로써, 모든 파트너는 독자적인 지분과 브랜드 지배력을 온전히 유지하면서도 주권적 테크 엔터프라이즈급의 민첩성으로 운영됩니다."
+  },
+  "Figure 1.1: *SC Master Global Partnership & Co-Creation Architectural Topology": {
+    "ko": "그림 1.1: *SC 마스터 글로벌 파트너십 및 공동 창출 아키텍처 토폴로지"
+  },
+  "Chapter II • Strategic Ingress Pillars Partner Taxonomy • Mutual Value Creation": {
+    "ko": "제2장 • 전략적 인그레스 축 파트너 분류 체계 • 상호 가치 창출"
+  },
+  "Four Pillars of Global Partner Participation": {
+    "ko": "글로벌 파트너 참여의 4대 핵심 축"
+  },
+  "Every global business operates with unique structural strengths — manufacturing infrastructure, regional logistics networks, clinical credibility, or retail audience reach. *SC provides four distinct ingress routes configured to match each partner's operational DNA.": {
+    "ko": "모든 글로벌 엔터프라이즈는 제조 인프라, 권역별 물류망, 임상적 신뢰도, 리테일 오디언스 도달력 등 고유의 구조적 강점을 바탕으로 운영됩니다. *SC는 각 파트너의 운영 DNA에 정밀하게 부합하도록 구성된 4가지 차별화된 인그레스 경로를 제공합니다."
+  },
+  "Joint ODM / OEM & Global Channel Offtake": {
+    "ko": "공동 ODM / OEM 및 글로벌 채널 오프테이크(Offtake)"
+  },
+  "For certified manufacturing facilities producing nutritional supplements, pet nutrition, botanical extracts, functional beverages, and medical disposables. Partners eliminate production idle capacity by manufacturing *SC flagship product lines (SISTAR MedIX, SISPet, SISPharm, SisAyurvedic) and gaining immediate placement across 8 international sales channels.": {
+    "ko": "영양제, 펫 뉴트리션, 식물 추출물, 기능성 음료 및 의료용 소모품을 생산하는 공인 제조 시설 대상. 파트너는 *SC의 플래그십 제품 라인(SISTAR MedIX, SISPet, SISPharm, SisAyurvedic)을 수탁 제조함으로써 유휴 생산 능력을 해소하고, 8개 글로벌 판매 채널에 즉시 입점하는 혜택을 확보합니다."
+  },
+  "Zero distributor listing fees; guaranteed multi-container rolling purchasing forecasts (RPF).": {
+    "ko": "유통사 입점비 전액 면제; 멀티 컨테이너 단위 롤링 구매 예측(RPF) 보장."
+  },
+  "Direct integration with *SC Auto-Formulator AI for precision micro-batch formulation.": {
+    "ko": "정밀 마이크로 배치(Micro-Batch) 처방 설계를 위한 *SC Auto-Formulator AI 직접 연동."
+  },
+  "Automated compliance dossier compilation for instant BPOM, FDA, NMPA, and MFDS registration.": {
+    "ko": "BPOM, FDA, NMPA 및 MFDS(식약처) 인허가 등록을 즉각 지원하는 규제 준수 서류(Compliance Dossier) 자동 컴파일."
+  },
+  "Exclusive Territorial Franchises & BNPL Financing": {
+    "ko": "독점 권역 프랜차이즈 및 BNPL 파이낸싱"
+  },
+  "For established national and regional distribution conglomerates commanding warehousing, customs clearance, and cold-chain logistics in tier-1/tier-2 metropolitan clusters. Partners secure protected master territorial rights, backed by sovereign export credit guarantees and dynamic pricing controls.": {
+    "ko": "Tier-1 및 Tier-2 핵심 대도시 권역에서 물류 창고, 통관 및 콜드체인 유통망을 장악하고 있는 검증된 국가·권역별 유통 콘소시엄 대상. 파트너는 국가 공적 수출신용보증과 동적 가격 통제 알고리즘의 지원을 받아 배타적 마스터 권역 판권을 확보합니다."
+  },
+  "First 3 Shipments 50% deposit protocol with 90-day K-SURE backed BNPL terms.": {
+    "ko": "초기 3회 선적분 계약금 50% 프로토콜 및 90일 만기 K-SURE BNPL 조건 연계."
+  },
+  "Consignment depot operations with real-time Qubit ERP stock replenishment triggers.": {
+    "ko": "실시간 Qubit ERP 재고 보충 트리거 기반의 위탁 물류 거점(Consignment Depot) 운영."
+  },
+  "Sub-distributor price-floor protection and automated Minimum Advertised Price (MAP) enforcement.": {
+    "ko": "하위 유통사(Sub-distributor) 최저 가격대 보호 및 최저 광고 가격(MAP) 자동 강제 집행."
+  },
+  "Clinical AI Dx SaaS & Exclusive In-Clinic Dispensaries": {
+    "ko": "임상 AI 진단(Dx) SaaS 및 독점 원내 처방/조제(In-Clinic Dispensaries)"
+  },
+  "For animal hospitals, specialty veterinary networks, clinical dermatologists, and human wellness clinics. *SC deploys Scarlet Vet CDSS (Clinical Decision Support System) and the Auto-Formulator for Vet, transforming conventional clinics into high-margin digital diagnostic and compounding powerhouses.": {
+    "ko": "동물병원, 전문 수의 네트워크, 임상 피부과 전문의 및 휴먼 웰니스 클리닉을 위한 솔루션입니다. *SC는 Scarlet Vet CDSS(임상 의사결정 지원 시스템)와 수의용 Auto-Formulator를 구축하여, 전통적인 클리닉을 고마진 디지털 진단 및 조제 파워하우스로 혁신합니다."
+  },
+  "Exclusive veterinary clinic editions (SISTAR MedIX Clinical Edition) with 55% to 65% in-clinic margins.": {
+    "ko": "55%~65%의 원내 마진율을 보장하는 수의 클리닉 전용 에디션(SISTAR MedIX Clinical Edition)."
+  },
+  "Personalized nutritional compounding algorithms generating customized pet diet sachets.": {
+    "ko": "맞춤형 반려동물 처방 식단 사셰를 생성하는 개인화 영양 조제 알고리즘."
+  },
+  "Zero software licensing fees; revenue-shared diagnostic and therapeutic dispensaries.": {
+    "ko": "소프트웨어 라이선스 비용 제로화; 수익 공유형(Revenue-shared) 진단 및 치료 조제 시스템."
+  },
+  "SISTAR SOD Dropshipping & Mint Boutique Chains": {
+    "ko": "SISTAR SOD 드롭쉬핑 및 민트 부티크 체인"
+  },
+  "For e-commerce operators, cross-border Shopify/Shopee/TikTok merchants, and lifestyle brick-and-mortar retailers. Partners tap into the SISTAR System On Demand (SOD) protocol to sell premium SKUs without upfront inventory capital or warehouse leases.": {
+    "ko": "이커머스 운영사, 크로스보더 Shopify/Shopee/TikTok 셀러, 라이프스타일 오프라인 유통사를 위한 솔루션입니다. 파트너는 SISTAR System On Demand (SOD) 프로토콜을 활용하여 초기 재고 자본이나 물류창고 임대 없이 프리미엄 SKU를 판매할 수 있습니다."
+  },
+  "100% zero-inventory fulfillment handled from *SC regional space-sharing hubs.": {
+    "ko": "*SC의 권역별 공간 공유 허브를 통해 처리되는 100% 무재고 풀필먼트."
+  },
+  "Automated 70/30 payment split via real-time payment gateway webhooks.": {
+    "ko": "실시간 결제 게이트웨이 웹훅 기반의 자동화된 70/30 정산 분할."
+  },
+  "Turnkey boutique franchise packages (SISTAR Mint Colored Shop, SUU Lifestyle, Iruka Is Back).": {
+    "ko": "턴키 부티크 프랜차이즈 패키지 (SISTAR Mint Colored Shop, SUU Lifestyle, Iruka Is Back)."
+  },
+  "Chapter III • 20-Track Commercial Offer Sheets Standardized B2B Contracts • Execution Blueprints": {
+    "ko": "제3장 • 20-트랙 커머셜 오퍼 시트 표준 B2B 계약서 • 실행 청사진"
+  },
+  "The 20-Track B2B Commercial Catalog": {
+    "ko": "20-트랙 B2B 커머셜 카탈로그"
+  },
+  "To eradicate protracted negotiation cycles that paralyze global deals, *SC codifies its commercial engagements into 20 standardized, pre-underwritten commercial offer sheets organized into four high-velocity tranches.": {
+    "ko": "글로벌 딜의 진척을 저해하는 장기 협상 주기를 원천 차단하기 위해, *SC는 상거래 계약 모델을 4개의 고속 트랜치(tranche)로 구조화된 20개의 표준화된 사전 심사 완료(pre-underwritten) 커머셜 오퍼 시트로 체계화했습니다."
+  },
+  "Chapter IV • Financial Engineering & Settlement Unit Economics • K-SURE Shield • 70/30 Split": {
+    "ko": "제4장 • 금융 공학 및 정산 단위 경제학 • K-SURE 쉴드 • 70/30 분할"
+  },
+  "Algorithmic Unit Economics & Risk Firewall": {
+    "ko": "알고리즘 기반 단위 경제학(Unit Economics) 및 리스크 방화벽"
+  },
+  "Traditional cross-border partnerships stumble on credit insolvency, currency fluctuations, and delayed account reconciliation. *SC eliminates capital friction through mathematical certainty and sovereign trade insurance.": {
+    "ko": "기존의 크로스보더 파트너십은 신용 불이행, 환율 변동성, 계정 대사 지연이라는 난제에 직면해 왔습니다. *SC는 수학적 확실성과 국가 신용 기반 무역보험을 통해 자본 마찰을 근본적으로 제거합니다."
+  },
+  "Where traditional international market expansion requires USD 500,000 to USD 2,000,000 in sunk infrastructure costs (overseas subsidiary incorporation, local ERP deployment, customs brokerage retainers, and inventory float), *SC's multi-tenant architecture reduces the partner's CapEx requirement to zero, generating asymptotically infinite capital efficiency on initial deployment.": {
+    "ko": "기존 글로벌 시장 진출 시 인프라 매몰 비용(해외 법인 설립, 현지 ERP 구축, 관세사 선임료 및 재고 유동성)으로 50만~200만 달러가 요구되던 것과 달리, *SC의 멀티테넌트 아키텍처는 파트너의 CapEx 부담을 '제로(0)'로 절감하여 초기 도입 시 점근적으로 무한대에 수렴하는 자본 효율성을 창출합니다."
+  },
+  "Sovereign Credit Underwriting": {
+    "ko": "국가 신용 언더라이팅(Sovereign Credit Underwriting)"
+  },
+  "Export shipments under Track 01, 02, and 06 are underwritten by Korea Trade Insurance Corporation (K-SURE) export credit guarantees. Partners receive up to 90-day open-account deferred settlement terms while manufacturers receive 100% sovereign-backed payment assurance upon vessel departure.": {
+    "ko": "트랙 01, 02, 06에 따른 수출 선적분은 한국무역보험공사(K-SURE)의 수출신용보증을 통해 인수됩니다. 파트너는 최대 90일의 사후송금방식(Open Account) 외상 결제 조건을 부여받으며, 제조사는 선박 출항 즉시 100% 국가 신용이 보증하는 대금 지급을 확약받습니다."
+  },
+  "Trust-Building Working Capital": {
+    "ko": "신뢰 구축형 운전자본 모델"
+  },
+  "To build mutual operational conviction with new master wholesalers, initial container shipments require only a 50% upfront production deposit, with the remaining 50% settled upon container arrival and customs verification. Subsequent shipments transition seamlessly to rolling credit facilities.": {
+    "ko": "신규 총판 도매상과의 상호 운용적 확신을 확립하기 위해, 초도 컨테이너 선적은 50%의 생산 착수금만 요구하며 잔여 50%는 컨테이너 도착 및 통관 검증 후 정산됩니다. 이후의 선적분은 롤링 크레디트 여신(rolling credit facility)으로 유연하게 전환됩니다."
+  },
+  "Simultaneous ($t = 0$) Settlement": {
+    "ko": "동시적($t = 0$) 즉시 정산"
+  },
+  "Digital drop-shipping, boutique franchise, and e-commerce transactions run on automated payment gateway webhooks. Customer payments are split in real time: 70% flows directly to the merchant/partner escrow for immediate working capital replenishment, while 30% covers core manufacturing and platform servicing fees.": {
+    "ko": "디지털 드롭쉬핑, 부티크 프랜차이즈, 이커머스 거래는 자동화된 결제 게이트웨이 웹훅을 기반으로 실행됩니다. 고객 결제 대금은 실시간으로 분할되어 70%는 가맹점/파트너 에스크로로 즉시 지급되어 운전자본을 보충하고, 30%는 핵심 제조 및 플랫폼 서비스 수수료로 충당됩니다."
+  },
+  "Figure 1.2: End-to-End Partner Cashflow & Automated Webhook Split Settlement Flow": {
+    "ko": "도표 1.2: 엔드투엔드 파트너 현금흐름 및 자동 웹훅 분할 정산 프로세스"
+  },
+  "Chapter V • Technology Co-Creation Engine Auto-Formulator AI • 24/7 Data Factory • Micro-Sachets": {
+    "ko": "제5장 • 기술 공동 창출 엔진 Auto-Formulator AI • 24/7 데이터 팩토리 • 마이크로 사셰"
+  },
+  "Joint Technology & Manufacturing Co-Creation": {
+    "ko": "기술 및 제조 공동 창출(Co-Creation) 연합"
+  },
+  "Partnership with *SC is not a passive resale relationship; it is an active co-creation alliance where partners leverage our patent-pending cognitive software and automated production pipelines to pioneer new market categories.": {
+    "ko": "*SC와의 파트너십은 수동적인 재판매 관계가 아닙니다. 이는 파트너가 당사의 특허 출원 인지형 소프트웨어와 자동화 생산 파이프라인을 활용하여 새로운 시장 카테고리를 개척하는 능동적 기술 공동 창출(Co-Creation) 연합입니다."
+  },
+  "Algorithmic Nutritional Compounding": {
+    "ko": "알고리즘 기반 영양 조제(Nutritional Compounding)"
+  },
+  "Built inside Domain 03 (intelligence-core) and proven in Domain 06 (biz-galaxy), the Auto-Formulator for Vet analyzes patient biometric inputs (breed, weight, kidney biomarkers, liver enzymes, skin allergens) and instantly generates optimized botanical formulations conforming to AAFCO and FEDIAF standards. Partner manufacturing facilities produce these formulations in bespoke batches with zero trial-and-error waste.": {
+    "ko": "Domain 03(intelligence-core) 내에 구축되고 Domain 06(biz-galaxy)에서 실증된 수의용 Auto-Formulator는 환견/환묘의 생체 데이터(품종, 체중, 신장 바이오마커, 간 효소 수치, 피부 알레르기원)를 분석하여 AAFCO 및 FEDIAF 기준에 부합하는 최적화된 식물성 포뮬러를 즉각 도출합니다. 파트너 제조 시설은 시행착오에 따른 원료 손실 없이 맞춤형 배치(batch) 단위로 해당 포뮬러를 양산합니다."
+  },
+  "Emerging Market Mass-Accessibility Packaging": {
+    "ko": "신흥 시장 대중 접근성 극대화 패키징"
+  },
+  "Designed specifically for Southeast Asian emerging markets (Indonesia, Vietnam, Philippines), this protocol repacks premium functional pet nutrition and human nutraceuticals into single-serving hermetically sealed micro-sachets retailing at exactly IDR 1,320 (USD 0.08). Partner packaging lines run at 120 sachets/minute, converting high-end formulations into daily consumer impulse purchases with zero shelf degradation.": {
+    "ko": "동남아시아 신흥 시장(인도네시아, 베트남, 필리핀)을 위해 특화 설계된 본 프로토콜은 프리미엄 기능성 펫 영양제 및 인체용 뉴트라슈티컬을 개당 IDR 1,320(미화 0.08달러)의 정가로 판매되는 1회용 밀봉 마이크로 사셰로 소분 포장합니다. 파트너 포장 라인은 분당 120포의 속도로 가동되어, 유통기한 내 품질 저하 없이 하이엔드 포뮬러를 일상적 충동 구매 제품으로 전환시킵니다."
+  },
+  "Autonomous Market Intelligence & Dynamic Pricing": {
+    "ko": "자율형 마켓 인텔리전스 및 동적 가격 책정(Dynamic Pricing)"
+  },
+  "While partner executive teams rest, *SC's autonomous Overnight Data Factory executes deep market sweeps across 8 countries: scraping 45,000+ competitor SKUs, tracking spot raw-material price shifts on global commodity exchanges, monitoring customs regulatory amendments, and synthesizing actionable daily pricing dossiers. By 8 AM, partner leadership receives a consolidated executive action report with optimized margin recommendations.": {
+    "ko": "파트너사 경영진이 휴식을 취하는 야간 동안, *SC의 자율형 Overnight Data Factory는 8개국 전역에서 심층 시장 스캔을 실행합니다. 45,000개 이상의 경쟁사 SKU 스크래핑, 글로벌 원자재 거래소의 현물 가격 변동 추적, 관세 규제 개정안 모니터링을 수행하고 실행 가능한 일일 가격 책정 도시에(Dossier)를 종합합니다. 익일 오전 8시까지 파트너사 리더십은 최적화된 마진 제안이 담긴 통합 경영진 실행 보고서를 수령하게 됩니다."
+  },
+  "Chapter VI • Federated Governance IATA • IADA • Sovereign Trade Federation": {
+    "ko": "제6장 • 연합형 거버넌스 IATA • IADA • 주권 무역 연합"
+  },
+  "The Sovereign Alliance: IATA & IADA Governance": {
+    "ko": "주권 연합: IATA 및 IADA 거버넌스"
+  },
+  "To ensure independent manufacturers, clinics, and regional distributors are never subjugated by centralized tech monopolies (Amazon, Shopee, TikTok Shop), *SC anchors all partnerships within sovereign federated alliances: \"Ants United Against Global AI Giants.\"": {
+    "ko": "독립 제조사, 클리닉 및 지역 유통사가 중앙집중형 빅테크 독점 기업(Amazon, Shopee, TikTok Shop)에 결코 종속되지 않도록, *SC는 모든 파트너십을 주권 연합 거버넌스 하에 구축합니다: \"글로벌 AI 거인에 맞서는 개미들의 연대(Ants United Against Global AI Giants).\""
+  },
+  "Democratizing Cross-Border Trade Standards": {
+    "ko": "국경 간 무역 표준의 민주화"
+  },
+  "IATA is the global non-profit alliance established to establish open protocols for AI-driven international trade. It standardizes digital bills of lading, cross-border customs declarations, AI diagnostic validation criteria, and multilateral export credit agreements. Through IATA, small and mid-sized enterprises negotiate shipping container rates and port clearance priority alongside multinational conglomerates.": {
+    "ko": "IATA는 AI 기반 국제 무역을 위한 개방형 프로토콜 수립을 목표로 설립된 글로벌 비영리 연합입니다. 전자 선하증권(e-B/L), 국경 간 통관 신고, AI 진단 검증 기준 및 다자간 수출 신용 협약을 표준화합니다. 중소·중견기업은 IATA를 통해 다국적 대기업과 대등한 조건으로 해상 컨테이너 운임 및 항만 통관 우선권을 협상합니다."
+  },
+  "Data Sovereignty & Distributed Knowledge Vaults": {
+    "ko": "데이터 주권 및 분산형 지식 금고(Distributed Knowledge Vaults)"
+  },
+  "IADA protects partner data sovereignty. Unlike proprietary commercial platforms that harvest merchant transaction records and patient medical files to build competitive in-house brands, *SC stores partner proprietary data in isolated, zero-knowledge cryptographic vaults. Partner data is utilized exclusively to train the partner's dedicated RAG models, ensuring complete intellectual property isolation.": {
+    "ko": "IADA는 파트너사의 데이터 주권을 완벽히 보호합니다. 입점사의 거래 내역과 환자 의료 기록을 무단 수집하여 자체 경쟁 PB 브랜드를 구축하는 독점 상용 플랫폼과 달리, *SC는 파트너사의 독점 데이터를 격리된 영지식(Zero-Knowledge) 암호화 금고에 보관합니다. 파트너사 데이터는 오직 해당 파트너사 전용 RAG 모델을 미세조정(Fine-Tuning)하는 데만 배타적으로 활용되어 지식재산권의 완전한 격리를 보장합니다."
+  },
+  "Figure 1.3: The IATA & IADA Sovereign Alliance & Multi-Hub Legal Protection Shield": {
+    "ko": "도표 1.3: IATA 및 IADA 주권 연합 & 멀티 허브 법적 보호 실드"
+  },
+  "Chapter VII • Sovereign Operational Footprint 8 Country Bases • Regulatory Clearance • Customs Transit": {
+    "ko": "제7장 • 주권적 운영 거점 8개국 인프라 • 규제 인허가 승인 • 세관 통과"
+  },
+  "Eight Sovereign Country Hubs": {
+    "ko": "8개국 주권 운영 허브"
+  },
+  "A global partnership is only as durable as its local ground execution. *SC operates dedicated corporate entities, bonded warehousing, and localized regulatory teams across eight sovereign economic territories.": {
+    "ko": "글로벌 파트너십의 지속 가능성은 현지 오프라인 실행력에 정비례합니다. *SC는 8개 주권 경제 영토 전역에 전용 법인, 보세 창고 및 현지화된 규제 대응 전문 팀을 가동하고 있습니다."
+  },
+  "Global R&D & Holding": {
+    "ko": "글로벌 R&D 및 지주 본사"
+  },
+  "Headquarters of algorithm creation, MFDS bio-health certifications, and K-SURE export underwriting. Anchors high-precision manufacturing.": {
+    "ko": "알고리즘 창제, 식약처(MFDS) 바이오·헬스 인증, K-SURE 수출 인수 거점. 초정밀 제조의 앵커 역할을 수행합니다."
+  },
+  "Jakarta headquarters (PT SISTAR Indonesia), BPOM registration fast-track, Halal assurance, and nationwide modern/general trade logistics.": {
+    "ko": "자카르타 본부(PT SISTAR Indonesia), BPOM 인허가 패스트트랙, 할랄(Halal) 인증 보증 및 인도네시아 전역의 현대식/전통 유통망 물류를 총괄합니다."
+  },
+  "Manufacturing & Packaging": {
+    "ko": "제조 및 패키징"
+  },
+  "High-speed packaging, localized clinical trial networks, and rapid cross-border fulfillment across Indochina.": {
+    "ko": "고속 패키징, 현지화된 임상 시험 네트워크, 인도차이나 전역을 아우르는 신속한 크로스보더 풀필먼트를 담당합니다."
+  },
+  "FinTech & Treasury": {
+    "ko": "핀테크 및 트레저리(Treasury)"
+  },
+  "International currency management, multi-currency escrow facilities, and cross-border IP licensing headquarters.": {
+    "ko": "국제 통화 외환 관리, 다중 통화 에스크로 인프라 및 국경 간 IP 라이선싱 본부 역할을 수행합니다."
+  },
+  "Direct raw material botanical sourcing, specialized packaging extrusion, and cross-border CBEC bonded warehouses.": {
+    "ko": "천연 식물성 원원료 직접 소싱, 특수 패키징 압출 성형 및 크로스보더 CBEC 보세 물류 허브를 총괄합니다."
+  },
+  "Clinical Precision & QA": {
+    "ko": "임상 정밀도 및 품질 보증(QA)"
+  },
+  "Quality assurance audits, Japanese veterinary clinical trials, and premium retail channel placement.": {
+    "ko": "품질 보증(QA) 감사, 일본 수의학 임상 시험 및 프리미엄 리테일 채널 입점을 총괄합니다."
+  },
+  "Americas Gateway": {
+    "ko": "미주 관문(Americas Gateway)"
+  },
+  "FDA compliance dossiers, North American D2C Amazon/Shopify distribution, and institutional venture investor relations.": {
+    "ko": "FDA 규제 컴플라이언스 도시에, 북미 D2C Amazon/Shopify 유통망 및 기관 벤처 투자자 관계(IR)를 주도합니다."
+  },
+  "Ayurvedic & Bio-Sourcing": {
+    "ko": "아유르베다 및 바이오 소싱"
+  },
+  "Organic botanical supply chain, herbal extraction laboratories (SisAyurvedic), and cost-optimized packaging hubs.": {
+    "ko": "유기농 보태니컬 공급망, 허브 추출 연구소(SisAyurvedic) 및 비용 최적화 패키징 허브를 운영합니다."
+  },
+  "Chapter VIII • Commercial Onboarding & Action 5-Stage Onboarding • Executive Contact • Immediate Execution": {
+    "ko": "제8장 • 상업 온보딩 및 즉각 실행 5단계 온보딩 • 경영진 핫라인 • 즉각적 실행"
+  },
+  "Fast-Track Partner Onboarding Protocol": {
+    "ko": "패스트트랙 파트너 온보딩 프로토콜"
+  },
+  "Transitioning from initial contact to live commercial revenue within 14 business days via our automated 5-stage onboarding protocol.": {
+    "ko": "자동화된 5단계 온보딩 프로토콜을 통해 최초 접촉부터 14영업일 이내에 실질적인 상업 매출 창출 단계로 신속히 전환합니다."
+  },
+  "Corporate Flagship: https://sistarcompany.com • Partnership Gateway: https://partnership.sistarcompany.com Executive Managing Partner: DennyKu (denniiku@sistarcompany.com) Commercial Ingress Inquiries: connect@sistarcompany.com • Legal & Sovereign Alliances: legal@sistarcompany.com *SC (SISTAR Company) • One Spark, Infinite Galaxifying • Powered by Qubit Algorithm™, *SC Intelligence Core, Scarlet AI & The Biz Galaxy Constellation.": {
+    "ko": "기업 플래그십: https://sistarcompany.com • 파트너십 게이트웨이: https://partnership.sistarcompany.com 총괄 매니징 파트너: DennyKu (denniiku@sistarcompany.com) 커머셜 인그레스 문의: connect@sistarcompany.com • 법무 및 주권 동맹: legal@sistarcompany.com *SC (SISTAR Company) • One Spark, Infinite Galaxifying • Powered by Qubit Algorithm™, *SC Intelligence Core, Scarlet AI & The Biz Galaxy Constellation."
+  },
+  "Chapter I • Executive Manifesto & Master Topology": {
+    "ko": "제1장 • 경영진 선언문 및 마스터 토폴로지"
+  },
+  "Layer 5 Architecture • 3-Pillar Participants": {
+    "ko": "레이어 5 아키텍처 • 3대 핵심 축 참여자"
+  },
+  "The Quantum Strategic Alliance Thesis": {
+    "ko": "퀀텀 전략적 제휴 테제"
+  },
+  "In traditional international commerce, enterprise partnerships are constrained by asymmetric information, multi-layered middleman markups (35% to 55%), delayed cross-border letters of credit, and heavy capital expenditure in proprietary supply-chain software. *SC (SISTAR Company) rearchitects global collaboration through Layer 5 of the Signal Star Universe: connecting industrial manufacturers, wholesale distributors, clinical veterinary networks, and commercial brands directly to our pre-built cognitive OS, algorithmic trade pipelines, and federated international alliances.": {
+    "ko": "전통적인 국제 무역에서 기업 간 파트너십은 정보의 비대칭성, 다단계 중개 마진(35%~55%), 국경 간 신용장 결제 지연, 독자적 공급망 소프트웨어 구축에 따른 막대한 자본 지출(CapEx)로 인해 제약을 받아왔습니다. *SC (SISTAR Company)는 시그널 스타 유니버스(Signal Star Universe)의 레이어 5를 통해 글로벌 협업 생태계를 재설계합니다. 산업 제조업체, 도매 유통업체, 임상 수의학 네트워크 및 커머셜 브랜드를 당사의 사전 구축된 인지형 OS, 알고리즘 기반 무역 파이프라인, 연합형 국제 동맹으로 직접 연결합니다."
+  },
+  "Chapter II • Strategic Ingress Pillars": {
+    "ko": "제2장 • 전략적 인그레스 핵심 축"
+  },
+  "Partner Taxonomy • Mutual Value Creation": {
+    "ko": "파트너 분류 체계 • 상호 가치 창출"
+  },
+  "Chapter III • 20-Track Commercial Offer Sheets": {
+    "ko": "제3장 • 20대 트랙 커머셜 오퍼 시트"
+  },
+  "Standardized B2B Contracts • Execution Blueprints": {
+    "ko": "표준화된 B2B 계약 체계 • 실행 청사진"
+  },
+  "Track ID": {
+    "ko": "트랙 ID"
+  },
+  "Commercial Offer Track Name": {
+    "ko": "커머셜 오퍼 트랙 명칭"
+  },
+  "Target Partner Category": {
+    "ko": "타깃 파트너 범주"
+  },
+  "Standard Deal Structure & Settlement": {
+    "ko": "표준 딜 구조 및 정산 방식"
+  },
+  "Governance Tier": {
+    "ko": "거버넌스 티어"
+  },
+  "Track 01": {
+    "ko": "트랙 01"
+  },
+  "FCL Full Container Volume Contract": {
+    "ko": "FCL 풀 컨테이너 볼륨 계약"
+  },
+  "Industrial Food / Feed Mills & Megastores": {
+    "ko": "산업용 식품/사료 제조 플랜트 및 대형 유통 매장"
+  },
+  "50% deposit on first 3 shipments; balance net 60 days via K-SURE": {
+    "ko": "최초 3회 선적분 계약금 50%; 잔금은 K-SURE 보증 기반 외상매출 60일(Net 60) 정산"
+  },
+  "Tranche A • Bulk": {
+    "ko": "트랜치 A • 벌크"
+  },
+  "Track 02": {
+    "ko": "트랙 02"
+  },
+  "Contract ODM Formulation & Manufacturing": {
+    "ko": "계약 ODM 포뮬레이션 및 수탁 제조"
+  },
+  "Private Label Brands & Pharmacy Chains": {
+    "ko": "자체 브랜드(PB) 및 약국 체인"
+  },
+  "Joint IP formulation; 40% upfront, 60% upon bill of lading": {
+    "ko": "공동 IP 포뮬레이션; 선급금 40%, 선하증권(B/L) 발행 시 60% 정산"
+  },
+  "Track 03": {
+    "ko": "트랙 03"
+  },
+  "Raw Material Extraction Offtake Agreement": {
+    "ko": "원자재 추출 오프테이크(Offtake) 계약"
+  },
+  "Agricultural Cooperatives & Chemical Plants": {
+    "ko": "농업협동조합 및 화학 플랜트"
+  },
+  "Annual guaranteed volume off-take; monthly indexed pricing": {
+    "ko": "연간 보증 물량 오프테이크; 월별 지수 연동 가격 책정"
+  },
+  "Track 04": {
+    "ko": "트랙 04"
+  },
+  "Cross-Border Cold-Chain Transit Contract": {
+    "ko": "국경 간 콜드체인 운송 계약"
+  },
+  "Specialized Bio-Pharma Logistics Providers": {
+    "ko": "특화 바이오 의약품 물류 공급사"
+  },
+  "Fixed SLA per refrigerated pallet; penalty-backed temperature log": {
+    "ko": "냉장 팔레트당 확정 SLA; 위약벌 연동 온도 추적 로그"
+  },
+  "Track 05": {
+    "ko": "트랙 05"
+  },
+  "Buffer Inventory Space-Sharing Agreement": {
+    "ko": "완충 재고 공간 공유 협약"
+  },
+  "Regional Bonded Warehouse Operators": {
+    "ko": "권역별 보세창고 운영사"
+  },
+  "Per-sqm dynamic leasing + revenue share on order packing": {
+    "ko": "㎡당 동적 리스료 + 주문 패킹 기반 수익 배분(Revenue Share)"
+  },
+  "Track 06": {
+    "ko": "트랙 06"
+  },
+  "National Sole Master Distributor Pact": {
+    "ko": "전국 독점 마스터 총판 협약"
+  },
+  "Tier-1 FMCG / Pet Distribution Conglomerates": {
+    "ko": "Tier-1 FMCG / 펫 유통 대기업(콘글로머릿)"
+  },
+  "Exclusive territory; quarterly minimum order quota; 90-day LC": {
+    "ko": "독점 영업 권역 보장; 분기별 최소 발주 쿼터; 90일 기한부 신용장(LC)"
+  },
+  "Tranche B • Wholesale": {
+    "ko": "트랜치 B • 도매(Wholesale)"
+  },
+  "Track 07": {
+    "ko": "트랙 07"
+  },
+  "Provincial / Regional Wholesaler License": {
+    "ko": "성·도/광역 권역 도매업 라이선스"
+  },
+  "Secondary Regional Wholesalers & Cash-and-Carrys": {
+    "ko": "2차 지역 도매상 및 캐시앤캐리(Cash-and-Carry) 유통사"
+  },
+  "Non-exclusive regional rights; monthly replenishment order minimums": {
+    "ko": "비독점 권역 판권; 월간 최소 보충 발주량 기준"
+  },
+  "Track 08": {
+    "ko": "트랙 08"
+  },
+  "Consignment Depot Stocking Facility": {
+    "ko": "위탁 판매 디포(Depot) 재고 비축 시설"
+  },
+  "Metropolitan Hub Warehouses & Fulfillment Centers": {
+    "ko": "대도시 거점 허브 창고 및 풀필먼트 센터"
+  },
+  "Inventory title retained by *SC; payout on weekly barcode scan": {
+    "ko": "재고 소유권은 *SC 귀속; 주간 바코드 스캔 기반 정산 집행"
+  },
+  "Track 09": {
+    "ko": "트랙 09"
+  },
+  "Institutional HORECA & Grooming Supply": {
+    "ko": "기관용 호레카(HORECA) 및 그루밍 케어 공급망"
+  },
+  "Pet Hotel Chains, Grooming Salons & Shelters": {
+    "ko": "펫 호텔 체인, 그루밍 살롱 및 보호소"
+  },
+  "Direct commercial pack sizes; bi-weekly delivery routes": {
+    "ko": "직공급 상업용 대용량 규격; 격주 단위 배송 라우팅"
+  },
+  "Track 10": {
+    "ko": "트랙 10"
+  },
+  "Government & Municipal Tender Package": {
+    "ko": "정부 및 지방자치단체 공공 조달 입찰 패키지"
+  },
+  "Quarantine Agencies & Public Bio-Health Bodies": {
+    "ko": "검역 기관 및 공공 바이오헬스 산하기관"
+  },
+  "Formal tender underwriting, K-SURE performance bond backing": {
+    "ko": "정규 입찰 언더라이팅, K-SURE 계약이행보증 연동"
+  },
+  "Track 11": {
+    "ko": "트랙 11"
+  },
+  "Veterinary Hospital Exclusive Prescription Line": {
+    "ko": "동물병원 전용 처방 라인"
+  },
+  "Tier-3 Animal Hospitals & University Vet Centers": {
+    "ko": "3차 동물병원 및 대학 연계 동물 의료 센터"
+  },
+  "Clinical proof backing; direct veterinarian referral rebate pool": {
+    "ko": "임상 실증 데이터 지원; 수의사 직접 추천 연계 리베이트 풀"
+  },
+  "Tranche C • Clinical": {
+    "ko": "트랜치 C • 임상"
+  },
+  "Track 12": {
+    "ko": "트랙 12"
+  },
+  "Auto-Formulator In-Clinic Compounding License": {
+    "ko": "원내 자동 제형 조제(Auto-Formulator) 라이선스"
+  },
+  "Specialty Veterinary Dermatologists & Oncologists": {
+    "ko": "전문 동물병원 피부과 및 종양과 전문의"
+  },
+  "SaaS diagnostic terminal placement + micro-sachet ingredient supply": {
+    "ko": "SaaS 진단 단말기 구축 및 마이크로 사셰(micro-sachet) 원료 공급"
+  },
+  "Track 13": {
+    "ko": "트랙 13"
+  },
+  "Clinical White-Label Botanical Rx Edition": {
+    "ko": "클리니컬 화이트라벨 보태니컬 Rx 에디션"
+  },
+  "Multi-location Veterinary Hospital Groups": {
+    "ko": "멀티사이트 대형 동물병원 네트워크 그룹"
+  },
+  "Custom hospital-branded bottles; *SC GMP manufacturing": {
+    "ko": "병원 맞춤형 자체 브랜드(PB) 용기 패키징 및 *SC GMP 위탁 제조"
+  },
+  "Track 14": {
+    "ko": "트랙 14"
+  },
+  "Telemedicine & Home Health AI Diagnostic Link": {
+    "ko": "원격진료 및 홈 헬스케어 AI 진단 연동"
+  },
+  "Pet Telehealth Platforms & Wearable Tech Brands": {
+    "ko": "반려동물 원격의료 플랫폼 및 웨어러블 테크 브랜드"
+  },
+  "API call licensing; prescription fulfillment revenue share": {
+    "ko": "API 호출 라이선싱 및 처방 조제·배송(Fulfillment) 수익 배분"
+  },
+  "Track 15": {
+    "ko": "트랙 15"
+  },
+  "Livestock Health Preventive Vaccine Contract": {
+    "ko": "가축 헬스케어 예방 백신 공급 계약"
+  },
+  "Ruminant, Dairy & Poultry Commercial Farms": {
+    "ko": "반추가축·낙농 및 양계 상업용 축산 농가"
+  },
+  "Bulk packaging; SISPharm veterinarian on-site consultation": {
+    "ko": "벌크 패키징 공급 및 SISPharm 전담 수의사 현장 컨설팅"
+  },
+  "Track 16": {
+    "ko": "트랙 16"
+  },
+  "SISTAR SOD Zero-Inventory Drop-Shipping": {
+    "ko": "SISTAR SOD 무재고 드롭쉬핑"
+  },
+  "Online Merchants, Shopify & TikTok Shop Sellers": {
+    "ko": "온라인 커머스 사업자, Shopify 및 TikTok Shop 셀러"
+  },
+  "Zero upfront inventory; automated daily 70/30 webhook settlement": {
+    "ko": "초기 재고 부담 제로화 및 일 단위 70/30 웹훅(Webhook) 자동 정산"
+  },
+  "Tranche D • Retail/Media": {
+    "ko": "트랜치 D • 리테일/미디어"
+  },
+  "Track 17": {
+    "ko": "트랙 17"
+  },
+  "Key Opinion Leader (KOL) Tier I-III Syndicate": {
+    "ko": "핵심 오피니언 리더(KOL) 티어 I-III 신디케이트"
+  },
+  "Social Media Creators & Celebrity Pet Influencers": {
+    "ko": "소셜 미디어 크리에이터 및 유명 반려동물 인플루언서"
+  },
+  "Tiered commission (15% to 30%) + custom branded micro-storefronts": {
+    "ko": "티어별 차등 수수료(15%~30%) 및 맞춤형 브랜드 마이크로 스토어프론트"
+  },
+  "Track 18": {
+    "ko": "트랙 18"
+  },
+  "SISTAR Mint Boutique Retail Franchise": {
+    "ko": "SISTAR 민트 부티크 리테일 프랜차이즈"
+  },
+  "Premium Urban Mall Operators & High-Street Boutiques": {
+    "ko": "도심 프리미엄 몰 운영사 및 하이스트리트 부티크"
+  },
+  "Turnkey interior visual identity, POS ERP, exclusive seasonal SKUs": {
+    "ko": "턴키 인테리어 VI(Visual Identity), POS ERP 및 독점 시즌 SKU 공급"
+  },
+  "Track 19": {
+    "ko": "트랙 19"
+  },
+  "Space Sharing & Deliver Together Node": {
+    "ko": "공간 공유 및 공동 배송 노드"
+  },
+  "Neighborhood Pet Cafes & Community Centers": {
+    "ko": "지역 기반 펫카페 및 커뮤니티 센터"
+  },
+  "Community pickup locker point; localized delivery radius hub": {
+    "ko": "커뮤니티 픽업 락커 거점, 국소 배송 반경 허브"
+  },
+  "Track 20": {
+    "ko": "트랙 20"
+  },
+  "Circular Economy & PetFood Bank Re:D Node": {
+    "ko": "순환 경제 및 펫푸드 뱅크 Re:D 노드"
+  },
+  "Animal Rescue NGOs, Municipalities & Social Enterprises": {
+    "ko": "동물 구조 NGO, 지방자치단체 및 사회적 기업"
+  },
+  "Non-profit co-branding, ethical surplus recycling, tax deductions": {
+    "ko": "비영리 코브랜딩, 윤리적 잉여 자원 재순환, 세제 혜택"
+  },
+  "Cost + 8%": {
+    "ko": "원가 + 8%"
+  },
+  "Chapter IV • Financial Engineering & Settlement": {
+    "ko": "제4장 • 금융공학 및 정산"
+  },
+  "Unit Economics • K-SURE Shield • 70/30 Split": {
+    "ko": "단위 경제학 • K-SURE Shield • 70/30 배분"
+  },
+  "Chapter V • Technology Co-Creation Engine": {
+    "ko": "제5장 • 기술 공동 창출 엔진"
+  },
+  "Auto-Formulator AI • 24/7 Data Factory • Micro-Sachets": {
+    "ko": "Auto-Formulator AI • 24/7 데이터 팩토리 • 마이크로 샤셰"
+  },
+  "Chapter VI • Federated Governance": {
+    "ko": "제6장 • 연합형 거버넌스"
+  },
+  "IATA • IADA • Sovereign Trade Federation": {
+    "ko": "IATA • IADA • 주권 무역 연합"
+  },
+  "Chapter VII • Sovereign Operational Footprint": {
+    "ko": "제7장 • 주권적 운영 풋프린트"
+  },
+  "8 Country Bases • Regulatory Clearance • Customs Transit": {
+    "ko": "8개국 거점 • 규제 승인 • 통관 운송"
+  },
+  "Chapter VIII • Commercial Onboarding & Action": {
+    "ko": "제8장 • 상업적 온보딩 및 실행"
+  },
+  "5-Stage Onboarding • Executive Contact • Immediate Execution": {
+    "ko": "5단계 온보딩 • 경영진 다이렉트 컨택 • 즉각적 실행"
+  },
+  "Serving as the command hub of the *SC Media domain, SISTAR Studio bridges the gap between physical supply chain availability and immediate global demand. As soon as a product batch is scheduled in our ERP or a commercial container deal is executed, the studio's automated pipelines ingest product attributes, compliance certificates, high-resolution 3D renders, and localized cultural hooks. Within minutes, multilingual video collaterals, shoppable micro-trailers, and interactive product brochures are synthesized and broadcast across 8 international territory bases.": {
+    "ko": "*SC 미디어 도메인의 커맨드 허브 역할을 수행하는 SISTAR Studio는 물리적 공급망의 가용성과 글로벌 즉각 수요 사이의 간극을 해소합니다. ERP 상에서 제품 배치가 스케줄링되거나 상업용 컨테이너 계약이 체결되는 즉시, 스튜디오의 자동화 파이프라인은 제품 속성, 규제 준수 인증서, 고해상도 3D 렌더링 자산 및 현지화된 문화적 소구점을 수집합니다. 수 분 이내에 다국어 비디오 마케팅 자료, 쇼퍼블 마이크로 트레일러, 인터랙티브 제품 브로슈어가 합성되어 8개 글로벌 거점으로 동시 송출됩니다."
+  },
+  "Eliminates soundstages and filming crews through automated algorithmic generation of shoppable video assets, avatar presenters, and neural voiceover tracks at under 1% of conventional studio costs.": {
+    "ko": "쇼퍼블 비디오 에셋, 아바타 프리젠터, 뉴럴 보이스오버 트랙의 알고리즘 기반 자동 생성을 통해 촬영 세트장 및 제작 크루를 배제함으로써, 기존 스튜디오 비용의 1% 미만으로 제작 공정을 혁신합니다."
+  },
+  "Continuous automated ingestion yields ten or more tailored multi-format video assets daily, complete with localized subtitle tracks and embedded e-commerce checkout metadata.": {
+    "ko": "지속적인 자동 수집 파이프라인을 통해 현지화된 자막 트랙과 임베디드 이커머스 결제 메타데이터가 완비된 맞춤형 멀티 포맷 비디오 에셋을 매일 10편 이상 산출합니다."
+  },
+  "Systematic syndication across YouTube Shorts, TikTok, Instagram Reels, and regional streaming platforms captures high-intent organic traffic without paid advertising dependency.": {
+    "ko": "유튜브 쇼츠(YouTube Shorts), 틱톡(TikTok), 인스타그램 릴스(Instagram Reels) 및 권역별 스트리밍 플랫폼에 걸친 체계적 신디케이션을 전개하여 유료 광고 의존 없이 고의도(high-intent) 유기적 트래픽을 선점합니다."
+  },
+  "The operational engine of SISTAR Studio functions as a deterministic pipeline. It converts raw product data, market trend telemetry, and inventory availability into broadcast-ready commercial assets without human intervention.": {
+    "ko": "SISTAR Studio의 운영 엔진은 결정론적(deterministic) 파이프라인으로 작동합니다. 원시 제품 데이터, 시장 트렌드 텔레메트리, 재고 가용성을 인간의 개입 없이 즉시 송출 가능한 상업적 에셋으로 전환합니다."
+  },
+  "The workflow initiates at the Signal Ingestion Gateway, which continuously parses RSS feeds, SKU specifications from *SC Commerce matrices, and market sentiment vectors. The raw text and visual metadata are transmitted into the Multimodal Cognitive Reasoning Layer powered by Google Gemini. Here, conversion-optimized copy, cultural translation sets, and script storyboards are formulated. These structured scripts are then dispatched to automated render workers for neural voiceover synthesis, motion graphic assembly, and product tag injection before programmatic distribution.": {
+    "ko": "워크플로는 RSS 피드, *SC Commerce 매트릭스의 SKU 사양, 시장 센티먼트 벡터를 연속적으로 파싱하는 시그널 인제스천 게이트웨이(Signal Ingestion Gateway)에서 시작됩니다. 가공되지 않은 텍스트 및 시각적 메타데이터는 Google Gemini 기반의 멀티모달 인지 추론 레이어로 전송되어, 전환 최적화 카피, 문화적 번역 세트, 스크립트 스토리보드로 정형화됩니다. 이후 이 구조화된 스크립트는 프로그래매틱 배포 전 뉴럴 보이스오버 합성, 모션 그래픽 어셈블리, 제품 태그 주입을 수행하는 자동 렌더 워커로 전달됩니다."
+  },
+  "Figure 1.1: SISTAR Studio's End-to-End Autonomous Pipeline — From SKU Ingestion to Multichannel Conversion Blast.": {
+    "ko": "그림 1.1: SISTAR Studio의 엔드투엔드 자율 파이프라인 — SKU 수집에서 다채널 전환 확산까지."
+  },
+  "SISTAR Studio is designed not as a cost center, but as a high-margin corporate profit engine that powers the monetization velocity of *SC's 12-domain ecosystem. Because production expenses scale sub-linearly relative to output volume, operating margins expand aggressively over time.": {
+    "ko": "SISTAR Studio는 비용 중심 조직(cost center)이 아닌, *SC 12대 도메인 생태계의 수익화 속도를 가속화하는 고마진 기업 수익 엔진으로 설계되었습니다. 산출량 대비 제작 비용이 하위 선형적(sub-linearly)으로 증가하므로, 시간이 경과함에 따라 영업이익률이 공격적으로 확장됩니다."
+  },
+  "In Year 1, the studio targets KRW 2.0 Billion in recognized commerce revenue with a 20% Operating Profit Margin (OPM). By Year 2, with full API integrations across Korea, Indonesia, Vietnam, and the US hubs, revenue scales to KRW 7.0 Billion while OPM expands to 35% due to automated rendering economies of scale. Year 3 establishes a steady-state run-rate of KRW 15.0 Billion at 35% OPM, supported by an exceptional blended Customer Lifetime Value to Customer Acquisition Cost (LTV/CAC) ratio of 17.5x and a rapid payback cycle of 2.8 months.": {
+    "ko": "1차년도에 스튜디오는 영업이익률(OPM) 20%를 바탕으로 20억 원의 인식 상거래 매출을 목표로 합니다. 2차년도에는 한국, 인도네시아, 베트남 및 미국 허브 전반의 완전한 API 연동을 통해 매출이 70억 원으로 성장하며, 자동화 렌더링의 규모의 경제 덕분에 OPM은 35%로 확대됩니다. 3차년도에는 17.5배에 달하는 탁월한 통합 고객생애가치 대 고객획득비용(LTV/CAC) 비율과 2.8개월의 신속한 투자 회수 주기를 바탕으로 35% OPM 기준 150억 원의 정상 상태 런레이트(steady-state run-rate)를 달성합니다."
+  },
+  "Where GMV represents Gross Merchandise Value driven by shoppable videos, GM denotes blended gross margin (60-75%), C_{compute} reflects GPU inference costs per thousand rendered videos (under KRW 1,800/video), and CAC_{organic_amortized} trends toward nominal server overhead.": {
+    "ko": "여기서 GMV는 쇼퍼블 비디오 기반 총 거래액(Gross Merchandise Value)을 나타내며, GM은 통합 매출총이익률(60~75%), C_{compute}는 렌더링된 비디오 1,000건당 GPU 추론 비용(비디오당 1,800원 미만), CAC_{organic_amortized}는 명목 서버 오버헤드 수준으로 수렴하는 유기적 획득 비용을 의미합니다."
+  },
+  "To convert media impressions directly into auditable corporate revenue, SISTAR Studio executes through a rigorous matrix of 20 standardized B2B commercial offer tracks. These pre-packaged deal structures remove negotiation friction and establish immediate contractual certainty for global partners.": {
+    "ko": "미디어 노출(impressions)을 감사 가능한 기업 매출로 직접 전환하기 위해, SISTAR Studio는 20개의 표준화된 B2B 상업용 오퍼 트랙으로 구성된 엄격한 매트릭스를 기반으로 실행합니다. 이러한 패키지화된 거래 구조는 협상 마찰을 제거하고 글로벌 파트너에게 즉각적인 계약적 확실성을 부여합니다."
+  },
+  "Each offer track is calibrated for specific buyer profiles—spanning full ocean freight Container Volume Deals, zero-inventory dropshipping networks (SISTAR SOD), regional offline wholesalers, tiered influencer affiliations (Tiers I through III), and turnkey franchise operational licenses (S1 through S6). Every track includes clear payment milestone structures, automated split-settlement webhooks, and K-SURE export risk underwriting.": {
+    "ko": "각 오퍼 트랙은 해상 풀 컨테이너 물량 계약(Container Volume Deals), 무재고 드롭쉬핑 네트워크(SISTAR SOD), 지역 오프라인 도매업체, 등급별 인플루언서 제휴(Tier I~III), 턴키 프랜차이즈 운영 라이선스(S1~S6)에 이르는 특정 바이어 프로필에 맞춤 보정(calibrated)되어 있습니다. 모든 트랙에는 명확한 결제 마일스톤 구조, 자동화된 분할 정산 웹훅(split-settlement webhooks), 한국무역보험공사(K-SURE) 수출 위험 인수(underwriting)가 포함됩니다."
+  },
+  "By producing continuous micro-content optimized for search engine indexing and social discovery algorithms, SISTAR Studio builds an organic distribution flywheel that permanently depresses customer acquisition costs across the *SC ecosystem.": {
+    "ko": "검색 엔진 색인화 및 소셜 디스커버리 알고리즘에 최적화된 마이크로 콘텐츠를 지속적으로 생산함으로써, SISTAR Studio는 *SC 생태계 전반의 고객 획득 비용(CAC)을 영구적으로 절감하는 오가닉 유통 플라이휠을 구축합니다."
+  },
+  "Each asset generated by the studio is tagged with machine-readable Schema.org metadata, Open Graph microformats, and localized search keywords. When syndicated across short-form video platforms, these assets capture ambient audience attention and direct consumers into shoppable checkout funnels. Concurrently, B2B wholesale buyers are funneled into automated offer sheet download portals, creating a dual-vector conversion mechanism.": {
+    "ko": "스튜디오에서 생성되는 각 자산에는 머신 판독 가능한 Schema.org 메타데이터, Open Graph 마이크로포맷, 현지화된 검색 키워드가 태깅됩니다. 이러한 자산이 숏폼 비디오 플랫폼 전반에 신디케이션될 때 광범위한 오디언스의 주목도를 포착하여 소비자를 쇼퍼블 결제 퍼널로 유입시킵니다. 동시에 B2B 도매 바이어는 자동화된 오퍼 시트 다운로드 포털로 유입되어 이원 벡터(dual-vector) 전환 메커니즘을 창출합니다."
+  },
+  "Figure 1.2: The Self-Sustaining Organic Traffic Flywheel — Continuous automated syndication yielding viral reach at near-zero CAC.": {
+    "ko": "그림 1.2: 자립형 오가닉 트래픽 플라이휠 — 제로에 가까운 CAC로 바이럴 도달률을 창출하는 지속적 자동화 신디케이션."
+  },
+  "SISTAR Studio operations are anchored by the strict standards of the International AI-Trade Association (IATA) and the International AI-Data Association (IADA). This regulatory foundation ensures that autonomous media creation complies fully with global intellectual property laws, regional advertising standards, and data sovereignty treaties.": {
+    "ko": "SISTAR Studio의 운영은 국제AI무역협회(IATA) 및 국제AI데이터협회(IADA)의 엄격한 표준에 기반합니다. 이러한 규제적 기반은 자율적 미디어 생성이 글로벌 지식재산권법, 권역별 광고 규제 기준, 데이터 주권 조약을 완벽하게 준수하도록 보장합니다."
+  },
+  "Through our integrated 8-hub international architecture, media metadata is synchronized across Korea (SCK), Indonesia (SCI), Singapore (SCS), USA (SCU), Vietnam (SCV), India (SCIND), China (SCC), and Japan (SCJ). Each regional entity manages local broadcast licenses, ensures local consumer protection compliance, and monitors cultural resonance parameters while maintaining 100% interoperability with central governance ledgers.": {
+    "ko": "통합된 8개 허브 국제 아키텍처를 통해 한국(SCK), 인도네시아(SCI), 싱가포르(SCS), 미국(SCU), 베트남(SCV), 인도(SCIND), 중국(SCC), 일본(SCJ) 전역에 미디어 메타데이터가 동기화됩니다. 각 지역 법인은 중앙 거버넌스 원장과의 100% 상호 운용성을 유지하면서 현지 방송 라이선스를 관리하고, 소비자 보호 규정 준수를 보장하며, 문화적 공명 파라미터를 모니터링합니다."
+  },
+  "Enforces standard commercial taxonomy across all 20 B2B offer tracks, ensuring that digital offer sheets, tariff classifications, and export documentation match bilateral trade treaties in real-time.": {
+    "ko": "20개 B2B 오퍼 트랙 전반에 걸쳐 표준 상업 분류 체계를 적용하여 디지털 오퍼 시트, 관세 분류, 수출 서류가 양자 무역 협정에 실시간으로 부합하도록 보장합니다."
+  },
+  "Every AI-generated creative asset carries a cryptographically verifiable provenance hash, ensuring protection against copyright infringement and validating compliance with local data localization mandates.": {
+    "ko": "모든 AI 생성 크리에이티브 자산은 암호학적으로 검증 가능한 출처 해시(provenance hash)를 보유하여 저작권 침해로부터 보호하고 현지 데이터 현지화 의무에 대한 준수를 입증합니다."
+  },
+  "To ensure complete institutional risk isolation, SISTAR Studio executes commercial clearing through *SC's Dual-Track Legal Firewall. This structure strictly separates core intellectual property assets from commercial fulfillment liabilities.": {
+    "ko": "기관 차원의 완전한 위험 격리를 보장하기 위해, SISTAR Studio는 *SC의 '이원화 법적 방화벽(Dual-Track Legal Firewall)'을 통해 상업적 결제·정산(clearing)을 실행합니다. 이 구조는 핵심 지식재산권 자산과 상업적 이행 책임을 엄격히 분리합니다."
+  },
+  "Under this architecture, SC Index holds all core neural algorithms, prompt weights, media trademarks, and proprietary data structures in a ring-fenced fiduciary vehicle. Commercial transactions, affiliate payouts, and physical inventory movements are managed exclusively through individual Biz Galaxy operational subsidiaries. Transactions utilize a 3-Month Rolling Purchasing Forecast (RPF), backing from the Korea Trade Insurance Corporation (K-SURE), and automated 70/30 payment gateway (PG) split webhooks that liquidate inventory costs instantly upon checkout while escrowing gross profit shares.": {
+    "ko": "이 아키텍처 하에서 SC Index는 링펜스(ring-fenced)된 신탁 기구를 통해 모든 핵심 신경망 알고리즘, 프롬프트 가중치, 미디어 상표 및 독점 데이터 구조를 보유합니다. 상거래, 제휴사 정산금 지급, 실물 재고 이동은 개별 Biz Galaxy 운영 자회사를 통해서만 독점적으로 관리됩니다. 거래는 3개월 롤링 구매 예측(RPF), 한국무역보험공사(K-SURE)의 보증, 그리고 결제 즉시 재고 비용을 청산하는 동시에 매출총이익 지분을 에스크로하는 자동화된 70/30 전자결제대행(PG) 분할 웹훅을 활용합니다."
+  },
+  "Figure 1.3: Risk Firewall & Settlement Security — Segregating core holding IP from operational fulfillment via automated 70/30 PG webhooks.": {
+    "ko": "그림 1.3: 리스크 방화벽 및 정산 보안 — 자동화된 70/30 PG 웹훅을 통한 핵심 지주사 IP와 운영 이행의 분리."
+  },
+  "SISTAR Studio establishes an institutional standard for modern generative commerce. By decoupling content production velocity from human resource constraints and backing every commercial campaign with standardized 20-track offer sheets, the platform delivers verifiable profitability, high-velocity cash conversion, and uncompromised risk protection for global enterprise partners.": {
+    "ko": "SISTAR Studio는 현대 생성형 커머스의 기관 표준을 정립합니다. 콘텐츠 제작 속도를 인적 자원의 제약으로부터 분리하고 모든 상업 캠페인을 표준화된 20개 트랙의 오퍼 시트로 뒷받침함으로써, 본 플랫폼은 글로벌 엔터프라이즈 파트너에게 검증 가능한 수익성, 고속 현금 전환 및 확고한 위험 보호를 제공합니다."
+  },
+  "Powered by the Qubit Algorithm™, *SC intelligence-core, Scarlet AI, Qubit Biz, and the Biz Galaxy constellation. All commercial inquiries and institutional investment memorandums are managed via the central corporate portal. Corporate Portal: https://sistarcompany.com • Executive Contact: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "Qubit Algorithm™, *SC 인텔리전스 코어, Scarlet AI, Qubit Biz 및 Biz Galaxy 콘스텔레이션을 기반으로 구동됩니다. 모든 비즈니스 문의 및 기관 투자 설명서(IM)는 중앙 기업 포털을 통해 관리됩니다. 기업 포털: https://sistarcompany.com • 경영진 연락처: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "KRW 7.0 Billion": {
+    "ko": "70억 KRW"
+  },
+  "KRW 2.45 Billion (35.0%)": {
+    "ko": "24.5억 KRW (35.0%)"
+  },
+  "25 Assets / Day": {
+    "ko": "일일 25개 자산"
+  },
+  "15.8x / 2.9 Months": {
+    "ko": "15.8배 / 2.9개월"
+  },
+  "Year 3 (Global Steady State)": {
+    "ko": "3년차 (글로벌 정상 상태)"
+  },
+  "KRW 15.0 Billion": {
+    "ko": "150억 KRW"
+  },
+  "Reporting Transparency Daily NAV Audited": {
+    "ko": "보고 투명성: 일일 NAV 감사 완료"
+  },
+  "Global Deployment 8 Regional Bases": {
+    "ko": "글로벌 배포: 8개 권역 거점"
+  },
+  "Zero Sunk-Capex Global Journalism, Macroeconomic Intelligence & Verifiable NAV Wire Dispatches": {
+    "ko": "매몰 Capex 제로 기반의 글로벌 저널리즘, 거시경제 인텔리전스 및 검증 가능한 NAV 통신 송고"
+  },
+  "The SISTAR Post represents the institutional journalism arm, macroeconomic wire, and sovereign data intelligence agency of the Signal Star Universe (*SC). Engineered as a decentralized, autonomous newsroom operating across 8 international territory bases, the publication delivers rigorous trade analytics, bilateral regulatory telemetry, and real-time auditable corporate disclosures to global institutional investors, sovereign wealth funds, and enterprise partners.": {
+    "ko": "The SISTAR Post는 Signal Star Universe(*SC)의 기관 저널리즘 기구이자 거시경제 통신사, 주권 데이터 인텔리전스 기관입니다. 8개 국제 권역 거점에서 운영되는 탈중앙화 자율 뉴스룸으로 설계된 본 매체는 글로벌 기관 투자자, 국부펀드 및 엔터프라이즈 파트너에게 엄격한 무역 분석, 양자 규제 텔레메트리, 실시간 감사 가능 기업 공시를 제공합니다."
+  },
+  "Conventional financial publications suffer from steep overheads, bureaucratic editorial hierarchies, and commercial conflicts of interest that compromise timely reporting. The SISTAR Post completely rearchitects financial journalism by deploying an autonomous, zero-sunk-capex editorial wire that transforms raw global trade signals into peer-reviewed institutional analyses in real time.": {
+    "ko": "기존 금융 언론은 과도한 간접비, 관료적 편집 위계, 시의적절한 보도를 저해하는 상업적 이해충돌로 인해 한계를 겪고 있습니다. The SISTAR Post는 미가공 글로벌 무역 시그널을 동료 평가(peer-reviewed)를 거친 수준의 기관급 분석으로 실시간 전환하는 자율적 무(無)매몰 Capex 편집 통신망을 구축함으로써 금융 저널리즘의 구조를 근본적으로 혁신합니다."
+  },
+  "Operating at the intersection of international trade law, artificial intelligence governance, and cross-border currency flows, The SISTAR Post is the primary disclosure conduit for *SC's 12-domain semantic matrix. While SISTAR Studio acts as the short-form shoppable media production engine, The SISTAR Post provides the epistemic foundation—publishing deep-dive monographs, white papers, bilateral trade indices, and daily audited Net Asset Value (NAV) certificates that substantiate *SC's corporate solvency and capital stewardship.": {
+    "ko": "국제통상법, 인공지능 거버넌스, 국경 간 자금 흐름의 교차점에서 운영되는 The SISTAR Post는 *SC의 12개 도메인 시맨틱 매트릭스를 위한 핵심 공시 통로 역할을 수행합니다. SISTAR Studio가 숏폼 쇼퍼블 미디어 제작 엔진으로 기능하는 반면, The SISTAR Post는 심층 모노그래프, 백서, 양자 무역 지수 및 *SC의 기업 지급능력과 자본 수탁 책임을 입증하는 일일 감사 순자산가치(NAV) 인증서를 발행하여 인식론적 토대를 제공합니다."
+  },
+  "Synthesizes granular supply chain data, tariff shifts, and FX fluctuations into high-impact editorial wire articles syndicated to institutional asset managers worldwide.": {
+    "ko": "세부 공급망 데이터, 관세 변동, 외환(FX) 변동성을 통합 분석하여 전 세계 기관 자산 운용사로 신디케이션되는 고부가가치 사설 통신 기사를 발행합니다."
+  },
+  "Serves as the official record of standard setting for the International AI-Trade Association (IATA) and the International AI-Data Association (IADA).": {
+    "ko": "국제AI무역협회(IATA) 및 국제AI데이터협회(IADA)의 표준 제정을 기록하는 공식 기록소 역할을 수행합니다."
+  },
+  "Publishes daily cryptographically verifiable balance sheet updates, proving asset backing and removing speculative ambiguity for global capital allocators.": {
+    "ko": "매일 암호학적으로 검증 가능한 대차대조표 업데이트를 공시함으로써 자산 건전성을 입증하고 글로벌 자본 배분자를 위한 투기적 불확실성을 배제합니다."
+  },
+  "The newsroom operates via a deterministic, multi-layered cognitive journalism pipeline. It ingests thousands of global trade feeds, runs multi-agent contradiction analysis, and outputs structured editorial dossiers across six languages without editorial lag.": {
+    "ko": "뉴스룸은 결정론적 다계층 인지 저널리즘 파이프라인을 기반으로 가동됩니다. 수천 개의 글로벌 무역 피드를 수집하고 멀티 에이전트 모순 분석을 실행하여, 편집 시차 없이 6개 언어로 구조화된 에디토리얼 도시에를 도출합니다."
+  },
+  "The workflow begins with the Global Signal Harvester, which monitors WTO declarations, customs tariff updates, central bank reserve reports, and supply chain shipping manifests. Next, the Semantic Verification Engine evaluates each data point against historical archives to eliminate algorithmic hallucinations and ensure strict factual consistency. Finally, the Editorial Composer drafts targeted institutional briefs, technical executive summaries, and investigative investigative dossiers, complete with citation graphs and machine-readable data attachments.": {
+    "ko": "워크플로는 WTO 선언문, 관세율 개정, 중앙은행 외환보유고 보고서 및 공급망 선적 적하목록을 모니터링하는 글로벌 시그널 하베스터(Global Signal Harvester)에서 시작됩니다. 이어 시맨틱 검증 엔진(Semantic Verification Engine)이 과거 아카이브를 대조군으로 각 데이터 포인트를 평가하여 알고리즘 할루시네이션을 제거하고 엄격한 사실적 일관성을 확보합니다. 최종적으로 에디토리얼 컴포저(Editorial Composer)가 인용 그래프와 기계 판독형 데이터 첨부파일을 완비한 타깃 기관 브리프, 기술적 임원진 요약본 및 심층 탐사 도시에를 작성합니다."
+  },
+  "Figure 2.1: The SISTAR Post Autonomous Newsroom Engine — From Macro Ingestion to 8-Hub Global Bureau Dispatch.": {
+    "ko": "그림 2.1: The SISTAR Post 자율 뉴스룸 엔진 — 거시 데이터 수집부터 8개 글로벌 허브 지국 전송까지."
+  },
+  "The business model of The SISTAR Post blends institutional subscription access, programmatic data licensing, and sponsored research dossiers for global trade consortia. Operating with zero physical printing presses or salaried foreign correspondents, operating leverage expands rapidly as enterprise distribution scales.": {
+    "ko": "The SISTAR Post의 비즈니스 모델은 기관 구독 액세스, 프로그래매틱 데이터 라이선싱, 그리고 글로벌 무역 컨소시엄을 위한 스폰서드 리서치 도시에를 결합합니다. 물리적 인쇄기나 고정급 외신 특파원 없이 운영되므로, 엔터프라이즈 유통 규모가 확장됨에 따라 영업 레버리지가 급격히 증대됩니다."
+  },
+  "In Year 1, The SISTAR Post contributes directly to *SC Media's KRW 2.0 Billion target (capturing KRW 600M in high-margin research and terminal subscriptions at 25% OPM). By Year 2, as institutional wire connections expand to multinational logistics operators, sovereign wealth consultants, and import/export chambers, revenue reaches KRW 2.4 Billion out of the consolidated KRW 7.0 Billion media target, delivering a 38% OPM. In Year 3, research licensing and daily NAV audit subscriptions stabilize at KRW 5.25 Billion (35% OPM) with an LTV/CAC ratio of 19.2x and negative churn among institutional enterprise subscribers.": {
+    "ko": "1년 차에 The SISTAR Post는 *SC Media의 20억 원 목표치에 직접 기여합니다(25% OPM으로 6억 원 규모의 고마진 리서치 및 단말기 구독 유치). 2년 차에는 기관 통신망 연동이 다국적 물류 기업, 국부펀드 컨설팅사, 수출입 상공회의소로 확대되면서, 연결 미디어 목표치 70억 원 중 24억 원의 매출을 달성하고 38%의 OPM을 기록합니다. 3년 차에는 리서치 라이선싱 및 일일 NAV 감사 구독이 52억 5,000만 원(35% OPM)으로 안정화되며, 19.2배의 LTV/CAC 비율과 기관 엔터프라이즈 구독자의 순음수 이탈률(negative churn)을 달성합니다."
+  },
+  "Where ACV_{tier} represents the Annual Contract Value across Tier 1 Sovereign / Institutional data feeds, Churn_{annual} maintains a sub-2.5% rate due to embedded daily NAV audit integrations, and marginal acquisition cost is amortized across automated syndicated clients.": {
+    "ko": "여기서 ACV_{tier}는 Tier 1 주권국가/기관용 데이터 피드의 연간 계약 가치(ACV)를 의미하며, 임베디드 일일 NAV 감사 연동에 힘입어 Churn_{annual}은 2.5% 미만 수준을 유지하고, 한계 고객 획득 비용은 자동화된 신디케이션 고객사 전반에 걸쳐 상각됩니다."
+  },
+  "The SISTAR Post monetizes its editorial output through 20 structured B2B offer tracks tailored for trade organizations, hedge funds, sovereign agencies, and logistics operators seeking real-time macroeconomic clarity.": {
+    "ko": "The SISTAR Post는 실시간 거시경제적 명료성을 추구하는 무역 기관, 헤지펀드, 주권 기관 및 물류 운영사에 맞춤화된 20개의 구조화된 B2B 오퍼 트랙을 통해 편집 산출물을 수익화합니다."
+  },
+  "These commercial vehicles encompass programmatic API news feeds, customized sector monographs, sponsored sovereign industry dossiers, and certified daily NAV verification streams. All transactions execute with standardized legal documentation, strict non-disclosure clauses, and automated clearing protocols protected by *SC's Triple Control Towers.": {
+    "ko": "이러한 상업적 수단에는 프로그래매틱 API 뉴스 피드, 맞춤형 섹터 모노그래프, 스폰서드 주권 산업 도시에, 공인 일일 NAV 검증 스트림이 포함됩니다. 모든 거래는 표준화된 법적 문서, 엄격한 비밀유지조항, 그리고 *SC의 트리플 컨트롤 타워(Triple Control Towers)로 보호되는 자동 청산 프로토콜을 기반으로 체결 및 집행됩니다."
+  },
+  "To maximize institutional credibility while cultivating broad commercial awareness, The SISTAR Post deploys a dual-tier publishing architecture that seamlessly segments high-level geopolitical analysis from open public market reporting.": {
+    "ko": "기관 차원의 공신력을 극대화하는 동시에 광범위한 상업적 인지도를 구축하기 위해, The SISTAR Post는 고급 지정학 분석과 일반 대중 대상 공개 시장 보도를 매끄럽게 분리하는 듀얼 티어 퍼블리싱 아키텍처를 전개합니다."
+  },
+  "At Tier 1 (Restricted Institutional Tier), accredited capital partners and enterprise subscribers access unredacted trade treaty impact models, container movement forecasts, and confidential daily NAV audits. At Tier 2 (Open Public Wire), articles are optimized for widespread digital syndication, SEO discoverability, and executive thought leadership. This public tier drives hundreds of thousands of organic visits into *SC's commercial ecosystem, seamlessly converting readers into B2B wholesale buyers or SISTAR SOD dropship entrepreneurs.": {
+    "ko": "Tier 1(제한적 기관 티어)에서는 인가된 자본 파트너 및 엔터프라이즈 구독자가 편집되지 않은 무역 협약 영향 분석 모델, 컨테이너 이동 예측, 기밀 일일 NAV 감사에 액세스할 수 있습니다. Tier 2(공개 통신망)에서는 광범위한 디지털 신디케이션, SEO 검색 최적화, 최고경영진 대상 소트 리더십(thought leadership)에 최적화된 기사가 제공됩니다. 이 공개 티어는 수십만 건의 유기적 유입을 *SC의 상업 생태계로 견인하여, 독자들을 B2B 도매 바이어나 SISTAR SOD 드랍쉬핑 창업가로 자연스럽게 전환시킵니다."
+  },
+  "Figure 2.2: Dual-Audience Publishing Architecture — Segmenting restricted capital partner dispatches from public organic conversion wires.": {
+    "ko": "그림 2.2: 이중 독자 퍼블리싱 아키텍처 — 제한적 자본 파트너 발송 통신과 대중용 유기적 전환 통신망의 분리 구조."
+  },
+  "As global commerce accelerates into algorithmically mediated exchanges, data sovereignty and regulatory transparency become paramount. The SISTAR Post serves as the formal reporting record for both the International AI-Trade Association (IATA) and the International AI-Data Association (IADA).": {
+    "ko": "글로벌 상거래가 알고리즘 기반 교역으로 가속화됨에 따라 데이터 주권과 규제 투명성의 중요성이 그 어느 때보다 대두되고 있습니다. The SISTAR Post는 국제 AI 무역 협회(IATA) 및 국제 AI 데이터 협회(IADA)의 공식 보도 기록 기관 역할을 수행합니다."
+  },
+  "Through our permanent editorial presence across eight global hubs—Korea (SCK), Indonesia (SCI), Singapore (SCS), USA (SCU), Vietnam (SCV), India (SCIND), China (SCC), and Japan (SCJ)—the publication tracks local trade legislation in real time. When bilateral trade pacts are renegotiated or customs tariffs adjusted, our automated editorial engine publishes instant impact assessments, enabling *SC operating companies and commercial partners to pivot supply chains proactively.": {
+    "ko": "한국(SCK), 인도네시아(SCI), 싱가포르(SCS), 미국(SCU), 베트남(SCV), 인도(SCIND), 중국(SCC), 일본(SCJ) 등 8대 글로벌 허브에 걸친 상설 편집국 거점을 통해, 본 매체는 현지 무역 법안을 실시간으로 추적합니다. 양자 무역 협정이 재협상되거나 관세율이 조정될 경우, 당사의 자동화된 에디토리얼 엔진이 즉각적인 영향 평가 보고서를 발행하여 *SC 운영사 및 상업 파트너들이 선제적으로 공급망을 재편할 수 있도록 지원합니다."
+  },
+  "Publishes standardized harmonization bulletins that track cross-border customs classifications, autonomous AI-assisted invoicing rules, and multimodal logistics corridors.": {
+    "ko": "국경 간 세관 품목 분류, 자율형 AI 지원 인보이스 규정 및 복합 운송 물류 회랑을 추적하는 표준화된 조화 공보를 발행합니다."
+  },
+  "Monitors sovereign data localization requirements across ASEAN, East Asia, and North American jurisdictions, ensuring that all published research adheres to cross-border data transfer pacts.": {
+    "ko": "아세안, 동아시아 및 북미 관할권 전반의 국가 데이터 현지화 요구조건을 모니터링하여, 발행된 모든 연구 자료가 국경 간 데이터 이전 협약을 엄격히 준수하도록 보장합니다."
+  },
+  "Unlike traditional financial journalism that relies on delayed quarterly filings or unaudited press releases, The SISTAR Post embeds an immutable cryptographic verification engine directly into its publishing pipeline.": {
+    "ko": "지연 공시되는 분기별 보고서나 미감사 보도자료에 의존하는 전통적 금융 저널리즘과 달리, The SISTAR Post는 퍼블리싱 파이프라인 내에 불변의 암호학적 검증 엔진을 직접 내재화하고 있습니다."
+  },
+  "Every morning at 00:00 UTC, the publication generates an auditable Daily NAV Dispatch. This document summarizes consolidated treasury balances, inventory liquidation velocities, K-SURE insured export volumes, and escrowed 70/30 split settlements. The data is hashed using SHA-256 and anchored to public timestamping registries, providing global investors with mathematical certainty regarding *SC's solvency, liquidity reserves, and corporate balance sheet strength.": {
+    "ko": "매일 00:00 UTC 기준, 본 간행물은 감사 가능한 일일 NAV 통신(Daily NAV Dispatch)을 생성합니다. 이 문서는 연결 재무 잔액, 재고 청산 속도, K-SURE 보증 수출 물량 및 에스크로 기반 70/30 정산 내역을 집계합니다. 해당 데이터는 SHA-256으로 해시 처리되어 공개 타임스탬프 레지스트리에 앵커링되므로, 글로벌 투자자들에게 *SC의 지급능력, 유동성 준비금 및 기업 대차대조표의 건전성에 대한 수학적 확실성을 제공합니다."
+  },
+  "Figure 2.3: Cryptographic Proof-of-Integrity — Transforming daily accounting balances into immutable, audited wire dispatches.": {
+    "ko": "그림 2.3: 암호학적 무결성 증명 — 일일 회계 잔액을 불변의 감사 완료 통신 기사로 전환."
+  },
+  "The SISTAR Post establishes a benchmark for autonomous financial journalism. By eliminating legacy newspaper overheads and anchoring every publication in cryptographic provenance and verifiable daily NAV ledgers, the wire delivers unmatched truth velocity and commercial conversion for the Signal Star Universe.": {
+    "ko": "The SISTAR Post는 자율 금융 저널리즘의 새로운 벤치마크를 정립합니다. 기존 레거시 신문사의 간접비를 제거하고 모든 발행물을 암호학적 출처 검증 및 검증 가능한 일일 NAV 원장에 연동함으로써, 본 통신사는 시그널 스타 유니버스(Signal Star Universe)를 위한 독보적인 진실 도달 속도와 상업적 전환 가치를 창출합니다."
+  },
+  "KRW 600 Million": {
+    "ko": "6억 원"
+  },
+  "KRW 150M (25.0%)": {
+    "ko": "1억 5,000만 원 (25.0%)"
+  },
+  "85 Institutional Accounts": {
+    "ko": "85개 기관 계정"
+  },
+  "12 Dispatches / Day": {
+    "ko": "일일 12건 송고"
+  },
+  "KRW 2.40 Billion": {
+    "ko": "24억 원"
+  },
+  "KRW 912M (38.0%)": {
+    "ko": "9억 1,200만 원 (38.0%)"
+  },
+  "320 Institutional Accounts": {
+    "ko": "320개 기관 계정"
+  },
+  "30 Dispatches / Day": {
+    "ko": "일일 30건 송고"
+  },
+  "KRW 5.25 Billion": {
+    "ko": "52억 5,000만 원"
+  },
+  "KRW 1.94 Billion (37.0%)": {
+    "ko": "19억 4,000만 원 (37.0%)"
+  },
+  "Integrity Verification SHA-256 Provenance": {
+    "ko": "무결성 검증 SHA-256 출처 증명"
+  },
+  "Reporting Model Daily NAV Audited": {
+    "ko": "보고 모델: 일일 감사 기준가(NAV)"
+  },
+  "The Media domain serves as the institutional gateway and traffic multiplier of the Signal Star Universe (*SC). Orchestrating the dual engines of SISTAR Studio (shoppable commercial video generation forge) and The SISTAR Post (global macroeconomic journalism and auditable NAV wire), the domain converts industrial supply chains into high-velocity, zero-CAC organic demand across eight international territory bases.": {
+    "ko": "미디어 도메인은 시그널 스타 유니버스(*SC)의 기관급 게이트웨이이자 트래픽 승수(traffic multiplier) 역할을 수행합니다. 쇼핑 연계형 커머셜 영상 생성 포지인 SISTAR Studio와 글로벌 거시경제 저널리즘 및 감사 가능한 NAV 통신망인 The SISTAR Post라는 듀얼 엔진을 오케스트레이션함으로써, 본 도메인은 8개 글로벌 거점 전반에서 산업 공급망을 고유속(high-velocity)의 고객획득비용 제로(zero-CAC) 유기적 수요로 전환합니다."
+  },
+  "Within the 12-domain corporate architecture of *SC (SISTAR Company), Domain 12 (Media) fulfills the vital mission of autonomous attention generation, brand trust crystallization, and immediate e-commerce liquidity. Without high-velocity media, even superior products and AI software remain invisible to global markets.": {
+    "ko": "*SC(SISTAR Company)의 12대 도메인 기업 아키텍처 내에서, 도메인 12(미디어)는 자율적 어텐션 창출, 브랜드 신뢰의 결정화, 즉각적인 이커머스 유동성 공급이라는 핵심 미션을 수행합니다. 고유속 미디어가 부재하다면 탁월한 제품과 AI 소프트웨어라 할지라도 글로벌 시장에서 가시성을 확보할 수 없습니다."
+  },
+  "Rather than constructing costly, depreciating physical broadcasting studios with massive headcount overhead, *SC architected a zero-sunk-capex digital forge. By uniting cognitive multi-modal synthesis (Gemini), dynamic rendering pipelines, automated RSS wire scraping, and deterministic settlement firewalls, the Media domain produces dozens of high-definition shoppable video assets and institutional macroeconomic wire dispatches every 24 hours. This continuous broadcast fuels organic traffic into every sister domain—from B2B trading (Qubit Biz) and consumer wellness to enterprise AI operating systems.": {
+    "ko": "막대한 인건비 오버헤드와 감가상각이 수반되는 고비용 물리적 방송 스튜디오를 구축하는 대신, *SC는 매몰 자본 지출(zero-sunk-capex) 제로의 디지털 포지를 설계했습니다. 인지 멀티모달 합성(Gemini), 동적 렌더링 파이프라인, 자동화된 RSS 통신망 스크래핑, 결정론적 정산 방화벽을 결합하여, 미디어 도메인은 24시간마다 수십 편의 고화질 쇼핑 연계형 비디오 에셋과 기관급 거시경제 전문 타전(wire dispatches)을 생성합니다. 이러한 무중단 브로드캐스팅은 B2B 트레이딩(Qubit Biz)과 소비자 웰니스부터 엔터프라이즈 AI 운영체제에 이르기까지 모든 자매 도메인으로의 유기적 트래픽 유입을 가속화합니다."
+  },
+  "Automated generative production engine manufacturing 10+ vertical shoppable video assets daily, driving zero-CAC social shopping conversions across short-form platforms.": {
+    "ko": "매일 10개 이상의 숏폼 맞춤형 쇼핑 연계 비디오 에셋을 제조하여 숏폼 플랫폼 전반에서 고객획득비용 제로(zero-CAC)의 소셜 쇼핑 전환을 견인하는 자동화 생성 프로덕션 엔진."
+  },
+  "Global institutional journalism wire publishing macroeconomic trade intelligence, bilateral regulatory telemetry, and daily audited NAV balance sheet certificates.": {
+    "ko": "거시경제 무역 인텔리전스, 양자 간 규제 텔레메트리, 일일 감사 기준가(NAV) 대차대조표 인증서를 발행하는 글로벌 기관급 저널리즘 통신망."
+  },
+  "Regulatory harmonization anchored by the International AI-Trade Association and International AI-Data Association, enforcing global compliance across 8 international bases.": {
+    "ko": "국제 AI무역협회 및 국제 AI데이터협회를 기반으로 한 규제 조화(regulatory harmonization)를 통해 8개 글로벌 거점 전반의 글로벌 컴플라이언스를 강제 집행."
+  },
+  "The Media domain functions through the continuous mutual reinforcement of its two specialized sub-entities. SISTAR Studio drives commercial transaction velocity, while The SISTAR Post commands institutional authority and investor confidence.": {
+    "ko": "미디어 도메인은 두 특화 하위 엔티티 간의 지속적인 상호 강화를 통해 기능합니다. SISTAR Studio가 상업적 거래 유속을 견인하는 한편, The SISTAR Post는 기관급 권위와 투자자 신뢰를 확립합니다."
+  },
+  "When The SISTAR Post breaks an investigative report on bilateral trade tariff shifts or supply chain reorganizations, it establishes undeniable market credibility. Concurrently, SISTAR Studio immediately translates those trade insights into commercial opportunity—generating shoppable product showcases, B2B wholesale offer sheets, and dropshipping collateral tailored to the affected regional corridors. This synchronized feedback loop ensures that epistemic authority directly feeds monetization velocity.": {
+    "ko": "The SISTAR Post가 양자 무역 관세 변동이나 공급망 재편에 관한 탐사 보도를 단독 타전하여 확고한 시장 신뢰성을 구축하면, SISTAR Studio는 동시다발적으로 해당 무역 인사이트를 상업적 기회로 즉각 전환합니다. 즉, 영향받는 지역 코리더(corridor)에 최적화된 쇼핑 연계 제품 쇼케이스, B2B 도매 제안서(offer sheet), 드롭쉬핑 홍보물을 생성하는 것입니다. 이러한 동기화된 피드백 루프는 인식론적 권위(epistemic authority)가 수익화 유속으로 직결되도록 보장합니다."
+  },
+  "Figure 3.1: The *SC Media Master Architecture — Autonomous Content Production Forge (SISTAR Studio) and Global Journalism Wire (The SISTAR Post) coordinated by the Master Gateway.": {
+    "ko": "그림 3.1: *SC 미디어 마스터 아키텍처 — 마스터 게이트웨이에 의해 조율되는 자율 콘텐츠 프로덕션 포지(SISTAR Studio) 및 글로벌 저널리즘 통신망(The SISTAR Post)."
+  },
+  "The consolidated financial blueprint of the Media domain delivers unprecedented operating leverage by replacing fixed studio and bureau depreciation with scalable, variable cloud cognitive compute.": {
+    "ko": "미디어 도메인의 연결 재무 청사진은 고정형 스튜디오 및 지국 감가상각비를 확장 가능한 변동형 클라우드 인지 연산 자원으로 대체함으로써 전례 없는 영업 레버리지를 제공합니다."
+  },
+  "In Year 1, the domain achieves KRW 2.0 Billion in recognized corporate revenue at a 20.0% Operating Profit Margin (OPM), driven by rapid adoption of container volume commercial packages and institutional research subscriptions. In Year 2, revenue scales to KRW 7.0 Billion with OPM expanding to 35.0% as cross-border dropshipping (SISTAR SOD) and wire licensing mature. Year 3 targets KRW 15.0 Billion in revenue at 35.0% OPM (KRW 5.25B net operating income), supported by an ecosystem LTV/CAC ratio of 17.5x, a rapid 2.8-month payback velocity, and a blended gross margin of 60-75% across all media-driven commerce.": {
+    "ko": "1차 연도에 본 도메인은 컨테이너 단위 상업용 패키지의 빠른 도입과 기관 리서치 구독에 힘입어 20.0%의 영업이익률(OPM)과 함께 20억 원의 인식 법인 매출을 달성합니다. 2차 연도에는 크로스보더 드롭쉬핑(SISTAR SOD) 및 와이어 라이선싱의 성숙에 힘입어 매출 70억 원, OPM 35.0%로 확장됩니다. 3차 연도에는 에코시스템 LTV/CAC 비율 17.5배, 2.8개월의 신속한 투자 회수(payback) 속도, 전체 미디어 주도 커머스 전반의 60~75% 복합 매출총이익률을 바탕으로 매출 150억 원, OPM 35.0%(영업이익 52.5억 원)를 목표로 합니다."
+  },
+  "Where Rev_{Studio} represents shoppable e-commerce GMV commissions and B2B container packaging, Rev_{Post} reflects institutional terminal licenses and audited NAV wire subscriptions, and Opex_{cloud} accounts for GPU inference and CDN syndication across 8 global bases.": {
+    "ko": "여기서 Rev_{Studio}는 쇼핑 연계형 이커머스 GMV 수수료 및 B2B 컨테이너 패키징을 의미하고, Rev_{Post}는 기관용 터미널 라이선스 및 감사 기준가(NAV) 와이어 구독을 반영하며, Opex_{cloud}는 8개 글로벌 거점 전반의 GPU 추론 및 CDN 신디케이션 비용을 집계합니다."
+  },
+  "To ensure predictable, contractual monetization across every tier of global partner engagement, the Media domain standardizes all commercial opportunities into 20 actionable B2B offer tracks.": {
+    "ko": "글로벌 파트너 협력의 전 티어에서 예측 가능하고 계약에 기반한 수익화를 보장하기 위해, 미디어 도메인은 모든 상업적 기회를 실행 가능한 20개의 B2B 제안 트랙으로 표준화합니다."
+  },
+  "These tracks completely eliminate discretionary discounting and negotiation ambiguity. Wholesalers, dropshippers, enterprise research clients, and master franchisees select from pre-approved operational tiers with predefined deposit requirements, K-SURE credit insurance integration, and automated 70/30 payment gateway split execution.": {
+    "ko": "이들 트랙은 임의적인 할인과 협상의 모호성을 원천 배제합니다. 도매업자, 드롭쉬퍼, 기업 리서치 고객, 마스터 프랜차이지는 사전 정의된 보증금 요건, K-SURE 수출신용보험 연계, 70/30 결제 게이트웨이 정산 자동 분할이 적용된 사전 승인 운영 티어 중에서 선택하게 됩니다."
+  },
+  "The Media domain does not exist in isolation. It serves as the primary organic customer acquisition engine for all 12 operational domains comprising the Signal Star Universe.": {
+    "ko": "미디어 도메인은 독립적으로 존재하지 않습니다. 이는 시그널 스타 유니버스를 구성하는 12대 운영 도메인 전체를 아우르는 핵심 유기적 고객 획득 엔진 역할을 수행합니다."
+  },
+  "Through algorithmic semantic tagging and distributed short-form syndication, ambient consumer and corporate attention is harvested at zero customer acquisition cost. Inflow is intelligently routed: retail consumers are directed into *SC consumer goods checkout funnels; institutional capital allocators are guided to verified NAV investor memorandums; and corporate manufacturers are channeled into Qubit Biz wholesale B2B offer sheets. This systemic cross-pollination ensures that zero ad spend is wasted on third-party digital ad duopolies.": {
+    "ko": "알고리즘 기반 시맨틱 태깅 및 분산형 숏폼 신디케이션을 통해, 잔존하는(ambient) 소비자와 기업의 어텐션을 고객획득비용 제로(zero-CAC)로 수확합니다. 유입된 트래픽은 지능적으로 라우팅됩니다. 일반 소비자는 *SC 소비재 결제 퍼널로 안내되고, 기관 자본 배분자는 검증된 NAV 투자설명서로 유도되며, 제조 기업은 Qubit Biz 도매 B2B 제안서로 연결됩니다. 이러한 체계적 교차 수분(cross-pollination)은 제3자 디지털 광고 독점 기업에 단 한 푼의 광고비도 낭비되지 않도록 보장합니다."
+  },
+  "Figure 3.2: 12-Domain Cross-Pollination Engine — How the Media domain harvests ambient digital attention to power zero-CAC customer acquisition across all *SC operating sectors.": {
+    "ko": "그림 3.2: 12개 도메인 교차 수분 엔진 — 미디어 도메인이 잔존 디지털 어텐션을 수확하여 모든 *SC 운영 부문 전반의 제로-CAC 고객 획득을 견인하는 메커니즘."
+  },
+  "To maintain authentic regional relevance and legal compliance across multiple continents, *SC Media operates through a coordinated network of eight international territorial bases.": {
+    "ko": "다대륙에 걸친 실질적인 현지 적합성과 법적 컴플라이언스를 유지하기 위해, *SC Media는 8개 글로벌 거점으로 구성된 유기적 네트워크를 통해 운영됩니다."
+  },
+  "The network encompasses Korea (SCK), Indonesia (SCI), Singapore (SCS), USA (SCU), Vietnam (SCV), India (SCIND), China (SCC), and Japan (SCJ). Each regional operational unit operates under the unified regulatory framework of the International AI-Trade Association (IATA) and the International AI-Data Association (IADA). This dual-association architecture ensures that synthetic video creation, neural voice translation, and cross-border data analytics fully comply with international trade treaties, IP protection laws, and data localization protocols.": {
+    "ko": "해당 네트워크는 한국(SCK), 인도네시아(SCI), 싱가포르(SCS), 미국(SCU), 베트남(SCV), 인도(SCIND), 중국(SCC), 일본(SCJ)을 포괄합니다. 각 지역 운영 단위는 국제 AI무역협회(IATA) 및 국제 AI데이터협회(IADA)의 통합 규제 프레임워크 하에서 운영됩니다. 이러한 듀얼 협회 아키텍처는 합성 비디오 생성, 신경망 음성 번역, 크로스보더 데이터 분석이 국제 무역 협정, 지식재산권 보호법, 데이터 현지화 규정을 완벽하게 준수하도록 보장합니다."
+  },
+  "Every regional media campaign, wholesale deal, and affiliate conversion is synchronized in real time into standardized Google Workspace Console ledgers, Monthly Sales sheets, and central operational dashboards.": {
+    "ko": "각 지역의 미디어 캠페인, 도매 거래, 제휴 전환 데이터는 표준화된 Google Workspace Console 원장, 월간 매출 시트, 중앙 운영 대시보드로 실시간 동기화됩니다."
+  },
+  "Pioneers international best practices for AI-driven trade documentation, ensuring zero customs detention, full tariff compliance, and sovereign data residency across all trading corridors.": {
+    "ko": "AI 기반 무역 문서화의 국제 표준 실무를 개척하여, 모든 무역 코리더 전반에서 통관 보류 제로, 완벽한 관세 규정 준수, 주권적 데이터 레지던시를 보장합니다."
+  },
+  "Institutional capital partners demand absolute fiduciary protection. The Media domain operates under *SC's Dual-Track Legal Firewall, ring-fencing core corporate assets and intellectual property away from day-to-day fulfillment and commercial trading risks.": {
+    "ko": "기관 자본 파트너는 완벽한 수탁자 보호(fiduciary protection)를 요구합니다. 미디어 도메인은 일상적인 풀필먼트 및 상업 거래 리스크로부터 기업 핵심 자산과 지식재산권을 엄격히 격리(ring-fencing)하는 *SC의 듀얼 트랙 법적 방화벽 체제 하에서 운영됩니다."
+  },
+  "All proprietary neural prompts, algorithms, and media trademarks are owned exclusively by SC Index (the holding entity). Commercial transactions, container shipments, and retail customer interactions occur through independent Biz Galaxy operational subsidiaries. Transactions are protected by 3-Month Rolling Purchasing Forecasts (RPF) and export insurance backed by the Korea Trade Insurance Corporation (K-SURE). Upon every digital sale, automated payment gateway webhooks trigger a 70/30 split settlement—liquidating manufacturer goods costs instantly while safeguarding net margin in audited fiduciary escrow accounts.": {
+    "ko": "모든 독점적 신경망 프롬프트, 알고리즘, 미디어 상표권은 지주 엔티티인 SC Index가 독점 소유합니다. 상업적 거래, 컨테이너 선적, 소매 고객 접점은 독립적인 Biz Galaxy 운영 자회사를 통해 집행됩니다. 거래는 3개월 롤링 구매 예측(RPF) 및 한국무역보험공사(K-SURE)의 수출보험을 통해 보호됩니다. 디지털 판매가 발생할 때마다 자동화된 결제 게이트웨이 웹훅이 70/30 분할 정산을 트리거하여, 제조업체의 상품 원가를 즉각 청산하는 동시에 순마진을 감사를 필한 수탁 에스크로 계좌에 안전하게 예치합니다."
+  },
+  "Figure 3.3: Enterprise Settlement Topology — Dual-track legal firewall separating holding IP from commercial liabilities, backed by K-SURE insurance and daily audited NAV ledgers.": {
+    "ko": "그림 3.3: 엔터프라이즈 정산 토폴로지 — 지주 IP와 상업적 부채를 분리하는 듀얼 트랙 법적 방화벽, K-SURE 보험 및 일일 감사 기준가(NAV) 원장에 의해 뒷받침됨."
+  },
+  "Track 05 - 08": {
+    "ko": "트랙 05 - 08"
+  },
+  "Track 09 - 12": {
+    "ko": "트랙 09 - 12"
+  },
+  "Audit Frequency Daily NAV Audited": {
+    "ko": "감사 주기: 일일 감사 기준가(NAV)"
+  },
+  "Global Deployment 8 Territorial Bases": {
+    "ko": "글로벌 배포: 8대 거점"
+  },
+  "Download PDF Open Web Brochure →": {
+    "ko": "PDF 브로슈어 다운로드 웹 브로슈어 열기 →"
+  },
+  "+ add to biz-directory": {
+    "ko": "+ 비즈니스 디렉터리 추가"
+  },
+  "✨ brief inquiry for (0)": {
+    "ko": "✨ (0)에 대한 간략 문의"
+  },
+  "✨ analyzing... with sistar ai centers": {
+    "ko": "✨ 분석 중... SISTAR AI 센터 가동"
+  },
+  "country industry product category company name": {
+    "ko": "국가 산업 제품 카테고리 기업명"
+  },
+  "PARTNER PORTAL URL": {
+    "ko": "파트너 포털 URL"
+  },
+  "your email / contact message send message": {
+    "ko": "이메일 / 연락처 메시지 메시지 전송"
+  },
+  "Chapter 01 Institutional Mandate • Central Intelligence Core": {
+    "ko": "Chapter 01 기관 책무 • 중앙 인텔리전스 코어"
+  },
+  "*SC - SISTAR And Co: The Autonomous Central Nervous System": {
+    "ko": "*SC - SISTAR And Co: 자율형 중추 신경계"
+  },
+  "As the foundational command center within the *SC (Signal Star Universe) Layer 4 Ecosystem Arena (Biz-Hub), SISTAR And Co functions as the autonomous central nervous system. Operating around the clock across 8 international business hubs, it orchestrates continuous data harvesting, factual vector grounding, automated corporate ERP execution, and cross-border strategic co-ventures at zero marginal human overhead.": {
+    "ko": "*SC (Signal Star Universe) 레이어 4 에코시스템 아레나(Biz-Hub)의 핵심 지휘 본부인 SISTAR And Co는 자율형 중추 신경계 역할을 수행합니다. 8개 글로벌 비즈니스 거점을 기반으로 24시간 연중무휴 가동되며, 한계 인건비 제로(zero marginal human overhead) 환경에서 지속적인 데이터 수집, 팩트 기반 벡터 그라운딩(factual vector grounding), 기업 전사적자원관리(ERP) 자동화 집행, 국경 간 전략적 공동 합작 투자를 유기적으로 총괄합니다."
+  },
+  "Overnight Scraper Automation without Human Supervision": {
+    "ko": "인적 개입 없는 야간 스크래퍼 완전 자동화"
+  },
+  "External SaaS ERP Licensing Tolls Eliminated": {
+    "ko": "외부 SaaS ERP 라이선스 비용 완전 제거"
+  },
+  "Vector Search Latency on Supabase pgvector Core": {
+    "ko": "Supabase pgvector 코어 기반 벡터 검색 레이턴시"
+  },
+  "Synchronous Multi-Territory Command Nodes": {
+    "ko": "다국적 동기화 지휘 노드"
+  },
+  "Within the modern global commerce landscape, traditional enterprises suffer from systemic information asymmetry, high recurring SaaS overhead, and disconnected operational silos. SISTAR And Co dissolves these bottlenecks by fusing headless browser scraping, high-dimensional vector embeddings, custom LLM fine-tuning, and direct API-driven workflows into a single cohesive operating architecture.": {
+    "ko": "현대 글로벌 커머스 환경에서 기존 기업들은 구조적 정보 비대칭, 과도한 반복성 SaaS 고정비, 파편화된 운영 사일로(silo)로 인해 한계에 직면해 있습니다. SISTAR And Co는 헤드리스 브라우저 스크래핑, 고차원 벡터 임베딩, 커스텀 LLM 파인튜닝, 직접 API 연동형 워크플로우를 단일 통합 운영 아키텍처로 융합하여 이러한 병목 현상을 근본적으로 해소합니다."
+  },
+  "Chapter 02 Data Factory • 10 PM - 8 AM Pipeline": {
+    "ko": "Chapter 02 데이터 팩토리 • 22:00 - 08:00 파이프라인"
+  },
+  "The Overnight Data Factory: Unmanned Multi-Territory Ingestion": {
+    "ko": "야간 데이터 팩토리: 무인 다국적 데이터 인제스천"
+  },
+  "Between 22:00 and 08:00 local time across each international node, the SISTAR And Co cluster deploys distributed Playwright and Apify clusters. These crawlers query wholesale manufacturing exchanges (1688, Alibaba, Global Sources), Southeast Asian retail channels (Shopee, Tokopedia, TikTok Shop, Lazada), and international tariff databases to extract price variances, competitor stock velocity, and regulatory tariff updates.": {
+    "ko": "각 해외 거점별 현지 시각 22:00부터 08:00까지, SISTAR And Co 클러스터는 분산형 Playwright 및 Apify 클러스터를 전개합니다. 이 크롤러들은 제조 도매 거래 플랫폼(1688, Alibaba, Global Sources), 동남아 이커머스 채널(Shopee, Tokopedia, TikTok Shop, Lazada), 국제 관세 데이터베이스를 실시간 질의하여 가격 변동률, 경쟁사 재고 회전 속도(stock velocity), 규제 관세 업데이트를 정밀 추출합니다."
+  },
+  "Global Source Scrapers": {
+    "ko": "글로벌 소싱 스크래퍼"
+  },
+  "Monitors factory wholesale prices on 1688 and Yiwu platforms to pinpoint real-time component cost drops across plastic polymers, aluminum laminates, and active nutraceutical raw materials.": {
+    "ko": "1688 및 이우(Yiwu) 플랫폼의 공장 도매가를 모니터링하여 플라스틱 폴리머, 알루미늄 라미네이트, 고기능성 건강기능식품(nutraceutical) 원료 전반의 실시간 부품·소재 단가 하락을 정밀 포착합니다."
+  },
+  "Local Market SKU Tracker": {
+    "ko": "현지 시장 SKU 트래커"
+  },
+  "Tracks thousands of competing fast-moving consumer items across Jakarta, Surabaya, Ho Chi Minh, and Bangkok, capturing flash discounts, bundle discounts, and out-of-stock events.": {
+    "ko": "자카르타, 수라바야, 호치민, 방콕 전역의 수천 개 경쟁 FMCG(소비재) 품목을 추적하여 번개 할인, 묶음 할인, 품절 현황을 실시간 포착합니다."
+  },
+  "Tariff & Compliance Crawler": {
+    "ko": "관세 및 컴플라이언스 크롤러"
+  },
+  "Scans ASEAN trade portals, Indonesian BPOM regulatory circulars, and Korean MFDS export guidelines, automatically adjusting HS-code landed tariffs before shipping orders are signed.": {
+    "ko": "아세안 무역 포털, 인도네시아 식약청(BPOM) 규제 회보, 한국 식약처(MFDS) 수출 가이드라인을 스캔하여, 선적 오더가 체결되기 전 HS코드 기준 양륙 관세(landed tariff)를 자동 산출 및 보정합니다."
+  },
+  "Chapter 03 AI Architecture • Knowledge Grounding": {
+    "ko": "Chapter 03 AI 아키텍처 • 지식 그라운딩"
+  },
+  "Dual-Engine Vector RAG: NotebookLM + Dify Coordination": {
+    "ko": "듀얼 엔진 벡터 RAG: NotebookLM + Dify 통합 제어"
+  },
+  "LLM hallucinations represent an unacceptable risk in cross-border commerce contracts, chemical formulation verification, and tax calculations. SISTAR And Co enforces a deterministic zero-hallucination policy through a coordinated dual-engine Retrieval-Augmented Generation (RAG) framework.": {
+    "ko": "LLM 환각(Hallucination) 현상은 크로스보더 무역 계약, 화학 포뮬레이션 검증, 관세·세무 계산에 있어 용인될 수 없는 리스크입니다. SISTAR And Co는 유기적으로 조율된 듀얼 엔진 검색증강생성(RAG) 프레임워크를 통해 결정론적 제로-할루시네이션(Zero-Hallucination) 원칙을 엄격히 구현합니다."
+  },
+  "Where CosineSim computes the high-dimensional cosine proximity in Supabase pgvector (&ge; 0.88 threshold), CitationMatch verifies strict substring attribution against verified source files, and TemporalWeight penalizes market data older than 24 hours (&alpha;=0.45, &beta;=0.40, &gamma;=0.15).": {
+    "ko": "여기서 CosineSim은 Supabase pgvector 내 고차원 코사인 유사도를 연산하고(임계값 &ge; 0.88), CitationMatch는 검증된 소스 문헌에 대한 엄격한 부분 문자열 귀속성을 검증하며, TemporalWeight는 24시간을 초과한 시장 데이터에 페널티를 부과합니다(&alpha;=0.45, &beta;=0.40, &gamma;=0.15)."
+  },
+  "Chapter 04 Operations Core • Computer Vision & ERP": {
+    "ko": "Chapter 04 운영 코어 • 컴퓨터 비전 및 ERP"
+  },
+  "Qubit ERP & CCTV Vision Stock Opname: Physical-Digital Unification": {
+    "ko": "Qubit ERP 및 CCTV 비전 재고실사(Stock Opname): 물리-디지털 통합"
+  },
+  "Traditional warehousing relies on manual cycle counting and periodic barcode scanning, leading to phantom inventory, shrinkage, and costly fulfillment delays. SISTAR And Co integrates warehouse IP cameras directly with Gemini Vision AI, automating stock verification at the physical pallet, carton, and micro-sachet tier.": {
+    "ko": "기존의 물류창고 관리는 수작업 순환 실사와 주기적 바코드 스캐닝에 의존하여 유령 재고, 감모 손실, 막대한 풀필먼트 지연을 초래했습니다. SISTAR And Co는 물류창고 IP 카메라를 Gemini Vision AI와 직접 통합하여 물리적 팔레트, 카톤 박스, 마이크로 사셰(micro-sachet) 단위에 이르는 재고 검증을 전자동화합니다."
+  },
+  "Automated 25th Payouts & Statutory Withholding": {
+    "ko": "매월 25일 자동 급여 지급 및 법정 원천징수"
+  },
+  "Employee timesheets, attendance logs, and performance metrics synchronize seamlessly into Google Workspace Sheets and AppSheet scripts. On the 25th of each calendar month, automated banking APIs initiate direct payroll disbursements with statutory tax, BPJS Ketenagakerjaan, and pension deductions computed to the exact penny.": {
+    "ko": "임직원의 타임시트, 근태 기록, 성과 지표는 Google Workspace Sheets 및 AppSheet 스크립트로 완벽하게 동기화됩니다. 매월 25일, 자동화된 뱅킹 API를 통해 법정 세금, BPJS Ketenagakerjaan(근로기준보험) 및 연금 공제액이 한 치의 오차 없이 정확하게 계산된 급여가 직접 지급됩니다."
+  },
+  "Instant e-Faktur & Cross-Border VAT Ledger": {
+    "ko": "실시간 e-Faktur 발급 및 크로스보더 부가가치세(VAT) 원장"
+  },
+  "All incoming and outgoing purchase invoices trigger automated XML schema generation for Indonesian DJP e-Faktur integration. International cross-border trade transactions between SCK (Korea), SCI (Indonesia), and SCS (Singapore) maintain automatic transfer pricing compliance logs backed by audited contracts.": {
+    "ko": "모든 입출고 매입·매출 인보이스는 인도네시아 세무국(DJP) e-Faktur 연동을 위한 XML 스키마 생성을 자동으로 트리거합니다. SCK(한국), SCI(인도네시아), SCS(싱가포르) 간의 국가 간 크로스보더 무역 거래는 공인 감사를 거친 계약서를 기반으로 이전가격(Transfer Pricing) 규제 준수 로그를 자동 유지합니다."
+  },
+  "Chapter 05 Monetization • Unit Economics": {
+    "ko": "제05장 수익화 모델 • 유닛 이코노믹스(Unit Economics)"
+  },
+  "Dual-Return SaaS & MCP API Monetization Architecture": {
+    "ko": "듀얼 리턴 SaaS 및 MCP API 수익화 아키텍처"
+  },
+  "SISTAR And Co operates under a high-margin dual-return financial doctrine: First, it eliminates 100% of internal SaaS recurring license costs (replacing Salesforce, SAP, and manual data vendors). Second, it packages its internal agents and endpoints into external revenue-generating SaaS tools and Model Context Protocol (MCP) server agent query tolls.": {
+    "ko": "SISTAR And Co는 고마진의 듀얼 리턴(Dual-Return) 재무 원칙에 따라 운영됩니다. 첫째, 내부 SaaS 반복 라이선스 비용을 100% 절감합니다(Salesforce, SAP 및 외주 데이터 벤더 대체). 둘째, 사내 구축된 에이전트와 엔드포인트를 외부 수익 창출용 SaaS 도구 및 Model Context Protocol (MCP) 서버 에이전트 쿼리 통행료(Toll) 모델로 패키징합니다."
+  },
+  "Internal Cost Elimination": {
+    "ko": "내부 운영 비용 절감"
+  },
+  "By replacing third-party enterprise ERP licenses, scrapers, and agency market research retainers with proprietary Google Workspace + Supabase infrastructure, the company saves an estimated $148,000 annually per business unit.": {
+    "ko": "외부 엔터프라이즈 ERP 라이선스, 웹 스크래퍼, 전문 에이전시의 시장 조사 리테이너 비용을 독자적인 Google Workspace + Supabase 인프라로 대체함으로써, 사업 부문당 연간 약 14만 8천 달러의 비용 절감을 실현합니다."
+  },
+  "White-Label Enterprise RAG": {
+    "ko": "화이트라벨 엔터프라이즈 RAG"
+  },
+  "Partners and franchised entities pay monthly subscriptions ($2,500 to $12,000/mo) to utilize our zero-hallucination vector search engines for their local compliance, formulation, and wholesale sourcing operations.": {
+    "ko": "파트너사 및 프랜차이즈 법인은 당사의 무환각(Zero-hallucination) 벡터 검색 엔진을 현지 컴플라이언스 준수, 포뮬레이션 개발, 도매 소싱 업무에 활용하기 위해 월 구독료(월 $2,500 ~ $12,000)를 지불합니다."
+  },
+  "MCP Server Query Tolls": {
+    "ko": "MCP 서버 쿼리 톨(Toll)"
+  },
+  "Autonomous external AI agents querying our cross-border logistics rates, wholesale stock availability, and currency clearing rates are billed micro-tolls per API token, creating a perpetual passive revenue stream.": {
+    "ko": "당사의 크로스보더 물류 운임, 도매 재고 가용성, 통화 정산 환율을 쿼리하는 외부 자율 AI 에이전트에게 API 토큰당 마이크로 요금이 부과되어 영구적인 패시브 수익 파이프라인을 형성합니다."
+  },
+  "Chapter 06 Global Architecture • 8 Country Nodes": {
+    "ko": "제06장 글로벌 아키텍처 • 8개국 거점 노드"
+  },
+  "Global Semantic Web Matrix & 8 International Bases": {
+    "ko": "글로벌 시맨틱 웹 매트릭스 및 8개국 국제 거점"
+  },
+  "SISTAR And Co acts as the synchronization hub linking the entire 12-domain semantic web constellation of the Signal Star Universe across 8 sovereign commercial jurisdictions. Operational commands, cash flows, and trade intelligence flow through unified Google Workspace Consoles and standardized Monthly Sales Dashboards.": {
+    "ko": "SISTAR And Co는 8개 주권 관할권 전역에 걸친 시그널 스타 유니버스(Signal Star Universe)의 12개 도메인 시맨틱 웹 콘스텔레이션을 연결하는 동기화 허브 역할을 수행합니다. 모든 운영 지휘 체계, 현금 흐름, 무역 인텔리전스는 통합된 Google Workspace 콘솔과 표준화된 월간 매출 대시보드를 통해 실시간으로 유통됩니다."
+  },
+  "Holding & IP Core": {
+    "ko": "지주사 및 IP 코어"
+  },
+  "Directs global brand ownership, quantum algorithm research, and K-SURE export credit guarantee underwriting.": {
+    "ko": "글로벌 브랜드 소유권 총괄, 양자 알고리즘 연구, K-SURE 수출신용보증 언더라이팅을 지휘합니다."
+  },
+  "Production & Commerce": {
+    "ko": "생산 및 커머스"
+  },
+  "Orchestrates automated micro-sachet packaging, BPOM compliance, and local Tokopedia/Shopee fulfillment networks.": {
+    "ko": "자동화된 마이크로 사셰 패키징 공정, 인도네시아 식약청(BPOM) 인허가 규제 준수, 현지 Tokopedia/Shopee 풀필먼트 네트워크를 총괄 지휘합니다."
+  },
+  "Treasury & FX Clearing": {
+    "ko": "재무 및 FX 외환 결제·정산"
+  },
+  "Oversees multi-currency escrow settlements, cross-border tax treaties, and regional venture investments.": {
+    "ko": "다중 통화 에스크로 결제, 국가 간 조세 조약 관리, 권역별 벤처 투자를 관할합니다."
+  },
+  "Global Capital & IP": {
+    "ko": "글로벌 자본 및 지식재산권(IP)"
+  },
+  "Manages North American institutional investor relations, SEC filing compliance, and global trademark portfolios.": {
+    "ko": "북미 기관 투자자 IR, 미국 증권거래위원회(SEC) 공시 규제 준수 및 글로벌 상표권 포트폴리오를 관리합니다."
+  },
+  "Manufacturing & Sourcing": {
+    "ko": "제조 및 소싱"
+  },
+  "Manages secondary packaging production, ASEAN raw material sourcing, and localized supply chain corridors.": {
+    "ko": "2차 패키징 생산, 아세안(ASEAN) 원자재 소싱 및 현지화된 공급망 회랑(Supply Chain Corridor)을 관리합니다."
+  },
+  "Software & Microservices": {
+    "ko": "소프트웨어 및 마이크로서비스"
+  },
+  "Executes backend API maintenance, data scraping pipelines, and distributed vector database indexing.": {
+    "ko": "백엔드 API 유지보수, 데이터 스크래핑 파이프라인 구축, 분산 벡터 데이터베이스 인덱싱을 수행합니다."
+  },
+  "Hardware & Machinery": {
+    "ko": "하드웨어 및 기계 설비"
+  },
+  "Monitors industrial sachet packaging machinery procurement, tooling, and direct factory price audits on 1688.": {
+    "ko": "1688 플랫폼 기반의 산업용 사셰(Sachet) 포장 기계 조달, 툴링(금형 가공) 및 공장 직거래 원가 감사를 실시간 모니터링합니다."
+  },
+  "Formulation & QA": {
+    "ko": "포뮬레이션(배합 설계) 및 품질 보증(QA)"
+  },
+  "Maintains premium nutraceutical formulation standards, cleanroom inspection protocols, and Japanese clinical data.": {
+    "ko": "프리미엄 뉴트라슈티컬 포뮬레이션 기준, 클린룸 검수 프로토콜 및 일본 임상 데이터를 통합 유지·관리합니다."
+  },
+  "Chapter 07 Governance • Settlement Security": {
+    "ko": "제07장 거버넌스 • 결제 및 정산 보안 체계"
+  },
+  "Triple Control Towers & Automated 70/30 Settlement Protocol": {
+    "ko": "트리플 컨트롤 타워 및 자동화된 70/30 정산 프로토콜"
+  },
+  "To guarantee complete institutional safety, SISTAR And Co enforces a dual-track corporate firewall separating holding company IP assets (SC Index) from commercial operational liabilities (Biz Galaxy). All transactions operate through 3-Month Rolling Purchasing Forecasts (RPF), K-SURE export credit insurance, and programmatic payment gateway split protocols.": {
+    "ko": "기관 수준의 완벽한 안정성을 담보하기 위해, SISTAR And Co는 지주회사의 지식재산(IP) 자산(SC Index)과 상업 운영 부채(Biz Galaxy)를 엄격히 분리하는 듀얼 트랙 기업 방화벽을 가동합니다. 모든 거래는 3개월 롤링 구매 예측(RPF), K-SURE 수출신용보증 및 프로그래밍 방식의 결제 게이트웨이 분할 프로토콜을 통해 집행됩니다."
+  },
+  "Whenever an authorized customer or B2B distributor completes a purchase across any *SC channel, payment gateway webhooks automatically split gross revenue: 70% is disbursed immediately into local operational fulfillment and raw material replenishment accounts, while 30% is swept directly into the holding treasury for debt service, reserve capital, and technology amortization.": {
+    "ko": "인가된 고객 또는 B2B 유통사가 일체의 *SC 채널을 통해 구매를 완료할 때마다 결제 게이트웨이 웹훅이 총매출을 자동 분할합니다. 70%는 현지 운영 풀필먼트 및 원자재 재충전 계좌로 즉시 지급되며, 30%는 부채 상환, 예비 자본 확충 및 기술 상각을 위해 지주회사 재무본부로 직접 일괄 이체(Sweep)됩니다."
+  },
+  "One Spark, Infinite Galaxifying: SISTAR And Co operates as the command engine for the Signal Star Universe. Powered by the Qubit Algorithm™, *SC intelligence-core, Scarlet AI, and the Biz Galaxy constellation. Institutional Portal: https://sistarcompany.com • Executive Contact: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: SISTAR And Co는 Signal Star Universe의 총괄 커맨드 엔진으로 작동합니다. Qubit Algorithm™, *SC intelligence-core, Scarlet AI 및 Biz Galaxy 성단을 기반으로 구동됩니다. 기관 포털: https://sistarcompany.com • 경영진 연락처: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Institutional Mandate • Central Intelligence Core": {
+    "ko": "기관 사명(Mandate) • 중앙 인텔리전스 코어"
+  },
+  "Autonomous Enterprise Operating Paradigm: 24/7/365 Continuous Execution": {
+    "ko": "자율형 엔터프라이즈 운영 패러다임: 24/7/365 무중단 실행 체계"
+  },
+  "While human executive teams rest between 10:00 PM and 8:00 AM, the SISTAR And Co Overnight Data Factory executes millions of headless web actions, recalculates cross-border landed cost matrices, aggregates multi-marketplace inventory data, and synthesizes citation-backed strategic intelligence dossiers ready for morning capital deployment.": {
+    "ko": "경영진이 휴식을 취하는 오후 10시부터 익일 오전 8시 사이, SISTAR And Co 야간 데이터 팩토리는 수백만 건의 헤드리스 웹 액션을 실행하고, 크로스보더 양륙비용(Landed Cost) 매트릭스를 재산출하며, 다중 마켓플레이스 재고 데이터를 취합하고, 오전 자본 배치를 위한 출처 검증 기반 전략 인텔리전스 보고서를 종합 생성합니다."
+  },
+  "Data Factory • 10 PM - 8 AM Pipeline": {
+    "ko": "데이터 팩토리 • 10 PM - 8 AM 파이프라인"
+  },
+  "AI Architecture • Knowledge Grounding": {
+    "ko": "AI 아키텍처 • 지식 그라운딩"
+  },
+  "Engine / Layer": {
+    "ko": "엔진 / 레이어"
+  },
+  "Primary Technology": {
+    "ko": "핵심 기술"
+  },
+  "Data Repository": {
+    "ko": "데이터 리포지토리"
+  },
+  "Output SLA": {
+    "ko": "출력 SLA"
+  },
+  "Primary Vector Index": {
+    "ko": "프라이머리 벡터 인덱스"
+  },
+  "Nightly Scraped Raw Data + SKU DB": {
+    "ko": "야간 스크래핑 로우 데이터 + SKU 데이터베이스"
+  },
+  "Semantic document search, landed cost comparison, supplier qualification": {
+    "ko": "시맨틱 문서 검색, 양륙비용 비교 분석, 공급업체 적격성 평가"
+  },
+  "< 120 ms query time": {
+    "ko": "쿼리 응답 시간 < 120 ms"
+  },
+  "Citation Grounding": {
+    "ko": "인용 그라운딩(Citation Grounding)"
+  },
+  "Internal SOPs, Board Memos, Contracts": {
+    "ko": "사내 표준운영절차(SOP), 이사회 메모, 계약서"
+  },
+  "Zero-hallucination policy grounding with page-level footnote citations": {
+    "ko": "페이지 단위 각주 인용을 통한 무환각(Zero-Hallucination) 규정 그라운딩"
+  },
+  "Multi-source cross-reference": {
+    "ko": "다중 소스 교차 검증"
+  },
+  "Workflow Orchestrator": {
+    "ko": "워크플로우 오케스트레이터"
+  },
+  "Dify Multi-Agent DAG Framework": {
+    "ko": "Dify 멀티 에이전트 DAG 프레임워크"
+  },
+  "Live REST API & Webhook Registry": {
+    "ko": "실시간 REST API 및 웹훅 레지스트리"
+  },
+  "Automated report generation, webhook trigger dispatch, email synthesis": {
+    "ko": "자동화된 리포트 생성, 웹훅 트리거 디스패치, 이메일 종합 합성"
+  },
+  "Daily briefing by 08:00 AM": {
+    "ko": "오전 08:00 기준 일일 브리핑"
+  },
+  "Audit & Compliance": {
+    "ko": "감사 및 컴플라이언스"
+  },
+  "Automated Hash Validation Checksum": {
+    "ko": "자동화된 해시 검증 체크섬"
+  },
+  "Immutable Audit Log Storage": {
+    "ko": "불변 감사 로그 저장소"
+  },
+  "Regulatory compliance audit trail, export credit guarantee documentation": {
+    "ko": "규제 준수 감사 추적(Audit Trail), 수출신용보증 증빙 문서화"
+  },
+  "Real-time cryptographic log": {
+    "ko": "실시간 암호화 로그"
+  },
+  "Operations Core • Computer Vision & ERP": {
+    "ko": "운영 코어 • 컴퓨터 비전 및 ERP"
+  },
+  "Monetization • Unit Economics": {
+    "ko": "수익화 • 유닛 이코노믹스"
+  },
+  "Service Tier": {
+    "ko": "서비스 티어"
+  },
+  "Target Client": {
+    "ko": "타깃 클라이언트"
+  },
+  "Core Capabilities": {
+    "ko": "핵심 역량"
+  },
+  "Billing Model": {
+    "ko": "과금 모델"
+  },
+  "Internal *SC Matrix": {
+    "ko": "내부 *SC 매트릭스"
+  },
+  "12 Internal Holding Domains": {
+    "ko": "12개 내부 지주 도메인"
+  },
+  "24/7 Overnight data ingestion, automated ERP, vision stock opname": {
+    "ko": "24/7 심야 데이터 인제스천, 자동화 ERP, 비전 기반 재고 실사(Stock Opname)"
+  },
+  "Internal Cost Allocation ($0 markup)": {
+    "ko": "내부 원가 배부 (마크업 $0)"
+  },
+  "100% Cost Recovery": {
+    "ko": "100% 원가 회수"
+  },
+  "B2B Venture Partners": {
+    "ko": "B2B 벤처 파트너스"
+  },
+  "Franchisees & Co-Brand Partners": {
+    "ko": "프랜차이지 및 코브랜드 파트너"
+  },
+  "Custom Dify workflows, daily pricing briefs, automated e-Faktur": {
+    "ko": "맞춤형 Dify 워크플로우, 일일 가격 브리핑, 자동화된 e-Faktur"
+  },
+  "$1,500 - $4,500 / month": {
+    "ko": "월 $1,500 - $4,500"
+  },
+  "Enterprise Consortia": {
+    "ko": "엔터프라이즈 컨소시엄"
+  },
+  "Multinational Importers / Distributors": {
+    "ko": "다국적 수입사 / 유통사"
+  },
+  "Dedicated pgvector clusters, custom scrapers, K-SURE integration": {
+    "ko": "전용 pgvector 클러스터, 커스텀 스크래퍼, K-SURE 연동"
+  },
+  "$7,500 - $25,000 / month + setup": {
+    "ko": "월 $7,500 - $25,000 + 셋업 비용"
+  },
+  "Agentic MCP Tolls": {
+    "ko": "에이전틱 MCP 톨"
+  },
+  "External AI Agents & Aggregators": {
+    "ko": "외부 AI 에이전트 및 애그리게이터"
+  },
+  "REST / JSON-RPC / MCP endpoints for real-time inventory & FX rates": {
+    "ko": "실시간 재고 및 환율 조회를 위한 REST / JSON-RPC / MCP 엔드포인트"
+  },
+  "$0.0025 per validated query token": {
+    "ko": "검증된 쿼리 토큰당 $0.0025"
+  },
+  "Global Architecture • 8 Country Nodes": {
+    "ko": "글로벌 아키텍처 • 8개국 거점 노드"
+  },
+  "Governance • Settlement Security": {
+    "ko": "거버넌스 • 정산 안전성"
+  },
+  "Security Layer": {
+    "ko": "보안 레이어"
+  },
+  "Institutional Mechanism": {
+    "ko": "제도적 메커니즘"
+  },
+  "Enforcement Agency / Tool": {
+    "ko": "집행 기관 / 툴"
+  },
+  "Risk Mitigation Target": {
+    "ko": "리스크 완화 목표"
+  },
+  "Corporate Firewall": {
+    "ko": "기업 방화벽"
+  },
+  "Dual-Track Entity Separation": {
+    "ko": "듀얼 트랙 법인 분리"
+  },
+  "Delaware / Korean Holding Charter": {
+    "ko": "델라웨어 / 한국 지주사 정관"
+  },
+  "Isolates core proprietary IP from local commercial lawsuits and distributor defaults.": {
+    "ko": "현지 상업 소송 및 유통 파트너의 채무불이행(디폴트) 리스크로부터 핵심 독점 IP를 원천 격리합니다."
+  },
+  "Demand Smoothing": {
+    "ko": "수요 평활화(Demand Smoothing)"
+  },
+  "3-Month Rolling Purchasing Forecasts (RPF)": {
+    "ko": "3개월 롤링 구매 예측(RPF)"
+  },
+  "Automated ERP Purchasing Algorithms": {
+    "ko": "자동화된 ERP 구매 알고리즘"
+  },
+  "Eliminates warehouse stockout spikes and capital-draining inventory surpluses.": {
+    "ko": "창고 품절 사태의 급증과 자본을 잠식하는 잉여 재고를 원천 차단합니다."
+  },
+  "Credit Underwriting": {
+    "ko": "신용 언더라이팅"
+  },
+  "K-SURE Export Credit Insurance": {
+    "ko": "K-SURE 수출신용보험"
+  },
+  "Korea Trade Insurance Corporation": {
+    "ko": "한국무역보험공사"
+  },
+  "Protects 95% to 100% of cross-border shipments against overseas counterparty insolvencies.": {
+    "ko": "해외 거래처의 지급불능 사태에 대응하여 크로스보더 선적 화물의 95%~100%를 안전하게 보호합니다."
+  },
+  "Automated Escrow Split": {
+    "ko": "자동 에스크로 분할 정산"
+  },
+  "Payment Gateway Webhook Routers": {
+    "ko": "PG(결제 게이트웨이) 웹훅 라우터"
+  },
+  "Stripe / Xendit / Midtrans Multi-Split": {
+    "ko": "Stripe / Xendit / Midtrans 다중 분할 정산"
+  },
+  "Eliminates manual accounting reconciliation errors and guarantees instantaneous royalty routing.": {
+    "ko": "수기 회계 대사 오류를 원천 배제하고 즉각적인 로열티 라우팅을 보장합니다."
+  },
+  "Chapter 01 Institutional Mandate • 'Together Gets Stronger'": {
+    "ko": "Chapter 01 제도적 사명 • 'Together Gets Stronger'"
+  },
+  "*SC - Co Brands: Joint ODM, Shared IP & Co-Creation Hub": {
+    "ko": "*SC - Co Brands: 공동 ODM, 공유 IP 및 공동 창작 허브"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Co Brands serves as the co-creation gravitational center. It transforms fragmented manufacturers, emerging indie labels, and overseas brand IP holders into unified, co-owned brand powerhouses through algorithmic formulation, micro-sachet packaging, shared warehousing, and joint go-to-market consortia.": {
+    "ko": "*SC 레이어 4 생태계 아레나(Biz-Hub) 내에서 Co Brands는 공동 창작의 중력 중심 역할을 수행합니다. 알고리즘 기반 처방(포뮬레이션), 마이크로 사셰 패키징, 공유 물류창고, 공동 시장 진출(GTM) 컨소시엄을 통해 파편화된 제조사, 신흥 인디 레이블, 해외 브랜드 IP 보유자를 결속력 있는 공동 소유 브랜드 파워하우스로 전환합니다."
+  },
+  "Target Landed Micro-Sachet Retail Price Point": {
+    "ko": "목표 마이크로 사셰 최종 인도가(Landed) 기준 소매 프라이스 포인트"
+  },
+  "CAPEX Reduction via Shared Formulation Tooling": {
+    "ko": "공유 처방 툴링을 통한 자본적 지출(CAPEX) 절감"
+  },
+  "Inventory Turnover Velocity vs Bulk Container Brands": {
+    "ko": "벌크 용기 브랜드 대비 재고 회전 속도"
+  },
+  "BPOM & Halal Certified Multi-Tenant Formulations": {
+    "ko": "BPOM 및 할랄 인증 멀티 테넌트 포뮬레이션"
+  },
+  "Traditional ODM arrangements consign small brand creators to exorbitant Minimum Order Quantities (MOQs), cash lockups, and unbranded obscurity. *SC Co Brands flips this relationship: by aggregating dozens of partner labels onto our standardized Auto-Formulator pipeline, every member enjoys Tier-1 industrial pricing, instant regulatory registration, and immediate placement across our regional franchise networks.": {
+    "ko": "전통적인 ODM 계약 구조는 소규모 브랜드 크리에이터들에게 과도한 최소주문수량(MOQ), 현금 유동성 경색, 무명 브랜드로의 전락을 강요해 왔습니다. *SC Co Brands는 이러한 역학 구도를 근본적으로 재편합니다. 수십 개의 파트너 브랜드를 당사의 표준화된 Auto-Formulator 파이프라인으로 집적함으로써, 모든 참여사는 Tier-1 수준의 산업용 단가 경쟁력, 즉각적인 규제 등록, 그리고 역내 프랜차이즈 네트워크 전반에 걸친 즉각적인 유통 배치를 일거에 확보하게 됩니다."
+  },
+  "Chapter 02 Industrial Engineering • Micro-Sachet Engine": {
+    "ko": "Chapter 02 산업공학 • 마이크로 사셰 엔진"
+  },
+  "The Auto-Formulator: Algorithmic Recipe Synthesis & Packaging Automation": {
+    "ko": "Auto-Formulator: 알고리즘 기반 처방 합성 및 패키징 자동화"
+  },
+  "At the core of our co-branding advantage is the proprietary Auto-Formulator software. It maintains an exhaustive database of active nutraceutical, dermatological, and pet wellness ingredients, calculating physical density, active stability, solubility curves, and packaging barrier specifications for high-speed multi-lane vertical form-fill-seal (VFFS) machinery.": {
+    "ko": "당사 공동 브랜딩 경쟁력의 핵심은 독자적인 Auto-Formulator 소프트웨어에 있습니다. 본 엔진은 뉴트라슈티컬, 더마톨로지, 펫 웰니스 활성 성분에 대한 포괄적 데이터베이스를 유지 관리하며, 초고속 다열 수직형 충전-성형-밀봉(multi-lane VFFS) 설비에 최적화된 물리적 밀도, 유효 성분 안정성, 용해도 곡선 및 패키징 차단성 규격을 정밀 연산합니다."
+  },
+  "Universal Base Matrix": {
+    "ko": "범용 베이스 매트릭스"
+  },
+  "Standardized high-stability carrier bases allow 80% identical raw material volume across different co-brands, leaving 20% for customized active extracts, peptides, or flavors that define each brand's unique positioning.": {
+    "ko": "표준화된 고안정성 캐리어 베이스를 활용함으로써 상이한 코브랜드 간 원자재 투입량의 80%를 일원화하고, 잔여 20%를 맞춤형 활성 추출물, 펩타이드 또는 향료로 구성하여 각 브랜드 고유의 포지셔닝을 정밀하게 확립합니다."
+  },
+  "Multi-Lane Sachet Tooling": {
+    "ko": "멀티 레인 사셰 툴링"
+  },
+  "Operating multi-lane VFFS machinery configured for rapid digital plate changeovers enables production runs as small as 10,000 sachets per brand label without sacrificing industrial economies of scale.": {
+    "ko": "신속한 디지털 플레이트 교체가 가능하도록 구성된 멀티 레인 VFFS 장비를 운용함으로써, 브랜드 레이블당 최소 10,000개 사셰 수준의 소량 배치 생산에서도 산업적 규모의 경제를 완벽히 유지합니다."
+  },
+  "Single-Dose Affordability": {
+    "ko": "1회 분량(Single-Dose)의 경제성 극대화"
+  },
+  "By eliminating expensive rigid plastic jars, droppers, and secondary box packaging, the micro-sachet format converts aspirational luxury products into daily-use impulse purchases priced at just Rp 1,320.": {
+    "ko": "고비용의 견고한 플라스틱 용기, 드로퍼, 2차 단상자 패키징을 원천 배제함으로써, 마이크로 사셰 포맷은 고관여 럭셔리 제품을 단 1,320루피아(Rp)의 일상적 충동구매 가격대로 전환시킵니다."
+  },
+  "Chapter 03 Business Model • Brand Transformation": {
+    "ko": "Chapter 03 비즈니스 모델 • 브랜드 혁신 트랜스포메이션"
+  },
+  "Joint ODM: White-Label to Co-Brand Metamorphosis Matrix": {
+    "ko": "조인트 ODM: 화이트 라벨에서 코브랜드로의 전이 매트릭스"
+  },
+  "Under conventional white-labeling, brand owners bear 100% of the marketing, inventory, and spoilage risks, while factory suppliers extract safe tolling fees. The *SC Co-Brands framework replaces this extractive relationship with aligned joint equity, shared risk buffers, and collective brand equity growth.": {
+    "ko": "전통적인 화이트 라벨링 체제에서 브랜드 오너는 마케팅, 재고, 폐기 리스크를 100% 부담하는 반면 제조사는 안정적인 임가공 수수료만을 취합니다. *SC Co-Brands 프레임워크는 이러한 착취적 구조를 지분 연계, 리스크 완충 장치 공유, 집단적 브랜드 자산 가치 제고를 통한 공동 성장 모델로 대체합니다."
+  },
+  "Chapter 04 Logistics Innovation • Shared Distribution": {
+    "ko": "Chapter 04 물류 혁신 • 공유형 유통망"
+  },
+  "Shared Logistics: 'Space Sharing & Deliver Together' Consortium": {
+    "ko": "공유 물류: 'Space Sharing & Deliver Together' 컨소시엄"
+  },
+  "Logistics costs in emerging island markets such as Indonesia and the Philippines often account for 25% to 35% of total retail price. *SC Co Brands dissolves this friction through the Space Sharing & Deliver Together consortium: a unified warehousing and distribution network where participating brands co-load delivery vans and share fulfillment space.": {
+    "ko": "인도네시아, 필리핀 등 도서 지역 신흥 시장의 물류비는 통상 소매가의 25%~35%에 달합니다. *SC Co Brands는 'Space Sharing & Deliver Together' 컨소시엄을 통해 이러한 비용 마찰을 해소합니다. 참여 브랜드들은 일원화된 보관 및 유통 네트워크를 활용하여 배송 차량을 공동 적재하고 풀필먼트 공간을 공유합니다."
+  },
+  "Unified Urban Van Runs": {
+    "ko": "통합 도심 배송 차량 운용"
+  },
+  "Rather than four different courier vans visiting the same shopping plaza or high street on the same afternoon, a single branded *SC logistics van carries consolidated orders for all participating co-brands, dropping fulfillment and fuel overhead by more than 50%.": {
+    "ko": "서로 다른 4개 물류사의 차량이 동일한 날 오후 동일한 쇼핑 플라자나 번화가를 개별 방문하는 대신, 단일 브랜드화된 *SC 물류 차량이 모든 참여 코브랜드의 통합 주문을 적재하여 일괄 배송함으로써 풀필먼트 및 유류비 오버헤드를 50% 이상 절감합니다."
+  },
+  "Cross-Docking Micro-Warehouses": {
+    "ko": "크로스도킹 마이크로 물류 센터"
+  },
+  "Our primary warehouse nodes in Tangerang, Surabaya, and Medan function as cross-docking sorting facilities. Participating brands share security, air conditioning, CCTV monitoring, and warehouse staff without individual facility leases.": {
+    "ko": "땅그랑, 수라바야, 메단에 위치한 당사의 핵심 물류 거점은 크로스도킹 분류 시설로 기능합니다. 참여 브랜드들은 개별 설비 임차 없이 보안, 공조 인프라, CCTV 모니터링 시스템, 물류 전문 인력을 완벽히 공유합니다."
+  },
+  "Chapter 05 Financial Architecture • Unit Economics": {
+    "ko": "Chapter 05 재무 아키텍처 • 유닛 이코노믹스"
+  },
+  "Unit Economics: The Rp 1,320 Micro-Sachet Margin Stack": {
+    "ko": "유닛 이코노믹스: 1,320루피아 마이크로 사셰 마진 스택"
+  },
+  "To demonstrate commercial feasibility, every product developed within *SC Co Brands adheres to a strict target costing model. The entire bill of materials (BOM), packaging foil, manufacturing toll, shared distribution, and channel retailer cut are engineered into the Rp 1,320 retail price point.": {
+    "ko": "상업적 실행 가능성을 입증하기 위해, *SC Co Brands 내에서 개발되는 모든 제품은 엄격한 타깃 코스팅 모델을 준수합니다. 원자재 명세서(BOM), 패키징 포일, 제조 공임, 공유 물류비, 유통 채널 마진 일체가 1,320루피아라는 최종 소비자가 내에 정밀하게 설계되어 있습니다."
+  },
+  "Net Co-Brand Gross Margin = Rp 300 / Rp 1,320 = 22.7% pure brand margin after paying retail channel cuts and full logistics. Factory contribution margin sits at Rp 120 + Rp 140 = Rp 260 per sachet, creating an aggregated ecosystem margin exceeding 42%.": {
+    "ko": "순 코브랜드 매출총이익(Gross Margin) = 300루피아 / 1,320루피아 = 22.7% (유통 채널 수수료 및 전액 물류비를 공제한 순수 브랜드 마진). 공장 공헌이익은 사셰당 120루피아 + 140루피아 = 260루피아로 책정되어, 에코시스템 전체 집계 마진은 42%를 상회합니다."
+  },
+  "Chapter 06 IP Framework • Royalty Splitting": {
+    "ko": "Chapter 06 IP 프레임워크 • 로열티 배분"
+  },
+  "Multi-Jurisdictional Brand IP Co-Ownership & Royalty Protocol": {
+    "ko": "다국적 관할 브랜드 IP 공동 소유 및 로열티 프로토콜"
+  },
+  "Co Brands structures every partnership through a dual-holding corporate structure that eliminates trademark conflict while aligning growth incentives across international borders. Strategic co-brands operate under a joint venture vehicle registered in Singapore (SCS) or Delaware (SCU), with regional operating subsidiaries handling physical manufacturing.": {
+    "ko": "Co Brands는 상표권 분쟁을 원천 차단하고 국경을 초월한 성장 유인을 일치시키기 위해 이중 지주회사(Dual-Holding) 구조를 기반으로 파트너십을 체결합니다. 전략적 코브랜드는 싱가포르(SCS) 또는 델라웨어(SCU)에 등록된 합작투자법인(JV) 산하에서 운영되며, 역내 운영 자회사가 물리적 제조 공정을 전담합니다."
+  },
+  "Neutral IP Vault": {
+    "ko": "중립형 IP 볼트(Neutral IP Vault)"
+  },
+  "Core logos, trade dresses, formulas, and digital brand domain assets are placed in a neutral holding trust, preventing unilateral asset dissipation in the event of founder disagreement.": {
+    "ko": "핵심 로고, 트레이드 드레스, 처방 포뮬러, 디지털 브랜드 도메인 자산은 중립 지주 트러스트에 예치되어, 창업자 간 이견 발생 시에도 자산의 일방적 훼손 및 유출을 방지합니다."
+  },
+  "Continuous Royalty Distribution": {
+    "ko": "연속적 로열티 분배 구조"
+  },
+  "Brand creators receive their royalty splits automatically through payment gateway settlement webhooks, eliminating slow quarterly accounting statements and delayed disbursements.": {
+    "ko": "브랜드 크리에이터는 결제 게이트웨이 정산 웹훅(Settlement Webhooks)을 통해 로열티 배분금을 즉각 자동 수령함으로써, 지연을 초래하는 분기별 회계 정산서 및 정산 지연 리스크를 근본적으로 제거합니다."
+  },
+  "Turnkey Regional Licensing": {
+    "ko": "턴키 권역별 라이선싱(Turnkey Regional Licensing)"
+  },
+  "Once an Indonesian or Vietnamese co-brand achieves stability, *SC automatically licenses the brand into Korea (SCK), Japan (SCJ), or the USA (SCU) via existing cross-border distribution pipelines.": {
+    "ko": "인도네시아 또는 베트남 코브랜드가 운영 안정성을 확보하면, *SC는 기구축된 크로스보더 유통 파이프라인을 가동하여 한국(SCK), 일본(SCJ), 미국(SCU)으로 해당 브랜드를 자동 라이선싱 배포합니다."
+  },
+  "Chapter 07 Compliance • Settlement Security": {
+    "ko": "제07장 컴플라이언스 • 정산 무결성(Settlement Security)"
+  },
+  "Regulatory Defense, BPOM/Halal Compliance & Settlement Safeguards": {
+    "ko": "규제 방어, BPOM/할랄 컴플라이언스 및 정산 안전장치"
+  },
+  "Navigating Southeast Asian regulatory clearances requires deep local institutional integration. *SC Co Brands maintains active corporate umbrellas with Indonesian BPOM (Badan Pengawas Obat dan Makanan), BPJPH Halal Certification authorities, and Vietnam MOH, ensuring that new partner co-brand SKUs achieve regulatory approvals in weeks rather than years.": {
+    "ko": "동남아시아 규제 인허가를 완벽히 통과하기 위해서는 현지 제도권과의 고도화된 연계가 요구됩니다. *SC Co Brands는 인도네시아 BPOM(식약청), BPJPH 할랄 인증청 및 베트남 보건부(MOH)와의 실질적인 코퍼레이트 엄브렐러를 운용하여 파트너 코브랜드 신규 SKU의 인허가 취득 기간을 수년 단위에서 수주 단위로 압축합니다."
+  },
+  "In harmony with the master *SC financial doctrine, all revenues collected from Co-Brand distribution channels are programmatically split: 70% flows directly to pay factory packaging tolls, raw material replenishment, and local logistics, while 30% is deposited into joint co-brand marketing funds, IP registration maintenance, and executive growth dividends.": {
+    "ko": "핵심 *SC 재무 독트린에 입각하여 코브랜드 유통 채널에서 회수되는 모든 매출은 알고리즘 기반으로 자동 분배됩니다. 70%는 공장 패키징 임가공비, 원자재 재충전, 로컬 물류비로 직결 집행되며, 30%는 공동 코브랜드 마케팅 펀드, IP 등록 유지 비용, 경영진 성장 배당으로 유보 적립됩니다."
+  },
+  "One Spark, Infinite Galaxifying: *SC Co Brands unites market players under shared value creation. Powered by the Qubit Algorithm™, Auto-Formulator, and the Biz Galaxy constellation. Corporate Portal: https://sistarcompany.com • Executive Contact: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: *SC Co Brands는 가치 창출의 공유 아래 시장 참여자들을 결집합니다. Qubit Algorithm™, Auto-Formulator 및 Biz Galaxy 성좌 체계로 구동됩니다. 공식 기업 포털: https://sistarcompany.com • 경영진 연락처: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Institutional Mandate • 'Together Gets Stronger'": {
+    "ko": "제도적 책무(Institutional Mandate) • 'Together Gets Stronger'"
+  },
+  "The Co-Creation Paradigm: Turning Competitors into Equity Partners": {
+    "ko": "공동 창조 패러다임: 경쟁사를 지분 파트너(Equity Partners)로 전환"
+  },
+  "Instead of engaging in destructive zero-sum price wars across marketplace shelves, *SC Co Brands unites market actors under shared production lines, collective purchasing syndicates, and unified distribution corridors. Our breakthrough Rp 1,320 Micro-Sachet unit economics unlocks mass-market consumer accessibility across Southeast Asian emerging markets while preserving healthy 40%+ gross margins.": {
+    "ko": "오프라인 유통 매대에서의 파괴적인 제로섬 가격 전쟁을 지양하고, *SC Co Brands는 공유 생산 라인, 공동 구매 신디케이트, 단일 유통 회랑(Corridor)을 통해 시장 참여자들을 하나로 통합합니다. 당사의 혁신적인 Rp 1,320 마이크로 샤셰(Micro-Sachet) 유닛 이코노믹스는 건전한 40%+ 매출총이익률을 보전하면서 동남아 신흥 시장 전역의 매스마켓 소비자 접근성을 극대화합니다."
+  },
+  "Industrial Engineering • Micro-Sachet Engine": {
+    "ko": "산업 공학(Industrial Engineering) • 마이크로 샤셰 엔진"
+  },
+  "Business Model • Brand Transformation": {
+    "ko": "비즈니스 모델 • 브랜드 트랜스포메이션"
+  },
+  "Dimension": {
+    "ko": "평가 차원(Dimension)"
+  },
+  "Traditional White-Label ODM": {
+    "ko": "전통적 화이트라벨 ODM"
+  },
+  "*SC Co Brands Joint Platform": {
+    "ko": "*SC Co Brands 조인트 플랫폼"
+  },
+  "Partner Advantage": {
+    "ko": "파트너 핵심 효익"
+  },
+  "Initial MOQ Threshold": {
+    "ko": "초기 최소발주수량(MOQ) 임계치"
+  },
+  "50,000 to 100,000 units / SKU ($25K+ lockup)": {
+    "ko": "SKU당 50,000 ~ 100,000개 ($25,000 이상 자본 락업)"
+  },
+  "5,000 to 10,000 units on shared batch run": {
+    "ko": "공유 배치 가동 기반 5,000 ~ 10,000개"
+  },
+  "85% lower upfront capital commitment": {
+    "ko": "초기 투입 자본 부담 85% 절감"
+  },
+  "Owned exclusively by factory (supplier lock-in)": {
+    "ko": "제조사 독점 소유 (공급업체 락인 발생)"
+  },
+  "Co-registered joint IP or license-backed formula": {
+    "ko": "공동 등록 합작 IP 또는 라이선스 기반 처방(Formula)"
+  },
+  "Defensible brand valuation & transfer rights": {
+    "ko": "방어 가능한 브랜드 밸류에이션 및 자산 이전 권리 확보"
+  },
+  "Packaging Format": {
+    "ko": "패키징 포맷"
+  },
+  "Rigid bottles / pump dispensers (high cost)": {
+    "ko": "리지드 보틀 / 펌프 디스펜서 (고비용 구조)"
+  },
+  "High-barrier micro-sachets & refill pouches": {
+    "ko": "고차단성(High-barrier) 마이크로 샤셰 및 리필 파우치"
+  },
+  "Ultra-low unit cost (Rp 1,320 consumer price)": {
+    "ko": "극초저원가 구현 (소비자가격 Rp 1,320 책정 가능)"
+  },
+  "Distribution Network": {
+    "ko": "유통 네트워크"
+  },
+  "Brand owner must build channels alone": {
+    "ko": "브랜드 오너 독자 채널 구축 불가피"
+  },
+  "Plug into SISTAR Mint shops & shared logistics": {
+    "ko": "SISTAR Mint 매장 및 공유 물류 인프라 연계"
+  },
+  "Day-1 access to 500+ micro-retail nodes": {
+    "ko": "출시 첫날(Day-1) 500개 이상의 마이크로 리테일 노드 즉각 확보"
+  },
+  "Regulatory Filings": {
+    "ko": "규제 기관 인허가 등록"
+  },
+  "4 to 9 months per independent SKU submission": {
+    "ko": "독립 SKU 제출 건당 4~9개월 소요"
+  },
+  "Pre-cleared umbrella base formulas (BPOM/Halal)": {
+    "ko": "사전 승인 완료된 포괄적 베이스 포뮬러 (BPOM/Halal)"
+  },
+  "Accelerated 30-day time-to-market window": {
+    "ko": "30일로 단축된 시장 진입(Time-to-Market) 윈도우"
+  },
+  "Logistics Innovation • Shared Distribution": {
+    "ko": "물류 혁신 • 공유형 유통망"
+  },
+  "Financial Architecture • Unit Economics": {
+    "ko": "재무 아키텍처 • 유닛 이코노믹스(Unit Economics)"
+  },
+  "Cost Component": {
+    "ko": "원가 구성 요소"
+  },
+  "Value (IDR)": {
+    "ko": "금액 (IDR)"
+  },
+  "Percentage": {
+    "ko": "비율"
+  },
+  "Operational Function & Vendor Control": {
+    "ko": "운영 기능 및 벤더 통제"
+  },
+  "Active Raw Material (BOM)": {
+    "ko": "핵심 활성 원자재 (BOM)"
+  },
+  "Pre-blended functional active powders/liquids sourced via direct 1688/SCK contracts.": {
+    "ko": "1688/SCK 직계약을 통해 조달되는 사전 배합 기능성 활성 분말/액상 원료."
+  },
+  "Barrier Laminate Foil": {
+    "ko": "배리어 라미네이트 포일"
+  },
+  "Triple-laminated metallized PET foil ensuring 24-month tropical shelf stability.": {
+    "ko": "열대 기후 환경에서 24개월의 유통 안정성을 보장하는 3중 합지 증착 PET 포일."
+  },
+  "Multi-Lane VFFS Tooling": {
+    "ko": "멀티 레인 VFFS 패키징 툴링"
+  },
+  "High-speed machine time, nitrogen purge, cleanroom labor, and in-line lot printing.": {
+    "ko": "고속 장비 가동 시간, 질소 치환(Nitrogen Purge), 클린룸 공수 및 인라인 로트 마킹."
+  },
+  "Shared Fleet Logistics": {
+    "ko": "공유 운송 플릿(Fleet) 물류"
+  },
+  "Space Sharing consortium delivery to retail node and micro-warehouse holding.": {
+    "ko": "리테일 노드 공급 및 마이크로 풀필먼트 거점 보관을 위한 공간 공유 컨소시엄 운송."
+  },
+  "Retailer / Warung Channel Cut": {
+    "ko": "소매업체 / 와룽(Warung) 유통 채널 마진"
+  },
+  "Direct profit margin for local warung or Mint shop cashier to drive counter placement.": {
+    "ko": "카운터 전면 진열을 극대화하기 위한 현지 와룽 또는 Mint 매장 계산원 직접 마진."
+  },
+  "Ecosystem Net Contribution": {
+    "ko": "생태계 순기여 마진(Net Contribution)"
+  },
+  "Split between brand IP partner (60%) and *SC Platform holding reinvestment (40%).": {
+    "ko": "브랜드 IP 파트너(60%) 및 *SC Platform 홀딩 재투자분(40%)으로 분배."
+  },
+  "Total Consumer Price": {
+    "ko": "총 소비자 가격"
+  },
+  "Accessible daily cash purchase at retail point-of-sale across all ASEAN territories.": {
+    "ko": "아세안(ASEAN) 전역의 리테일 POS(Point-of-Sale) 현장에서 접근 가능한 일상적 현금 결제 모델."
+  },
+  "IP Framework • Royalty Splitting": {
+    "ko": "지식재산권(IP) 프레임워크 • 로열티 배분"
+  },
+  "Compliance • Settlement Security": {
+    "ko": "컴플라이언스 • 정산 보안성"
+  },
+  "Chapter 01 Co-Engineering Mandate • Technical Core": {
+    "ko": "제01장 공동 엔지니어링 위임 체계 • 기술 코어"
+  },
+  "*SC - Tech Build Intl: Cross-Border Shared Engineering & Microservices": {
+    "ko": "*SC - Tech Build Intl: 크로스보더 공유 엔지니어링 및 마이크로서비스"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Tech Build Intl operates as the distributed technical co-engineering consortium. It provides the high-availability digital backbone, cloud orchestration, unified API bridges, and shared microservices that empower all 12 *SC domains and partner enterprises to scale globally at near-zero incremental development friction.": {
+    "ko": "*SC 레이어 4 에코시스템 아레나(Biz-Hub) 내에서, Tech Build Intl은 분산형 기술 공동 엔지니어링 컨소시엄으로 기능합니다. 고가용성 디지털 백본, 클라우드 오케스트레이션, 통합 API 브리지 및 공유 마이크로서비스를 공급함으로써 12개 *SC 도메인 전반과 파트너 기업들이 한계 개발 마찰 비용을 제로에 가깝게 유지하며 글로벌 규모로 확장할 수 있도록 지원합니다."
+  },
+  "Global Multi-Cloud Microservices Uptime SLA": {
+    "ko": "글로벌 멀티 클라우드 마이크로서비스 가동률 SLA"
+  },
+  "Edge API Response Time Across Regional Gateways": {
+    "ko": "지역별 게이트웨이 간 엣지 API 응답 시간"
+  },
+  "Cloud Spend Savings via Multi-Tenant Cluster Slicing": {
+    "ko": "멀티 테넌트 클러스터 슬라이싱을 통한 클라우드 지출 절감률"
+  },
+  "Zero-Trust mTLS Encryption for Cross-Border Traffic": {
+    "ko": "크로스보더 트래픽을 위한 제로 트러스트 mTLS 암호화"
+  },
+  "Emerging technology ventures often burn up to 60% of their seed capital reinventing billing engines, inventory synchronization workers, and identity auth systems. Tech Build Intl offers these foundational layers as turnkey, pre-audited microservices, allowing technical co-creators to focus 100% of their creative energy on domain-specific innovations.": {
+    "ko": "초기 테크 스타트업들은 결제 엔진, 재고 동기화 워커, 신원 인증 시스템을 중복 구축하는 과정에서 시드 자본의 최대 60%를 소진하곤 합니다. Tech Build Intl은 이러한 기반 레이어를 사전 감사가 완료된 턴키 마이크로서비스로 제공하여, 기술적 공동 창작자가 도메인 특화 혁신에 창의적 역량을 100% 집중할 수 있도록 지원합니다."
+  },
+  "Chapter 02 System Architecture • Distributed Mesh": {
+    "ko": "제02장 시스템 아키텍처 • 분산 메시"
+  },
+  "Multi-Region Microservices Mesh: Low-Latency Global Edge": {
+    "ko": "멀티 리전 마이크로서비스 메시: 초저지연 글로벌 엣지"
+  },
+  "Tech Build Intl deploys an active-active distributed architecture combining Cloudflare Edge Workers, Fly.io container fleets, and Google Cloud Platform (GCP) enterprise backbones. Requests from Southeast Asian retail counters are routed to nearby low-latency nodes in Jakarta and Singapore, while intensive vector compute runs on dedicated Korean and US clusters.": {
+    "ko": "Tech Build Intl은 Cloudflare Edge Workers, Fly.io 컨테이너 플릿, Google Cloud Platform(GCP) 엔터프라이즈 백본을 결합한 액티브-액티브(Active-Active) 분산 아키텍처를 전개합니다. 동남아시아 리테일 카운터의 요청은 자카르타 및 싱가포르의 인접 초저지연 노드로 라우팅되는 한편, 고강도 벡터 연산은 한국 및 미국 전용 클러스터에서 실행됩니다."
+  },
+  "Active-Active Replication": {
+    "ko": "액티브-액티브 복제"
+  },
+  "Database transactions in Singapore (SCS) and Jakarta (SCI) maintain sub-second write synchronicity, guaranteeing that if an undersea fiber cable experiences latency, traffic shifts automatically to alternate routing.": {
+    "ko": "싱가포르(SCS) 및 자카르타(SCI)의 데이터베이스 트랜잭션은 서브세컨드(초미만) 쓰기 동기화를 유지하여 해저 광케이블에 지연이 발생하더라도 트래픽이 대체 경로로 자동 전환되도록 보장합니다."
+  },
+  "Mutual TLS (mTLS) Mesh": {
+    "ko": "상호 TLS(mTLS) 메시"
+  },
+  "All inter-service communications enforce cryptographic mutual TLS validation, meaning every microservice independently authenticates incoming requests before exposing sensitive data.": {
+    "ko": "모든 서비스 간 통신은 암호화된 상호 TLS 검증을 강제하므로, 각 마이크로서비스가 민감 데이터를 노출하기 전 수신 요청을 독립적으로 인증합니다."
+  },
+  "Shared OpenAPI Schemas": {
+    "ko": "공유 OpenAPI 스키마"
+  },
+  "Every endpoint publishes auto-generating Swagger/OpenAPI documentation and TypeScript client SDKs, eliminating misunderstandings between frontend teams and backend microservice authors.": {
+    "ko": "모든 엔드포인트는 자동 생성되는 Swagger/OpenAPI 문서와 TypeScript 클라이언트 SDK를 배포하여 프론트엔드 팀과 백엔드 마이크로서비스 개발자 간의 불일치를 원천 차단합니다."
+  },
+  "Chapter 03 Integration Matrix • API Catalog": {
+    "ko": "제03장 통합 매트릭스 • API 카탈로그"
+  },
+  "Unified API Gateway & Shared Developer Hub Matrix": {
+    "ko": "통합 API 게이트웨이 및 공유 개발자 허브 매트릭스"
+  },
+  "Tech Build Intl exposes standardized interfaces for external partners, franchisees, and internal apps. By consolidating authentication, billing, rate limiting, and observability at the gateway, engineering teams eliminate duplicated integration code.": {
+    "ko": "Tech Build Intl은 외부 파트너, 가맹 사업자 및 내부 애플리케이션을 위한 표준화된 인터페이스를 제공합니다. 인증, 과금, 레이트 리미팅, 관측 가능성을 게이트웨이 레이어에 통합 집약함으로써 엔지니어링 팀의 중복 통합 코드 작성을 제거합니다."
+  },
+  "Chapter 04 DevOps Automation • Continuous Delivery": {
+    "ko": "제04장 데브옵스 자동화 • 지속적 전달"
+  },
+  "Distributed CI/CD & Zero-Downtime Deployment Pipelines": {
+    "ko": "분산 CI/CD 및 무중단 배포 파이프라인"
+  },
+  "Continuous shipping across 8 countries requires bulletproof release engineering. Tech Build Intl implements GitOps-driven workflows via GitHub Actions and ArgoCD, ensuring that code merged into production undergoes automated regression tests, security scans, and canary deployments.": {
+    "ko": "8개국에 걸친 연속적인 배포를 실현하기 위해서는 무결점 릴리스 엔지니어링이 요구됩니다. Tech Build Intl은 GitHub Actions 및 ArgoCD 기반의 GitOps 워크플로우를 구현하여, 프로덕션에 병합된 코드가 자동화된 회귀 테스트, 보안 취약점 스캔, 카나리 배포를 거치도록 보장합니다."
+  },
+  "Automated Canary Rollback": {
+    "ko": "자동 카나리 롤백"
+  },
+  "If HTTP 5xx errors or p99 response latencies exceed 0.05% during the canary rollout window, the deployment terminates immediately and traffic rolls back to the prior stable release without human intervention.": {
+    "ko": "카나리 롤아웃 윈도우 중 HTTP 5xx 에러 또는 p99 응답 지연율이 0.05%를 초과할 경우, 배포는 즉시 중단되며 인위적 개입 없이 이전의 안정적인 릴리스로 트래픽이 자동 롤백됩니다."
+  },
+  "Supply Chain Cryptography": {
+    "ko": "공급망 암호화 (Supply Chain Cryptography)"
+  },
+  "All compiled container images are signed with Sigstore Cosign keys before push. Production Kubernetes nodes refuse to pull or run any unverified container image, preventing software supply chain attacks.": {
+    "ko": "컴파일된 모든 컨테이너 이미지는 푸시 전 Sigstore Cosign 키로 전자서명됩니다. 프로덕션 Kubernetes 노드는 검증되지 않은 일체의 컨테이너 이미지 풀(pull) 및 실행을 원천 차단하여 소프트웨어 공급망 공격을 사전에 방어합니다."
+  },
+  "Chapter 05 Cloud Economics • Infrastructure Formula": {
+    "ko": "제05장 클라우드 경제학 • 인프라 산식"
+  },
+  "Shared Cloud Economics: Cost Amortization & Efficiency Equation": {
+    "ko": "공유 클라우드 경제학: 비용 상각 및 효율성 방정식"
+  },
+  "By pooling enterprise cloud compute, reserved instances, and shared database clusters across all holding entities, Tech Build Intl achieves substantial volume discounts from cloud vendors, redistributing these savings to co-brand partners.": {
+    "ko": "Tech Build Intl은 전체 지주사 산하 법인의 엔터프라이즈 클라우드 컴퓨팅, 예약 인스턴스(RI), 공유 데이터베이스 클러스터를 단일 풀로 통합하여 클라우드 벤더로부터 대규모 볼륨 할인을 확보하고, 이를 통해 창출된 비용 절감분을 코브랜드(co-brand) 파트너사에 재배분합니다."
+  },
+  "Where N_tenants represents the total active co-brand and domain entities sharing the cluster (currently 16+), Base_Cluster_Cap is fixed reserved node expense, and Discount_Pooled accounts for tier-3 enterprise committed-use discounts (yielding a net 74% infrastructure cost reduction versus standalone deployments).": {
+    "ko": "여기서 N_tenants는 클러스터를 공유하는 활성 코브랜드 및 도메인 법인의 총합(현재 16개 이상)을 나타내며, Base_Cluster_Cap은 고정 예약 노드 비용, Discount_Pooled는 Tier-3 엔터프라이즈 약정 사용 할인(단독 배포 대비 순 인프라 비용 74% 절감 달성)을 반영합니다."
+  },
+  "Chapter 06 Security • Regulatory Compliance": {
+    "ko": "제06장 보안 • 규제 준수(컴플라이언스)"
+  },
+  "Cross-Border Data Sovereignty & Tenant Isolation": {
+    "ko": "국경 간 데이터 주권 및 테넌트 격리"
+  },
+  "Because *SC operates across diverse legal jurisdictions (including Indonesian PDP Law No. 27/2022, Singapore PDPA, and Korean PIPA), Tech Build Intl enforces strict multi-tenant row-level security (RLS) and localized database residency.": {
+    "ko": "*SC는 복수의 사법 관할 구역(인도네시아 개인정보보호법 No. 27/2022, 싱가포르 PDPA, 한국 개인정보보호법 PIPA 등)에 걸쳐 운영되므로, Tech Build Intl은 엄격한 멀티테넌트 행 수준 보안(RLS)과 현지화된 데이터베이스 레지던시를 강제 집행합니다."
+  },
+  "Sovereign Data Storage": {
+    "ko": "주권형 데이터 스토리지"
+  },
+  "Customer Personally Identifiable Information (PII) for Indonesian operations remains encrypted at rest within Jakarta-based data centers (GCP asia-southeast2), fulfilling national regulatory residency requirements.": {
+    "ko": "인도네시아 사업부의 고객 개인식별정보(PII)는 자카르타 소재 데이터 센터(GCP asia-southeast2) 내에 저장 데이터 암호화(Encryption at Rest) 상태로 보관되어, 국가별 규제 레지던시 요건을 완벽히 충족합니다."
+  },
+  "Row-Level Security (RLS)": {
+    "ko": "행 수준 보안 (RLS)"
+  },
+  "PostgreSQL policies ensure that each co-brand and franchise partner can only query their own transactions. Cross-tenant access attempts trigger instantaneous security audit alerts and token revocations.": {
+    "ko": "PostgreSQL 정책을 통해 각 코브랜드 및 프랜차이즈 파트너가 자체 트랜잭션 데이터만을 조회할 수 있도록 보장합니다. 교차 테넌트 접근 시도가 감지될 경우 즉각적인 보안 감사 경보가 트리거되며 토큰이 즉각 무효화됩니다."
+  },
+  "Hardware Security Modules": {
+    "ko": "하드웨어 보안 모듈 (HSM)"
+  },
+  "All cryptographic keys, API certificates, and payment gateway secret webhooks are stored inside Cloud HSM hardware modules, preventing extraction even in the event of host machine compromise.": {
+    "ko": "모든 암호화 키, API 인증서 및 결제 게이트웨이 보안 웹훅은 Cloud HSM 하드웨어 모듈 내에 안전하게 보관되어, 호스트 머신이 침해되더라도 외부 유출을 원천 방지합니다."
+  },
+  "Chapter 07 Governance • Engineering Settlement": {
+    "ko": "제07장 거버넌스 • 엔지니어링 정산"
+  },
+  "Technical Governance, SLA Guarantees & 70/30 Split": {
+    "ko": "기술 거버넌스, SLA 보장 및 70/30 배분율"
+  },
+  "Tech Build Intl provides co-engineering partners with ironclad Service Level Agreements (SLAs). In the rare event of downtime exceeding 0.01%, automated SLA credits are credited directly to partner accounts. All SaaS and API revenues generated by the technical platform participate in the master *SC settlement protocol.": {
+    "ko": "Tech Build Intl은 엔지니어링 협업 파트너에게 확고한 서비스 수준 협약(SLA)을 보장합니다. 다운타임이 0.01%를 초과하는 예외적 상황 발생 시 자동화된 SLA 크레딧이 파트너 계정으로 즉시 지급됩니다. 해당 기술 플랫폼에서 창출되는 모든 SaaS 및 API 수익은 마스터 *SC 정산 프로토콜에 귀속되어 처리됩니다."
+  },
+  "Of all revenues collected from B2B SaaS licensing, API micro-tolls, and co-engineering consulting fees: 70% is earmarked for high-speed cloud infrastructure compute, server upgrades, and ongoing engineering salaries, while 30% is allocated to holding reserve capital, security penetration audits, and long-term quantum AI R&D.": {
+    "ko": "B2B SaaS 라이선스, API 마이크로 과금, 공동 엔지니어링 컨설팅 수수료로 회수되는 총수익 중 70%는 고속 클라우드 인프라 컴퓨팅, 서버 증설, 지속적 엔지니어링 인건비로 배정되며, 30%는 지주사 유보 자본금, 보안 모의 침투 감사 및 장기 양자 AI R&D에 할당됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Tech Build Intl creates the digital highway for cross-border co-creation. Powered by the Qubit Algorithm™, distributed microservices, and the Biz Galaxy constellation. Developer Hub: https://sistarcompany.com • Engineering Contact: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Tech Build Intl은 국경을 초월한 공동 가치 창출을 위한 디지털 고속도로를 구축합니다. Qubit Algorithm™, 분산 마이크로서비스, Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. 개발자 허브: https://sistarcompany.com • 엔지니어링 문의: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Co-Engineering Mandate • Technical Core": {
+    "ko": "엔지니어링 협업 헌장 • 테크니컬 코어"
+  },
+  "The Shared Engineering Doctrine: Co-Building Enterprise Resiliency": {
+    "ko": "공유 엔지니어링 독트린: 엔터프라이즈 레질리언스 공동 구축"
+  },
+  "Instead of forcing every partner venture or internal business unit to independently recruit expensive DevOps engineers and duplicate database infrastructures, Tech Build Intl centralizes high-performance containerized orchestration, cryptographic authentication gateways, and serverless automation pipelines across Singapore, Seoul, Jakarta, and Mumbai.": {
+    "ko": "Tech Build Intl은 개별 파트너 벤처나 내부 사업부가 고비용의 DevOps 엔지니어를 각자 채용하고 데이터베이스 인프라를 중복 구축하도록 강제하는 대신, 고성능 컨테이너 오케스트레이션, 암호화 인증 게이트웨이, 서버리스 자동화 파이프라인을 싱가포르, 서울, 자카르타, 뭄바이 전역에 걸쳐 중앙 집중식으로 통합 제공합니다."
+  },
+  "System Architecture • Distributed Mesh": {
+    "ko": "시스템 아키텍처 • 분산 메시"
+  },
+  "Integration Matrix • API Catalog": {
+    "ko": "통합 매트릭스 • API 카탈로그"
+  },
+  "API Service": {
+    "ko": "API 서비스"
+  },
+  "Protocol / Standard": {
+    "ko": "프로토콜 / 표준"
+  },
+  "Primary Consumer": {
+    "ko": "주요 컨슈머"
+  },
+  "Key Features & SLAs": {
+    "ko": "핵심 기능 및 SLA"
+  },
+  "Toll / Access Tier": {
+    "ko": "과금 체계 / 접근 티어"
+  },
+  "Overnight Scrapers & Co-Brands": {
+    "ko": "오버나이트 스크래퍼 및 코브랜드"
+  },
+  "Real-time wholesale landed cost calculations, HS-tariff lookups": {
+    "ko": "실시간 도매 양륙비용(Landed Cost) 산출 및 HS 관세율 조회"
+  },
+  "Free Internal / $0.005 Ext": {
+    "ko": "내부 무료 / 외부 건당 $0.005"
+  },
+  "Warehouse IP Cameras & ERP": {
+    "ko": "물류창고 IP 카메라 및 ERP"
+  },
+  "Frame ingestion, bounding box inference, pallet inventory reconciliation": {
+    "ko": "프레임 수집, 바운딩 박스 추론, 팔레트 재고 정합성 대조"
+  },
+  "Enterprise Dedicated Pool": {
+    "ko": "엔터프라이즈 전용 풀"
+  },
+  "Auto-Formulator Platform": {
+    "ko": "Auto-Formulator 플랫폼"
+  },
+  "Chemical stability checks, BOM optimization, BPOM limits": {
+    "ko": "화학적 안정성 검증, BOM 최적화, BPOM 규제 상한 기준"
+  },
+  "Partner Tier Access": {
+    "ko": "파트너 등급 전용 액세스"
+  },
+  "Autonomous AI Agents": {
+    "ko": "자율형 AI 에이전트"
+  },
+  "Contextual vector retrieval, real-time FX, order placement hooks": {
+    "ko": "문맥 벡터 검색, 실시간 외환(FX) 환율 연동, 주문 실행 훅"
+  },
+  "$0.0025 / Query Token": {
+    "ko": "쿼리 토큰당 $0.0025"
+  },
+  "Webhook / REST": {
+    "ko": "웹훅 / REST"
+  },
+  "Payment Gateways (Xendit/Stripe)": {
+    "ko": "결제 게이트웨이(Xendit/Stripe)"
+  },
+  "Programmatic 70/30 split execution, invoice generation": {
+    "ko": "프로그래밍 방식의 70/30 분할 정산 실행 및 인보이스 발행"
+  },
+  "Core Financial Engine": {
+    "ko": "핵심 금융 엔진"
+  },
+  "DevOps Automation • Continuous Delivery": {
+    "ko": "DevOps 자동화 • 지속적 배포"
+  },
+  "Cloud Economics • Infrastructure Formula": {
+    "ko": "클라우드 경제학 • 인프라 공식"
+  },
+  "Infrastructure Component": {
+    "ko": "인프라 구성 요소"
+  },
+  "Standalone Startup Cost": {
+    "ko": "단독 구축 초기 비용"
+  },
+  "Tech Build Intl Shared Pool": {
+    "ko": "Tech Build 글로벌 공유 풀"
+  },
+  "Direct Cost Reduction": {
+    "ko": "직접 비용 절감"
+  },
+  "Operational Benefit": {
+    "ko": "운영 효익"
+  },
+  "Enterprise Kubernetes Cluster": {
+    "ko": "엔터프라이즈 Kubernetes 클러스터"
+  },
+  "$2,400 / month": {
+    "ko": "월 $2,400"
+  },
+  "$380 / month / tenant": {
+    "ko": "테넌트당 월 $380"
+  },
+  "Pre-configured autoscaling, cert-manager, Prometheus": {
+    "ko": "사전 구성된 오토스케일링, cert-manager, Prometheus"
+  },
+  "High-Availability PostgreSQL": {
+    "ko": "고가용성(HA) PostgreSQL"
+  },
+  "$950 / month": {
+    "ko": "월 $950"
+  },
+  "$140 / month / tenant": {
+    "ko": "테넌트당 월 $140"
+  },
+  "Automated daily backups, point-in-time recovery, pgvector": {
+    "ko": "자동 일일 백업, 시점 복구(PITR), pgvector"
+  },
+  "DDoS & Web Application Firewall": {
+    "ko": "DDoS 방어 및 웹 애플리케이션 방화벽(WAF)"
+  },
+  "$1,200 / month": {
+    "ko": "월 $1,200"
+  },
+  "$180 / month / tenant": {
+    "ko": "테넌트당 월 $180"
+  },
+  "Enterprise Cloudflare Magic Transit protection & WAF": {
+    "ko": "엔터프라이즈 Cloudflare Magic Transit 보호 및 WAF"
+  },
+  "Observability & Log Ingestion": {
+    "ko": "옵저버빌리티 및 로그 인제스천"
+  },
+  "$800 / month": {
+    "ko": "월 $800"
+  },
+  "$95 / month / tenant": {
+    "ko": "테넌트당 월 $95"
+  },
+  "Centralized Grafana Loki & OpenTelemetry traces": {
+    "ko": "중앙 집중형 Grafana Loki 및 OpenTelemetry 트레이스"
+  },
+  "Total Monthly Tech Overhead": {
+    "ko": "월간 총 테크 오버헤드"
+  },
+  "$5,350 / month": {
+    "ko": "월 $5,350"
+  },
+  "$795 / month": {
+    "ko": "월 $795"
+  },
+  "-85.1% Average": {
+    "ko": "평균 -85.1%"
+  },
+  "Over $54,000 saved per venture annually": {
+    "ko": "벤처당 연간 $54,000 이상 절감"
+  },
+  "Security • Regulatory Compliance": {
+    "ko": "보안 • 규제 컴플라이언스"
+  },
+  "Governance • Engineering Settlement": {
+    "ko": "거버넌스 • 엔지니어링 정산"
+  },
+  "Chapter 01 Intelligence Mandate • Global Data Core": {
+    "ko": "제01장 인텔리전스 맨데이트 • 글로벌 데이터 코어"
+  },
+  "*SC - Data Factory Intl: Cross-Border Arbitrage & Market Intelligence": {
+    "ko": "*SC - Data Factory Intl: 크로스보더 아비트라지 및 마켓 인텔리전스"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Data Factory Intl serves as the global information aggregation engine. Operating autonomously across 8 time zones, it harvests millions of commodity spot quotes, competitor SKU velocities, import tariffs, and consumer sentiment signals, transforming raw digital noise into deterministic trading advantages for *SC and its co-creation partners.": {
+    "ko": "*SC Layer 4 에코시스템 아레나(Biz-Hub) 내에서, Data Factory Intl은 글로벌 정보 통합 엔진 역할을 수행합니다. 8개 타임존에 걸쳐 자율적으로 가동되며 수백만 건의 원자재 현물 호가, 경쟁사 SKU 회전 속도, 수입 관세율, 소비자 심리 시그널을 수집하여, 가공되지 않은 디지털 노이즈를 *SC 및 공동 창출 파트너를 위한 결정론적 트레이딩 우위로 전환합니다."
+  },
+  "Daily Scraped SKU Data Points Across Asia": {
+    "ko": "아시아 전역 일일 스크래핑 SKU 데이터 포인트"
+  },
+  "Deduplication & Vector Verification Precision": {
+    "ko": "중복 제거 및 벡터 검증 정밀도"
+  },
+  "Complete Nightly Ingestion-to-Briefing Turnaround": {
+    "ko": "야간 인제스천-브리핑 원스톱 턴어라운드"
+  },
+  "Cross-Border Customs & Tariff Regulatory Nodes": {
+    "ko": "국경 간 통관 및 관세 규제 노드"
+  },
+  "Traditional market research firms sell outdated, sample-based surveys at exorbitant annual retainers. Data Factory Intl replaces this slow, subjective model with continuous census-level data streams, providing live spot prices on raw materials, packaging substrates, logistics container slots, and local e-commerce transactions.": {
+    "ko": "전통적인 시장조사 기관들은 표본 기반의 노후화된 설문 데이터를 터무니없이 높은 연간 리테이너 비용으로 판매합니다. Data Factory Intl은 이러한 지연되고 주관적인 모델을 전수조사 수준의 연속적 데이터 스트림으로 대체하여 원자재, 포장 기재, 물류 컨테이너 슬롯, 현지 이커머스 거래의 실시간 현물 가격을 제공합니다."
+  },
+  "Chapter 02 Pipeline Engineering • Web Scraping Fleets": {
+    "ko": "Chapter 02 파이프라인 엔지니어링 • 웹 스크래핑 플릿"
+  },
+  "Distributed Web Scraping Fleets: Playwright & Apify Clusters": {
+    "ko": "분산형 웹 스크래핑 플릿: Playwright & Apify 클러스터"
+  },
+  "Data Factory Intl manages headless browser worker nodes distributed across residential proxy networks. These clusters extract structured product catalogs, pricing tiers, and seller feedback across 1688, Taobao, Alibaba, Shopee, Tokopedia, TikTok Shop, and Lazada without triggering IP bans or rate limits.": {
+    "ko": "Data Factory Intl은 주거용 프록시 네트워크 전반에 분산된 헤드리스 브라우저 워커 노드를 운용합니다. 이들 클러스터는 IP 차단이나 처리율 제한(Rate Limit)을 유발하지 않고 1688, 타오바오, 알리바바, 쇼피, 토코페디아, 틱톡샵, 라자다 전반에서 구조화된 제품 카탈로그, 가격 계층, 판매자 피드백을 추출합니다."
+  },
+  "1688 & Factory Crawlers": {
+    "ko": "1688 및 제조 공장 크롤러"
+  },
+  "Extracts multi-tiered wholesale price ladders, minimum order volumes, production lead times, and factory verification credentials across hundreds of Chinese and Vietnamese manufacturing hubs.": {
+    "ko": "수백 곳의 중국 및 베트남 제조 허브 전반에서 다계층 도매 가격 사다리, 최소 주문 수량(MOQ), 생산 리드타임, 공장 검증 인증 정보를 추출합니다."
+  },
+  "ASEAN SKU Tracker": {
+    "ko": "아세안 SKU 트래커"
+  },
+  "Monitors price fluctuations, customer review trends, promotional vouchers, and out-of-stock statuses on Shopee, Tokopedia, Lazada, and TikTok Shop across Jakarta, Bangkok, and Manila.": {
+    "ko": "자카르타, 방콕, 마닐라 전역의 쇼피, 토코페디아, 라자다, 틱톡샵에서 발생하는 가격 변동, 고객 리뷰 트렌드, 프로모션 바우처, 품절 상태를 모니터링합니다."
+  },
+  "Customs & Duty Monitor": {
+    "ko": "관세 및 통관 모니터"
+  },
+  "Tracks official customs duty schedules, anti-dumping investigations, and non-tariff barrier announcements across ASEAN ministries, feeding updated import duty rates directly into landed cost calculators.": {
+    "ko": "아세안 각국 부처의 공식 관세율표, 반덤핑 조사, 비관세 장벽 공시를 추적하여 업데이트된 수입 관세율을 도착비용(Landed Cost) 산출 엔진에 직접 피딩합니다."
+  },
+  "To prevent costly commercial errors, Data Factory Intl couples high-dimensional vector embeddings in PostgreSQL pgvector with Google NotebookLM and Dify multi-agent workflows. Internal business plans and external crawl feeds are indexed into a unified semantic space.": {
+    "ko": "고비용의 상업적 오류를 방지하기 위해, Data Factory Intl은 PostgreSQL pgvector의 고차원 벡터 임베딩을 Google NotebookLM 및 Dify 멀티 에이전트 워크플로우와 결합합니다. 이를 통해 사내 비즈니스 계획서와 외부 크롤링 피드를 단일 시맨틱 공간으로 인덱싱합니다."
+  },
+  "Chapter 04 Computer Vision • Physical Audit": {
+    "ko": "Chapter 04 컴퓨터 비전 • 피지컬 오딧"
+  },
+  "Qubit ERP & CCTV Vision Stock Opname: Physical Reality Grounding": {
+    "ko": "Qubit ERP 및 CCTV 비전 재고실사: 물리적 실체 기반 검증"
+  },
+  "Digital intelligence is meaningless if physical warehouse stocks do not reconcile with digital ledgers. Data Factory Intl links warehouse surveillance cameras with multimodal vision models to run automated cycle counts every night, validating physical carton and pallet counts against Qubit ERP records.": {
+    "ko": "물리적 창고 재고가 디지털 원장과 대사되지 않는다면 디지털 인텔리전스는 무의미합니다. Data Factory Intl은 물류창고 감시 카메라를 멀티모달 비전 모델과 연동하여 매일 밤 자동 순환 실사(Cycle Count)를 수행함으로써 실물 박스 및 팔레트 수량을 Qubit ERP 데이터와 대조 검증합니다."
+  },
+  "Zero-Human Stocktaking": {
+    "ko": "무인 자동화 재고실사"
+  },
+  "Traditional monthly physical inventory counts shut down warehouse shipping for 2 to 3 business days. By automating camera-based cycle counting every night, stock accuracy remains permanently above 99.8% with zero labor downtime.": {
+    "ko": "전통적인 월간 실물 재고 조사는 창고 출하를 2~3 영업일 동안 중단시킵니다. 카메라 기반의 순환 실사를 매일 밤 자동화함으로써 인력 다운타임 없이 재고 정확도를 영구적으로 99.8% 이상 유지합니다."
+  },
+  "Shrinkage & Anomaly Detection": {
+    "ko": "재고 감모 및 이상 징후 탐지"
+  },
+  "Whenever a carton or pallet is removed outside scheduled warehouse dispatch windows, computer vision alarms trigger immediate Slack and SMS alerts with timestamped high-resolution video snippets.": {
+    "ko": "지정된 창고 출하 윈도우 외의 시간대에 박스나 팔레트가 무단 이동될 경우, 컴퓨터 비전 알람이 타임스탬프가 각인된 고해상도 비디오 스니펫과 함께 Slack 및 SMS 즉각 경보를 트리거합니다."
+  },
+  "Chapter 05 Quantitative Models • Arbitrage Formula": {
+    "ko": "Chapter 05 퀀트 모델 • 차익거래 공식"
+  },
+  "Quantitative Arbitrage Models & Landed Spread Formula": {
+    "ko": "정량적 차익거래 모델 및 랜디드 스프레드 공식"
+  },
+  "Data Factory Intl evaluates cross-border wholesale opportunities through a rigorous landed cost spread equation. Opportunities are only flagged for purchasing action if the net projected margin after all tariffs, shipping, and channel costs exceeds 35%.": {
+    "ko": "Data Factory Intl은 엄격한 도착비용 스프레드 방정식을 통해 국경 간 도매 기회를 평가합니다. 모든 관세, 물류비, 채널 비용을 차감한 순 예상 마진이 35%를 초과할 때에만 실질 구매 집행 플래그를 설정합니다."
+  },
+  "Where P_Wholesale_Origin is scraped 1688 price in RMB, FX_Rate is dynamic hedging clearing quote, Tariff_Duty is official HS-code rate, and Regulatory_Amort is allocated BPOM registration amortized per unit over the 3-Month Rolling Purchasing Forecast.": {
+    "ko": "여기서 P_Wholesale_Origin은 1688에서 스크래핑된 RMB 가격, FX_Rate는 동적 헤징 결제 환율, Tariff_Duty는 공식 HS 코드 세율이며, Regulatory_Amort는 3개월 롤링 구매 예측량에 따라 단위당 상각 할당된 BPOM 인증 등록 비용입니다."
+  },
+  "Chapter 06 Monetization • Agent Economy": {
+    "ko": "Chapter 06 수익화 • 에이전트 이코노미"
+  },
+  "MCP Server Agent Query Tolls: Monetizing the Machine Economy": {
+    "ko": "MCP 서버 에이전트 쿼리 통행료: 머신 이코노미의 수익화"
+  },
+  "In addition to powering internal *SC decisions, Data Factory Intl packages its verified market indices into Model Context Protocol (MCP) server endpoints. External autonomous agents, algorithmic hedge funds, and supply chain aggregators query these endpoints to ground their trade decisions, paying micro-tolls per token.": {
+    "ko": "Data Factory Intl은 사내 *SC 의사결정을 지원하는 것에 그치지 않고, 검증된 시장 지수를 Model Context Protocol(MCP) 서버 엔드포인트로 패키징합니다. 외부 자율 에이전트, 알고리즘 헤지펀드, 공급망 애그리게이터는 해당 엔드포인트를 쿼리하여 무역 결정을 검증(Grounding)하며, 토큰당 마이크로 통행료를 지불합니다."
+  },
+  "Returns real-time landed costs for any raw material or packaging SKU from China or Vietnam into Indonesia, Vietnam, or Singapore, incorporating current spot shipping and duty rates.": {
+    "ko": "중국 또는 베트남에서 인도네시아, 베트남, 싱가포르로 인입되는 모든 원자재 또는 포장 SKU에 대해 최신 현물 운임과 관세율을 반영한 실시간 도착비용(Landed Cost) 견적을 반환합니다."
+  },
+  "Provides 30-day sales volume, price history, and promotional frequency across Shopee and Tokopedia for fast-moving consumer health, cosmetic, and pet product categories.": {
+    "ko": "빠르게 소비되는 헬스, 코스메틱, 펫 카테고리를 대상으로 쇼피와 토코페디아 전반의 30일간 판매량, 가격 변동 이력, 프로모션 빈도 데이터를 제공합니다."
+  },
+  "verify_regulatory_clearance": {
+    "ko": "규제 승인 적합성 검증"
+  },
+  "Queries BPOM and ASEAN cosmetic directive registers to confirm whether specific active ingredient concentrations comply with national import and distribution laws.": {
+    "ko": "BPOM 및 아세안 화장품 지침 레지스트리를 조회하여 특정 활성 성분의 배합 농도가 국가별 수입 및 유통 규제 법규를 준수하는지 확인합니다."
+  },
+  "Chapter 07 Governance • Capital Allocation": {
+    "ko": "제07장 거버넌스 • 자본 배분"
+  },
+  "Triple Control Towers, K-SURE Underwriting & 70/30 Settlement": {
+    "ko": "트리플 컨트롤 타워, K-SURE 인수심사 및 70/30 정산 모델"
+  },
+  "All intelligence operations within Data Factory Intl are overseen by the *SC Triple Control Towers, ensuring that data gathering complies with local cybersecurity statutes while trade transactions leverage K-SURE credit insurance and automated payment split rules.": {
+    "ko": "Data Factory Intl 내의 모든 인텔리전스 오퍼레이션은 *SC 트리플 컨트롤 타워의 감독 하에 수행되며, 데이터 수집이 현지 사이버 안보 법률을 엄격히 준수하도록 보장하는 한편 무역 거래 시 K-SURE 신용보험 및 자동 정산 분할 규칙을 결합 적용합니다."
+  },
+  "Revenues generated from external B2B data subscriptions and MCP server tolls are programmatically split: 70% pays for proxy cluster bandwidth, scraping infrastructure, and cloud vector storage, while 30% feeds directly into the holding company intellectual property vault and dividend accounts.": {
+    "ko": "외부 B2B 데이터 구독료 및 MCP 서버 통행세(toll)로부터 창출된 수익은 알고리즘에 따라 자동 분할됩니다. 70%는 프록시 클러스터 대역폭, 스크래핑 인프라, 클라우드 벡터 스토리지 비용에 충당되며, 나머지 30%는 지주회사 지식재산권(IP) 금고 및 배당금 계좌로 직접 귀속됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Data Factory Intl provides the factual grounding for the Signal Star Universe. Powered by the Qubit Algorithm™, pgvector clusters, and the Biz Galaxy constellation. Data Portal: https://sistarcompany.com • Data Operations: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Data Factory Intl은 Signal Star Universe를 위한 사실적 기반(factual grounding)을 제공합니다. Qubit Algorithm™, pgvector 클러스터 및 Biz Galaxy 콘스텔레이션을 기반으로 구동됩니다. 데이터 포털: https://sistarcompany.com • 데이터 오퍼레이션 총괄: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Intelligence Mandate • Global Data Core": {
+    "ko": "인텔리전스 맨데이트 • 글로벌 데이터 코어"
+  },
+  "Autonomous Information Supremacy: The 10 PM - 8 AM Global Harvest": {
+    "ko": "자율 정보 패권: 22:00 - 08:00 글로벌 하베스트 체계"
+  },
+  "Information asymmetry is the primary source of margin leakage in international commerce. Data Factory Intl eliminates this gap by deploying thousands of headless browser scrapers into East Asian manufacturing exchanges and ASEAN retail channels while human operators sleep, delivering structured intelligence dossiers at 08:00 AM sharp.": {
+    "ko": "정보 비대칭성은 글로벌 무역에서 마진 유출(margin leakage)을 유발하는 핵심 요인입니다. Data Factory Intl은 인적 운영이 멈춘 야간 시간대에 수천 대 규모의 헤드리스 브라우저 스크래퍼를 동아시아 제조 거래소 및 동남아시아(ASEAN) 리테일 채널에 전격 전개하여 정보 격차를 완전히 해소하고, 익일 08:00 정각에 고도로 구조화된 인텔리전스 도시에(dossier)를 산출합니다."
+  },
+  "Pipeline Engineering • Web Scraping Fleets": {
+    "ko": "파이프라인 엔지니어링 • 웹 스크래핑 플릿"
+  },
+  "Data Channel": {
+    "ko": "데이터 채널"
+  },
+  "Ingestion Frequency": {
+    "ko": "수집(Ingestion) 주기"
+  },
+  "Vector Embedding Space": {
+    "ko": "벡터 임베딩 공간"
+  },
+  "Storage & Index": {
+    "ko": "스토리지 및 인덱스"
+  },
+  "Wholesale Component Spot": {
+    "ko": "원료·부품 도매 스팟 시장"
+  },
+  "Nightly (22:00 - 02:00)": {
+    "ko": "야간 배치 (22:00 - 02:00)"
+  },
+  "Supabase pgvector (HNSW Index)": {
+    "ko": "Supabase pgvector (HNSW 인덱스)"
+  },
+  "Auto-Formulator BOM Calculator": {
+    "ko": "Auto-Formulator BOM 산출기"
+  },
+  "Consumer Retail SKUs": {
+    "ko": "소비재 리테일 SKU"
+  },
+  "Nightly (00:00 - 04:00)": {
+    "ko": "야간 배치 (00:00 - 04:00)"
+  },
+  "Custom Fine-Tuned B2B Retail Embedding": {
+    "ko": "맞춤형 파인튜닝 B2B 리테일 임베딩"
+  },
+  "PostgreSQL Partitioned Tables": {
+    "ko": "PostgreSQL 파티션 테이블"
+  },
+  "Co-Brands Competitive Matrix": {
+    "ko": "Co-Brands 경쟁력 매트릭스"
+  },
+  "Internal Meeting Notes & Memos": {
+    "ko": "사내 회의록 및 메모"
+  },
+  "Real-Time Webhook": {
+    "ko": "실시간 웹훅"
+  },
+  "Google NotebookLM Internal Embedding": {
+    "ko": "Google NotebookLM 내부 임베딩"
+  },
+  "Google Drive / Workspace Vault": {
+    "ko": "Google Drive / Workspace 볼트"
+  },
+  "Executive Strategy Briefings": {
+    "ko": "최고경영진 전략 브리핑"
+  },
+  "Customs & BPOM Regulations": {
+    "ko": "통관 및 BPOM 규제"
+  },
+  "Daily (04:00 - 06:00)": {
+    "ko": "일일 (04:00 - 06:00)"
+  },
+  "Legal & Regulatory Citation Vector Index": {
+    "ko": "법률 및 규제 인용 벡터 인덱스"
+  },
+  "pgvector with Strict Footnote Grounding": {
+    "ko": "엄격한 각주 그라운딩 기반 pgvector"
+  },
+  "Compliance & Export Control Teams": {
+    "ko": "컴플라이언스 및 수출 통제 팀"
+  },
+  "Computer Vision • Physical Audit": {
+    "ko": "컴퓨터 비전 • 실물 실사"
+  },
+  "Quantitative Models • Arbitrage Formula": {
+    "ko": "정량적 모델 • 차익 거래 공식"
+  },
+  "Arbitrage Category": {
+    "ko": "차익 거래 카테고리"
+  },
+  "Origin Wholesale (1688/China)": {
+    "ko": "원산지 도매 (1688/중국)"
+  },
+  "Destination Retail (Jakarta/Shopee)": {
+    "ko": "도착지 소매 (자카르타/Shopee)"
+  },
+  "Landed Costs (Freight + Tariff + VAT)": {
+    "ko": "도착도 원가 (운임 + 관세 + 부가세)"
+  },
+  "Net Arbitrage Spread": {
+    "ko": "순 차익 스프레드"
+  },
+  "Barrier Metallized Sachets": {
+    "ko": "고차단성 금속화 사셰(Sachet)"
+  },
+  "$0.008 / unit (RMB 0.058)": {
+    "ko": "단위당 $0.008 (RMB 0.058)"
+  },
+  "$0.038 / unit (Rp 600)": {
+    "ko": "단위당 $0.038 (Rp 600)"
+  },
+  "$0.006 / unit (air/sea mix + 10% duty)": {
+    "ko": "단위당 $0.006 (항공/해상 복합 운임 + 관세 10%)"
+  },
+  "+63.2% Net Margin": {
+    "ko": "+63.2% 순마진"
+  },
+  "Active Marine Collagen Peptides": {
+    "ko": "활성 마린 콜라겐 펩타이드"
+  },
+  "$48.00 / kg (blended retail)": {
+    "ko": "$48.00 / kg (혼합 소매가)"
+  },
+  "$4.20 / kg (reefer freight + BPOM tax)": {
+    "ko": "$4.20 / kg (리퍼 컨테이너 운임 + BPOM 세금)"
+  },
+  "+61.0% Net Margin": {
+    "ko": "+61.0% 순마진"
+  },
+  "Freeze-Dried Pet Treats": {
+    "ko": "동결건조 반려동물 간식"
+  },
+  "$26.50 / kg (packaged retail)": {
+    "ko": "$26.50 / kg (완제품 패키지 소매가)"
+  },
+  "$3.40 / kg (sea container + import permit)": {
+    "ko": "$3.40 / kg (해상 컨테이너 운임 + 수입 허가 비용)"
+  },
+  "+61.5% Net Margin": {
+    "ko": "+61.5% 순마진"
+  },
+  "VFFS Machine Spare Parts": {
+    "ko": "VFFS(수직 포장기) 예비 부품"
+  },
+  "$120 / set": {
+    "ko": "$120 / 세트"
+  },
+  "$450 / set (local dealer quote)": {
+    "ko": "$450 / 세트 (현지 딜러 견적가)"
+  },
+  "$45 / set (express courier + customs clearance)": {
+    "ko": "$45 / 세트 (특송 운송 + 통관 포함)"
+  },
+  "+63.3% Net Margin": {
+    "ko": "+63.3% 순마진"
+  },
+  "Monetization • Agent Economy": {
+    "ko": "수익화 • 에이전트 이코노미"
+  },
+  "Governance • Capital Allocation": {
+    "ko": "거버넌스 • 자본 배분"
+  },
+  "Chapter 01 Campaign Mandate • Circular Economy Core": {
+    "ko": "Chapter 01 캠페인 맨데이트 • 순환 경제 코어"
+  },
+  "*SC - Zero Wastage Movement: PetFood Bank Re:D & NBS Repacking": {
+    "ko": "*SC - 제로 웨이스트 무브먼트: PetFood Bank Re:D & NBS 리패키징"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), the Zero Wastage Movement embodies our foundational 'Together Gets Stronger' ethos by transforming industrial surplus, near-expiry food inventory, and bulk pet nutrition into accessible, affordable nutrition. Operating through PetFood Bank Re:D and the NBS (Nutritional Balance Standard) Repacking Hub, it diverts tons of high-grade calories from landfills into community care networks.": {
+    "ko": "*SC Layer 4 생태계 아레나(Biz-Hub) 내에서 추진되는 제로 웨이스트 무브먼트(Zero Wastage Movement)는 산업 잉여분, 유통기한 임박 식품 재고, 대용량 반려동물 영양사료를 접근 가능하고 경제적인 영양 자원으로 전환함으로써 당사의 근본 철학인 'Together Gets Stronger'를 구현합니다. PetFood Bank Re:D와 NBS(Nutritional Balance Standard) 리패키징 허브를 통해 운영되며, 수 톤 규모의 고등급 칼로리가 매립지로 폐기되는 것을 방지하고 이를 지역사회 돌봄 네트워크로 전환 공급합니다."
+  },
+  "High-Grade Pet Nutrition Rescued Annually": {
+    "ko": "연간 회수된 고등급 반려동물 영양 사료"
+  },
+  "Zero Incineration Policy for Inspected Surpluses": {
+    "ko": "검수 완료된 잉여 재고에 대한 전량 소각 제로화 정책"
+  },
+  "Subsidized Community Micro-Portion Retail Price": {
+    "ko": "보조금 지원 커뮤니티 소분 소매가"
+  },
+  "Direct Partner Shelters & Stray Care Alliances": {
+    "ko": "직접 파트너 보호소 및 유기동물 케어 연합"
+  },
+  "Traditional philanthropic efforts rely on unpredictable cash donations and intermittent supply drops. The Zero Wastage Movement replaces charity dependency with a self-sustaining commercial circular engine: rescued inventory is portioned into micro-sachets that cover packaging, labor, and logistics costs while feeding thousands of companion animals daily.": {
+    "ko": "전통적인 자선 활동은 예측 불가능한 현금 기부와 간헐적인 물품 지원에 의존합니다. 제로 웨이스트 무브먼트는 이러한 자선 의존도를 자립형 상업 순환 엔진으로 대체합니다. 회수된 재고는 포장비, 인건비, 물류비를 자체 충당할 수 있는 마이크로 파우치로 소분되어 매일 수천 마리의 반려동물에게 지속적으로 공급됩니다."
+  },
+  "Chapter 02 Operational Architecture • NBS Repacking": {
+    "ko": "Chapter 02 운영 아키텍처 • NBS 리패키징"
+  },
+  "PetFood Bank Re:D & NBS Repacking Architecture": {
+    "ko": "PetFood Bank Re:D & NBS 리패키징 아키텍처"
+  },
+  "The NBS (Nutritional Balance Standard) repacking protocol operates inside positive-pressure ISO-standard cleanrooms in Tangerang and Surabaya. Bulk kibble sacks (15kg to 25kg) with 3 to 6 months of remaining shelf life are unsealed, screened for moisture and mold, nitrogen-purged, and portioned into 50g and 100g barrier foil pouches.": {
+    "ko": "NBS(Nutritional Balance Standard) 소분 재포장 프로토콜은 탕에랑(Tangerang) 및 수라바야(Surabaya)에 위치한 양압 ISO 표준 클린룸 내부에서 가동됩니다. 유통기한이 3~6개월 남은 대용량 키블 포대(15kg~25kg)를 개봉하여 수분 및 곰팡이 검사를 거친 후, 질소 치환 공정을 적용해 50g 및 100g 차단성 알루미늄 포일 파우치로 소분 포장합니다."
+  },
+  "Certified Cleanroom Repack": {
+    "ko": "인증 클린룸 소분 재포장"
+  },
+  "Repacking is performed under strict sanitary conditions with HEPA filtration and UV sterilization, ensuring zero microbial cross-contamination during transfer from bulk sack to micro-portion.": {
+    "ko": "소분 재포장은 HEPA 필터 여과 및 자외선(UV) 멸균 시스템을 갖춘 엄격한 위생 환경에서 수행되어, 대용량 포대에서 마이크로 소분 단위로 이전되는 과정 중 미생물 교차 오염을 원천 차단합니다."
+  },
+  "Nitrogen Barrier Purge": {
+    "ko": "질소 배리어 치환 공정"
+  },
+  "Each individual pouch is purged with 99.9% pure food-grade nitrogen before sealing, stopping lipid oxidation and extending crunchy palatability by an additional 12 months.": {
+    "ko": "각 개별 파우치는 밀봉 전 순도 99.9%의 식품 등급 질소로 치환되어 지질 산화를 차단하고, 특유의 바삭한 기호성을 추가로 12개월간 연장 유지합니다."
+  },
+  "Batch QR Code Verification": {
+    "ko": "배치 QR 코드 검증"
+  },
+  "Every NBS sachet displays a laser-etched QR code. Scanning reveals the original brand manufacturer, original import lot, lab test certification, and expiration date.": {
+    "ko": "모든 NBS 소분 파우치에는 레이저 각인 QR 코드가 표시됩니다. 이를 스캔하면 원제조사 브랜드, 원본 수입 로트, 연구소 검사 인증서 및 유통기한 정보를 즉시 확인할 수 있습니다."
+  },
+  "Chapter 03 Quality Assurance • Safety Testing": {
+    "ko": "Chapter 03 품질 보증 • 안전성 테스트"
+  },
+  "Near-Expiry Inventory Rescue & QA Verification Matrix": {
+    "ko": "유통기한 임박 재고 회수 및 QA 검증 매트릭스"
+  },
+  "Rescued pet food must meet uncompromised safety thresholds. PetFood Bank Re:D rejects any damaged packaging or spoiled stock, submitting every intake batch to strict analytical assays prior to cleanroom entry.": {
+    "ko": "회수된 반려동물 사료는 타협 없는 엄격한 안전 기준을 충족해야 합니다. PetFood Bank Re:D는 파손된 포장이나 변질된 재고를 전면 반려하며, 클린룸 입고 전 모든 입고 배치에 대해 엄격한 분석 시험을 실시합니다."
+  },
+  "Chapter 04 Community Logistics • Stray Care Networks": {
+    "ko": "Chapter 04 커뮤니티 물류 • 유기동물 케어 네트워크"
+  },
+  "Community Animal Welfare Alliances & Stray Feeder Distribution": {
+    "ko": "지역사회 동물 복지 연합 및 유기동물 급식 네트워크 유통"
+  },
+  "Feeding community stray animals requires hyper-convenient, low-cost formats. Bulky 20kg bags cannot be transported on scooters by neighborhood stray feeders. By creating Rp 950 micro-sachets and placement in Sistar Mint shops, volunteers can carry dozens of meals in a jacket pocket.": {
+    "ko": "지역사회 유기동물 급식에는 극대화된 편의성과 저비용 포맷이 필수적입니다. 부피가 큰 20kg 포대는 동네 급식 봉사자들이 스쿠터로 운반하기에 한계가 있습니다. 950루피아(Rp 950) 마이크로 소포장을 제작하여 SISTAR Mint 매장에 공급함으로써, 봉사자들은 재킷 주머니에 수십 끼 분량의 사료를 손쉽게 휴대할 수 있습니다."
+  },
+  "Pocket-Sized Feeding Sachets": {
+    "ko": "포켓 사이즈 급식용 파우치"
+  },
+  "Each 50g pouch contains a complete, balanced single meal for an adult cat or small dog. Sealed against tropical humidity, feeders can carry portions on motorcycles without mess or spoilage.": {
+    "ko": "각 50g 파우치는 성묘 또는 소형견을 위한 완전하고 균형 잡힌 1회 식사를 제공합니다. 열대 다습한 기후를 차단하도록 밀봉 포장되어, 오토바이 운반 중에도 파손이나 변질 염려가 없습니다."
+  },
+  "Shelter Allocation Grants": {
+    "ko": "보호소 할당 지원금"
+  },
+  "Verified animal rescues and non-profit sanctuaries receive bulk shipments of NBS sachets at 100% subsidized zero cost, funded by corporate ESG partners and commercial co-brand splits.": {
+    "ko": "검증된 동물 구조 단체 및 비영리 보호소는 기업 ESG 파트너의 지원과 커머셜 코브랜딩 분배 수익을 바탕으로, 100% 보조금이 지원되는 무상(Zero-Cost) 대량 발송을 통해 NBS 소포장 파우치를 공급받습니다."
+  },
+  "Chapter 05 Circular Economics • Sustainability Model": {
+    "ko": "제05장 순환경제학 • 지속가능성 모델"
+  },
+  "Circular Unit Economics & Waste Diversion Formula": {
+    "ko": "순환적 한계경제(Unit Economics) 및 폐기물 전환 공식"
+  },
+  "Unlike traditional charities that constantly face bankruptcy, PetFood Bank Re:D operates a self-sustaining financial cycle. Retail sales of Rp 950 micro-sachets cover the cost of packaging, cleanroom operation, and delivery, generating a surplus that finances free food grants for registered shelters.": {
+    "ko": "지속적인 재정적 파산 위기에 직면하는 기존 자선 단체들과 달리, PetFood Bank Re:D는 자립형 재무 선순환 사이클을 가동합니다. 950 루피아(Rp) 마이크로 파우치의 소매 판매를 통해 포장 공정, 클린룸 운영 및 물류 배송 원가를 회수하고, 잉여 수익을 창출하여 등록 보호소를 위한 무상 사료 지원금을 조성합니다."
+  },
+  "For every sachet purchased by a neighborhood pet owner or street feeder at Rp 950, Rp 200 directly funds a free sachet manufactured for partner shelters, achieving a self-perpetuating 1:1 philanthropic match.": {
+    "ko": "지역 반려동물 보호자나 길고양이 급여자가 파우치 1개를 950 루피아(Rp)에 구매할 때마다 200 루피아(Rp)가 파트너 보호소용 무상 파우치 생산 재원으로 직접 적립되어, 자생적인 1:1 자선 매칭(Philanthropic Match)을 달성합니다."
+  },
+  "Chapter 06 ESG Impact • Corporate Partnerships": {
+    "ko": "제06장 ESG 임팩트 • 엔터프라이즈 파트너십"
+  },
+  "Measurable ESG Impact & Corporate Carbon Offsets": {
+    "ko": "정량화 가능한 ESG 임팩트 및 기업 탄소 상쇄(Carbon Offsets)"
+  },
+  "Food waste that enters landfills rots anaerobically, generating potent methane emissions (CH4). By intercepting dry pet food surplus before disposal, PetFood Bank Re:D produces quantifiable carbon offset documentation that multinational consumer goods corporations license to fulfill ESG sustainability mandates.": {
+    "ko": "매립지로 유입되는 식품 폐기물은 혐기성 부패 과정을 거치며 강력한 메탄(CH4)을 배출합니다. PetFood Bank Re:D는 폐기 전 단계에서 건식 펫푸드 잉여 재고를 선제적으로 회수함으로써 정량적 탄소 상쇄 증빙을 생성하며, 글로벌 소비재 기업들은 이를 라이선싱하여 ESG 지속가능성 의무 요건을 충족합니다."
+  },
+  "Landfill Diversion": {
+    "ko": "매립 폐기 전환 회피(Landfill Diversion)"
+  },
+  "Each ton of dry kibble diverted from municipal dumps prevents the atmospheric release of approximately 2.8 tons of CO2-equivalent greenhouse gases.": {
+    "ko": "지자체 쓰레기 매립지로부터 전환 회피된 건식 키블 1톤당 약 2.8톤의 이산화탄소 환산(CO2-eq) 온실가스 대기 배출을 차단합니다."
+  },
+  "Community Animal Care": {
+    "ko": "지역사회 동물 케어"
+  },
+  "Subsidized feeding prevents urban stray starvation, reduces animal aggression, and supports humane trap-neuter-release (TNR) municipal programs across Jakarta and Surabaya.": {
+    "ko": "보조금 지원 급여 체계는 도시 유기동물의 기아를 방지하고 개체 간 공격성을 완화하며, 자카르타 및 수라바야 전역의 인도적 길고양이 중성화(TNR) 지자체 프로그램을 뒷받침합니다."
+  },
+  "Audited ESG Credits": {
+    "ko": "외부 감사 공인 ESG 크레디트"
+  },
+  "Partner food manufacturers receive third-party audited certificates detailing exact weight diverted, meals created, and carbon emissions abated for annual corporate disclosures.": {
+    "ko": "파트너 식품 제조사는 연례 기업 공시를 위해 폐기 전환된 정확한 중량, 생성된 식사량, 감축된 탄소 배출량이 상세히 기록된 제3자 감사 인증서를 발급받습니다."
+  },
+  "Chapter 07 Governance • Food Traceability": {
+    "ko": "제07장 거버넌스 • 식품 이력 추적성"
+  },
+  "Dual-Track Legal Firewall & 70/30 Sustainable Settlement": {
+    "ko": "이원화 법적 방화벽(Dual-Track Legal Firewall) 및 70/30 지속가능 정산 모델"
+  },
+  "To guarantee permanent operational safety, all philanthropic and rescue operations are separated from *SC commercial holding assets through a dedicated dual-track firewall. Product safety liabilities are insured, and all financial flows follow our programmatic 70/30 allocation rules.": {
+    "ko": "영구적인 운영 안정성을 보장하기 위해 모든 자선 및 구조 활동은 전용 이원화 방화벽을 통해 *SC 상업 지주 자산과 완벽히 분리됩니다. 제조물 책임(PL) 보험이 적용되며, 모든 자금 흐름은 당사의 프로그래밍된 70/30 배분 원칙을 준수합니다."
+  },
+  "Of all revenues generated from Zero Wastage Movement product sales and corporate ESG sponsorships: 70% is immediately deployed into cleanroom packaging, logistics van fuel, and free shelter food manufacturing, while 30% is allocated to foundation reserves, veterinary emergency funds, and testing laboratory equipment.": {
+    "ko": "제로 웨이스트 무브먼트(Zero Wastage Movement) 제품 판매 및 기업 ESG 스폰서십을 통해 창출된 총매출 중 70%는 클린룸 포장 공정, 물류 차량 연료비, 보호소 무상 사료 생산에 즉각 집행되며, 30%는 재단 준비금, 수의학적 응급 기금 및 분석 실험실 장비 구축에 배정됩니다."
+  },
+  "One Spark, Infinite Galaxifying: PetFood Bank Re:D proves that solving societal challenges can be self-funding and scalable. Powered by the Qubit Algorithm™, NBS repacking standards, and the Biz Galaxy constellation. Campaign Portal: https://sistarcompany.com • Community Coordinator: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: PetFood Bank Re:D는 사회적 난제 해결이 자체 재원 조달과 확장성을 동시에 확보할 수 있음을 입증합니다. Qubit Algorithm™, NBS 리패킹 표준 규격 및 Biz Galaxy 컨스텔레이션을 기반으로 가동됩니다. 캠페인 포털: https://sistarcompany.com • 커뮤니티 코디네이터: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Campaign Mandate • Circular Economy Core": {
+    "ko": "캠페인 사명 • 순환경제 코어"
+  },
+  "The Zero-Waste Doctrine: Rescuing Calories, Restoring Dignity": {
+    "ko": "The Zero-Waste Doctrine: 칼로리 구제와 존엄성 회복"
+  },
+  "Across global retail channels, millions of tons of premium pet and human food are incinerated or dumped simply because products cross arbitrary 6-month distributor intake thresholds. PetFood Bank Re:D intervenes upstream, purchasing or receiving surplus inventory, running rigorous laboratory microbiology audits, and repacking fresh portions into protective single-meal micro-sachets.": {
+    "ko": "글로벌 유통 채널 전반에서 단지 유통업체의 자의적인 '유통기한 6개월 잔여' 입고 기준을 경과했다는 이유만으로 수백만 톤의 프리미엄 반려동물 및 인간용 식품이 소각되거나 매립됩니다. PetFood Bank Re:D는 가치사슬 최상류(Upstream)에서 개입하여 잉여 재고를 매입 또는 기부 수령하고, 엄격한 실험실 미생물 감사를 거쳐 1회 급여 분량의 보호용 마이크로 소포장 파우치로 신선하게 재포장합니다."
+  },
+  "Operational Architecture • NBS Repacking": {
+    "ko": "운영 아키텍처 • NBS 리패킹"
+  },
+  "Quality Assurance • Safety Testing": {
+    "ko": "품질 보증(QA) • 안전성 검사"
+  },
+  "Testing Parameter": {
+    "ko": "검사 파라미터"
+  },
+  "Laboratory Method": {
+    "ko": "실험실 분석법"
+  },
+  "Acceptance Threshold": {
+    "ko": "합격 판정 기준"
+  },
+  "Failure Action": {
+    "ko": "부적합 시 조치"
+  },
+  "Moisture Content": {
+    "ko": "수분 함량(Moisture Content)"
+  },
+  "AOAC 930.15 Vacuum Oven": {
+    "ko": "AOAC 930.15 진공 건조기법(Vacuum Oven)"
+  },
+  "< 10.0% Moisture": {
+    "ko": "< 10.0% 수분율"
+  },
+  "Immediate batch rejection": {
+    "ko": "배치 즉각 불합격 처리"
+  },
+  "Water Activity (a_w)": {
+    "ko": "수분활성도 (a_w)"
+  },
+  "Chilled Mirror Dew Point": {
+    "ko": "냉각경 노점 측정법(Chilled Mirror Dew Point)"
+  },
+  "Reject (mold hazard)": {
+    "ko": "불합격 처리 (곰팡이 위해 리스크)"
+  },
+  "Aflatoxin / Mycotoxin": {
+    "ko": "아플라톡신 / 곰팡이독소"
+  },
+  "ELISA Quantitative Test": {
+    "ko": "ELISA 정량 시험법"
+  },
+  "< 20 ppb Total Aflatoxin": {
+    "ko": "< 20 ppb 총 아플라톡신"
+  },
+  "Safe destruction / Composting": {
+    "ko": "안전 폐기 / 퇴비화 처리"
+  },
+  "Peroxide Value (Rancidity)": {
+    "ko": "과산화물가 (산패도)"
+  },
+  "Titrimetric Assay": {
+    "ko": "적정 분석법(Titrimetric Assay)"
+  },
+  "< 10 meq/kg Fat": {
+    "ko": "< 10 meq/kg 지방"
+  },
+  "Reject (oxidized lipids)": {
+    "ko": "불합격 처리 (지질 산화)"
+  },
+  "Salmonella & E. coli": {
+    "ko": "살모넬라 및 대장균"
+  },
+  "Real-Time PCR Assay": {
+    "ko": "실시간 PCR(Real-Time PCR) 분석법"
+  },
+  "Negative in 25g sample": {
+    "ko": "시료 25g 당 불검출(음성)"
+  },
+  "Quarantine & Destruction": {
+    "ko": "격리 조치 및 폐기"
+  },
+  "Community Logistics • Stray Care Networks": {
+    "ko": "커뮤니티 물류 • 유기동물 보호 네트워크"
+  },
+  "Circular Economics • Sustainability Model": {
+    "ko": "순환 경제 • 지속가능성 모델"
+  },
+  "Allocation Category": {
+    "ko": "배분 항목"
+  },
+  "Amount (IDR)": {
+    "ko": "금액 (IDR)"
+  },
+  "Surplus Rescue Intake": {
+    "ko": "잉여 재고 회수 및 확보"
+  },
+  "Surplus purchase or transport compensation paid to original brand distributor.": {
+    "ko": "원브랜드 유통사에 지급되는 잉여 재고 매입 대금 또는 운송 보상금."
+  },
+  "High-Barrier Foil Sachet": {
+    "ko": "고차단성 포일 사셰"
+  },
+  "Moisture-proof, oxygen-barrier packaging material to preserve crisp freshness.": {
+    "ko": "신선하고 바삭한 식감을 보존하기 위한 방습 및 산소 차단 패키징 소재."
+  },
+  "Cleanroom Tooling & Labor": {
+    "ko": "클린룸 공정 설비 및 인건비"
+  },
+  "HEPA cleanroom electricity, nitrogen purge gas, operator living wage.": {
+    "ko": "HEPA 클린룸 전력비, 질소 치환 가스, 작업자 생활임금."
+  },
+  "Consolidated urban delivery via Space Sharing & Deliver Together vans.": {
+    "ko": "공간 공유 및 공동 배송 밴을 통한 도심 통합 라스트마일 배송."
+  },
+  "Shelter Grant Subsidy Fund": {
+    "ko": "보호소 지원 보조금 펀드"
+  },
+  "Transferred into community foundation to manufacture free shelter feed rations.": {
+    "ko": "지역사회 재단으로 이관되어 유기동물 보호소용 무상 배합사료 제조에 투입."
+  },
+  "Retailer Warung / Cashier Cut": {
+    "ko": "소매점 와룽(Warung) / 계산대 마진 수수료"
+  },
+  "Immediate retail incentive for local kiosks and Sistar Mint shop operators.": {
+    "ko": "현지 키오스크 및 SISTAR Mint 매장 운영자를 위한 즉각적 소매 인센티브."
+  },
+  "Total Sachet Retail Price": {
+    "ko": "소포장(Sachet) 최종 소비자가격"
+  },
+  "Affordable daily micro-expenditure supporting community stray care.": {
+    "ko": "지역사회 유기동물 보호를 지원하는 부담 없는 일일 마이크로 소비."
+  },
+  "ESG Impact • Corporate Partnerships": {
+    "ko": "ESG 임팩트 • 기업 파트너십"
+  },
+  "Governance • Food Traceability": {
+    "ko": "거버넌스 • 식품 이력추적성"
+  },
+  "Chapter 01 Command Mandate • Collective Marketing Hub": {
+    "ko": "Chapter 01 커맨드 맨데이트 • 집단 마케팅 허브"
+  },
+  "*SC - Biz Campaigns: Multi-Brand Collective Impact & Growth Consortia": {
+    "ko": "*SC - Biz Campaigns: 멀티 브랜드 집단 임팩트 & 성장 컨소시엄"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Biz Campaigns serves as the central orchestration tower for ecosystem-wide marketing, viral brand activations, collective advertising buying power, and circular ESG initiatives. By pooling creative, budgetary, and retail channel resources across all *SC entities, it transforms isolated indie brands into culturally dominant market coalitions.": {
+    "ko": "*SC 레이어 4 에코시스템 아레나(Biz-Hub) 내에서, Biz Campaigns는 생태계 전반의 마케팅, 바이럴 브랜드 액티베이션, 집단 광고 바잉 파워, 순환형 ESG 이니셔티브를 총괄하는 중앙 오케스트레이션 타워 역할을 수행합니다. 모든 *SC 엔티티의 크리에이티브, 예산 및 소매 유통 채널 리소스를 결집(pooling)함으로써, 고립된 인디 브랜드들을 문화적 지배력을 지닌 시장 연합체로 탈바꿈시킵니다."
+  },
+  "Blended CAC Reduction via Pooled Retargeting Loops": {
+    "ko": "풀링된 리타겟팅 루프를 통한 통합 CAC 절감"
+  },
+  "Average ROAS Across Multi-Brand Co-Op Ad Sets": {
+    "ko": "멀티 브랜드 공동 광고 세트 전반의 평균 ROAS"
+  },
+  "Combined Cross-Brand CRM Active Consumer Reach": {
+    "ko": "크로스 브랜드 통합 CRM 활성 소비자 도달률"
+  },
+  "Deterministic Lead Attribution via Pixel Webhooks": {
+    "ko": "픽셀 웹훅 기반의 결정론적 리드 기여도(Attribution) 분석"
+  },
+  "From high-impact sustainability movements like Zero Wastage Movement to city-wide offline popups at Sistar Mint Colored Shops, Biz Campaigns coordinates narrative calendars, creative assets, influencer alliances, and retail stock availability to ensure that every campaign dollar generates compounding cross-brand equity.": {
+    "ko": "Zero Wastage Movement와 같은 고임팩트 지속가능성 캠페인부터 SISTAR Mint 오프라인 팝업 스토어에 이르기까지, Biz Campaigns는 내러티브 캘린더, 크리에이티브 에셋, 인플루언서 얼라이언스, 리테일 재고 가용성을 통합 조율하여 투입된 모든 캠페인 비용이 크로스 브랜드 자산 가치를 복리적으로 증대시키도록 보장합니다."
+  },
+  "Chapter 02 Campaign Topology • Cross-Promotion Core": {
+    "ko": "Chapter 02 캠페인 토폴로지 • 크로스 프로모션 코어"
+  },
+  "Multi-Brand Shared Marketing Engine & Cross-Promotional Topology": {
+    "ko": "멀티 브랜드 공유 마케팅 엔진 & 상호 교차 프로모션 토폴로지"
+  },
+  "Biz Campaigns operates a shared customer retargeting flywheel: a consumer who buys a beauty micro-sachet receives a sample voucher for healthy nutritional tea or pet care treats produced by a sibling co-brand. This circular cross-pollination maximizes customer lifetime value (LTV) while sharing media costs.": {
+    "ko": "Biz Campaigns는 공유형 고객 리타겟팅 플라이휠을 구동합니다. 뷰티 마이크로 파우치를 구매한 소비자는 형제 공동 브랜드의 기능성 영양 티 또는 펫케어 간식 샘플 바우처를 제공받습니다. 이러한 순환형 교차 수분(cross-pollination) 모델은 미디어 비용을 분담하는 동시에 고객 생애 가치(LTV)를 극대화합니다."
+  },
+  "Volume Media Buying": {
+    "ko": "볼륨 미디어 바잉"
+  },
+  "By aggregating the marketing spend of 12 internal domains and 30+ co-brand partners, Biz Campaigns secures top-tier agency commission rebates and direct platform support from TikTok and Meta.": {
+    "ko": "12개 내부 도메인과 30개 이상의 공동 브랜드 파트너사의 마케팅 지출을 통합 집행함으로써, Biz Campaigns는 TikTok 및 Meta로부터 최상위 대행사 수준의 수수료 리베이트와 직접적인 플랫폼 서포트를 확보합니다."
+  },
+  "Studio Butter Integration": {
+    "ko": "Studio Butter 통합"
+  },
+  "High-converting viral short-form video hooks are produced in high volume by Studio Butter, tested algorithmically with micro-budgets, and scaled automatically when ROAS exceeds benchmark hurdles.": {
+    "ko": "고전환 바이럴 숏폼 비디오 훅은 Studio Butter를 통해 대량 제작되며, 마이크로 예산 기반의 알고리즘 테스트를 거쳐 ROAS가 벤치마크 허들을 초과하는 즉시 자동으로 스케일업됩니다."
+  },
+  "Digital-to-Physical Bridge": {
+    "ko": "디지털-피지컬 브릿지"
+  },
+  "Digital ad clicks deliver QR-code vouchers redeemable at local Sistar Mint shops, driving foot traffic into physical franchised stores while providing unassailable attribution data.": {
+    "ko": "디지털 광고 클릭을 통해 현지 SISTAR Mint 매장에서 사용 가능한 QR 코드 바우처를 발송함으로써, 오프라인 가맹 매장으로의 풋 트래픽(방문객)을 유도하고 반박 불가능한 정밀 기여도(Attribution) 데이터를 확보합니다."
+  },
+  "Chapter 03 Advertising Arbitrage • Efficiency Matrix": {
+    "ko": "제03장 광고 차익거래 • 효율성 매트릭스"
+  },
+  "Collective Ad-Spend Arbitrage & Media Syndication Matrix": {
+    "ko": "집단적 광고비 차익거래 및 미디어 신디케이션 매트릭스"
+  },
+  "Individual indie brands waste large percentages of their ad spend bidding against each other for identical keywords and target audiences. Biz Campaigns reorganizes ad auctions through non-competing syndicates and joint audience clustering.": {
+    "ko": "개별 인디 브랜드들은 동일한 키워드와 타깃 오디언스를 두고 상호 비딩 경쟁을 벌이며 광고 예산의 상당 부분을 낭비하고 있습니다. Biz Campaigns는 비경쟁 신디케이트 및 공동 오디언스 클러스터링을 통해 광고 옥션 구조를 근본적으로 재편합니다."
+  },
+  "Chapter 04 Physical Retail • Experiential Activations": {
+    "ko": "제04장 오프라인 리테일 • 체험형 액티베이션"
+  },
+  "On-the-Ground Retail Activations & Community Corridors": {
+    "ko": "현장 기반 리테일 액티베이션 및 커뮤니티 코리더"
+  },
+  "Digital impressions achieve permanence when reinforced by physical community touchpoints. Biz Campaigns stages recurring monthly activations anchored at Sistar Mint Colored Shops, companion animal clinics, and neighborhood night markets.": {
+    "ko": "디지털 임프레션은 물리적 커뮤니티 접점을 통해 강화될 때 지속성을 확보합니다. Biz Campaigns는 Sistar Mint Colored Shops, 반려동물 클리닉, 지역 야시장을 앵커 거점으로 삼아 정기적인 월간 액티베이션을 전개합니다."
+  },
+  "Neighborhood Adoption Drives": {
+    "ko": "지역 기반 입양 드라이브"
+  },
+  "Partnering with local rescue groups to host weekend pet adoption events outside Sistar Mint stores generates authentic community goodwill, organic influencer coverage, and immediate pet food subscription signups.": {
+    "ko": "지역 유기동물 구조 단체와 협력하여 Sistar Mint 매장 외부에서 주말 반려동물 입양 행사를 개최함으로써, 진정성 있는 커뮤니티 신뢰 자산(Goodwill), 오가닉 인플루언서 커버리지, 즉각적인 펫푸드 정기구독 전환을 동시에 창출합니다."
+  },
+  "Storefront TikTok Broadcasting": {
+    "ko": "스토어프런트 틱톡 라이브 브로드캐스팅"
+  },
+  "Each flagship retail location features a soundproofed glass live-streaming booth where creators broadcast live promotions, demonstrating product formulations directly to digital shoppers while foot traffic watches in person.": {
+    "ko": "각 플래그십 리테일 거점에는 방음 유리 라이브스트리밍 부스가 구축되어, 크리에이터가 현장 유동 인구의 시선을 직접 유도하는 동시에 디지털 소비자에게 제품 포뮬레이션을 실시간 시연하는 프로모션을 송출합니다."
+  },
+  "Chapter 05 Media Economics • Amortization Formula": {
+    "ko": "제05장 미디어 이코노믹스 • 상각 공식"
+  },
+  "Campaign ROI Economics & Viral Amortization Equation": {
+    "ko": "캠페인 ROI 이코노믹스 및 바이럴 상각 방정식"
+  },
+  "Biz Campaigns measures campaign efficiency through an integrated multi-brand return formula that accounts for direct ad ROAS, cross-brand customer acquisition spillover, and organic viral multiplier effects.": {
+    "ko": "Biz Campaigns는 직접 광고 ROAS, 브랜드 간 고객 획득 스필오버(Spillover), 오가닉 바이럴 승수 효과를 총체적으로 산출하는 통합 멀티 브랜드 수익률 공식을 통해 캠페인 효율성을 정밀 측정합니다."
+  },
+  "Where b iterates over all participating co-brands, Cross_Brand_Spillover captures 90-day secondary purchases made via sister brand vouchers, and Viral_K_Factor accounts for organic social shares (averaging 0.38 for Studio Butter creative assets).": {
+    "ko": "여기서 b는 참여하는 모든 공동 브랜드를 순회하는 지표이며, Cross_Brand_Spillover는 자매 브랜드 바우처를 통해 발생한 90일 2차 구매를 포착하고, Viral_K_Factor는 오가닉 소셜 공유(Studio Butter 크리에이티브 에셋 기준 평균 0.38)를 반영합니다."
+  },
+  "Chapter 06 ESG Architecture • Impact Audits": {
+    "ko": "제06장 ESG 아키텍처 • 임팩트 오딧"
+  },
+  "Corporate ESG Alignment & Social Value Creation": {
+    "ko": "기업 ESG 얼라인먼트 및 사회적 가치 창출"
+  },
+  "In modern enterprise commerce, consumer loyalty gravitates toward authentic social purpose. Biz Campaigns ensures that every commercial marketing push embeds tangible circular impact, donating fractions of promotional proceeds to community animal shelters, tree planting, or clean water initiatives.": {
+    "ko": "현대 엔터프라이즈 커머스에서 소비자의 로열티는 진정성 있는 사회적 목적성으로 수렴합니다. Biz Campaigns는 모든 상업적 마케팅 드라이브에 실질적인 순환형 임팩트를 내재화하여, 프로모션 수익의 일부를 지역 동물 보호소, 식목 사업, 식수 개선 이니셔티브에 환원합니다."
+  },
+  "Plastic Neutral Packaging": {
+    "ko": "플라스틱 중립 패키징"
+  },
+  "For every kilogram of barrier foil sachet sold during campaigns, *SC sponsors certified post-consumer ocean plastic recovery through regional recycling cooperatives.": {
+    "ko": "캠페인 기간 동안 판매되는 배리어 호일 파우치(sachet) 1kg당, *SC는 지역 재활용 협동조합을 통해 공인된 포스트 컨슈머 해양 플라스틱 수거를 후원합니다."
+  },
+  "Community Micro-Income": {
+    "ko": "커뮤니티 마이크로 인컴 창출"
+  },
+  "Neighborhood street feeder networks and women-led micro-retail warungs earn direct cash commissions by serving as official distribution points for campaign products.": {
+    "ko": "지역 길고양이 급식 네트워크 및 여성이 운영하는 마이크로 리테일 와룽(Warung)은 캠페인 제품의 공식 유통 거점 역할을 수행함으로써 직접적인 현금 수수료 수익을 확보합니다."
+  },
+  "Transparent Impact Ledgers": {
+    "ko": "투명한 임팩트 원장"
+  },
+  "All charitable disbursements and rescued food volumes are tracked publicly on immutable Google Sheets ledgers, accessible via QR code by any consumer or regulatory auditor.": {
+    "ko": "모든 자선 기부 집행 내역과 구조 사료 물량은 위변조가 불가능한 구글 시트 원장에 공개 기록되며, 모든 소비자 및 규제 감사관이 QR 코드를 통해 즉각 열람할 수 있습니다."
+  },
+  "Chapter 07 Financial Governance • 70/30 Settlement": {
+    "ko": "제07장 재무 거버넌스 • 70/30 정산 프레임워크"
+  },
+  "Partner Attribution, Lead Firewalls & 70/30 Settlement": {
+    "ko": "파트너 기여도 어트리뷰션, 리드 파이어월 및 70/30 정산"
+  },
+  "Biz Campaigns ensures complete financial transparency between participating brand founders. Webhooks attribute every sale to its originating ad creative and partner brand, distributing profits via programmatic clearing.": {
+    "ko": "Biz Campaigns는 참여 브랜드 창업자 간의 완벽한 재무적 투명성을 보장합니다. 웹훅(Webhooks) 시스템이 모든 매출을 유입 경로가 된 광고 크리에이티브 및 파트너 브랜드로 귀속시키며, 프로그래매틱 클리어링을 통해 수익을 정산·분배합니다."
+  },
+  "Of all revenues generated through syndicated Biz Campaigns: 70% is distributed to participating brand manufacturers to cover product manufacturing COGS, creator commissions, and courier fulfillment, while 30% is reinvested into the master campaign media pool, viral production studio, and holding expansion capital.": {
+    "ko": "신디케이트된 Biz Campaigns를 통해 창출된 총매출 중 70%는 제품 제조 원가(COGS), 크리에이터 수수료, 물류 풀필먼트 비용을 충당하기 위해 참여 제조 브랜드에 분배되며, 나머지 30%는 마스터 캠페인 미디어 풀, 바이럴 프로덕션 스튜디오 및 지주사 확장 자본으로 재투자됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Biz Campaigns turns individual voices into unstoppable industry choruses. Powered by the Qubit Algorithm™, syndicated media engines, and the Biz Galaxy constellation. Campaign Desk: https://sistarcompany.com • Campaigns Lead: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Biz Campaigns는 개별 목소리를 거스를 수 없는 산업적 대합창으로 전환합니다. Qubit Algorithm™, 신디케이션 미디어 엔진, 그리고 Biz Galaxy 콘스텔레이션에 의해 구동됩니다. Campaign Desk: https://sistarcompany.com • Campaigns Lead: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Command Mandate • Collective Marketing Hub": {
+    "ko": "지휘 권한 • 집단 마케팅 허브"
+  },
+  "The Synergy Doctrine: Collective Media Dominance Over Isolated Bidding": {
+    "ko": "시너지 독트린: 고립된 입찰 경쟁을 압도하는 집단 미디어 지배력"
+  },
+  "In the era of hyper-inflated digital ad costs on Meta, TikTok, and Google, single-brand marketing campaigns face punishing Customer Acquisition Costs (CAC). Biz Campaigns unites dozens of partner brands under shared campaign banners, co-branded gift boxes, and pooled media buys, driving down effective blended acquisition costs by up to 58%.": {
+    "ko": "Meta, TikTok, Google 등 디지털 광고 단가가 극심하게 인플레이션된 환경 속에서, 단일 브랜드 마케팅 캠페인은 가혹한 수준의 고객획득비용(CAC)에 직면하고 있습니다. Biz Campaigns는 수십 개의 파트너 브랜드를 단일 통합 캠페인 배너, 코브랜디드 기프트 박스, 통합 미디어 바잉 체계로 결집하여 실질 유효 종합 획득 비용을 최대 58%까지 절감합니다."
+  },
+  "Campaign Topology • Cross-Promotion Core": {
+    "ko": "캠페인 토폴로지 • 크로스 프로모션 코어"
+  },
+  "Advertising Arbitrage • Efficiency Matrix": {
+    "ko": "광고 아비트라지 • 효율성 매트릭스"
+  },
+  "Campaign Format": {
+    "ko": "캠페인 포맷"
+  },
+  "Traditional Single-Brand Run": {
+    "ko": "기존 단일 브랜드 집행"
+  },
+  "Biz Campaigns Co-Op Syndicate": {
+    "ko": "Biz Campaigns 코옵 신디케이트"
+  },
+  "Efficiency Dividend": {
+    "ko": "효율성 배당(Efficiency Dividend)"
+  },
+  "TikTok Shop LIVE Marathons": {
+    "ko": "TikTok Shop LIVE 마라톤"
+  },
+  "Single brand host, $4,000 studio cost, 2.1x ROAS": {
+    "ko": "단일 브랜드 호스팅, 스튜디오 비용 $4,000, ROAS 2.1배"
+  },
+  "Multi-brand relay, shared creator pool, 4.8x ROAS": {
+    "ko": "멀티 브랜드 릴레이, 크리에이터 풀 공유, ROAS 4.8배"
+  },
+  "+128% ROAS lift & 75% studio cost reduction": {
+    "ko": "ROAS +128% 상승 및 스튜디오 비용 75% 절감"
+  },
+  "Meta Dynamic Retargeting": {
+    "ko": "Meta 다이내믹 리타기팅"
+  },
+  "Single brand pixel, high cold CPM ($12-$18)": {
+    "ko": "단일 브랜드 픽셀, 높은 콜드 타깃 CPM ($12~$18)"
+  },
+  "Shared *SC data mesh, warm lookalikes ($5-$8 CPM)": {
+    "ko": "공유형 *SC 데이터 메시, 웜 유사 타깃 ($5~$8 CPM)"
+  },
+  "-55% CPM acquisition discount": {
+    "ko": "획득 CPM 55% 절감"
+  },
+  "Physical POS Pop-Up Store": {
+    "ko": "오프라인 POS 팝업 스토어"
+  },
+  "$15,000 mall booth lease borne by 1 brand": {
+    "ko": "쇼핑몰 부스 임대료 $15,000 단일 브랜드 전액 부담"
+  },
+  "Co-hosted showcase splitting costs across 6 co-brands": {
+    "ko": "6개 코브랜드 간 비용 분담 공동 쇼케이스"
+  },
+  "-83% retail activation expense": {
+    "ko": "리테일 활성화 지출 83% 절감"
+  },
+  "KOL / Influencer Gifting": {
+    "ko": "KOL / 인플루언서 기프팅"
+  },
+  "1 product shipped in wasteful single bubble mailer": {
+    "ko": "단일 에어캡 봉투 내 1개 제품 비효율 배송"
+  },
+  "Curated luxury discovery box containing 5 co-brands": {
+    "ko": "5개 코브랜드로 구성된 큐레이티드 럭셔리 디스커버리 박스"
+  },
+  "5x creator unboxing exposure per shipping dollar": {
+    "ko": "배송 비용 단위당 크리에이터 언박싱 노출 5배 달성"
+  },
+  "Physical Retail • Experiential Activations": {
+    "ko": "오프라인 리테일 • 체험형 액티베이션"
+  },
+  "Media Economics • Amortization Formula": {
+    "ko": "미디어 이코노믹스 • 상각 포뮬러"
+  },
+  "Campaign Initiative": {
+    "ko": "캠페인 이니셔티브"
+  },
+  "Syndicated Media Budget": {
+    "ko": "신디케이트 미디어 예산"
+  },
+  "Direct First-Touch Revenue": {
+    "ko": "직접 퍼스트 터치(First-Touch) 매출"
+  },
+  "Cross-Brand Retargeting Lift": {
+    "ko": "크로스 브랜드 리타기팅 상승분(Lift)"
+  },
+  "Aggregate Ecosystem ROAS": {
+    "ko": "생태계 총괄 종합 ROAS"
+  },
+  "Micro-Sachet Rp 1,320 Launch": {
+    "ko": "마이크로 샤셰 Rp 1,320 론칭"
+  },
+  "$34,500 (across 4 sibling brands)": {
+    "ko": "$34,500 (4개 계열 브랜드 통합)"
+  },
+  "4.10x Blended ROAS": {
+    "ko": "4.10배 블렌디드 ROAS"
+  },
+  "Zero Wastage Pet Rescue Month": {
+    "ko": "제로 웨이스트 유기동물 구조의 달"
+  },
+  "$19,200 (adoption & pet care)": {
+    "ko": "$19,200 (입양 및 펫케어 부문)"
+  },
+  "3.98x Blended ROAS": {
+    "ko": "3.98배 블렌디드 ROAS"
+  },
+  "Mint Shop Mega Weekend Gala": {
+    "ko": "민트 샵 메가 위켄드 갈라"
+  },
+  "$26,000 (POS retail + web)": {
+    "ko": "$26,000 (POS 리테일 + 웹)"
+  },
+  "3.89x Blended ROAS": {
+    "ko": "3.89배 블렌디드 ROAS"
+  },
+  "Cross-Border Export Showcase": {
+    "ko": "크로스보더 수출 쇼케이스"
+  },
+  "$48,000 (wholesale distributor B2B)": {
+    "ko": "$48,000 (도매 유통 B2B)"
+  },
+  "4.66x Blended ROAS": {
+    "ko": "4.66배 블렌디드 ROAS"
+  },
+  "ESG Architecture • Impact Audits": {
+    "ko": "ESG 아키텍처 • 임팩트 감사"
+  },
+  "Financial Governance • 70/30 Settlement": {
+    "ko": "재무 거버넌스 • 70/30 정산 체계"
+  },
+  "Chapter 01 Retail Node • Signature Mint Concept": {
+    "ko": "Chapter 01 리테일 노드 • 시그니처 민트 콘셉트"
+  },
+  "*SC - SISTAR Mint Colored Shop: Flagship Omnichannel Micro-Retail Node": {
+    "ko": "*SC - SISTAR 민트 컬러드 샵: 플래그십 옴니채널 마이크로 리테일 노드"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), the SISTAR Mint Colored Shop represents our iconic physical footprint. Draped in our recognizable institutional mint hue (#acf7f0 / #10b981), each shop operates as a high-velocity physical-digital nexus: combining curated micro-sachet beauty bars, pet food bank community bins, high-speed parcel pickup, and live TikTok streaming booths into an ultra-profitable 15m&sup2; to 45m&sup2; turnkey franchise.": {
+    "ko": "*SC 레이어 4 에코시스템 아레나(Biz-Hub) 내에서 SISTAR 민트 컬러드 샵은 당사의 상징적인 피지컬 풋프린트를 대변합니다. 당사 고유의 시그니처 민트 색조(#acf7f0 / #10b981)로 브랜딩된 각 매장은 엄선된 큐레이션 마이크로 샤셰 뷰티 바, 펫푸드 뱅크 커뮤니티 빈, 초고속 택배 픽업, 틱톡 라이브 스트리밍 부스를 15m²~45m² 규모의 초고수익 턴키 프랜차이즈 모델로 통합하여 고속 피지컬-디지털 넥서스로 기능합니다."
+  },
+  "Compact High-Efficiency Footprint": {
+    "ko": "컴팩트 고효율 풋프린트"
+  },
+  "Average Franchise Capital Payback Window": {
+    "ko": "평균 프랜차이즈 자본 회수 기간"
+  },
+  "Entry Micro-Sachet Impulse Price Point": {
+    "ko": "엔트리 마이크로 샤셰 충동구매 유도 가격대"
+  },
+  "Single-Operator Autonomous POS Architecture": {
+    "ko": "1인 운영 자율형 POS 아키텍처"
+  },
+  "More than just a store, the SISTAR Mint Colored Shop acts as a hyper-local logistics cross-dock for our Space Sharing & Deliver Together network. Local e-commerce deliveries are consolidated directly at the shop, generating foot traffic from neighborhood shoppers picking up online orders while browsing impulse beauty and wellness items.": {
+    "ko": "SISTAR 민트 컬러드 샵은 단순한 매장을 넘어 당사의 공간 공유 및 공동 배송 네트워크를 위한 하이퍼로컬 물류 크로스독 역할을 수행합니다. 로컬 이커머스 배송 물량이 매장으로 직접 집약되어, 지역 고객이 온라인 주문 상품을 픽업하는 동시에 충동구매형 뷰티 및 웰니스 제품을 둘러보도록 유도하여 즉각적인 매장 방문 트래픽을 창출합니다."
+  },
+  "Chapter 02 Spatial Architecture • 4-Zone Floor Plan": {
+    "ko": "Chapter 02 공간 아키텍처 • 4-존 평면 계획"
+  },
+  "Omnichannel Retail Layout: Modular 4-Zone Floor Plan": {
+    "ko": "옴니채널 리테일 레이아웃: 모듈형 4-존 평면 계획"
+  },
+  "Every square centimeter of a SISTAR Mint Colored Shop is mathematically optimized for customer journey progression, conversion velocity, and operational multi-tasking by a single trained store manager.": {
+    "ko": "SISTAR 민트 컬러드 샵의 모든 단위 면적은 고객 여정 최적화, 전환 속도 극대화, 그리고 전문 교육을 거친 1인 매장 관리자의 운영 멀티태스킹을 지원하도록 수학적으로 정밀하게 최적화되어 있습니다."
+  },
+  "Micro-Sachet Display Wall": {
+    "ko": "마이크로 샤셰 디스플레이 월"
+  },
+  "Showcases dozens of co-brand skincare, health shots, and dietary enhancers in easy-to-grab gravity dispensers priced uniformly at Rp 1,320, generating effortless transaction velocity.": {
+    "ko": "수십 종의 코브랜드 스킨케어, 헬스 샷, 영양 강화제를 직관적인 중력식 디스펜서에 배치하고 Rp 1,320 단일가로 책정하여 마찰 없는 거래 속도를 실현합니다."
+  },
+  "PetFood Bank Re:D Bins": {
+    "ko": "펫푸드 뱅크 Re:D 빈"
+  },
+  "Customers can purchase Rp 950 pet food packs to feed neighborhood cats on the street or drop donations directly into transparent acrylic shelter donation bins displayed proudly at the front.": {
+    "ko": "고객은 Rp 950 상당의 펫푸드 팩을 구매하여 골목의 길고양이에게 먹이를 주거나, 매장 전면에 비치된 투명 아크릴 보호소 기부함에 직접 투입할 수 있습니다."
+  },
+  "Live Streaming Studio": {
+    "ko": "라이브 스트리밍 스튜디오"
+  },
+  "The enclosed glass acoustic booth allows resident influencers or store operators to stream directly to TikTok and Shopee Live, converting physical shoppers into online viewers and vice versa.": {
+    "ko": "밀폐형 방음 글래스 부스는 상주 인플루언서 및 매장 운영자가 TikTok 및 Shopee Live로 다이렉트 스트리밍할 수 있도록 지원하며, 오프라인 방문객을 온라인 시청자로, 온라인 시청자를 오프라인 구매자로 상호 전환시킵니다."
+  },
+  "Chapter 03 Franchise Formats • Investment Models": {
+    "ko": "Chapter 03 프랜차이즈 포맷 • 투자 모델"
+  },
+  "Turnkey Store-in-Store vs. Standalone Flagship Matrix": {
+    "ko": "턴키 샵인샵(Store-in-Store) vs. 독립형 플래그십 매트릭스"
+  },
+  "To adapt to various real estate opportunities, SISTAR Mint Colored Shop offers two standardized deployment packages: a 12m&sup2; Store-in-Store (SIS) kiosk module and a 35m&sup2; Standalone High-Street Flagship.": {
+    "ko": "다양한 부동산 상권 기회에 유연하게 대응하기 위해, SISTAR Mint Colored Shop은 12m² 규모의 샵인샵(SIS) 키오스크 모듈과 35m² 규모의 독립형 하이스트리트 플래그십 등 두 가지 표준화된 배포 패키지를 제공합니다."
+  },
+  "Chapter 04 Store Automation • Computer Vision POS": {
+    "ko": "Chapter 04 매장 자동화 • 컴퓨터 비전 POS"
+  },
+  "Storefront Computer Vision & Automated Stock Opname": {
+    "ko": "스토어프론트 컴퓨터 비전 및 자동 재고 실사(Stock Opname)"
+  },
+  "Each shop features an overhead wide-angle AI camera connected directly to Qubit ERP. As micro-sachets are retrieved from display trays, optical inference recalculates remaining stock levels in real time, automatically queueing replenishment orders without manual counting.": {
+    "ko": "각 매장에는 Qubit ERP와 직접 연동된 오버헤드 광각 AI 카메라가 탑재되어 있습니다. 디스플레이 트레이에서 마이크로 샤쉐(micro-sachets)가 반출되는 즉시 광학 추론 엔진이 잔여 재고 수준을 실시간으로 재계산하여 수작업 카운팅 없이 보충 발주를 자동으로 큐잉합니다."
+  },
+  "Zero Nightly Paperwork": {
+    "ko": "야간 마감 수작업 제로(Zero Nightly Paperwork)"
+  },
+  "Franchisees do not need to spend hours after store closing doing manual inventory counts. The computer vision cameras verify physical count to 99.6% accuracy, updating Google Sheets ledgers instantaneously.": {
+    "ko": "가맹점주는 매장 마감 후 수시간 동안 수작업 재고 실사를 수행할 필요가 없습니다. 컴퓨터 비전 카메라는 99.6%의 정확도로 실물 재고를 검증하며, Google Sheets 원장을 즉각적으로 업데이트합니다."
+  },
+  "Frictionless QRIS & Cashless POS": {
+    "ko": "무마찰 QRIS 및 무현금 POS"
+  },
+  "Customers scan a single QRIS code at checkout via GoPay, OVO, ShopeePay, or mobile banking apps. Revenue settles directly into the franchisee bank account with automated royalty clearing.": {
+    "ko": "고객은 결제 시 GoPay, OVO, ShopeePay 또는 모바일 뱅킹 앱을 통해 단일 QRIS 코드를 스캔합니다. 매출은 자동화된 로열티 정산을 거쳐 가맹점주 은행 계좌로 직접 입금 정산됩니다."
+  },
+  "Chapter 05 Unit Economics • Payback Analysis": {
+    "ko": "Chapter 05 유닛 이코노믹스 • 투자 회수 기간 분석"
+  },
+  "Franchise Unit Economics & Fast Payback Equation": {
+    "ko": "프랜차이즈 유닛 이코노믹스 및 래피드 페이백(Fast Payback) 방정식"
+  },
+  "The economic model of the SISTAR Mint Colored Shop is designed for democratized micro-entrepreneurship. Low initial investment combined with multiple revenue channels ensures sustainable, resilient cash flow.": {
+    "ko": "SISTAR Mint Colored Shop의 경제성 모델은 마이크로 창업의 민주화를 실현하도록 설계되었습니다. 낮은 초기 투자 비용과 다각화된 수익 파이프라인의 결합을 통해 지속 가능하고 회복탄력적인 현금 흐름을 보장합니다."
+  },
+  "On an average daily turnover of 1,200 micro-sachets + parcel handling fees + studio rentals, the average monthly net cash profit stands at Rp 28,400,000 (~$1,850 USD) on a $6,500 initial investment, yielding a payback period under 4.5 months.": {
+    "ko": "일평균 1,200개의 마이크로 샤쉐 판매 + 택배 취급 수수료 + 스튜디오 렌탈 수익을 기준으로, $6,500의 초기 투자금 대비 월평균 순현금수익은 Rp 28,400,000(미화 약 $1,850)에 달하여 4.5개월 미만의 투자금 회수 기간(Payback Period)을 달성합니다."
+  },
+  "Chapter 06 Operations Manual • Franchise SOP": {
+    "ko": "Chapter 06 운영 매뉴얼 • 프랜차이즈 SOP"
+  },
+  "Standard Operating Procedures & 3-Day Manager Academy": {
+    "ko": "표준운영절차(SOP) 및 3일 집중 관리자 아카데미"
+  },
+  "To maintain consistent service standards, every franchisee passes through the SISTAR Academy: a 3-day intensive operational boot camp covering POS operations, customer formulation recommendations, live stream technical setup, and sanitation protocols.": {
+    "ko": "균일한 서비스 스탠다드를 유지하기 위해 모든 가맹점주는 SISTAR 아카데미를 필수 이수합니다. 본 과정은 POS 운영, 고객 맞춤형 포뮬레이션 추천, 라이브 스트리밍 테크니컬 셋업 및 위생 프로토콜을 포괄하는 3일간의 집약적 운영 부트캠프입니다."
+  },
+  "POS & Computer Vision": {
+    "ko": "POS & 컴퓨터 비전"
+  },
+  "Hands-on mastery of QRIS payment acceptance, AppSheet daily inventory dashboards, and automated vision cycle counts.": {
+    "ko": "QRIS 결제 승인 프로세스, AppSheet 기반 일일 재고 대시보드 운용 및 비전 기반 자동 순환 재고 실사(Cycle Counts) 완벽 습득."
+  },
+  "Consultative Sales": {
+    "ko": "컨설터티브 세일즈"
+  },
+  "Training on the Auto-Formulator product portfolio, understanding active ingredients, dosages, and safe pet nutrition practices.": {
+    "ko": "Auto-Formulator 제품 포트폴리오 트레이닝, 유효 활성 성분 분석, 적정 용량 가이드 및 안전한 펫 뉴트리션 프랙티스 교육."
+  },
+  "Live Streaming & Community": {
+    "ko": "라이브 스트리밍 & 커뮤니티"
+  },
+  "Operating the glass studio broadcast equipment, hosting interactive TikTok Shop live streams, and managing community pet food donation drives.": {
+    "ko": "글래스 스튜디오 방송 인프라 운용, 인터랙티브 TikTok Shop 라이브 스트림 진행 및 지역 사회 펫 푸드 도네이션 드라이브 관리."
+  },
+  "Chapter 07 Legal Shield • Automated Settlement": {
+    "ko": "Chapter 07 리걸 쉴드 • 자동 정산"
+  },
+  "Franchise Risk Shield & 70/30 Programmatic Royalty Split": {
+    "ko": "프랜차이즈 리스크 쉴드 및 70/30 프로그래머틱 로열티 배분"
+  },
+  "SISTAR Mint Colored Shop agreements operate under a protective legal framework isolating holding intellectual property from local store lease liabilities. All daily revenues are cleared automatically via banking payment gateway webhooks.": {
+    "ko": "SISTAR Mint Colored Shop 계약 체결은 지주사의 지식재산권(IP)을 로컬 매장 임대차 우발채무로부터 완벽히 격리하는 법적 보호 프레임워크 하에 집행됩니다. 매일의 총매출은 뱅킹 결제 게이트웨이 웹훅을 통해 프로그래머틱 방식으로 자동 정산됩니다."
+  },
+  "Every evening at 23:59, the shop's QRIS daily proceeds are programmatically settled: the franchisee receives their net profit share directly into their bank account, while the replenishment cost for consumed stock is routed automatically to the *SC central warehouse, scheduling next-day delivery via the Space Sharing fleet.": {
+    "ko": "매일 밤 23:59 매장의 QRIS 일일 정산금이 프로그래밍에 의해 자동 청산 분배됩니다. 가맹점주는 순수익 배분액을 은행 계좌로 즉시 수취하며, 소진된 재고의 원가 보충액은 *SC 중앙 물류센터로 자동 전송되어 Space Sharing 운송 플릿을 통한 익일 배송 큐가 실행됩니다."
+  },
+  "One Spark, Infinite Galaxifying: SISTAR Mint Colored Shop turns neighborhood retail into high-tech community hubs. Powered by the Qubit Algorithm™, omnichannel micro-stores, and the Biz Galaxy constellation. Franchise Application: https://sistarcompany.com • Head of Retail: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: SISTAR Mint Colored Shop은 골목 상권 리테일을 하이테크 커뮤니티 허브로 혁신합니다. Qubit Algorithm™, 옴니채널 마이크로 스토어, 그리고 Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. 가맹 신청: https://sistarcompany.com • 리테일 총괄 디렉터: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Retail Node • Signature Mint Concept": {
+    "ko": "리테일 노드 • 시그니처 민트 콘셉트"
+  },
+  "The Micro-Franchise Revolution: High Revenue Per Square Meter": {
+    "ko": "마이크로 프랜차이즈 혁신: 단위 면적당 고수익 창출"
+  },
+  "Traditional retail stores fail under massive rent burdens, slow inventory turnover, and heavy staffing payrolls. The SISTAR Mint Colored Shop re-engineers modern retail: automated self-service micro-sachet dispensers, single-staff operations, integrated neighborhood parcel staging, and live streaming creator booths achieve break-even within 4.5 months.": {
+    "ko": "전통적인 오프라인 리테일 매장은 과도한 임대료 부담, 저조한 재고 회전율, 고정 인건비 가중으로 인해 한계에 직면하고 있습니다. SISTAR 민트 컬러 숍은 현대 리테일의 메커니즘을 혁신적으로 재설계합니다. 자동화된 셀프서비스 마이크로 파우치 디스펜서, 1인 운영 체제, 지역 밀착형 택배 거점 통합, 라이브 스트리밍 크리에이터 부스를 결합하여 4.5개월 만에 손익분기점(BEP)을 달성합니다."
+  },
+  "Spatial Architecture • 4-Zone Floor Plan": {
+    "ko": "공간 아키텍처 • 4개 구역 평면 설계"
+  },
+  "Franchise Formats • Investment Models": {
+    "ko": "가맹 포맷 • 투자 모델"
+  },
+  "Franchise Specification": {
+    "ko": "프랜차이즈 세부 사양"
+  },
+  "Format A: Store-in-Store Kiosk (12m&sup2;)": {
+    "ko": "포맷 A: 숍인숍 키오스크 (12m&sup2;)"
+  },
+  "Format B: Standalone Flagship (35m&sup2;)": {
+    "ko": "포맷 B: 독립형 플래그십 (35m&sup2;)"
+  },
+  "Franchisee Economic Advantage": {
+    "ko": "가맹점 경제적 우위"
+  },
+  "Target Location": {
+    "ko": "목표 입지"
+  },
+  "Inside existing malls, supermarkets, clinics": {
+    "ko": "기존 대형몰, 슈퍼마켓, 클리닉(병·의원) 내부"
+  },
+  "High-street commercial corner, campus hubs": {
+    "ko": "핵심 상권 코너, 대학가 거점 허브"
+  },
+  "Flexible spatial adaptation": {
+    "ko": "유연한 공간 최적화 적응성"
+  },
+  "Initial Turnkey Setup CAPEX": {
+    "ko": "초기 턴키 구축 자본적 지출(CAPEX)"
+  },
+  "$6,500 (IDR ~100M)": {
+    "ko": "$6,500 (약 1억 IDR)"
+  },
+  "$14,500 (IDR ~225M)": {
+    "ko": "$14,500 (약 2억 2,500만 IDR)"
+  },
+  "65% cheaper than traditional QSR franchise": {
+    "ko": "기존 QSR 프랜차이즈 대비 65% 절감"
+  },
+  "Staffing Requirement": {
+    "ko": "운영 인력 요건"
+  },
+  "1 Operator per shift": {
+    "ko": "시프트당 운영 인력 1인"
+  },
+  "1 Store Manager + 1 Streamer / Barista": {
+    "ko": "점장 1인 + 스트리머 / 바리스타 1인"
+  },
+  "Minimal fixed labor expense": {
+    "ko": "고정 인건비 최소화"
+  },
+  "Inventory Restock Protocol": {
+    "ko": "재고 보충 프로토콜"
+  },
+  "Weekly via Space Sharing delivery van": {
+    "ko": "공간 공유 배송 밴을 통한 주간 정기 입고"
+  },
+  "Twice weekly consolidated delivery": {
+    "ko": "주 2회 통합 물류 배송"
+  },
+  "Zero safety-stock capital lockup": {
+    "ko": "안전 재고로 인한 자본 잠식 제로화"
+  },
+  "Projected Monthly Net Profit": {
+    "ko": "예상 월 순이익"
+  },
+  "Rapid cash payback within 4 to 6 months": {
+    "ko": "4~6개월 이내 신속한 현금 투자 회수"
+  },
+  "Store Automation • Computer Vision POS": {
+    "ko": "매장 자동화 • 컴퓨터 비전 POS"
+  },
+  "Unit Economics • Payback Analysis": {
+    "ko": "유닛 이코노믹스 • 투자 회수 분석"
+  },
+  "P&L Item": {
+    "ko": "손익(P&L) 항목"
+  },
+  "Monthly Volume / Basis": {
+    "ko": "월간 처리량 / 산출 기준"
+  },
+  "Monthly IDR": {
+    "ko": "월간 IDR 기준"
+  },
+  "USD Equivalent": {
+    "ko": "USD 환산액"
+  },
+  "Micro-Sachet Retail Sales (Rp 1,320)": {
+    "ko": "마이크로 사셰 소매 매출 (Rp 1,320)"
+  },
+  "28,000 sachets / month": {
+    "ko": "월 28,000포"
+  },
+  "12,000 sachets / month": {
+    "ko": "월 12,000포"
+  },
+  "Parcel Cross-Docking Handling Fees": {
+    "ko": "택배 크로스도킹 핸들링 수수료"
+  },
+  "2,500 packages @ Rp 2,000 fee": {
+    "ko": "2,500건 @ 수수료 Rp 2,000"
+  },
+  "Live Streaming Booth Rental Fees": {
+    "ko": "라이브 스트리밍 부스 대여료"
+  },
+  "60 hours / month @ Rp 100,000 / hr": {
+    "ko": "월 60시간 @ 시간당 Rp 100,000"
+  },
+  "Gross Monthly Store Revenue": {
+    "ko": "매장 월간 총매출 (Gross Revenue)"
+  },
+  "Combined Multi-Stream": {
+    "ko": "다각화 파이프라인 합산"
+  },
+  "Cost of Goods Sold (COGS)": {
+    "ko": "매출원가 (COGS)"
+  },
+  "Wholesale replenishment orders": {
+    "ko": "도매 재고 보충 발주"
+  },
+  "Store Rent & Utilities": {
+    "ko": "매장 임차료 및 공과금"
+  },
+  "Compact 15m&sup2; commercial space": {
+    "ko": "15m&sup2; 콤팩트 상업 공간"
+  },
+  "Single Operator Living Wage": {
+    "ko": "1인 운영자 생활임금"
+  },
+  "Full-time store manager salary": {
+    "ko": "전임 매장 관리자 급여"
+  },
+  "*SC Platform Tech & Royalty Toll (6%)": {
+    "ko": "*SC 플랫폼 테크 및 로열티 수수료 (6%)"
+  },
+  "Qubit ERP & Brand License Fee": {
+    "ko": "Qubit ERP 및 브랜드 라이선스 비용"
+  },
+  "Net Franchisee Take-Home Profit": {
+    "ko": "가맹점주 실수령 순이익"
+  },
+  "Monthly Free Cash Flow": {
+    "ko": "월간 잉여현금흐름(FCF)"
+  },
+  "+ $1,654 / Month": {
+    "ko": "+ $1,654 / 월"
+  },
+  "Operations Manual • Franchise SOP": {
+    "ko": "운영 매뉴얼 • 프랜차이즈 SOP"
+  },
+  "Legal Shield • Automated Settlement": {
+    "ko": "법적 보호 체계(Legal Shield) • 자동 정산 시스템"
+  },
+  "Chapter 01 Wellness Franchise • Suu Concept Core": {
+    "ko": "제01장 웰니스 프랜차이즈 • Suu 콘셉트 코어"
+  },
+  "*SC - Suu: Fast-Casual Functional Wellness & Lifestyle Hub": {
+    "ko": "*SC - Suu: 패스트 캐주얼 기능성 웰니스 & 라이프스타일 허브"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Suu is our next-generation fast-casual wellness franchise. Designed with a clean, Scandinavian-Asian aesthetic, Suu specializes in adaptogenic teas, marine collagen refreshers, and cellular hydration elixirs made fresh in seconds using proprietary Auto-Formulator micro-sachet booster packs. It delivers clinical-grade nutrition in an accessible, viral grab-and-go format.": {
+    "ko": "*SC Layer 4 생태계 아레나(Biz-Hub) 내에서, Suu는 당사의 차세대 패스트 캐주얼 웰니스 프랜차이즈입니다. 정갈한 스칸디나비안-아시안 미학으로 설계된 Suu는 독자적인 Auto-Formulator 마이크로 사셰 부스터 팩을 활용하여 단 수초 만에 제조되는 어댑토젠 티, 마린 콜라겐 리프레셔, 세포 수분 공급 엘릭서를 전문으로 합니다. 높은 접근성과 바이럴 잠재력을 갖춘 그랩앤고(Grab-and-Go) 포맷을 통해 임상 등급의 영양을 공급합니다."
+  },
+  "Gross Margin on Functional Beverage Menu Items": {
+    "ko": "기능성 음료 메뉴 품목 매출총이익률(Gross Margin)"
+  },
+  "Average Drink Preparation & Dispensing Time": {
+    "ko": "음료 평균 제조 및 디스펜싱 시간"
+  },
+  "Perishable Active Ingredient Spoilage Loss": {
+    "ko": "부패성 활성 성분 변질 손실률"
+  },
+  "Ultra-Compact High-Yield Kiosk Footprint": {
+    "ko": "초소형 고수익 키오스크 공간 점유 면적(Footprint)"
+  },
+  "Urban consumers increasingly reject sugary, artificial bubble teas and energy drinks, demanding clean-label functional nutrition that enhances cognitive focus, skin glow, and gut vitality. Suu meets this surging demand with transparent formulation matrices, QR-verifiable lab testing, and affordable daily price points.": {
+    "ko": "도시 소비자들은 당도가 높고 인공적인 버블티와 에너지 드링크를 점차 기피하고, 인지 집중력, 피부 광채, 장 활력을 증진시키는 클린 라벨 기능성 뉴트리션을 요구하고 있습니다. Suu는 투명한 포뮬레이션 매트릭스, QR 검증 가능한 랩 테스트, 합리적인 데일리 프라이스 포인트를 통해 이러한 급증하는 수요를 충족합니다."
+  },
+  "Chapter 02 Store Architecture • Micro-Kitchen Design": {
+    "ko": "제02장 매장 아키텍처 • 마이크로 키친 설계"
+  },
+  "Modular Grab-and-Go Kiosk: Spatial Micro-Kitchen Topology": {
+    "ko": "모듈형 그랩앤고 키오스크: 공간적 마이크로 키친 토폴로지"
+  },
+  "Suu kiosks are pre-fabricated modular units engineered for rapid 48-hour installation inside office towers, shopping malls, university campuses, and transit stations. The entire drink creation line requires no grease trap, commercial hood, or complex plumbing.": {
+    "ko": "Suu 키오스크는 오피스 타워, 쇼핑몰, 대학 캠퍼스 및 환승 역사 내에 48시간 이내 신속 설치가 가능하도록 엔지니어링된 조립식 모듈 유닛입니다. 음료 제조 라인 전반에 그리스 트랩, 상업용 후드, 복잡한 배관 설비가 전혀 요구되지 않습니다."
+  },
+  "Zero Heavy Machinery": {
+    "ko": "중장비 설비 제로화(Zero Heavy Machinery)"
+  },
+  "Operating with acoustic blenders, chilled filtered beverage taps, and precision sachet openers keeps total kiosk electrical consumption under 2.5 kW, dramatically reducing utility overhead.": {
+    "ko": "저소음 블렌더, 냉각 여과 음료 탭, 정밀 사셰 오프너로 구동되어 키오스크 총 전력 소비량을 2.5kW 미만으로 유지함으로써 유틸리티 간접비를 획기적으로 절감합니다."
+  },
+  "Closed-Loop Clean-in-Place": {
+    "ko": "폐쇄형 제자리 세척(Closed-Loop Clean-in-Place)"
+  },
+  "All liquid lines undergo automated 60-second CIP hot water flushes between orders, ensuring zero allergen cross-contamination between dairy-free and botanical drinks.": {
+    "ko": "모든 액상 라인은 주문 간 60초 자동 CIP 온수 플러싱을 거쳐, 유제품 미함유 음료와 보태니컬 음료 간의 알레르겐 교차 오염을 완벽히 차단합니다."
+  },
+  "Plug-and-Play Mobility": {
+    "ko": "플러그 앤 플레이 기동성(Plug-and-Play Mobility)"
+  },
+  "The self-contained stainless steel kiosk chassis can be relocated on casters in less than 4 hours, allowing franchisees to chase seasonal festival foot traffic or renegotiate leases flexibly.": {
+    "ko": "독립형 스테인리스 스틸 키오스크 섀시는 캐스터를 통해 4시간 이내에 이전 재배치가 가능하여, 가맹점주가 계절별 축제 유동 인구를 공략하거나 임대 계약을 유연하게 재협상할 수 있도록 지원합니다."
+  },
+  "Chapter 03 Menu Engineering • Active Boosters": {
+    "ko": "제03장 메뉴 엔지니어링 • 액티브 부스터"
+  },
+  "The Functional Booster & Micro-Sachet Infusion Matrix": {
+    "ko": "기능성 부스터 & 마이크로 사셰 인퓨전 매트릭스"
+  },
+  "Customers customize their base beverage (Sparkling Spring Water, Ceremonial Uji Matcha, or Cold Brew Earl Grey) by choosing one of four targeted active booster micro-sachets produced by the *SC Auto-Formulator.": {
+    "ko": "고객은 *SC Auto-Formulator가 제조한 4종의 타깃형 액티브 부스터 마이크로 사셰 중 하나를 선택하여 베이스 음료(스파클링 스프링 워터, 세레모니얼 우지 말차, 콜드브루 얼그레이)를 맞춤형으로 커스터마이징합니다."
+  },
+  "Chapter 04 Optical QA • Automated Ledger": {
+    "ko": "제04장 광학 QA • 자동화 원장(Automated Ledger)"
+  },
+  "Optical Recipe Verification & CCTV Stock Opname": {
+    "ko": "광학 레시피 검증 & CCTV 재고 실사(Stock Opname)"
+  },
+  "To guarantee standard recipe compliance and prevent operator inventory theft, an optical sensor above the preparation counter scans the QR barcode of every booster sachet before it is emptied into the cup, cross-referencing against the customer's POS receipt.": {
+    "ko": "표준 레시피 준수를 보장하고 운영자의 재고 횡령을 방지하기 위해, 제조 카운터 상단의 광학 센서가 컵에 내용물을 투입하기 전 모든 부스터 사셰의 QR 바코드를 스캔하여 고객의 POS 영수증 데이터와 교차 대조합니다."
+  },
+  "Exact Clinical Dosing": {
+    "ko": "정밀 임상 정량 투여(Exact Clinical Dosing)"
+  },
+  "Customers know with 100% certainty that every drink contains the exact labeled milligrams of marine collagen or nootropics. Baristas cannot alter formulations or forget active ingredients.": {
+    "ko": "고객은 모든 음료에 라벨에 표기된 정확한 밀리그램(mg) 단위의 마린 콜라겐 또는 노오트로픽이 함유되어 있음을 100% 확신할 수 있습니다. 바리스타가 포뮬레이션을 임의로 변경하거나 활성 성분을 누락하는 오류가 원천 차단됩니다."
+  },
+  "Automated Spoilage Audit": {
+    "ko": "자동화된 원자재 폐기 손실 감사"
+  },
+  "Because active compounds stay preserved in nitrogen foil pouches until the moment of consumption, raw material shelf life extends to 24 months with zero spoilage write-downs.": {
+    "ko": "활성 화합물이 소비 직전까지 질소 충전 포일 파우치에 완벽히 보존되므로, 원자재 유통기한이 24개월까지 연장되어 폐기 손실 상각(spoilage write-downs) 제로를 실현합니다."
+  },
+  "Chapter 05 Unit Economics • High-Margin Stack": {
+    "ko": "제05장 단위 경제학(Unit Economics) • 고마진 구조"
+  },
+  "Suu Unit Economics: The 82% Gross Margin Advantage": {
+    "ko": "Suu 단위 경제학: 82% 매출총이익률(Gross Margin)의 전략적 우위"
+  },
+  "While conventional coffee and smoothie shops struggle with 55% to 65% gross margins due to expensive dairy and fruit waste, Suu's dry booster sachet architecture delivers industry-leading 82.4% product margins.": {
+    "ko": "기존 커피 및 스무디 매장이 고비용 유제품과 신선 과일 폐기로 인해 55%~65% 수준의 매출총이익률에 머무는 반면, Suu의 건식 부스터 사셰(sachet) 아키텍처는 업계 최고 수준인 82.4%의 제품 마진을 달성합니다."
+  },
+  "Total COGS for a premium 16oz Collagen Sparkling Drink is only Rp 4,900 (~$0.32 USD), sold at Rp 28,000 (~$1.83 USD), generating Rp 23,100 net contribution per cup.": {
+    "ko": "프리미엄 16oz 콜라겐 스파클링 음료의 총 매출원가(COGS)는 단 4,900루피아(약 0.32달러)에 불과하며, 판매가 28,000루피아(약 1.83달러) 기준 잔당 23,100루피아의 순공헌이익을 창출합니다."
+  },
+  "Chapter 06 Franchise Offering • Turnkey Kiosk": {
+    "ko": "제06장 프랜차이즈 오퍼링 • 턴키 키오스크"
+  },
+  "Turnkey Franchise Package & Accelerated Setup": {
+    "ko": "턴키 프랜차이즈 패키지 및 셋업 가속화 체계"
+  },
+  "Suu offers ambitious entrepreneurs an end-to-end turnkey business in a box: pre-built stainless steel kiosk, automated countertop POS, initial booster sachet inventory, and comprehensive barista training.": {
+    "ko": "Suu는 도전적인 창업가를 위해 규격화된 스테인리스 스틸 키오스크, 카운터탑 자동화 POS, 초기 부스터 사셰 재고, 포괄적 바리스타 교육을 아우르는 엔드투엔드(End-to-End) 턴키 '비즈니스 인 어 박스(Business in a Box)' 솔루션을 제공합니다."
+  },
+  "Pre-Engineered Kiosk": {
+    "ko": "사전 엔지니어링 모듈러 키오스크(Pre-Engineered Kiosk)"
+  },
+  "Includes integrated stainless steel counters, acoustic vortex mixers, under-counter chilled carbonation dispenser, and high-definition customer touchscreen display.": {
+    "ko": "일체형 스테인리스 스틸 카운터, 음향 와류 믹서(acoustic vortex mixers), 언더카운터 냉각 탄산 디스펜서 및 초고화질 고객 접점 터치스크린 디스플레이를 완비하고 있습니다."
+  },
+  "3,000 Sachet Buffer": {
+    "ko": "3,000개 사셰 초기 버퍼 재고"
+  },
+  "Comes fully stocked with 3,000 functional booster sachets across all four core lines, providing immediate revenue generation on opening day without initial restock purchases.": {
+    "ko": "4대 핵심 라인업 전반에 걸친 3,000개의 기능성 부스터 사셰가 기본 입고되어, 오픈 첫날 추가 재고 발주 없이 즉각적인 매출 창출이 가능합니다."
+  },
+  "Qubit ERP License": {
+    "ko": "Qubit ERP 라이선스"
+  },
+  "Full access to automated vision inventory auditing, Google Workspace dashboards, WhatsApp customer loyalty CRM, and real-time sales reporting.": {
+    "ko": "비전 AI 기반 자동 재고 실사, Google Workspace 대시보드, WhatsApp 고객 로열티 CRM 및 실시간 매출 리포팅에 대한 완전한 액세스 권한을 부여합니다."
+  },
+  "Chapter 07 Legal Architecture • Settlement Security": {
+    "ko": "제07장 법률 아키텍처 • 정산 보안성"
+  },
+  "Halal/BPOM Certification & 70/30 Automated Settlement": {
+    "ko": "할랄/BPOM 인증 및 70/30 자동 정산 체계"
+  },
+  "All raw functional ingredients utilized in Suu boosters are certified 100% Halal by BPJPH and fully registered with Indonesian BPOM. Daily sales settle through banking webhooks to protect franchisee profits.": {
+    "ko": "Suu 부스터에 사용되는 모든 기능성 원자재는 BPJPH를 통해 100% 할랄(Halal) 인증을 획득하고 인도네시아 BPOM 등록을 완료했습니다. 일일 매출은 뱅킹 웹훅(webhook)을 통해 자동 정산되어 가맹점주의 수익을 철저히 보호합니다."
+  },
+  "QRIS payments received at each Suu kiosk settle automatically at midnight: 70% of gross proceeds is disbursed directly into the franchisee's local business checking account, while 30% is swept to cover raw ingredient replenishment batches and the 6% brand platform software royalty.": {
+    "ko": "각 Suu 키오스크에서 결제된 QRIS 매출은 자정에 자동 정산됩니다. 총매출의 70%는 가맹점주의 현지 법인 당좌 계좌로 직접 지급되며, 30%는 원자재 재충전 배치 비용 및 6%의 브랜드 플랫폼 소프트웨어 로열티 정산을 위해 자동 스위프(sweep) 처리됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Suu brings functional cellular wellness to everyday high-street consumers. Powered by the Qubit Algorithm™, clean micro-sachets, and the Biz Galaxy constellation. Franchise Application: https://sistarcompany.com • Wellness Directorate: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Suu는 일상 속 하이스트리트 소비자에게 기능성 세포 웰니스를 공급합니다. Qubit Algorithm™, 클린 마이크로 사셰, Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. 가맹 신청: https://sistarcompany.com • 웰니스 디렉터레이트: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Wellness Franchise • Suu Concept Core": {
+    "ko": "웰니스 프랜차이즈 • Suu 핵심 콘셉트"
+  },
+  "The Fast-Casual Wellness Doctrine: Zero Food Waste, 82% Gross Margins": {
+    "ko": "패스트 캐주얼 웰니스 독트린: 음식물 폐기물 제로, 82% 매출총이익률"
+  },
+  "Traditional cafes suffer from massive perishable milk and fresh fruit spoilage, expensive espresso machine maintenance, and high barista turnover. Suu eliminates perishable prep waste by delivering all functional active compounds in pre-measured, nitrogen-sealed micro-sachets dissolved on demand into sparkling water, oat milk, or ceremonial teas.": {
+    "ko": "전통적인 카페는 변질되기 쉬운 우유 및 신선 과일의 대규모 폐기 손실, 고비용 에스프레소 머신 유지보수, 높은 바리스타 이직률로 어려움을 겪습니다. Suu는 정량화된 질소 밀봉 마이크로 사셰에 모든 기능성 활성 화합물을 담아 탄산수, 오트 밀크, 세레모니얼 티에 온디맨드로 용해하는 방식으로 식자재 전처리 폐기를 원천 제거합니다."
+  },
+  "Store Architecture • Micro-Kitchen Design": {
+    "ko": "매장 아키텍처 • 마이크로 키친 설계"
+  },
+  "Menu Engineering • Active Boosters": {
+    "ko": "메뉴 엔지니어링 • 액티브 부스터"
+  },
+  "Booster SKU": {
+    "ko": "부스터 SKU"
+  },
+  "Active Functional Ingredients": {
+    "ko": "기능성 유효성분"
+  },
+  "Target Physiological Benefit": {
+    "ko": "목표 생리학적 효능"
+  },
+  "Formulation Format": {
+    "ko": "포뮬레이션 제형"
+  },
+  "Consumer Add-On Price": {
+    "ko": "소비자 옵션 추가 가격"
+  },
+  "Suu Glow (Collagen Shot)": {
+    "ko": "Suu Glow (콜라겐 샷)"
+  },
+  "5,000mg Marine Collagen + Hyaluronic Acid + Vit C": {
+    "ko": "5,000mg 마린 콜라겐 + 히알루론산 + 비타민 C"
+  },
+  "Skin hydration, dermal elasticity, UV photo-repair": {
+    "ko": "피부 수분 공급, 진피 탄력 개선, 자외선 광손상 복구"
+  },
+  "4.2g Micro-Sachet Powder": {
+    "ko": "4.2g 마이크로 사셰 분말"
+  },
+  "Suu Focus (Nootropic Elixir)": {
+    "ko": "Suu Focus (노오트로픽 엘릭서)"
+  },
+  "L-Theanine + Lion's Mane Extract + Magnesium Bisglycinate": {
+    "ko": "L-테아닌 + 노루궁뎅이버섯 추출물 + 마그네슘 비스글리시네이트"
+  },
+  "Sustained alpha-wave focus without caffeine jitters": {
+    "ko": "카페인 각성 부작용 없는 지속적인 알파파 집중력"
+  },
+  "3.8g Micro-Sachet Powder": {
+    "ko": "3.8g 마이크로 사셰 분말"
+  },
+  "Suu Shield (Immuno-Biome)": {
+    "ko": "Suu Shield (이뮤노-바이옴)"
+  },
+  "Prebiotic Inulin + Elderberry Extract + Zinc Chelate": {
+    "ko": "프리바이오틱 이눌린 + 엘더베리 추출물 + 아연 킬레이트"
+  },
+  "Microbiome gut defense, digestive soothing": {
+    "ko": "장내 마이크로바이옴 면역 방어, 소화기 안정화"
+  },
+  "5.0g Soluble Fiber Blend": {
+    "ko": "5.0g 수용성 섬유질 블렌드"
+  },
+  "Suu Cleanse (Electrolyte Green)": {
+    "ko": "Suu Cleanse (전해질 그린)"
+  },
+  "Chlorophyllin + Himalayan Salt + Organic Coconut Water": {
+    "ko": "클로로필린 + 히말라야 솔트 + 유기농 코코넛 워터"
+  },
+  "Rapid intra-cellular rehydration, hangover relief": {
+    "ko": "신속한 세포 내 수분 재충전, 숙취 해소"
+  },
+  "4.5g Instant Micro-Dissolve": {
+    "ko": "4.5g 즉각 미세용해 분말"
+  },
+  "Optical QA • Automated Ledger": {
+    "ko": "광학 QA • 자동화 원장"
+  },
+  "Unit Economics • High-Margin Stack": {
+    "ko": "유닛 이코노믹스 • 고마진 스택"
+  },
+  "Beverage Component": {
+    "ko": "음료 구성 요소"
+  },
+  "Cost (IDR)": {
+    "ko": "원가 (IDR)"
+  },
+  "Supply Chain Origin": {
+    "ko": "공급망 원천"
+  },
+  "Chilled Filtered Base (Sparkling/Tea)": {
+    "ko": "냉각 여과 베이스 (스파클링/티)"
+  },
+  "On-site commercial filtration + CO2 carbonation system.": {
+    "ko": "현장 상업용 정수 필터레이션 + CO2 탄산 주입 시스템."
+  },
+  "Functional Micro-Sachet Booster": {
+    "ko": "기능성 마이크로 사셰 부스터"
+  },
+  "Supplied via *SC Auto-Formulator cleanroom production facility.": {
+    "ko": "*SC Auto-Formulator 클린룸 제조 설비를 통해 공급."
+  },
+  "Compostable PLA Cup, Lid & Straw": {
+    "ko": "생분해성 PLA 컵, 리드 및 스트로우"
+  },
+  "Eco-friendly corn-starch polymer sourced via SCV manufacturing hub.": {
+    "ko": "SCV 제조 허브를 통해 조달된 친환경 옥수수 전분 폴리머."
+  },
+  "Total Direct Beverage COGS": {
+    "ko": "음료 직접 매출원가(Direct COGS) 총계"
+  },
+  "82.5% Gross Product Margin": {
+    "ko": "제품 매출총이익률 82.5%"
+  },
+  "Retail Selling Price": {
+    "ko": "소비자 권장 판매가(RSP)"
+  },
+  "Competitive with mainstream bubble tea, with 10x health value.": {
+    "ko": "주류 버블티 대비 우수한 가격 경쟁력 및 10배의 헬스 밸류 제공."
+  },
+  "Franchise Offering • Turnkey Kiosk": {
+    "ko": "프랜차이즈 오퍼링 • 턴키 키오스크"
+  },
+  "Legal Architecture • Settlement Security": {
+    "ko": "법률 아키텍처 • 정산 보안성"
+  },
+  "Chapter 01 Pet Lifestyle • Iruka Concept Core": {
+    "ko": "제01장 반려동물 라이프스타일 • 이루카(Iruka) 컨셉 코어"
+  },
+  "*SC - Iruka Is Back: Experiential Pet Wellness & Community Care Hub": {
+    "ko": "*SC - Iruka Is Back: 체험형 펫 웰니스 및 커뮤니티 케어 허브"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Iruka Is Back reimagines companion animal retail and healthcare. It integrates stress-free grooming suites, routine veterinary wellness triage, an experiential nutrition tasting bar, and community shelter adoption hubs into an upscale, welcoming neighborhood sanctuary. Powered by the PetFood Bank Re:D circular supply chain, it unites pet parents in shared animal welfare.": {
+    "ko": "*SC Layer 4 에코시스템 아레나(Biz-Hub) 내에서 Iruka Is Back은 반려동물 리테일과 헬스케어의 패러다임을 재정의합니다. 스트레스 프리 그루밍 스위트, 일상적 수의 웰니스 트리아지, 체험형 뉴트리션 테이스팅 바, 커뮤니티 보호소 입양 허브를 고급스럽고 친근한 근린형 생크추어리로 통합합니다. PetFood Bank Re:D 순환형 공급망을 기반으로 반려인들을 동반자적 동물 복지 가치 아래 결집시킵니다."
+  },
+  "Blended Gross Margin on Spa & Wellness Services": {
+    "ko": "스파 및 웰니스 서비스 복합 매출총이익률(Blended Gross Margin)"
+  },
+  "Monthly Recurring Membership Retention Rate": {
+    "ko": "월간 반복 멤버십 유지율(Retention Rate)"
+  },
+  "Franchise Turnkey Capital Payback Window": {
+    "ko": "프랜차이즈 턴키 투자 자본 회수 기간(Payback Window)"
+  },
+  "Fear-Free Certified Pet Handling Protocol": {
+    "ko": "Fear-Free 인증 반려동물 케어 프로토콜"
+  },
+  "In major Southeast Asian urban hubs, the humanization of pets has created a multi-billion dollar wellness market. Companion owners view pets as family members, seeking out clean, odor-free environments with verified ingredient nutrition, skilled grooming, and compassionate preventive healthcare.": {
+    "ko": "동남아시아 주요 거점 도시에서 반려동물의 인간화(Pet Humanization) 트렌드는 수십억 달러 규모의 웰니스 시장을 창출했습니다. 반려인들은 반려동물을 가족 구성원으로 인식하며, 검증된 원료 기반의 뉴트리션, 숙련된 그루밍, 세심한 예방 헬스케어가 보장되는 청결하고 악취 없는 환경을 적극적으로 모색하고 있습니다."
+  },
+  "Chapter 02 Store Architecture • 4-Zone Sanctuary": {
+    "ko": "제02장 매장 아키텍처 • 4대 존 생크추어리"
+  },
+  "Integrated Clinic-Salon Spatial Topology & Experience Zones": {
+    "ko": "통합 클리닉-살롱 공간 토폴로지 및 익스피리언스 존"
+  },
+  "Iruka Is Back facilities are designed with separate feline and canine stress-isolation corridors, medical-grade negative-air ventilation systems to eliminate odors, and sound-dampened acoustic grooming rooms.": {
+    "ko": "Iruka Is Back 시설은 반려묘와 반려견을 위한 독립형 스트레스 격리 동선, 악취를 근본적으로 차단하는 의료 등급 음압 환기 시스템, 방음 설계가 적용된 어쿠스틱 그루밍 룸으로 설계되었습니다."
+  },
+  "Medical-Grade Air Filtration": {
+    "ko": "의료 등급 공기 여과 시스템"
+  },
+  "Continuous UV germicidal lamps and positive-pressure ventilation cycle store air 12 times per hour, guaranteeing zero clinical smell and eliminating airborne kennel cough transmission.": {
+    "ko": "지속적인 UV 살균 램프와 양압 환기 시스템이 시간당 12회 실내 공기를 순환시켜 원내 특유의 냄새를 원천 차단하고 공기 매개 켄넬코프 감염을 박멸합니다."
+  },
+  "Live Webcam Streaming": {
+    "ko": "라이브 웹캠 스트리밍"
+  },
+  "Pet parents watch their companions throughout the entire grooming or veterinary examination via private live video streams on the Iruka mobile web app, fostering complete trust.": {
+    "ko": "반려인은 Iruka 모바일 웹 앱의 보안 라이브 비디오 스트리밍을 통해 그루밍 및 수의 진료 전 과정을 실시간 모니터링하여 완벽한 신뢰를 형성합니다."
+  },
+  "PetFood Bank Integration": {
+    "ko": "PetFood Bank 통합 연계"
+  },
+  "Every shop features an official drop-off donation station for PetFood Bank Re:D, turning regular grooming customers into monthly contributors to local stray animal rescue funds.": {
+    "ko": "모든 매장에는 PetFood Bank Re:D 공식 기부 스테이션이 구비되어, 정기 그루밍 고객을 지역 유기동물 구조 펀드의 월간 후원자로 자연스럽게 전환시킵니다."
+  },
+  "Chapter 03 Service Engineering • Pricing Matrix": {
+    "ko": "제03장 서비스 엔지니어링 • 프라이싱 매트릭스"
+  },
+  "Companion Health Triage & High-Margin Service Matrix": {
+    "ko": "반려동물 헬스 트리아지 및 고마진 서비스 매트릭스"
+  },
+  "Iruka Is Back blends recurring monthly wellness memberships with modular a la carte grooming and medical services. This structure balances predictable monthly recurring revenue (MRR) with high-ticket medical and spa upsells.": {
+    "ko": "Iruka Is Back은 정기 월간 웰니스 멤버십과 모듈형 알라카르트(A La Carte) 그루밍 및 의료 서비스를 결합합니다. 이러한 구조는 예측 가능한 월간 반복 매출(MRR)과 고단가 의료 및 스파 업셀링 간의 최적화된 균형을 확보합니다."
+  },
+  "Chapter 04 Computer Vision • Optical Health Triage": {
+    "ko": "제04장 컴퓨터 비전 • 광학 헬스 트리아제(Triage)"
+  },
+  "Computer Vision Weight & Gait Analysis During Intake": {
+    "ko": "입실 단계 컴퓨터 비전 기반 체중 및 보행(Gait) 분석"
+  },
+  "When a companion enters the Iruka intake lounge, overhead vision cameras automatically estimate body weight and analyze walking gait, identifying subtle limping or joint stiffness before the owner even describes symptoms to the staff.": {
+    "ko": "반려동물이 이루카(Iruka) 인테이크 라운지에 들어서면, 천장에 장착된 오버헤드 비전 카메라가 체중을 자동 추정하고 보행 상태를 정밀 분석하여 보호자가 직원에게 증상을 설명하기도 전에 미세한 파행(절뚝거림)이나 관절 강직을 사전에 식별합니다."
+  },
+  "Preventive Hip Dysplasia Detection": {
+    "ko": "고관절 이형성증 예방 감지"
+  },
+  "By comparing monthly walking stride symmetry across visits, the system detects early onset hip or patellar subluxation months before visible lameness occurs, allowing non-surgical nutritional interventions.": {
+    "ko": "방문 시마다 축적되는 월별 보행 스트라이드 대칭성을 교차 비교함으로써, 시스템은 육안상 파행이 발생하기 수개월 전에 고관절 또는 슬개골 아탈구의 초기 발현을 감지하여 비수술적 영양학적 조기 개입을 가능하게 합니다."
+  },
+  "Digital Lifetime Health Card": {
+    "ko": "디지털 라이프타임 헬스 카드"
+  },
+  "All weight records, vaccination dates, grooming photos, and vet notes synchronize into a mobile-friendly Google Workspace health passport that owners can present at any airline or boarding facility.": {
+    "ko": "모든 체중 기록, 예방접종 이력, 미용 사진 및 수의학적 소견은 모바일 최적화 Google Workspace 헬스 패스포트로 동기화되어 보호자가 항공사나 위탁 시설 어디서든 즉각 제시할 수 있습니다."
+  },
+  "Chapter 05 Unit Economics • Service Margins": {
+    "ko": "제05장 유닛 이코노믹스(Unit Economics) • 서비스 마진"
+  },
+  "Iruka Is Back Unit Economics: High Service Yield Architecture": {
+    "ko": "Iruka Is Back 유닛 이코노믹스: 고수익 서비스 일드 아키텍처"
+  },
+  "Because service businesses enjoy negligible inventory spoilage, Iruka Is Back centers its profitability on grooming labor utilization and recurring monthly nutrition delivery clubs.": {
+    "ko": "서비스 비즈니스는 재고 폐기 손실이 거의 없기 때문에, Iruka Is Back은 그루밍 노동 생산성 가동률과 매월 반복되는 뉴트리션 정기 배송 클럽을 중심으로 수익성을 극대화합니다."
+  },
+  "On an average volume of 450 grooms/month, 180 vet triages, and 220 active nutrition subscribers, an Iruka location nets Rp 48,600,000 (~$3,175 USD) per month on an initial $16,500 turnkey buildout, achieving full capital payback in just 5.2 months.": {
+    "ko": "월평균 450건의 그루밍, 180건의 수의학적 트리아제, 220명의 활성 뉴트리션 정기 구독자를 기준으로, 이루카 지점은 초기 16,500달러의 턴키 구축 비용 대비 월 48,600,000루피아(약 3,175달러)의 순이익을 달성하며 단 5.2개월 만에 투자 원금 전액 회수(Payback)를 달성합니다."
+  },
+  "Chapter 06 SOP Standards • Ethical Handling": {
+    "ko": "제06장 표준운영절차(SOP) 기준 • 윤리적 핸들링"
+  },
+  "Fear-Free Handling Certification & Veterinary Standards": {
+    "ko": "피어프리(Fear-Free) 핸들링 인증 및 수의학적 기준"
+  },
+  "Every groomer and clinic assistant at Iruka Is Back completes a mandatory 14-day Fear-Free Certified Pet Handling curriculum. Force, muzzling without consent, and abrasive handling are strictly prohibited under company bylaws.": {
+    "ko": "Iruka Is Back의 모든 그루머와 클리닉 어시스턴트는 14일간의 법정 피어프리(Fear-Free) 공인 펫 핸들링 커리큘럼을 필수로 이수합니다. 사규에 따라 물리적 강제력 행사, 무동의 입마개 착용, 거친 처치는 엄격히 금지됩니다."
+  },
+  "Low-Stress Conditioning": {
+    "ko": "저스트레스 컨디셔닝"
+  },
+  "Staff are trained to interpret canine and feline micro-stress signals (whale eye, lip licking, ear pinning), pausing grooming procedures to offer calming pheromones and freeze-dried rewards.": {
+    "ko": "전문 인력은 개와 고양이의 미세 스트레스 징후(고래 눈, 입술 핥기, 귀 눕힘 등)를 판독하도록 훈련받으며, 징후 포착 시 미용 절차를 일시 중단하고 진정 페로몬 분사와 동결건조 보상을 제공합니다."
+  },
+  "Hospital-Grade Sterilization": {
+    "ko": "의료기관급 멸균 소독"
+  },
+  "Grooming clippers, shears, bathtubs, and examination tables are autoclaved and sanitized with veterinary-grade disinfectant between every single pet appointment.": {
+    "ko": "그루밍 클리퍼, 가위, 욕조 및 검진대는 매 반려동물 예약 세션 사이에 고압증기멸균기(오토클레이브) 처리 및 동물병원 전용 소독제로 철저히 멸균 정화됩니다."
+  },
+  "Hospital Transfer Network": {
+    "ko": "병원 이송 네트워크"
+  },
+  "Each Iruka facility maintains an active formal transfer agreement with 24-hour emergency animal hospitals, guaranteeing immediate motorized ambulance dispatch if an acute illness is detected.": {
+    "ko": "각 이루카 시설은 24시간 응급 동물병원과 공식 전원 협약을 체결 및 유지하고 있어, 급성 질환 감지 시 모터 앰뷸런스의 즉각적인 출동을 보장합니다."
+  },
+  "Veterinary Legal Firewalls & 70/30 Automated Settlement": {
+    "ko": "수의학적 법률 방화벽 및 70/30 자동 정산 시스템"
+  },
+  "Iruka Is Back operates with comprehensive veterinary malpractice and customer pet safety insurance policies, isolating franchisees from ruinous litigation. All service revenues clear daily via programmatic payment split logic.": {
+    "ko": "Iruka Is Back은 수의사 과실 및 고객 반려동물 안전에 관한 포괄적 보험 정책 하에 운영되어 가맹점주를 치명적인 소송 리스크로부터 격리합니다. 모든 서비스 매출은 프로그래밍 방식의 분할 결제 로직을 통해 매일 정산됩니다."
+  },
+  "Of all revenues collected from spa services and pet food memberships: 70% is deposited directly into the franchise operator's operational bank account to fund groomer salaries and facility maintenance, while 30% is allocated to replenishment shipments, insurance coverage pools, and *SC platform R&D.": {
+    "ko": "스파 서비스 및 펫푸드 멤버십에서 회수되는 전체 매출 중 70%는 가맹점주의 운영 계좌로 직접 입금되어 그루머 급여 및 시설 유지보수 비용으로 집행되며, 30%는 재고 보충 배송, 보험 보장 풀(Pool) 및 *SC 플랫폼 R&D에 배분됩니다."
+  },
+  "Pet Lifestyle • Iruka Concept Core": {
+    "ko": "펫 라이프스타일 • 이루카 콘셉트 코어"
+  },
+  "The Companion Sanctuary Paradigm: High-Margin Services + Recurring Nutrition": {
+    "ko": "반려 안식처 패러다임: 고마진 서비스 + 반복 구독형 뉴트리션"
+  },
+  "Traditional pet shops survive on cutthroat dry kibble price competition, while veterinary clinics feel intimidating and clinical. Iruka Is Back blends spa-grade grooming services with veterinary triage checkups and proprietary fresh micro-sachet nutrition, yielding an exceptional 74% blended gross service margin.": {
+    "ko": "기존 펫숍이 건식 사료의 출혈적 가격 경쟁에 의존하고 동물병원이 차갑고 위압적인 분위기를 주는 반면, Iruka Is Back은 스파급 그루밍 서비스, 수의학적 트리아제 검진, 독자적인 프레시 마이크로 샤셰 뉴트리션을 융합하여 74%에 달하는 압도적인 서비스 복합 매출총이익률(Gross Margin)을 달성합니다."
+  },
+  "Store Architecture • 4-Zone Sanctuary": {
+    "ko": "매장 아키텍처 • 4존(Zone) 안식처"
+  },
+  "Service Engineering • Pricing Matrix": {
+    "ko": "서비스 엔지니어링 • 가격 정책 매트릭스"
+  },
+  "Service Category": {
+    "ko": "서비스 카테고리"
+  },
+  "Core Procedures": {
+    "ko": "핵심 프로시저"
+  },
+  "Retail Price (IDR)": {
+    "ko": "소비자가 (IDR)"
+  },
+  "Direct Material Cost": {
+    "ko": "직접 재료비"
+  },
+  "Gross Contribution Margin": {
+    "ko": "매출총공헌이익"
+  },
+  "Signature Ozone Spa Bath": {
+    "ko": "시그니처 오존 스파 바스"
+  },
+  "Micro-bubble soak, organic shampoo, ear cleaning, paw balm": {
+    "ko": "마이크로 버블 입욕, 유기농 샴푸, 이어 클리닝, 포우 밤 케어"
+  },
+  "87.8% Gross Margin": {
+    "ko": "87.8% 매출총이익률"
+  },
+  "Full Precision Breed Styling": {
+    "ko": "풀 프리시전 견종 맞춤 스타일링"
+  },
+  "Breed-specific scissor cut, deshedding, sanitary trim": {
+    "ko": "견종별 맞춤 가위컷, 디쉐딩(죽은 털 제거), 위생 트리밍"
+  },
+  "90.0% Gross Margin": {
+    "ko": "90.0% 매출총이익률"
+  },
+  "Veterinary Wellness Triage": {
+    "ko": "수의학 웰니스 트리아지"
+  },
+  "Weight, dental, otic, cardiac exam + fecal flotation check": {
+    "ko": "체중, 치과, 이과, 심장 검진 + 분변 부유 검사"
+  },
+  "NBS Fresh Nutrition Membership": {
+    "ko": "NBS 프레시 뉴트리션 멤버십"
+  },
+  "30-day customized daily micro-sachet ration pack delivered": {
+    "ko": "30일 맞춤형 일일 마이크로 샤쉐 정량팩 정기 배송"
+  },
+  "Rp 350,000 / mo": {
+    "ko": "Rp 350,000 / 월"
+  },
+  "67.1% Recurring Margin": {
+    "ko": "67.1% 반복수익 마진"
+  },
+  "VIP All-Inclusive Club": {
+    "ko": "VIP 올인클루시브 클럽"
+  },
+  "2 Full Grooms + Monthly Vet Check + 30-Day Fresh Food": {
+    "ko": "풀 그루밍 2회 + 월간 수의 검진 + 30일 맞춤 신선식"
+  },
+  "Rp 750,000 / mo": {
+    "ko": "Rp 750,000 / 월"
+  },
+  "74.0% Blended MRR": {
+    "ko": "74.0% 통합 MRR 마진"
+  },
+  "Computer Vision • Optical Health Triage": {
+    "ko": "컴퓨터 비전 • 광학 헬스 트리아지"
+  },
+  "Unit Economics • Service Margins": {
+    "ko": "유닛 이코노믹스 • 서비스 마진"
+  },
+  "Revenue / Cost Stream": {
+    "ko": "수익 / 비용 스트림"
+  },
+  "Grooming & Spa Services": {
+    "ko": "그루밍 및 스파 서비스"
+  },
+  "450 appointments @ avg Rp 220,000": {
+    "ko": "450건 예약 (건당 평균 Rp 220,000)"
+  },
+  "Veterinary Triage Checkups": {
+    "ko": "수의학적 트리아지(Triage) 검진"
+  },
+  "180 visits @ avg Rp 150,000": {
+    "ko": "180회 내원 (회당 평균 Rp 150,000)"
+  },
+  "Recurring Monthly Nutrition Club": {
+    "ko": "월간 정기 구독 영양 클럽"
+  },
+  "220 subscribers @ Rp 350,000": {
+    "ko": "구독자 220명 (인당 Rp 350,000)"
+  },
+  "PetFood Bank Re:D Retail Sales": {
+    "ko": "PetFood Bank Re:D 리테일 매출"
+  },
+  "5,000 community packs @ Rp 950": {
+    "ko": "커뮤니티 팩 5,000개 (개당 Rp 950)"
+  },
+  "Gross Monthly Sanctuary Revenue": {
+    "ko": "생츄어리 월간 총매출(Gross Revenue)"
+  },
+  "Combined Multi-Tier Stream": {
+    "ko": "다계층 통합 수익 스트림"
+  },
+  "Groomer & Staff Compensation (4 Staff)": {
+    "ko": "그루머 및 운영 인력 급여 (4인)"
+  },
+  "2 Groomers + 1 Vet Tech + 1 Receptionist": {
+    "ko": "그루머 2인 + 수의 테크니션 1인 + 리셉셔니스트 1인"
+  },
+  "Facility Rent (80m&sup2; Clean Suite)": {
+    "ko": "시설 임차료 (80m&sup2; 클린 스위트)"
+  },
+  "High-street pet corridor location": {
+    "ko": "하이스트리트 펫 코리더 핵심 입지"
+  },
+  "Wholesale Nutrition & Shampoos (COGS)": {
+    "ko": "도매 영양제 및 샴푸 (매출원가·COGS)"
+  },
+  "*SC Auto-Formulator replenishment": {
+    "ko": "*SC Auto-Formulator 원료 재충전"
+  },
+  "Utilities, Water & High-Speed WiFi": {
+    "ko": "수도광열비 및 초고속 Wi-Fi"
+  },
+  "Negative pressure ventilation + warm water": {
+    "ko": "음압 환기 공조 시스템 + 온수 공급"
+  },
+  "*SC Platform Tech & Brand Toll (6%)": {
+    "ko": "*SC 플랫폼 테크 및 브랜드 사용료 (6%)"
+  },
+  "Qubit ERP & Vision Camera Cloud": {
+    "ko": "Qubit ERP 및 비전 카메라 클라우드"
+  },
+  "Net Monthly Franchisee Profit": {
+    "ko": "가맹점 월간 순이익"
+  },
+  "+ $7,307 / Month": {
+    "ko": "+ $7,307 / 월"
+  },
+  "SOP Standards • Ethical Handling": {
+    "ko": "SOP 표준 규격 • 윤리적 운영 관리"
+  },
+  "Chapter 01 Community Co-Op • Hyperlocal Living Hub": {
+    "ko": "Chapter 01 커뮤니티 협동조합 • 하이퍼로컬 리빙 허브"
+  },
+  "*SC - SISTAR LP My Neighbour Lifestyle: The Hyperlocal Residential Co-Op": {
+    "ko": "*SC - SISTAR LP My Neighbour Lifestyle: 하이퍼로컬 주거형 협동조합"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), SISTAR LP My Neighbour Lifestyle is our community co-operative retail concept. Built inside apartment complexes, residential housing estates (perumahan), and neighborhood clusters, it integrates automated parcel pickup lockers, single-portion essential pantries (Rp 1,320 sachets), clean laundry drop-offs, and mutual-aid elder care into a warm, sustainable micro-franchise.": {
+    "ko": "*SC Layer 4 생태계 아레나(Biz-Hub) 내에서 전개되는 SISTAR LP My Neighbour Lifestyle은 당사의 커뮤니티 협동조합형 리테일 모델입니다. 아파트 단지, 주거 지구(perumahan), 인근 이웃 클러스터 내에 구축되어 무인 택배 보관함, 1회용 필수 생필품 팬트리(Rp 1,320 소포장 파우치), 청결 세탁물 위탁, 상호부조형 노인 돌봄 서비스를 유기적으로 통합한 온화하고 지속 가능한 마이크로 프랜차이즈입니다."
+  },
+  "Walking Radius from 1,200+ Residential Doors": {
+    "ko": "1,200세대 이상 가구 기준 도보 접근 반경"
+  },
+  "Repeat Weekly Neighborhood Footfall Rate": {
+    "ko": "주간 인근 주민 재방문율(Footfall Rate)"
+  },
+  "Turnkey Franchise Capital Recovery Window": {
+    "ko": "턴키 프랜차이즈 투자금 회수 주기(Payback Period)"
+  },
+  "Secure RFID & Optical Locker Accessibility": {
+    "ko": "보안 RFID 및 광학 인식 락커 접근성"
+  },
+  "Rather than impersonal corporate convenience chains that drain local capital, SISTAR LP operates as a profit-sharing co-operative where local resident families own and operate the location, earning sustainable income while anchoring community solidarity.": {
+    "ko": "지역 자본을 유출시키는 획일적인 대기업 편의점 체인과 달리, SISTAR LP는 현지 주민 가구가 직접 지점을 소유 및 운영하는 수익 공유형 협동조합으로 기능합니다. 이를 통해 지속 가능한 소득을 창출하는 동시에 지역사회 연대를 견고히 구축합니다."
+  },
+  "Chapter 02 Spatial Layout • 4-Corner Residential Floorplan": {
+    "ko": "Chapter 02 공간 레이아웃 • 4대 코너 주거형 평면 설계"
+  },
+  "The Residential Micro-Hub Topology & Multi-Service Layout": {
+    "ko": "주거형 마이크로 허브 토폴로지 및 다각화 서비스 레이아웃"
+  },
+  "The physical architecture of a SISTAR LP location is zoned into four functional quadrants: The 24/7 Smart Locker Wall, the Micro-Sachet Community Pantry, the Service Concierge Counter, and the Resident Social Gathering Table.": {
+    "ko": "SISTAR LP 지점의 물리적 아키텍처는 4개의 기능적 사분면으로 구획됩니다: 24/7 스마트 락커 월, 마이크로 파우치 커뮤니티 팬트리, 서비스 컨시어지 카운터, 입주민 소셜 개더링 테이블."
+  },
+  "Consolidated Last-Meter Lockers": {
+    "ko": "통합형 라스트 미터(Last-Meter) 락커"
+  },
+  "Couriers deposit packages into optical smart lockers in seconds rather than roaming apartment elevator corridors, eliminating package theft and missed delivery notices for working tenants.": {
+    "ko": "택배 기사는 아파트 엘리베이터와 복도를 배회할 필요 없이 광학 스마트 락커에 수초 만에 화물을 적재하며, 입주민의 택배 분실 및 부재중 미수취 문제를 원천적으로 해소합니다."
+  },
+  "Single-Dose Household Essentials": {
+    "ko": "1회분 소포장 생활 필수재"
+  },
+  "From laundry detergent pods to artisanal cooking oil sachets, residents buy exact single-day portions at uniform Rp 1,320 prices, saving money and reducing household clutter.": {
+    "ko": "캡슐형 세탁 세제부터 프리미엄 식용유 파우치까지, 주민들은 균일가인 Rp 1,320에 정확한 1일 소비량을 구매하여 지출을 절감하고 가정 내 잉여 재고를 최소화합니다."
+  },
+  "Community Mutual Aid": {
+    "ko": "지역사회 상호부조(Community Mutual Aid)"
+  },
+  "Elderly residents stop by for blood pressure checks and warm tea, while working parents coordinate safe school bus pickup drop-offs with the verified resident shop operator.": {
+    "ko": "어르신들은 혈압 측정과 따뜻한 차를 위해 편안히 방문하고, 맞벌이 학부모는 신원이 검증된 주민 운영자를 통해 통학 버스 승하차를 안전하게 연계 및 관리합니다."
+  },
+  "Chapter 03 Community Services • Product Matrix": {
+    "ko": "Chapter 03 커뮤니티 서비스 • 프로덕트 매트릭스"
+  },
+  "The Essentials Pantry & Hyperlocal Service Matrix": {
+    "ko": "필수재 팬트리 및 하이퍼로컬 서비스 매트릭스"
+  },
+  "SISTAR LP generates diversified income by bundling high-margin daily micro-retail items with essential neighborhood administrative and logistics support services.": {
+    "ko": "SISTAR LP는 고마진의 일상 마이크로 리테일 품목과 핵심적인 지역 행정 및 물류 지원 서비스를 패키징하여 다각화된 수익 구조를 확보합니다."
+  },
+  "Chapter 04 Logistics Infrastructure • Smart Lockers": {
+    "ko": "Chapter 04 물류 인프라 • 스마트 락커"
+  },
+  "Neighborhood Parcel Staging & Autonomous Locker Mesh": {
+    "ko": "지역 거점 화물 스테이징 및 자율형 락커 메시(Mesh) 네트워크"
+  },
+  "By partnering with the *SC Space Sharing & Deliver Together fleet and national couriers (JNE, SiCepat, Shopee Xpress), the shop serves as a hyper-efficient neighborhood cross-docking terminal, reducing carbon emissions and courier delivery times.": {
+    "ko": "*SC 공간 공유 및 공동 배송 플릿, 주요 국가 물류사(JNE, SiCepat, Shopee Xpress)와의 파트너십을 통해 매장은 초효율적인 지역 크로스도킹(Cross-Docking) 터미널로 기능하며, 탄소 배출과 배송 기사의 소요 시간을 획기적으로 감축합니다."
+  },
+  "Drop-and-Go Driver Efficiency": {
+    "ko": "드롭앤고(Drop-and-Go) 배송 운용 효율성"
+  },
+  "Courier vans drop 80 to 120 neighborhood parcels in a single 5-minute stop at the SISTAR LP hub instead of spending 2.5 hours navigating complex stairs and apartment corridors.": {
+    "ko": "택배 기사는 복잡한 계단과 아파트 복도를 오가며 2.5시간을 낭비하는 대신, SISTAR LP 허브에서 단 5분의 원스톱 정차로 지역 화물 80~120개를 일괄 하역합니다."
+  },
+  "Zero Doorbell Disturbance": {
+    "ko": "세대 무간섭 배송(Zero Doorbell Disturbance)"
+  },
+  "Residents pick up their packages securely at midnight or early morning on their way to work, without couriers ringing doorbells or leaving parcels exposed outside doorsteps.": {
+    "ko": "입주민은 택배 기사의 초인종 호출이나 문 앞 방치에 따른 분실 위험 없이, 자정이나 이른 아침 출근길에 안전하게 물품을 수령할 수 있습니다."
+  },
+  "Chapter 05 Unit Economics • Co-Op Payback": {
+    "ko": "Chapter 05 단위 경제학(Unit Economics) • 협동조합 투자 회수"
+  },
+  "Hyperlocal Co-Op Unit Economics & 3.8-Month Payback": {
+    "ko": "초국소 협동조합 단위 경제학 및 3.8개월 투자 회수 주기"
+  },
+  "Because SISTAR LP locations utilize compact 20m&sup2; ground-floor or garage conversions, capital expenditures remain exceptionally low, allowing family operators to achieve profitability immediately.": {
+    "ko": "SISTAR LP 거점은 20m² 규모의 콤팩트한 1층 공간 또는 차고 리모델링을 활용하므로 자본적 지출(CAPEX)이 극도로 낮아, 가족 단위 운영자가 즉각적인 수익성을 달성할 수 있습니다."
+  },
+  "Generating an average Rp 18,200,000 (~$1,190 USD) monthly net income on a modest $4,500 turnkey installation, achieving full initial capital payback in just 3.8 months.": {
+    "ko": "단 4,500달러 수준의 턴키 설치 비용으로 월평균 1,820만 루피아(약 1,190달러)의 순이익을 창출하며, 불과 3.8개월 만에 초기 투자 자본 전액을 회수합니다."
+  },
+  "Chapter 06 Community Governance • Operator Trust": {
+    "ko": "Chapter 06 커뮤니티 거버넌스 • 운영자 신뢰도"
+  },
+  "Resident Franchisee Vetting & Community Trust Protocols": {
+    "ko": "입주민 가맹점주 검증 및 커뮤니티 신뢰 프로토콜"
+  },
+  "Because operators hold community keys and package access, SISTAR LP enforces stringent background checks and neighborhood association (RT/RW) endorsement before granting a franchise license.": {
+    "ko": "운영자가 커뮤니티의 마스터 키와 택배 접근 권한을 보유함에 따라, SISTAR LP는 가맹 라이선스를 부여하기 전 엄격한 신원 조회 및 주민자치위원회(RT/RW)의 공식 추천 승인을 필수로 요구합니다."
+  },
+  "Neighborhood Residency": {
+    "ko": "지역사회 거주 요건"
+  },
+  "Franchisees must be established residents who have lived in the specific residential community for at least 2 consecutive years with clean police verification credentials.": {
+    "ko": "가맹점주는 해당 주거 단지에서 최소 2년 이상 연속 거주한 기존 입주민이어야 하며, 범죄 경력 조회상 결격 사유가 전혀 없어야 합니다."
+  },
+  "Tamper-Proof Escrow Lockers": {
+    "ko": "위변조 방지 에스크로 락커"
+  },
+  "Every locker opening and key release is photographed by wide-angle security cameras, logged cryptographically to Google Workspace ledgers, and verified via two-factor SMS OTP.": {
+    "ko": "모든 락커 개폐 및 마스터 키 지급 이력은 광각 보안 카메라를 통해 시각적으로 캡처되고, Google Workspace 원장에 암호화 방식으로 로깅되며, SMS 2차 인증(OTP)을 통해 철저히 검증됩니다."
+  },
+  "Elder Care Integration": {
+    "ko": "시니어 케어 통합 체계"
+  },
+  "Operators perform daily morning welfare check-ins for registered elderly residents living alone, alerting family members or community clinics if assistance is needed.": {
+    "ko": "운영자는 등록된 1인 독거 노인 가구를 대상으로 매일 아침 안부 확인 서비스를 수행하며, 응급 지원이 필요할 경우 가족 구성원 또는 지역 보건소에 즉각 통보합니다."
+  },
+  "Legal Liability Shields & 70/30 Programmatic Settlement": {
+    "ko": "법적 책임 보호막 및 70/30 프로그래머틱 자동 정산"
+  },
+  "SISTAR LP operations are protected by comprehensive package loss indemnity bonds and general premises liability insurance, shielding the local family operator from commercial risk.": {
+    "ko": "SISTAR LP 운영은 포괄적 화물 분실 배상 보증 및 시설물 일반 배상책임보험을 통해 완벽히 보호되어, 현지 가족 운영자를 상업적 법적 리스크로부터 전면 면책합니다."
+  },
+  "At the end of every calendar day, all digital payments, delivery commissions, and laundry fees settle automatically: 70% is deposited directly into the resident operator's bank account, while 30% is swept to cover upstream laundry cleaning contracts, pantry sachet replenishment, and smart locker IoT server costs.": {
+    "ko": "매 영업일 종료 시 모든 디지털 결제, 배송 수수료, 세탁 대금이 자동 정산됩니다. 70%는 거주 운영자의 은행 계좌로 즉시 입금되며, 나머지 30%는 업스트림 세탁 위탁 계약, 식료품 소포장 사셰 재고 보충, 스마트 락커 IoT 서버 운용 비용으로 정기 자동 집행(Sweep)됩니다."
+  },
+  "One Spark, Infinite Galaxifying: SISTAR LP My Neighbour Lifestyle turns residential communities into resilient, connected co-operatives. Powered by the Qubit Algorithm™, hyperlocal smart hubs, and the Biz Galaxy constellation. Co-Op Application: https://sistarcompany.com • Community Coordinator: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: SISTAR LP My Neighbour Lifestyle은 주거 단지를 회복탄력성을 갖춘 초연결 협동조합으로 혁신합니다. Qubit Algorithm™, 초국소 스마트 허브, Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. Co-Op 지원: https://sistarcompany.com • 커뮤니티 코디네이터: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Community Co-Op • Hyperlocal Living Hub": {
+    "ko": "커뮤니티 협동조합 • 초국소 라이프스타일 허브"
+  },
+  "The Hyperlocal Neighborhood Engine: Walking Distance Convenience": {
+    "ko": "초국소 네이버후드 엔진: 도보 생활권 내 편리성 구축"
+  },
+  "In high-density residential developments, residents face daily friction picking up deliveries, finding trustworthy emergency childcare or elder checks, and buying small emergency household essentials. SISTAR LP My Neighbour Lifestyle solves this by establishing a trusted 20m&sup2; community lounge on the ground floor, run by a resident neighborhood franchisee.": {
+    "ko": "고밀도 주거 단지 입주민들은 택배 수령, 신뢰할 수 있는 긴급 보육 및 시니어 안부 확인, 일상적인 긴급 생필품 조달 등에서 매일 마찰 비용을 겪고 있습니다. SISTAR LP My Neighbour Lifestyle은 입주민 가맹점주가 운영하는 1층 20m² 규모의 신뢰 기반 커뮤니티 라운지를 구축하여 이 문제를 근본적으로 해결합니다."
+  },
+  "Spatial Layout • 4-Corner Residential Floorplan": {
+    "ko": "공간 레이아웃 • 4코너 주거용 평면도"
+  },
+  "Community Services • Product Matrix": {
+    "ko": "커뮤니티 서비스 • 제품 매트릭스"
+  },
+  "Service / Product Node": {
+    "ko": "서비스 / 제품 노드"
+  },
+  "Customer Price": {
+    "ko": "소비자 가격"
+  },
+  "Direct Cost / COGS": {
+    "ko": "직접 비용 / 매출원가(COGS)"
+  },
+  "Operator Profit Split": {
+    "ko": "운영자 수익 배분"
+  },
+  "Frequency / Volume": {
+    "ko": "빈도 / 볼륨"
+  },
+  "Micro-Sachet Household Essentials": {
+    "ko": "마이크로 사셰 소포장 가정 필수재"
+  },
+  "Rp 1,320 / unit": {
+    "ko": "개당 Rp 1,320"
+  },
+  "Rp 760 (BOM + Foil)": {
+    "ko": "Rp 760 (BOM + 포일)"
+  },
+  "Rp 560 (42.4% Gross Margin)": {
+    "ko": "Rp 560 (매출총이익률 42.4%)"
+  },
+  "850 sachets / week": {
+    "ko": "850 사셰 / 주"
+  },
+  "PetFood Bank Re:D Nutrition Sachet": {
+    "ko": "펫푸드 뱅크 Re:D 영양 사셰"
+  },
+  "Rp 950 / unit": {
+    "ko": "Rp 950 / 단위"
+  },
+  "Rp 600 (Repacking Cost)": {
+    "ko": "Rp 600 (재포장 원가)"
+  },
+  "Rp 350 (36.8% Gross Margin)": {
+    "ko": "Rp 350 (매출총이익률 36.8%)"
+  },
+  "400 sachets / week": {
+    "ko": "400 사셰 / 주"
+  },
+  "Smart Locker Parcel Delivery Fee": {
+    "ko": "스마트 락커 택배 배송 수수료"
+  },
+  "Rp 2,500 / parcel": {
+    "ko": "Rp 2,500 / 건"
+  },
+  "Rp 300 (Cloud locker toll)": {
+    "ko": "Rp 300 (클라우드 락커 이용료)"
+  },
+  "Rp 2,200 (88.0% Net Margin)": {
+    "ko": "Rp 2,200 (순이익률 88.0%)"
+  },
+  "600 parcels / week": {
+    "ko": "600건 / 주"
+  },
+  "Wash & Fold Laundry Partner Brokerage": {
+    "ko": "워시앤폴드 세탁 파트너 중개 수수료"
+  },
+  "Rp 7,500 (Industrial plant)": {
+    "ko": "Rp 7,500 (산업 플랜트 가공비)"
+  },
+  "Rp 4,500 (37.5% Commission)": {
+    "ko": "Rp 4,500 (수수료 37.5%)"
+  },
+  "350 kg / week": {
+    "ko": "350 kg / 주"
+  },
+  "Emergency Home Key Escrow & Checks": {
+    "ko": "비상 홈 키 에스크로 및 점검 서비스"
+  },
+  "Rp 50,000 / mo": {
+    "ko": "Rp 50,000 / 월"
+  },
+  "Rp 5,000 (Insurance pool)": {
+    "ko": "Rp 5,000 (보험 풀)"
+  },
+  "Rp 45,000 (90.0% Net Margin)": {
+    "ko": "Rp 45,000 (순이익률 90.0%)"
+  },
+  "80 resident members": {
+    "ko": "입주 회원 80세대"
+  },
+  "Logistics Infrastructure • Smart Lockers": {
+    "ko": "물류 인프라 • 스마트 락커"
+  },
+  "Unit Economics • Co-Op Payback": {
+    "ko": "유닛 이코노믹스 • 협동조합 투자 회수(Co-Op Payback)"
+  },
+  "P&L Financial Item": {
+    "ko": "P&L 재무 항목"
+  },
+  "Smart Locker Parcel Handling Fees": {
+    "ko": "스마트 락커 택배 취급 수수료"
+  },
+  "2,400 parcels @ Rp 2,200 net margin": {
+    "ko": "2,400건 @ 건당 순이익 Rp 2,200"
+  },
+  "Micro-Sachet Essentials Pantry Sales": {
+    "ko": "마이크로 사셰 생필품 팬트리 매출"
+  },
+  "3,400 units @ Rp 560 net margin": {
+    "ko": "3,400 유닛 @ 개당 순마진 Rp 560"
+  },
+  "Wash & Fold Laundry Brokerage Commissions": {
+    "ko": "워시 & 폴드 세탁 중개 수수료"
+  },
+  "1,400 kg @ Rp 4,500 commission": {
+    "ko": "1,400 kg @ 수수료 Rp 4,500"
+  },
+  "PetFood Bank Re:D Retail Commissions": {
+    "ko": "PetFood Bank Re:D 리테일 수수료"
+  },
+  "1,600 community sachets @ Rp 350": {
+    "ko": "커뮤니티 파우치 1,600개 @ Rp 350"
+  },
+  "Resident Key & Concierge Escrow Memberships": {
+    "ko": "입주민 마스터키 & 컨시어지 에스크로 멤버십"
+  },
+  "80 household members @ Rp 45,000 net": {
+    "ko": "80가구 회원 @ 순이익 Rp 45,000"
+  },
+  "Emergency Home Maintenance Dispatch Tolls": {
+    "ko": "긴급 주거 인프라 유지보수 출동 수수료"
+  },
+  "45 plumbing/electrical referrals @ Rp 30,000": {
+    "ko": "배관/전기 수리 연계 45건 @ Rp 30,000"
+  },
+  "Gross Monthly Co-Op Operating Margin": {
+    "ko": "월간 협동조합 총영업이익(Gross Operating Margin)"
+  },
+  "Total Service & Retail Contribution": {
+    "ko": "서비스 및 리테일 총 공헌이익"
+  },
+  "Space Rent & Electricity": {
+    "ko": "공간 임대료 및 전기료"
+  },
+  "20m&sup2; residential ground floor unit": {
+    "ko": "20m&sup2; 주거용 1층 유닛"
+  },
+  "*SC Qubit ERP Cloud Platform Toll (5%)": {
+    "ko": "*SC Qubit ERP 클라우드 플랫폼 수수료 (5%)"
+  },
+  "Locker IoT, WhatsApp API, payments": {
+    "ko": "스마트 보관함 IoT, WhatsApp API, 결제 인프라"
+  },
+  "Net Monthly Take-Home Household Profit": {
+    "ko": "월간 가계 실수령 순이익"
+  },
+  "Free Cash Flow for Resident Family": {
+    "ko": "거주 가구 귀속 잉여현금흐름(FCF)"
+  },
+  "+ $1,035 / Month": {
+    "ko": "+ $1,035 / 월"
+  },
+  "Community Governance • Operator Trust": {
+    "ko": "커뮤니티 거버넌스 • 오퍼레이터 신뢰 자산"
+  },
+  "Chapter 01 Master Directorate • Franchiseship Core": {
+    "ko": "Chapter 01 마스터 디렉터레이트 • 프랜차이즈십 코어"
+  },
+  "*SC - Franchiseship: Multi-Brand Master Orchestration & Retail OS": {
+    "ko": "*SC - 프랜차이즈십: 멀티 브랜드 마스터 오케스트레이션 & 리테일 OS"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), the Franchiseship Command Hub serves as the master holding authority for all physical franchise concepts across the Signal Star Universe. Overseeing SISTAR Mint Colored Shop, Suu, Iruka Is Back, and SISTAR LP My Neighbour Lifestyle, it provides shared brand governance, centralized supply chain replenishment, standard operational procedures (SOP), and automated daily royalty settlements.": {
+    "ko": "*SC Layer 4 생태계 아레나(Biz-Hub) 내에서 Franchiseship Command Hub는 Signal Star Universe 전반의 모든 오프라인 프랜차이즈 콘셉트를 총괄하는 마스터 지주 권한을 수행합니다. SISTAR Mint Colored Shop, Suu, Iruka Is Back, SISTAR LP My Neighbour Lifestyle을 통할하며, 통합 브랜드 거버넌스, 중앙 집중식 공급망 보충, 표준운영절차(SOP) 및 일 단위 자동 로열티 정산을 제공합니다."
+  },
+  "Unified Multi-Brand Retail Concept Portfolio": {
+    "ko": "통합 멀티 브랜드 리테일 콘셉트 포트폴리오"
+  },
+  "Back-Office SG&A Savings via Shared ERP Core": {
+    "ko": "공유 ERP 코어를 통한 백오피스 판관비(SG&A) 절감"
+  },
+  "Standardized Flat Ecosystem Software Royalty": {
+    "ko": "표준화된 고정 생태계 소프트웨어 로열티"
+  },
+  "Cross-Border Franchise Deployment Corridors": {
+    "ko": "크로스보더 프랜차이즈 전개 회랑(Corridors)"
+  },
+  "Franchiseship dismantles the traditional adversarial relationship between franchisor and franchisee. By deploying our zero-loss micro-sachet packaging, automated computer vision inventory audits, and programmatic daily banking splits, we ensure that every franchise partner operates with transparent unit economics and immediate cash flow clarity.": {
+    "ko": "Franchiseship은 가맹본부와 가맹점주 간의 전통적인 대립적 역학을 근본적으로 해체합니다. 무손실 마이크로 파우치 패키징, 자동화된 컴퓨터 비전 재고 실사, 프로그래머블 일일 뱅킹 분할 정산을 도입하여 모든 프랜차이즈 파트너가 투명한 유닛 이코노믹스와 즉각적인 현금 흐름 가시성을 확보할 수 있도록 보장합니다."
+  },
+  "Chapter 02 Brand Portfolio • Multi-Segment Coverage": {
+    "ko": "Chapter 02 브랜드 포트폴리오 • 멀티 세그먼트 커버리지"
+  },
+  "Ecosystem Franchise Portfolio: Strategic Multi-Segment Coverage": {
+    "ko": "생태계 프랜차이즈 포트폴리오: 전략적 멀티 세그먼트 커버리지"
+  },
+  "Each brand in the Franchiseship umbrella addresses a specific high-growth consumer segment, unified by the shared *SC production pipeline (Auto-Formulator, PetFood Bank Re:D, and Space Sharing Logistics).": {
+    "ko": "Franchiseship 산하의 각 브랜드는 특정 고성장 소비재 세그먼트를 정밀 공략하며, 공유 *SC 생산 파이프라인(Auto-Formulator, PetFood Bank Re:D, Space Sharing Logistics)을 통해 유기적으로 통합됩니다."
+  },
+  "Flagship consumer retail node highlighting viral micro-sachets and live streaming studio commerce in prime commercial plazas.": {
+    "ko": "핵심 상권 플라자 내 바이럴 마이크로 파우치와 라이브 스트리밍 스튜디오 커머스를 전면에 내세운 플래그십 컨슈머 리테일 노드."
+  },
+  "Minimalist fast-casual functional beverage kiosk delivering 82% gross margins with zero perishable fruit and dairy spoilage.": {
+    "ko": "부패하기 쉬운 과일 및 유제품 폐기 손실을 제로화하여 82%의 매출총이익률을 달성하는 미니멀 패스트 캐주얼 기능성 음료 키오스크."
+  },
+  "Full-service companion animal sanctuary combining spa grooming, vet triage, and monthly recurring nutrition subscriptions.": {
+    "ko": "스파 그루밍, 수의 1차 진료(트리아지), 월간 구독형 맞춤 영양 솔루션을 결합한 풀서비스 반려동물 생츄어리."
+  },
+  "Hyperlocal residential estate co-op integrating smart parcel pickup lockers and single-dose daily emergency pantries.": {
+    "ko": "스마트 택배 수령 락커와 1회 복용 단위의 일일 비상 팬트리를 통합한 초근접(Hyperlocal) 주거 단지형 협동조합."
+  },
+  "Chapter 03 Operations Standardization • Academy Core": {
+    "ko": "Chapter 03 운영 표준화 • 아카데미 코어"
+  },
+  "Centralized Operations, Training Academy & SOP Standardization": {
+    "ko": "중앙 집중식 운영, 트레이닝 아카데미 및 SOP 표준화"
+  },
+  "Maintaining consistent multi-brand quality across hundreds of locations requires uncompromising operational rigor. The SISTAR Master Franchise Academy conducts centralized training, certifying operators in inventory management, customer service, and digital POS compliance.": {
+    "ko": "수백 개 매장에 걸쳐 일관된 멀티 브랜드 품질을 유지하기 위해서는 타협 없는 운영 규율이 요구됩니다. SISTAR Master Franchise Academy는 중앙 집중식 교육을 총괄하여, 재고 관리, 고객 서비스, 디지털 POS 규정 준수 전반에 걸쳐 가맹점주를 공인 인증합니다."
+  },
+  "Chapter 04 Supply Chain Network • Shared Fleet": {
+    "ko": "Chapter 04 공급망 네트워크 • 공유 플릿"
+  },
+  "Master Supply Chain & Consolidated Fleet Replenishment Network": {
+    "ko": "마스터 공급망 및 통합 플릿 보충 네트워크"
+  },
+  "Franchiseship orchestrates store replenishment through the Space Sharing & Deliver Together logistics matrix. Consolidated refrigerated and dry vans deliver restocking orders to all four brand formats on synchronized weekly routes.": {
+    "ko": "Franchiseship은 Space Sharing & Deliver Together 물류 매트릭스를 통해 매장 재고 보충을 조율합니다. 통합 냉장 및 상온 배송 밴이 동기화된 주간 운송 경로를 통해 4개 브랜드 포맷 전반에 재입고 주문을 일괄 배송합니다."
+  },
+  "Single Van Multi-Brand Delivery": {
+    "ko": "단일 밴 다품종 멀티 브랜드 배송"
+  },
+  "A single *SC distribution van simultaneously delivers cosmetic sachets to a Mint shop, booster powders to a Suu kiosk, fresh pet food to an Iruka clinic, and parcel boxes to a SISTAR LP hub located along the same municipal transit artery.": {
+    "ko": "단 한 대의 *SC 배송 밴이 동일한 도심 간선 교통축을 따라 위치한 Mint 숍에는 화장품 파우치를, Suu 키오스크에는 부스터 파우더를, Iruka 클리닉에는 신선 펫푸드를, SISTAR LP 허브에는 택배 박스를 동시에 적시 운송합니다."
+  },
+  "Qubit ERP continuously calculates 90-day moving average demand across all stores, generating automated raw material wholesale contracts with 1688 and Korean suppliers before factory stock runs dry.": {
+    "ko": "Qubit ERP는 전 매장의 90일 이동평균 수요를 연속 산출하여, 공장 재고가 소진되기 전에 1688 및 한국 공급업체와 자동화된 원자재 도매 계약을 체결합니다."
+  },
+  "Chapter 05 Franchise Economics • Royalty Clearing": {
+    "ko": "Chapter 05 프랜차이즈 이코노믹스 • 로열티 정산"
+  },
+  "Master Franchise Economics & Royalty Clearing Formula": {
+    "ko": "마스터 프랜차이즈 이코노믹스 및 로열티 정산 공식"
+  },
+  "Franchiseship generates holding cash flows from three sources: initial turnkey setup packages, wholesale manufacturing contribution margins, and a modest 6.0% technology platform royalty fee.": {
+    "ko": "Franchiseship은 초기 턴키 셋업 패키지, 도매 제조 공헌이익, 6.0%의 경쟁력 있는 테크 플랫폼 로열티 수수료라는 세 가지 핵심 원천을 통해 지주 현금 흐름을 창출합니다."
+  },
+  "Where k iterates over all active retail store locations. The flat 6% royalty funds continuous Qubit ERP software development, computer vision hosting, and brand marketing campaigns, keeping store margins healthy.": {
+    "ko": "여기서 k는 모든 활성 리테일 매장 로케이션에 대해 반복 적용됩니다. 6%의 정률 로열티는 지속적인 Qubit ERP 소프트웨어 고도화, 컴퓨터 비전 인프라 호스팅, 브랜드 마케팅 캠페인의 재원으로 투입되어 가맹점 마진을 건전하게 유지시킵니다."
+  },
+  "Chapter 06 International Licensing • Master Partners": {
+    "ko": "제06장 글로벌 라이선싱 • 마스터 파트너십"
+  },
+  "Global Master Licensing & Territory Expansion Corridors": {
+    "ko": "글로벌 마스터 라이선싱 및 권역별 확장 회랑"
+  },
+  "In addition to single-unit franchisees, Franchiseship appoints regional Master Franchisees in Vietnam (SCV), India (SCIND), and the Philippines. Master partners receive exclusive territorial rights in exchange for committed store rollout schedules.": {
+    "ko": "Franchiseship은 개별 단위 가맹점 외에도 베트남(SCV), 인도(SCIND), 필리핀 등지에 권역별 마스터 프랜차이지를 임명합니다. 마스터 파트너는 확약된 매장 롤아웃 일정을 이행하는 대가로 배타적 독점 영토권을 부여받습니다."
+  },
+  "Master Partner Rights": {
+    "ko": "마스터 파트너 권한 및 수익 배분권"
+  },
+  "Master franchisees earn 50% of all initial franchise fees and 30% of platform royalties collected within their sovereign territory, incentivizing rapid regional expansion.": {
+    "ko": "마스터 프랜차이지는 관할 주권 영역 내에서 징수되는 초기 가맹비의 50%와 플랫폼 로열티의 30%를 수취하여, 신속한 권역별 확장을 공격적으로 견인합니다."
+  },
+  "Regional Training Academies": {
+    "ko": "권역별 공인 트레이닝 아카데미"
+  },
+  "Master partners establish local certified training academies in Ho Chi Minh, Bangkok, and Mumbai to onboard new store managers in accordance with *SC global SOP manuals.": {
+    "ko": "마스터 파트너는 호치민, 방콕, 뭄바이에 현지 공인 트레이닝 아카데미를 설립하여 *SC 글로벌 SOP 매뉴얼에 따라 신임 점포 관리자 온보딩을 전담합니다."
+  },
+  "Local Cleanroom Tolling": {
+    "ko": "현지 클린룸 임가공(Tolling) 체계"
+  },
+  "When a territory exceeds 25 operational stores, *SC licenses local packaging cleanrooms to repack NBS PetFood Bank rations and Auto-Formulator sachets locally, avoiding import tariffs.": {
+    "ko": "관할 권역 내 운영 매장이 25개소를 초과할 경우, *SC는 현지 패키징 클린룸에 라이선스를 부여하여 NBS PetFood Bank 사료 및 Auto-Formulator 사셰를 현지에서 리패키징함으로써 수입 관세를 원천 절감합니다."
+  },
+  "Trademark Legal Shield & 70/30 Programmatic Settlement": {
+    "ko": "상표권 법적 방어막 및 70/30 프로그래머틱 정산 프레임워크"
+  },
+  "To safeguard institutional capital, all master brand trademarks (SISTAR Mint, Suu, Iruka Is Back, SISTAR LP) are registered in Singapore and Delaware under the SC Index holding company, while commercial liabilities remain isolated in regional operating entities.": {
+    "ko": "기관 자본을 철저히 보호하기 위해 모든 마스터 브랜드 상표(SISTAR Mint, Suu, Iruka Is Back, SISTAR LP)는 SC Index 지주회사 산하의 싱가포르 및 델라웨어에 등록되며, 상업적 책임은 각 권역별 운영 법인(Operating Entities)으로 완벽히 격리·차단됩니다."
+  },
+  "Of all corporate franchise fee and royalty collections: 70% is allocated directly to store opening support, equipment tooling procurement, and local logistics fleet maintenance, while 30% is swept to holding treasury accounts for long-term technology development, IP defense, and shareholder dividends.": {
+    "ko": "본사가 징수하는 가맹비 및 로열티 총액 중 70%는 신규 점포 개점 지원, 장비 툴링 조달, 현지 물류 인프라 유지보수에 직접 배정되며, 30%는 장기 기술 R&D, IP 방어, 주주 배당을 위해 지주회사 재무(Treasury) 계좌로 자동 전송(Sweep)됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Franchiseship unites retail entrepreneurs under scalable, sustainable multi-brand umbrellas. Powered by the Qubit Algorithm™, turnkey retail OS, and the Biz Galaxy constellation. Master Inquiries: https://sistarcompany.com • Franchise Directorate: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Franchiseship은 확장 가능하고 지속 가능한 멀티 브랜드 우산 아래 리테일 엔터프레너들을 결집합니다. Qubit Algorithm™, 턴키 리테일 OS, Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. 마스터 파트너십 문의: https://sistarcompany.com • 프랜차이즈 디렉터레이트: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Master Directorate • Franchiseship Core": {
+    "ko": "마스터 디렉터레이트 • Franchiseship 코어"
+  },
+  "The Multi-Brand Franchise Architecture: Shared Overhead, Compounding Scale": {
+    "ko": "멀티 브랜드 프랜차이즈 아키텍처: 공유 오버헤드와 복리적 확장성"
+  },
+  "Rather than managing four separate back-office headquarters, legal teams, and distribution fleets, Franchiseship centralizes corporate governance into a single cloud-native operating system. This unified engine reduces master administrative overhead by 72% while accelerating franchisee profitability across international borders.": {
+    "ko": "Franchiseship은 4개의 개별 백오피스 본부, 법무팀, 물류 운송망을 분산 운영하는 대신, 단일 클라우드 네이티브 운영 체제로 전사 거버넌스를 중앙 집중화합니다. 이 통합 엔진은 마스터 총괄 관리 오버헤드를 72% 감축하는 동시에 국경을 초월한 가맹점의 수익성을 가속화합니다."
+  },
+  "Brand Portfolio • Multi-Segment Coverage": {
+    "ko": "브랜드 포트폴리오 • 멀티 세그먼트 커버리지"
+  },
+  "Operations Standardization • Academy Core": {
+    "ko": "운영 표준화 • 아카데미 코어"
+  },
+  "Standard Operating Procedure (SOP)": {
+    "ko": "표준 운영 절차 (SOP)"
+  },
+  "Audit Mechanism & Technology": {
+    "ko": "감사 메커니즘 및 적용 기술"
+  },
+  "Compliance SLA": {
+    "ko": "컴플라이언스 SLA"
+  },
+  "Nightly automated optical cycle count via ceiling cameras": {
+    "ko": "천장 카메라 기반 야간 자동화 광학 순환 재고 조사(Optical Cycle Count)"
+  },
+  "Gemini Vision AI + Qubit ERP comparison": {
+    "ko": "Gemini Vision AI 및 Qubit ERP 대사(Cross-verification)"
+  },
+  "&plusmn;0 sachet discrepancy target": {
+    "ko": "사셰 오차 범위 &plusmn;0 달성 목표"
+  },
+  "Sanitation & Food Safety": {
+    "ko": "위생 및 식품 안전"
+  },
+  "Daily clean-in-place CIP lines, UV air sterilizer verification": {
+    "ko": "일일 인라인 자동 세척(CIP) 및 UV 공기 살균기 무결성 검증"
+  },
+  "Automated temperature/humidity IoT sensor logs": {
+    "ko": "자동 온·습도 IoT 센서 로그"
+  },
+  "100% BPOM / Halal compliance": {
+    "ko": "100% BPOM / 할랄 컴플라이언스 준수"
+  },
+  "Cashier & POS Settlement": {
+    "ko": "캐셔 및 POS 정산"
+  },
+  "All transactions via QRIS and card; zero offline cash skimming": {
+    "ko": "전체 트랜잭션 QRIS 및 카드 기반 결제; 오프라인 현금 횡령(Cash Skimming) 제로화"
+  },
+  "Payment gateway webhook auto-reconciliation": {
+    "ko": "결제 게이트웨이(PG) 웹훅 자동 정산 대사"
+  },
+  "Daily midnight 70/30 split": {
+    "ko": "일일 자정 70/30 수익 배분"
+  },
+  "Customer Experience (CX)": {
+    "ko": "고객 경험(CX)"
+  },
+  "Standardized hospitality greetings, free tea/water service": {
+    "ko": "표준화된 호스피탈리티 응대 및 무상 티/워터 서비스"
+  },
+  "Customer QR rating & WhatsApp feedback survey": {
+    "ko": "고객 QR 평점 및 WhatsApp 피드백 설문"
+  },
+  "> 4.8 / 5.0 Star average score": {
+    "ko": "평균 평점 4.8 / 5.0점 초과"
+  },
+  "Supply Chain Network • Shared Fleet": {
+    "ko": "공급망 네트워크 • 공유 플릿"
+  },
+  "Franchise Economics • Royalty Clearing": {
+    "ko": "프랜차이즈 이코노믹스 • 로열티 정산"
+  },
+  "Brand Concept": {
+    "ko": "브랜드 콘셉트"
+  },
+  "Avg Store GMV (Monthly)": {
+    "ko": "매장당 월평균 총거래액(GMV)"
+  },
+  "6% Platform Royalty": {
+    "ko": "플랫폼 로열티 6%"
+  },
+  "Wholesale COGS Margin": {
+    "ko": "도매 매출원가(COGS) 마진"
+  },
+  "Net Holding Contribution": {
+    "ko": "지주사 순기여이익"
+  },
+  "SISTAR Mint Colored Shop": {
+    "ko": "SISTAR 민트 컬러 숍"
+  },
+  "$232 / month": {
+    "ko": "월 $232"
+  },
+  "$385 / month": {
+    "ko": "월 $385"
+  },
+  "$617 / store / month": {
+    "ko": "매장당 월 $617"
+  },
+  "Suu Wellness Kiosk": {
+    "ko": "Suu 웰니스 키오스크"
+  },
+  "$267 / month": {
+    "ko": "월 $267"
+  },
+  "$440 / month": {
+    "ko": "월 $440"
+  },
+  "$707 / store / month": {
+    "ko": "매장당 월 $707"
+  },
+  "Iruka Is Back Companion Clinic": {
+    "ko": "Iruka Is Back 컴패니언 클리닉"
+  },
+  "$814 / month": {
+    "ko": "월 $814"
+  },
+  "$820 / month": {
+    "ko": "월 $820"
+  },
+  "$1,634 / store / month": {
+    "ko": "매장당 월 $1,634"
+  },
+  "SISTAR LP Residential Co-Op": {
+    "ko": "SISTAR LP 레지덴셜 코옵"
+  },
+  "$62 / month": {
+    "ko": "월 $62"
+  },
+  "$145 / month": {
+    "ko": "월 $145"
+  },
+  "$207 / store / month": {
+    "ko": "매장당 월 $207"
+  },
+  "100-Store Blended Cluster Target": {
+    "ko": "100개 매장 혼합 클러스터 목표치"
+  },
+  "$578,000 / month": {
+    "ko": "월 $578,000"
+  },
+  "$34,680 / month": {
+    "ko": "월 $34,680"
+  },
+  "$44,500 / month": {
+    "ko": "월 $44,500"
+  },
+  "$79,180 / Month Recurring": {
+    "ko": "월간 반복 매출(MRR) $79,180"
+  },
+  "International Licensing • Master Partners": {
+    "ko": "국제 라이선싱 • 마스터 파트너"
+  },
+  "Chapter 01 Consulting Mandate • Enterprise Transformation": {
+    "ko": "Chapter 01 컨설팅 맨데이트 • 엔터프라이즈 트랜스포메이션"
+  },
+  "*SC - SISTAR Solutions: Pragmatic Enterprise Transformation & Zero-SaaS ERP": {
+    "ko": "*SC - SISTAR Solutions: 실용적 엔터프라이즈 트랜스포메이션 및 제로-SaaS ERP"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), SISTAR Solutions is the enterprise modernization consulting arm. It rescues medium and large enterprises from predatory recurring software licenses (Salesforce, SAP, NetSuite, Zoho) by deploying customized, zero-license-cost ERP architectures built entirely on native Google Workspace, AppSheet, Supabase pgvector, and automated AppScript workflows.": {
+    "ko": "*SC 레이어 4 에코시스템 아레나(Biz-Hub) 내에서, SISTAR Solutions는 엔터프라이즈 현대화 컨설팅 부문을 담당합니다. 네이티브 Google Workspace, AppSheet, Supabase pgvector 및 자동화된 AppScript 워크플로우만을 기반으로 구축된 제로 라이선스 비용의 맞춤형 ERP 아키텍처를 전개함으로써, 약탈적인 정기 구독형 소프트웨어 라이선스(Salesforce, SAP, NetSuite, Zoho)의 굴레로부터 중견 및 대기업을 구제합니다."
+  },
+  "External Enterprise SaaS License Elimination": {
+    "ko": "외부 엔터프라이즈 SaaS 라이선스 제거"
+  },
+  "Turnkey 8-Department Deployment Window": {
+    "ko": "8개 부서 턴키 구축 파이프라인"
+  },
+  "Automated: HR, Finance, Tax, RA, Sales, WMS, Ops, Legal": {
+    "ko": "자동화 적용: HR, 재무, 세무, RA(인허가), 영업, WMS(물류), 운영, 법무"
+  },
+  "Real-Time Google Sheets Multi-User Synchronization": {
+    "ko": "실시간 Google Sheets 다중 사용자 동기화"
+  },
+  "Where conventional IT consulting firms sell 18-month multi-million dollar implementations that frequently fail to deliver value, SISTAR Solutions delivers fully functional, production-ready operational workflows within weeks. Every workflow is documented with visual flowcharts, AppSheet mobile apps, and direct Indonesian tax (e-Faktur) integrations.": {
+    "ko": "수백만 달러 규모에 달하는 18개월짜리 프로젝트를 판매하고도 실질적 가치 창출에 실패하곤 하는 기존 IT 컨설팅 기업과 달리, SISTAR Solutions는 수주일 내에 완벽하게 구동되는 프로덕션 레디 운영 워크플로우를 제공합니다. 모든 워크플로우는 시각적 플로우차트, AppSheet 모바일 앱, 그리고 인도네시아 전자세금계산서(e-Faktur) 직접 연동을 통해 체계적으로 문서화 및 통합됩니다."
+  },
+  "Chapter 02 Technical Architecture • Google Core": {
+    "ko": "Chapter 02 기술 아키텍처 • Google Core"
+  },
+  "Turnkey Google Workspace + AppSheet Operational Architecture": {
+    "ko": "턴키 Google Workspace + AppSheet 운영 아키텍처"
+  },
+  "By harnessing Google Workspace's rock-solid enterprise authentication, unlimited version history, and real-time collaborative editing, SISTAR Solutions transforms Google Sheets into a high-concurrency relational operational ledger, connected to intuitive mobile AppSheet interfaces.": {
+    "ko": "Google Workspace의 견고한 엔터프라이즈 인증, 무제한 버전 히스토리, 실시간 협업 편집 기능을 극대화하여, SISTAR Solutions는 Google Sheets를 직관적인 모바일 AppSheet 인터페이스와 연계된 고동시성 관계형 운영 원장(Relational Operational Ledger)으로 전환합니다."
+  },
+  "Zero Learning Curve": {
+    "ko": "제로 러닝 커브(학습 비용 제로)"
+  },
+  "Because frontline staff are already comfortable using Google Sheets and mobile web interfaces, user adoption reaches 100% within 48 hours without resistance.": {
+    "ko": "현장 실무 인력이 이미 Google Sheets 및 모바일 웹 인터페이스에 익숙하기 때문에, 사용자 적응률은 저항 없이 48시간 내에 100%에 도달합니다."
+  },
+  "Perpetual Cost Free": {
+    "ko": "영구적 비용 무료"
+  },
+  "Instead of paying $150 per user per month to Salesforce or SAP, your enterprise runs entirely on your existing Google Workspace business plan ($6 to $18/mo total).": {
+    "ko": "Salesforce나 SAP에 사용자당 매월 $150를 지불하는 대신, 엔터프라이즈는 기존의 Google Workspace 비즈니스 플랜(총 $6~$18/월)만으로 전체 운영을 완벽하게 수행합니다."
+  },
+  "Immutable Version Log": {
+    "ko": "불변 버전 로그"
+  },
+  "Google Drive's built-in cryptographic version history records every single cell modification, timestamp, and user email, providing ironclad regulatory audit trails.": {
+    "ko": "Google Drive의 내장 암호화 버전 히스토리는 모든 셀 수정 내역, 타임스탬프, 사용자 이메일을 완벽하게 기록하여 철저한 규제 대응 감사 추적(Audit Trail)을 보장합니다."
+  },
+  "Chapter 03 SaaS Elimination • Replacement Matrix": {
+    "ko": "Chapter 03 SaaS 제거 • 대체 매트릭스"
+  },
+  "Legacy SaaS vs. SISTAR Solutions Custom Stack Matrix": {
+    "ko": "레거시 SaaS 대 SISTAR Solutions 맞춤형 스택 매트릭스"
+  },
+  "A head-to-head comparison reveals why forward-thinking enterprises are discarding complex legacy vendors in favor of our streamlined, custom-engineered Google Workspace operational stack.": {
+    "ko": "직접적인 비교를 통해 왜 선도적인 엔터프라이즈들이 복잡한 레거시 벤더를 배제하고 당사의 간결하고 맞춤 엔지니어링된 Google Workspace 운영 스택을 채택하는지 명확히 증명됩니다."
+  },
+  "Chapter 04 Departmental Automation • 8-Team Engine": {
+    "ko": "Chapter 04 부서별 자동화 • 8개 팀 엔진"
+  },
+  "The 8-Department Automated Operations Engine": {
+    "ko": "8대 부서 통합 자동화 운영 엔진"
+  },
+  "SISTAR Solutions deploys a unified operational nervous system spanning all eight foundational corporate departments, replacing manual coordination with automated trigger scripts.": {
+    "ko": "SISTAR Solutions는 기업의 핵심 8대 부서 전반을 아우르는 단일 운영 신경망을 구축하여, 수작업 기반의 조율 체계를 자동화된 트리거 스크립트로 대체합니다."
+  },
+  "Programmatic Indonesian Compliance": {
+    "ko": "인도네시아 규제 준수(Compliance)의 프로그래밍화"
+  },
+  "On the 25th of every month, payroll scripts compute statutory PPh 21, BPJS Ketenagakerjaan, and health contributions, generating bank transfer batch files while generating valid e-Faktur XML invoices for VAT clearance.": {
+    "ko": "매월 25일, 급여 산출 스크립트가 법정 소득세(PPh 21), BPJS Ketenagakerjaan(고용보험) 및 국민건강보험 기여금을 자동으로 계산하고, 은행 송금 배치(Batch) 파일을 생성하는 동시에 부가가치세 처리를 위한 공인 e-Faktur XML 인보이스를 발급합니다."
+  },
+  "Executive Single Pane of Glass": {
+    "ko": "최고경영진 전용 단일 관제 화면 (Executive Single Pane of Glass)"
+  },
+  "Managing directors view live company performance on standardized Google Workspace dashboards, tracking daily revenue, cash in bank, open purchase orders, and warehouse inventory without waiting for monthly accountant reports.": {
+    "ko": "대표이사 및 경영진은 표준화된 Google Workspace 대시보드를 통해 월별 회계 결산 리포트를 기다릴 필요 없이 일일 매출, 보유 현금, 미결 발주서, 물류창고 재고 등 기업 핵심 실적 지표를 실시간으로 모니터링합니다."
+  },
+  "Chapter 05 Consulting ROI • Cost Elimination Formula": {
+    "ko": "제05장 컨설팅 ROI • 비용 제거 공식"
+  },
+  "Enterprise Consulting Economics & ROI Formula": {
+    "ko": "엔터프라이즈 컨설팅 경제학 및 ROI 산식"
+  },
+  "SISTAR Solutions engagements are structured with clear, guaranteed payback milestones: client companies typically recover 100% of their consulting implementation investment within the first 60 days purely from eliminated SaaS seat fees.": {
+    "ko": "SISTAR Solutions의 컨설팅 프로젝트는 명확하고 보장된 투자 회수(Payback) 마일스톤을 기반으로 설계됩니다. 고객사는 일반적으로 불필요한 SaaS 사용자(Seat) 라이선스 비용 절감만으로도 도입 첫 60일 이내에 컨설팅 투자액의 100%를 회수합니다."
+  },
+  "For a standard mid-market firm with 65 employees previously paying Salesforce ($150/user) and NetSuite ($2,500/mo base), annual recurring software expenses plummet from $147,000 to under $7,800, delivering an ROI exceeding 850%.": {
+    "ko": "Salesforce(사용자당 $150)와 NetSuite(월 기본 $2,500)를 사용하던 임직원 65명 규모의 표준 중견기업의 경우, 연간 반복 소프트웨어 지출이 기존 $147,000에서 $7,800 미만으로 급감하여 850% 이상의 ROI를 실현합니다."
+  },
+  "Chapter 06 AI Customization • Private Knowledge": {
+    "ko": "제06장 AI 커스터마이징 • 프라이빗 지식 베이스"
+  },
+  "Bespoke Enterprise RAG & Private Vector Knowledge Vaults": {
+    "ko": "엔터프라이즈 맞춤형 RAG 및 프라이빗 벡터 지식 금고 (Knowledge Vault)"
+  },
+  "In addition to workflow automation, SISTAR Solutions builds private, encrypted Retrieval-Augmented Generation (RAG) knowledge vaults for clients. Corporate contracts, technical formulas, regulatory approvals, and internal emails are indexed in Supabase pgvector instances isolated by customer encryption keys.": {
+    "ko": "SISTAR Solutions는 워크플로우 자동화뿐만 아니라, 고객사 전용의 암호화된 검색증강생성(RAG) 지식 금고를 구축합니다. 기업 계약서, 기술 공식, 인허가 규제 승인 문서, 사내 이메일 등 핵심 데이터는 고객 전용 암호화 키로 격리된 Supabase pgvector 인스턴스에 인덱싱됩니다."
+  },
+  "Dedicated Vector Isolation": {
+    "ko": "전용 벡터 격리 체계 (Dedicated Vector Isolation)"
+  },
+  "Client document vectors are stored in dedicated PostgreSQL schemas with row-level security, ensuring that company trade secrets are never shared with public LLM training datasets.": {
+    "ko": "고객사 문서 벡터는 행 수준 보안(RLS)이 적용된 전용 PostgreSQL 스키마에 격리 저장되어, 기업의 영업비밀이 퍼블릭 LLM 학습 데이터셋에 유출되거나 공유되지 않도록 완벽히 통제됩니다."
+  },
+  "Zero-Hallucination Guardrails": {
+    "ko": "할루시네이션 제로 가드레일 (Zero-Hallucination Guardrails)"
+  },
+  "Query answers must produce strict page-level source citations directly from customer PDFs or spreadsheets; responses lacking high-confidence attribution are automatically suppressed.": {
+    "ko": "질의에 대한 응답은 고객사 PDF 또는 스프레드시트 원본의 엄격한 페이지 단위 출처 인용을 동반해야 하며, 신뢰도 높은 근거가 부족한 응답은 자동으로 억제(Suppression) 처리됩니다."
+  },
+  "Autonomous Dify Workflows": {
+    "ko": "자율형 Dify 워크플로우 (Autonomous Dify Workflows)"
+  },
+  "Beyond answering questions, client agents can execute actions: generating official invoice PDFs, queueing supplier purchase orders, and filing weekly VAT draft reports automatically.": {
+    "ko": "단순 질의응답을 넘어, 고객사 전용 에이전트는 공식 인보이스 PDF 발행, 공급업체 발주서 큐(Queue) 등록, 주간 부가가치세 초안 리포트 제출 등의 실제 비즈니스 액션을 자율적으로 실행합니다."
+  },
+  "Chapter 07 Governance • IP Protection": {
+    "ko": "제07장 거버넌스 • 지식재산권(IP) 보호"
+  },
+  "Client IP Non-Disclosure & 70/30 Programmatic Settlement": {
+    "ko": "고객 IP 기밀유지 및 70/30 프로그래밍 정산 체계"
+  },
+  "SISTAR Solutions guarantees complete intellectual property protection through bilateral NDAs executed under Singapore and Delaware jurisdiction. All consulting fees and recurring maintenance agreements participate in our standard 70/30 financial protocol.": {
+    "ko": "SISTAR Solutions는 싱가포르 및 델라웨어 관할권 하에 체결되는 쌍무적 NDA를 통해 지식재산권의 완전한 보호를 보장합니다. 모든 컨설팅 자문료 및 반복 유지보수 계약금은 당사의 표준 70/30 재무 프로토콜에 따라 정산됩니다."
+  },
+  "Of all consulting retainers and custom development fees collected: 70% is disbursed immediately to fund solution engineers, system integration specialists, and customer training staff, while 30% is allocated to holding reserve funds, cloud infrastructure capacity, and proprietary open-source framework maintenance.": {
+    "ko": "수취된 모든 컨설팅 리테이너 및 커스텀 개발 비용 중 70%는 솔루션 엔지니어, SI 전문가, 고객사 교육 인력 운용을 위해 즉각 집행되며, 나머지 30%는 유보 준비금, 클라우드 인프라 용량 확보, 자체 오픈소스 프레임워크 유지보수에 배분됩니다."
+  },
+  "One Spark, Infinite Galaxifying: SISTAR Solutions liberates enterprises from software rent-seeking through elegant, sovereign operational engineering. Powered by the Qubit Algorithm™, Google Workspace, and the Biz Galaxy constellation. Transformation Audit: https://sistarcompany.com • Solutions Lead: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: SISTAR Solutions는 우아하고 자주적인 운영 엔지니어링을 통해 소프트웨어 지대추구(Rent-seeking) 관행으로부터 기업을 해방시킵니다. Qubit Algorithm™, Google Workspace, 그리고 Biz Galaxy 콘스텔레이션 기반. 혁신 진단 감사: https://sistarcompany.com • 솔루션 리드: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Consulting Mandate • Enterprise Transformation": {
+    "ko": "컨설팅 맨데이트 • 엔터프라이즈 혁신"
+  },
+  "The Anti-SaaS Doctrine: Eliminating Per-Seat Software Extortion": {
+    "ko": "안티 SaaS 독트린: 사용자당 과금(Per-Seat) 갈취 구조의 철폐"
+  },
+  "Enterprise SaaS vendors extract billions of dollars annually by taxing company headcount with recurring monthly seat fees. SISTAR Solutions replaces bloated, slow third-party enterprise tools with high-speed Google Workspace relational databases that your staff already knows how to use—saving over 85% of software overhead while unlocking custom vector AI.": {
+    "ko": "엔터프라이즈 SaaS 벤더들은 월별 계정 라이선스 요금을 통해 기업의 인력 규모에 과세하듯 매년 수십억 달러를 갈취하고 있습니다. SISTAR Solutions는 비대하고 느린 서드파티 엔터프라이즈 툴을 임직원들에게 이미 친숙한 고속 Google Workspace 관계형 데이터베이스로 대체함으로써, 소프트웨어 오버헤드를 85% 이상 절감하는 동시에 맞춤형 벡터 AI 역량을 구현합니다."
+  },
+  "Technical Architecture • Google Core": {
+    "ko": "기술 아키텍처 • Google Core"
+  },
+  "SaaS Elimination • Replacement Matrix": {
+    "ko": "SaaS 제거 • 대체 매트릭스"
+  },
+  "Legacy Enterprise SaaS (SAP / Salesforce / Zoho)": {
+    "ko": "레거시 엔터프라이즈 SaaS (SAP / Salesforce / Zoho)"
+  },
+  "Enterprise Bottom-Line Impact": {
+    "ko": "기업 순이익(Bottom-Line) 직접적 임팩트"
+  },
+  "Annual Licensing Cost (50 Users)": {
+    "ko": "연간 라이선스 비용 (50인 유저 기준)"
+  },
+  "$45,000 - $120,000 / year recurring forever": {
+    "ko": "연간 $45,000 ~ $120,000 (영구 반복 지출)"
+  },
+  "$0 additional licensing (uses existing Google seats)": {
+    "ko": "추가 라이선스 비용 $0 (기존 Google 계정 라이선스 연동)"
+  },
+  "100% recurring SaaS spend eliminated": {
+    "ko": "반복 SaaS 소프트웨어 지출 100% 완전 절감"
+  },
+  "Implementation Timeline": {
+    "ko": "도입 및 배포 타임라인"
+  },
+  "6 to 18 months of disruptive consulting": {
+    "ko": "운영 단절을 초래하는 6~18개월의 장기 컨설팅"
+  },
+  "14 to 30 days turnkey go-live": {
+    "ko": "14~30일 턴키 가동(Go-Live)"
+  },
+  "90% faster time-to-value realization": {
+    "ko": "가치 실현 소요 시간(Time-to-Value) 90% 가속"
+  },
+  "Customization Rigidity": {
+    "ko": "커스터마이징 경직성 (Customization Rigidity)"
+  },
+  "Expensive proprietary scripting (Apex, ABAP)": {
+    "ko": "고비용 독점 스크립팅(Apex, ABAP) 종속"
+  },
+  "Instant adaptability by internal staff": {
+    "ko": "사내 내부 인력의 즉각적 커스텀 적응력"
+  },
+  "Data Ownership & Export": {
+    "ko": "데이터 주권(소유권) 및 추출 용이성"
+  },
+  "Proprietary vendor lock-in; slow export formats": {
+    "ko": "벤더 종속(Lock-in) 및 비효율적 데이터 반출"
+  },
+  "Direct Google Cloud SQL / CSV / JSON export": {
+    "ko": "Google Cloud SQL / CSV / JSON 다이렉트 추출"
+  },
+  "Complete sovereign data control": {
+    "ko": "완전한 데이터 주권 및 통제권 확보"
+  },
+  "Integrated AI Vector Search": {
+    "ko": "통합 AI 벡터 검색 엔진"
+  },
+  "Costly add-on packages with opaque data training": {
+    "ko": "학습 구조가 불투명한 고비용 애드온 패키지"
+  },
+  "Integrated Supabase pgvector + Google NotebookLM": {
+    "ko": "Supabase pgvector + Google NotebookLM 네이티브 통합"
+  },
+  "Private, zero-hallucination knowledge RAG": {
+    "ko": "프라이빗 제로 환각(Zero-Hallucination) 지식 기반 RAG"
+  },
+  "Departmental Automation • 8-Team Engine": {
+    "ko": "부문별 업무 자동화 • 8개 팀 엔진"
+  },
+  "Consulting ROI • Cost Elimination Formula": {
+    "ko": "컨설팅 ROI • 비용 절감 산출 공식"
+  },
+  "Transformation Scope Tier": {
+    "ko": "트랜스포메이션 스코프 티어"
+  },
+  "Target Organization Size": {
+    "ko": "적용 대상 엔터프라이즈 규모"
+  },
+  "Deployment Window": {
+    "ko": "구축 및 배포 기간(Deployment Window)"
+  },
+  "One-Time Setup Fee": {
+    "ko": "일회성 초기 셋업 수수료"
+  },
+  "Year 1 Net Client Cash Savings": {
+    "ko": "도입 1차년도 고객 순현금 절감액"
+  },
+  "10 - 25 Employees (Indie Brands / Retailers)": {
+    "ko": "임직원 10~25인 (인디 브랜드 / 리테일러)"
+  },
+  "14 Business Days": {
+    "ko": "영업일 기준 14일"
+  },
+  "$24,000+ Net Saved": {
+    "ko": "순 절감액 $24,000 이상"
+  },
+  "Full 8-Department Enterprise": {
+    "ko": "8대 핵심 부서 통합 엔터프라이즈"
+  },
+  "25 - 100 Employees (Manufacturers / Importers)": {
+    "ko": "임직원 25~100인 (제조사 / 수입사)"
+  },
+  "30 Business Days": {
+    "ko": "영업일 기준 30일"
+  },
+  "$85,000+ Net Saved": {
+    "ko": "순 절감액 $85,000 이상"
+  },
+  "Multinational Matrix Cluster": {
+    "ko": "다국적 매트릭스 클러스터"
+  },
+  "100+ Employees across multiple countries": {
+    "ko": "다국가 거점 임직원 100인 이상"
+  },
+  "45 Business Days": {
+    "ko": "영업일 기준 45일"
+  },
+  "$240,000+ Net Saved": {
+    "ko": "순 절감액 $240,000 이상"
+  },
+  "Private Vector RAG Integration": {
+    "ko": "프라이빗 벡터 RAG 통합"
+  },
+  "Dedicated pgvector knowledge base + Dify agents": {
+    "ko": "전용 pgvector 지식 베이스 + Dify 에이전트"
+  },
+  "10 Business Days": {
+    "ko": "영업일 기준 10일"
+  },
+  "$6,500 add-on": {
+    "ko": "$6,500 추가 모듈"
+  },
+  "Eliminates 3 full-time research FTEs": {
+    "ko": "전임 연구 인력(FTE) 3명 감축 효과"
+  },
+  "AI Customization • Private Knowledge": {
+    "ko": "AI 커스터마이징 • 프라이빗 지식 자산"
+  },
+  "Governance • IP Protection": {
+    "ko": "거버넌스 • 지식재산권(IP) 보호"
+  },
+  "Chapter 01 Systems Directorate • NFQ Solutions Core": {
+    "ko": "제1장 시스템 디렉터레이트 • NFQ Solutions 핵심 체계"
+  },
+  "*SC - NFQ Solutions: Non-Finite Quantum Systems & Partner Architecture": {
+    "ko": "*SC - NFQ Solutions: 무한 양자 시스템 및 파트너 아키텍처"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), NFQ Solutions (Non-Finite Quantum Solutions) serves as the master systems architecture authority. It specializes in optimizing enterprise software topologies, designing federated multi-tenant data bridges, eliminating redundant computing workloads, and aligning partner corporate infrastructures with the *SC quantum-inspired operating philosophy.": {
+    "ko": "*SC 레이어 4 에코시스템 아레나(Biz-Hub) 내에서, NFQ Solutions(Non-Finite Quantum Solutions)는 마스터 시스템 아키텍처 총괄 권한을 수행합니다. 당사는 엔터프라이즈 소프트웨어 토폴로지 최적화, 연합형 멀티테넌트 데이터 브리지 설계, 중복 연산 워크로드 제거, 그리고 파트너사의 기업 인프라를 *SC 양자 영감(quantum-inspired) 운영 철학과 완벽히 정렬하는 데 특화되어 있습니다."
+  },
+  "Event-Bus Inter-Service Propagation Latency": {
+    "ko": "이벤트 버스 서비스 간 전파 레이턴시"
+  },
+  "Open Standards (JSON-RPC, gRPC, PostgreSQL, OAuth2)": {
+    "ko": "개방형 표준 (JSON-RPC, gRPC, PostgreSQL, OAuth2)"
+  },
+  "Partner Compute Cost Reduction Post-Optimization": {
+    "ko": "최적화 후 파트너 컴퓨팅 비용 절감률"
+  },
+  "Vendor-Agnostic Sovereign Deployment Guarantee": {
+    "ko": "벤더 무관 소버린 배포 보장"
+  },
+  "Through our dedicated subsidiaries like SISTAR Solutions, NFQ bridges the gap between high-level algorithmic theory and down-to-earth business execution: transforming chaotic, multi-vendor legacy software sprawls into clean, unified, zero-license corporate operating platforms.": {
+    "ko": "SISTAR Solutions와 같은 전문 자회사를 통해, NFQ는 고차원적 알고리즘 이론과 실증적 비즈니스 실행 간의 간극을 해소합니다. 이는 복잡하게 난립한 멀티 벤더 레거시 소프트웨어 스프롤(sprawl)을 명료하게 통합된 제로 라이선스 기업 운영 플랫폼으로 전환하는 작업입니다."
+  },
+  "Chapter 02 Systems Architecture • Non-Finite Optimization": {
+    "ko": "제2장 시스템 아키텍처 • 무한 최적화"
+  },
+  "Non-Finite Systems Optimization: The Dynamic Allocation Mesh": {
+    "ko": "무한 시스템 최적화: 동적 할당 메시"
+  },
+  "NFQ Solutions separates enterprise infrastructure into decoupled functional states: an immutable storage layer, an ephemeral serverless execution fleet, and a real-time reactive event mesh. Workloads scale from zero to tens of thousands of concurrent transactions in milliseconds.": {
+    "ko": "NFQ Solutions는 엔터프라이즈 인프라를 상호 분리된(decoupled) 기능 상태, 즉 불변 스토리지 레이어, 임시 서버리스 실행 플릿, 실시간 반응형 이벤트 메시로 격리합니다. 워크로드는 수 밀리초 내에 제로(0)에서 수만 건의 동시 트랜잭션 규모로 스케일링됩니다."
+  },
+  "Zero Idle Compute": {
+    "ko": "유휴 컴퓨팅 연산 제로화"
+  },
+  "Worker containers spawn instantly when messages hit the queue and shut down the moment execution concludes, ensuring clients never pay for idle cloud servers running empty loops at 3:00 AM.": {
+    "ko": "메시지가 큐에 인입되는 즉시 워커 컨테이너가 기동되고 작업 실행이 완료되는 순간 종료되어, 새벽 시간대 유휴 루프를 실행하는 클라우드 서버 비용 지출을 원천 차단합니다."
+  },
+  "Idempotent Execution": {
+    "ko": "멱등적 실행 (Idempotent Execution)"
+  },
+  "Every transaction payload carries a cryptographic hash token. Network retries or duplicate webhook events are safely recognized and deduplicated with zero double-billing risk.": {
+    "ko": "모든 트랜잭션 페이로드에는 암호화 해시 토큰이 부여됩니다. 네트워크 재시도나 중복 웹훅 이벤트가 발생하더라도 이를 안전하게 식별 및 중복 제거하여 이중 과금 위험을 완벽히 배제합니다."
+  },
+  "End-to-End Tracing": {
+    "ko": "엔드투엔드 추적성 (End-to-End Tracing)"
+  },
+  "Every API call generates an OpenTelemetry trace ID, providing real-time visibility into database query execution times, edge cache hits, and external service response latencies.": {
+    "ko": "모든 API 호출은 OpenTelemetry 트레이스 ID를 생성하여 데이터베이스 쿼리 실행 시간, 에지 캐시 히트율, 외부 서비스 응답 지연 시간 전반에 대한 실시간 가시성을 제공합니다."
+  },
+  "Chapter 03 Data Architecture • Federation Protocol": {
+    "ko": "Chapter 03 데이터 아키텍처 • 페더레이션 프로토콜"
+  },
+  "Enterprise Harmonization & Cross-System Data Federation": {
+    "ko": "엔터프라이즈 하모니제이션 및 이기종 시스템 간 데이터 페더레이션"
+  },
+  "Partner enterprises frequently maintain incompatible software islands: accounting runs on local Indonesian software, inventory on spreadsheets, and sales in WhatsApp. NFQ federates these disparate databases into a synchronized operational fabric.": {
+    "ko": "파트너 기업들은 상호 호환되지 않는 독립적 소프트웨어 사일로를 유지하는 경우가 빈번합니다. 회계는 인도네시아 로컬 소프트웨어, 재고는 스프레드시트, 영업은 WhatsApp 상에서 분절되어 운영됩니다. NFQ는 이러한 이종 데이터베이스를 동기화된 단일 운영 패브릭으로 연합(federate)합니다."
+  },
+  "Chapter 04 Process Automation • Event-Driven Core": {
+    "ko": "Chapter 04 프로세스 자동화 • 이벤트 기반 코어"
+  },
+  "Distributed Workflow Orchestration & Real-Time Event Bus": {
+    "ko": "분산 워크플로우 오케스트레이션 및 실시간 이벤트 버스"
+  },
+  "NFQ Solutions treats corporate business logic as directed acyclic graphs (DAGs). When a customer places an order, the event bus simultaneously reserves inventory, queues courier fulfillment, generates accounting vouchers, and sends WhatsApp order notifications.": {
+    "ko": "NFQ Solutions는 기업의 비즈니스 로직을 유향 비순환 그래프(DAG)로 모델링합니다. 고객이 주문을 접수하면 이벤트 버스는 재고 할당, 물류 배송 대기열 등록, 회계 전표 생성, WhatsApp 주문 알림 발송을 동시다발적으로 처리합니다."
+  },
+  "Sub-50ms Multi-Action Fanout": {
+    "ko": "50ms 미만 멀티 액션 팬아웃(Fanout)"
+  },
+  "Instead of slow sequential HTTP requests that delay cashier checkout by several seconds, the NFQ event bus fans out tasks simultaneously, finishing full order processing in under 50 milliseconds.": {
+    "ko": "결제 처리 속도를 수 초간 지연시키는 비효율적인 순차적 HTTP 요청 대신, NFQ 이벤트 버스는 다중 작업을 병렬 팬아웃하여 50밀리초 이내에 전체 주문 처리를 완결합니다."
+  },
+  "Independent Service Resiliency": {
+    "ko": "독립적 서비스 복원력 (Service Resiliency)"
+  },
+  "If an external courier API experiences temporary downtime, the order still commits to the ledger, and the logistics dispatch task safely queues for automatic exponential backoff retry.": {
+    "ko": "외부 물류 API에 일시적 장애가 발생하더라도 주문 데이터는 원장에 정상 커밋되며, 물류 배차 태스크는 지수 백오프 기반 자동 재시도 큐에 안전하게 적재됩니다."
+  },
+  "Chapter 05 Quantitative Optimization • Efficiency Math": {
+    "ko": "Chapter 05 정량적 최적화 • 효율성 수리학"
+  },
+  "Quantitative Optimization Metrics & Latency Formula": {
+    "ko": "정량적 최적화 메트릭 및 레이턴시 산식"
+  },
+  "NFQ Solutions benchmarks architectural efficiency by quantifying total system latency, compute resource consumption, and per-transaction cloud infrastructure spend.": {
+    "ko": "NFQ Solutions는 전체 시스템 지연 시간, 컴퓨팅 리소스 소비량, 트랜잭션당 클라우드 인프라 지출을 정량화하여 아키텍처 효율성을 벤치마킹합니다."
+  },
+  "Where Availability_Ratio &ge; 0.9999 and &theta; is a user experience penalty constant. Architectures optimized by NFQ consistently achieve a 4.8x higher SEQ compared to traditional monolithic container stacks.": {
+    "ko": "여기서 Availability_Ratio &ge; 0.9999이며 &theta;는 사용자 경험 페널티 상수입니다. NFQ가 최적화한 아키텍처는 기존 모놀리식 컨테이너 스택 대비 일관되게 4.8배 더 높은 SEQ를 달성합니다."
+  },
+  "Chapter 06 Open Standards • Sovereign Toolkits": {
+    "ko": "Chapter 06 오픈 스탠다드 • 소버린 툴킷"
+  },
+  "Open-Source Enterprise Toolkits & Sovereign Control": {
+    "ko": "오픈소스 엔터프라이즈 툴킷 및 주권적 통제권"
+  },
+  "NFQ Solutions rejects black-box proprietary software. All solutions are delivered as clean, well-commented code built upon battle-tested open-source components (PostgreSQL, Docker, NATS, Python, Node.js), ensuring complete sovereign ownership by the client.": {
+    "ko": "NFQ Solutions는 블랙박스 형태의 독점적(proprietary) 소프트웨어를 지양합니다. 모든 솔루션은 검증된 오픈소스 컴포넌트(PostgreSQL, Docker, NATS, Python, Node.js)를 기반으로 정교한 주석과 클린 코드로 제공되어 클라이언트의 완전한 기술적 주권 소유권을 보장합니다."
+  },
+  "PostgreSQL Core": {
+    "ko": "PostgreSQL 코어"
+  },
+  "Built on standard SQL standards and pgvector extensions, eliminating specialized database vendor lock-in and allowing easy migration across any cloud provider.": {
+    "ko": "표준 SQL 규격 및 pgvector 확장을 기반으로 구축되어 특정 전문 데이터베이스 벤더에 대한 종속성(Lock-in)을 제거하고, 모든 클라우드 공급자 간 원활한 마이그레이션을 지원합니다."
+  },
+  "Docker Containerization": {
+    "ko": "Docker 컨테이너화"
+  },
+  "Every microservice is packaged into standard OCI containers that run identically on local developer laptops, bare-metal servers, or hyperscaler cloud clusters.": {
+    "ko": "모든 마이크로서비스는 로컬 개발자 노트북, 베어메탈 서버, 하이퍼스케일러 클라우드 클러스터 전반에서 동일하게 구동되는 표준 OCI 컨테이너로 패키징됩니다."
+  },
+  "REST & JSON-RPC": {
+    "ko": "REST 및 JSON-RPC"
+  },
+  "Endpoints follow standard HTTP semantics and JSON formatting, ensuring that external third-party software can integrate in minutes without custom drivers.": {
+    "ko": "엔드포인트는 표준 HTTP 시맨틱과 JSON 포맷을 준수하여 외부 서드파티 소프트웨어가 별도의 커스텀 드라이버 없이도 수 분 내에 연동될 수 있도록 보장합니다."
+  },
+  "Multi-Jurisdiction Security & 70/30 Programmatic Settlement": {
+    "ko": "다중 관할권 보안 및 70/30 프로그래머블 정산"
+  },
+  "NFQ Solutions enforces multi-jurisdictional compliance spanning Singapore PDPA, Indonesian PDP Law, and European GDPR data protection statutes. Systems revenues participate in the master *SC settlement protocol.": {
+    "ko": "NFQ Solutions는 싱가포르 PDPA, 인도네시아 PDP 법, 유럽 GDPR 데이터 보호 법령을 포괄하는 다중 관할권 규제 준수를 집행합니다. 시스템 수익은 마스터 *SC 정산 프로토콜에 연동됩니다."
+  },
+  "Of all revenues received from enterprise systems architecture retainers and optimization royalties: 70% is immediately allocated to cloud infrastructure compute, developer salaries, and security audits, while 30% is deposited into holding capital reserves, quantum algorithm patents, and shareholder dividends.": {
+    "ko": "엔터프라이즈 시스템 아키텍처 자문료 및 최적화 로열티로부터 발생하는 모든 수익 중 70%는 클라우드 인프라 컴퓨팅, 개발자 급여 및 보안 감사에 즉각 배정되며, 30%는 지주 자본 준비금 적립, 양자 알고리즘 특허 확보 및 주주 배당금으로 귀속됩니다."
+  },
+  "One Spark, Infinite Galaxifying: NFQ Solutions creates robust, sovereign, non-finite digital architectures for the enterprise leaders of tomorrow. Powered by the Qubit Algorithm™, open standards, and the Biz Galaxy constellation. Architecture Desk: https://sistarcompany.com • Chief Architect: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: NFQ Solutions는 내일의 엔터프라이즈 리더를 위한 견고하고 주권적이며 비유한적(non-finite)인 디지털 아키텍처를 구축합니다. Qubit Algorithm™, 개방형 표준, 그리고 Biz Galaxy 콘스텔레이션을 기반으로 구동됩니다. 아키텍처 데스크: https://sistarcompany.com • 수석 아키텍트: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Systems Directorate • NFQ Solutions Core": {
+    "ko": "시스템 총괄본부 • NFQ Solutions 코어"
+  },
+  "The Non-Finite Paradigm: Boundless Scalability Without Linear Hardware Lockup": {
+    "ko": "비유한적(Non-Finite) 패러다임: 선형적 하드웨어 종속 없는 무한 확장성"
+  },
+  "Traditional corporate IT views enterprise computing as a finite resource constrained by CPU cores, server rack leases, and rigid monolithic software suites. NFQ Solutions approaches enterprise systems as continuous probability fields: dynamically allocating serverless workers, federating distributed vector databases, and synchronizing workflows with event-driven precision.": {
+    "ko": "기존 기업 IT는 엔터프라이즈 컴퓨팅을 CPU 코어, 서버 랙 임대, 경직된 모놀리식 소프트웨어 스위트에 종속된 유한한 자원으로 파악합니다. 반면 NFQ Solutions는 엔터프라이즈 시스템을 연속적인 확률장(continuous probability fields)으로 접근합니다. 서버리스 워커를 동적으로 할당하고, 분산 벡터 데이터베이스를 연합하며, 이벤트 기반의 정밀성으로 워크플로우를 동기화합니다."
+  },
+  "Systems Architecture • Non-Finite Optimization": {
+    "ko": "시스템 아키텍처 • 비유한적 최적화"
+  },
+  "Data Architecture • Federation Protocol": {
+    "ko": "데이터 아키텍처 • 연합 프로토콜"
+  },
+  "Data Island": {
+    "ko": "데이터 아일랜드"
+  },
+  "Legacy Protocol / DB": {
+    "ko": "레거시 프로토콜 / DB"
+  },
+  "NFQ Federation Adapter": {
+    "ko": "NFQ 연합 어댑터"
+  },
+  "Harmonized Destination": {
+    "ko": "통합 대상 시스템"
+  },
+  "Sync Frequency": {
+    "ko": "동기화 주기"
+  },
+  "Local Tax & Invoicing": {
+    "ko": "현지 세무 및 인보이스 발행"
+  },
+  "DJP e-Faktur Desktop XML": {
+    "ko": "DJP e-Faktur 데스크톱 XML"
+  },
+  "Automated XML Parse & Validation Script": {
+    "ko": "자동화 XML 파싱 및 유효성 검증 스크립트"
+  },
+  "Standardized Google Workspace Sheets": {
+    "ko": "표준화된 Google Workspace Sheets"
+  },
+  "Real-time webhook trigger": {
+    "ko": "실시간 웹훅 트리거"
+  },
+  "Warehouse Stock Feeds": {
+    "ko": "물류창고 재고 피드"
+  },
+  "Legacy Barcode SQL DB": {
+    "ko": "레거시 바코드 SQL DB"
+  },
+  "CCTV Vision Inference Bridge + gRPC": {
+    "ko": "CCTV 비전 추론 브리지 + gRPC"
+  },
+  "Qubit Central Inventory Master": {
+    "ko": "Qubit 중앙 재고 마스터"
+  },
+  "Every 60 seconds continuous": {
+    "ko": "매 60초 주기 연속 동기화"
+  },
+  "Omnichannel Sales": {
+    "ko": "옴니채널 세일즈"
+  },
+  "Shopee / Tokopedia REST APIs": {
+    "ko": "Shopee / Tokopedia REST API"
+  },
+  "Unified Open-Schema Webhook Receiver": {
+    "ko": "통합 오픈 스키마 웹훅 수신기"
+  },
+  "Cross-Brand Sales Dashboard": {
+    "ko": "크로스 브랜드 세일즈 대시보드"
+  },
+  "Sub-second event dispatch": {
+    "ko": "서브세컨드(초단위 미만) 이벤트 디스패치"
+  },
+  "Corporate Knowledge Memos": {
+    "ko": "기업 지식 메모"
+  },
+  "Google Drive / PDF Contracts": {
+    "ko": "Google Drive / PDF 계약서"
+  },
+  "Text Chunking & pgvector Pipeline": {
+    "ko": "텍스트 청킹 및 pgvector 파이프라인"
+  },
+  "NotebookLM RAG Vector Vault": {
+    "ko": "NotebookLM RAG 벡터 볼트"
+  },
+  "Nightly 02:00 AM batch sync": {
+    "ko": "야간 02:00 배치 동기화"
+  },
+  "Process Automation • Event-Driven Core": {
+    "ko": "프로세스 자동화 • 이벤트 기반 코어"
+  },
+  "Quantitative Optimization • Efficiency Math": {
+    "ko": "정량적 최적화 • 효율성 수리학"
+  },
+  "Performance Dimension": {
+    "ko": "성능 평가 차원"
+  },
+  "Pre-Optimization Legacy Stack": {
+    "ko": "최적화 이전 레거시 스택"
+  },
+  "NFQ Optimized Architecture": {
+    "ko": "NFQ 최적화 아키텍처"
+  },
+  "Measured Improvement": {
+    "ko": "실측 개선치"
+  },
+  "P99 Checkout Latency": {
+    "ko": "P99 결제 레이턴시"
+  },
+  "1,850 ms (sequential blocking calls)": {
+    "ko": "1,850 ms (순차 블로킹 호출)"
+  },
+  "42 ms (parallel reactive event bus)": {
+    "ko": "42 ms (병렬 리액티브 이벤트 버스)"
+  },
+  "-97.7% Latency Reduction": {
+    "ko": "-97.7% 레이턴시 단축"
+  },
+  "Cloud Spend per 100K Transactions": {
+    "ko": "10만 건 트랜잭션당 클라우드 지출 비용"
+  },
+  "$142.00 (provisioned virtual machines)": {
+    "ko": "$142.00 (프로비저닝된 가상 머신)"
+  },
+  "$18.50 (serverless worker auto-scaling)": {
+    "ko": "$18.50 (서버리스 워커 오토스케일링)"
+  },
+  "-87.0% Infrastructure Savings": {
+    "ko": "-87.0% 인프라 비용 절감"
+  },
+  "Cold Start Recovery Time": {
+    "ko": "콜드 스타트 복구 시간"
+  },
+  "8 to 15 minutes manual container spin-up": {
+    "ko": "8~15분 (수동 컨테이너 기동)"
+  },
+  "< 250 milliseconds serverless boot": {
+    "ko": "< 250밀리초 (서버리스 부팅)"
+  },
+  "98% faster disaster recovery": {
+    "ko": "재해 복구 98% 가속화"
+  },
+  "Monthly System Maintenance Hours": {
+    "ko": "월간 시스템 유지보수 공수"
+  },
+  "48 hours manual patching & database tuning": {
+    "ko": "48시간 (수동 패치 및 데이터베이스 튜닝)"
+  },
+  "2.5 hours automated CI/CD monitoring": {
+    "ko": "2.5시간 (자동화된 CI/CD 모니터링)"
+  },
+  "95% engineering labor freed": {
+    "ko": "엔지니어링 공수 95% 절감"
+  },
+  "Open Standards • Sovereign Toolkits": {
+    "ko": "오픈 스탠다드 • 소버린 툴킷"
+  },
+  "Chapter 01 Creative Engine • Studio Butter Core": {
+    "ko": "Chapter 01 크리에이티브 엔진 • Studio Butter 코어"
+  },
+  "*SC - Studio Butter: High-Velocity Creative Lab & Brand Acceleration Engine": {
+    "ko": "*SC - Studio Butter: 초고속 크리에이티브 랩 & 브랜드 액셀러레이션 엔진"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Studio Butter functions as the autonomous creative production house and viral storytelling laboratory. Operating across Seoul, Jakarta, and Ho Chi Minh City, it manufactures hundreds of high-converting short-form videos, interactive TikTok Shop live streams, and 3D product renders per week—transforming physical products into irresistible digital culture.": {
+    "ko": "*SC Layer 4 생태계 아레나(Biz-Hub) 내에서, Studio Butter는 자율형 크리에이티브 프로덕션 하우스이자 바이럴 스토리텔링 랩으로 기능합니다. 서울, 자카르타, 호치민 전역을 거점으로 운영되며, 매주 수백 편의 고전환 숏폼 영상, 인터랙티브 TikTok Shop 라이브 스트리밍, 3D 제품 렌더를 제작하여 실물 제품을 강력한 흡인력의 디지털 문화 콘텐츠로 전환합니다."
+  },
+  "Modular Short-Form Videos Produced Monthly": {
+    "ko": "월간 제작 모듈형 숏폼 영상 수"
+  },
+  "Concept-to-Live Media Flight Turnaround": {
+    "ko": "컨셉 도출부터 미디어 라이브 집행(Flight)까지의 턴어라운드 타임"
+  },
+  "Average ROAS on Studio Butter Ad Creatives": {
+    "ko": "Studio Butter 광고 크리에이티브의 평균 ROAS"
+  },
+  "Native Vertical 9:16 Mobile-First Framing": {
+    "ko": "네이티브 수직형 9:16 모바일 퍼스트 프레이밍"
+  },
+  "From viral unboxing reels for the Rp 1,320 Micro-Sachet to heartwarming rescue pet documentaries for PetFood Bank Re:D, Studio Butter gives emerging co-brands and franchisees the storytelling firepower of a Fortune 500 consumer brand at a fraction of the cost.": {
+    "ko": "Rp 1,320 마이크로 사셰(Micro-Sachet)의 바이럴 언박싱 릴스부터 PetFood Bank Re:D의 감동적인 유기동물 구조 다큐멘터리까지, Studio Butter는 신생 코브랜드 및 프랜차이즈에 Fortune 500 소비재 브랜드 수준의 스토리텔링 화력을 극히 합리적인 비용으로 제공합니다."
+  },
+  "Chapter 02 Production Pipeline • Rapid Testing Loop": {
+    "ko": "Chapter 02 프로덕션 파이프라인 • 신속 테스트 루프"
+  },
+  "Short-Form Video Production Pipeline & Rapid Testing Loop": {
+    "ko": "숏폼 비디오 프로덕션 파이프라인 및 고속 테스트 루프"
+  },
+  "Studio Butter deploys a high-cadence production framework consisting of four distinct phases: Script Generation & Hook Mining, Rapid Batch Filming, Dynamic Modular Editing, and Algorithmic Media Flight Testing.": {
+    "ko": "Studio Butter는 스크립트 생성 및 후킹 마이닝, 신속 배치 촬영, 다이내믹 모듈러 편집, 알고리즘 기반 미디어 플라이트 테스팅의 4단계로 구성된 고주기(High-cadence) 프로덕션 프레임워크를 전개합니다."
+  },
+  "Visual Hook Engineering": {
+    "ko": "비주얼 후크 엔지니어링"
+  },
+  "Over 70% of viewers scroll past within 3 seconds. Studio Butter tests radical visual hooks: microscopic texture zooms, ASMR foil tears, and high-contrast color shifts to lock user attention.": {
+    "ko": "시청자의 70% 이상이 3초 이내에 이탈합니다. Studio Butter는 사용자의 시선을 즉각 락인(Lock-in)하기 위해 초미세 텍스처 줌, ASMR 포일 개봉음, 고대비 컬러 시프트 등 혁신적인 비주얼 후크를 정밀 테스트합니다."
+  },
+  "Combinatorial Asset Slicing": {
+    "ko": "조합형 에셋 슬라이싱"
+  },
+  "A single 1-hour shoot is sliced into 25 unique combinations of hooks, problem statements, and calls-to-action, allowing algorithms to find the winning ad variant without reshooting.": {
+    "ko": "단 1회의 1시간 촬영본을 후크, 문제 정의, CTA의 25개 고유 조합으로 슬라이싱하여, 추가 재촬영 없이도 알고리즘이 최적의 위닝 광고 베리언트를 도출하도록 설계합니다."
+  },
+  "Automated Ad Pruning": {
+    "ko": "자동화된 광고 프루닝"
+  },
+  "Any creative variant failing to hit a 2.5x ROAS after spending $30 is paused by automated webhooks, protecting client advertising budgets from creative drift.": {
+    "ko": "30달러 집행 후 ROAS 2.5배를 달성하지 못한 크리에이티브 베리언트는 자동화된 웹훅에 의해 즉각 중단되어, 크리에이티브 드리프트로부터 고객사의 광고 예산을 철저히 보호합니다."
+  },
+  "Chapter 03 Asset Portfolio • Conversion Formats": {
+    "ko": "Chapter 03 에셋 포트폴리오 • 전환 포맷"
+  },
+  "Multi-Format Digital Asset Catalog & Conversion Matrix": {
+    "ko": "멀티 포맷 디지털 에셋 카탈로그 및 전환 매트릭스"
+  },
+  "Studio Butter delivers cohesive media packages ready for deployment across TikTok, Instagram Reels, YouTube Shorts, Shopee Video, and offline storefront digital signage.": {
+    "ko": "Studio Butter는 TikTok, Instagram Reels, YouTube Shorts, Shopee Video 및 오프라인 매장 디지털 사이니지 전반에 즉각 배포 가능한 완결형 미디어 패키지를 제공합니다."
+  },
+  "Chapter 04 Live Commerce • Creator Operations": {
+    "ko": "Chapter 04 라이브 커머스 • 크리에이터 운영"
+  },
+  "Live Commerce Studio Operations & Creator Relay": {
+    "ko": "라이브 커머스 스튜디오 운영 및 크리에이터 릴레이"
+  },
+  "In Southeast Asia, live commerce accounts for up to 30% of total e-commerce gross merchandise value. Studio Butter orchestrates continuous 12-hour live streaming relays from our glass broadcast studios located inside SISTAR Mint Colored Shops.": {
+    "ko": "동남아시아에서 라이브 커머스는 전체 전자상거래 총거래액(GMV)의 최대 30%를 차지합니다. Studio Butter는 SISTAR Mint Colored Shops 내에 구축된 글래스 방송 스튜디오에서 12시간 연속 라이브 스트리밍 릴레이를 총괄 지휘합니다."
+  },
+  "In-Store Spectacle Meets Digital Scale": {
+    "ko": "오프라인 매장의 현장감과 디지털 스케일의 융합"
+  },
+  "Shoppers walking past the flagship SISTAR Mint store can watch live streams unfold through transparent soundproof glass, creating street-level energy while thousands buy products online simultaneously.": {
+    "ko": "플래그십 SISTAR Mint 매장을 지나는 고객들은 투명 방음 글래스를 통해 실시간 방송 현장을 직관하며 스트리트 레벨의 몰입감을 체감하고, 동시에 수천 명의 온라인 소비자가 실시간으로 제품을 구매합니다."
+  },
+  "Affiliate Commission Incentives": {
+    "ko": "어필리에이트 커미션 인센티브"
+  },
+  "Resident streamers earn tiered affiliate commissions (10% to 18%) directly through automated TikTok Shop webhooks, aligning creator motivation with brand sales volume.": {
+    "ko": "상주 스트리머는 자동화된 TikTok Shop 웹훅을 통해 계층화된 어필리에이트 커미션(10%~18%)을 직접 정산받으며, 이를 통해 크리에이터의 동기부여를 브랜드 매출 볼륨과 긴밀히 일치시킵니다."
+  },
+  "Chapter 05 Content Economics • Amortization Formula": {
+    "ko": "Chapter 05 콘텐츠 이코노믹스 • 상각 공식"
+  },
+  "Content Unit Economics & ROAS Multiplier Formula": {
+    "ko": "콘텐츠 단위 경제학(Unit Economics) 및 ROAS 멀티플라이어 공식"
+  },
+  "By amortizing studio space, equipment, and creator talent across dozens of co-brands, Studio Butter drops the effective cost per usable video asset to less than $45.": {
+    "ko": "Studio Butter는 스튜디오 공간, 장비, 크리에이터 인력을 수십 개의 코브랜드 전반에 분할 상각함으로써, 실질 활용 가능한 비디오 에셋당 비용을 45달러 미만으로 절감합니다."
+  },
+  "Where Production_Amortization_Cost includes studio lighting, editor hourly fees, and creator royalties, yielding an average 5.2x net return on creative production capital.": {
+    "ko": "여기서 Production_Amortization_Cost에는 스튜디오 조명, 편집자 시급, 크리에이터 로열티가 포함되며, 크리에이티브 프로덕션 자본 대비 평균 5.2배의 순수익률(Net Return)을 창출합니다."
+  },
+  "Chapter 06 Creator Alignment • Attribution Core": {
+    "ko": "Chapter 06 크리에이터 얼라인먼트 • 기여도 분석 코어"
+  },
+  "Creator Co-Ownership & Multi-Touch Attribution": {
+    "ko": "크리에이터 공동 소유권 및 멀티터치 기여도 분석"
+  },
+  "Studio Butter treats content creators as long-term equity stakeholders. Through affiliate token pools and transparent attribution tracking, top-performing video creators receive ongoing royalties for every sachet sold via their content.": {
+    "ko": "Studio Butter는 콘텐츠 크리에이터를 장기적인 지분 이해관계자로 대우합니다. 어필리에이트 토큰 풀과 투명한 기여도 추적 시스템을 통해, 최상위 성과를 달성한 영상 크리에이터는 본인의 콘텐츠로 판매된 모든 사셰에 대해 지속적인 로열티를 배분받습니다."
+  },
+  "Pixel-Level Linkage": {
+    "ko": "픽셀 단위 연계"
+  },
+  "Unique TikTok and Shopee affiliate tags tie customer purchases back to the specific video hook, allowing automated daily commission payouts directly to creator bank accounts.": {
+    "ko": "고유 틱톡(TikTok) 및 쇼피(Shopee) 제휴 태그를 통해 고객의 구매 전환을 특정 비디오 훅(Hook)으로 정밀 귀속 추적하며, 크리에이터 은행 계좌로 일일 수수료를 자동 정산 지급합니다."
+  },
+  "Cross-Border Content Export": {
+    "ko": "크로스보더 콘텐츠 수출"
+  },
+  "High-performing Indonesian video assets are translated and lip-synced via AI voiceover tools for immediate re-use in Vietnam (SCV) and Thailand, multiplying reach with zero reshooting.": {
+    "ko": "고성과를 입증한 인도네시아 비디오 에셋은 AI 음성 합성 및 립싱크 툴을 통해 현지화되어 베트남(SCV) 및 태국 시장에 즉각 재배포되며, 재촬영 비용 없이 도달 범위를 극대화합니다."
+  },
+  "Creator Co-Brand Incubation": {
+    "ko": "크리에이터 공동 브랜드 인큐베이션"
+  },
+  "Creators who generate over $100K in cumulative GMV are invited to launch their own co-owned brand using the *SC Auto-Formulator, transitioning from influencers to equity partners.": {
+    "ko": "누적 GMV 10만 달러 이상을 달성한 크리에이터에게는 *SC Auto-Formulator를 활용한 공동 소유 브랜드 론칭 기회가 부여되며, 단순 인플루언서에서 지분 파트너로 도약하게 됩니다."
+  },
+  "Chapter 07 IP Governance • 70/30 Settlement": {
+    "ko": "Chapter 07 IP 거버넌스 • 70/30 정산 프로토콜"
+  },
+  "Media Rights Governance & 70/30 Creative Settlement": {
+    "ko": "미디어 권리 거버넌스 및 70/30 크리에이티브 정산 모델"
+  },
+  "All video assets produced by Studio Butter are protected by global master copyright deeds. Revenue generated from media production retainers and affiliate commissions clears daily through our standard 70/30 financial protocol.": {
+    "ko": "스튜디오 버터(Studio Butter)가 제작한 모든 영상 에셋은 글로벌 마스터 저작권 증서에 의해 보호됩니다. 미디어 제작 리테이너 및 제휴 수수료로 창출된 수익은 당사의 표준 70/30 재무 프로토콜에 따라 매일 정산됩니다."
+  },
+  "Of all revenues earned through Studio Butter production retainers and live commerce commissions: 70% is disbursed to cover video editors, studio equipment amortizations, and creator revenue shares, while 30% is allocated to holding media reserves, 3D software licenses, and cross-border brand marketing pools.": {
+    "ko": "스튜디오 버터 제작 리테이너 및 라이브 커머스 수수료를 통해 발생한 전체 매출 중 70%는 비디오 편집자, 스튜디오 장비 감가상각, 크리에이터 수익 분배금으로 집행되며, 30%는 지주사 미디어 리저브, 3D 소프트웨어 라이선스, 크로스보더 브랜드 마케팅 풀로 배분됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Studio Butter turns raw products into viral global culture. Powered by the Qubit Algorithm™, short-form creative factories, and the Biz Galaxy constellation. Studio Booking: https://sistarcompany.com • Creative Director: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: 스튜디오 버터는 원초적 제품을 바이럴 글로벌 문화로 전환합니다. Qubit Algorithm™, 숏폼 크리에이티브 팩토리, 그리고 Biz Galaxy 컨스텔레이션을 기반으로 구동됩니다. 스튜디오 예약: https://sistarcompany.com • 크리에이티브 디렉터: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Creative Engine • Studio Butter Core": {
+    "ko": "크리에이티브 엔진 • 스튜디오 버터 코어(Studio Butter Core)"
+  },
+  "The Creative Flywheel: Algorithmic Content Production at Industrial Scale": {
+    "ko": "크리에이티브 플라이휠: 산업적 규모의 알고리즘 기반 콘텐츠 프로덕션"
+  },
+  "Traditional creative agencies charge $15,000 for a single polished TV commercial that takes 3 months to produce and often falls flat on mobile social feeds. Studio Butter treats creative output like industrial manufacturing: scripting, shooting, editing, and algorithmic ad testing of 60+ modular video variations weekly at an average production cost under $45 per asset.": {
+    "ko": "기존 크리에이티브 에이전시는 단 1편의 정형화된 TV 광고 제작에 3개월의 기간과 15,000달러를 청구하지만, 모바일 소셜 피드에서는 기대 이하의 성과를 거두는 경우가 많습니다. 스튜디오 버터는 크리에이티브 산출물을 산업 제조 공정처럼 취급합니다. 에셋당 평균 45달러 미만의 제작비로 매주 60개 이상의 모듈식 비디오 베리에이션에 대한 스크립트 작성, 촬영, 편집 및 알고리즘 광고 테스팅을 실행합니다."
+  },
+  "Production Pipeline • Rapid Testing Loop": {
+    "ko": "프로덕션 파이프라인 • 신속 테스팅 루프"
+  },
+  "Asset Portfolio • Conversion Formats": {
+    "ko": "에셋 포트폴리오 • 전환 포맷"
+  },
+  "Asset Format": {
+    "ko": "에셋 포맷"
+  },
+  "Technical Spec": {
+    "ko": "기술 사양(Technical Spec)"
+  },
+  "Primary Platform": {
+    "ko": "주요 플랫폼"
+  },
+  "Target Metric / Objective": {
+    "ko": "목표 지표 / KPI"
+  },
+  "Avg Production Cycle": {
+    "ko": "평균 프로덕션 사이클"
+  },
+  "ASMR Product Texture Reel": {
+    "ko": "ASMR 제품 텍스처 릴(Reel)"
+  },
+  "9:16 Vertical 4K 60fps (Acoustic Audio)": {
+    "ko": "9:16 버티컬 4K 60fps (어쿠스틱 오디오)"
+  },
+  "Top-of-Funnel Viral Reach (K-Factor > 0.45)": {
+    "ko": "상위 퍼널 바이럴 도달률 (K-Factor > 0.45)"
+  },
+  "User Problem • Solution UGC": {
+    "ko": "고객 페인포인트 • 솔루션 중심 UGC"
+  },
+  "9:16 Vertical 1080p with Captions": {
+    "ko": "9:16 버티컬 1080p (자막 포함)"
+  },
+  "Direct Conversion (CAC < $3.50)": {
+    "ko": "직접 전환(Direct Conversion, CAC < $3.50)"
+  },
+  "48 Hours": {
+    "ko": "48시간"
+  },
+  "3D Micro-Sachet Disassembly": {
+    "ko": "3D 마이크로 사셰(Micro-Sachet) 분해 렌더링"
+  },
+  "Blender 3D Photoreal Render (1:1 & 9:16)": {
+    "ko": "Blender 3D 포토리얼 렌더 (1:1 & 9:16)"
+  },
+  "Brand Website & Retail POS Display": {
+    "ko": "브랜드 웹사이트 및 리테일 POS 디스플레이"
+  },
+  "Scientific Credibility & Trust Building": {
+    "ko": "과학적 신뢰성 및 신뢰도 구축"
+  },
+  "Live Stream Graphic Overlay Pack": {
+    "ko": "라이브 스트림 그래픽 오버레이 팩"
+  },
+  "Transparent Alpha MOV / WebM Overlays": {
+    "ko": "투명 알파 MOV / WebM 오버레이"
+  },
+  "Flash Sale Scarcity & Real-Time GMV Boost": {
+    "ko": "플래시 세일 희소성 전략 및 실시간 GMV 극대화"
+  },
+  "12 Hours": {
+    "ko": "12시간"
+  },
+  "Live Commerce • Creator Operations": {
+    "ko": "라이브 커머스 • 크리에이터 운영(Operations)"
+  },
+  "Content Economics • Amortization Formula": {
+    "ko": "콘텐츠 이코노믹스 • 상각 공식"
+  },
+  "Production Package": {
+    "ko": "프로덕션 패키지"
+  },
+  "Deliverables Included": {
+    "ko": "제공 산출물 내역"
+  },
+  "Monthly Fee": {
+    "ko": "월 서비스 비용"
+  },
+  "Cost per Asset": {
+    "ko": "에셋당 단가"
+  },
+  "Average Direct Attributed GMV": {
+    "ko": "평균 직접 기여 GMV"
+  },
+  "Indie Brand Starter": {
+    "ko": "인디 브랜드 스타터"
+  },
+  "15 Short-form videos + 4 Live stream shifts": {
+    "ko": "숏폼 비디오 15편 + 라이브 스트리밍 4회차"
+  },
+  "$80 / asset": {
+    "ko": "$80 / 에셋"
+  },
+  "$6,500 - $12,000 / month": {
+    "ko": "월 $6,500 - $12,000"
+  },
+  "Growth Co-Brand Pro": {
+    "ko": "그로스 코브랜드 프로"
+  },
+  "40 Short-form videos + 12 Live shifts + 3D renders": {
+    "ko": "숏폼 비디오 40편 + 라이브 스트리밍 12회차 + 3D 렌더"
+  },
+  "$2,800 / month": {
+    "ko": "월 $2,800"
+  },
+  "$70 / asset": {
+    "ko": "$70 / 에셋"
+  },
+  "$18,000 - $35,000 / month": {
+    "ko": "월 $18,000 - $35,000"
+  },
+  "Ecosystem Flagship": {
+    "ko": "에코시스템 플래그십"
+  },
+  "100+ Videos + Daily Live streaming + KOL Gifting": {
+    "ko": "100편 이상의 비디오 + 데일리 라이브 스트리밍 + KOL 기프팅"
+  },
+  "$5,500 / month": {
+    "ko": "월 $5,500"
+  },
+  "$55 / asset": {
+    "ko": "$55 / 에셋"
+  },
+  "$45,000 - $90,000 / month": {
+    "ko": "월 $45,000 - $90,000"
+  },
+  "Creator Alignment • Attribution Core": {
+    "ko": "크리에이터 얼라인먼트 • 기여도 산정 코어"
+  },
+  "IP Governance • 70/30 Settlement": {
+    "ko": "IP 거버넌스 • 70/30 정산 프레임워크"
+  },
+  "Chapter 01 Global Media Core • Studio Butter Intl": {
+    "ko": "제1장 글로벌 미디어 코어 • Studio Butter Intl"
+  },
+  "*SC - Studio Butter Intl: Global Creative Media & Cross-Border Syndication": {
+    "ko": "*SC - Studio Butter Intl: 글로벌 크리에이티브 미디어 및 크로스보더 신디케이션"
+  },
+  "Within the *SC Layer 4 Ecosystem Arena (Biz-Hub), Studio Butter Intl serves as the global media syndication and cultural translation command center. Linking creative nodes across Korea (SCK), Indonesia (SCI), Singapore (SCS), USA (SCU), Vietnam (SCV), India (SCIND), China (SCC), and Japan (SCJ), it localizes brand storytelling, orchestrates international influencer alliances, and syndicates high-performing digital IP across borders with frictionless efficiency.": {
+    "ko": "*SC Layer 4 에코시스템 아레나(Biz-Hub) 내에서 Studio Butter Intl은 글로벌 미디어 신디케이션 및 문화적 번안(Cultural Translation)의 커맨드 센터 역할을 수행합니다. 한국(SCK), 인도네시아(SCI), 싱가포르(SCS), 미국(SCU), 베트남(SCV), 인도(SCIND), 중국(SCC), 일본(SCJ)의 크리에이티브 노드를 유기적으로 연계하여, 브랜드 스토리텔링을 로컬라이징하고 다국적 인플루언서 얼라이언스를 조율하며, 고성과 디지털 IP를 마찰 없이(frictionless) 국경을 넘어 글로벌 시장으로 신디케이션합니다."
+  },
+  "Synchronized Creative Production Hubs Globally": {
+    "ko": "글로벌 동기화 크리에이티브 프로덕션 허브"
+  },
+  "Autonomous Lip-Sync & Native Cultural Adaptation": {
+    "ko": "자율형 립싱크 및 네이티브 문화 최적화 적응"
+  },
+  "Global Multi-Market Creative Flight Window": {
+    "ko": "글로벌 멀티 마켓 크리에이티브 플라이트 윈도우"
+  },
+  "Unified Digital IP Copyright Protection": {
+    "ko": "통합 디지털 IP 저작권 보호 체계"
+  },
+  "Whether exporting a trending Korean beauty formulation into Indonesian TikTok commerce or adapting Vietnamese pet treat narratives for Japanese Amazon storefronts, Studio Butter Intl ensures that every cultural asset preserves its core emotional resonance while adhering to local market customs.": {
+    "ko": "트렌딩 K-뷰티 포뮬레이션을 인도네시아 틱톡 커머스로 수출하든, 베트남의 펫 간식 내러티브를 일본 아마존 스토어프론트에 맞게 번안하든, Studio Butter Intl은 현지 시장의 관습을 엄격히 준수하면서도 모든 문화적 자산의 핵심 정서적 공명(Emotional Resonance)을 온전히 보존하도록 보장합니다."
+  },
+  "Chapter 02 Localization Pipeline • Neural Dubbing Engine": {
+    "ko": "제2장 로컬라이제이션 파이프라인 • 뉴럴 더빙 엔진"
+  },
+  "Global Content Localization: AI-Powered Neural Dubbing Pipeline": {
+    "ko": "글로벌 콘텐츠 로컬라이제이션: AI 기반 뉴럴 더빙 파이프라인"
+  },
+  "Studio Butter Intl employs an advanced neural translation pipeline. Original master video footage filmed in Jakarta or Seoul undergoes automated voice cloning, acoustic resonance matching, and video lip-syncing into Bahasa Indonesia, Vietnamese, Japanese, Hindi, and English without losing the original creator's charismatic delivery.": {
+    "ko": "Studio Butter Intl은 고도화된 뉴럴 번역 파이프라인을 가동합니다. 자카르타나 서울에서 촬영된 오리지널 마스터 비디오 영상은 원작 크리에이터 고유의 카리스마 넘치는 전달력을 손상시키지 않고, 인도네시아어, 베트남어, 일본어, 힌디어, 영어로의 자동 음성 복제(Voice Cloning), 음향 공명 매칭, 비디오 립싱크 공정을 거칩니다."
+  },
+  "Acoustic Emotion Transfer": {
+    "ko": "음향 감정 전이(Acoustic Emotion Transfer)"
+  },
+  "Unlike robotic TTS voiceovers that kill social engagement, our neural engine preserves laughter, pauses, pitch inflections, and conversational warmth across all language outputs.": {
+    "ko": "소셜 인게이지먼트를 저해하는 기계적 TTS 보이스오버와 달리, 당사의 뉴럴 엔진은 모든 다국어 출력물 전반에서 웃음소리, 호흡의 휴지(pause), 피치 억양, 대화 특유의 온기를 정밀하게 보존합니다."
+  },
+  "Deep Facial Lip Synchronization": {
+    "ko": "딥 페이셜 립 싱크로나이제이션(Deep Facial Lip Synchronization)"
+  },
+  "Mouth movements are re-synthesized frame by frame to match the target language phonemes, completely eliminating distracting dubbing mismatches.": {
+    "ko": "타깃 언어의 음소(Phonemes)에 완벽히 부합하도록 입술의 움직임을 프레임 단위로 재합성하여, 몰입을 방해하는 더빙 불일치 현상을 근본적으로 제거합니다."
+  },
+  "Local Advertising Compliance": {
+    "ko": "로컬 광고 컴플라이언스 체계"
+  },
+  "Automated AI compliance gates verify that translated health and cosmetic claims conform to local laws (e.g. Indonesian BPOM, Vietnamese MOH, and US FTC guidelines).": {
+    "ko": "자동화된 AI 컴플라이언스 게이트는 번역된 건강 및 기능성 화장품 표기 사항이 현지 규제(예: 인도네시아 BPOM, 베트남 보건부(MOH), 미국 FTC 가이드라인 등)를 철저히 준수하는지 검증합니다."
+  },
+  "Chapter 03 Syndication Strategy • Channel Matrix": {
+    "ko": "제3장 신디케이션 전략 • 채널 매트릭스"
+  },
+  "Multi-Territory Content Syndication & Channel Matrix": {
+    "ko": "멀티 테리토리 콘텐츠 신디케이션 및 채널 매트릭스"
+  },
+  "Studio Butter Intl maintains direct enterprise media integrations with global social and e-commerce platforms, syndicating assets across target geographies.": {
+    "ko": "Studio Butter Intl은 글로벌 소셜 및 이커머스 플랫폼과의 직접적인 엔터프라이즈 미디어 통합 연동을 유지하며, 타깃 권역 전역에 자산을 전략적으로 신디케이션합니다."
+  },
+  "Chapter 04 Global Footprint • 8 Base Network": {
+    "ko": "제4장 글로벌 풋프린트 • 8대 거점 네트워크"
+  },
+  "International Creative Hubs Across 8 Sovereign Jurisdictions": {
+    "ko": "8개 주권 관할권 전역의 인터내셔널 크리에이티브 허브"
+  },
+  "Studio Butter Intl links specialized production talent around the globe: Korean aesthetic directors, Indonesian viral creators, Vietnamese 3D render artists, and American copywriters collaborate as a unified studio network.": {
+    "ko": "Studio Butter Intl은 전 세계 전문 프로덕션 인재들을 유기적으로 결속합니다. 한국의 에스테틱 디렉터, 인도네시아의 바이럴 크리에이터, 베트남의 3D 렌더 아티스트, 미국의 카피라이터가 하나의 통합된 스튜디오 네트워크로서 고밀도로 협업합니다."
+  },
+  "24-Hour Continuous Production": {
+    "ko": "24시간 무중단 연속 프로덕션 파이프라인"
+  },
+  "As daylight moves from East Asia to the Americas, creative tasks pass fluidly between teams: Seoul shoots raw footage during the day, Vietnam animates VFX overnight, and the US launches morning ad campaigns without pause.": {
+    "ko": "태양의 이동 경로를 따라 동아시아에서 미주 대륙으로 작업이 유기적으로 이관됩니다. 서울이 낮 시간 동안 원본 푸티지를 촬영하면, 베트남이 밤 사이 VFX 애니메이션을 렌더링하고, 미국이 아침 광고 캠페인을 론칭하는 등 단절 없는 연속 생산 체제를 실현합니다."
+  },
+  "Global Digital Asset Management (DAM)": {
+    "ko": "글로벌 디지털 자산 관리(DAM) 시스템"
+  },
+  "All raw B-roll, voice stems, 3D project files, and approved cuts are cataloged in high-speed cloud object stores, allowing any global team to instantly assemble local campaign adaptations.": {
+    "ko": "모든 로우(Raw) B-roll, 음성 스템, 3D 프로젝트 파일, 승인된 최종 컷은 초고속 클라우드 오브젝트 스토리지에 정밀하게 카탈로그화되어, 전 세계 어느 팀이든 현지 캠페인 번안물을 즉각적으로 어셈블리할 수 있습니다."
+  },
+  "Chapter 05 Media Economics • Syndication Math": {
+    "ko": "제5장 미디어 이코노믹스 • 신디케이션 승수 이론"
+  },
+  "Cross-Border Media Economics & Syndication Multiplier": {
+    "ko": "크로스보더 미디어 이코노믹스 및 신디케이션 멀티플라이어"
+  },
+  "The economic efficiency of Studio Butter Intl stems from the creative syndication multiplier: once an asset's core production cost is amortized in its origin country, each international adaptation costs less than 15% of an original shoot while unlocking an entirely new national consumer market.": {
+    "ko": "Studio Butter Intl의 경제적 효율성은 크리에이티브 신디케이션 승수효과(Creative Syndication Multiplier)에서 기인합니다. 오리진 국가에서 에셋의 핵심 제작비가 상각되면, 각 국가별 현지화 비용은 원본 촬영 비용의 15% 미만에 불과하면서도 완전히 새로운 국가별 소비자 시장을 개척할 수 있습니다."
+  },
+  "Where m iterates across all active target territories. By reusing visual hooks and re-dubbing dialog, the cost to launch in secondary and tertiary markets drops by over 85% compared to localized reshoots.": {
+    "ko": "여기서 m은 모든 활성 타깃 권역에 걸쳐 순회 연산됩니다. 시각적 훅(Visual Hook)을 재활용하고 대사를 재더빙함으로써, 2차 및 3차 시장 진출 비용은 현지 재촬영 대비 85% 이상 절감됩니다."
+  },
+  "Chapter 06 IP Framework • Global Copyright": {
+    "ko": "제06장 IP 프레임워크 • 글로벌 저작권"
+  },
+  "Global Trademark Licensing & Multi-Territory Copyrights": {
+    "ko": "글로벌 상표 라이선싱 및 다권역 저작권"
+  },
+  "International media distribution exposes brands to intellectual property piracy and trademark poaching. Studio Butter Intl enforces centralized copyright registration via the World Intellectual Property Organization (WIPO) Madrid System and Singapore IP holding trusts.": {
+    "ko": "국제 미디어 배급은 브랜드를 지식재산권 불법 침해 및 상표권 탈취 위협에 노출시킵니다. Studio Butter Intl은 세계지식재산기구(WIPO) 마드리드 시스템과 싱가포르 IP 지주 트러스트를 통해 중앙집중식 저작권 등록을 집행합니다."
+  },
+  "Madrid Protocol Registrations": {
+    "ko": "마드리드 의정서 등록"
+  },
+  "Core creative characters, visual trade dresses, and sound trademarks are registered simultaneously across all 8 bases, preventing competitor knockoffs.": {
+    "ko": "핵심 크리에이티브 캐릭터, 시각적 트레이드 드레스, 음향 상표는 8개 거점 전역에 동시 등록되어 경쟁사의 모방 제품 출시를 사전에 차단합니다."
+  },
+  "Content ID Watermarking": {
+    "ko": "콘텐츠 ID 워터마킹"
+  },
+  "All published video assets embed invisible forensic digital watermarks that trigger automated takedown notices across YouTube, TikTok, and Meta if unauthorized accounts re-upload our footage.": {
+    "ko": "공개되는 모든 영상 에셋에는 비가시성 포렌식 디지털 워터마크가 임베딩되어, 무단 계정의 푸티지 재업로드 시 YouTube, TikTok, Meta 전역에서 자동 게시 중단 통지(Takedown Notice)를 트리거합니다."
+  },
+  "Cross-Border Media Royalties": {
+    "ko": "크로스보더 미디어 로열티"
+  },
+  "Overseas third-party distributors who license our marketing assets pay monthly media syndication royalties, creating high-margin passive cash flows for holding brands.": {
+    "ko": "당사의 마케팅 에셋을 라이선싱하는 해외 서드파티 배급사는 매월 미디어 신디케이션 로열티를 정산 지급하며, 이는 지주 브랜드에 고마진 패시브 캐시플로우를 창출합니다."
+  },
+  "Chapter 07 Governance • International Settlement": {
+    "ko": "제07장 거버넌스 • 국제 결제 및 정산"
+  },
+  "International Media Firewalls & 70/30 Programmatic Settlement": {
+    "ko": "인터내셔널 미디어 방화벽 및 70/30 프로그래머틱 정산"
+  },
+  "Studio Butter Intl operations are legally partitioned from domestic commercial liabilities through our dual-track firewall structure. Media revenues, production fees, and syndication tolls clear through Singapore banking escrows.": {
+    "ko": "Studio Butter Intl의 운영은 듀얼트랙 방화벽 구조를 통해 국내 상업적 법적 책임으로부터 법률적으로 격리 분리됩니다. 미디어 수익, 제작 수수료, 신디케이션 통행료는 싱가포르 뱅킹 에스크로를 통해 정산 클리어링됩니다."
+  },
+  "Of all revenues generated through cross-border media syndication and brand licensing agreements: 70% is disbursed to fund localized creator talent, AI computing infrastructure, and translation engineers, while 30% is swept directly into holding company treasury accounts for long-term IP defense, copyright expansion, and global brand acquisitions.": {
+    "ko": "크로스보더 미디어 신디케이션 및 브랜드 라이선싱 계약을 통해 창출된 총매출 중 70%는 현지화 크리에이터 풀, AI 컴퓨팅 인프라, 번역 엔지니어 펀딩에 집행되며, 30%는 지주회사 재무 계좌로 직접 귀속(Sweep)되어 장기적 IP 방어, 저작권 확장, 글로벌 브랜드 M&A 재원으로 배분됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Studio Butter Intl projects authentic creative culture across all continents. Powered by the Qubit Algorithm™, neural localization pipelines, and the Biz Galaxy constellation. International Syndication Desk: https://sistarcompany.com • Global Media Director: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Studio Butter Intl은 전 대륙에 걸쳐 정통 크리에이티브 문화를 투사합니다. Qubit Algorithm™, 뉴럴 현지화 파이프라인, Biz Galaxy 성좌를 기반으로 가동됩니다. 인터내셔널 신디케이션 데스크: https://sistarcompany.com • 글로벌 미디어 디렉터: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Global Media Core • Studio Butter Intl": {
+    "ko": "글로벌 미디어 코어 • Studio Butter Intl"
+  },
+  "The Transnational Media Engine: One Creative Origin, Infinite Global Adaptation": {
+    "ko": "초국가적 미디어 엔진: 단 하나의 크리에이티브 오리진, 무한한 글로벌 적응"
+  },
+  "Global brands often waste millions adapting marketing materials across countries by re-hiring disparate creative agencies in every territory. Studio Butter Intl centralizes creative IP generation while deploying automated neural translation, voice dubbing, and cultural nuance adaptation pipelines, slashing international creative expansion costs by 68%.": {
+    "ko": "글로벌 브랜드들은 각 권역마다 이질적인 크리에이티브 에이전시를 중복 채용함으로써 마케팅 콘텐츠 국가별 적응 과정에서 수백만 달러를 낭비하곤 합니다. Studio Butter Intl은 크리에이티브 IP 생성을 중앙집중화하는 동시에 자동화된 뉴럴 번역, 음성 더빙, 문화적 뉘앙스 적응 파이프라인을 배포하여 인터내셔널 크리에이티브 확장 비용을 68% 절감합니다."
+  },
+  "Localization Pipeline • Neural Dubbing Engine": {
+    "ko": "현지화 파이프라인 • 뉴럴 더빙 엔진"
+  },
+  "Syndication Strategy • Channel Matrix": {
+    "ko": "신디케이션 전략 • 채널 매트릭스"
+  },
+  "Target Region": {
+    "ko": "타깃 권역"
+  },
+  "Primary Platform Focus": {
+    "ko": "핵심 주력 플랫폼"
+  },
+  "Localization Format": {
+    "ko": "현지화 포맷"
+  },
+  "Local Agency Partner / Hub": {
+    "ko": "현지 에이전시 파트너 / 허브"
+  },
+  "Average Conversion Lift": {
+    "ko": "평균 전환율 상승(Conversion Lift)"
+  },
+  "TikTok Shop & Shopee Live": {
+    "ko": "TikTok Shop 및 Shopee Live"
+  },
+  "Bahasa Indonesia slang + live broadcast relay": {
+    "ko": "인도네시아어(Bahasa Indonesia) 슬랭 + 라이브 방송 릴레이"
+  },
+  "Jakarta Mint Studio Flagship": {
+    "ko": "Jakarta Mint Studio 플래그십"
+  },
+  "+48% GMV Lift": {
+    "ko": "+48% GMV 상승"
+  },
+  "Vietnam (SCV)": {
+    "ko": "베트남 (SCV)"
+  },
+  "Northern & Southern Vietnamese neural dubs": {
+    "ko": "베트남 북부 및 남부 방언 신경망 더빙"
+  },
+  "Ho Chi Minh City Hub": {
+    "ko": "호치민 시티 허브"
+  },
+  "+42% Conversion Lift": {
+    "ko": "+42% 전환율 상승(Conversion Lift)"
+  },
+  "Naver Shopping Live & YouTube Shorts": {
+    "ko": "네이버 쇼핑라이브 & YouTube Shorts"
+  },
+  "Korean aesthetic framing & clinical data": {
+    "ko": "한국적 에스테틱 프레이밍 및 임상 데이터"
+  },
+  "Seoul Headquarter Studio": {
+    "ko": "서울 본사 스튜디오"
+  },
+  "+35% Cart Addition": {
+    "ko": "+35% 장바구니 전환율 증대"
+  },
+  "North America (SCU)": {
+    "ko": "북미 (SCU)"
+  },
+  "English lifestyle UGC with 3D breakdown": {
+    "ko": "3D 분해도가 결합된 영문 라이프스타일 UGC"
+  },
+  "Wilmington Digital Directorate": {
+    "ko": "윌밍턴 디지털 본부(Digital Directorate)"
+  },
+  "+54% ROAS Multiple": {
+    "ko": "+54% ROAS 배수 개선"
+  },
+  "Keigo polite narrative + ingredient audits": {
+    "ko": "케이코(Keigo) 경어체 내러티브 + 원료 감사 검증"
+  },
+  "Tokyo Formulation Bureau": {
+    "ko": "도쿄 포뮬레이션 뷰로"
+  },
+  "+31% Retention Rate": {
+    "ko": "+31% 리텐션율(Retention Rate)"
+  },
+  "Global Footprint • 8 Base Network": {
+    "ko": "글로벌 풋프린트 • 8대 베이스 네트워크"
+  },
+  "Media Economics • Syndication Math": {
+    "ko": "미디어 이코노믹스 • 신디케이션 수학(Syndication Math)"
+  },
+  "Expansion Territory": {
+    "ko": "확장 대상 권역"
+  },
+  "Standalone Local Shoot Cost": {
+    "ko": "단독 현지 촬영 집행 비용"
+  },
+  "Studio Butter Intl Syndication Cost": {
+    "ko": "Studio Butter 글로벌 신디케이션 원가"
+  },
+  "Net Direct Capital Saved": {
+    "ko": "순 직접 자본 절감액"
+  },
+  "Launch Velocity": {
+    "ko": "런칭 속도(Launch Velocity)"
+  },
+  "Vietnam Expansion": {
+    "ko": "베트남 시장 확장"
+  },
+  "$4,500 (local production crew)": {
+    "ko": "$4,500 (현지 프로덕션 크루)"
+  },
+  "$450 (neural voice clone + dub)": {
+    "ko": "$450 (신경망 보이스 클론 + 더빙)"
+  },
+  "$4,050 Saved (-90%)": {
+    "ko": "$4,050 절감 (-90%)"
+  },
+  "Live in 24 hours": {
+    "ko": "24시간 내 라이브 온에어"
+  },
+  "Thailand Expansion": {
+    "ko": "태국 시장 확장"
+  },
+  "$4,800 (Bangkok studio retainer)": {
+    "ko": "$4,800 (방콕 스튜디오 리테이너 비용)"
+  },
+  "$520 (Thai script adapt + dub)": {
+    "ko": "$520 (태국어 스크립트 각색 및 더빙)"
+  },
+  "$4,280 Saved (-89%)": {
+    "ko": "$4,280 절감 (-89%)"
+  },
+  "Live in 36 hours": {
+    "ko": "36시간 내 라이브 배포"
+  },
+  "USA TikTok Shop Launch": {
+    "ko": "미국 틱톡숍 론칭"
+  },
+  "$9,500 (US UGC agency contract)": {
+    "ko": "$9,500 (미국 UGC 에이전시 계약)"
+  },
+  "$1,200 (hybrid 3D + native voice)": {
+    "ko": "$1,200 (하이브리드 3D + 현지 원어민 보이스)"
+  },
+  "$8,300 Saved (-87%)": {
+    "ko": "$8,300 절감 (-87%)"
+  },
+  "Live in 48 hours": {
+    "ko": "48시간 내 라이브 배포"
+  },
+  "Japan Rakuten Entry": {
+    "ko": "일본 라쿠텐 시장 진입"
+  },
+  "$8,200 (Tokyo ad production)": {
+    "ko": "$8,200 (도쿄 광고 제작 비용)"
+  },
+  "$950 (scientific framing adapt)": {
+    "ko": "$950 (사이언티픽 프레이밍 각색)"
+  },
+  "$7,250 Saved (-88%)": {
+    "ko": "$7,250 절감 (-88%)"
+  },
+  "IP Framework • Global Copyright": {
+    "ko": "IP 프레임워크 • 글로벌 저작권"
+  },
+  "Governance • International Settlement": {
+    "ko": "거버넌스 • 국제 정산"
+  },
+  "Chapter 01 Master Directorate • Layer 4 Arena Nexus": {
+    "ko": "제01장 마스터 디렉터레이트 • 레이어 4 아레나 넥서스"
+  },
+  "*SC - Biz-Hub: The 'Together Gets Stronger' Co-Creation Nexus": {
+    "ko": "*SC - Biz-Hub: '함께할수록 더욱 강력해진다(Together Gets Stronger)' 공동 창조 넥서스"
+  },
+  "As Layer 4 (Ecosystem Arenas) of the *SC (Signal Star Universe) semantic architecture, Biz-Hub is the gravitational center where market competitors unite into equity partners. Guided by our foundational doctrine—'Together Gets Stronger'—Biz-Hub consolidates joint manufacturing (Auto-Formulator), shared logistics (Space Sharing), circular economy food banks (PetFood Bank Re:D), turnkey omnichannel franchising, and transnational creative media into an integrated, mutually reinforcing ecosystem.": {
+    "ko": "*SC (Signal Star Universe) 시맨틱 아키텍처의 레이어 4(생태계 아레나)로서, Biz-Hub는 시장의 경쟁자들이 지분 파트너로 결속하는 중력적 중심점입니다. '함께할수록 더욱 강력해진다(Together Gets Stronger)'라는 근본 교리에 입각하여, Biz-Hub는 공동 제조(Auto-Formulator), 공유 물류(Space Sharing), 순환 경제 푸드뱅크(PetFood Bank Re:D), 턴키 옴니채널 프랜차이즈, 초국가적 크리에이티브 미디어를 상호 강화되는 통합 생태계로 결집합니다."
+  },
+  "Fully Integrated Co-Creation & Shared Value Hubs": {
+    "ko": "완전 통합형 공동 창조 및 공유가치 허브"
+  },
+  "Universal Landed Micro-Sachet Anchor Price Point": {
+    "ko": "글로벌 랜디드 마이크로 사셰 기준 앵커 프라이스"
+  },
+  "Consolidated Logistics & Warehousing Spend Reduction": {
+    "ko": "통합 물류 및 보관 지출 비용 절감"
+  },
+  "Programmatic Webhook Revenue Clearing Protocol": {
+    "ko": "프로그래머틱 웹훅 수익 정산 프로토콜"
+  },
+  "Through real-time vector intelligence, overnight global scraping, and standardized Google Workspace enterprise workflows, Biz-Hub bridges 8 international bases (Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, Vietnam SCV, India SCIND, China SCC, Japan SCJ), creating an unassailable ecosystem moat rooted in mutual commercial success.": {
+    "ko": "Biz-Hub는 실시간 벡터 인텔리전스, 글로벌 오버나이트 스크래핑, 표준화된 Google Workspace 엔터프라이즈 워크플로우를 통해 8대 글로벌 거점(한국 SCK, 인도네시아 SCI, 싱가포르 SCS, 미국 SCU, 베트남 SCV, 인도 SCIND, 중국 SCC, 일본 SCJ)을 긴밀히 연계하며, 상호 상업적 성공에 기반한 난공불락의 생태계 해자(Moat)를 구축합니다."
+  },
+  "Chapter 02 Master Topology • 8 Synergistic Pillars": {
+    "ko": "제02장 마스터 토폴로지 • 8대 시너지 기둥"
+  },
+  "The 8-Pillar Co-Creation Architecture & System Flow": {
+    "ko": "8대 기둥 공동 창조 아키텍처 및 시스템 플로우"
+  },
+  "Biz-Hub operates through eight deeply synchronized functional pillars that feed data, physical inventory, media assets, and customer demand to one another in a perpetual compounding cycle.": {
+    "ko": "Biz-Hub는 데이터, 실물 재고, 미디어 자산, 고객 수요를 영구적인 복리 증식 사이클로 상호 공급하는 고도로 동기화된 8대 기능적 기둥을 통해 구동됩니다."
+  },
+  "Directs overnight scraping, vector knowledge retrieval, and cross-border strategic co-venture alliances.": {
+    "ko": "오버나이트 스크래핑, 벡터 지식 검색, 국경 간 전략적 공동 벤처 얼라이언스를 총괄 지휘합니다."
+  },
+  "Transforms white-label goods into co-owned brands via Auto-Formulator and Rp 1,320 sachet packaging.": {
+    "ko": "Auto-Formulator 및 Rp 1,320 샤셰 소포장 공정을 통해 화이트라벨 제품군을 공동 소유 브랜드 자산으로 전환합니다."
+  },
+  "Maintains distributed microservices mesh, low-latency API gateways, and multi-tenant cloud cost pools.": {
+    "ko": "분산 마이크로서비스 메시, 초저지연 API 게이트웨이 및 멀티테넌트 클라우드 비용 풀(Cost Pool)을 최적 상태로 유지·운영합니다."
+  },
+  "Gathers millions of daily wholesale prices, customs tariffs, and SKU arbitrage spreads across Asia.": {
+    "ko": "아시아 전역의 일일 도매 가격, 관세율 및 SKU 차익거래 스프레드(Arbitrage Spread) 데이터를 수백만 건 단위로 수집·분석합니다."
+  },
+  "Drives collective marketing power and circular impact initiatives like PetFood Bank Re:D NBS repacking.": {
+    "ko": "집단 마케팅 역량을 견인하고, PetFood Bank Re:D NBS 재포장과 같은 순환형 임팩트 이니셔티브를 강력히 추진합니다."
+  },
+  "Coordinates physical store concepts: SISTAR Mint shops, Suu kiosks, Iruka sanctuaries, and LP hubs.": {
+    "ko": "SISTAR Mint 숍, Suu 키오스크, Iruka 생츄어리, LP 허브 등 오프라인 리테일 콘셉트 전반을 전략적으로 총괄 조율합니다."
+  },
+  "Eliminates SaaS licensing tolls with customized Google Workspace ERP, AppSheet, and vector AI vaults.": {
+    "ko": "맞춤형 Google Workspace ERP, AppSheet 및 벡터 AI 볼트(Vault)를 구축하여 SaaS 라이선스 비용 구조를 근본적으로 제거합니다."
+  },
+  "Produces high-converting short-form videos and syndicates localized multi-lingual media worldwide.": {
+    "ko": "고전환 숏폼 콘텐츠를 제작하고, 현지화된 다국어 미디어 자산을 전 세계 시장으로 신디케이션(배급)합니다."
+  },
+  "Chapter 03 Matrix Topology • Cross-Functional Value": {
+    "ko": "Chapter 03 매트릭스 토폴로지 • 크로스펑셔널(교차기능적) 가치"
+  },
+  "Strategic Domain Convergence & Shared Value Matrix": {
+    "ko": "전략적 도메인 수렴 및 공유 가치 매트릭스"
+  },
+  "Every entity within Biz-Hub is both a consumer and a provider of services within the network. This mutual dependency builds an ecosystem where growth in one pillar directly subsidizes and accelerates all seven other pillars.": {
+    "ko": "Biz-Hub 생태계 내의 모든 법인은 네트워크 서비스의 수요자이자 공급자로 기능합니다. 이러한 상호의존성은 단일 축(Pillar)의 성장이 나머지 7개 축 전체를 직접 보조하고 스케일업을 가속화하는 선순환 구조를 확립합니다."
+  },
+  "Chapter 04 Physical Circulation • Space Sharing": {
+    "ko": "Chapter 04 실물 순환 • 공간 공유"
+  },
+  "Cross-Border Value Circulation & Space Sharing Logistics": {
+    "ko": "크로스보더 가치 순환 및 공간 공유 물류 아키텍처"
+  },
+  "Physical items move through the ecosystem via our Space Sharing & Deliver Together logistics architecture. By consolidating deliveries across all brands and retail nodes into synchronized van runs, carbon emissions and transportation tolls drop by over 60%.": {
+    "ko": "실물 자산은 '공간 공유 및 동시 배송(Space Sharing & Deliver Together)' 물류 아키텍처를 기반으로 생태계를 순환합니다. 전 브랜드와 리테일 노드의 배송 경로를 동기화된 밴 운행으로 통합 집약함으로써 탄소 배출량과 운송 수수료를 60% 이상 절감합니다."
+  },
+  "Rapid Micro-Warehouse Turnover": {
+    "ko": "초고속 마이크로 물류센터(웨어하우스) 회전율"
+  },
+  "Cross-docking facilities operate with zero long-term dead stock: inventory arrives in bulk, undergoes optical and lab inspection, enters cleanroom sachet packaging, and ships to retail outlets within 72 hours.": {
+    "ko": "크로스도킹(Cross-docking) 시설은 장기 부동 재고 제로(0) 원칙으로 가동됩니다. 대량 입고된 원자재는 광학 및 실험실 정밀 검수를 거쳐 클린룸 샤셰 패키징 라인으로 직행하며, 72시간 이내에 리테일 거점으로 완제 출하됩니다."
+  },
+  "Zero Landfill Food Diversion": {
+    "ko": "식품 매립 제로화 및 자원 순환 (Zero Landfill Food Diversion)"
+  },
+  "Surplus food lots that would otherwise rot in commercial landfills are intercepted by PetFood Bank Re:D, tested, repacked into micro-portions, and fed to thousands of companion animals across community networks.": {
+    "ko": "상업용 매립지로 폐기될 위기에 놓인 잉여 식품 로트(lot)를 PetFood Bank Re:D가 사전 차단하여 검수 및 마이크로 소포장 재가공을 거친 후, 지역 커뮤니티 네트워크 전반의 수천 마리 반려동물에게 급여 자원으로 전환 공급합니다."
+  },
+  "Chapter 05 Ecosystem Economics • Unit Margin Stack": {
+    "ko": "Chapter 05 생태계 경제학 • 유닛 마진 스택"
+  },
+  "Aggregated Ecosystem Economics & Margin Multiplier Formula": {
+    "ko": "통합 생태계 경제학 및 마진 승수 공식"
+  },
+  "Biz-Hub generates consolidated financial resilience by stacking margins across the entire value chain: sourcing discounts, manufacturing tolls, logistics fleet fees, retail point-of-sale margins, and media production retainers.": {
+    "ko": "Biz-Hub는 소싱 할인, 제조 가공료(Toll), 물류 차량 운임, 리테일 POS 판매 마진 및 미디어 제작 리테이너(Retainer) 등 밸류체인 전 계층에서 마진을 다중 축적(Stacking)하여 견고한 통합 재무 건전성을 확보합니다."
+  },
+  "While single-layer businesses compete for razor-thin 5% to 10% margins at retail, Biz-Hub captures cumulative economic value across all six vertical layers, generating an aggregate ecosystem gross margin exceeding 44.8%.": {
+    "ko": "단일 계층 비즈니스가 리테일 단계에서 5~10% 수준의 극단적인 박리다매 경쟁에 머무르는 반면, Biz-Hub는 6개 수직 계층 전반에서 누적 경제적 가치를 선점하여 44.8%를 상회하는 생태계 통합 매출총이익률을 달성합니다."
+  },
+  "Chapter 06 Global Presence • 8 Base Network": {
+    "ko": "Chapter 06 글로벌 거점 • 8대 베이스 네트워크"
+  },
+  "Global Jurisdictional Integration Across 8 International Bases": {
+    "ko": "8대 국제 거점 기반 글로벌 사법 관할권 통합"
+  },
+  "Biz-Hub operates across eight sovereign legal jurisdictions, distributing intellectual property, financial clearing, manufacturing tooling, and creative media into strategic national centers of excellence.": {
+    "ko": "Biz-Hub는 8개 주권 사법 관할권에 걸쳐 운영되며, 지식재산권(IP), 금융 결제 청산, 제조 툴링 및 크리에이티브 미디어 기능을 국가별 전략적 CoE(Center of Excellence)로 분산 배치하여 최적화합니다."
+  },
+  "Seoul, Korea": {
+    "ko": "대한민국 서울"
+  },
+  "Holding company IP, quantum algorithm engineering, and K-SURE export credit insurance underwriting core.": {
+    "ko": "지주회사 IP, 양자 알고리즘 엔지니어링 및 K-SURE 수출신용보험 언더라이팅 코어."
+  },
+  "Jakarta, Indonesia": {
+    "ko": "인도네시아 자카르타"
+  },
+  "Main operational base: VFFS sachet packaging cleanrooms, Space Sharing logistics fleet, and flagship Mint retail shops.": {
+    "ko": "주요 운영 거점: VFFS 사셰 패키징 클린룸, 공간 공유(Space Sharing) 물류 플릿 및 플래그십 Mint 리테일 매장."
+  },
+  "Treasury management, multi-currency escrow settlements, cross-border tax treaties, and regional venture investment.": {
+    "ko": "트레저리 자금 관리, 다중 통화 에스크로 정산, 국가 간 조세 조약 및 역내 벤처 투자."
+  },
+  "Wilmington, USA": {
+    "ko": "미국 윌밍턴"
+  },
+  "Delaware institutional holding, international investor relations, SEC compliance, and North American brand expansion.": {
+    "ko": "델라웨어 기관 지주회사, 글로벌 IR(투자자 관계), SEC 규제 준수 및 북미 브랜드 확장."
+  },
+  "Ho Chi Minh, Vietnam": {
+    "ko": "베트남 호치민"
+  },
+  "Secondary barrier foil packaging production, 3D motion graphic rendering studio, and ASEAN trade hub.": {
+    "ko": "2차 배리어 포일 패키징 생산, 3D 모션 그래픽 렌더링 스튜디오 및 아세안(ASEAN) 무역 허브."
+  },
+  "Mumbai, India": {
+    "ko": "인도 뭄바이"
+  },
+  "Backend distributed microservices engineering, web scraping scraper clusters, and natural language translation.": {
+    "ko": "백엔드 분산 마이크로서비스 엔지니어링, 웹 스크래핑 스크레이퍼 클러스터 및 자연어 번역."
+  },
+  "Shenzhen, China": {
+    "ko": "중국 선전"
+  },
+  "1688 manufacturing audit liaison, VFFS packaging machinery procurement, and spare parts supply lines.": {
+    "ko": "1688 제조 감사 리에종, VFFS 포장 설비 조달 및 예비 부품 공급 라인."
+  },
+  "Tokyo, Japan": {
+    "ko": "일본 도쿄"
+  },
+  "Clinical functional ingredient verification, laboratory assays, and Japanese formulation quality assurance.": {
+    "ko": "임상 기능성 원료 검증, 실험실 분석 및 일본 제형 품질 보증."
+  },
+  "Chapter 07 Corporate Governance • 70/30 Settlement": {
+    "ko": "제07장 기업 거버넌스 • 70/30 정산"
+  },
+  "Triple Control Towers & Automated 70/30 Programmatic Settlement": {
+    "ko": "트리플 컨트롤 타워 & 자동화된 70/30 프로그래머틱 정산"
+  },
+  "All operations across Biz-Hub are governed by the *SC Triple Control Towers: Legal & Compliance Tower, Financial & Treasury Tower, and Technical Architecture Tower. A dual-track corporate firewall strictly isolates core holding IP assets from operational retail liabilities.": {
+    "ko": "Biz-Hub 전반의 모든 운영은 *SC 트리플 컨트롤 타워(법무·컴플라이언스 타워, 재무·트레저리 타워, 테크니컬 아키텍처 타워)의 통제를 받습니다. 듀얼 트랙 기업 방화벽을 통해 핵심 지주 IP 자산과 운영상의 리테일 부채를 엄격히 격리합니다."
+  },
+  "Whenever a transaction is completed across any Biz-Hub channel—whether an individual Rp 1,320 sachet sale, an enterprise ERP consulting contract, or a franchise royalty fee—payment gateway webhooks execute an automated programmatic split: 70% is immediately disbursed into local operational accounts for inventory replenishment, logistics fuel, and local staff payroll, while 30% is swept directly into holding treasury accounts for reserve capital, debt service, technology R&D, and shareholder dividends.": {
+    "ko": "개별 1,320루피아 사셰 판매, 엔터프라이즈 ERP 컨설팅 계약, 프랜차이즈 로열티 비용 등 Biz-Hub의 어떤 채널에서든 거래가 체결되면, 결제 게이트웨이 웹훅이 자동화된 프로그래머틱 분할을 실행합니다. 70%는 재고 보충, 물류 운송비, 현지 인건비 지급을 위해 현지 운영 계좌로 즉시 지급되며, 30%는 지급준비금, 부채 상환, 기술 R&D 및 주주 배당을 위해 지주회사 트레저리 계좌로 직접 귀속(Sweep)됩니다."
+  },
+  "One Spark, Infinite Galaxifying: Biz-Hub is the living proof that market players achieve greater strength, resilience, and profitability by collaborating under shared values. Powered by the Qubit Algorithm™, *SC intelligence-core, Scarlet AI, and the Biz Galaxy constellation. Institutional Portal: https://sistarcompany.com • Corporate Headquarters: DennyKu (denniiku@sistarcompany.com)": {
+    "ko": "One Spark, Infinite Galaxifying: Biz-Hub는 시장 참여자들이 공유된 가치 아래 협력함으로써 더 강력한 결속력, 회복탄력성, 수익성을 달성할 수 있음을 입증하는 실체적 증거입니다. Qubit Algorithm™, *SC intelligence-core, Scarlet AI 및 Biz Galaxy 콘스텔레이션을 기반으로 구동됩니다. 기관 포털: https://sistarcompany.com • 본사: DennyKu (denniiku@sistarcompany.com)"
+  },
+  "Master Directorate • Layer 4 Arena Nexus": {
+    "ko": "마스터 디렉터레이트 • 레이어 4 아레나 넥서스"
+  },
+  "The Co-Creation Doctrine: Breaking the Trap of Fragmented Zero-Sum Competition": {
+    "ko": "공동 창조 독트린: 파편화된 제로섬 경쟁의 덫을 타파하다"
+  },
+  "In global commerce, fragmented independent businesses bleed capital through duplicated warehousing leases, redundant software licenses, predatory ad auctions, and excessive minimum order quantities. Biz-Hub creates a shared utility infrastructure that enables emerging indie brands, retail franchisees, and tech innovators to operate with the buying power, technical sophistication, and distribution reach of a multi-billion dollar conglomerate.": {
+    "ko": "글로벌 커머스 환경에서 파편화된 독립 기업들은 중복된 물류창고 임차, 불필요한 소프트웨어 라이선스, 소모적인 광고 입찰 경쟁, 과도한 최소 주문 수량(MOQ)으로 인해 자본 유출을 겪습니다. Biz-Hub는 신생 인디 브랜드, 리테일 가맹점, 기술 혁신가가 수십억 달러 규모 대기업에 필적하는 구매력, 기술적 고도화 수준, 유통망 도달 범위를 갖추고 운영할 수 있도록 지원하는 공유 유틸리티 인프라를 구축합니다."
+  },
+  "Master Topology • 8 Synergistic Pillars": {
+    "ko": "마스터 토폴로지 • 8대 시너지 필라"
+  },
+  "Matrix Topology • Cross-Functional Value": {
+    "ko": "매트릭스 토폴로지 • 크로스펑셔널 가치"
+  },
+  "Pillar / Directorate": {
+    "ko": "필라 / 디렉터레이트"
+  },
+  "Primary Input to Ecosystem": {
+    "ko": "생태계 핵심 투입 자원"
+  },
+  "Received Ecosystem Benefit": {
+    "ko": "생태계 수혜 편익"
+  },
+  "Marginal Cost Multiplier": {
+    "ko": "한계비용 승수"
+  },
+  "Ecosystem Synergy Role": {
+    "ko": "생태계 시너지 역할"
+  },
+  "Central intelligence, overnight brief synthesis": {
+    "ko": "중앙 인텔리전스, 익일 종합 브리프 합성"
+  },
+  "Direct commercial revenues from 7 partner pillars": {
+    "ko": "7대 파트너 필러 기반 직접 상업 매출"
+  },
+  "Zero marginal data cost": {
+    "ko": "데이터 한계비용 제로"
+  },
+  "Autonomous Central Brain": {
+    "ko": "자율 중앙 브레인"
+  },
+  "Rp 1,320 sachet products & recipes": {
+    "ko": "Rp 1,320 사셰 제품 및 레시피"
+  },
+  "Instant retail placement across all Mint & LP stores": {
+    "ko": "전체 Mint 및 LP 매장 즉각적 리테일 배치"
+  },
+  "-38% pooled raw material cost": {
+    "ko": "-38% 원자재 통합 조달 원가"
+  },
+  "High-Volume Manufacturing": {
+    "ko": "대규모 양산 제조 체계"
+  },
+  "Global API gateway & container mesh": {
+    "ko": "글로벌 API 게이트웨이 및 컨테이너 메시"
+  },
+  "Amortized cloud spend across 16+ business units": {
+    "ko": "16개 이상 사업부 전반의 클라우드 지출 상각"
+  },
+  "-74% cloud infrastructure bill": {
+    "ko": "-74% 클라우드 인프라 청구 비용"
+  },
+  "Digital Highway Backbone": {
+    "ko": "디지털 하이웨이 백본"
+  },
+  "Real-time wholesale & SKU arbitrage data": {
+    "ko": "실시간 도매 및 SKU 아비트라지 데이터"
+  },
+  "Immediate commercial testing on *SC retail shelves": {
+    "ko": "*SC 리테일 매대 즉각 상용화 테스트"
+  },
+  "Near-zero marginal crawl toll": {
+    "ko": "제로에 수렴하는 크롤링 한계 톨 비용"
+  },
+  "Factual Market Grounding": {
+    "ko": "팩트 기반 시장 그라운딩"
+  },
+  "Syndicated ad buys & PetFood Bank Re:D": {
+    "ko": "신디케이트 광고 집행 및 PetFood Bank Re:D"
+  },
+  "Shared customer retargeting pools across brands": {
+    "ko": "브랜드 간 고객 리타기팅 풀 공유"
+  },
+  "-58% blended acquisition CAC": {
+    "ko": "-58% 블렌디드 고객 획득 비용(CAC)"
+  },
+  "Collective Demand Engine": {
+    "ko": "집단 수요 엔진"
+  },
+  "Physical retail storefronts & local footfall": {
+    "ko": "오프라인 리테일 매장 및 로컬 유동인구"
+  },
+  "Consolidated Space Sharing supply chain delivery": {
+    "ko": "통합 공간 공유 공급망 배송"
+  },
+  "-60% retail logistics expense": {
+    "ko": "-60% 리테일 물류 비용"
+  },
+  "Physical Touchpoint Network": {
+    "ko": "물리적 접점 네트워크"
+  },
+  "Zero-SaaS Google Workspace ERP systems": {
+    "ko": "Zero-SaaS Google Workspace ERP 시스템"
+  },
+  "Battle-tested operational frameworks in active production": {
+    "ko": "프로덕션 환경에서 실전 검증된 운영 프레임워크"
+  },
+  "100% external SaaS toll savings": {
+    "ko": "외부 SaaS 톨 비용 100% 절감"
+  },
+  "Operating System Standard": {
+    "ko": "운영 체제 표준 규격"
+  },
+  "Viral short-form videos & live streaming": {
+    "ko": "바이럴 숏폼 영상 및 라이브 스트리밍"
+  },
+  "Guaranteed client pipeline from all co-brands & shops": {
+    "ko": "전체 공동 브랜드 및 매장 기반 확정적 클라이언트 파이프라인"
+  },
+  "-85% asset adaptation cost": {
+    "ko": "-85% 자산 적응 비용"
+  },
+  "Cultural Storytelling Engine": {
+    "ko": "문화적 스토리텔링 엔진"
+  },
+  "Physical Circulation • Space Sharing": {
+    "ko": "물리적 유통 • 공간 공유"
+  },
+  "Ecosystem Economics • Unit Margin Stack": {
+    "ko": "생태계 경제학 • 유닛 마진 스택"
+  },
+  "Operational Layer": {
+    "ko": "운영 계층"
+  },
+  "Value Capture Point": {
+    "ko": "가치 포착 지점"
+  },
+  "Typical Industry Margin": {
+    "ko": "통상적 업계 마진"
+  },
+  "*SC Biz-Hub Ecosystem Margin": {
+    "ko": "*SC Biz-Hub 생태계 마진"
+  },
+  "Economic Advantage": {
+    "ko": "경제적 우위"
+  },
+  "Wholesale Arbitrage Sourcing": {
+    "ko": "도매 아비트라지 소싱"
+  },
+  "1688 / Global factory direct contracts": {
+    "ko": "1688 / 글로벌 공장 직계약"
+  },
+  "5% - 8% (trader markups)": {
+    "ko": "5% - 8% (무역상 마진)"
+  },
+  "+22.4% Spread Advantage": {
+    "ko": "+22.4% 스프레드 우위"
+  },
+  "Nightly Data Factory algorithm": {
+    "ko": "Nightly Data Factory 알고리즘"
+  },
+  "Cleanroom Micro-Packaging": {
+    "ko": "클린룸 마이크로 패키징"
+  },
+  "High-speed multi-lane VFFS lines": {
+    "ko": "초고속 다열 VFFS 라인"
+  },
+  "12% - 15% (third-party toller)": {
+    "ko": "12% - 15% (제3자 임가공 마진)"
+  },
+  "+28.5% Contribution Margin": {
+    "ko": "+28.5% 공헌이익"
+  },
+  "In-house Auto-Formulator tooling": {
+    "ko": "인하우스 Auto-Formulator 툴링"
+  },
+  "Space Sharing Logistics": {
+    "ko": "공간 공유 물류"
+  },
+  "Consolidated urban fleet routing": {
+    "ko": "도심 통합 플릿 라우팅"
+  },
+  "-25% to -35% (courier expense)": {
+    "ko": "-25% ~ -35% (운송/택배 비용)"
+  },
+  "-12.0% Fleet Amortization": {
+    "ko": "-12.0% 플릿 감가상각비"
+  },
+  "Co-loaded multi-brand vehicles": {
+    "ko": "멀티 브랜드 공동 적재 차량"
+  },
+  "Retail Franchise Outlets": {
+    "ko": "리테일 프랜차이즈 가맹점"
+  },
+  "15% - 20% (traditional retail)": {
+    "ko": "15% - 20% (전통적 리테일)"
+  },
+  "+42.0% Gross Retail Margin": {
+    "ko": "+42.0% 리테일 총마진"
+  },
+  "Zero-spoilage micro-sachet format": {
+    "ko": "폐기율 제로 마이크로 사셰 포맷"
+  },
+  "Back-Office ERP Software": {
+    "ko": "백오피스 ERP 소프트웨어"
+  },
+  "-$150 / user / mo (SaaS fees)": {
+    "ko": "사용자당 월 -$150 (SaaS 비용 절감)"
+  },
+  "$0.00 SaaS Licensing": {
+    "ko": "$0.00 SaaS 라이선스 비용"
+  },
+  "100% proprietary open architecture": {
+    "ko": "100% 독자적 개방형 아키텍처"
+  },
+  "Global Presence • 8 Base Network": {
+    "ko": "글로벌 프레즌스 • 8대 거점 네트워크"
+  },
+  "Corporate Governance • 70/30 Settlement": {
+    "ko": "기업 거버넌스 • 70/30 정산 구조"
+  },
+  "MONOGRAPH BG-0101 • CORE ANCHOR ENTERPRISE BRAIN • COGNITIVE OPERATING SYSTEM": {
+    "ko": "모노그래프 BG-0101 • 핵심 앵커 엔터프라이즈 브레인 • 인지 운영 체제"
+  },
+  "*SC — SISTAR Mind Company: Autonomous Cognitive Nervous System & Enterprise Brain": {
+    "ko": "*SC — SISTAR Mind Company: 자율 인지 신경계 및 엔터프라이즈 브레인"
+  },
+  "SISTAR Mind Company functions as the autonomous central nervous system and enterprise intelligence infrastructure of the Signal Star Universe (*SC). Operating continuously across 24-hour cycles, it integrates overnight cross-border telemetry harvesting, dual-engine vector retrieval-augmented generation (RAG), and zero-friction Google Workspace AI ERP automation to maintain institutional market supremacy at fixed operational cost.": {
+    "ko": "SISTAR Mind Company는 Signal Star Universe(*SC)의 자율 중추신경계이자 엔터프라이즈 인텔리전스 인프라스트럭처로 기능합니다. 24시간 연속 사이클로 가동되며, 심야 크로스보더 텔레메트리 수집, 듀얼 엔진 벡터 검색 증강 생성(RAG), 무마찰(zero-friction) Google Workspace AI ERP 자동화를 통합하여 고정된 운영 비용으로 기관 차원의 시장 지배력을 유지합니다."
+  },
+  "Overnight Data Harvesting (10 PM - 8 AM)": {
+    "ko": "심야 데이터 하베스팅 (오후 10시 – 오전 8시)"
+  },
+  "Hallucination Rate via Citation Grounding": {
+    "ko": "인용 그라운딩 기반 환각률"
+  },
+  "Automated AI ERP on Google Workspace": {
+    "ko": "Google Workspace 기반 자동화 AI ERP"
+  },
+  "Eliminated Legacy Enterprise SaaS Fees": {
+    "ko": "기존 엔터프라이즈 SaaS 비용 전면 제거"
+  },
+  "CHAPTER 01 ARCHITECTURAL TAXONOMY & GENESIS": {
+    "ko": "CHAPTER 01 아키텍처 분류 체계 및 형성사"
+  },
+  "1. The Cognitive Imperative: Beyond Newtonian Administrative Friction": {
+    "ko": "1. 인지적 지상과제: 뉴턴 역학적 행정 마찰을 넘어서"
+  },
+  "Traditional corporate structures suffer from acute cognitive degradation. Corporate memory is fragmented across disconnected inboxes, disparate spreadsheets, and siloed ERP software licenses that charge recurring per-seat fees without delivering proactive intelligence. When key personnel depart or cross-border trade variables fluctuate, institutional execution stalls.": {
+    "ko": "전통적 기업 구조는 극심한 인지 저하를 겪고 있습니다. 기업 기억은 파편화된 수신함, 제각각인 스프레드시트, 선제적 인텔리전스 제공 없이 사용자 계정당 반복 비용만 청구하는 사일로화된 ERP 소프트웨어 라이선스에 분절되어 있습니다. 핵심 인력이 이탈하거나 크로스보더 무역 변수가 요동칠 때 조직 차원의 실행력은 마비됩니다."
+  },
+  "SISTAR Mind Company was engineered under the constitutional principles of the *SC Master PRD to replace linear administrative bottlenecks with an entangled, continuous cognitive loop. Positioned as the foundational engine of Layer 4 (Ecosystem Arenas) in the Signal Star Universe, Mind Company transforms passive information into proactive operational maneuvers across all 8 international bases (Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, Vietnam SCV, India SCIND, China SCC, Japan SCJ).": {
+    "ko": "SISTAR Mind Company는 선형적인 행정적 병목 현상을 얽힘 기반의 연속적 인지 루프로 대체하기 위해 *SC Master PRD의 헌법적 원칙에 따라 설계되었습니다. Signal Star Universe의 레이어 4(생태계 아레나) 핵심 엔진으로 자리잡은 Mind Company는 8대 글로벌 거점(한국 SCK, 인도네시아 SCI, 싱가포르 SCS, 미국 SCU, 베트남 SCV, 인도 SCIND, 중국 SCC, 일본 SCJ) 전반에서 수동적 정보를 선제적 운영 기동으로 전환합니다."
+  },
+  "Fragmented Human Overhead": {
+    "ko": "파편화된 인적 오버헤드"
+  },
+  "Relies on manual data entry, disconnected third-party ERP suites, subjective human reporting, and 14-day lag times in supply chain intelligence. Administrative expenses scale linearly with revenue, eroding gross margins.": {
+    "ko": "수작업 데이터 입력, 단절된 서드파티 ERP 스위트, 주관적 인적 보고, 공급망 인텔리전스의 14일 지연에 의존합니다. 관리 비용이 매출과 선형적으로 비례 증가하여 매출총이익을 잠식합니다."
+  },
+  "Autonomous Multi-Agent Loop": {
+    "ko": "자율 멀티 에이전트 루프"
+  },
+  "Continuous overnight scraping, pgvector neural embedding, automated accounting reconciliations on Google Workspace, and real-time CCTV inventory tracking. Near-zero marginal cost per new transaction vector.": {
+    "ko": "지속적인 심야 스크래핑, pgvector 신경망 임베딩, Google Workspace 기반 자동 회계 대사 및 실시간 CCTV 재고 추적. 신규 트랜잭션 벡터당 한계비용 제로(0) 수렴."
+  },
+  "CHAPTER 02 TELEMETRY INGESTION PIPELINE": {
+    "ko": "CHAPTER 02 텔레메트리 수집 파이프라인"
+  },
+  "2. The Overnight Data Factory (10:00 PM – 8:00 AM)": {
+    "ko": "2. 심야 데이터 팩토리 (오후 10:00 – 오전 8:00)"
+  },
+  "Between 22:00 and 08:00 local operational windows, when human personnel are offline, the SISTAR Mind Company Overnight Data Factory activates an array of headless Playwright and Apify micro-crawlers. These distributed agents systematically monitor global commodity price feeds, raw botanical pricing in Southeast Asia, competitor SKU shifts on Shopee and Tokopedia, HS-code duty updates, and regulatory filings from national veterinary and food safety bodies.": {
+    "ko": "인적 자원이 오프라인 상태인 현지 운영 시간 22:00부터 08:00 사이에 SISTAR Mind Company 심야 데이터 팩토리는 일련의 헤드리스 Playwright 및 Apify 마이크로 크롤러 어레이를 가동합니다. 이 분산형 에이전트들은 글로벌 원자재 가격 피드, 동남아시아 천연 식물 원료 가격, Shopee 및 Tokopedia의 경쟁사 SKU 변동, HS코드 관세 개정 사항, 각국 수의·식품 안전 당국의 규제 제출 문서를 체계적으로 모니터링합니다."
+  },
+  "Raw unstructured payloads are sanitized, schema-validated, and cross-referenced with internal Google Drive repositories and Keep memos. This telemetry is immediately normalized into structured JSONL artifacts before being forwarded to the semantic embedding engine.": {
+    "ko": "비정형 원시 페이로드는 정제 및 스키마 검증을 거쳐 내부 Google Drive 저장소 및 Keep 메모와 교차 대조됩니다. 이 텔레메트리는 시맨틱 임베딩 엔진으로 전송되기 직전 구조화된 JSONL 아티팩트로 즉각 정규화됩니다."
+  },
+  "CHAPTER 03 MATHEMATICAL FORMALISM": {
+    "ko": "CHAPTER 03 수학적 정식화"
+  },
+  "3. Mathematical Formalism of Cognitive Information Entropy & Retrieval Accuracy": {
+    "ko": "3. 인지 정보 엔트로피 및 검색 정확도의 수학적 정식화"
+  },
+  "To guarantee that automated decisioning remains free of LLM hallucinations, SISTAR Mind Company enforces strict dual-engine vector boundary constraints. A retrieval query $q$ is executed across high-dimensional vector space using cosine distance thresholds weighted by recency decay functions and source credibility scores.": {
+    "ko": "자동화된 의사결정에서 LLM의 환각을 원천 배제하기 위해, SISTAR Mind Company는 엄격한 듀얼 엔진 벡터 경계 제약을 강제합니다. 검색 쿼리 $q$는 최신성 감쇠 함수와 소스 신뢰도 점수로 가중된 코사인 거리 임계값을 사용하여 고차원 벡터 공간에서 실행됩니다."
+  },
+  "Where $\\mathbf{v}_q$ is the query embedding vector, $\\mathbf{v}_{d_i}$ is the stored document vector in Supabase pgvector, $\\Delta t_i$ represents elapsed time since verified data collection in hours, and $\\sigma_{\\text{audit}}(s_i)$ is the deterministic provenance rating of source $s_i \\in \\{1688, \\text{Customs}, \\text{Internal ERP}\\}$. Only documents with $C(q, D_i) \\ge 0.885$ are admitted into prompt assembly, eliminating speculative hallucinations.": {
+    "ko": "여기서 $\\mathbf{v}_q$는 쿼리 임베딩 벡터, $\\mathbf{v}_{d_i}$는 Supabase pgvector에 저장된 문서 벡터, $\\Delta t_i$는 검증된 데이터 수집 이후 경과 시간(단위: 시간), $\\sigma_{\\text{audit}}(s_i)$는 출처 $s_i \\in \\{1688, \\text{Customs}, \\text{Internal ERP}\\}$에 대한 결정론적 기원 평가 등급입니다. $C(q, D_i) \\ge 0.885$를 만족하는 문서만이 프롬프트 어셈블리에 인입되어 추측성 환각을 원천 차단합니다."
+  },
+  "CHAPTER 04 AI ERP & PHYSICAL VISION INTEGRATION": {
+    "ko": "CHAPTER 04 AI ERP 및 피지컬 비전 통합"
+  },
+  "4. 8-Department Google Workspace AI ERP & CCTV Vision Stock Opname": {
+    "ko": "4. 8대 핵심 부서 Google Workspace AI ERP 및 CCTV 비전 재고실사(Stock Opname)"
+  },
+  "Instead of saddling operational affiliates with expensive licenses for legacy ERP platforms, SISTAR Mind Company natively architects its ERP on Google Workspace (Sheets, Docs, Drive, BigQuery, AppSheet) augmented by Gemini 1.5 Pro and Flash agents.": {
+    "ko": "운영 계열사에 레거시 ERP 플랫폼의 막대한 라이선스 비용을 전가하는 대신, SISTAR Mind Company는 Gemini 1.5 Pro 및 Flash 에이전트를 통해 고도화된 Google Workspace(Sheets, Docs, Drive, BigQuery, AppSheet) 기반의 네이티브 ERP 아키텍처를 직접 구축했습니다."
+  },
+  "Warehousing operations across our manufacturing nodes integrate high-resolution CCTV camera streams connected to Gemini Vision AI. The visual system performs automated Stock Opname (physical inventory counting), auditing pallet stacks, raw material super-sacks, and retail sachet boxes with automated discrepancy alerting.": {
+    "ko": "당사 제조 거점 전반의 물류·창고 운영은 Gemini Vision AI와 연동된 고해상도 CCTV 스트림을 통합하여 관리됩니다. 해당 비전 시스템은 파렛트 적재물, 원자재 톤백(super-sacks), 소포장 샤셰(sachet) 박스를 정밀 감사하여 자동 오차 알림과 함께 재고실사(Stock Opname)를 완전 자동화합니다."
+  },
+  "Primary AI Agent Role": {
+    "ko": "핵심 AI 에이전트 역할"
+  },
+  "Underlying Stack": {
+    "ko": "기반 기술 스택"
+  },
+  "Operational Outcome": {
+    "ko": "운영 성과"
+  },
+  "Finance & VAT": {
+    "ko": "재무 및 부가가치세(VAT)"
+  },
+  "Automated ledger balance, e-Tax invoice reconciliation, 70/30 split audit": {
+    "ko": "원장 잔액 자동 대사, 전자세금계산서 정산, 70/30 배분 감사"
+  },
+  "Zero-delay month-end closing; automated tax filings": {
+    "ko": "월말 결산 지연 제로화; 세무 신고 완전 자동화"
+  },
+  "Human Resources": {
+    "ko": "인사(HR)"
+  },
+  "25th monthly payroll calculations, performance index score, leave tracking": {
+    "ko": "매월 25일 급여 자동 산출, KPI 성과 지표 평정, 휴가 트래킹"
+  },
+  "Zero payroll discrepancies across 8 international bases": {
+    "ko": "8개 글로벌 거점 전역 급여 산정 오차율 0% 달성"
+  },
+  "Sales & CRM": {
+    "ko": "영업 및 CRM"
+  },
+  "Lead intake, wholesale quotation generation, deal velocity tracking": {
+    "ko": "인바운드 리드 수임, 도매 견적 자동 산출, 딜 체결 속도 추적"
+  },
+  "Under 3-minute turnaround for complex B2B export quotes": {
+    "ko": "복합 B2B 수출 견적 리드타임 3분 이내로 단축"
+  },
+  "Warehouse & Logistics": {
+    "ko": "창고 및 물류"
+  },
+  "CCTV automated pallet counting, box sachet volume tracking": {
+    "ko": "CCTV 기반 파렛트 자동 계수, 샤셰 박스 볼륨 추적"
+  },
+  "Stock Opname completed in 4 minutes without manual tallying": {
+    "ko": "수기 계수 없는 4분 초고속 재고실사(Stock Opname) 완료"
+  },
+  "Regulatory Affairs": {
+    "ko": "규제 대응 및 인허가(RA)"
+  },
+  "BPOM, FDA, and MAFF dossier preparation & compliance cross-checking": {
+    "ko": "BPOM, FDA 및 일본 농림수산성(MAFF) 제출 서류 작성 및 규제 준수 교차 검증"
+  },
+  "100% compliant export dossiers ready for submission": {
+    "ko": "규제 적합성 100% 충족 및 즉시 제출 가능한 수출 인허가 서류 완제"
+  },
+  "CHAPTER 05 DUAL-RETURN REVENUE MODEL": {
+    "ko": "CHAPTER 05 DUAL-RETURN 수익 모델"
+  },
+  "5. Dual-Return SaaS & MCP Agent API Monetization": {
+    "ko": "5. 듀얼 리턴 SaaS 및 MCP 에이전트 API 모네타이제이션"
+  },
+  "SISTAR Mind Company does not merely function as a corporate cost-center. It executes a dual-return capitalization model: internal cost elimination paired with external high-margin enterprise monetization.": {
+    "ko": "SISTAR Mind Company는 단순한 사내 비용 부서(Cost-Center)에 머물지 않습니다. 내부 운영 비용 절감과 대외 고마진 엔터프라이즈 모네타이제이션을 결합한 듀얼 리턴(Dual-Return) 자본화 모델을 단행합니다."
+  },
+  "Externally, Mind Company packages its proven AI ERP frameworks, custom enterprise RAG pipelines, and specialized Model Context Protocol (MCP) servers as enterprise SaaS offerings for international trade consortiums and manufacturing enterprises seeking automated cognitive transformation.": {
+    "ko": "대외적으로 Mind Company는 실전 검증된 AI ERP 프레임워크, 맞춤형 엔터프라이즈 RAG 파이프라인, 특화된 Model Context Protocol(MCP) 서버를 패키징하여 자동화된 인지 혁신을 추구하는 글로벌 무역 컨소시엄 및 제조 기업을 위한 엔터프라이즈 SaaS로 상용화합니다."
+  },
+  "CHAPTER 06 GOVERNANCE & SETTLEMENT FIREWALL": {
+    "ko": "제6장 거버넌스 및 정산 파이어월"
+  },
+  "6. Triple Control Towers, Legal Firewall & 70/30 Settlement Security": {
+    "ko": "6. 삼중 컨트롤 타워, 법적 파이어월 및 70/30 정산 보안 체계"
+  },
+  "Operational integrity within the *SC ecosystem is secured through a robust legal firewall. SISTAR Mind Company operates under strict liability separation: holding company intellectual property and sovereign algorithms reside within SC Index, while commercial execution and trading transactions are conducted by operating affiliates within Biz Galaxy.": {
+    "ko": "*SC 생태계 내 운영 무결성은 강력한 법적 파이어월을 통해 확보됩니다. SISTAR Mind Company는 엄격한 책임 분리 원칙하에 운영되며, 지주사 지식재산권(IP)과 독점적 주권 알고리즘은 SC Index에 귀속되고, 상업적 실행 및 무역 거래는 Biz Galaxy 산하의 사업 운영 계열사를 통해 수행됩니다."
+  },
+  "All B2B cross-border commercial transactions are backed by 3-Month Rolling Purchasing Forecasts (RPF), insured by Korea Trade Insurance Corporation (K-SURE) export credit coverage, and settled via automated Payment Gateway (PG) webhook splits allocating 70% to primary production/fulfillment and 30% to reserve and liquidity vaults.": {
+    "ko": "모든 B2B 크로스보더 상거래는 3개월 롤링 구매 예측(RPF)을 기반으로 뒷받침되며, 한국무역보험공사(K-SURE)의 수출신용보증 보험 적용을 받고, 1차 생산/풀필먼트에 70%, 예비금 및 유동성 금고에 30%를 배분하는 자동화된 결제 게이트웨이(PG) 웹훅 분할 정산 시스템을 통해 결제됩니다."
+  },
+  "Governing Body / Mechanism": {
+    "ko": "거버넌스 주체 / 메커니즘"
+  },
+  "Function & Protection Scope": {
+    "ko": "기능 및 보호 범위"
+  },
+  "Contingency Trigger": {
+    "ko": "비상 대응 트리거"
+  },
+  "Protects core proprietary IP and algorithms from operating liabilities": {
+    "ko": "핵심 독점 IP 및 알고리즘을 운영상의 법적 책임으로부터 분리 보호"
+  },
+  "Automatic SPV insolvency ringfencing": {
+    "ko": "특수목적법인(SPV) 부실 위험에 대한 자동 링펜싱(자산 격리)"
+  },
+  "Credit Defense": {
+    "ko": "신용 방어 체계"
+  },
+  "K-SURE Export Insurance": {
+    "ko": "K-SURE 수출보험"
+  },
+  "Underwrites international accounts receivable against default risks": {
+    "ko": "채무불이행 리스크에 대비하여 해외 매출채권 인수 및 보증"
+  },
+  "Immediate payout upon 30-day payment delinquency": {
+    "ko": "30일 이상 대금 연체 발생 시 즉각적인 보험금 지급"
+  },
+  "Settlement Webhook": {
+    "ko": "정산 웹훅"
+  },
+  "70/30 Automated PG Split": {
+    "ko": "70/30 자동 PG 분할 정산"
+  },
+  "Divides gross inflows at gateway level between ops and reserve": {
+    "ko": "게이트웨이 단계에서 총 유입 자금을 운영비와 예비금으로 분할 배분"
+  },
+  "Instant gateway freeze upon transaction anomaly": {
+    "ko": "거래 이상 징후 감지 시 게이트웨이 즉각 동결"
+  },
+  "Auditing Protocol": {
+    "ko": "감사 프로토콜"
+  },
+  "*SC Triple Control Towers": {
+    "ko": "*SC 삼중 컨트롤 타워"
+  },
+  "Continuous real-time surveillance of cross-border cash & inventory": {
+    "ko": "국경 간 현금 흐름 및 재고에 대한 지속적인 실시간 감시"
+  },
+  "Real-time executive notification and autonomous freeze": {
+    "ko": "실시간 경영진 보고 및 자율적 동결 집행"
+  },
+  "CHAPTER 07 INSTITUTIONAL SYNERGY": {
+    "ko": "제7장 기관적 시너지"
+  },
+  "7. Strategic Node Integration in the Biz Galaxy Constellation": {
+    "ko": "7. Biz Galaxy 성좌 내 전략적 노드 통합"
+  },
+  "As an anchor node within the *SC Biz Galaxy, SISTAR Mind Company provides the foundational intelligence substrate that powers all other industry verticals. Whether calculating automated feed formulations for SISPet, analyzing marine bio-salinity data for Aquasis, or auditing clinical trial dossiers for SISTAR MedIX, Mind Company guarantees that every enterprise vertical operates with cognitive superiority.": {
+    "ko": "*SC Biz Galaxy의 앵커 노드로서, SISTAR Mind Company는 여타 모든 산업 버티컬을 구동하는 기반 인텔리전스 기저층(Substrate)을 제공합니다. SISPet을 위한 자동 사료 배합 산출, Aquasis를 위한 해양 바이오 염도 데이터 분석, SISTAR MedIX를 위한 임상시험 서류 감사에 이르기까지, Mind Company는 모든 엔터프라이즈 버티컬이 인지적 우위를 바탕으로 작동하도록 보장합니다."
+  },
+  "\"Human executives must be liberated to formulate high-level strategic visions, structure alliances, and negotiate sovereign contracts. The routine ingestion of global market intelligence, mathematical reconciliation of ledgers, and operational surveillance must be executed autonomously by our enterprise brain.\"": {
+    "ko": "\"인간 경영진은 고차원적 전략 비전 수립, 동맹 구조화, 주권적 계약 협상에 집중할 수 있도록 해방되어야 합니다. 글로벌 시장 인텔리전스의 정기적 수집, 원장의 수학적 대사(Reconciliation), 운영 감시는 엔터프라이즈 브레인에 의해 자율적으로 실행되어야 합니다.\""
+  },
+  "MONOGRAPH BG-0101 • CORE ANCHOR": {
+    "ko": "모노그래프 BG-0101 • 핵심 앵커"
+  },
+  "ENTERPRISE BRAIN • COGNITIVE OPERATING SYSTEM": {
+    "ko": "엔터프라이즈 브레인 • 인지 운영체제(Cognitive OS)"
+  },
+  "Executive Intelligence Brief: Unmanned Cognitive Dominance": {
+    "ko": "경영진 인텔리전스 브리프: 무인 인지적 지배력"
+  },
+  "While global competitors incur escalating administrative overhead and executive fatigue, SISTAR Mind Company deploys an autonomous data-to-decision pipeline. By harvesting wholesale pricing indices, trade customs modifications, and SKU movements across Asia and the Americas between 10:00 PM and 8:00 AM, the company delivers verified, citation-backed decision matrices to executive leadership at the start of each business day.": {
+    "ko": "글로벌 경쟁사들이 눈덩이처럼 불어나는 관리 간접비와 경영진 피로도에 직면하는 동안, SISTAR Mind Company는 자율형 데이터-의사결정 파이프라인을 전개합니다. 오후 10시부터 익일 오전 8시 사이에 아시아와 미주 전역의 도매 가격 지수, 관세 개정 사항, SKU 이동 추이를 수집함으로써, 당사는 매 영업일 시작 시점에 출처 검증이 완료된 의사결정 매트릭스를 최고 경영진에 제공합니다."
+  },
+  "ARCHITECTURAL TAXONOMY & GENESIS": {
+    "ko": "아키텍처 분류체계 및 기원"
+  },
+  "TELEMETRY INGESTION PIPELINE": {
+    "ko": "원격 측정 수집 파이프라인 (Telemetry Ingestion Pipeline)"
+  },
+  "AI ERP & PHYSICAL VISION INTEGRATION": {
+    "ko": "AI ERP 및 피지컬 비전 융합"
+  },
+  "DUAL-RETURN REVENUE MODEL": {
+    "ko": "이원화 수익 창출 모델 (Dual-Return Revenue Model)"
+  },
+  "GOVERNANCE & SETTLEMENT FIREWALL": {
+    "ko": "거버넌스 및 정산 방화벽 (Governance & Settlement Firewall)"
+  },
+  "INSTITUTIONAL SYNERGY": {
+    "ko": "기관 단위 시너지 (Institutional Synergy)"
+  },
+  "MONOGRAPH BG-0102 • PATHFINDING RADAR COGNITIVE GPS • ARBITRAGE & CORRIDOR ROUTING": {
+    "ko": "모노그래프 BG-0102 • 경로 탐색 레이더 인지형 GPS • 차익거래 및 통상 회랑 라우팅"
+  },
+  "*SC — Mind Navi: Cognitive Trade GPS & Autonomous Market Pathfinding": {
+    "ko": "*SC — Mind Navi: 인지형 무역 GPS 및 자율 시장 경로 탐색"
+  },
+  "Mind Navi operates as the cognitive navigation system of the Signal Star Universe. Powered by continuous cross-border telemetry and predictive graph algorithms, it calculates optimal global trade corridors, resolves customs and tariff complexities, and routes commercial transactions across 8 international hubs with minimum frictional loss.": {
+    "ko": "Mind Navi는 Signal Star Universe의 인지 내비게이션 시스템 역할을 수행합니다. 지속적인 국가 간 원격 측정 데이터와 예측 그래프 알고리즘을 기반으로, 최적의 글로벌 무역 회랑을 연산하고 복잡한 통관 및 관세 장벽을 해결하며 8개 글로벌 거점에 걸쳐 마찰 손실을 최소화한 상업 거래 라우팅을 실행합니다."
+  },
+  "Global Multi-Modal Corridor Calculation": {
+    "ko": "글로벌 복합 운송 회랑 연산"
+  },
+  "Tariff Exemption Optimization": {
+    "ko": "관세 면제 최적화"
+  },
+  "Synchronized Trade Nodes across Asia-Pacific": {
+    "ko": "아시아-태평양 전역의 동기화된 무역 노드"
+  },
+  "Net Margin Expansion via Dynamic Arbitrage": {
+    "ko": "동적 차익거래를 통한 순마진 확대"
+  },
+  "CHAPTER 01 FUNCTIONAL TOPOLOGY": {
+    "ko": "CHAPTER 01 기능적 위상수학 (Functional Topology)"
+  },
+  "1. The Problem of Classical Trade Friction and Asymmetric Blindspots": {
+    "ko": "1. 고전적 무역 마찰 및 비대칭적 블라인드스팟의 한계"
+  },
+  "Traditional trading companies rely on static freight forwarders, manual customs brokers, and ad-hoc email negotiations. This outdated methodology leads to catastrophic blindspots: unforeseen demurrage charges, missed free-trade tariff exemptions, unexpected currency devaluation, and inefficient routing through congested transshipment terminals.": {
+    "ko": "전통적인 종합상사는 고정된 운송 주선인, 수작업 기반 관세사, 임의적 이메일 협상에 의존합니다. 이러한 구시대적 방법론은 예측 불가능한 체선료 발생, 자유무역협정(FTA) 관세 면제 기회 상실, 급격한 통화 가치 절하, 혼잡한 환적 항만 경유로 인한 비효율 등 치명적인 블라인드스팟을 초래합니다."
+  },
+  "Mind Navi eliminates these human vulnerabilities by constructing an algorithmic digital twin of global cross-border trade flows. Functioning as the specialized navigational arm of SISTAR Mind Company, it continuously scans trade channels between our 8 national operational bases to identify high-spread arbitrage opportunities before market conditions equilibrate.": {
+    "ko": "Mind Navi는 글로벌 국가 간 무역 흐름에 대한 알고리즘 기반 디지털 트윈을 구축하여 이러한 인적 취약성을 원천 차단합니다. SISTAR Mind Company의 특화된 항법 엔진으로서, 8개국 운영 거점 간 무역 채널을 실시간 스캔하고 시장 조건이 균형을 이루기 전 고수익 차익거래 기회를 선제적으로 포착합니다."
+  },
+  "Static Routing & Hidden Surcharges": {
+    "ko": "정적 라우팅 및 잠재 부대비용"
+  },
+  "Relies on broker quotes that take 48-72 hours, resulting in fixed freight pricing that ignores real-time container imbalances, sub-optimal tariff classifications, and high port dwell penalties.": {
+    "ko": "견적 수령까지 48-72시간이 소요되는 브로커 방식에 의존하여, 실시간 컨테이너 수급 불균형, 차선의 HS 코드 분류, 과도한 항만 체류 페널티를 반영하지 못하는 고정 운임 리스크에 노출됩니다."
+  },
+  "Dynamic Multi-Hop Optimization": {
+    "ko": "동적 멀티홉(Multi-Hop) 최적화"
+  },
+  "Real-time graph search across ocean, air, and bonded transit nodes. Automatically selects HS-code sub-classifications yielding lowest duty and routes shipments through lowest-congestion ports.": {
+    "ko": "해상, 항공, 보세 운송 노드를 아우르는 실시간 그래프 탐색을 수행합니다. 최저 관세율이 적용되는 세부 HS 코드를 자동 선별하고, 혼잡도가 가장 낮은 항만으로 선적 경로를 재배치합니다."
+  },
+  "CHAPTER 02 PATHFINDING ARCHITECTURE": {
+    "ko": "CHAPTER 02 경로 탐색 아키텍처 (Pathfinding Architecture)"
+  },
+  "2. Dynamic Multi-Dimensional Trade Routing Pipeline": {
+    "ko": "2. 동적 다차원 무역 라우팅 파이프라인"
+  },
+  "Mind Navi ingests shipping line APIs, air cargo space spot rates, port wait-time telemetry, and customs database indices. When an *SC enterprise prepares to export finished pet nutraceuticals, clinical veterinary reagents, or raw botanical concentrates, Mind Navi evaluates every possible physical and legal route.": {
+    "ko": "Mind Navi는 선사 API, 항공 화물 스페이스 스팟 운임, 항만 대기 시간 텔레메트리, 관세 데이터베이스 지수를 통합 수집합니다. *SC 계열 기업이 반려동물용 완제 뉴트라슈티컬, 임상 동물용 진단 시약, 천연 식물성 농축 원료를 수출할 때, Mind Navi는 모든 물리적·법적 이동 경로를 종합적으로 평가합니다."
+  },
+  "CHAPTER 03 PATH OPTIMIZATION MATHEMATICS": {
+    "ko": "CHAPTER 03 경로 최적화 수학적 모델링"
+  },
+  "3. Formulation of Total Landed Frictional Cost (TLFC)": {
+    "ko": "3. 총 착지 마찰 비용(TLFC)의 정식화"
+  },
+  "Mind Navi formulates each cross-border trade route as a cost-minimization problem across an edge graph $G = (V, E)$. The objective is to identify a path $P^*$ connecting supplier node $S$ to buyer node $B$ that minimizes the Total Landed Frictional Cost while observing delivery deadline constraints $T_{\\max}$.": {
+    "ko": "Mind Navi는 각 국가 간 무역 경로를 에지 그래프 $G = (V, E)$ 상의 비용 최소화 문제로 정식화합니다. 본 모델의 목적은 공급자 노드 $S$와 바이어 노드 $B$를 연결하면서, 납기 제약 조건 $T_{\\max}$를 충족함과 동시에 총 착지 마찰 비용(Total Landed Frictional Cost)을 최소화하는 최적 경로 $P^*$를 도출하는 것입니다."
+  },
+  "Where $F_e$ is direct freight and bunker adjustment per TEU, $\\tau_e$ is the effective duty rate under active Free Trade Agreements, $\\xi_e$ represents forward foreign exchange slippage hedging cost, and $\\mu$ is the financial demurrage and perishable spoilage penalty per hour of delay. By solving $P^*$ in under 140ms, Mind Navi locks in the optimal path before freight markets adjust.": {
+    "ko": "여기서 $F_e$는 TEU당 직접 운임 및 유류할증료(BAF), $\\tau_e$는 발효 중인 자유무역협정 하의 실효 관세율, $\\xi_e$는 선물환 슬리피지 헷징 비용, $\\mu$는 지연 시간당 체선료 및 부패성 화물의 감가 페널티를 나타냅니다. Mind Navi는 140ms 이내에 $P^*$를 연산하여 해운 시장의 가격 재조정이 일어나기 전에 최적 경로를 확정합니다."
+  },
+  "CHAPTER 04 CORRIDOR BENCHMARKS": {
+    "ko": "CHAPTER 04 회랑 벤치마크 (Corridor Benchmarks)"
+  },
+  "4. Multi-Hub Corridor Benchmarking & Route Performance": {
+    "ko": "4. 멀티 허브 회랑 벤치마킹 및 라우팅 퍼포먼스"
+  },
+  "Mind Navi governs active trade corridors linking Korea, Indonesia, Vietnam, Singapore, China, Japan, India, and the United States. The table below illustrates empirical performance across key active bilateral shipping pairs.": {
+    "ko": "Mind Navi는 한국, 인도네시아, 베트남, 싱가포르, 중국, 일본, 인도, 미국을 잇는 핵심 무역 회랑을 관제합니다. 하단의 표는 주요 활성 양자 간 운송 페어의 실증적 성능 지표를 나타냅니다."
+  },
+  "Corridor Pair": {
+    "ko": "운송 회랑(Corridor) 페어"
+  },
+  "Commodity / Product Line": {
+    "ko": "품목군 / 제품 라인업"
+  },
+  "Applicable Treaty / Scheme": {
+    "ko": "적용 협정 / 제도"
+  },
+  "Baseline Transit": {
+    "ko": "기준 운송 소요 기간(Baseline)"
+  },
+  "Navi Optimized Transit": {
+    "ko": "Navi 최적화 운송 기간"
+  },
+  "Cost Reduction": {
+    "ko": "비용 절감률"
+  },
+  "Busan (SCK) -> Jakarta (SCI)": {
+    "ko": "부산 (SCK) -> 자카르타 (SCI)"
+  },
+  "Micro-Sachet Pet Therapeutics (SISPet)": {
+    "ko": "마이크로 사셰 반려동물 치료제 (SISPet)"
+  },
+  "AKFTA / RCEP Form AK": {
+    "ko": "한-아세안 FTA(AKFTA) / RCEP Form AK"
+  },
+  "16 days": {
+    "ko": "16일"
+  },
+  "8 days (Bonded Express)": {
+    "ko": "8일 (보세 특송)"
+  },
+  "-22.4% landed cost": {
+    "ko": "양륙비용(Landed Cost) -22.4%"
+  },
+  "Surabaya (SCI) -> Incheon (SCK)": {
+    "ko": "수라바야 (SCI) -> 인천 (SCK)"
+  },
+  "Raw Botanical Extracts (SisAyurvedic)": {
+    "ko": "천연 식물성 추출 원료 (SisAyurvedic)"
+  },
+  "IK-CEPA Certificate of Origin": {
+    "ko": "한-인니 CEPA(IK-CEPA) 원산지증명서"
+  },
+  "19 days": {
+    "ko": "19일"
+  },
+  "11 days": {
+    "ko": "11일"
+  },
+  "-18.1% (Zero Duty)": {
+    "ko": "-18.1% (무관세 적용)"
+  },
+  "Singapore (SCS) -> Da Nang (SCV)": {
+    "ko": "싱가포르 (SCS) -> 다낭 (SCV)"
+  },
+  "Diagnostic Biosensors (SISTAR Dx)": {
+    "ko": "진단용 바이오센서 (SISTAR Dx)"
+  },
+  "ATIGA Intra-ASEAN": {
+    "ko": "ATIGA 아세안 역내 특혜무역"
+  },
+  "7 days": {
+    "ko": "7일"
+  },
+  "3 days (Air-Sea Hybrid)": {
+    "ko": "3일 (항공·해상 복합운송)"
+  },
+  "Shenzhen (SCC) -> Busan (SCK)": {
+    "ko": "선전 (SCC) -> 부산 (SCK)"
+  },
+  "Veterinary POCT Cartridges & Hardware": {
+    "ko": "동물용 POCT 카트리지 및 하드웨어"
+  },
+  "RCEP Electronic Data Exchange": {
+    "ko": "RCEP 전자데이터교환(EDI)"
+  },
+  "6 days": {
+    "ko": "6일"
+  },
+  "2.5 days": {
+    "ko": "2.5일"
+  },
+  "CHAPTER 05 REAL-TIME RISK RADAR": {
+    "ko": "CHAPTER 05 실시간 리스크 레이더"
+  },
+  "5. The Predictive Trade Risk Radar & Early Warning System": {
+    "ko": "5. 예측형 무역 리스크 레이더 및 조기경보 시스템"
+  },
+  "Beyond route planning, Mind Navi operates an active risk radar. By analyzing satellite Automatic Identification System (AIS) vessel movements, maritime weather alerts, and labor negotiation developments at critical ports, the radar flags emerging disruptions before containers leave port terminals.": {
+    "ko": "단순한 경로 계획을 넘어, Mind Navi는 능동형 리스크 레이더를 가동합니다. 위성 기반 선박자동식별장치(AIS)의 선박 동선, 해양 기상 특보, 주요 항만의 노사 교섭 동향을 정밀 분석함으로써, 컨테이너가 항만 터미널을 출항하기 전 발생 가능한 잠재적 병목 및 장애를 선제적으로 감지하고 경고합니다."
+  },
+  "CHAPTER 06 COMMERCIAL IMPACT & ROI": {
+    "ko": "제06장 상업적 임팩트 및 ROI"
+  },
+  "6. Commercial Value Realization for *SC Ecosystem Verticals": {
+    "ko": "6. *SC 생태계 버티컬의 상업적 가치 실현"
+  },
+  "Mind Navi does not exist in isolation; it functions as the spatial optimization layer for all business verticals within the Biz Galaxy constellation. By lowering trade friction, it expands the addressable operating margin for every affiliate brand.": {
+    "ko": "Mind Navi는 고립되어 단독으로 작동하지 않으며, Biz Galaxy 콘스텔레이션 내 모든 비즈니스 버티컬을 유기적으로 관통하는 공간 최적화 레이어(Spatial Optimization Layer)로 기능합니다. 무역 마찰을 극소화함으로써, 모든 계열사 브랜드의 유효 영업이익률(Addressable Operating Margin)을 구조적으로 확장합니다."
+  },
+  "Vertical / Sibling Brand": {
+    "ko": "버티컬 / 패밀리 브랜드"
+  },
+  "Navigational Challenge": {
+    "ko": "물류 항로 난제"
+  },
+  "Mind Navi Solution": {
+    "ko": "Mind Navi 솔루션"
+  },
+  "Measured Enterprise Impact": {
+    "ko": "정량화된 엔터프라이즈 임팩트"
+  },
+  "High freight ratio on bulky kibble bags": {
+    "ko": "부피가 큰 키블(kibble) 사료 포대로 인한 과도한 해상 운임 비중"
+  },
+  "Routes concentrated base formulas + localized micro-sachet packaging": {
+    "ko": "농축 베이스 포뮬러 해상 운송 + 현지 마이크로 샤셰 소포장 패키징 경로화"
+  },
+  "64% reduction in ocean freight volume": {
+    "ko": "해상 화물 용적 64% 감축"
+  },
+  "Cold-chain temperature sensitivity & customs delays": {
+    "ko": "콜드체인 온도 민감도 및 통관 지연 리스크"
+  },
+  "Pre-cleared green-channel routing via bonded medical hubs": {
+    "ko": "보세 의료 허브를 경유하는 사전 승인 그린채널 라우팅"
+  },
+  "Zero temperature excursions in 1,200+ clinical shipments": {
+    "ko": "1,200건 이상의 임상 배송 중 온도 이탈(Temperature Excursion) 0건 달성"
+  },
+  "Indian botanical export restrictions & phytosanitary testing": {
+    "ko": "인도산 식물성 원료 수출 규제 및 식물위생검역 장벽"
+  },
+  "Pre-inspected corridor routing through certified Singapore bio-vaults": {
+    "ko": "공인 싱가포르 바이오 볼트(Bio-vault)를 경유하는 사전 검증 회랑 라우팅"
+  },
+  "Eliminated 100% of border rejection incidents": {
+    "ko": "통관 거부 사례 100% 원천 차단"
+  },
+  "Rapid POCT delivery demands for outbreak control": {
+    "ko": "감염병 확산 조기 차단을 위한 신속 POCT 배송 수요"
+  },
+  "Automated courier split dispatching directly to clinic networks": {
+    "ko": "클리닉 네트워크 직배송 체계로 연결되는 자동 분할 특송(Split Dispatching)"
+  },
+  "Under 48-hour delivery across East Asia": {
+    "ko": "동아시아 전역 48시간 이내 배송 완결"
+  },
+  "CHAPTER 07 STRATEGIC GOVERNANCE": {
+    "ko": "제07장 전략적 거버넌스"
+  },
+  "7. Institutional Governance & Ethical Pathfinding Commitments": {
+    "ko": "7. 제도적 거버넌스 및 윤리적 패스파인딩 책무"
+  },
+  "Every corridor calculation performed by Mind Navi adheres to international maritime environmental standards, prioritizing carbon-efficient transport legs where time elasticity permits. Furthermore, all customs classifications strictly conform to World Customs Organization (WCO) standards, reinforced by automated audit trails accessible to international trade authorities.": {
+    "ko": "Mind Navi가 수행하는 모든 물류 회랑(Corridor) 연산은 국제 해사 환경 기준을 엄격히 준수하며, 시간적 탄력성이 허용되는 범위 내에서 탄소 효율성이 가장 높은 운송 구간을 최우선 배정합니다. 나아가 모든 품목 분류는 세계관세기구(WCO) 표준에 정밀히 부합하도록 집행되며, 글로벌 무역 당국이 실시간 검증할 수 있는 자동화된 감사 추적(Audit Trail) 기술을 통해 무결성을 보증합니다."
+  },
+  "\"The globe is not a collection of fragmented, high-friction borders. Under Mind Navi, international trade becomes a continuous, mathematically optimized continuum where distance is subordinate to algorithmic intelligence.\"": {
+    "ko": "\"세계는 파편화되고 마찰이 심한 국경들의 집합체가 아닙니다. Mind Navi의 지휘 하에 국제 무역은 물리적 거리가 알고리즘 지능에 완벽히 종속되는, 연속적이고 수학적으로 최적화된 연속체(Continuum)로 전환됩니다.\""
+  },
+  "MONOGRAPH BG-0102 • PATHFINDING RADAR": {
+    "ko": "모노그래프 BG-0102 • 패스파인딩 레이더"
+  },
+  "COGNITIVE GPS • ARBITRAGE & CORRIDOR ROUTING": {
+    "ko": "인지형 GPS • 아비트라지 및 회랑 라우팅"
+  },
+  "Executive Brief: Algorithmic Arbitrage & Dynamic Corridor Selection": {
+    "ko": "경영진 브리프: 알고리즘 기반 차익거래 및 동적 회랑(Corridor) 선정"
+  },
+  "International commerce is fraught with asymmetric information, volatile shipping rates, and sudden regulatory pivots. Mind Navi dynamically models global trade topologies as weighted multi-dimensional graphs. By analyzing real-time port congestion, foreign exchange fluctuations, and preferential bilateral tariff exemptions (such as RCEP, CEPA, and ASEAN-Korea FTA), Mind Navi guarantees that *SC enterprises always move capital and goods along the path of maximum profitability.": {
+    "ko": "국제 무역은 정보 비대칭성, 급변하는 운임 지수, 급격한 규제 피벗의 불확실성에 상시 직면해 있습니다. Mind Navi는 글로벌 무역 위상(topology)을 가중치가 부여된 다차원 그래프로 동적 모델링합니다. 실시간 항만 혼잡도, 환율 변동성 및 양자간 특혜 관세 면제 혜택(RCEP, CEPA, 한-아세안 FTA 등)을 분석함으로써, Mind Navi는 *SC 기업이 항상 자본과 화물을 최대 수익성의 경로를 따라 이동시키도록 보장합니다."
+  },
+  "FUNCTIONAL TOPOLOGY": {
+    "ko": "기능적 토폴로지"
+  },
+  "PATHFINDING ARCHITECTURE": {
+    "ko": "경로 탐색 아키텍처"
+  },
+  "PATH OPTIMIZATION MATHEMATICS": {
+    "ko": "경로 최적화 수리 모델"
+  },
+  "CORRIDOR BENCHMARKS": {
+    "ko": "무역 회랑 벤치마크"
+  },
+  "REAL-TIME RISK RADAR": {
+    "ko": "실시간 리스크 레이더"
+  },
+  "COMMERCIAL IMPACT & ROI": {
+    "ko": "상업적 파급효과 및 ROI"
+  },
+  "STRATEGIC GOVERNANCE": {
+    "ko": "전략적 거버넌스"
+  },
+  "MONOGRAPH BG-0103 • RISK ENGINE NEURO-FEEDBACK QUANTUM • RISK QUANTIFICATION": {
+    "ko": "모노그래프 BG-0103 • 리스크 엔진 뉴로-피드백 퀀텀 • 리스크 정량화"
+  },
+  "*SC — NFQ: Neuro-Feedback Quantum & Algorithmic Risk Quantification": {
+    "ko": "*SC — NFQ: 뉴로-피드백 퀀텀 및 알고리즘 기반 리스크 정량화"
+  },
+  "NFQ (Neuro-Feedback Quantum / Natural Frequency Quantification) provides the rigorous mathematical risk governance and probabilistic verification layer of SISTAR Mind Company. It quantifies decision uncertainty, audits contract boundary conditions, and prevents cognitive executive biases through continuous algorithmic feedback loops.": {
+    "ko": "NFQ(Neuro-Feedback Quantum / Natural Frequency Quantification)는 SISTAR Mind Company의 엄밀한 수학적 리스크 거버넌스 및 확률적 검증 레이어를 제공합니다. 의사결정의 불확실성을 정량화하고, 계약 경계 조건을 감사하며, 지속적인 알고리즘 피드백 루프를 통해 경영진의 인지 편향을 원천 차단합니다."
+  },
+  "Contract Breach Prevention Accuracy": {
+    "ko": "계약 위반 방지 정확도"
+  },
+  "Cashflow Stress Test Tolerance": {
+    "ko": "현금흐름 스트레스 테스트 내구도"
+  },
+  "Monte Carlo In-Flight Simulations": {
+    "ko": "인플라이트 몬테카를로 시뮬레이션"
+  },
+  "Across Ecosystem Trade Facilities": {
+    "ko": "생태계 무역 금융 한도 전반"
+  },
+  "CHAPTER 01 THEORETICAL FOUNDATION": {
+    "ko": "CHAPTER 01 이론적 토대"
+  },
+  "1. Beyond Intuitive Gambling: The Science of Natural Frequency Quantification": {
+    "ko": "1. 직관적 도박을 넘어: 자연 빈도 정량화(Natural Frequency Quantification)의 과학"
+  },
+  "Traditional executives routinely evaluate strategic risk through narrative reasoning and subjective \"gut feelings.\" When presented with complex probabilistic dependencies—such as counterparty creditworthiness entangled with foreign exchange volatility and customs clearing bottlenecks—human intuition exhibits systematic cognitive biases, frequently overweighting recent successes and underestimating compounding failure chains.": {
+    "ko": "전통적인 경영진은 통상 서사적 추론과 주관적인 '직관'에 의존하여 전략적 리스크를 평가해 왔습니다. 환율 변동성 및 통관 병목 현상과 얽힌 거래 상대방의 신용도와 같이 복잡한 확률적 종속성에 직면할 때, 인간의 직관은 체계적인 인지 편향을 드러내며 최근의 성공 사례를 과대평가하고 복합적으로 누적되는 연쇄 실패 위험을 과소평가하곤 합니다."
+  },
+  "NFQ replaces emotional heuristics with Natural Frequency Quantification and Bayesian Neuro-Feedback loops. By translating abstract conditional probabilities into concrete, observable frequency trees, NFQ enables *SC leadership to visualize real-world failure distributions and enforce automated stop-loss thresholds before capital is irrevocably deployed.": {
+    "ko": "NFQ는 감정적 휴리스틱을 자연 빈도 정량화(Natural Frequency Quantification) 및 베이지안 뉴로-피드백 루프로 대체합니다. 추상적인 조건부 확률을 구체적이고 관측 가능한 빈도 트리(frequency tree)로 전환함으로써, NFQ는 *SC 경영진이 실제 실패 분포를 시각화하고 자본이 비가역적으로 투입되기 전에 자동화된 손절(stop-loss) 임계값을 집행할 수 있도록 지원합니다."
+  },
+  "Narrative-Driven Overconfidence": {
+    "ko": "서사 기반의 과잉 확신"
+  },
+  "Decisions driven by sunk cost fallacies, optimistic projections, and vague contractual clauses without automated stress testing, leading to unanticipated liquidity traps.": {
+    "ko": "자동화된 스트레스 테스트의 부재 속에서 매몰비용 오류, 낙관적 전망, 모호한 계약 조항에 의해 주도된 의사결정은 예상치 못한 유동성 함정으로 이어집니다."
+  },
+  "Empirical Frequency Trees": {
+    "ko": "실증적 빈도 트리"
+  },
+  "Continuous automated simulations of default probabilities, margin erosion, and shipment delays. Capital commitments are automatically gated by mathematical risk coefficients.": {
+    "ko": "디폴트 확률, 마진 잠식 및 선적 지연에 대한 지속적인 자동화 시뮬레이션을 수행합니다. 자본 집행은 수학적 리스크 계수에 의해 자동으로 통제(gate)됩니다."
+  },
+  "CHAPTER 02 QUANTIFICATION WORKFLOW": {
+    "ko": "CHAPTER 02 정량화 워크플로우"
+  },
+  "2. The NFQ Neuro-Feedback Calibration Cycle": {
+    "ko": "2. NFQ 뉴로-피드백 캘리브레이션 사이클"
+  },
+  "Whenever an *SC business unit initiates an international commercial transaction—such as a multi-ton raw material procurement or a distributor franchise agreement—the transaction parameters are submitted to the NFQ validation engine. The system decomposes the agreement into discrete risk vectors, subjecting them to thousands of simulated adversarial scenarios.": {
+    "ko": "*SC 사업부가 수천 톤 규모의 원자재 조달이나 총판 프랜차이즈 계약과 같은 국제 상거래를 개시할 때마다, 거래 파라미터는 NFQ 검증 엔진에 제출됩니다. 시스템은 계약을 이산적 리스크 벡터로 분해하고, 수천 건의 적대적 시뮬레이션 시나리오에 노출시킵니다."
+  },
+  "CHAPTER 03 BAYESIAN FORMULATION": {
+    "ko": "CHAPTER 03 베이지안 공식화"
+  },
+  "3. Mathematical Formalism of Dynamic Neuro-Feedback Weighting": {
+    "ko": "3. 동적 뉴로-피드백 가중치 부여의 수리적 형식체계"
+  },
+  "NFQ models contractual compliance under multi-variable environmental stress using recursive Bayesian updating. The posterior probability of transaction success $\\mathcal{P}(\\text{Success} \\mid \\mathbf{X})$ is dynamically evaluated across observable market vectors $\\mathbf{X} = \\{x_{\\text{FX}}, x_{\\text{Port}}, x_{\\text{Credit}}\\}$.": {
+    "ko": "NFQ는 재귀적 베이지안 갱신(recursive Bayesian updating)을 활용하여 다변수 환경 스트레스 하에서의 계약 이행률을 모델링합니다. 거래 성공의 사후 확률 $\\mathcal{P}(\\text{Success} \\mid \\mathbf{X})$은 관측 가능한 시장 벡터 $\\mathbf{X} = \\{x_{\\text{FX}}, x_{\\text{Port}}, x_{\\text{Credit}}\\}$ 전반에 걸쳐 동적으로 평가됩니다."
+  },
+  "Where $\\Theta_{\\text{critical}} = 0.945$ represents the mandatory institutional gating threshold. If the posterior confidence drops below $\\Theta_{\\text{critical}}$, the transaction is automatically halted until compensating covenants (e.g., higher advance deposits or letter of credit collateralization) restore the required mathematical equilibrium.": {
+    "ko": "여기서 $\\Theta_{\\text{critical}} = 0.945$는 의무적인 기관 게이팅 임계값(Gating Threshold)을 나타냅니다. 사후 신뢰도(posterior confidence)가 $\\Theta_{\\text{critical}}$ 미만으로 하락할 경우, 보완적 확약 조항(예: 선수금 인상 또는 신용장 담보 설정)을 통해 요구되는 수학적 평형이 회복될 때까지 해당 거래는 자동으로 중단됩니다."
+  },
+  "CHAPTER 04 EMPIRICAL RISK AUDIT": {
+    "ko": "CHAPTER 04 실증적 리스크 감사"
+  },
+  "4. NFQ Operational Stress-Testing Matrix": {
+    "ko": "4. NFQ 운영 스트레스 테스트 매트릭스"
+  },
+  "To demonstrate the protective power of NFQ, the matrix below outlines how classical trade default scenarios are intercepted and remediated prior to commercial execution.": {
+    "ko": "NFQ의 방어적 통제 역량을 실증하기 위해, 아래 매트릭스는 전통적인 무역 채무불이행 시나리오가 상업적 실행 이전에 어떻게 선제적으로 차단되고 교정되는지 개략적으로 제시합니다."
+  },
+  "Commercial Hazard": {
+    "ko": "상업적 위험 요인"
+  },
+  "Traditional Risk Outcome": {
+    "ko": "전통적 리스크 귀결"
+  },
+  "NFQ Algorithmic Intervention": {
+    "ko": "NFQ 알고리즘적 개입"
+  },
+  "Protected Margin": {
+    "ko": "보호된 마진"
+  },
+  "Currency Devaluation (>5%)": {
+    "ko": "통화 가치 절하 (>5%)"
+  },
+  "Buyer payment default upon cargo arrival": {
+    "ko": "화물 도착 시 바이어의 대금 결제 불이행"
+  },
+  "Mandatory dual-currency clause with automated FX hedging collar": {
+    "ko": "자동화된 FX 헷징 칼라(FX Hedging Collar)가 포함된 의무적 이중 통화 조항"
+  },
+  "100% principal protected": {
+    "ko": "원금 100% 보호"
+  },
+  "Port Quarantine Delay": {
+    "ko": "항만 검역 지연"
+  },
+  "Perishable goods expire; demurrage costs": {
+    "ko": "부패성 화물 변질 및 체선료(Demurrage) 발생"
+  },
+  "Pre-shipment electronic lab certificate binding & green-lane corridor": {
+    "ko": "선적 전 전자 시험인증서 구속력 부여 및 그린레인(신속 통관 회랑) 운영"
+  },
+  "Zero cargo spoilage loss": {
+    "ko": "화물 변질 손실 제로(Zero)"
+  },
+  "Contractual Ambiguity": {
+    "ko": "계약상의 모호성"
+  },
+  "Costly arbitration across foreign jurisdictions": {
+    "ko": "해외 관할권 전반에 걸친 막대한 중재 비용 발생"
+  },
+  "Standardized *SC Sing-Arb arbitration clauses with automated PG escrow": {
+    "ko": "자동화된 PG 에스크로가 연동된 표준화된 *SC Sing-Arb 중재 조항"
+  },
+  "Legal dispute costs reduced by 95%": {
+    "ko": "법적 분쟁 비용 95% 절감"
+  },
+  "Raw Material Price Surge": {
+    "ko": "원자재 가격 급등"
+  },
+  "Supplier cancels order or compromises quality": {
+    "ko": "공급업체의 주문 취소 또는 품질 훼손"
+  },
+  "3-Month Rolling Purchasing Forecast (RPF) index-linked pricing bands": {
+    "ko": "3개월 롤링 구매 예측(RPF) 기반 지수 연동형 가격 밴드"
+  },
+  "Guaranteed raw material supply continuity": {
+    "ko": "원자재 공급 연속성 보장"
+  },
+  "CHAPTER 05 EXECUTIVE COGNITIVE MAPPING": {
+    "ko": "CHAPTER 05 최고경영진 인지 매핑"
+  },
+  "5. Executive Feedback Loop & Anti-Bias Calibration": {
+    "ko": "5. 최고경영진 피드백 루프 및 편향 방지 캘리브레이션"
+  },
+  "The human mind is prone to emotional fatigue, particularly when managing multi-tier cross-border logistics across differing time zones. NFQ delivers real-time cognitive biofeedback alerts to executives via their Google Workspace consoles whenever approval velocity exceeds safe analytical deliberation intervals.": {
+    "ko": "인간의 인지는 시차가 상이한 다계층 크로스보더 공급망을 관리할 때 정서적 피로에 취약합니다. NFQ는 결재 승인 속도가 안전한 분석적 숙고 주기를 초과할 때마다 Google Workspace 콘솔을 통해 최고경영진에게 실시간 인지 바이오피드백 경보를 전달합니다."
+  },
+  "CHAPTER 06 CAPITAL EFFICIENCY & METRICS": {
+    "ko": "CHAPTER 06 자본 효율성 및 지표"
+  },
+  "6. Quantifiable Enterprise Solvency & Capital Resilience": {
+    "ko": "6. 정량화 가능한 기업 지급능력 및 자본 회복탄력성"
+  },
+  "By eliminating high-variance outcomes, NFQ directly elevates the institutional credit rating of *SC operating entities, enabling favorable export insurance terms and preferential financing from global trade institutions.": {
+    "ko": "고분산 결과(High-Variance Outcomes)를 원천 제거함으로써, NFQ는 *SC 운영 법인의 기관 신용등급을 직접적으로 제고하고 글로벌 무역 금융기관으로부터 유리한 수출보험 조건 및 우대 금융을 확보할 수 있도록 지원합니다."
+  },
+  "Financial Metric": {
+    "ko": "재무 지표"
+  },
+  "Pre-NFQ Baseline": {
+    "ko": "NFQ 도입 전 베이스라인"
+  },
+  "NFQ Operational Performance": {
+    "ko": "NFQ 운용 실적"
+  },
+  "Institutional Significance": {
+    "ko": "기관 관점의 전략적 의의"
+  },
+  "Default Loss Rate": {
+    "ko": "채무불이행 손실률"
+  },
+  "2.8% of Gross Invoiced Volume": {
+    "ko": "총 송장 발행액(GIV)의 2.8%"
+  },
+  "0.00% across all audited trades": {
+    "ko": "감사 대상 전 거래 기준 0.00%"
+  },
+  "Zero bad-debt write-offs in corporate history": {
+    "ko": "법인 설립 이래 대손상각(Bad-Debt Write-Off) 0건 달성"
+  },
+  "K-SURE Insurance Underwrite Premium": {
+    "ko": "K-SURE 인수 심사 보험료율"
+  },
+  "1.45% of Facility Value": {
+    "ko": "여신 한도액의 1.45%"
+  },
+  "0.38% (Tier-1 Enterprise Rating)": {
+    "ko": "0.38% (Tier-1 우량기업 등급)"
+  },
+  "Direct annual treasury savings of $120,000+": {
+    "ko": "연간 120,000달러 이상의 직접적 재무비용 절감"
+  },
+  "Working Capital Turnover Velocity": {
+    "ko": "운전자본 회전속도"
+  },
+  "44 days per trade cycle": {
+    "ko": "거래 사이클당 44일"
+  },
+  "18 days (Automated Settlement)": {
+    "ko": "18일 (자동화 정산 체계)"
+  },
+  "2.44x acceleration in capital efficiency": {
+    "ko": "자본 효율성 2.44배 가속화"
+  },
+  "Audit Reconciliation Time": {
+    "ko": "회계감사 대사(Reconciliation) 소요 기간"
+  },
+  "12 business days post-quarter": {
+    "ko": "분기 마감 후 영업일 기준 12일"
+  },
+  "Under 2 hours (Real-Time Ledgers)": {
+    "ko": "2시간 미만 (실시간 원장 반영)"
+  },
+  "Immediate investor and tax authority transparency": {
+    "ko": "투자자 및 과세 당국 대상 즉각적 투명성 확보"
+  },
+  "CHAPTER 07 INSTITUTIONAL DOCTRINE": {
+    "ko": "CHAPTER 07 INSTITUTIONAL DOCTRINE (기관 거버넌스 원칙)"
+  },
+  "7. Constitutional Commitment to Risk Discipline": {
+    "ko": "7. 리스크 규율에 대한 헌법적 책무"
+  },
+  "NFQ is not an impediment to entrepreneurial velocity; it is the mathematical brake system that permits high-speed execution. Just as high-performance vehicles require advanced braking systems to navigate treacherous turns, *SC utilizes NFQ to enter volatile emerging markets with total confidence.": {
+    "ko": "NFQ는 사업적 실행 속도를 저해하는 장애물이 아니며, 초고속 실행을 가능케 하는 수학적 제동 시스템입니다. 고성능 차량이 험준한 급커브를 돌파하기 위해 첨단 제동 장치를 필요로 하듯, *SC는 NFQ를 활용하여 극심한 변동성의 신흥 시장에 완전한 확신을 갖고 진입합니다."
+  },
+  "\"We do not gamble on the future of international trade. We compute its probabilities, insulate against its tail risks, and advance only when mathematical victory is assured.\"": {
+    "ko": "\"우리는 국제 무역의 미래를 두고 도박하지 않습니다. 확률을 계산하고, 꼬리 위험(Tail Risk)을 원천 차단하며, 수학적 승리가 확증되었을 때에만 전진합니다.\""
+  },
+  "MONOGRAPH BG-0103 • RISK ENGINE": {
+    "ko": "모노그래프 BG-0103 • 리스크 엔진"
+  },
+  "NEURO-FEEDBACK QUANTUM • RISK QUANTIFICATION": {
+    "ko": "NEURO-FEEDBACK QUANTUM • 리스크 정량화"
+  },
+  "Executive Brief: Stochastic Defense Against Cognitive Bias": {
+    "ko": "경영진 브리프: 인지 편향에 대응하는 확률론적 방어 체계"
+  },
+  "In high-stakes international commerce, catastrophic loss rarely stems from external shocks alone; it stems from uncalibrated human intuition, confirmation bias, and failure to account for tail risks in contractual terms. NFQ transforms executive decision-making into a quantifiable, neuro-feedback-governed process where every commercial commitment is scored against historical contract breach probabilities and capital solvency stress models.": {
+    "ko": "막대한 이해관계가 걸린 국제 상거래에서 치명적 손실은 외부 충격만으로 발생하지 않습니다. 보정되지 않은 인간의 직관, 확증 편향, 그리고 계약 조건 내 꼬리 위험을 반영하지 못한 실패에서 기인합니다. NFQ는 최고경영진의 의사결정을 정량화되고 뉴로피드백으로 통제되는 프로세스로 전환하여, 모든 상업적 약속을 과거 계약 위반 확률 및 자본 지급여력 스트레스 모델에 대조해 정밀하게 점수화합니다."
+  },
+  "THEORETICAL FOUNDATION": {
+    "ko": "이론적 토대"
+  },
+  "QUANTIFICATION WORKFLOW": {
+    "ko": "정량화 워크플로우"
+  },
+  "BAYESIAN FORMULATION": {
+    "ko": "베이지안 정식화"
+  },
+  "EMPIRICAL RISK AUDIT": {
+    "ko": "실증적 리스크 감사"
+  },
+  "EXECUTIVE COGNITIVE MAPPING": {
+    "ko": "경영진 인지 매핑"
+  },
+  "CAPITAL EFFICIENCY & METRICS": {
+    "ko": "자본 효율성 및 핵심 지표"
+  },
+  "INSTITUTIONAL DOCTRINE": {
+    "ko": "제도적 원칙"
+  },
+  "MONOGRAPH BG-0104 • DIAGNOSTIC BATTERY AI BENCHMARKING • DRIFT PREVENTION": {
+    "ko": "모노그래프 BG-0104 • 진단 배터리 AI 벤치마킹 • 드리프트 방지"
+  },
+  "*SC — Mind Test: Cognitive Diagnostic Battery & Autonomous Verification Protocols": {
+    "ko": "*SC — Mind Test: 인지 진단 배터리 및 자율 검증 프로토콜"
+  },
+  "Mind Test is the institutional quality-assurance and automated benchmarking battery of SISTAR Mind Company. It continuously subjects multi-agent LLM systems, prompt templates, and ERP workflows to rigorous stress-testing, preventing silent semantic drift, verifying factual grounding, and certifying mission-critical decision integrity.": {
+    "ko": "Mind Test는 SISTAR Mind Company의 제도적 품질 보증(QA) 및 자동화된 벤치마킹 배터리입니다. 멀티 에이전트 LLM 시스템, 프롬프트 템플릿, ERP 워크플로우를 엄격한 스트레스 테스트에 지속적으로 노출시켜 암묵적인 시맨틱 드리프트(silent semantic drift)를 방지하고 사실적 근거성(factual grounding)을 검증하며 미션 크리티컬한 의사결정 무결성을 공인합니다."
+  },
+  "Daily Automated Regression Test Cases": {
+    "ko": "일일 자동화 회귀 테스트 케이스"
+  },
+  "Semantic Consistency Across LLM Updates": {
+    "ko": "LLM 업데이트 전반의 시맨틱 일관성"
+  },
+  "Full System Integrity Certification Cycle": {
+    "ko": "전사 시스템 무결성 인증 주기"
+  },
+  "Audit Trail of All Multi-Agent Decisions": {
+    "ko": "모든 멀티 에이전트 의사결정에 대한 감사 추적(Audit Trail)"
+  },
+  "CHAPTER 01 SYSTEMIC CHALLENGE": {
+    "ko": "제1장 시스템적 도전 과제"
+  },
+  "1. The Silent Menace of Enterprise Model Drift": {
+    "ko": "1. 엔터프라이즈 모델 드리프트의 은밀한 위협"
+  },
+  "In enterprise AI environments, the greatest operational threat is not outright system failure, but undetectable probabilistic drift. When foundation model providers update their API weights, reasoning behaviors subtly change. A prompt that accurately calculated VAT tax distributions yesterday may introduce rounding anomalies or omit mandatory customs declarations today.": {
+    "ko": "엔터프라이즈 AI 환경에서 가장 중대한 운영상의 위협은 전면적인 시스템 장애가 아니라 감지 불가능한 확률적 드리프트(probabilistic drift)입니다. 파운데이션 모델 제공업체가 API 가중치를 업데이트하면 추론 거동이 미묘하게 변질됩니다. 어제까지 부가가치세(VAT) 분배를 정확히 연산하던 프롬프트가 오늘은 반올림 오차를 발생시키거나 필수 세관 신고 항목을 누락할 수 있습니다."
+  },
+  "Mind Test was engineered to establish permanent mathematical guardrails around every autonomous workflow in the *SC ecosystem. By maintaining an immutable golden corpus of historical edge cases, regulatory filings, and complex commercial negotiations, Mind Test ensures that every AI agent maintains consistent institutional knowledge regardless of underlying model updates.": {
+    "ko": "Mind Test는 *SC 생태계 내 모든 자율 워크플로우에 불변의 수학적 가드레일을 구축하도록 설계되었습니다. 과거의 엣지 케이스, 규제 신고 내역, 복잡한 상업적 협상 데이터를 망라한 불변의 골든 코퍼스(golden corpus)를 유지함으로써, Mind Test는 기반 모델의 업데이트와 무관하게 모든 AI 에이전트가 일관된 기관 지식을 보존하도록 보장합니다."
+  },
+  "Silent Knowledge Degradation": {
+    "ko": "암묵적 지식 저하"
+  },
+  "Enterprises rely on static prompts that fail silently during model API updates, resulting in erroneous inventory counts, inaccurate B2B quotations, and catastrophic regulatory non-compliance.": {
+    "ko": "기업들이 정적 프롬프트에 의존하는 경우 모델 API 업데이트 시 조용히 실패하여 재고 실사 오류, 부정확한 B2B 견적 발행, 파국적인 규제 미준수 사태로 이어집니다."
+  },
+  "Continuous Verification Sandbox": {
+    "ko": "지속적 검증 샌드박스"
+  },
+  "Automated synthetic red-teaming, strict JSON schema conformance validation, and semantic regression testing before any agent code or prompt is promoted to live production.": {
+    "ko": "에이전트 코드나 프롬프트가 라이브 프로덕션으로 승격되기 전에 자동화된 합성 레드팀(synthetic red-teaming), 엄격한 JSON 스키마 적합성 검증, 시맨틱 회귀 테스트를 거칩니다."
+  },
+  "CHAPTER 02 TESTING PIPELINE": {
+    "ko": "제2장 테스팅 파이프라인"
+  },
+  "2. The 4-Tier Automated Verification Architecture": {
+    "ko": "2. 4계층 자동 검증 아키텍처"
+  },
+  "Mind Test operates an end-to-end multi-agent evaluation pipeline. Before any daily market summary, customs filing, or ERP ledger update is finalized, it must traverse the 4 tiers of the Mind Test verification gauntlet.": {
+    "ko": "Mind Test는 엔드투엔드 멀티 에이전트 평가 파이프라인을 가동합니다. 매일의 시장 동향 보고서, 세관 통관 서류, ERP 원장 업데이트가 최종 확정되기 전, 반드시 Mind Test의 4계층 검증 건틀릿을 통과해야 합니다."
+  },
+  "CHAPTER 03 METRIC FORMULATION": {
+    "ko": "제3장 지표 수식화"
+  },
+  "3. Mathematical Quantification of Semantic Integrity & Drift": {
+    "ko": "3. 시맨틱 무결성 및 드리프트의 수학적 정량화"
+  },
+  "To evaluate agent output stability, Mind Test utilizes a composite Semantic Integrity Metric (SIM). SIM aggregates BLEU/ROUGE syntactic fidelity, embedding cosine distance against the canonical golden set, and deterministic factual verification scores.": {
+    "ko": "에이전트 출력의 안정성을 평가하기 위해 Mind Test는 복합 시맨틱 무결성 지표(SIM, Semantic Integrity Metric)를 활용합니다. SIM은 BLEU/ROUGE 구문 충실도, 정본 골든 셋(canonical golden set) 대비 임베딩 코사인 거리, 결정론적 사실 검증 점수를 종합 집계합니다."
+  },
+  "Where $\\mathbf{e}_y$ and $\\mathbf{e}_{y^*}$ are vector embeddings of the generated and canonical responses, $\\text{JSD}$ is Jensen-Shannon Divergence of token probability distributions, and $\\mathbb{I}$ is a strict indicator function requiring binary schema validity. A production deployment requires $\\text{SIM} \\ge 0.980$, preventing any release with degraded reasoning capacity.": {
+    "ko": "여기서 $\\mathbf{e}_y$와 $\\mathbf{e}_{y^*}$는 각각 생성된 응답과 표준 응답(canonical response)의 벡터 임베딩이며, $\\text{JSD}$는 토큰 확률 분포의 젠슨-섀넌 발산(Jensen-Shannon Divergence), $\\mathbb{I}$는 엄격한 이진 스키마 유효성을 요구하는 지시 함수(indicator function)입니다. 프로덕션 배포에는 $\\text{SIM} \\ge 0.980$이 요구되며, 이를 통해 추론 역량이 저하된 일체의 릴리스를 원천 차단합니다."
+  },
+  "CHAPTER 04 TEST SUITE TAXONOMY": {
+    "ko": "제4장 테스트 스위트 분류 체계"
+  },
+  "4. Comprehensive Diagnostic Test Suites & Coverage": {
+    "ko": "4. 포괄적 진단 테스트 스위트 및 커버리지"
+  },
+  "The Mind Test diagnostic battery comprises specialized test suites tailored to each operational domain of the *SC enterprise, as detailed in the matrix below.": {
+    "ko": "Mind Test 진단 배터리는 아래 매트릭스에 상세히 기술된 바와 같이 *SC 엔터프라이즈의 각 운영 도메인에 최적화된 특화 테스트 스위트로 구성됩니다."
+  },
+  "Diagnostic Suite": {
+    "ko": "진단 스위트"
+  },
+  "Target Agent / Workflow": {
+    "ko": "대상 에이전트 / 워크플로우"
+  },
+  "Primary Test Vectors": {
+    "ko": "주요 테스트 벡터"
+  },
+  "Benchmark Threshold": {
+    "ko": "벤치마크 임계치"
+  },
+  "Tax & VAT Reconciliation": {
+    "ko": "조세 및 부가세(VAT) 정합성 대사"
+  },
+  "Finance AI Agent": {
+    "ko": "재무 AI 에이전트"
+  },
+  "Multi-currency cross-border tax split, rounding precision": {
+    "ko": "다중 통화 국경 간 세액 분할 및 반올림 정밀도"
+  },
+  "100.00% exact numerical match": {
+    "ko": "100.00% 절대 수치 일치"
+  },
+  "Tariff & HS Classification": {
+    "ko": "관세율 및 HS 품목 분류"
+  },
+  "Trade Regulatory Agent": {
+    "ko": "무역 규제 준수 에이전트"
+  },
+  "Complex petfood/supplement ingredient classifications": {
+    "ko": "복합 펫푸드/영양제 원료 성분 분류"
+  },
+  "&ge; 99.8% WCO code alignment": {
+    "ko": "&ge; 99.8% WCO 코드 일치율"
+  },
+  "Inventory Vision Audit": {
+    "ko": "비전 기반 재고 실사 감사"
+  },
+  "CCTV Stock Opname Agent": {
+    "ko": "CCTV 재고 실사(Stock Opname) 에이전트"
+  },
+  "Partial occlusion, low-light warehouse camera feeds": {
+    "ko": "부분 폐색 및 저조도 물류창고 카메라 피드"
+  },
+  "&le; 0.1% pallet count error": {
+    "ko": "&le; 0.1% 팔레트 계수 오차율"
+  },
+  "Executive Brief Grounding": {
+    "ko": "경영진 브리핑 그라운딩(Grounding)"
+  },
+  "Overnight Data Refinery Agent": {
+    "ko": "야간 데이터 정제(Overnight Data Refinery) 에이전트"
+  },
+  "Citation attribution to source raw scrapings": {
+    "ko": "원천 로우 스크래핑 데이터에 대한 출처 인용 연계"
+  },
+  "Zero ungrounded assertions allowed": {
+    "ko": "근거 없는 진술(Ungrounded Assertion) 허용 오차 제로"
+  },
+  "CHAPTER 05 DISASTER RECOVERY SANDBOX": {
+    "ko": "CHAPTER 05 재해 복구(DR) 샌드박스"
+  },
+  "5. Automated Rollback & Self-Healing Circuit Breaker": {
+    "ko": "5. 자동 롤백 및 자가 치유 서킷 브레이커"
+  },
+  "If a newly deployed prompt or model update triggers a test regression in the Mind Test sandbox, the system trips an automated circuit breaker. Live operations are instantly reverted to the preceding verified checkpoint while diagnostic telemetry is routed to the technical steering committee.": {
+    "ko": "새롭게 배포된 프롬프트나 모델 업데이트가 Mind Test 샌드박스 내에서 테스트 회귀(Regression)를 유발하는 경우, 시스템은 자동 서킷 브레이커를 작동시킵니다. 실운영 환경은 즉각 사전 검증된 체크포인트로 롤백되며, 진단 텔레메트리 데이터는 기술운영위원회로 즉시 전송됩니다."
+  },
+  "CHAPTER 06 RELIABILITY METRICS": {
+    "ko": "CHAPTER 06 신뢰성 지표"
+  },
+  "6. Quantified Operational Uptime & Error Elimination": {
+    "ko": "6. 정량화된 가동 시간(Uptime) 및 오류 무결화"
+  },
+  "Through continuous diagnostic validation, Mind Test establishes enterprise-grade reliability metrics that exceed traditional human-operated corporate administrative standards.": {
+    "ko": "지속적인 진단 검증을 통해 Mind Test는 기존 인적 운영 중심의 기업 행정 표준을 상회하는 엔터프라이즈급 신뢰성 지표를 확립합니다."
+  },
+  "System Component": {
+    "ko": "시스템 구성 요소"
+  },
+  "Mean Time Between Drift (MTBD)": {
+    "ko": "드리프트 간 평균 시간(MTBD)"
+  },
+  "Autonomous Recovery Time": {
+    "ko": "자율 복구 시간"
+  },
+  "Production Accuracy": {
+    "ko": "프로덕션 정확도"
+  },
+  "Overnight Price Harvester": {
+    "ko": "오버나이트 가격 하베스터"
+  },
+  "> 90 days": {
+    "ko": "> 90일"
+  },
+  "< 45 seconds (auto-proxy switch)": {
+    "ko": "< 45초 (자동 프록시 전환)"
+  },
+  "Dual-Engine Vector RAG": {
+    "ko": "듀얼 엔진 벡터 RAG"
+  },
+  "Zero drift (fixed embedding space)": {
+    "ko": "드리프트 제로 (고정 임베딩 공간)"
+  },
+  "Instant fallback to local cache": {
+    "ko": "로컬 캐시 즉시 폴백"
+  },
+  "100.00% citation backed": {
+    "ko": "100.00% 인용 근거 보장"
+  },
+  "Workspace AI ERP Ledgers": {
+    "ko": "워크스페이스 AI ERP 원장"
+  },
+  "> 180 days": {
+    "ko": "> 180일"
+  },
+  "< 15 seconds (formula reset)": {
+    "ko": "< 15초 (수식 리셋)"
+  },
+  "100.00% reconciliation": {
+    "ko": "100.00% 정합성 대사 완료"
+  },
+  "Cross-Border Quotation Bot": {
+    "ko": "크로스보더 견적 봇"
+  },
+  "> 120 days": {
+    "ko": "> 120일"
+  },
+  "< 2 minutes (golden prompt rollback)": {
+    "ko": "< 2분 (골든 프롬프트 롤백)"
+  },
+  "CHAPTER 07 INSTITUTIONAL ASSURANCE": {
+    "ko": "CHAPTER 07 제도적 보증"
+  },
+  "7. The Guarantee of Cognitive Permanence": {
+    "ko": "7. 인지적 영속성의 보증"
+  },
+  "Human organizations lose capability when experienced staff resign. In contrast, under the governance of Mind Test, the Signal Star Universe retains and compounds its institutional intelligence indefinitely. Every edge case encountered across our 20+ years of international trade is codified into our permanent test corpus, ensuring that the enterprise brain grows stronger every day.": {
+    "ko": "인간 조직은 숙련된 인력이 퇴사할 때 역량 손실을 겪습니다. 반면 Mind Test의 거버넌스 체계 하에서 Signal Star Universe는 조직의 제도적 지능을 무기한 영속시키며 복리적으로 증폭합니다. 지난 20여 년간의 글로벌 무역 실무에서 마주한 모든 엣지 케이스는 당사의 영구 테스트 코퍼스로 성문화되어, 엔터프라이즈 브레인이 매일 더욱 강력해지도록 보장합니다."
+  },
+  "\"An unverified thought is a liability. Every model, prompt, and mathematical algorithm powering the Signal Star Universe must prove its factual accuracy and compliance in the fires of Mind Test before it is permitted to guide our enterprise.\"": {
+    "ko": "\"검증되지 않은 사고는 부채에 불과합니다. Signal Star Universe를 구동하는 모든 모델, 프롬프트, 수학적 알고리즘은 당사의 엔터프라이즈를 선도하도록 허용되기 전에, Mind Test라는 혹독한 시험대에서 사실적 정확성과 규정 준수 역량을 철저히 입증해야 합니다.\""
+  },
+  "MONOGRAPH BG-0104 • DIAGNOSTIC BATTERY": {
+    "ko": "모노그래프 BG-0104 • 진단 배터리"
+  },
+  "AI BENCHMARKING • DRIFT PREVENTION": {
+    "ko": "AI 벤치마킹 • 드리프트 방지"
+  },
+  "Executive Brief: Continuous Cognitive Regression Auditing": {
+    "ko": "경영진 요약 보고: 지속적 인지 회귀 감사"
+  },
+  "As enterprise AI pipelines expand, subtle model drift, latent prompt degradations, and API version upgrades can silently corrupt accounting ledgers, misclassify customs codes, or hallucinate commercial quotes. Mind Test functions as an automated red-team and diagnostic proving ground, executing thousands of synthetic regression tests every 24 hours to ensure 100% adherence to *SC constitutional standards.": {
+    "ko": "엔터프라이즈 AI 파이프라인이 확장됨에 따라 미세한 모델 드리프트, 잠재적 프롬프트 저하, API 버전 업그레이드는 회계 원장을 은밀히 오염시키거나 관세 코드를 오분류하고, 상업적 견적 상의 환각을 유발할 위험을 초래합니다. Mind Test는 자동화된 레드팀이자 진단 시험장(Proving Ground)으로 작동하며, 매 24시간마다 수천 건의 합성 회귀 테스트를 수행하여 *SC 헌법적 기준을 100% 준수하도록 확증합니다."
+  },
+  "SYSTEMIC CHALLENGE": {
+    "ko": "시스템적 과제"
+  },
+  "TESTING PIPELINE": {
+    "ko": "테스팅 파이프라인"
+  },
+  "METRIC FORMULATION": {
+    "ko": "지표 공식화"
+  },
+  "TEST SUITE TAXONOMY": {
+    "ko": "테스트 스위트 분류 체계"
+  },
+  "DISASTER RECOVERY SANDBOX": {
+    "ko": "재해 복구 샌드박스"
+  },
+  "RELIABILITY METRICS": {
+    "ko": "신뢰도 지표"
+  },
+  "INSTITUTIONAL ASSURANCE": {
+    "ko": "제도적 보증"
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-01 ENTERPRISE BRAIN • CLUSTER ARCHITECTURE": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-01 엔터프라이즈 브레인 • 클러스터 아키텍처"
+  },
+  "*SC — SISTAR Mind Company: Enterprise Cognitive Command Hub": {
+    "ko": "*SC — SISTAR Mind Company: 엔터프라이즈 인지 커맨드 허브"
+  },
+  "The SISTAR Mind Company cluster serves as the foundational intelligence engine of Layer 4 (Ecosystem Arenas) in the Signal Star Universe. Integrating core cognitive automation, Mind Navi dynamic trade pathfinding, NFQ probabilistic risk quantification, and Mind Test automated diagnostic verification, the cluster operates as a unified cognitive operating system powering all commercial verticals across 8 international bases.": {
+    "ko": "SISTAR Mind Company 클러스터는 Signal Star Universe의 Layer 4(생태계 아레나)를 구동하는 기반 인텔리전스 엔진 역할을 수행합니다. 코어 인지 자동화, Mind Navi 동적 무역 경로 탐색, NFQ 확률론적 리스크 정량화, Mind Test 자동 진단 검증 체계를 통합하여, 본 클러스터는 8개 글로벌 거점에 걸친 전 상업 버티컬을 지원하는 단일 통합 인지 운영체제(Cognitive OS)로 작동합니다."
+  },
+  "Unbroken Autonomous Operation": {
+    "ko": "무중단 자율 운영 체계"
+  },
+  "Unified Operations Across Asia-Pacific": {
+    "ko": "아시아·태평양 전역 통합 운영"
+  },
+  "Zero Legacy SaaS Tollgate Dependencies": {
+    "ko": "레거시 SaaS 톨게이트 의존도 제로(Zero)"
+  },
+  "CHAPTER 01 CLUSTER TOPOLOGY": {
+    "ko": "CHAPTER 01 클러스터 토폴로지"
+  },
+  "1. Cluster Architecture & The 4 Cognitive Pillars": {
+    "ko": "1. 클러스터 아키텍처 및 4대 인지 기둥(Cognitive Pillars)"
+  },
+  "The SISTAR Mind Company cluster is structured around four interlocking nodes, each executing a specialized cognitive discipline within the *SC ecosystem:": {
+    "ko": "SISTAR Mind Company 클러스터는 *SC 생태계 내에서 특화된 인지 도메인을 수행하는 4개의 상호 연동형 노드로 구성됩니다:"
+  },
+  "Central Nervous System & AI ERP": {
+    "ko": "중추 신경계 및 AI ERP"
+  },
+  "Coordinates the 24/7 Overnight Data Factory, Dual-Engine Vector RAG (NotebookLM + Dify), and 8-team automated ERP on Google Workspace, alongside real-time CCTV Stock Opname.": {
+    "ko": "24/7 오버나이트 데이터 팩토리, 듀얼 엔진 벡터 RAG(NotebookLM + Dify), Google Workspace 기반 8개 팀 자동화 ERP, 그리고 실시간 CCTV 재고 실사(Stock Opname) 체계를 유기적으로 조율합니다."
+  },
+  "Cognitive Trade GPS & Arbitrage": {
+    "ko": "인지형 무역 GPS 및 차익 거래(Arbitrage)"
+  },
+  "Computes multi-modal trade corridors, resolves customs duty exemptions under RCEP/CEPA, and routes cross-border shipments with minimal landed frictional cost.": {
+    "ko": "복합 운송 무역 회랑을 연산하고, RCEP/CEPA 체제하의 관세 면제 최적화를 수행하며, 최소 착지 마찰 비용(Landed Frictional Cost)으로 국경 간 물류 경로를 설정합니다."
+  },
+  "Probabilistic Risk Quantification": {
+    "ko": "확률론적 리스크 정량화"
+  },
+  "Executes Monte Carlo stress-testing, Bayesian contract default gating, and automated 70/30 PG webhook split settlements to insulate capital from market shocks.": {
+    "ko": "몬테카를로 스트레스 테스트, 베이즈 확률 기반 계약 채무불이행 게이팅, 자동화된 70/30 PG 웹훅 분할 정산을 집행하여 시장 충격으로부터 자본을 격리 및 방어합니다."
+  },
+  "Cognitive Diagnostic Battery": {
+    "ko": "인지 진단 배터리 체계"
+  },
+  "Runs 2,400+ automated regression cases daily, enforces Semantic Integrity Metrics (SIM &ge; 0.980), and triggers self-healing circuit breakers upon detecting model drift.": {
+    "ko": "일일 2,400회 이상의 자동화 회귀 테스트를 수행하고, 의미론적 무결성 지표(SIM &ge; 0.980)를 강제하며, 모델 드리프트 감지 시 자체 복구 서킷 브레이커를 작동시킵니다."
+  },
+  "CHAPTER 02 INTEGRATION TOPOLOGY": {
+    "ko": "CHAPTER 02 통합 토폴로지"
+  },
+  "2. End-to-End Cognitive Integration Loop": {
+    "ko": "2. 엔드투엔드(End-to-End) 인지 통합 루프"
+  },
+  "The diagram below models how the 4 nodes of the SISTAR Mind Company cluster synchronize their outputs into an unbroken continuous decision-to-execution pipeline.": {
+    "ko": "아래 다이어그램은 SISTAR Mind Company 클러스터의 4개 노드가 각 산출물을 동기화하여 무중단 연속 의사결정-실행 파이프라인으로 전환하는 구조를 모델링합니다."
+  },
+  "CHAPTER 03 CLUSTER EFFICIENCY DYNAMICS": {
+    "ko": "CHAPTER 03 클러스터 효율성 동역학"
+  },
+  "3. Mathematical Formalism of Cluster Cognitive Synergy": {
+    "ko": "3. 클러스터 인지 시너지의 수학적 형식화"
+  },
+  "The composite operational efficiency $\\Phi_{\\text{cluster}}$ of the SISTAR Mind Company L2 section is governed by the multiplicative product of each node's fidelity, scaled by an overhead dampening coefficient.": {
+    "ko": "SISTAR Mind Company L2 섹션의 복합 운영 효율성 $\\Phi_{\\text{cluster}}$는 각 노드의 충실도(fidelity)의 승법적 곱과 오버헤드 감쇠 계수의 스케일링에 의해 결정됩니다."
+  },
+  "Where $\\eta_k$ represents the verified performance coefficient of each respective node ($\\eta_{\\text{Core}} \\ge 0.999$, $\\eta_{\\text{Navi}} \\ge 0.985$, $\\eta_{\\text{NFQ}} \\ge 0.995$, $\\eta_{\\text{Test}} \\ge 0.990$), $\\Omega_{\\text{human-friction}}$ measures non-automated manual intervention points, and $\\kappa \\cdot T_{\\text{automated}}$ reflects the system's autonomous operating velocity. As manual friction approaches zero, cluster efficiency converges to its theoretical maximum.": {
+    "ko": "여기서 $\\eta_k$는 각 노드의 검증된 성능 계수($\\eta_{\\text{Core}} \\ge 0.999$, $\\eta_{\\text{Navi}} \\ge 0.985$, $\\eta_{\\text{NFQ}} \\ge 0.995$, $\\eta_{\\text{Test}} \\ge 0.990$)를 나타내며, $\\Omega_{\\text{human-friction}}$은 비자동화 수작업 개입 지점을 측정하고, $\\kappa \\cdot T_{\\text{automated}}$는 시스템의 자율 운영 속도를 반영합니다. 수작업 마찰이 0에 수렴함에 따라 클러스터 효율성은 이론적 최대치에 수렴하게 됩니다."
+  },
+  "CHAPTER 04 CROSS-VERTICAL IMPACT": {
+    "ko": "CHAPTER 04 산업 버티컬 간 파급 효과"
+  },
+  "4. Support Matrix Across Biz Galaxy Industry Verticals": {
+    "ko": "4. Biz Galaxy 산업 버티컬 전반의 지원 매트릭스"
+  },
+  "The table below details how the unified SISTAR Mind Company cluster powers each major commercial industry vertical across the Biz Galaxy constellation.": {
+    "ko": "아래 표는 통합 SISTAR Mind Company 클러스터가 Biz Galaxy 군집 내 주요 상업 산업 버티컬을 어떻게 구동하는지 상세히 보여줍니다."
+  },
+  "Biz Galaxy Vertical": {
+    "ko": "Biz Galaxy 산업 버티컬"
+  },
+  "Primary Mind Hub Contribution": {
+    "ko": "Mind Hub 핵심 기여 영역"
+  },
+  "Integrated Sub-System": {
+    "ko": "통합 서브시스템"
+  },
+  "Tangible Strategic Result": {
+    "ko": "가시적 전략 성과"
+  },
+  "Feed formula price optimization & micro-sachet inventory CCTV": {
+    "ko": "사료 배합비 단가 최적화 및 마이크로 사셰 재고 관제 CCTV"
+  },
+  "Eliminated formulation waste; real-time warehouse pallet counts": {
+    "ko": "배합 손실 제로화 및 창고 팔레트 실시간 전수 계측"
+  },
+  "Prescription cold-chain corridor routing & clinical trial RAG": {
+    "ko": "전문의약품 콜드체인 회랑 라우팅 및 임상시험 전용 RAG"
+  },
+  "Zero temperature excursions; 100% compliant export dossiers": {
+    "ko": "온도 이탈률 0% 달성 및 수출 인허가 서류 100% 규격 준수"
+  },
+  "Marine livestock quarantine compliance & water quality analytics": {
+    "ko": "해양 생물 검역 규제 준수 및 수질 정밀 분석 인텔리전스"
+  },
+  "Trans-Pacific live marine transport mortality rate < 0.4%": {
+    "ko": "환태평양 활어·해양생물 운송 폐사율 0.4% 미만 달성"
+  },
+  "Indian botanical export permit tracking & bioactive assay RAG": {
+    "ko": "인도산 천연물 수출 허가 추적 및 생리활성 검정 RAG"
+  },
+  "Zero regulatory border rejection incidents across 24 months": {
+    "ko": "24개월 연속 규제 당국 국경 통관 거부 0건 달성"
+  },
+  "Automated curriculum adaptation & student evaluation pipelines": {
+    "ko": "커리큘럼 자동 최적화 및 학습자 정밀 평가 파이프라인"
+  },
+  "Instant personalized learning track synthesis for global students": {
+    "ko": "글로벌 학습자를 위한 개인 맞춤형 교육 트랙 즉시 합성"
+  },
+  "Derma-cosmetic ingredient price tracking & cross-border sales CRM": {
+    "ko": "더마 코스메틱 원료가 추적 및 크로스보더 세일즈 CRM"
+  },
+  "Sub-3 minute B2B export quotation across 8 regional currencies": {
+    "ko": "8개 글로벌 통화 기반 3분 이내 B2B 수출 견적 산출"
+  },
+  "5. Regional Synchronization Across 8 International Bases": {
+    "ko": "5. 8대 글로벌 거점 간 지역 동기화 체계"
+  },
+  "The SISTAR Mind Company cluster maintains continuous cryptographic data synchronization across *SC's 8 global operations hubs, eliminating regional latency and information asymmetry.": {
+    "ko": "SISTAR Mind Company 클러스터는 *SC의 8대 글로벌 운영 허브 전반에 걸쳐 암호화 데이터 동기화를 상시 유지하여, 권역 간 레이턴시와 정보 비대칭성을 원천적으로 제거합니다."
+  },
+  "6. Quantified Financial Capital Efficiency & SaaS Elimination": {
+    "ko": "6. 정량화된 재무 자본 효율성 및 SaaS 비용 제거"
+  },
+  "By deploying an internally authored, unified cognitive architecture, *SC achieves complete administrative software independence, eliminating legacy license fees while creating high-margin external licensing revenues.": {
+    "ko": "자체 설계한 단일 인지 아키텍처를 전면 배포함으로써, *SC는 경영 관리 소프트웨어의 완전한 기술적 자립을 달성하고 레거시 라이선스 비용을 전면 배제하는 동시에 고마진 외부 라이선싱 수익을 창출합니다."
+  },
+  "Software Function": {
+    "ko": "소프트웨어 기능"
+  },
+  "Legacy Enterprise Provider": {
+    "ko": "레거시 엔터프라이즈 공급업체"
+  },
+  "Industry Annual Cost": {
+    "ko": "업계 연간 비용"
+  },
+  "SISTAR Mind Solution": {
+    "ko": "SISTAR Mind 솔루션"
+  },
+  "Net Annual Cost": {
+    "ko": "순 연간 비용"
+  },
+  "ERP & Financial Ledgers": {
+    "ko": "ERP 및 재무 원장"
+  },
+  "Google Workspace Native AI ERP": {
+    "ko": "Google Workspace 네이티브 AI ERP"
+  },
+  "Enterprise CRM & Pipeline": {
+    "ko": "엔터프라이즈 CRM 및 파이프라인"
+  },
+  "Enterprise Knowledge Search": {
+    "ko": "엔터프라이즈 지식 검색"
+  },
+  "Dual Vector RAG (NotebookLM/Dify)": {
+    "ko": "이중 벡터 RAG (NotebookLM/Dify)"
+  },
+  "Logistics Tracking & Customs": {
+    "ko": "물류 추적 및 통관"
+  },
+  "Total SaaS Burden": {
+    "ko": "총 SaaS 부담 비용"
+  },
+  "Legacy Tech Monopolies": {
+    "ko": "레거시 빅테크 독점 공급업체"
+  },
+  "$360,000+ / yr": {
+    "ko": "연간 $360,000+"
+  },
+  "SISTAR Mind Company Cluster": {
+    "ko": "SISTAR Mind Company 클러스터"
+  },
+  "> $360,000 Net Savings": {
+    "ko": "> $360,000 순 절감액"
+  },
+  "CHAPTER 07 CONCLUSION & FUTURE ROADMAP": {
+    "ko": "제07장 결론 및 미래 로드맵"
+  },
+  "7. The Sovereign Future of Enterprise Cognition": {
+    "ko": "7. 엔터프라이즈 인지의 자주적 미래"
+  },
+  "The SISTAR Mind Company cluster proves that medium-sized global enterprises no longer need to submit to the monopolistic pricing of legacy enterprise software conglomerates. By harnessing open-weights models, Google Workspace infrastructure, and our proprietary Qubit Algorithm™, we have forged an enterprise brain that outthinks, outmaneuvers, and out-executes legacy competitors.": {
+    "ko": "SISTAR Mind Company 클러스터는 글로벌 중견기업이 더 이상 레거시 엔터프라이즈 소프트웨어 독점 대기업의 가격 책정에 종속될 필요가 없음을 입증합니다. 오픈 가중치(open-weights) 모델, Google Workspace 인프라, 그리고 독자적인 Qubit Algorithm™을 결합하여, 당사는 레거시 경쟁사를 압도하는 심층적 사고력, 기동성 및 실행력을 갖춘 엔터프라이즈 브레인을 구축했습니다."
+  },
+  "\"From the overnight harvest of global trade data to the final settlement of cross-border ledgers, the SISTAR Mind Company cluster ensures that the Signal Star Universe never sleeps, never forgets, and never compromises on operational excellence.\"": {
+    "ko": "\"글로벌 무역 데이터의 야간 하베스팅부터 국경 간 원장의 최종 결제에 이르기까지, SISTAR Mind Company 클러스터는 Signal Star Universe가 결코 잠들지 않고, 망각하지 않으며, 운영상의 탁월함을 타협하지 않도록 보장합니다.\""
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-01": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-01"
+  },
+  "ENTERPRISE BRAIN • CLUSTER ARCHITECTURE": {
+    "ko": "엔터프라이즈 브레인 • 클러스터 아키텍처"
+  },
+  "Cluster Command Brief: Unified Cognitive Infrastructure": {
+    "ko": "클러스터 커맨드 브리프: 통합 인지 인프라"
+  },
+  "SISTAR Mind Company establishes an autonomous institutional brain for the Signal Star Universe. By orchestrating continuous overnight market surveillance, automated accounting ledgers on Google Workspace, dynamic multi-modal freight routing, and self-healing multi-agent testing, this L2 cluster eliminates millions in legacy software licenses while generating sustainable B2B SaaS cash flows.": {
+    "ko": "SISTAR Mind Company는 Signal Star Universe를 위한 자율 기관형 브레인을 구축합니다. 상시 야간 시장 모니터링, Google Workspace 기반 자동화 회계 원장, 동적 멀티모달 화물 라우팅 및 자가 치유형 멀티 에이전트 테스팅을 총괄 조율함으로써, 본 L2 클러스터는 수백만 달러에 달하는 레거시 소프트웨어 라이선스 비용을 절감하는 동시에 지속 가능한 B2B SaaS 현금 흐름을 창출합니다."
+  },
+  "CLUSTER TOPOLOGY": {
+    "ko": "클러스터 토폴로지"
+  },
+  "INTEGRATION TOPOLOGY": {
+    "ko": "통합 토폴로지"
+  },
+  "CLUSTER EFFICIENCY DYNAMICS": {
+    "ko": "클러스터 효율성 다이내믹스"
+  },
+  "CROSS-VERTICAL IMPACT": {
+    "ko": "크로스 버티컬 임팩트"
+  },
+  "REGIONAL SYNCHRONIZATION": {
+    "ko": "지역별 동기화"
+  },
+  "GOVERNANCE & CAPEX AVOIDANCE": {
+    "ko": "거버넌스 및 CAPEX 절감"
+  },
+  "CONCLUSION & FUTURE ROADMAP": {
+    "ko": "결론 및 미래 로드맵"
+  },
+  "MONOGRAPH BG-0201 • SPECIALTY FELINE CLINICAL DIETETICS • FLUTD & MICRO-SACHET FORMULATIONS": {
+    "ko": "모노그래프 BG-0201 • 고양이 임상 영양학 전문 연구 • FLUTD 및 마이크로 사셰 제형"
+  },
+  "*SC — Scarlet The Cat: Clinical Feline Nutrition & Micro-Sachet Formulations": {
+    "ko": "*SC — Scarlet The Cat: 고양이 임상 영양 및 마이크로 사셰 제형"
+  },
+  "Scarlet The Cat represents the clinical feline nutrition vertical within the SISPet galaxy. Engineered to combat chronic feline idiopathic cystitis, urolithiasis (FLUTD), and early-stage renal insufficiency, the brand democratizes specialized veterinary nutrition through precision botanical formulation and disruptive single-serve micro-sachet packaging.": {
+    "ko": "Scarlet The Cat은 SISPet 생태계 내 고양이 임상 영양 버티컬을 대변합니다. 만성 고양이 특발성 방광염, 요로결석증(FLUTD) 및 초기 신부전에 대응하도록 설계된 본 브랜드는 정밀 식물성 제형 기술과 혁신적인 1회 제공량 마이크로 사셰 패키징을 통해 전문 수의학적 영양 공급의 대중화를 실현합니다."
+  },
+  "Precision Urinary Target Range": {
+    "ko": "정밀 타깃 요로 건강 범위"
+  },
+  "Controlled Low Magnesium Ash": {
+    "ko": "통제된 저마그네슘 조회분"
+  },
+  "Single-Serving Micro-Sachet Price": {
+    "ko": "1회 제공량 마이크로 사셰 단가"
+  },
+  "Documented in Partner Vet Clinics": {
+    "ko": "협력 동물병원 내 입증 데이터"
+  },
+  "CHAPTER 01 CLINICAL PATHOPHYSIOLOGY": {
+    "ko": "제01장 임상 병태생리학"
+  },
+  "1. Feline Metabolic Vulnerability & The FLUTD Epidemic": {
+    "ko": "1. 고양이 대사 취약성 및 FLUTD 유행 현황"
+  },
+  "As obligate carnivores, domestic cats exhibit unique metabolic pathways: a zero-carbohydrate evolutionary heritage, limited thirst drive, and reliance on dietary moisture to sustain glomerular filtration. In emerging markets across Southeast Asia and Latin America, commercial cat food is frequently formulated with excessive grain starches and cheap, high-ash bone meals, triggering struvite and calcium oxalate crystal precipitation.": {
+    "ko": "완전 육식동물인 반려묘는 무탄수화물 진화 유산, 제한된 갈증 반응, 사구체 여과 유지를 위한 식이 수분 의존도 등 고유한 대사 경로를 보입니다. 동남아시아 및 중남미 신흥 시장의 상업용 고양이 사료는 과도한 곡물 전분과 저가 고회분 골분을 빈번히 사용하여 스트루바이트 및 옥살산칼슘 결정 침전을 촉발합니다."
+  },
+  "Feline Lower Urinary Tract Disease (FLUTD) constitutes the leading cause of emergency veterinary euthanasia across companion felines. Scarlet The Cat was formulated by the *SC Bio-Veterinary R&D group in Busan and Jakarta to eliminate dietary crystal nucleation while delivering essential amino acids in highly palatable micro-emulsions.": {
+    "ko": "고양이 하부 요로계 질환(FLUTD)은 반려묘 응급 안락사의 주요 원인입니다. 부산과 자카르타의 *SC 바이오 수의학 R&D 그룹이 개발한 Scarlet The Cat은 식이로 인한 결정 핵 생성을 억제하는 동시에 기호성이 극대화된 마이크로 에멀전을 통해 필수 아미노산을 공급하도록 설계되었습니다."
+  },
+  "Chronic Dehydration & High Ash": {
+    "ko": "만성 탈수 및 고회분"
+  },
+  "Kibble containing <10% moisture forces urine concentration (specific gravity > 1.050). High magnesium and phosphorus content induces struvite aggregation, urethral plugs, and painful cystitis.": {
+    "ko": "수분 함량 10% 미만의 건식 사료는 요 농축(요 비중 > 1.050)을 유발합니다. 높은 마그네슘 및 인 함량은 스트루바이트 응집, 요도 플러그 형성 및 통증성 방광염을 야기합니다."
+  },
+  "Moisture-Rich & Mineral Balanced": {
+    "ko": "수분 풍부 및 미네랄 균형"
+  },
+  "High-moisture gravies and micro-sachet pastes maintaining urine specific gravity < 1.030, enriched with DL-methionine, cranberry proanthocyanidins, and pure marine peptides.": {
+    "ko": "요 비중 1.030 미만을 유지하는 고수분 그레이비 및 마이크로 사셰 페이스트 제형으로, DL-메티오닌, 크랜베리 프로안토시아니딘, 고순도 해양 펩타이드가 강화되어 있습니다."
+  },
+  "CHAPTER 02 FORMULATION TOPOLOGY": {
+    "ko": "제02장 제형 토폴로지"
+  },
+  "2. The Biochemical Architecture of Scarlet Formulations": {
+    "ko": "2. Scarlet 제형의 생화학적 아키텍처"
+  },
+  "Scarlet The Cat deploys a multi-stage nutritional defense mechanism designed to optimize urinary solute concentrations and strengthen the protective glycosaminoglycan (GAG) layer lining the bladder endothelium.": {
+    "ko": "Scarlet The Cat은 요중 용질 농도를 최적화하고 방광 내피를 감싸는 보호용 글리코사미노글리칸(GAG) 층을 강화하도록 설계된 다단계 영양 방어 메커니즘을 전개합니다."
+  },
+  "CHAPTER 03 PHYSIOLOGICAL FORMULATION": {
+    "ko": "제03장 생리학적 제형 설계"
+  },
+  "3. Mathematical Modeling of Relative Super-Saturation (RSS)": {
+    "ko": "3. 상대적 과포화도(RSS) 수학적 모델링"
+  },
+  "The clinical efficacy of Scarlet The Cat formulations is measured by the urinary Relative Super-Saturation (RSS) index. An RSS value below 1.0 represents a meta-stable state where existing crystals dissolve and spontaneous crystal nucleation is thermodynamically impossible.": {
+    "ko": "Scarlet The Cat 제형의 임상적 유효성은 요중 상대적 과포화도(RSS) 지표를 통해 측정됩니다. 1.0 미만의 RSS 수치는 기존 결정이 용해되고 자발적 결정 핵 형성이 열역학적으로 불가능한 준안정 상태를 의미합니다."
+  },
+  "Where $K_{\\text{sp}}$ is the thermodynamic solubility product dependent on urinary ionic strength $I$, temperature $T$, and hydrogen ion concentration. By maintaining $[\\text{Mg}^{2+}] \\le 18\\,\\text{mmol/L}$ and modulating dietary cations through sulfur-bearing amino acids, Scarlet The Cat keeps $\\text{RSS}_{\\text{struvite}} \\approx 0.62$, guaranteeing clinical stone prevention.": {
+    "ko": "여기서 $K_{\\text{sp}}$는 요의 이온 강도 $I$, 온도 $T$, 수소 이온 농도에 따라 결정되는 열역학적 용해도곱입니다. $[\\text{Mg}^{2+}] \\le 18\\,\\text{mmol/L}$ 수준을 유지하고 황 함유 아미노산을 통해 식이 양이온을 조절함으로써, Scarlet The Cat은 $\\text{RSS}_{\\text{struvite}} \\approx 0.62$를 확립하여 임상적 결석 형성을 원천 차단합니다."
+  },
+  "CHAPTER 04 NUTRITIONAL COMPOSITION MATRIX": {
+    "ko": "제04장 영양 성분 매트릭스"
+  },
+  "4. Analytical Nutrient Profiles & Guaranteed Analysis": {
+    "ko": "4. 정밀 영양 프로파일 및 보증 분석"
+  },
+  "Scarlet The Cat formulations are manufactured under strict ISO 22000 and HACCP certified facilities, meeting and exceeding AAFCO and FEDIAF feline nutritional guidelines across all life stages.": {
+    "ko": "Scarlet The Cat 포뮬레이션은 엄격한 ISO 22000 및 HACCP 인증 시설에서 제조되어, 전 생애주기에 걸친 AAFCO 및 FEDIAF 반려묘 영양 가이드라인 기준을 완벽히 충족 및 상회합니다."
+  },
+  "Nutrient Parameter": {
+    "ko": "영양 지표 파라미터"
+  },
+  "Scarlet Clinical FLUTD Paste": {
+    "ko": "Scarlet Clinical FLUTD 페이스트"
+  },
+  "Scarlet Vital Salmon Sachet": {
+    "ko": "Scarlet Vital 연어 사셰"
+  },
+  "AAFCO Minimum Standard": {
+    "ko": "AAFCO 최소 기준 규격"
+  },
+  "Crude Protein (Dry Basis)": {
+    "ko": "조단백질 (건물 기준)"
+  },
+  "44.5% (Marine Peptides)": {
+    "ko": "44.5% (해양성 펩타이드)"
+  },
+  "42.0% (Wild Salmon)": {
+    "ko": "42.0% (자연산 연어)"
+  },
+  "Crude Fat (Dry Basis)": {
+    "ko": "조지방 (건물 기준)"
+  },
+  "16.8% (Omega-3 Enriched)": {
+    "ko": "16.8% (오메가-3 강화)"
+  },
+  "15.2% (Wild Salmon Oil)": {
+    "ko": "15.2% (자연산 연어 오일)"
+  },
+  "Magnesium (Total Ash)": {
+    "ko": "마그네슘 (총 조회분)"
+  },
+  "N/A (<0.12% recommended)": {
+    "ko": "해당 없음 (권장치 <0.12%)"
+  },
+  "Taurine (Active)": {
+    "ko": "타우린 (활성형)"
+  },
+  "Omega-3 (EPA + DHA)": {
+    "ko": "오메가-3 (EPA + DHA)"
+  },
+  "CHAPTER 05 DISRUPTIVE GTM MODEL": {
+    "ko": "CHAPTER 05 파괴적 GTM 모델"
+  },
+  "5. The Rp 1,320 Micro-Sachet Packaging Revolution": {
+    "ko": "5. Rp 1,320 마이크로 사셰 패키징 혁신"
+  },
+  "In developing markets such as Indonesia and Vietnam, over 70% of pet owners cannot afford 2kg or 5kg veterinary prescription kibble bags costing $40 - $70 upfront. When pet owners cannot afford bulk bags, pets go untreated until fatal urethral obstruction occurs.": {
+    "ko": "인도네시아 및 베트남과 같은 신흥 시장에서는 반려동물 보호자의 70% 이상이 40~70달러에 달하는 2kg 또는 5kg 단위의 처방 건식 사료를 일시불로 구매할 재정적 여력이 부족합니다. 보호자가 대용량 패키지를 감당하지 못할 경우, 치명적인 요도 폐색이 발생할 때까지 치료를 방치하게 됩니다."
+  },
+  "Scarlet The Cat dismantles this economic barrier through localized high-speed automated packaging, offering 20g daily micro-sachets priced at Rp 1,320 (~$0.08 USD). Pet parents purchase daily doses at neighborhood pet shops and veterinary clinics, mirroring the micro-sachet consumer goods model that dominates FMCG across Southeast Asia.": {
+    "ko": "Scarlet The Cat은 현지화된 초고속 자동화 패키징 공정을 구축하여 Rp 1,320(약 $0.08 USD) 가격대의 20g 1일 단위 마이크로 사셰를 제공함으로써 이러한 경제적 장벽을 해체합니다. 동남아 전역의 FMCG 시장을 지배하는 소용량 파우치 소비재 모델을 도입하여, 보호자가 인근 펫숍 및 동물병원에서 일일 처방 단위를 부담 없이 구매할 수 있도록 설계했습니다."
+  },
+  "CHAPTER 06 CLINICAL PARTNERSHIP & MARGINS": {
+    "ko": "CHAPTER 06 임상 파트너십 및 마진 구조"
+  },
+  "6. Veterinary Clinic Dispensary Economics": {
+    "ko": "6. 동물병원 조제 경제학"
+  },
+  "Scarlet The Cat partners directly with independent veterinary practices and companion animal clinics. By eliminating multi-tier international distributors, partner clinics realize higher retail dispensory margins while lowering the cost of therapy for cat owners.": {
+    "ko": "Scarlet The Cat은 독립 로컬 동물병원 및 임상 클리닉과 직통 파트너십을 체결합니다. 다단계 글로벌 유통 벤더를 배제함으로써 파트너 병원의 처방 조제 마진을 극대화하는 동시에, 반려묘 보호자의 월 치료 비용 부담을 혁신적으로 절감합니다."
+  },
+  "Distribution Channel": {
+    "ko": "유통 채널"
+  },
+  "Wholesale COGS (Box of 30)": {
+    "ko": "도매 매출원가(COGS, 30개들이 박스)"
+  },
+  "Retail Clinic Price": {
+    "ko": "병원 소매 처방가"
+  },
+  "Clinic Gross Margin": {
+    "ko": "병원 매출총이익률(Gross Margin)"
+  },
+  "Owner Monthly Cost": {
+    "ko": "보호자 월부담 비용"
+  },
+  "Imported Western Brand": {
+    "ko": "서구권 수입 브랜드"
+  },
+  "$38.00 (2kg bag)": {
+    "ko": "$38.00 (2kg 백)"
+  },
+  "$54.00 / cat": {
+    "ko": "$54.00 / 두"
+  },
+  "Scarlet The Cat Clinical Sachet": {
+    "ko": "Scarlet The Cat 클리니컬 샤셰"
+  },
+  "$12.50 (60 sachets)": {
+    "ko": "$12.50 (60포)"
+  },
+  "$21.00 / cat": {
+    "ko": "$21.00 / 두"
+  },
+  "-67.1% Lower Inventory Capex": {
+    "ko": "재고 CAPEX -67.1% 절감"
+  },
+  "-61.1% Cost to Owner": {
+    "ko": "보호자 부담 비용 -61.1% 절감"
+  },
+  "+10.9% Higher Profit": {
+    "ko": "수익성 +10.9% 증대"
+  },
+  "Saves $33.00/month": {
+    "ko": "월 $33.00 절감"
+  },
+  "CHAPTER 07 INSTITUTIONAL HORIZONS": {
+    "ko": "CHAPTER 07 기관 및 제도적 확장 지평"
+  },
+  "7. Compassionate Clinical Nutrition for Every Companion": {
+    "ko": "7. 모든 반려생명을 위한 인도주의적 임상 영양 솔루션"
+  },
+  "Scarlet The Cat proves that life-saving veterinary nutrition does not need to be an exclusive luxury reserved for wealthy pet owners in developed nations. Through biochemical precision, local packaging innovation, and direct clinical partnership, we protect millions of feline lives across the globe.": {
+    "ko": "Scarlet The Cat은 생명을 구하는 수의학적 임상 영양이 선진국 부유층 반려인만의 독점적 전유물이 될 필요가 없음을 입증합니다. 정밀 생화학 설계, 현지 패키징 혁신, 직통 클리니컬 파트너십을 통해 전 세계 수백만 반려묘의 생명을 보전합니다."
+  },
+  "\"No companion cat should suffer from preventable urinary obstruction because their family cannot afford an expensive imported bag of pet food. We make clinical excellence an everyday reality at Rp 1,320 a sachet.\"": {
+    "ko": "\"경제적 부담으로 고가의 수입 사료를 구매하지 못해 예방 가능한 요로 폐색으로 고통받는 반려묘는 단 한 마리도 없어야 합니다. 당사는 1포당 1,320루피아(Rp)라는 파괴적 가격으로 최고 수준의 임상 솔루션을 일상적 현실로 구현합니다.\""
+  },
+  "MONOGRAPH BG-0201 • SPECIALTY FELINE": {
+    "ko": "모노그래프 BG-0201 • 특수 반려묘 임상학"
+  },
+  "CLINICAL DIETETICS • FLUTD & MICRO-SACHET FORMULATIONS": {
+    "ko": "임상 식이영양학 • FLUTD 및 마이크로 사셰 포뮬레이션"
+  },
+  "Clinical Product Brief: Targeted Urinary pH & Radical Accessibility": {
+    "ko": "임상 제품 개요: 표적 요 pH 제어 및 급진적 접근성 확보"
+  },
+  "Domestic cats face widespread urinary and renal morbidity due to chronic sub-clinical dehydration, improper dietary mineral ash content, and stress-induced idiopathic cystitis. Scarlet The Cat solves these physiological vulnerabilities by coupling bio-active marine taurine and cranberry proanthocyanidins with strict urinary pH modulation (6.2 - 6.5). Packaged in revolutionary single-meal micro-sachets at Rp 1,320 (~$0.08), Scarlet The Cat makes clinical veterinary preventative care accessible across emerging mass markets.": {
+    "ko": "가정 내 반려묘는 만성 무증상 탈수, 부적절한 식이 미네랄 조회분 함량, 스트레스성 특발성 방광염으로 인해 요로 및 신장 질환 이환율이 광범위하게 발생합니다. Scarlet The Cat은 해양 생리활성 타우린 및 크랜베리 프로안토시아니딘과 정밀 요 pH 조절 기술(6.2 - 6.5)을 결합하여 이러한 생리학적 취약성을 해소합니다. 단일 급여용 혁신 마이크로 사셰 형태로 포당 1,320루피아(약 $0.08)에 공급되는 Scarlet The Cat은 신흥 매스 마켓 전반에 수의 임상 예방 치료의 보편적 접근성을 실현합니다."
+  },
+  "CLINICAL PATHOPHYSIOLOGY": {
+    "ko": "임상 병태생리학"
+  },
+  "FORMULATION TOPOLOGY": {
+    "ko": "포뮬레이션 토폴로지"
+  },
+  "PHYSIOLOGICAL FORMULATION": {
+    "ko": "생리학적 포뮬레이션"
+  },
+  "NUTRITIONAL COMPOSITION MATRIX": {
+    "ko": "영양 조성 매트릭스"
+  },
+  "DISRUPTIVE GTM MODEL": {
+    "ko": "파괴적 GTM(시장 진입) 모델"
+  },
+  "CLINICAL PARTNERSHIP & MARGINS": {
+    "ko": "임상 파트너십 및 마진 구조"
+  },
+  "INSTITUTIONAL HORIZONS": {
+    "ko": "제도적·기관적 비전 지평"
+  },
+  "MONOGRAPH BG-0202 • SENIOR CANINE GERIATRIC NUTRITION • ORTHOPEDIC & COGNITIVE LONGEVITY": {
+    "ko": "모노그래프 BG-0202 • 노령견 임상 노인의학 영양학 • 정형외과적·인지적 장수 메커니즘"
+  },
+  "*SC — Forever Young Dog: Canine Longevity & Orthopedic Mobility Nutrition": {
+    "ko": "*SC — Forever Young Dog: 반려견 장수 및 정형외과적 가동성 영양 솔루션"
+  },
+  "Forever Young Dog is the advanced geriatric canine nutrition vertical of SISPet. Formulated to extend the healthy canine healthspan, it targets canine osteoarthritis, hip joint cartilage degradation, and Cognitive Dysfunction Syndrome (CDS) through synergistic marine bio-actives, medium-chain triglycerides (MCT), and anti-senescent plant polyphenols.": {
+    "ko": "Forever Young Dog은 SISPet의 고도화된 노령견 노인의학 영양 버티컬입니다. 반려견의 건강수명(Healthspan) 연장을 목표로 설계되었으며, 시너지 해양 생리활성 물질, 중쇄지방산(MCT), 항노화 식물성 폴리페놀을 통해 반려견 골관절염, 고관절 연골 퇴행 및 인지기능장애 증후군(CDS)을 정밀 타깃합니다."
+  },
+  "Mobility Index Score in 21 Days": {
+    "ko": "21일 내 가동성(Mobility) 지표 점수"
+  },
+  "Clinically Validated Daily Dosage": {
+    "ko": "임상 검증 1일 권장 투여량"
+  },
+  "In NSAID Painkiller Dependency": {
+    "ko": "NSAID계 소염진통제 의존도"
+  },
+  "Anti-Inflammatory Hypoallergenic Base": {
+    "ko": "항염증 저자극(Hypoallergenic) 베이스"
+  },
+  "CHAPTER 01 GERIATRIC PATHOPHYSIOLOGY": {
+    "ko": "제01장 노인성 병태생리학 (GERIATRIC PATHOPHYSIOLOGY)"
+  },
+  "1. The Triad of Senior Canine Decline: Cartilage, Cognition, and Sarcopenia": {
+    "ko": "1. 노령견 쇠퇴의 3대 축: 연골, 인지 기능 및 근감소증"
+  },
+  "Canines over 7 years of age undergo compounding physiological transitions. Cartilage chondrocytes lose regenerative potential, leading to friction-induced bone remodeling and chronic pain. Concurrently, cerebral glucose metabolism drops by up to 25%, precipitating disorientation, sleep disturbances, and behavioral regression characteristic of Cognitive Dysfunction Syndrome.": {
+    "ko": "7세 이상의 반려견은 복합적인 생리학적 전이 과정을 겪습니다. 연골세포는 재생 잠재력을 상실하여 마찰 유발성 골 리모델링과 만성 통증을 초래합니다. 동시에 뇌 포도당 대사율이 최대 25%까지 급감하면서 방향 감각 상실, 수면 장애, 인지기능장애증후군(CDS) 특유의 행동 퇴행이 가속화됩니다."
+  },
+  "Traditional commercial senior diets merely reduce protein content to lessen renal workload—a flawed approach that exacerbates age-related muscle wasting (sarcopenia). Forever Young Dog re-engineers senior canine nutrition around high-quality bio-available proteins fortified with targeted ketone-precursor lipids and joint chondro-protectants.": {
+    "ko": "기존 시판 시니어 사료는 신장 부담 완화만을 목적으로 단백질 함량을 단순히 감축해 왔으며, 이는 연령 관련 근육 소모(근감소증)를 악화시키는 결함 있는 접근법입니다. Forever Young Dog은 표적 케톤 전구체 지질 및 관절 연골 보호 성분으로 강화된 고품질 생체 이용 가능 단백질을 중심으로 노령견 영양학적 설계를 근본적으로 재구축합니다."
+  },
+  "Protein Restriction & Sarcopenia": {
+    "ko": "단백질 제한 및 근감소증"
+  },
+  "Reduces protein to 18-20% using fibrous fillers. Accelerates skeletal muscle loss, reduces joint stability, and provides zero neuro-protective metabolic support.": {
+    "ko": "섬유질 충전재를 사용하여 단백질을 18~20% 수준으로 감축합니다. 이는 골격근 손실을 가속화하고 관절 안정성을 저하시키며, 신경 보호 대사 지원을 전혀 제공하지 못합니다."
+  },
+  "Anabolic & Neuro-Protective Density": {
+    "ko": "단백동화 및 신경 보호 밀도"
+  },
+  "Maintains 32%+ highly digestible hydrolysates, enriched with 5.5% MCT oil for cerebral ketone synthesis, UC-II collagen for joint tolerance, and astaxanthin for mitochondrial defense.": {
+    "ko": "32% 이상의 고소화성 가수분해물을 유지하며, 뇌 케톤 합성을 위한 5.5% MCT 오일, 관절 면역 관용을 위한 UC-II 콜라겐, 미토콘드리아 방어를 위한 아스타잔틴을 고농도로 함유합니다."
+  },
+  "CHAPTER 02 BIOCHEMICAL REGENERATION": {
+    "ko": "제02장 생화학적 재생 (BIOCHEMICAL REGENERATION)"
+  },
+  "2. The 3-Pillar Cellular Senescence Reversal Architecture": {
+    "ko": "2. 3대 핵심 축 기반 세포 노화 역전 아키텍처"
+  },
+  "Forever Young Dog operates across three simultaneous biological axes: Chondrocyte Cartilage Defense, Neuro-Vascular Cognitive Fueling, and Senolytic Cellular Detoxification.": {
+    "ko": "Forever Young Dog은 연골세포 방어, 신경-혈관성 인지 연료 공급, 세놀리틱(Senolytic) 세포 해독이라는 세 가지 생물학적 축에서 동시 다발적으로 작동합니다."
+  },
+  "CHAPTER 03 MOBILITY KINETICS": {
+    "ko": "제03장 이동성 동역학 (MOBILITY KINETICS)"
+  },
+  "3. Mathematical Modeling of Peak Vertical Force (PVF) Recovery": {
+    "ko": "3. 수직 정점 체중부하력(PVF) 회복의 수학적 모델링"
+  },
+  "Canine lameness and joint pain are objectively quantified using force-plate gait analysis. The Peak Vertical Force (PVF) normalized to body weight represents the weight-bearing capacity of the affected limb.": {
+    "ko": "반려견의 파행 및 관절 통증은 지면반력 측정기(force-plate) 보행 분석을 통해 객관적으로 정량화됩니다. 체중 대비 정규화된 수직 정점 체중부하력(Peak Vertical Force, PVF)은 환측 지골의 체중 부하 능력을 대변합니다."
+  },
+  "Where $\\tau_{\\text{regen}} \\approx 14.2\\,\\text{days}$ represents the cartilage rebuild half-life under UC-II therapy, and $\\text{Inflam}_{\\text{MMP-13}}$ represents matrix metalloproteinase degradative enzyme activity. By down-regulating MMP-13 via botanical polyphenols, Forever Young Dog achieves an empirical PVF increase of $+18.4\\%$ within 28 days of daily supplementation.": {
+    "ko": "여기서 $\\tau_{\\text{regen}} \\approx 14.2\\,\\text{일}$은 UC-II 요법 하에서의 연골 재생 반감기를 나타내며, $\\text{Inflam}_{\\text{MMP-13}}$은 기질 메탈로프로테이나아제 분해 효소 활성을 나타냅니다. 식물성 폴리페놀을 통해 MMP-13을 하향 조절함으로써, Forever Young Dog은 매일 급여 후 28일 이내에 PVF가 $+18.4\\%$ 통계적으로 유의미하게 증가하는 실증적 효과를 달성합니다."
+  },
+  "CHAPTER 04 BIO-ACTIVE INGREDIENT DOSSIER": {
+    "ko": "제04장 생체 활성 성분 분석서 (BIO-ACTIVE INGREDIENT DOSSIER)"
+  },
+  "4. Bio-Active Ingredients & Pharmacological Targets": {
+    "ko": "4. 생체 활성 성분 및 약리학적 표적"
+  },
+  "The Forever Young Dog formulation avoids proprietary mystery blends; every active compound is precisely dosed to therapeutic thresholds validated in published veterinary literature.": {
+    "ko": "Forever Young Dog 포뮬러는 불투명한 독자적 블렌드를 배제하며, 공인된 수의학 문헌에서 검증된 치료 역치에 맞추어 모든 활성 화합물을 정밀하게 정량 배합합니다."
+  },
+  "Active Molecule / Complex": {
+    "ko": "활성 분자 / 복합체"
+  },
+  "Source / Extraction Method": {
+    "ko": "원료 기원 / 추출 방식"
+  },
+  "Dose per Daily Sachet": {
+    "ko": "1일 1포(Sachet)당 함량"
+  },
+  "Primary Mechanism of Action": {
+    "ko": "주요 작용 기전 (MoA)"
+  },
+  "Undenatured Type II Collagen (UC-II)": {
+    "ko": "비변성 2형 콜라겐 (UC-II)"
+  },
+  "Low-temperature chicken sternum": {
+    "ko": "저온 가공 닭 흉골"
+  },
+  "40 mg active": {
+    "ko": "활성 성분 40 mg"
+  },
+  "Oral tolerization; halts T-cell immune attack on cartilage": {
+    "ko": "경구 면역관용 유도; 연골에 대한 T세포 면역 공격 억제"
+  },
+  "Glucosamine HCl & Chondroitin": {
+    "ko": "글루코사민 염산염 & 콘드로이틴"
+  },
+  "Marine crustacean / Bovine trachea": {
+    "ko": "해양 갑각류 / 소 기관지(Bovine trachea)"
+  },
+  "Substrate for glycosaminoglycan synthesis": {
+    "ko": "글리코사미노글리칸(GAG) 합성을 위한 기질 제공"
+  },
+  "Medium-Chain Triglycerides (MCT)": {
+    "ko": "중쇄 트리글리세리드(MCT)"
+  },
+  "Organic Virgin Coconut Oil (C8:C10)": {
+    "ko": "유기농 버진 코코넛 오일 (C8:C10)"
+  },
+  "Direct hepatic conversion to beta-hydroxybutyrate": {
+    "ko": "간 대사를 통한 베타-하이드록시부티레이트 직접 전환"
+  },
+  "Micellar Curcuminoid Complex": {
+    "ko": "미셀화 커큐미노이드 복합체"
+  },
+  "Curcuma longa (95% curcuminoids)": {
+    "ko": "울금 추출물(Curcuma longa, 커큐미노이드 95%)"
+  },
+  "Inhibition of COX-2, 5-LOX, and NF-&kappa;B pathways": {
+    "ko": "COX-2, 5-LOX 및 NF-&kappa;B 신호 전달 경로 억제"
+  },
+  "Green-Lipped Mussel Powder": {
+    "ko": "초록입홍합 분말"
+  },
+  "Perna canaliculus (New Zealand)": {
+    "ko": "페르나 카날리쿨루스(Perna canaliculus, 뉴질랜드산)"
+  },
+  "Rich source of eicosatetraenoic acid (ETA)": {
+    "ko": "에이코사테트라엔산(ETA)의 고순도 공급원"
+  },
+  "CHAPTER 05 CLINICAL TRIALS": {
+    "ko": "제5장 임상 시험 (CHAPTER 05 CLINICAL TRIALS)"
+  },
+  "5. Clinical Validation Across Partner Veterinary Clinics": {
+    "ko": "5. 파트너 동물병원 네트워크 기반 다기관 임상 검증"
+  },
+  "In multi-center trials conducted across partner veterinary hospitals in Seoul and Jakarta, 180 senior canines presenting with Grade-2 or Grade-3 osteoarthritis were tracked over a 16-week period.": {
+    "ko": "서울 및 자카르타 소재 협력 동물병원에서 진행된 다기관 임상시험을 통해, 2기 또는 3기 골관절염 소견을 보이는 노령견 180두를 대상으로 16주간 코호트 추적 관찰을 완료하였습니다."
+  },
+  "CHAPTER 06 COMMERCIAL COMPARISON": {
+    "ko": "제6장 상업성 비교 분석 (CHAPTER 06 COMMERCIAL COMPARISON)"
+  },
+  "6. Comparative Veterinary Joint Care Therapeutics": {
+    "ko": "6. 수의 관절 치료 제제 비교 분석"
+  },
+  "Senior dog parents frequently spend hundreds of dollars monthly on fragmented supplements, chew treats, and pharmaceutical injections. Forever Young Dog consolidates this regimen into an all-in-one daily functional nutrition sachet.": {
+    "ko": "노령견 보호자들은 개별 보조제, 츄어블 제형 및 약리학적 주사 요법 등 파편화된 처방에 매월 수백 달러를 지출하고 있습니다. Forever Young Dog은 이러한 복잡한 투약 루틴을 일일 1포의 올인원 기능성 영양 파우치(sachet)로 집약하여 표준화합니다."
+  },
+  "Treatment Modality": {
+    "ko": "치료 요법(Modality)"
+  },
+  "Monthly Financial Burden": {
+    "ko": "월간 재정적 부담"
+  },
+  "Primary Limitation / Adverse Risk": {
+    "ko": "주요 한계점 및 이상 반응 리스크"
+  },
+  "Long-Term Cartilage Impact": {
+    "ko": "장기적 연골 조직 개선 영향"
+  },
+  "Pharmaceutical NSAIDs (Carprofen)": {
+    "ko": "전문의약품 NSAIDs (카프로펜)"
+  },
+  "$65 - $95 / month": {
+    "ko": "월 $65 - $95"
+  },
+  "Gastric ulceration, chronic renal/hepatic failure": {
+    "ko": "위장관 궤양, 만성 신부전 및 간부전 위험"
+  },
+  "Zero structural cartilage regeneration": {
+    "ko": "구조적 연골 재생 기전 전무"
+  },
+  "Traditional Glucosamine Soft Chews": {
+    "ko": "기존 글루코사민 소프트 츄"
+  },
+  "$35 - $50 / month": {
+    "ko": "월 $35 - $50"
+  },
+  "High sugar/starch binder content; low bioavailability": {
+    "ko": "과도한 당분 및 전분 결합제 함유, 낮은 생체이용률"
+  },
+  "Marginal joint fluid support (<12%)": {
+    "ko": "미미한 관절 활액 보전 효과 (<12%)"
+  },
+  "In-Clinic Adequan Injections": {
+    "ko": "병원 내 아데콴(Adequan) 주사 요법"
+  },
+  "$120 - $180 / series": {
+    "ko": "$120 - $180 / 사이클"
+  },
+  "Requires frequent stressful clinic visits": {
+    "ko": "스트레스를 유발하는 빈번한 내원 필요"
+  },
+  "Temporary lubricating relief": {
+    "ko": "일시적인 관절 윤활 완화 효과"
+  },
+  "Forever Young Dog Daily Longevity Sachet": {
+    "ko": "Forever Young Dog 데일리 롱제비티 샤셰"
+  },
+  "$38.00 / 30 sachets": {
+    "ko": "$38.00 / 30포"
+  },
+  "Zero GI irritation; 100% natural bio-actives": {
+    "ko": "위장관 자극 제로; 100% 천연 생리활성 물질"
+  },
+  "Cartilage rebuild + Cognitive rejuvenation": {
+    "ko": "연골 재건 + 인지 기능 회춘"
+  },
+  "CHAPTER 07 ETHICAL COMMITMENT": {
+    "ko": "CHAPTER 07 윤리적 책무"
+  },
+  "7. Honoring the Lifelong Canine Bond": {
+    "ko": "7. 반려견과의 평생에 걸친 유대 존중"
+  },
+  "Our dogs give us their entire lives with unconditional fidelity. Forever Young Dog exists to ensure that their golden years are characterized by playful energy, comfortable movement, and deep cognitive presence alongside the families who love them.": {
+    "ko": "반려견은 무조건적인 충성으로 우리에게 평생을 바칩니다. Forever Young Dog은 반려견의 노후가 그들을 사랑하는 가족 곁에서 장난기 넘치는 에너지, 편안한 거동, 깊은 인지적 교감으로 채워지도록 보장하기 위해 존재합니다."
+  },
+  "\"Old age should not be a sentence of chronic pain and quiet withdrawal. Through advanced bio-veterinary science, we give our canine companions their youth back, one day at a time.\"": {
+    "ko": "\"노화가 만성 통증과 무기력한 은둔을 의미하는 선고가 되어서는 안 됩니다. 첨단 바이오 수의학을 통해 우리는 반려견들에게 하루하루 젊음을 되돌려줍니다.\""
+  },
+  "MONOGRAPH BG-0202 • SENIOR CANINE": {
+    "ko": "모노그래프 BG-0202 • 노령견"
+  },
+  "GERIATRIC NUTRITION • ORTHOPEDIC & COGNITIVE LONGEVITY": {
+    "ko": "노령 동물 영양학 • 정형외과 및 인지 건강수명 연장"
+  },
+  "Clinical Product Brief: Extending the Active Canine Healthspan": {
+    "ko": "임상 제품 브리프: 활동적 반려견 건강 수명 연장"
+  },
+  "Modern canine companions are living longer, yet their senior years are frequently marred by debilitating osteoarthritis, chronic joint inflammation, and progressive cognitive decline. Forever Young Dog was engineered by veterinary pharmacologists to decouple chronological aging from biological degeneration. By delivering concentrated undenatured type-II collagen (UC-II), high-molecular hyaluronic acid, and botanical curcuminoid micellar emulsions in daily fresh-sealed sachets, the brand restores pain-free mobility to senior dogs.": {
+    "ko": "현대 반려견의 기대 수명은 증가하고 있으나, 노령기는 쇠약성 골관절염, 만성 관절 염증, 점진적 인지 기능 저하로 저해되는 경우가 많습니다. Forever Young Dog은 시간적 노화와 생물학적 퇴행을 분리하기 위해 수의 약리학자들에 의해 정밀 설계되었습니다. 고농축 비변성 2형 콜라겐(UC-II), 고분자 히알루론산, 식물성 커큐미노이드 미셀 에멀전을 일일 밀봉 샤셰로 공급함으로써 노령견의 통증 없는 이동성을 복원합니다."
+  },
+  "GERIATRIC PATHOPHYSIOLOGY": {
+    "ko": "노령기 병태생리학"
+  },
+  "BIOCHEMICAL REGENERATION": {
+    "ko": "생화학적 재생"
+  },
+  "MOBILITY KINETICS": {
+    "ko": "운동역동학 (Mobility Kinetics)"
+  },
+  "BIO-ACTIVE INGREDIENT DOSSIER": {
+    "ko": "생리활성 성분 기술 문서(Dossier)"
+  },
+  "CLINICAL TRIALS": {
+    "ko": "임상 시험"
+  },
+  "COMMERCIAL COMPARISON": {
+    "ko": "상업적 비교 분석"
+  },
+  "ETHICAL COMMITMENT": {
+    "ko": "윤리적 책무"
+  },
+  "MONOGRAPH BG-0203 • PHYTOMEDICINE NATURAL BOTANICAL SYNERGY • GUT MICROBIOME RESILIENCE": {
+    "ko": "모노그래프 BG-0203 • 식물성의약품 천연 식물 시너지 • 장내 마이크로바이옴 회복탄력성"
+  },
+  "*SC — NBS: Natural Botanical Synergy & Companion Microbiome Therapeutics": {
+    "ko": "*SC — NBS: 천연 식물 시너지 및 반려동물 마이크로바이옴 치료학"
+  },
+  "NBS (Natural Botanical Synergy) is the veterinary phytotherapy and gut microbiome therapeutic brand within the SISPet galaxy. Fusing ancient Asian ethnobotanical pharmacology with cutting-edge postbiotic fermentation, NBS delivers standardized plant-based therapeutics for canine and feline chronic enteropathies, atopic dermatitis, and immune dysregulation.": {
+    "ko": "NBS(Natural Botanical Synergy)는 SISPet 생태계 내의 수의 식물요법 및 장내 마이크로바이옴 치료 전문 브랜드입니다. 고대 아시아 민족식물약리학과 첨단 포스트바이오틱스 발효 공학을 융합하여, NBS는 개와 고양이의 만성 장병증, 아토피 피부염, 면역 조절 장애를 위한 표준화된 식물 기반 치료제를 제공합니다."
+  },
+  "Standardized Active Phytochemicals": {
+    "ko": "표준화된 활성 파이토케미컬"
+  },
+  "Short-Chain Fatty Acid (SCFA) Production": {
+    "ko": "단쇄지방산(SCFA) 생성"
+  },
+  "In Chronic Canine Enteropathy Cases": {
+    "ko": "반려견 만성 장병증 임상 케이스"
+  },
+  "Non-Disruptive Microbiome Restoration": {
+    "ko": "비교란성 마이크로바이옴 복원"
+  },
+  "CHAPTER 01 PHYSIOLOGICAL MECHANISM": {
+    "ko": "제01장 생리학적 메커니즘"
+  },
+  "1. The Gut-Immune Axis in Companion Animals": {
+    "ko": "1. 반려동물의 장-면역 축(Gut-Immune Axis)"
+  },
+  "Over 70% of the mammalian immune system resides within the gut-associated lymphoid tissue (GALT). In dogs and cats exposed to commercial ultra-processed diets, chemical preservatives, and indiscriminate antibiotic rounds, the delicate mucosal barrier degrades. Tight-junction protein claudin-1 and zonula occludens-1 breakdown allows lipopolysaccharides (LPS) to enter portal circulation, triggering systemic chronic inflammation, food allergies, and pruritus.": {
+    "ko": "포유류 면역계의 70% 이상은 장관연관 림프조직(GALT) 내에 존재합니다. 시판 초가공 사료, 화학 방부제 및 무분별한 항생제 투여에 노출된 개와 고양이의 경우, 섬세한 점막 장벽이 손상됩니다. 밀착연접(Tight-junction) 단백질인 클라우딘-1(claudin-1)과 폐쇄소대-1(zonula occludens-1)의 붕괴는 지질다당류(LPS)의 간문맥 순환계 유입을 초래하여 전신성 만성 염증, 식품 알레르기 및 소양증을 유발합니다."
+  },
+  "NBS was developed to repair the intestinal epithelial lining and re-establish microbial equilibrium. By delivering natural plant polyphenols, bio-active diterpenoids, and prebiotic fructo-oligosaccharides, NBS promotes the proliferation of beneficial Faecalibacterium and Bifidobacterium species while suppressing dysbiotic pathobionts.": {
+    "ko": "NBS는 장 상피 내벽을 복구하고 마이크로바이옴 균형을 재구축하기 위해 개발되었습니다. 천연 식물성 폴리페놀, 생체 활성 디테르페노이드, 프리바이오틱 프락토올리고당을 공급함으로써, NBS는 유익균인 페칼리박테리움(Faecalibacterium) 및 비피도박테리움(Bifidobacterium) 종의 증식을 촉진하는 동시에 미생물 불균형(dysbiosis)을 유발하는 병원성 세균을 억제합니다."
+  },
+  "Microbiome Sterilization & Relapse": {
+    "ko": "마이크로바이옴 박멸 및 재발"
+  },
+  "Antibiotic administration eradicates beneficial commensal bacteria along with pathogens, causing profound microbial depletion that increases vulnerability to future relapses.": {
+    "ko": "항생제 투여는 병원체뿐만 아니라 유익한 공생균까지 박멸하여, 심각한 미생물 고갈을 초래하고 향후 재발에 대한 취약성을 증가시킵니다."
+  },
+  "Selective Antimicrobial & Mucosal Barrier Repair": {
+    "ko": "선택적 항균 및 점막 장벽 복구"
+  },
+  "Standardized andrographolides selectively inhibit pathogenic biofilms while nourishing symbiotic anaerobic flora, stimulating mucin-2 (MUC2) secretion to seal gut junctions.": {
+    "ko": "표준화된 안드로그라폴라이드(andrographolide)는 공생 혐기성 균총을 배양하는 동시에 병원성 바이오필름을 선택적으로 억제하며, 뮤신-2(MUC2) 분비를 촉진하여 장 결합부를 밀폐합니다."
+  },
+  "CHAPTER 02 BOTANICAL FORMULATION CASCADE": {
+    "ko": "제02장 식물성 포뮬레이션 캐스케이드"
+  },
+  "2. The 3-Tier NBS Phytochemical Extraction & Fermentation Protocol": {
+    "ko": "2. 3단계 NBS 파이토케미컬 추출 및 발효 프로토콜"
+  },
+  "Raw botanicals exhibit extreme variability in active compound concentration. NBS guarantees pharmaceutical-grade potency through standardized supercritical CO2 extraction and proprietary solid-state probiotic fermentation.": {
+    "ko": "원물 생약재는 유효 성분 농도의 변동 폭이 극심합니다. NBS는 표준화된 초임계 CO2 추출 및 독자적인 프로바이오틱스 고체 발효를 통해 의약품 수준의 효능(pharmaceutical-grade potency)을 보장합니다."
+  },
+  "CHAPTER 03 GUT BARRIER MATHEMATICS": {
+    "ko": "제03장 장 장벽 수학적 모델링"
+  },
+  "3. Mathematical Modeling of Transepithelial Resistance (TEER)": {
+    "ko": "3. 경상피 전기 저항(TEER)의 수학적 모델링"
+  },
+  "Intestinal epithelial barrier integrity is measured in vitro and in vivo via Transepithelial Electrical Resistance (TEER in $\\Omega \\cdot \\text{cm}^2$). Higher resistance correlates directly with intact tight-junction proteins and minimal macromolecular permeability.": {
+    "ko": "장 상피 장벽의 무결성은 경상피 전기 저항(TEER, $\\Omega \\cdot \\text{cm}^2$)을 통해 체외(in vitro) 및 생체 내(in vivo)에서 측정됩니다. 저항값이 높을수록 손상되지 않은 밀착연접 단백질 및 극소화된 고분자 투과성과 직접적인 상관관계를 나타냅니다."
+  },
+  "Where $[NBS]$ is the therapeutic concentration of bio-active andrographolides, $K_d$ is the receptor dissociation constant, $h \\approx 1.8$ is the Hill cooperativity coefficient, and $\\tau_{\\text{seal}} \\approx 36\\,\\text{hours}$. Under standard daily dosing, NBS elevates companion intestinal TEER from an inflamed baseline of $140\\,\\Omega\\cdot\\text{cm}^2$ to healthy physiological levels exceeding $420\\,\\Omega\\cdot\\text{cm}^2$.": {
+    "ko": "여기서 $[NBS]$는 생체 활성 안드로그라폴라이드의 치료 농도이며, $K_d$는 수용체 해리 상수, $h \\approx 1.8$은 힐 협동 계수(Hill cooperativity coefficient), $\\tau_{\\text{seal}} \\approx 36\\,\\text{hours}$입니다. 표준 일일 투여 조건 하에서 NBS는 반려동물의 장 TEER을 염증 상태의 기저치인 $140\\,\\Omega\\cdot\\text{cm}^2$에서 $420\\,\\Omega\\cdot\\text{cm}^2$를 상회하는 정상 생리학적 수준으로 향상시킵니다."
+  },
+  "CHAPTER 04 CLINICAL INDICATION MATRIX": {
+    "ko": "제04장 임상 적응증 매트릭스"
+  },
+  "4. Therapeutic Indications & Dosing Protocols": {
+    "ko": "4. 치료 적응증 및 투약 프로토콜"
+  },
+  "NBS therapeutics are packaged in palatable liquid emulsions and dissolvable single-dose micro-powders for easy mixing into companion meals.": {
+    "ko": "NBS 치료제는 기호성이 뛰어난 액상 에멀션 및 단일 용량 수용성 마이크로 분말로 제형화되어 반려동물의 사료에 손쉽게 혼합할 수 있습니다."
+  },
+  "Clinical Indication": {
+    "ko": "임상 적응증"
+  },
+  "Primary Botanical Active": {
+    "ko": "주요 식물성 활성 성분"
+  },
+  "Daily Dose per 10kg Bodyweight": {
+    "ko": "체중 10kg당 일일 권장 투여량"
+  },
+  "Clinical Outcome Window": {
+    "ko": "임상 반응 도출 기간"
+  },
+  "Chronic Enteropathy / IBD": {
+    "ko": "만성 장병증 / 염증성 장질환(IBD)"
+  },
+  "Andrographis paniculata + Fermented Moringa": {
+    "ko": "천심련(Andrographis paniculata) + 발효 모링가"
+  },
+  "1 sachet (5ml liquid paste)": {
+    "ko": "1포(5ml 액상 페이스트)"
+  },
+  "Normal stool form in 3-5 days": {
+    "ko": "3~5일 내 정상 변형 회복"
+  },
+  "Antibiotic-Associated Dysbiosis": {
+    "ko": "항생제 유발 마이크로바이옴 불균형(Dysbiosis)"
+  },
+  "Postbiotic SCFA Complex + FOS Prebiotic": {
+    "ko": "포스트바이오틱 단쇄지방산(SCFA) 복합체 + FOS 프리바이오틱스"
+  },
+  "1 sachet daily with meals": {
+    "ko": "식사와 함께 1일 1포"
+  },
+  "Microbiome diversity restored in 10 days": {
+    "ko": "10일 이내 마이크로바이옴 다양성 회복"
+  },
+  "Atopic Dermatitis / Pruritus": {
+    "ko": "아토피 피부염 / 소양증"
+  },
+  "Standardized Gingerol & Curcuminoid Micelle": {
+    "ko": "표준화된 진저롤 및 커큐미노이드 미셀"
+  },
+  "1 sachet twice daily": {
+    "ko": "1일 2회, 1회 1포"
+  },
+  "64% reduction in scratching within 14 days": {
+    "ko": "14일 이내 긁는 행동(소양증) 64% 감소"
+  },
+  "Senior Vitality Decline": {
+    "ko": "노령견 활력 저하"
+  },
+  "Spirulina platensis + Panax Ginseng Extract": {
+    "ko": "스피룰리나 플라텐시스 + 인삼 추출물"
+  },
+  "1 sachet daily": {
+    "ko": "1일 1포"
+  },
+  "Appetite and activity restoration in 7 days": {
+    "ko": "7일 이내 식욕 및 활동성 회복"
+  },
+  "CHAPTER 05 FIELD CLINICAL RESULTS": {
+    "ko": "CHAPTER 05 현장 임상 결과"
+  },
+  "5. Field Efficacy Trials: Canine IBD Activity Index (CIBDAI)": {
+    "ko": "5. 현장 유효성 평가: 반려견 염증성 장질환 활성 지수(CIBDAI)"
+  },
+  "In a 60-day clinical evaluation across veterinary clinics in Indonesia and Korea, dogs presenting with severe chronic diarrhea and vomiting were evaluated using the standardized Canine Inflammatory Bowel Disease Activity Index (CIBDAI).": {
+    "ko": "인도네시아 및 한국의 수의학 임상 기관에서 60일간 진행된 임상 평가를 통해, 중증 만성 설사 및 구토 증상을 보이는 반려견을 표준화된 반려견 염증성 장질환 활성 지수(CIBDAI)를 기준으로 평가하였습니다."
+  },
+  "CHAPTER 06 PHARMACEUTICAL COMPARISON": {
+    "ko": "CHAPTER 06 의약학적 비교 분석"
+  },
+  "6. Phytotherapy vs. Conventional Veterinary Pharmacology": {
+    "ko": "6. 식물요법(Phytotherapy) 대 기존 수의약리학 비교"
+  },
+  "Veterinarians are increasingly seeking therapeutic alternatives that avoid the severe long-term side effects associated with immunosuppressive drugs.": {
+    "ko": "임상 수의사들은 면역억제제 사용에 수반되는 심각한 장기적 부작용을 배제할 수 있는 치료적 대안을 적극적으로 모색하고 있습니다."
+  },
+  "Attribute": {
+    "ko": "평가 항목"
+  },
+  "Prednisolone (Corticosteroid)": {
+    "ko": "프레드니솔론(코르티코스테로이드)"
+  },
+  "Cyclosporine (Immunosuppressant)": {
+    "ko": "사이클로스포린(면역억제제)"
+  },
+  "Mechanism": {
+    "ko": "작용 기전"
+  },
+  "Broad-spectrum immune suppression": {
+    "ko": "광범위 면역 억제"
+  },
+  "Calcineurin inhibitor": {
+    "ko": "칼시뉴린 억제제"
+  },
+  "Selective NF-&kappa;B inhibition & mucosal repair": {
+    "ko": "선택적 NF-&kappa;B 억제 및 점막 재생"
+  },
+  "Side Effect Profile": {
+    "ko": "부작용 프로파일"
+  },
+  "Polyuria, polydipsia, muscle wasting, liver stress": {
+    "ko": "다음, 다뇨, 근육 소실, 간 스트레스"
+  },
+  "Gingival hyperplasia, nephrotoxicity": {
+    "ko": "치은 증식증, 신독성"
+  },
+  "Zero documented adverse side effects": {
+    "ko": "보고된 유해 부작용 전무"
+  },
+  "Long-Term Suitability": {
+    "ko": "장기 투여 적합성"
+  },
+  "High risk; requires gradual tapering": {
+    "ko": "고위험; 단계적 감량(테이퍼링) 필수"
+  },
+  "Requires regular blood chemistry monitoring": {
+    "ko": "정기적인 혈액 화학 검사 모니터링 요구"
+  },
+  "100% safe for lifelong maintenance": {
+    "ko": "생애 주기 전반에 걸친 유지 관리에 100% 안전"
+  },
+  "Average Daily Cost": {
+    "ko": "일일 평균 비용"
+  },
+  "CHAPTER 07 CONCLUSION & PHILOSOPHY": {
+    "ko": "제07장 결론 및 철학"
+  },
+  "7. The Healing Wisdom of the Natural World": {
+    "ko": "7. 자연계의 치유적 지혜"
+  },
+  "NBS bridges the divide between empirical ancestral herbal medicine and modern molecular pharmacology. By providing pets with the protective phytochemicals nature evolved to combat infection and inflammation, we restore companion vitality from the inside out.": {
+    "ko": "NBS는 경험적 전통 본초의학과 현대 분자약리학 간의 간극을 융합합니다. 감염 및 염증에 대응하도록 진화된 자연 본연의 방어적 파이토케미컬을 반려동물에게 공급함으로써, 체내 근본으로부터 생체 활력을 복원합니다."
+  },
+  "\"The gut is the soil of living health. When the soil is poisoned with synthetic chemicals, the organism withers. When nourished with pure botanical synergy, true vitality blooms.\"": {
+    "ko": "\"장(腸)은 생명 건강의 토양이다. 토양이 합성 화학물질로 오염되면 유기체는 쇠락한다. 순수한 식물학적 시너지로 영양을 공급할 때 진정한 생명력이 발현된다.\""
+  },
+  "MONOGRAPH BG-0203 • PHYTOMEDICINE": {
+    "ko": "모노그래프 BG-0203 • 식물의약학"
+  },
+  "NATURAL BOTANICAL SYNERGY • GUT MICROBIOME RESILIENCE": {
+    "ko": "천연 식물학적 시너지 • 장내 마이크로바이옴 회복탄력성"
+  },
+  "Executive Brief: Antimicrobial-Free Intestinal Homeostasis": {
+    "ko": "익제큐티브 브리프: 항균제 무처방 장내 항상성 구축"
+  },
+  "Over-reliance on synthetic antibiotics and corticosteroids in veterinary medicine has led to rampant dysbiosis, secondary fungal infections, and treatment-refractory canine inflammatory bowel disease (IBD). NBS establishes a new paradigm in companion gastrointestinal medicine. By harnessing standardized extracts of Andrographis paniculata, Zingiber officinale, and fermented Moringa oleifera, NBS seals the intestinal mucosal barrier and modulates mucosal immunity without antibiotic resistance.": {
+    "ko": "수의학계의 합성 항생제 및 코르티코스테로이드 과다 의존은 만연한 장내 균교대증(dysbiosis), 2차 진균 감염, 그리고 난치성 반려견 염증성 장질환(IBD)을 초래했습니다. NBS는 반려동물 위장관계 의학의 새로운 패러다임을 확립합니다. 안드로그라피스 파니쿨라타(Andrographis paniculata), 생강(Zingiber officinale), 발효 모링가(Moringa oleifera)의 표준화 추출물을 결합하여 항생제 내성 유발 없이 장 점막 장벽을 밀폐 복원하고 점막 면역을 정밀하게 조절합니다."
+  },
+  "PHYSIOLOGICAL MECHANISM": {
+    "ko": "생리학적 메커니즘"
+  },
+  "BOTANICAL FORMULATION CASCADE": {
+    "ko": "식물성 포뮬레이션 캐스케이드"
+  },
+  "GUT BARRIER MATHEMATICS": {
+    "ko": "장관 장벽 수리학"
+  },
+  "CLINICAL INDICATION MATRIX": {
+    "ko": "임상 적응증 매트릭스"
+  },
+  "FIELD CLINICAL RESULTS": {
+    "ko": "현장 임상 결과"
+  },
+  "PHARMACEUTICAL COMPARISON": {
+    "ko": "약학적 비교 분석"
+  },
+  "CONCLUSION & PHILOSOPHY": {
+    "ko": "결론 및 철학"
+  },
+  "MONOGRAPH BG-0204 • DERMATOLOGICAL EPIDERMAL INTEGRITY • COAT CONDITIONING & ANTI-ALLERGENIC": {
+    "ko": "모노그래프 BG-0204 • 피부 표피 완전성 • 피모 컨디셔닝 및 항알레르기"
+  },
+  "*SC — Dazzle: Clinical Dermatological Nutrition & Coat Conditioning": {
+    "ko": "*SC — Dazzle: 임상 피부과용 영양 및 피모 컨디셔닝"
+  },
+  "Dazzle is the specialized veterinary dermatological nutrition line of SISPet. Designed specifically for tropical and high-humidity climates where companion pets suffer from refractory atopic dermatitis, hot spots, and shedding, Dazzle rebuilds the stratum corneum barrier using marine krill phospholipids, bio-available zinc chelates, and pure botanical phytoceramides.": {
+    "ko": "Dazzle은 SISPet의 전문 수의학 피부 영양 솔루션 라인입니다. 난치성 아토피 피부염, 급성 습진(핫스팟), 과도한 털 빠짐에 노출되기 쉬운 열대 및 고습도 기후를 겨냥해 특화 설계되었으며, 해양 크릴 인지질, 고생체이용률 아연 킬레이트, 고순도 식물성 파이토세라마이드를 통해 각질층 장벽을 재구축합니다."
+  },
+  "Optimal Omega-3:6 Ratio": {
+    "ko": "최적 오메가 3:6 비율"
+  },
+  "Antarctic Krill Bio-Availability": {
+    "ko": "남극 크릴 생체이용률"
+  },
+  "Pruritus Reduction in 14 Days": {
+    "ko": "14일 이내 소양증(가려움증) 완화"
+  },
+  "Maximum Keratinocyte Retention": {
+    "ko": "각질형성세포 유지 극대화"
+  },
+  "CHAPTER 01 DERMATOLOGICAL PATHOLOGY": {
+    "ko": "제01장 피부 병리학"
+  },
+  "1. The Tropical Dermatology Crisis: Humidity, Fleas, and Transepidermal Water Loss": {
+    "ko": "1. 열대 피부질환 위기: 습도, 벼룩 및 경표피 수분 손실(TEWL)"
+  },
+  "In tropical and sub-tropical environments throughout Southeast Asia, companion pets endure continuous cutaneous challenge. Elevated humidity and ambient heat foster microbial proliferation, while household dust mites and flea saliva provoke immediate IgE-mediated allergic cascades. Affected dogs and cats scratch relentlessly, breaking the epidermal stratum corneum and creating open weeping lesions.": {
+    "ko": "동남아시아 전역의 열대 및 아열대 환경에서 반려동물은 지속적인 피부 장벽 공격에 직면해 있습니다. 고습과 주변 열기는 미생물 증식을 가속화하며, 집먼지진드기 및 벼룩 타액은 즉각적인 IgE 매개 알레르기 캐스케이드를 촉발합니다. 이에 환견 및 환묘는 극심한 소양감으로 표피 각질층을 파괴하여 개방성 삼출성 병변을 유발합니다."
+  },
+  "Dazzle was formulated to address the root etiology of atopy: a genetically or nutritionally defective epidermal lipid envelope. Instead of merely masking itch symptoms with immunosuppressive medications like Apoquel or Cytopoint, Dazzle provides the exact structural building blocks necessary to reconstruct the intercellular lipid matrix.": {
+    "ko": "Dazzle은 아토피의 근본적 병인인 표피 지질막의 유전적·영양학적 결함을 치료하기 위해 개발되었습니다. 아포퀠(Apoquel)이나 사이토포인트(Cytopoint) 같은 면역억제제로 가려움증 증상을 단순히 은폐하는 대신, Dazzle은 세포간 지질 매트릭스를 재건하는 데 필수적인 구조적 구성 요소를 직접 공급합니다."
+  },
+  "Symptomatic Immunosuppression": {
+    "ko": "대증적 면역억제 치료"
+  },
+  "Relies on JAK-inhibitors and topical corticosteroids that temporarily block itch sensations while the underlying skin barrier remains cracked and susceptible to deep fungal infections.": {
+    "ko": "근본적인 피부 장벽 균열 및 심부 진균 감염 취약성을 방치한 채 가려움 감각만을 일시적으로 차단하는 JAK 억제제 및 국소 코르티코스테로이드에 의존합니다."
+  },
+  "Complete Lipid Envelope Reconstruction": {
+    "ko": "완전한 지질막 재건"
+  },
+  "Delivers bioactive ceramides, polar phospholipids, and chelated minerals that integrate directly into the lipid bilayer, stopping Transepidermal Water Loss (TEWL) permanently.": {
+    "ko": "생체 활성 세라마이드, 극성 인지질 및 킬레이트 미네랄을 지질 이중층에 직접 통합 전달하여 경표피 수분 손실(TEWL)을 영구적으로 억제합니다."
+  },
+  "CHAPTER 02 LIPID ARCHITECTURE": {
+    "ko": "제02장 지질 아키텍처"
+  },
+  "2. The \"Brick and Mortar\" Epidermal Barrier Restoration Model": {
+    "ko": "2. \"벽돌과 모르타르\" 표피 장벽 복원 모델"
+  },
+  "The stratum corneum is functionally analogous to a brick wall: corneocyte cells serve as \"bricks,\" surrounded by an intercellular lipid \"mortar\" composed of ceramides, cholesterol, and free fatty acids. Dazzle restores both components simultaneously.": {
+    "ko": "각질층은 기능적으로 벽돌벽과 유사합니다. 각질세포는 \"벽돌\" 역할을 수행하며, 세라마이드, 콜레스테롤 및 유리지방산으로 구성된 세포간 지질 \"모르타르\"에 의해 둘러싸여 있습니다. Dazzle은 이 두 가지 구성 요소를 동시에 복원합니다."
+  },
+  "CHAPTER 03 DERMAL DIFFUSION DYNAMICS": {
+    "ko": "제03장 진피 확산 역학"
+  },
+  "3. Mathematical Formalism of Transepidermal Water Loss (TEWL) Suppression": {
+    "ko": "3. 경표피 수분 손실(TEWL) 억제의 수학적 형식화"
+  },
+  "Transepidermal Water Loss is modeled according to Fick's first law of diffusion across the stratum corneum thickness $\\delta_{\\text{sc}}$. Dazzle's therapeutic mission is to decrease the effective diffusion coefficient $D_{\\text{eff}}$ by filling lipid vacancies with ceramides.": {
+    "ko": "경표피 수분 손실은 각질층 두께 $\\delta_{\\text{sc}}$ 전반에 걸친 픽의 제1 확산 법칙(Fick's first law of diffusion)에 따라 모델링됩니다. Dazzle의 치료적 임무는 지질 결손 부위를 세라마이드로 충진함으로써 유효 확산 계수 $D_{\\text{eff}}$를 감소시키는 것입니다."
+  },
+  "Where $D_0$ is the unsealed barrier diffusion rate, $\\gamma$ is the packing efficiency coefficient of phytoceramides into the lamellar lipid bilayer, and $\\Delta C_{\\text{H}_2\\text{O}}$ is the water concentration gradient. Within 14 days of Dazzle supplementation, $J_{\\text{TEWL}}$ drops by $62.4\\%$, eliminating dry cutaneous flaking and allergen infiltration.": {
+    "ko": "여기서 $D_0$는 밀폐되지 않은 장벽 확산율, $\\gamma$는 라멜라 지질 이중층 내 피토세라마이드의 패킹 효율 계수, $\\Delta C_{\\text{H}_2\\text{O}}$는 수분 농도 구배를 나타냅니다. Dazzle 보충 후 14일 이내에 $J_{\\text{TEWL}}$은 $62.4\\%$ 급감하여 건조성 피부 박편화 및 알레르겐 침투를 근본적으로 차단합니다."
+  },
+  "CHAPTER 04 DERMA ACTIVE FORMULATION": {
+    "ko": "제04장 진피 활성 포뮬레이션"
+  },
+  "4. Formulation Breakdown & Pharmacological Rationale": {
+    "ko": "4. 포뮬레이션 분석 및 약리학적 메커니즘"
+  },
+  "Dazzle avoids inflammatory fillers, grains, or poultry by-products, utilizing wild Antarctic krill meal and cold-pressed plant seed oils.": {
+    "ko": "Dazzle은 염증 유발 충전제, 곡류 또는 가금류 부산물을 철저히 배제하고 야생 남극 크릴 분말과 냉압착 식물성 씨앗 오일을 활용합니다."
+  },
+  "Key Ingredient Component": {
+    "ko": "핵심 성분 요소"
+  },
+  "Standardized Specification": {
+    "ko": "표준화 규격"
+  },
+  "Dermal Benefit Mechanism": {
+    "ko": "진피 개선 메커니즘"
+  },
+  "Clinical Significance": {
+    "ko": "임상적 유의성"
+  },
+  "Euphausia superba (Krill Oil)": {
+    "ko": "유파우시아 수페르바 (크릴 오일)"
+  },
+  "55% Phospholipids; 24% EPA/DHA": {
+    "ko": "55% 인지질; 24% EPA/DHA"
+  },
+  "Direct incorporation into keratinocyte cell membranes": {
+    "ko": "각질형성세포막으로의 직접적인 결합 흡수"
+  },
+  "Rapid anti-inflammatory eicosanoid cascade": {
+    "ko": "신속한 항염증성 에이코사노이드 캐스케이드 유도"
+  },
+  "Rice Extract Phytoceramides": {
+    "ko": "쌀 추출물 피토세라마이드"
+  },
+  "Standardized 3.5% Glycosphingolipids": {
+    "ko": "표준화된 3.5% 당스핑고지질"
+  },
+  "Repairs intercellular stratum corneum lipid bridges": {
+    "ko": "각질층 세포간 지질 브릿지 복구"
+  },
+  "Restores skin hydration and softness": {
+    "ko": "피부 수분 보유력 및 유연성 복원"
+  },
+  "Zinc Methionine Chelate": {
+    "ko": "아연 메티오닌 킬레이트"
+  },
+  "Pure amino-acid chelate (20% elemental)": {
+    "ko": "고순도 아미노산 킬레이트 (원소 아연 20%)"
+  },
+  "Essential cofactor for alkaline phosphatase & collagenase": {
+    "ko": "알칼리성 인산분해효소 및 콜라게나아제의 필수 보조인자"
+  },
+  "Accelerates wound closure from scratching": {
+    "ko": "소양증성 긁힘으로 인한 상처 치유 가속화"
+  },
+  "Cold-Pressed Chia Seed Oil": {
+    "ko": "냉압착 치아씨드 오일"
+  },
+  "62% Alpha-Linolenic Acid (&alpha;-LNA)": {
+    "ko": "62% 알파-리놀렌산 (&alpha;-LNA)"
+  },
+  "Vegetal Omega-3 fatty acid precursor": {
+    "ko": "식물성 오메가-3 지방산 전구체"
+  },
+  "Stimulates hair follicle follicle luster": {
+    "ko": "모낭 활성화 및 피모 윤택도 증진"
+  },
+  "D-Biotin (Vitamin B7)": {
+    "ko": "D-비오틴 (비타민 B7)"
+  },
+  "99% Pure Pharmaceutical Grade": {
+    "ko": "99% 고순도 의약품 등급(Pharmaceutical Grade)"
+  },
+  "Keratin infrastructure synthesis": {
+    "ko": "케라틴 기저 인프라 합성 촉진"
+  },
+  "Prevents brittleness and excessive molting": {
+    "ko": "피모 취약성 및 과도한 탈모 방지"
+  },
+  "CHAPTER 05 CLINICAL OBSERVATION STUDY": {
+    "ko": "제5장 임상 관찰 연구 (CLINICAL OBSERVATION STUDY)"
+  },
+  "5. Clinical Pruritus Visual Analog Scale (pVAS) Reduction": {
+    "ko": "5. 임상 소양증 시각통증척도(pVAS) 감소 효능"
+  },
+  "In a 30-day double-blind field trial involving 150 dogs exhibiting moderate to severe canine atopic dermatitis, daily Dazzle administration produced dramatic decreases in the standardized Pruritus Visual Analog Scale (pVAS).": {
+    "ko": "중등도에서 중증의 반려견 아토피 피부염을 앓고 있는 150두를 대상으로 30일간 진행된 이중맹검 현장 임상시험 결과, Dazzle을 매일 투여했을 때 표준화된 소양증 시각통증척도(pVAS) 수치가 급격히 감소하는 유의미한 결과가 입증되었습니다."
+  },
+  "CHAPTER 06 TROPICAL GROOMING MARKET": {
+    "ko": "제6장 열대 그루밍 시장 동향 (TROPICAL GROOMING MARKET)"
+  },
+  "6. Grooming Salon & Specialty Pet Boutique Integration": {
+    "ko": "6. 전문 그루밍 살롱 및 프리미엄 펫 부티크 통합 연계"
+  },
+  "Dazzle operates a dual-channel retail model, partnering with professional pet grooming salons and veterinary specialty stores as an add-on nutritional coat treatment.": {
+    "ko": "Dazzle은 전문 펫 그루밍 살롱 및 동물병원 전문점과의 전략적 파트너십을 기반으로 부가적인 영양 피모 트리트먼트를 공급하는 듀얼 채널 유통 모델을 전개하고 있습니다."
+  },
+  "Service Package": {
+    "ko": "서비스 패키지"
+  },
+  "In-Salon Application": {
+    "ko": "살롱 내 시술 프로그램 (In-Salon Application)"
+  },
+  "Take-Home Sachet Pack": {
+    "ko": "홈케어용 파우치 팩 (Take-Home Sachet Pack)"
+  },
+  "Partner Salon Net Margin": {
+    "ko": "파트너 살롱 순마진"
+  },
+  "Dazzle Spa Coat Revival": {
+    "ko": "Dazzle 스파 코트 리바이벌"
+  },
+  "Micellar coat oil massage rinse": {
+    "ko": "미셀라 코트 오일 마사지 린스"
+  },
+  "14-day daily liquid topper": {
+    "ko": "14일 지속형 데일리 리퀴드 토퍼"
+  },
+  "55.4% Margin ($18.00 net/dog)": {
+    "ko": "마진율 55.4% (두당 순이익 $18.00)"
+  },
+  "Atopy Emergency Rescue": {
+    "ko": "아토피 긴급 진정 케어"
+  },
+  "Antiseptic ozone bath + Dazzle booster": {
+    "ko": "항균 오존 바스 + Dazzle 부스터"
+  },
+  "30-day clinical derm sachet box": {
+    "ko": "30일 처방 클리니컬 더마 파우치 박스"
+  },
+  "48.2% Margin ($34.00 net/dog)": {
+    "ko": "마진율 48.2% (두당 순이익 $34.00)"
+  },
+  "Show Coat Maintenance": {
+    "ko": "쇼 도그 피모 유지 관리"
+  },
+  "Leave-in phospholipid mist": {
+    "ko": "리브인(Leave-in) 인지질 미스트"
+  },
+  "Continuous subscription club": {
+    "ko": "연속 정기구독 클럽"
+  },
+  "60.0% Recurring Monthly Margin": {
+    "ko": "월간 반복 수익 마진(Recurring Monthly Margin) 60.0%"
+  },
+  "7. Beauty Born of Physiological Equilibrium": {
+    "ko": "7. 생리학적 항상성에서 발현되는 진정한 미학"
+  },
+  "A shiny, soft, and vibrant coat is not a cosmetic accident; it is the visible manifestation of radiant internal health. By feeding companion pets the exact lipids, minerals, and marine nutrients required for epithelial perfection, Dazzle turns chronic scratching into quiet, contented beauty.": {
+    "ko": "윤택하고 부드러우며 생기 넘치는 피모는 결코 우연한 미용적 결과가 아닙니다. 이는 내부 생체 건강이 온전히 발현된 시각적 지표입니다. Dazzle은 상피 조직의 완전성을 구현하는 데 필요한 정밀 지질, 미네랄, 해양 유래 영양소를 체계적으로 공급함으로써, 만성적인 가려움증을 평온하고 기품 있는 아름다움으로 전환합니다."
+  },
+  "\"When a pet stops scratching and their coat glows with deep marine luster, the joy between owner and companion is instantly renewed. Dazzle delivers that transformation every single day.\"": {
+    "ko": "\"반려동물이 긁는 행위를 멈추고 깊은 바다의 광채로 피모가 빛나기 시작할 때, 보호자와 반려동물 간의 유대와 행복은 즉각적으로 회복됩니다. Dazzle은 매일 그 독보적인 변화를 실현하고 있습니다.\""
+  },
+  "MONOGRAPH BG-0204 • DERMATOLOGICAL": {
+    "ko": "모노그래프 BG-0204 • 피부과학"
+  },
+  "EPIDERMAL INTEGRITY • COAT CONDITIONING & ANTI-ALLERGENIC": {
+    "ko": "표피 무결성 • 피모 컨디셔닝 및 항알레르기"
+  },
+  "Clinical Product Brief: Sealing the Cutaneous Moisture Barrier": {
+    "ko": "임상 제품 개요: 피부 수분 장벽 밀폐"
+  },
+  "Canine and feline skin is three times thinner than human skin, rendering companion animals acutely susceptible to environmental allergen penetration, fungal overgrowth (Malassezia), and allergic pruritus. Dazzle replaces messy topical steroid shampoos with systemic cellular nutrition. By optimizing the dietary Omega-3 to Omega-6 ratio (1:3.2) through phospholipid-bound EPA/DHA and rice phytoceramides, Dazzle stops chronic itch cycles and produces a show-grade coat luster in under 14 days.": {
+    "ko": "반려견 및 반려묘의 피부는 인간의 피부보다 3배 얇아 환경적 알레르겐 침투, 진균 과증식(말라세지아), 알레르기성 소양증에 극도로 취약합니다. Dazzle은 번거로운 국소 스테로이드 샴푸를 전신 세포 영양 공급으로 대체합니다. 인지질 결합 EPA/DHA와 쌀 유래 파이토세라마이드를 통해 식이 오메가-3 대 오메가-6 비율(1:3.2)을 최적화함으로써, Dazzle은 만성 가려움의 악순환을 차단하고 14일 이내에 도그쇼 출진급의 피모 윤택을 발현시킵니다."
+  },
+  "DERMATOLOGICAL PATHOLOGY": {
+    "ko": "피부 병리학"
+  },
+  "LIPID ARCHITECTURE": {
+    "ko": "지질 아키텍처"
+  },
+  "DERMAL DIFFUSION DYNAMICS": {
+    "ko": "진피 확산 동역학"
+  },
+  "DERMA ACTIVE FORMULATION": {
+    "ko": "더마 액티브 포뮬레이션"
+  },
+  "CLINICAL OBSERVATION STUDY": {
+    "ko": "임상 관찰 연구"
+  },
+  "TROPICAL GROOMING MARKET": {
+    "ko": "열대 그루밍 시장"
+  },
+  "MONOGRAPH BG-0205 • GLOBAL ALLIANCE CROSS-BORDER TRADE • K-PET SUPPLY CHAIN CORRIDOR": {
+    "ko": "모노그래프 BG-0205 • 글로벌 얼라이언스 크로스보더 무역 • K-PET 공급망 코리도"
+  },
+  "*SC — CA-KR: Companion Animal Korea-Global Alliance & Supply Chain Corridor": {
+    "ko": "*SC — CA-KR: 반려동물 코리아-글로벌 얼라이언스 & 공급망 코리도"
+  },
+  "CA-KR (Companion Animal Korea-Global Alliance) establishes a direct trade corridor linking South Korea's advanced bio-pet manufacturing capabilities with high-growth international consumer markets. By bypassing legacy intermediary markups and regulatory gridlock, CA-KR enables seamless cross-border distribution of premium functional pet nutrition.": {
+    "ko": "CA-KR(Companion Animal Korea-Global Alliance)은 한국의 첨단 바이오 펫 제조 역량과 고성장 글로벌 소비 시장을 직결하는 다이렉트 무역 코리도를 구축합니다. 기존 중간 유통 마진과 규제적 병목 현상을 우회함으로써, CA-KR은 프리미엄 기능성 펫 뉴트리션의 원활한 크로스보더 유통을 실현합니다."
+  },
+  "Partner Facilities in Incheon, Gunsan & Gimje": {
+    "ko": "인천, 군산 및 김제 파트너 생산 시설"
+  },
+  "Reduction in Cross-Border Landing Friction": {
+    "ko": "크로스보더 랜딩 마찰 요인 절감"
+  },
+  "Export Receivables Backed by K-SURE": {
+    "ko": "K-SURE 보증 기반 수출채권"
+  },
+  "Synchronized Inbound Clearing Ports": {
+    "ko": "동기화된 인바운드 통관 항만"
+  },
+  "CHAPTER 01 TRADE ARCHITECTURE": {
+    "ko": "제01장 무역 아키텍처"
+  },
+  "1. The Strategic Opportunity of Korean Veterinary Bio-Technology": {
+    "ko": "1. 한국 수의 바이오 테크놀로지의 전략적 기회"
+  },
+  "The South Korean companion animal sector (K-Pet) has undergone hyper-specialization, developing world-class formulations in functional freeze-drying, human-grade retort broths, and synbiotic micro-pellets. However, foreign export has historically been monopolized by high-overhead trading houses that impose 30-40% intermediary tollgates while demanding onerous minimum order quantities (MOQs).": {
+    "ko": "대한민국 반려동물 산업(K-Pet)은 초전문화 과정을 거치며 기능성 동결건조, 휴먼그레이드 레토르트 브로스, 신바이오틱 마이크로 펠릿 분야에서 세계적 수준의 포뮬레이션을 개발해 왔습니다. 그러나 해외 수출은 전통적으로 30~40%에 달하는 중간 수수료를 부과하고 과도한 최소주문수량(MOQ)을 요구하는 고비용 상사들에 의해 독점되어 왔습니다."
+  },
+  "CA-KR reconstructs this supply chain. Acting as the global trading propulsion system of SISPet, CA-KR connects Korean manufacturing plants directly with international veterinary clinic chains, pet specialty distributors, and e-commerce platforms across Indonesia, Vietnam, Japan, and the United States.": {
+    "ko": "CA-KR은 이러한 공급망을 근본적으로 재편합니다. SISPet의 글로벌 무역 추진 시스템으로 기능하는 CA-KR은 한국의 제조 공장을 인도네시아, 베트남, 일본, 미국의 글로벌 동물병원 체인, 반려동물 전문 유통사, 이커머스 플랫폼과 직접 연결합니다."
+  },
+  "High Friction & Inventory Gluts": {
+    "ko": "높은 마찰 및 재고 과잉"
+  },
+  "Traders demand massive 40-foot container orders, slow 90-day bank LC financing, and disconnected foreign distributors who fail to educate clinic veterinarians on product science.": {
+    "ko": "기존 무역상들은 대규모 40피트 컨테이너 주문, 90일 만기의 더딘 은행 LC 금융, 제품의 과학적 메커니즘을 일선 임상 수의사에게 제대로 전달하지 못하는 단절된 현지 유통업체를 고수합니다."
+  },
+  "Agile Rolling Forecasts & Direct Clearing": {
+    "ko": "애자일 롤링 포캐스트 및 직통관"
+  },
+  "Employs 3-Month Rolling Purchasing Forecasts (RPF), bonded bulk transit with localized micro-sachet packaging, automated multi-language regulatory dossiers, and digital escrow.": {
+    "ko": "3개월 롤링 구매 예측(RPF), 현지 맞춤형 마이크로 파우치 소분 포장이 결합된 보세 벌크 운송, 자동화된 다국어 규제 등록 서류, 디지털 에스크로 체계를 적용합니다."
+  },
+  "CHAPTER 02 SUPPLY CHAIN TOPOLOGY": {
+    "ko": "제02장 공급망 토폴로지"
+  },
+  "2. The End-to-End CA-KR Bilateral Supply Chain Corridor": {
+    "ko": "2. 엔드투엔드 CA-KR 양자간 공급망 코리도"
+  },
+  "CA-KR operates a synchronized cross-border corridor linking Korean production hubs with destination micro-fulfillment centers in Southeast Asia and North America.": {
+    "ko": "CA-KR은 한국의 생산 거점과 동남아시아 및 북미의 현지 마이크로 풀필먼트 센터를 연계하는 동기화된 크로스보더 코리도를 운영합니다."
+  },
+  "CHAPTER 03 CORRIDOR ECONOMICS": {
+    "ko": "제03장 코리도 경제학"
+  },
+  "3. Mathematical Formalism of Bulk vs. Finished Freight Optimization": {
+    "ko": "3. 벌크 대 완제품 화물 운송 최적화의 수학적 정식화"
+  },
+  "Shipping pre-packaged finished pet food in consumer retail bags results in severe volumetric penalty, shipping up to 60% ambient air. CA-KR optimizes container packaging density by shipping bulk base granules in hermetic 1,000kg FIBC bags, executing final micro-sachet packaging locally.": {
+    "ko": "소비자용 리테일 파우치에 완제품 반려동물 사료를 포장하여 운송하는 방식은 최대 60%의 유휴 공기층(ambient air)까지 선적하게 되어 극심한 용적 페널티(volumetric penalty)를 유발합니다. CA-KR은 벌크 베이스 과립(base granules)을 1,000kg 밀폐형 FIBC 백으로 대량 운송한 후 현지에서 최종 마이크로 샤셰(micro-sachet) 소포장을 실행함으로써 컨테이너 적재 밀도를 최적화합니다."
+  },
+  "By increasing shipping mass density from $0.31\\,\\text{g/cm}^3$ to $0.78\\,\\text{g/cm}^3$, CA-KR moves $2.51\\times$ more active nutritional payload per 40-foot High-Cube shipping container, dramatically lowering the landed COGS per consumer serving.": {
+    "ko": "운송 질량 밀도를 $0.31\\,\\text{g/cm}^3$에서 $0.78\\,\\text{g/cm}^3$로 대폭 향상시킴으로써, CA-KR은 40피트 하이큐브(High-Cube) 해상 컨테이너당 유효 영양 페이로드(active nutritional payload)를 $2.51\\times$배 더 많이 운송하여 소비자 1회 급여분당 도착원가(landed COGS)를 획기적으로 절감합니다."
+  },
+  "CHAPTER 04 OPERATIONAL BLUEPRINT": {
+    "ko": "CHAPTER 04 운영 청사진"
+  },
+  "4. Bilateral Regulatory Harmonization & Permitting": {
+    "ko": "4. 양자간 규제 조화 및 인허가 파이프라인"
+  },
+  "The matrix below outlines how CA-KR navigates complex veterinary health protocols and quarantine import licensing across key trade pairs.": {
+    "ko": "아래 매트릭스는 CA-KR이 주요 무역 페어 전반에 걸쳐 복잡한 수의보건 프로토콜 및 수입 검역 인허가 체계를 체계적으로 통과·해결하는 메커니즘을 요약합니다."
+  },
+  "Export Authority (Origin)": {
+    "ko": "수출국 규제기관 (출발지)"
+  },
+  "Import Authority (Destination)": {
+    "ko": "수입국 규제기관 (도착지)"
+  },
+  "Harmonized Protocol / Exemption": {
+    "ko": "규제 조화 프로토콜 / 면제 규정"
+  },
+  "Approval Cycle": {
+    "ko": "승인 소요 주기"
+  },
+  "Korea (SCK) -> Indonesia (SCI)": {
+    "ko": "한국 (SCK) -> 인도네시아 (SCI)"
+  },
+  "Animal and Plant Quarantine Agency (APQA)": {
+    "ko": "농림축산검역본부 (APQA)"
+  },
+  "Ministry of Agriculture (Kementan) / BPOM": {
+    "ko": "인도네시아 농무부 (Kementan) / 식품의약품감독청 (BPOM)"
+  },
+  "Electronic Phytosanitary Certificate & Halal Audit Exemption for Pet Food": {
+    "ko": "전자식물·식품위생증명서 발급 및 반려동물 사료 대상 할랄 실사 면제"
+  },
+  "35 Days (vs. 180d legacy)": {
+    "ko": "35일 (기존 180일 소요 대비 단축)"
+  },
+  "Korea (SCK) -> Vietnam (SCV)": {
+    "ko": "한국 (SCK) -> 베트남 (SCV)"
+  },
+  "APQA Korea": {
+    "ko": "대한민국 농림축산검역본부 (APQA)"
+  },
+  "Department of Animal Health (DAH)": {
+    "ko": "베트남 동물보건국 (DAH)"
+  },
+  "VKFTA Preferential Origin Certificate (Form VK)": {
+    "ko": "한-베트남 FTA(VKFTA) 특혜 원산지증명서 (Form VK)"
+  },
+  "28 Days": {
+    "ko": "28일"
+  },
+  "Korea (SCK) -> USA (SCU)": {
+    "ko": "한국 (SCK) -> 미국 (SCU)"
+  },
+  "APQA / MFDS Korea": {
+    "ko": "대한민국 농림축산검역본부 (APQA) / 식품의약품안전처 (MFDS)"
+  },
+  "USDA APHIS / FDA CVM": {
+    "ko": "미국 농무부 동식물검역원 (USDA APHIS) / 식품의약국 수의약품센터 (FDA CVM)"
+  },
+  "FSMA Food Safety Plan Pre-Clearance": {
+    "ko": "식품안전현대화법(FSMA) 식품안전계획 사전승인(Pre-Clearance)"
+  },
+  "45 Days": {
+    "ko": "45일"
+  },
+  "Korea (SCK) -> Japan (SCJ)": {
+    "ko": "한국 (SCK) -> 일본 (SCJ)"
+  },
+  "MAFF Animal Quarantine Service": {
+    "ko": "일본 농림수산성(MAFF) 동물검역소"
+  },
+  "Bilateral Avian/Bovine Safety Equivalence Accord": {
+    "ko": "양자간 가금육/우육 안전성 동등성 협정"
+  },
+  "21 Days": {
+    "ko": "21일"
+  },
+  "CHAPTER 05 CREDIT & SETTLEMENT FIREWALL": {
+    "ko": "CHAPTER 05 신용 및 결제 방화벽"
+  },
+  "5. The K-SURE Insured Export Settlement Architecture": {
+    "ko": "5. K-SURE 보증 기반 수출 결제 아키텍처"
+  },
+  "To completely insulate Korean manufacturing partners and foreign buyers from counterparty default, CA-KR integrates automated Korea Trade Insurance Corporation (K-SURE) short-term export credit guarantees with digital 70/30 Payment Gateway (PG) splits.": {
+    "ko": "한국 제조 파트너사와 해외 바이어를 거래상대방 채무불이행 리스크로부터 완벽히 격리하기 위해, CA-KR은 한국무역보험공사(K-SURE)의 단기수출신용보증을 자동화하여 이를 디지털 70/30 결제 게이트웨이(PG) 정산 분할 시스템과 통합합니다."
+  },
+  "CHAPTER 06 UNIT ECONOMICS": {
+    "ko": "CHAPTER 06 단위 경제학 (UNIT ECONOMICS)"
+  },
+  "6. Landed Cost Economics: Traditional Import vs. CA-KR Corridor": {
+    "ko": "6. 양하지 인도 비용 경제성 분석: 전통적 수입 방식 vs. CA-KR 코리도"
+  },
+  "The economic efficiency of the CA-KR cross-border corridor is illustrated in the comparative landed unit economics matrix below for a 40ft High-Cube container of functional pet treats.": {
+    "ko": "CA-KR 크로스보더 코리도의 경제적 효율성은 기능성 펫 트릿 40피트 하이큐브(High-Cube) 컨테이너 1대 기준의 양하지 인도 단위 경제학 비교 매트릭스를 통해 명확히 입증됩니다."
+  },
+  "Cost Element": {
+    "ko": "비용 구성 항목"
+  },
+  "Traditional Import Broker": {
+    "ko": "전통적 수입 중개 방식"
+  },
+  "CA-KR Direct Corridor": {
+    "ko": "CA-KR 직결 코리도"
+  },
+  "Savings Delta": {
+    "ko": "비용 절감 델타(차액)"
+  },
+  "Factory Ex-Works Price": {
+    "ko": "공장 인도 조건(EXW) 기준가"
+  },
+  "Direct parity": {
+    "ko": "직접 등가 (Direct parity)"
+  },
+  "Ocean Freight & Bunker (Finished vs. Bulk)": {
+    "ko": "해상 운임 및 유류할증료 (완제품 vs. 벌크)"
+  },
+  "$2,700 (FIBC Bulk Density)": {
+    "ko": "$2,700 (FIBC 벌크 밀도 기준)"
+  },
+  "Import Duty & Tariffs": {
+    "ko": "수입 관세 및 세금"
+  },
+  "$4,200 (Standard MFN 10%)": {
+    "ko": "$4,200 (표준 MFN 10%)"
+  },
+  "$0.00 (AKFTA 0% Preferential)": {
+    "ko": "$0.00 (한-아세안 FTA 0% 특혜관세)"
+  },
+  "Intermediary Broker & Agent Margin": {
+    "ko": "중간 브로커 및 에이전트 마진"
+  },
+  "$8,400 (20% trading markup)": {
+    "ko": "$8,400 (20% 트레이딩 마크업)"
+  },
+  "$1,800 (CA-KR platform toll)": {
+    "ko": "$1,800 (CA-KR 플랫폼 이용료)"
+  },
+  "Total Landed Container Cost": {
+    "ko": "컨테이너당 총 양하지 인도 비용"
+  },
+  "-24.3% Net Savings ($14,900)": {
+    "ko": "-24.3% 순절감 ($14,900)"
+  },
+  "CHAPTER 07 GLOBAL PROMISE": {
+    "ko": "CHAPTER 07 글로벌 비전 (GLOBAL PROMISE)"
+  },
+  "7. A Seamless Future for International Pet Care Commerce": {
+    "ko": "7. 글로벌 펫케어 커머스의 단절 없는 미래"
+  },
+  "CA-KR transforms cross-border trade from a high-friction gamble into an automated, predictable, and capital-safe science. By connecting Korea's top-tier manufacturing excellence with the world's most vibrant emerging pet markets, we advance companion animal wellness everywhere.": {
+    "ko": "CA-KR은 마찰 비용이 수반되는 불확실한 모험이었던 크로스보더 무역을 고도로 자동화되고 예측 가능하며 자본 안정성이 보장된 정밀 과학으로 전환합니다. 한국의 최첨단 제조 역량을 전 세계에서 가장 역동적인 신흥 펫 시장과 연결함으로써 전 세계 반려동물의 웰니스를 선도합니다."
+  },
+  "\"National borders must never restrict access to life-saving veterinary nutrition. CA-KR creates the physical and financial pipelines that allow superior Korean pet science to reach every companion animal on earth.\"": {
+    "ko": "\"생명을 살리는 수의학적 영양 공급에 국경이 결코 장벽이 되어서는 안 됩니다. CA-KR은 우수한 K-펫 사이언스가 전 세계 모든 반려동물에게 도달할 수 있도록 물리적·금융적 파이프라인을 구축합니다.\""
+  },
+  "MONOGRAPH BG-0205 • GLOBAL ALLIANCE": {
+    "ko": "MONOGRAPH BG-0205 • 글로벌 얼라이언스"
+  },
+  "CROSS-BORDER TRADE • K-PET SUPPLY CHAIN CORRIDOR": {
+    "ko": "크로스보더 무역 • K-PET 공급망 코리도"
+  },
+  "Executive Trade Brief: Institutionalizing the K-Pet Global Gateway": {
+    "ko": "최고경영진 무역 브리프: K-Pet 글로벌 게이트웨이의 제도화"
+  },
+  "South Korea boasts some of the world's most sophisticated veterinary extrusion, bio-fermentation, and aseptic retort packaging facilities, yet mid-sized domestic manufacturers struggle to penetrate emerging ASEAN and Western markets due to export documentation hurdles and local regulatory barriers (e.g. BPOM, MAFF, FDA). CA-KR resolves these bottlenecks by operating an integrated trade bridge: providing automated regulatory filing, bulk-to-micro re-packaging hubs, and K-SURE insured export settlements.": {
+    "ko": "대한민국은 세계 최고 수준의 수의학적 압출 성형, 바이오 발효 및 무균 레토르트 패키징 설비를 보유하고 있으나, 국내 중견 제조사들은 까다로운 수출 문서화 작업과 현지 규제 장벽(예: BPOM, MAFF, FDA)으로 인해 신흥 아세안(ASEAN) 및 서구 시장 진출에 어려움을 겪고 있습니다. CA-KR은 자동화된 규제 등록 인허가, 벌크-마이크로 재포장 허브, K-SURE 부보 수출 정산을 통합 제공하는 무역 브리지를 가동하여 이러한 병목 현상을 원천적으로 해결합니다."
+  },
+  "TRADE ARCHITECTURE": {
+    "ko": "무역 아키텍처"
+  },
+  "SUPPLY CHAIN TOPOLOGY": {
+    "ko": "공급망 토폴로지"
+  },
+  "CORRIDOR ECONOMICS": {
+    "ko": "회랑 경제학"
+  },
+  "OPERATIONAL BLUEPRINT": {
+    "ko": "운영 청사진"
+  },
+  "CREDIT & SETTLEMENT FIREWALL": {
+    "ko": "신용 및 정산 방화벽"
+  },
+  "UNIT ECONOMICS": {
+    "ko": "단위 경제학"
+  },
+  "GLOBAL PROMISE": {
+    "ko": "글로벌 프라미스"
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-02 COMPANION ANIMAL NUTRITION • CLUSTER ARCHITECTURE": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-02 반려동물 영양학 • 클러스터 아키텍처"
+  },
+  "*SC — SISPet Petfood General: Companion Animal Nutrition Hub": {
+    "ko": "*SC — SISPet 펫푸드 제너럴: 반려동물 영양 허브"
+  },
+  "SISPet Petfood General functions as the specialized companion animal nutrition command hub within Layer 4 (Ecosystem Arenas) of the Signal Star Universe. Integrating five complementary vertical nodes—Scarlet The Cat, Forever Young Dog, NBS, Dazzle, and CA-KR—SISPet democratizes clinical veterinary dietetics and orchestrates cross-border pet trade across 8 international bases.": {
+    "ko": "SISPet 펫푸드 제너럴은 Signal Star Universe의 레이어 4(생태계 아레나) 내에서 특화된 반려동물 영양 커맨드 허브 역할을 수행합니다. 5개의 상호보완적 버티컬 노드인 Scarlet The Cat, Forever Young Dog, NBS, Dazzle, CA-KR을 통합하여, SISPet은 임상 수의영양학을 대중화하고 8개 글로벌 거점에 걸친 크로스보더 반려동물 무역을 총괄 조율합니다."
+  },
+  "Feline, Canine, Gut, Coat & Trade": {
+    "ko": "반려묘, 반려견, 장 건강, 피모 및 글로벌 무역"
+  },
+  "Accessible Mass Micro-Sachet Price": {
+    "ko": "대중 접근형 마이크로 사셰 가격 정책"
+  },
+  "Certified Korean Production Network": {
+    "ko": "인증된 한국 제조 네트워크"
+  },
+  "Insured Rolling Demand Forecasting": {
+    "ko": "보험 연계형 롤링 수요 예측"
+  },
+  "CHAPTER 01 CLUSTER PORTFOLIO": {
+    "ko": "CHAPTER 01 클러스터 포트폴리오"
+  },
+  "1. The 5 Specialized Verticals of the SISPet Constellation": {
+    "ko": "1. SISPet 콘스텔레이션의 5대 특화 버티컬"
+  },
+  "Each brand within the SISPet cluster addresses a distinct clinical, demographic, or logistical challenge in global companion animal health:": {
+    "ko": "SISPet 클러스터 내 각 브랜드는 글로벌 반려동물 건강 분야의 고유한 임상적, 인구통계학적 또는 물류적 과제를 해결합니다:"
+  },
+  "Feline Clinical & FLUTD Care": {
+    "ko": "반려묘 임상 및 FLUTD 케어"
+  },
+  "Strict urinary pH modulation (6.2 - 6.5) and low magnesium ash formulations that dissolve struvite stones and eliminate chronic feline idiopathic cystitis.": {
+    "ko": "스트루바이트 결석을 용해하고 만성 고양이 특발성 방광염을 근원적으로 제어하는 정밀 요로 pH 조절(6.2 - 6.5) 및 저마그네슘 조회분 포뮬러."
+  },
+  "Senior Canine Orthopedic Mobility": {
+    "ko": "노령견 정형외과적 관절 가동성"
+  },
+  "Geriatric longevity nutrition integrating undenatured type-II collagen (UC-II), MCT neuro-ketones, and anti-senescent plant polyphenols.": {
+    "ko": "비변성 2형 콜라겐(UC-II), MCT 뉴로 케톤, 항노화 식물성 폴리페놀을 결합한 노령견 장수 영양 솔루션."
+  },
+  "Phytomedicine & Gut Microbiome": {
+    "ko": "식물성의약품 및 장내 마이크로바이옴"
+  },
+  "Antibiotic-free intestinal therapeutics utilizing standardized Andrographis, Moringa postbiotics, and prebiotic SCFAs for canine and feline IBD.": {
+    "ko": "표준화된 안드로그라피스, 모링가 포스트바이오틱스, 프리바이오틱 단쇄지방산(SCFA)을 활용한 반려견 및 반려묘 염증성 장질환(IBD) 무항생제 장내 치료 솔루션."
+  },
+  "Dermatological Coat Conditioning": {
+    "ko": "피부과적 피모 컨디셔닝"
+  },
+  "Krill phospholipid EPA/DHA, rice phytoceramides, and zinc chelates that seal the stratum corneum barrier and eliminate atopic pruritus.": {
+    "ko": "각질층 장벽을 강화하고 아토피성 소양증을 근절하는 크릴 인지질 EPA/DHA, 쌀 추출 피토세라마이드 및 아연 킬레이트 복합체."
+  },
+  "Cross-Border K-Pet Trade Corridor & Supply Chain": {
+    "ko": "크로스보더 K-Pet 무역 회랑 및 공급망"
+  },
+  "The bilateral export backbone connecting 12 Korean certified extrusion/retort plants with high-growth destination hubs via bulk super-sack ocean freight, localized micro-packaging, and K-SURE credit insurance.": {
+    "ko": "벌크 슈퍼색(Super-sack) 해상 운송, 현지화된 마이크로 패키징, K-SURE 무역보험을 결합하여 한국의 12개 공인 익스트루전/레토르트 제조 시설과 고성장 대상 허브를 연결하는 양방향 수출 백본."
+  },
+  "CHAPTER 02 HUB TOPOLOGY": {
+    "ko": "CHAPTER 02 허브 토폴로지"
+  },
+  "2. SISPet Integrated Industrial & Clinical Pipeline": {
+    "ko": "2. SISPet 통합 산업 및 임상 파이프라인"
+  },
+  "The diagram below models the operational synchronization between Korean advanced formulation R&D, bulk international shipping, localized micro-packaging, and multi-tier clinical dispensary distribution.": {
+    "ko": "아래 다이어그램은 한국의 첨단 포뮬레이션 R&D, 대규모 국제 해상 운송, 현지 맞춤형 소포장(마이크로 패키징), 다단계 임상 전문 유통 간의 운영 동기화를 모델링합니다."
+  },
+  "3. Mathematical Modeling of Micro-Sachet Market Penetration Velocity": {
+    "ko": "3. 마이크로 사셰 시장 침투 속도의 수학적 모델링"
+  },
+  "The consumer adoption rate $A(t)$ for clinical micro-sachets across developing emerging markets is governed by a modified Bass diffusion equation incorporating the price elasticity factor $\\Psi_{\\text{sachet}}$.": {
+    "ko": "신흥 개발도상국 시장 전반에 걸친 임상용 마이크로 사셰의 소비자 수용률 $A(t)$는 가격 탄력성 계수 $\\Psi_{\\text{sachet}}$를 결합한 수정된 배스 확산(Bass diffusion) 방정식에 의해 규정됩니다."
+  },
+  "Where $p \\approx 0.042$ is the veterinary innovation coefficient, $q \\approx 0.38$ is the peer clinic imitation coefficient, $M$ is the total addressable urban companion animal population, and $\\epsilon \\approx 1.65$ is the empirical emerging-market daily affordability elasticity. Because $\\text{Price}_{\\text{sachet}} = \\text{Rp } 1,320$ represents <1.5% of daily household discretionary spend, adoption velocity accelerates by $4.2\\times$ over traditional bulk kibble bags.": {
+    "ko": "여기서 $p \\approx 0.042$는 수의학 혁신 계수, $q \\approx 0.38$은 동료 클리닉 모방 계수, $M$은 총 유효 도시 반려동물 개체수(TAM), $\\epsilon \\approx 1.65$는 신흥 시장의 일일 구매력 탄력성 실증치입니다. $\\text{Price}_{\\text{sachet}} = \\text{Rp } 1,320$은 일일 가계 재량 지출의 1.5% 미만에 불과하므로, 도입 속도는 기존 대용량 건식 사료(벌크 키블) 대비 $4.2\\times$ 가속화됩니다."
+  },
+  "CHAPTER 04 PORTFOLIO MATRIX": {
+    "ko": "제04장 포트폴리오 매트릭스"
+  },
+  "4. Comprehensive SISPet Clinical Portfolio Matrix": {
+    "ko": "4. SISPet 종합 임상 포트폴리오 매트릭스"
+  },
+  "The matrix below summarizes the clinical indications, formulation highlights, and delivery formats of the SISPet brand constellation.": {
+    "ko": "하기 매트릭스는 SISPet 브랜드 콘스텔레이션의 임상 적응증, 핵심 포뮬레이션 유효성분 및 급여 포맷을 요약한 것입니다."
+  },
+  "Brand Vertical": {
+    "ko": "브랜드 버티컬"
+  },
+  "Target Species": {
+    "ko": "대상 축종"
+  },
+  "Core Therapeutic Indication": {
+    "ko": "핵심 치료 적응증"
+  },
+  "Primary Formulation Active": {
+    "ko": "주요 제형 유효성분"
+  },
+  "Feline": {
+    "ko": "고양이(Feline)"
+  },
+  "FLUTD, Struvite Crystals, Cystitis": {
+    "ko": "FLUTD(고양이 하부요로 질환), 스트루바이트 결석, 방광염"
+  },
+  "pH 6.2 Target, DL-Methionine, Cranberry PACs": {
+    "ko": "pH 6.2 타깃, DL-메티오닌, 크랜베리 PACs"
+  },
+  "20g Single-Serve Gravy Sachet": {
+    "ko": "20g 1회 제공량 그레이비 사셰"
+  },
+  "Canine (Senior)": {
+    "ko": "반려견(노령견)"
+  },
+  "Osteoarthritis, Sarcopenia, Cognitive Decline": {
+    "ko": "골관절염, 근감소증, 인지기능 저하"
+  },
+  "UC-II Collagen, C8/C10 MCT Oil, Astaxanthin": {
+    "ko": "UC-II 콜라겐, C8/C10 MCT 오일, 아스타잔틴"
+  },
+  "30g Functional Longevity Sachet": {
+    "ko": "30g 롱제비티 기능성 사셰"
+  },
+  "Canine & Feline": {
+    "ko": "반려견 및 반려묘"
+  },
+  "Chronic Enteropathy, IBD, Dysbiosis": {
+    "ko": "만성 장병증, IBD(염증성 장질환), 장내 미생물 불균형(Dysbiosis)"
+  },
+  "Andrographolides, Fermented Moringa, Postbiotics": {
+    "ko": "안드로그라폴라이드, 발효 모링가, 포스트바이오틱스"
+  },
+  "5ml Liquid Emulsion Sachet": {
+    "ko": "5ml 액상 에멀전 사셰"
+  },
+  "Atopic Pruritus, Dry Coat, Malassezia": {
+    "ko": "아토피성 소양증, 피모 건조, 말라세지아"
+  },
+  "Krill Phospholipids, Phytoceramides, Zinc-Met": {
+    "ko": "크릴 인지질, 파이토세라마이드, 아연-메티오닌(Zinc-Met)"
+  },
+  "15g Bioactive Paste Sachet": {
+    "ko": "15g 생체활성 페이스트 사셰"
+  },
+  "CA-KR Trade Alliance": {
+    "ko": "CA-KR 무역 동맹"
+  },
+  "B2B Infrastructure": {
+    "ko": "B2B 인프라"
+  },
+  "Cross-Border Supply Chain Optimization": {
+    "ko": "크로스보더 공급망 최적화"
+  },
+  "Bulk FIBC Super-Sacks + K-SURE Insured Clearing": {
+    "ko": "벌크 FIBC 수퍼색(Super-Sacks) + K-SURE 부보 통관"
+  },
+  "1,000kg Bulk Container Cargo": {
+    "ko": "1,000kg 벌크 컨테이너 화물"
+  },
+  "CHAPTER 05 RE-PACKAGING HUBS": {
+    "ko": "제5장 재포장 허브"
+  },
+  "5. Local Micro-Packaging & Employment Co-Creation": {
+    "ko": "5. 현지 마이크로 패키징 및 고용 공동 창출"
+  },
+  "In alignment with the *SC constitutional ethos (\"One Spark, Infinite Galaxifying\"), SISPet establishes localized packaging cleanrooms in destination markets. These micro-factories utilize high-precision rotary multi-head weighing and Nitrogen-flushed sachet packaging machinery, providing local jobs and training while eliminating import duties on finished packaged goods.": {
+    "ko": "*SC 헌법적 기조(\"One Spark, Infinite Galaxifying\")에 부합하도록, SISPet은 목적국 현지 시장에 특화된 패키징 클린룸을 구축합니다. 본 마이크로 팩토리는 고정밀 로터리 멀티헤드 계량기 및 질소 충전 소포장 사셰(sachet) 패키징 설비를 운용하여, 현지 일자리 창출 및 전문 교육을 제공하는 동시에 완제품 수입 관세를 원천적으로 절감합니다."
+  },
+  "CHAPTER 06 FINANCIAL ARCHITECTURE": {
+    "ko": "제6장 재무 아키텍처"
+  },
+  "6. Consolidated Cluster Unit Economics": {
+    "ko": "6. 통합 클러스터 단위 경제학(Unit Economics)"
+  },
+  "Through its unified manufacturing and distribution architecture, SISPet generates strong gross margins while passing structural savings directly to clinic partners and pet owners.": {
+    "ko": "통합 제조·유통 아키텍처를 바탕으로, SISPet은 견고한 매출총이익률을 달성하는 동시에 구조적 원가 절감 효과를 동물병원 파트너와 반려동물 보호자에게 직간접적으로 환원합니다."
+  },
+  "Operational Metric": {
+    "ko": "운영 지표"
+  },
+  "Traditional Multi-Tier Importer": {
+    "ko": "전통적 다단계 수입업체"
+  },
+  "SISPet Integrated Cluster": {
+    "ko": "SISPet 통합 클러스터"
+  },
+  "Strategic Benefit": {
+    "ko": "전략적 이점"
+  },
+  "Landed Finished Unit Cost": {
+    "ko": "도착 인도 기준 완제품 단위 원가"
+  },
+  "$1.85 / 100g equivalent": {
+    "ko": "100g 상당액 기준 $1.85"
+  },
+  "$0.62 / 100g equivalent": {
+    "ko": "100g 상당액 기준 $0.62"
+  },
+  "-66.5% cost reduction": {
+    "ko": "-66.5% 원가 절감"
+  },
+  "Working Capital Lockup": {
+    "ko": "운전자본 묶임(Lockup) 주기"
+  },
+  "120 days (Container orders)": {
+    "ko": "120일 (컨테이너 발주 기준)"
+  },
+  "24 days (Agile 3-mo RPF)": {
+    "ko": "24일 (애자일 3개월 RPF 기준)"
+  },
+  "5x faster capital recycling": {
+    "ko": "자본 회전율 5배 개선"
+  },
+  "Partner Clinic Gross Margin": {
+    "ko": "파트너 동물병원 매출총이익률"
+  },
+  "Substantially higher clinic revenue": {
+    "ko": "병원 순수익의 획기적 증대"
+  },
+  "Pet Owner Daily Outlay": {
+    "ko": "반려동물 보호자 일일 지출액"
+  },
+  "$2.40 / day": {
+    "ko": "일일 $2.40"
+  },
+  "Rp 1,320 (~$0.08) - $0.45 / day": {
+    "ko": "일일 Rp 1,320 (약 $0.08) - $0.45"
+  },
+  "True mass-market affordability": {
+    "ko": "진정한 매스마켓 가격 접근성 확보"
+  },
+  "CHAPTER 07 CONSTITUTIONAL MISSION": {
+    "ko": "제7장 헌법적 사명"
+  },
+  "7. The Sovereign Future of Companion Animal Wellness": {
+    "ko": "7. 반려동물 웰니스의 자주적 미래"
+  },
+  "The SISPet Petfood General cluster demonstrates that superior veterinary bio-technology and compassionate mass accessibility are not mutually exclusive. By aligning Korean manufacturing precision, algorithmic supply chain routing, and localized micro-sachet packaging, we ensure that every companion dog and cat receives the clinical nourishment they need to thrive.": {
+    "ko": "SISPet 펫푸드 제너럴 클러스터는 탁월한 수의학 바이오 테크놀로지와 대중적 가격 접근성이 결코 상호 배타적이지 않음을 입증합니다. 대한민국의 정밀 제조 역량, 알고리즘 기반 공급망 라우팅, 현지화된 마이크로 사셰 패키징을 유기적으로 연계함으로써, 우리는 모든 반려견과 반려묘가 건강하게 번영하는 데 필요한 임상 영양을 안정적으로 공급받을 수 있도록 보장합니다."
+  },
+  "\"Every pet deserves a healthy, pain-free life by their human's side. SISPet unites world-class veterinary science with radical economic accessibility to protect companion animals across every corner of the Biz Galaxy.\"": {
+    "ko": "\"모든 반려동물은 반려인의 곁에서 고통 없이 건강한 삶을 누릴 권리가 있습니다. SISPet은 세계 정상급 수의과학 기술과 혁신적인 경제적 접근성을 융합하여, 비즈 갤럭Wrapper 모든 거점의 반려동물을 수호합니다.\""
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-02": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-02"
+  },
+  "COMPANION ANIMAL NUTRITION • CLUSTER ARCHITECTURE": {
+    "ko": "반려동물 영양학 • 클러스터 아키텍처"
+  },
+  "Cluster Command Brief: Industrializing Precision Pet Care": {
+    "ko": "클러스터 커맨드 브리프: 정밀 펫케어의 산업화"
+  },
+  "The companion animal health market is polarizing: premium clinical prescription diets are increasingly unaffordable for ordinary pet parents, while low-cost commercial foods cause widespread urinary, renal, and inflammatory chronic disease. SISPet breaks this false dichotomy. By coupling Korean bio-pharmaceutical manufacturing with localized Rp 1,320 micro-sachet packaging, SISPet delivers clinical-grade veterinary prevention to millions of pets worldwide.": {
+    "ko": "반려동물 헬스케어 시장은 양극화되고 있습니다. 프리미엄 임상 처방식은 일반 반려인들이 감당하기 어려운 수준에 이르렀으며, 저가 상업용 사료는 요로계, 신장계 및 염증성 만성 질환을 광범위하게 유발하고 있습니다. SISPet은 이러한 거짓된 이분법을 타파합니다. 한국의 바이오 제약 제조 역량과 현지화된 Rp 1,320 마이크로 파우치 패키징을 결합함으로써, SISPet은 전 세계 수백만 마리의 반려동물에게 임상 등급의 수의학적 예방 솔루션을 제공합니다."
+  },
+  "CLUSTER PORTFOLIO": {
+    "ko": "클러스터 포트폴리오"
+  },
+  "HUB TOPOLOGY": {
+    "ko": "허브 토폴로지"
+  },
+  "PORTFOLIO MATRIX": {
+    "ko": "포트폴리오 매트릭스"
+  },
+  "RE-PACKAGING HUBS": {
+    "ko": "리패키징 허브"
+  },
+  "FINANCIAL ARCHITECTURE": {
+    "ko": "파이낸셜 아키텍처"
+  },
+  "CONSTITUTIONAL MISSION": {
+    "ko": "헌장적 핵심 미션"
+  },
+  "MONOGRAPH BG-0301 • ORTHOPEDIC SPECIALTY CANINE HIP DYSPLASIA • NON-SURGICAL PROTOCOLS": {
+    "ko": "모노그래프 BG-0301 • 정형외과 전문: 개 고관절 이형성증 • 비수술적 프로토콜"
+  },
+  "*SC — CHD: Canine Hip Dysplasia Clinical Orthopedic Protocols": {
+    "ko": "*SC — CHD: 개 고관절 이형성증 임상 정형외과 프로토콜"
+  },
+  "CHD represents the specialized veterinary orthopedic management vertical under SISTAR MedIX. Designed to address Canine Hip Dysplasia (CHD) and secondary coxofemoral osteoarthritis, the protocol couples AI-assisted PennHIP distraction index scoring with precision non-surgical multimodal rehabilitation, targeted intra-articular hyaluronic supplementation, and chondro-regenerative medical dietetics.": {
+    "ko": "CHD는 SISTAR MedIX 산하의 전문 수의정형외과 관리 버티컬을 대표합니다. 개 고관절 이형성증(CHD) 및 이차성 고관절 골관절염에 대응하도록 설계된 본 프로토콜은 AI 지원 PennHIP 신연 지수(Distraction Index) 스코어링과 정밀 비수술 다원적 재활, 표적 관절강 내 히알루론산 보충, 연골 재생형 메디컬 식이요법을 결합합니다."
+  },
+  "PennHIP Distraction Goal Index": {
+    "ko": "PennHIP 신연 목표 지수"
+  },
+  "In Documented Grade-3 CHD Patients": {
+    "ko": "확진된 Grade-3 CHD 환견 대상"
+  },
+  "Multimodal Functional Rehabilitation": {
+    "ko": "다원적 기능 재활"
+  },
+  "Relative to Total Hip Replacement (THR)": {
+    "ko": "인공 고관절 전치환술(THR) 대비"
+  },
+  "CHAPTER 01 BIOMECHANICAL PATHOLOGY": {
+    "ko": "제01장 생체역학적 병리학"
+  },
+  "1. The Biomechanical Etiology of Coxofemoral Joint Laxity": {
+    "ko": "1. 고관절 이완증의 생체역학적 병인론"
+  },
+  "Canine Hip Dysplasia is primarily characterized by passive joint laxity: the femoral head fails to seat snugly within the acetabulum during skeletal growth. As the dog bears weight, subluxation induces focal stress concentrations on the dorsal acetabular rim, causing micro-fractures, synovitis, and enzymatic degradation of articular hyaline cartilage by matrix metalloproteinases (MMPs).": {
+    "ko": "개 고관절 이형성증은 주로 수동적 관절 이완을 특징으로 합니다. 골격 성장 과정에서 대퇴골두가 비구 내에 안정적으로 안착하지 못하면서 발생합니다. 환견이 체중을 지탱함에 따라 아탈구가 등쪽 비구연에 국소 응력 집중을 유발하고, 이는 미세 골절, 활막염 및 기질 메탈로프로테아제(MMP)에 의한 관절 초자연골의 효소적 분해로 이어집니다."
+  },
+  "Left unmanaged, the hip capsule thickens fibrotically, osteophytes proliferate around the femoral neck, and severe muscle atrophy sets in across the gluteal and quadriceps groups. The SISTAR MedIX CHD protocol intercepts this cycle through mechanical joint unloading, targeted anti-inflammatory nutrition, and proprioceptive neuromuscular facilitation.": {
+    "ko": "이를 방치할 경우 관절낭은 섬유성 비후를 겪고, 대퇴경부 주변으로 골극이 증식하며, 둔근 및 대퇴사두근 근군 전반에 걸쳐 심각한 근위축이 발생합니다. SISTAR MedIX CHD 프로토콜은 기계적 관절 제하(unloading), 표적 항염증 영양 공급 및 고유감각 신경근 촉진법(PNF)을 통해 이러한 악순환의 고리를 차단합니다."
+  },
+  "Cost Prohibitive & Invasive": {
+    "ko": "과도한 비용 및 침습성"
+  },
+  "Total Hip Replacement (THR) is clinically effective but economically inaccessible for 90% of families. Femoral Head Ostectomy (FHO) eliminates bone friction but leaves a fibrous pseudo-joint with compromised athletic gait.": {
+    "ko": "인공 고관절 전치환술(THR)은 임상적으로 효과적이나 반려가구의 90%에게 경제적 진입장벽이 큽니다. 대퇴골두 절단술(FHO)은 골간 마찰을 제거하지만, 섬유성 가관절을 형성하여 정상적인 운동 보행을 저하시킵니다."
+  },
+  "Conservative Biomechanical Stabilization": {
+    "ko": "보존적 생체역학적 안정화"
+  },
+  "Combines weight optimization, targeted UC-II oral tolerization, high-molecular HA supplementation, and hydrotherapy-guided gluteal hypertrophy to stabilize the native joint.": {
+    "ko": "체중 최적화, 표적 UC-II 경구 면역관용, 고분자 HA 보충, 수두치료 기반 둔근 비대 유도를 결합하여 고유 관절을 안정화합니다."
+  },
+  "CHAPTER 02 TREATMENT ARCHITECTURE": {
+    "ko": "제02장 치료 아키텍처"
+  },
+  "2. The 4-Pillar Non-Surgical CHD Rehabilitation Protocol": {
+    "ko": "2. 4대 축 기반 비수술 CHD 재활 프로토콜"
+  },
+  "The SISTAR MedIX CHD clinical protocol organizes treatment into four interlocked stages, providing veterinarians with an actionable, staged therapeutic roadmap.": {
+    "ko": "SISTAR MedIX CHD 임상 프로토콜은 치료를 상호 연계된 4단계로 구조화하여 수의사에게 즉각 실행 가능한 단계별 치료 로드맵을 제공합니다."
+  },
+  "CHAPTER 03 BIOMECHANICAL MODELING": {
+    "ko": "제03장 생체역학적 모델링"
+  },
+  "3. Mathematical Modeling of Joint Contact Stress Under Weight Loss": {
+    "ko": "3. 체중 감량에 따른 관절 접촉 응력의 수학적 모델링"
+  },
+  "Contact stress $\\sigma_{\\text{contact}}$ across the dorsal acetabular rim is a function of total ground reaction force $F_{\\text{body}}$ and the effective contact surface area $A_{\\text{contact}}$, which diminishes severely during femoral subluxation.": {
+    "ko": "배측 비구연(dorsal acetabular rim)에 작용하는 접촉 응력 $\\sigma_{\\text{contact}}$은 총 지면 반발력 $F_{\\text{body}}$과 대퇴골 아탈구 시 급격히 감소하는 유효 접촉 표면적 $A_{\\text{contact}}$의 함수로 정의됩니다."
+  },
+  "Where $DI$ is the PennHIP distraction index ($0 \\le DI \\le 1.0$), and $\\theta_{\\text{sublux}}$ is the subluxation angle. A modest $10\\%$ reduction in body mass ($F_{\\text{body}}$), coupled with gluteal muscular containment that reduces $DI$ from $0.65$ to $0.42$, yields an exponential $48.6\\%$ drop in localized contact stress, stopping mechanical cartilage destruction.": {
+    "ko": "여기서 $DI$는 PennHIP 신연 지수($0 \\le DI \\le 1.0$)이며, $\\theta_{\\text{sublux}}$는 아탈구 각도입니다. 체중($F_{\\text{body}}$)의 $10\\%$에 불과한 감량이라도 $DI$를 $0.65$에서 $0.42$로 감소시키는 둔근 지지력과 결합될 경우, 국소 접촉 응력을 지수 함수적으로 $48.6\\%$ 감소시켜 기계적 연골 파괴를 차단합니다."
+  },
+  "CHAPTER 04 TREATMENT STAGING MATRIX": {
+    "ko": "CHAPTER 04 치료 병기 매트릭스"
+  },
+  "4. Clinical Staging & Intervention Protocols": {
+    "ko": "4. 임상 병기 분류 및 중재 프로토콜"
+  },
+  "The SISTAR MedIX CHD protocol stratifies canine patients based on radiographic and clinical examination findings.": {
+    "ko": "SISTAR MedIX CHD 프로토콜은 방사선학적 소견 및 임상 검진 결과를 기반으로 반려견 환자군을 계층화하여 분류합니다."
+  },
+  "Clinical Stage": {
+    "ko": "임상 병기"
+  },
+  "Radiographic Findings (OFA / PennHIP)": {
+    "ko": "방사선학적 소견 (OFA / PennHIP)"
+  },
+  "Primary Symptoms": {
+    "ko": "주요 임상 증상"
+  },
+  "SISTAR MedIX Intervention Protocol": {
+    "ko": "SISTAR MedIX 중재 프로토콜"
+  },
+  "Stage I (Juvenile Laxity)": {
+    "ko": "1기 (유년기 이완증)"
+  },
+  "DI 0.35 - 0.50; zero osteophytes": {
+    "ko": "DI 0.35 - 0.50, 골극 전무"
+  },
+  "Subtle bunny-hopping gait, morning stiffness": {
+    "ko": "경미한 토끼뜀 보행(bunny-hopping), 조조 강직"
+  },
+  "Nutritional weight control, UC-II collagen, isometric walking": {
+    "ko": "식이 기반 체중 조절, UC-II 콜라겐, 등척성 보행 훈련"
+  },
+  "Stage II (Mild to Mod CHD)": {
+    "ko": "2기 (경증-중등도 CHD)"
+  },
+  "DI 0.50 - 0.70; early Morgan line": {
+    "ko": "DI 0.50 - 0.70, 초기 모건선(Morgan line)"
+  },
+  "Reluctance to climb stairs, exercise intolerance": {
+    "ko": "계단 보행 기피, 운동 불내성"
+  },
+  "Hydrotherapy, high-dose green-lipped mussel, HA supplementation": {
+    "ko": "수중 치료, 고용량 초록입홍합, 히알루론산(HA) 보충 요법"
+  },
+  "Stage III (Severe OA)": {
+    "ko": "3기 (중증 골관절염)"
+  },
+  "DI > 0.70; acetabular flattening, osteophytes": {
+    "ko": "DI > 0.70, 비구 평탄화, 골극 형성"
+  },
+  "Crepitus, muscle atrophy, marked lameness": {
+    "ko": "염발음(crepitus), 근위축, 뚜렷한 파행"
+  },
+  "Intra-articular PRP/HA, intensive physical therapy, multimodal diet": {
+    "ko": "관절강 내 PRP/HA 주사, 집중 물리치료, 다각적 복합 식이요법"
+  },
+  "Stage IV (End-Stage)": {
+    "ko": "4기 (말기)"
+  },
+  "Complete joint collapse, bone-on-bone": {
+    "ko": "완전한 관절 붕괴, 골간 직접 마찰(bone-on-bone)"
+  },
+  "Severe constant pain, non-weight bearing": {
+    "ko": "중증의 지속적 통증, 비체중부하 파행"
+  },
+  "Surgical salvage assessment (THR/FHO) with pre/post-op rehab": {
+    "ko": "수술적 구제술(THR/FHO) 평가 및 수술 전후 집중 재활"
+  },
+  "CHAPTER 05 CLINICAL TRIAL EVIDENCE": {
+    "ko": "CHAPTER 05 임상시험 근거 데이터"
+  },
+  "5. Force Plate Gait Analysis & Symmetry Index Recovery": {
+    "ko": "5. 지면반발력 보행 분석 및 대칭 지수 회복"
+  },
+  "In a 24-week clinical cohort study across 80 large-breed dogs diagnosed with Stage II and Stage III CHD, patients managed under the SISTAR MedIX protocol exhibited significant restoration of pelvic limb symmetry.": {
+    "ko": "2기 및 3기 CHD 진단을 받은 대형견 80두를 대상으로 한 24주간의 임상 코호트 연구에서, SISTAR MedIX 프로토콜에 따라 관리된 환자군은 후지 대칭성의 유의미한 회복을 입증했습니다."
+  },
+  "CHAPTER 06 FINANCIAL COMPARISON": {
+    "ko": "CHAPTER 06 경제성 및 비용 비교"
+  },
+  "6. Economic Impact: Surgical Replacement vs. MedIX Protocol": {
+    "ko": "6. 경제적 파급효과: 외과적 관절치환술 대비 MedIX 프로토콜"
+  },
+  "The economic disparity between surgical intervention and conservative medical management represents a critical decision point for pet families.": {
+    "ko": "수술적 개입과 보존적 내과 관리 간의 경제적 격차는 반려가족에게 중대한 의사결정 분기점이 됩니다."
+  },
+  "Management Pathway": {
+    "ko": "치료 관리 패스웨이"
+  },
+  "Initial Procedure Cost": {
+    "ko": "초기 시술/처치 비용"
+  },
+  "Annual Maintenance": {
+    "ko": "연간 유지 관리 비용"
+  },
+  "Primary Risk / Re-Operation": {
+    "ko": "주요 리스크 / 재수술 위험"
+  },
+  "Affordability Score": {
+    "ko": "비용 감당성 평가(Affordability Score)"
+  },
+  "Total Hip Replacement (Bilateral)": {
+    "ko": "인공 고관절 전치환술 (양측)"
+  },
+  "$500 (Periodic X-rays)": {
+    "ko": "$500 (정기 방사선 검사)"
+  },
+  "Implant luxation, infection, fracture (8-12%)": {
+    "ko": "임플란트 탈구, 감염, 골절 (8-12%)"
+  },
+  "< 8% of pet owners": {
+    "ko": "반려인 중 8% 미만 수용 가능"
+  },
+  "Femoral Head Ostectomy (FHO)": {
+    "ko": "대퇴골두 절제술 (FHO)"
+  },
+  "$800 (Lifelong pain meds)": {
+    "ko": "$800 (평생 진통 약물 치료)"
+  },
+  "Shortened limb, persistent weakness, limping": {
+    "ko": "하지 단축, 지속적인 근력 저하, 파행"
+  },
+  "~25% of pet owners": {
+    "ko": "반려인 중 약 25% 수용 가능"
+  },
+  "SISTAR MedIX CHD Non-Surgical Protocol": {
+    "ko": "SISTAR MedIX CHD 비수술 프로토콜"
+  },
+  "$450 (Initial Workup & Staging)": {
+    "ko": "$450 (초기 정밀 진단 및 병기 설정)"
+  },
+  "$650 / year ($54/mo)": {
+    "ko": "연간 $650 (월 $54)"
+  },
+  "Zero surgical risk; 100% reversible": {
+    "ko": "수술적 리스크 제로; 100% 가역적"
+  },
+  "> 85% Mass Affordability": {
+    "ko": "> 85% 대중적 비용 수용성 확보"
+  },
+  "CHAPTER 07 INSTITUTIONAL COMMITMENT": {
+    "ko": "제07장 기관의 사명과 책무 (INSTITUTIONAL COMMITMENT)"
+  },
+  "7. Restoring the Joy of Unburdened Movement": {
+    "ko": "7. 통증 없는 움직임의 기쁨 회복"
+  },
+  "A diagnosis of Canine Hip Dysplasia does not have to mean catastrophic surgery or premature euthanasia. By deploying rigorous biomechanical intelligence, targeted regenerative nutrition, and compassionate care, SISTAR MedIX CHD ensures that large dogs run with strength and grace throughout their lives.": {
+    "ko": "반려견 고관절 이형성증 진단이 반드시 치명적인 수술이나 조기 안락사를 의미하는 것은 아닙니다. 엄격한 생체역학적 인텔리전스, 표적 재생 영양학, 헌신적 케어를 유기적으로 결합한 SISTAR MedIX CHD는 대형견이 평생 동안 강력하고 우아하게 질주할 수 있도록 보장합니다."
+  },
+  "\"Every dog deserves the freedom to gallop without pain. We combine veterinary orthopedic science with non-invasive clinical therapies to keep companions walking beside us for life.\"": {
+    "ko": "\"모든 반려견은 통증 없이 전력 질주할 자유를 누려야 합니다. 우리는 수의 정형외과학과 비침습적 임상 치료를 융합하여, 평생 동안 우리의 곁을 나란히 걸을 수 있도록 지원합니다.\""
+  },
+  "MONOGRAPH BG-0301 • ORTHOPEDIC SPECIALTY": {
+    "ko": "모노그래프 BG-0301 • 정형외과 전문 임상 보고"
+  },
+  "CANINE HIP DYSPLASIA • NON-SURGICAL PROTOCOLS": {
+    "ko": "반려견 고관절 이형성증 • 비수술 프로토콜"
+  },
+  "Clinical Orthopedic Brief: Preserving Joint Geometry without Major Surgery": {
+    "ko": "임상 정형외과 요약: 대수술 없는 관절 기하구조의 보존"
+  },
+  "Canine Hip Dysplasia is a debilitating developmental disease affecting over 35% of large and giant dog breeds. Surgical total hip replacement (THR) or femoral head ostectomy (FHO) costs between $4,500 and $9,000 per hip—an impossible financial burden for over 90% of dog owners. SISTAR MedIX CHD pioneers an integrative, evidence-based non-surgical pathway: restoring coxofemoral joint congruency, rebuilding periarticular muscle mass, and arresting cartilage erosion at a fraction of surgical expense.": {
+    "ko": "반려견 고관절 이형성증은 대형견 및 초대형견 품종의 35% 이상에서 발생하는 치명적인 발달성 질환입니다. 수술적 인공 고관절 전치환술(THR) 또는 대퇴골두 절제술(FHO)은 편측당 $4,500~$9,000의 비용이 소요되며, 이는 반려인의 90% 이상에게 감당하기 어려운 재정적 부담입니다. SISTAR MedIX CHD는 수술비의 극히 일부에 해당하는 비용으로 관골구-대퇴관절의 적합성을 복원하고, 관절주위 근육량을 재건하며, 연골 침식을 억제하는 근거 기반의 통합 비수술 패스웨이를 개척합니다."
+  },
+  "BIOMECHANICAL PATHOLOGY": {
+    "ko": "생체역학적 병리학 (BIOMECHANICAL PATHOLOGY)"
+  },
+  "TREATMENT ARCHITECTURE": {
+    "ko": "치료 아키텍처 (TREATMENT ARCHITECTURE)"
+  },
+  "BIOMECHANICAL MODELING": {
+    "ko": "생체역학적 모델링 (BIOMECHANICAL MODELING)"
+  },
+  "TREATMENT STAGING MATRIX": {
+    "ko": "치료 단계별 스테이징 매트릭스"
+  },
+  "CLINICAL TRIAL EVIDENCE": {
+    "ko": "임상시험 근거 데이터"
+  },
+  "FINANCIAL COMPARISON": {
+    "ko": "재무적 비교 분석"
+  },
+  "INSTITUTIONAL COMMITMENT": {
+    "ko": "기관 차원의 확약 및 책무"
+  },
+  "MONOGRAPH BG-0302 • HOSPITAL EDITION PRESCRIPTION CLINICAL DIETS • AI DIAGNOSTIC DISPENSARY": {
+    "ko": "모노그래프 BG-0302 • 동물병원용 처방 임상 치료식 • AI 진단 조제 시스템"
+  },
+  "*SC — SISTAR MedIX Clinical Edition: Hospital Prescription Diets & AI Protocols": {
+    "ko": "*SC — SISTAR MedIX Clinical Edition: 동물병원 처방 임상식 및 AI 프로토콜"
+  },
+  "SISTAR MedIX Clinical Edition is the dedicated veterinary hospital prescription dietetics and in-clinic clinical intelligence platform of SISTAR MedIX. Designed exclusively for licensed veterinary medical centers, it integrates AI diagnostic clinical decision support with precision medical therapeutic nutrition targeting chronic renal disease, hepatic failure, diabetes mellitus, and critical post-surgical recovery.": {
+    "ko": "SISTAR MedIX Clinical Edition은 SISTAR MedIX의 동물병원 전용 처방 임상영양학 및 원내 임상 인텔리전스 플랫폼입니다. 공인 동물 의료 센터 전용으로 설계되었으며, AI 진단 임상 의사결정 지원 시스템과 만성 신부전, 간부전, 당뇨병 및 수술 후 중증 회복을 타깃으로 하는 정밀 의료 치료 영양학을 통합 제공합니다."
+  },
+  "Chronic Kidney Disease Formulations": {
+    "ko": "만성 신장 질환(CKD) 처방 포뮬러"
+  },
+  "In-Clinic AI Diagnostic Synthesis": {
+    "ko": "원내 AI 진단 합성 분석"
+  },
+  "For Partner Hospital Dispensaries": {
+    "ko": "파트너 동물병원 조제실 전용"
+  },
+  "Aseptic Retort Tube-Feeding Pastes": {
+    "ko": "무균 레토르트 튜브 피딩용 페이스트"
+  },
+  "CHAPTER 01 CLINICAL CHALLENGE": {
+    "ko": "제1장 임상적 과제"
+  },
+  "1. The Need for Dynamic Metabolic Veterinary Nutrition": {
+    "ko": "1. 동적 대사 기반 수의 영양학의 필요성"
+  },
+  "In companion animal critical care, nutrition is not merely a supportive measure; it is a primary therapeutic intervention. A canine patient in acute renal failure requires strict dietary phosphorus restriction (<0.4% dry matter) and buffered bicarbonate to counteract metabolic acidosis, while a diabetic feline requires ultra-low carbohydrate density (<10% ME) to avoid glucose toxicity and stimulate beta-cell remission.": {
+    "ko": "반려동물 중환자 치료에서 영양 공급은 단순한 보조 요법이 아닌 핵심적인 일차 치료 중재입니다. 급성 신부전 환견은 대사성 산증을 상쇄하기 위해 엄격한 식이 인 제한(건물 기준 <0.4%)과 완충 중탄산염을 필요로 하며, 당뇨병 환묘는 포도당 독성을 방지하고 베타세포 관해를 유도하기 위해 극저탄수화물 밀도(대사에너지 기준 <10% ME)를 요구합니다."
+  },
+  "Legacy prescription pet foods provide one-size-fits-all bagged formulas that sit in distributor warehouses for months, often losing bio-activity and suffering palatability collapse. Sick, nauseated pets reject dry kibble, forcing prolonged intravenous fluid therapy. SISTAR MedIX Clinical Edition manufactures high-palatability, micro-emulsified pastes and tailored formulas that stimulate appetite and stabilize serum biomarkers.": {
+    "ko": "기존의 처방식 펫푸드는 유통 창고에 수개월간 방치되는 일률적인 포장 포뮬러를 제공하여, 생체 활성 저하 및 극심한 기호성 저하를 빈번하게 초래합니다. 오심과 기력 부진을 겪는 환축은 건식 키블을 거부하게 되며, 이는 불가피하게 정맥 수액 치료의 장기화로 이어집니다. SISTAR MedIX Clinical Edition은 식욕을 자극하고 혈청 바이오마커를 안정화하는 고기호성 미세 유화 페이스트 및 맞춤형 포뮬러를 제조 공급합니다."
+  },
+  "Static Formulas & Poor Anorexic Intake": {
+    "ko": "정적 포뮬러 및 식욕 부진에 따른 섭취율 저하"
+  },
+  "Imported dry formulas with high starch binders. Hospitalized pets with uremia or pancreatitis frequently refuse to eat, requiring forced nasogastric intubation and escalating hospital stays.": {
+    "ko": "전분 결합제 함량이 높은 수입 건식 포뮬러. 요독증이나 췌장염으로 입원한 환축은 자발적 사료 섭취를 빈번히 거부하여, 비위관 강제 급여를 유발하고 입원 기간을 증가시킵니다."
+  },
+  "Aseptic Hydrolysates & In-Clinic AI Customization": {
+    "ko": "무균 가수분해물 및 원내 AI 맞춤화"
+  },
+  "Ready-to-use liquid pastes and highly palatable hydrolysates suitable for syringe or spontaneous feeding, integrated with AI diagnostic calculators for exact calorie and electrolyte titration.": {
+    "ko": "정밀한 칼로리 및 전해질 적정(titration)을 산출하는 AI 진단 계산기와 통합 연동되어, 주사기 급여 및 자발 섭취 모두에 최적화된 즉시 급여형(RTU) 액상 페이스트 및 고기호성 가수분해물입니다."
+  },
+  "CHAPTER 02 IN-CLINIC WORKFLOW": {
+    "ko": "제2장 원내 워크플로우"
+  },
+  "2. In-Clinic AI Diagnostic to Dispensary Workflow": {
+    "ko": "2. 원내 AI 진단-처방 조제 워크플로우"
+  },
+  "SISTAR MedIX Clinical Edition connects hospital laboratory analyzers directly to our veterinary AI decision engine. When blood chemistry results are finalized, the system recommends the precise prescription dietary regimen.": {
+    "ko": "SISTAR MedIX Clinical Edition은 원내 임상병리 분석 장비를 당사의 수의학 AI 의사결정 엔진에 직접 연결합니다. 혈액 생화학 검사 결과가 확정되면, 시스템은 환축에게 최적화된 정밀 처방 식이 요법을 즉각 권고합니다."
+  },
+  "CHAPTER 03 METABOLIC NUTRITIONAL DYNAMICS": {
+    "ko": "제3장 대사 영양 동역학"
+  },
+  "3. Mathematical Modeling of Resting Energy Requirement (RER) & Renal Filtration": {
+    "ko": "3. 휴지기 에너지 요구량(RER) 및 신여과율의 수학적 모델링"
+  },
+  "In hospitalized critical patients, overfeeding induces hyperglycemia and carbon dioxide retention, while underfeeding accelerates muscular catabolism. SISTAR MedIX algorithms compute precise caloric targets using exponential allometric scaling.": {
+    "ko": "입원 중환자의 경우 과영양 급여는 고혈당증과 이산화탄소 저류를 유발하고, 과소 급여는 근육 이화작용을 가속화합니다. SISTAR MedIX 알고리즘은 지수적 알로메트릭 스케일링(allometric scaling)을 적용하여 정밀 칼로리 목표치를 산출합니다."
+  },
+  "Where $BW_{\\text{kg}}$ is dry body weight, $\\text{GFR}_{\\text{est}}$ is the estimated glomerular filtration rate, and $\\phi_k$ is the stage-specific IRIS restriction multiplier. For a Stage 3 feline CKD patient ($\\text{SDMA} > 25\\,\\mu\\text{g/dL}$), dietary phosphorus is restricted to precisely $0.28\\,\\text{g}/1000\\,\\text{kcal}$, halting hyperphosphatemia-induced parathyroid hyperplasia.": {
+    "ko": "여기서 $BW_{\\text{kg}}$는 건조 체중, $\\text{GFR}_{\\text{est}}$는 추정 사구체 여과율, $\\phi_k$는 IRIS 병기별 제한 계수입니다. 만성 신부전(CKD) 3기 환묘($\\text{SDMA} > 25\\,\\mu\\text{g/dL}$)의 경우 식이 인 함량이 정확히 $0.28\\,\\text{g}/1000\\,\\text{kcal}$로 제한되어, 고인산혈증으로 유발되는 부갑상선 과형성을 차단합니다."
+  },
+  "CHAPTER 04 HOSPITAL PRESCRIPTION PORTFOLIO": {
+    "ko": "제4장 병원용 처방 포트폴리오"
+  },
+  "4. Core Hospital Prescription Product Line": {
+    "ko": "4. 핵심 병원 처방 제품 라인업"
+  },
+  "The SISTAR MedIX Clinical Edition encompasses four core clinical categories engineered for in-hospital patient stabilization and outpatient maintenance.": {
+    "ko": "SISTAR MedIX Clinical Edition은 원내 환축 안정화 및 퇴원 후 외래 유지를 위해 정밀 엔지니어링된 4대 핵심 임상 카테고리를 포괄합니다."
+  },
+  "Prescription Formula": {
+    "ko": "처방 포뮬러"
+  },
+  "Primary Indication": {
+    "ko": "주요 적응증"
+  },
+  "Key Biochemical Parameter": {
+    "ko": "핵심 생화학적 파라미터"
+  },
+  "Clinical Presentation Format": {
+    "ko": "임상 제형 규격"
+  },
+  "Feline & Canine Chronic Kidney Disease (CKD)": {
+    "ko": "반려묘 및 반려견 만성 신장 질환(CKD)"
+  },
+  "Low Phosphorus (<0.35%), EPA/DHA, Potassium Citrate": {
+    "ko": "저인(<0.35%), EPA/DHA, 구연산칼륨"
+  },
+  "25g Aseptic Micro-Sachet Gravy": {
+    "ko": "25g 무균 마이크로 사셰 그레이비"
+  },
+  "Copper Storage Hepatopathy, Liver Cirrhosis": {
+    "ko": "구리 축적성 간병증, 간경변증"
+  },
+  "Low Copper (<5mg/kg), High Zinc, L-Carnitine, Silymarin": {
+    "ko": "저구리(<5mg/kg), 고아연, L-카르니틴, 실리마린"
+  },
+  "Highly digestible hydrolysate paste": {
+    "ko": "고소화성 가수분해물 페이스트"
+  },
+  "Post-Operative Sepsis, Severe Anorexia": {
+    "ko": "수술 후 패혈증, 중증 식욕부진"
+  },
+  "High Energy (1.4 kcal/ml), Glutamine, Arginine, BCAA": {
+    "ko": "고에너지(1.4 kcal/ml), 글루타민, 아르기닌, BCAA"
+  },
+  "Liquid formula suitable for 5-Fr feeding tube": {
+    "ko": "5-Fr 피딩 튜브에 적합한 액상 포뮬러"
+  },
+  "Canine & Feline Diabetes Mellitus": {
+    "ko": "반려견 및 반려묘 당뇨병"
+  },
+  "High Soluble Fiber, Complex Carbohydrates, Chromium": {
+    "ko": "고수용성 식이섬유, 복합 탄수화물, 크롬"
+  },
+  "Retort stew with low glycemic index": {
+    "ko": "저혈당 지수(GI) 레토르트 스튜"
+  },
+  "CHAPTER 05 HOSPITAL DISPENSARY ECONOMICS": {
+    "ko": "CHAPTER 05 병원 처방 경제학"
+  },
+  "5. Dispensary Sovereignty: Eliminating Middleman Margin Erosion": {
+    "ko": "5. 원내 처방 주권: 유통 중간 마진 잠식의 원천 차단"
+  },
+  "Under traditional pet food distribution models, veterinary clinics earn thin gross margins (20-25%) while tying up thousands of dollars in bulky kibble bag inventory that takes up valuable clinical floor space.": {
+    "ko": "전통적인 펫푸드 유통 모델 하에서 동물병원은 귀중한 원내 공간을 점유하는 부피 큰 사료 포대 재고에 수천 달러의 자본을 묶어두면서도 20~25% 수준의 낮은 매출총이익률에 머물러 왔습니다."
+  },
+  "SISTAR MedIX Clinical Edition delivers compact, high-value micro-sachet prescription boxes directly from our manufacturing centers, unlocking over 48% dispensary gross margin for partner veterinary practices.": {
+    "ko": "SISTAR MedIX Clinical Edition은 제조 센터에서 컴팩트한 고부가가치 마이크로 사셰 처방 박스를 직배송하여 파트너 동물병원에 48% 이상의 원내 매출총이익률(Gross Margin)을 실현합니다."
+  },
+  "CHAPTER 06 CLINICAL OUTCOME AUDIT": {
+    "ko": "CHAPTER 06 임상 성과 감사"
+  },
+  "6. Clinical Survival & Biochemical Stabilization Data": {
+    "ko": "6. 임상 생존율 및 생화학적 안정화 데이터"
+  },
+  "In a 12-month observational trial across 22 partner veterinary hospitals, companion felines diagnosed with Stage 2 and Stage 3 Chronic Kidney Disease were tracked under SISTAR MedIX Renal Care.": {
+    "ko": "22개 파트너 동물병원에서 진행된 12개월간의 관찰 임상 시험을 통해, 만성 신장 질환(CKD) 2기 및 3기 진단을 받은 반려묘를 대상으로 SISTAR MedIX Renal Care 급여 하에 추적 관찰을 수행했습니다."
+  },
+  "Clinical Biomarker": {
+    "ko": "임상 바이오마커"
+  },
+  "Baseline Day 0": {
+    "ko": "기준 시점 (Day 0)"
+  },
+  "Day 90 on MedIX": {
+    "ko": "MedIX 급여 90일차"
+  },
+  "Day 180 on MedIX": {
+    "ko": "MedIX 급여 180일차"
+  },
+  "Serum Creatinine (mg/dL)": {
+    "ko": "혈청 크레아티닌 (mg/dL)"
+  },
+  "Statistically significant glomerular stabilization": {
+    "ko": "통계적으로 유의미한 사구체 안정화"
+  },
+  "Serum Phosphorus (mg/dL)": {
+    "ko": "혈청 인 (mg/dL)"
+  },
+  "Complete normalization to IRIS target ranges": {
+    "ko": "IRIS 목표 범위로의 완전한 정상화"
+  },
+  "Blood Urea Nitrogen (BUN)": {
+    "ko": "혈액요소질소 (BUN)"
+  },
+  "Elimination of clinical uremic nausea": {
+    "ko": "임상적 요독성 구역 증상 소실"
+  },
+  "Median Survival Time (Days)": {
+    "ko": "중앙 생존 기간 (일)"
+  },
+  "Historical: 280d": {
+    "ko": "과거 대조군: 280일"
+  },
+  "Tracked: 640+ days": {
+    "ko": "추적 관찰: 640일 이상"
+  },
+  "Over 2.2x extension in high-quality lifespan": {
+    "ko": "질적 기대 수명 2.2배 이상 연장"
+  },
+  "CHAPTER 07 INSTITUTIONAL PARTNERSHIP": {
+    "ko": "CHAPTER 07 기관 파트너십"
+  },
+  "7. Empowering the Healers of Companion Animals": {
+    "ko": "7. 반려동물 임상의를 위한 전문 권한 강화"
+  },
+  "Veterinary clinicians dedicate their lives to diagnosing disease and alleviating animal suffering. SISTAR MedIX Clinical Edition ensures they possess the biochemical tools, AI intelligence, and economic sovereignty necessary to fulfill that noble calling.": {
+    "ko": "수의 임상의들은 질병을 진단하고 동물의 고통을 경감하는 데 평생을 헌신합니다. SISTAR MedIX Clinical Edition은 임상의들이 이러한 숭고한 소명을 완수할 수 있도록 필수 생화학 툴, AI 인텔리전스, 그리고 경제적 주권을 확고히 보장합니다."
+  },
+  "\"Clinical veterinary medicine must be governed by scientific truth and animal welfare, not the profit quotas of commercial pet food conglomerates. We put clinical prescription mastery back into the hands of the veterinarian.\"": {
+    "ko": "\"임상 수의학은 상업적 펫푸드 독과점 대기업의 이윤 할당량이 아닌, 과학적 진실과 동물 복지에 의해 주도되어야 합니다. 당사는 임상 처방의 통제권을 수의사의 손으로 되돌려 놓습니다.\""
+  },
+  "MONOGRAPH BG-0302 • HOSPITAL EDITION": {
+    "ko": "모노그래프 BG-0302 • 병원용 에디션"
+  },
+  "PRESCRIPTION CLINICAL DIETS • AI DIAGNOSTIC DISPENSARY": {
+    "ko": "처방용 임상 다이어트 • AI 진단 조제 시스템"
+  },
+  "Executive Brief: Hospital-Grade Therapeutic Nutrition": {
+    "ko": "경영진 브리프: 원내 등급 치료 영양학"
+  },
+  "Veterinary hospitals have historically been dependent on a small oligopoly of multi-national pet food conglomerates that control prescription diet supply lines, dictate exorbitant wholesale pricing, and restrict clinic inventory margins. SISTAR MedIX Clinical Edition restores clinical sovereignty to veterinarians. By uniting advanced South Korean pharmaceutical extrusion with our proprietary Auto-Formulator AI engine, we deliver custom clinical diets formulated to precise serum biomarker parameters (BUN, Creatinine, ALT, Blood Glucose) directly to hospital dispensaries.": {
+    "ko": "역사적으로 동물병원은 처방식 공급망을 장악하고 과도한 도매가를 강요하며 병원 재고 마진을 제한해 온 소수 다국적 펫푸드 과점 기업에 의존해 왔습니다. SISTAR MedIX Clinical Edition은 수의사에게 임상 주권을 되찾아 줍니다. 한국의 첨단 제약급 압출 가공 기술과 독자적인 Auto-Formulator AI 엔진을 결합하여, 정밀 혈청 바이오마커 파라미터(BUN, 크레아티닌, ALT, 혈당)에 맞춰 맞춤 설계된 임상 처방식을 원내 조제처로 직접 공급합니다."
+  },
+  "CLINICAL CHALLENGE": {
+    "ko": "임상적 과제"
+  },
+  "IN-CLINIC WORKFLOW": {
+    "ko": "원내 워크플로우"
+  },
+  "METABOLIC NUTRITIONAL DYNAMICS": {
+    "ko": "대사 영양 역학"
+  },
+  "HOSPITAL PRESCRIPTION PORTFOLIO": {
+    "ko": "병원 처방 포트폴리오"
+  },
+  "HOSPITAL DISPENSARY ECONOMICS": {
+    "ko": "병원 원내 조제 경제성 분석"
+  },
+  "CLINICAL OUTCOME AUDIT": {
+    "ko": "임상 치료 결과 감사(Audit)"
+  },
+  "INSTITUTIONAL PARTNERSHIP": {
+    "ko": "기관 간 전략적 파트너십"
+  },
+  "MONOGRAPH BG-0303 • PHYTOMEDICINE SPECIALTY INTEGRATIVE PHYTOTHERAPY • CLINICAL BOTANICAL FORMULATIONS": {
+    "ko": "모노그래프 BG-0303 • 식물의학 전문 통합 식물요법 • 임상 식물 추출 제형"
+  },
+  "*SC — SISTAR MedIX Botanical Edition: Integrative Veterinary Phytomedicine": {
+    "ko": "*SC — SISTAR MedIX Botanical Edition: 통합 수의 식물의학"
+  },
+  "SISTAR MedIX Botanical Edition provides standardized, evidence-based phytopharmacological therapeutics for clinical veterinary practice. By integrating standardized plant bio-actives—including ginsenosides, boswellic acids, silymarin, and berberine—it delivers gentle yet potent organoprotection, oncology adjuvant support, and systemic inflammation control.": {
+    "ko": "SISTAR MedIX Botanical Edition은 수의 임상 현장을 위해 표준화된 근거 기반 식물약리학적 치료제를 제공합니다. 진세노사이드, 보스웰산, 실리마린, 베르베린 등 표준화된 식물 유래 생리활성 물질을 융합함으로써, 온화하면서도 강력한 장기 보호, 종양 보조 치료 및 전신 염증 제어를 실현합니다."
+  },
+  "Guaranteed Bio-Active Assay Potency": {
+    "ko": "생리활성 분석 역가 보증"
+  },
+  "Non-Steroidal Immune Modulation": {
+    "ko": "비스테로이드성 면역 조절"
+  },
+  "Concentrated Silybum Marianum Complex": {
+    "ko": "고농축 밀크씨슬(Silybum Marianum) 복합체"
+  },
+  "Cleanroom Supercritical Extraction": {
+    "ko": "클린룸 초임계 추출 공정"
+  },
+  "CHAPTER 01 PHARMACOLOGICAL RATIONALE": {
+    "ko": "제01장 약리학적 근거"
+  },
+  "1. The Therapeutic Renaissance of Veterinary Pharmacognosy": {
+    "ko": "1. 수의 생약학의 치료학적 르네상스"
+  },
+  "For decades, natural botanicals were dismissed in conventional veterinary hospitals due to lack of standardization, variable soil contaminant profiles, and unquantified dosage metrics. However, single-target synthetic pharmaceuticals frequently induce severe secondary organ damage when administered for chronic conditions—such as NSAID-induced gastric ulceration or corticosteroid-induced iatrogenic Cushing's syndrome.": {
+    "ko": "수십 년간 천연 식물 추출물은 표준화 결여, 토양 오염물질 프로파일의 불균일성, 정량화되지 않은 투약 지표로 인해 기존 동물병원에서 배제되어 왔습니다. 그러나 단일 타깃 합성 화학의약품은 만성 질환 치료 시 NSAID 유발성 위궤양이나 코르티코스테로이드 유발성 의원성 쿠싱 증후군과 같은 심각한 이차 장기 손상을 빈번히 초래합니다."
+  },
+  "SISTAR MedIX Botanical Edition overcomes historical limitations by treating botanicals with the same pharmacological rigor as synthetic small molecules. By standardizing extract ratios and identifying molecular mechanisms of action (such as NF-&kappa;B inhibition, Nrf2 pathway activation, and p53 upregulation), MedIX Botanical provides clinicians with reliable adjuvant tools.": {
+    "ko": "SISTAR MedIX Botanical Edition은 합성 저분자 화합물과 동등한 약리학적 엄격성을 식물 추출물에 적용함으로써 기존의 한계를 극복합니다. 추출 비율을 표준화하고 분자 작용 기전(예: NF-κB 억제, Nrf2 경로 활성화, p53 상향 조절)을 규명함으로써, MedIX Botanical은 임상의에게 신뢰할 수 있는 보조 치료 툴을 제공합니다."
+  },
+  "Variable Potency & Contamination Risks": {
+    "ko": "역가 변동성 및 오염 리스크"
+  },
+  "Raw powders exhibit wild batch-to-batch fluctuations in active molecules, potential fungal aflatoxins, pesticide residues, and uncharacterized metabolic breakdown products.": {
+    "ko": "가공되지 않은 원말은 유효 분자의 배치(Batch) 간 심각한 편차, 잠재적 진균성 아플라톡신, 잔류 농약 및 미확인 대사 분해 산물을 내포합니다."
+  },
+  "Chromatographic Fingerprinting & Purity": {
+    "ko": "크로마토그래피 핑거프린팅 및 순도 검증"
+  },
+  "Supercritical CO2 extracted, HPLC-validated active thresholds, tested for heavy metals (<0.1 ppm), with documented pharmacokinetic half-lives in canine and feline models.": {
+    "ko": "초임계 이산화탄소(CO2) 추출 및 HPLC 검증 활성 임계치 적용, 중금속 정밀 검사(<0.1 ppm) 완료, 개 및 고양이 모델 대상 약동학적 반감기 데이터 규명."
+  },
+  "CHAPTER 02 PHYTOMEDICINE PIPELINE": {
+    "ko": "제02장 식물의약 파이프라인"
+  },
+  "2. Standardized Botanical Extraction & Quality Gauntlet": {
+    "ko": "2. 표준화된 식물 추출 공정 및 품질 검증 관문"
+  },
+  "Every botanical therapeutic under SISTAR MedIX Botanical Edition is subjected to a rigorous 4-step refinement pipeline prior to clinical packaging.": {
+    "ko": "SISTAR MedIX Botanical Edition의 모든 식물 치료제는 임상 패키징 이전에 엄격한 4단계 정제 파이프라인을 거칩니다."
+  },
+  "CHAPTER 03 PHARMACOKINETIC MODELING": {
+    "ko": "제03장 약동학적 모델링"
+  },
+  "3. Mathematical Modeling of Phytosome Bioavailability Enhancement": {
+    "ko": "3. 파이토솜(Phytosome) 생체이용률 증대의 수학적 모델링"
+  },
+  "Standard botanical polyphenols and triterpenes exhibit poor oral absorption (<5% bioavailability) due to low water solubility and rapid hepatic glucuronidation. MedIX complexation with phosphatidylcholine molecules creates a lipophilic phytosome vehicle that shields the molecule during intestinal transport.": {
+    "ko": "표준 식물성 폴리페놀 및 트리테르펜은 낮은 수용성과 신속한 간 글루쿠론산 포합으로 인해 경구 흡수율이 저조합니다(생체이용률 <5%). MedIX의 포스파티딜콜린 분자 복합체화 기술은 지용성 파이토솜 전달체를 형성하여 장관 수송 중 해당 분자를 보호합니다."
+  },
+  "Where $F_{\\text{phyt}}$ is the enhanced fractional bioavailability, $D$ is dose, $V_d$ is distribution volume, and $k_e$ is elimination rate. The $6.42\\times$ increase in plasma AUC permits therapeutic efficacy at lower oral doses, completely preventing gastric upset or nausea in delicate veterinary oncology patients.": {
+    "ko": "여기서 $F_{\\text{phyt}}$는 증대된 분획 생체이용률, $D$는 투여 용량, $V_d$는 분포 용적, $k_e$는 소실률을 의미합니다. 혈장 AUC의 6.42배 증가는 보다 낮은 경구 용량에서도 치료 효능을 발휘하게 하여, 취약한 수의 종양 환자군에서 위장 장애나 오심을 완벽히 차단합니다."
+  },
+  "CHAPTER 04 CLINICAL FORMULATION MATRIX": {
+    "ko": "제04장 임상 제형 매트릭스"
+  },
+  "4. Standardized Botanical Therapeutics Portfolio": {
+    "ko": "4. 표준화된 식물 치료제 포트폴리오"
+  },
+  "The SISTAR MedIX Botanical Edition features targeted clinical formulations designed to co-administer alongside conventional therapies without competitive metabolic inhibition.": {
+    "ko": "SISTAR MedIX Botanical Edition은 경쟁적 대사 억제 없이 표준 치료법과 병용 투여할 수 있도록 정밀 설계된 표적 임상 제형을 제공합니다."
+  },
+  "Product Name": {
+    "ko": "제품명"
+  },
+  "Primary Standardized Active": {
+    "ko": "주요 표준화 유효성분"
+  },
+  "Therapeutic Indication": {
+    "ko": "치료 적응증"
+  },
+  "Clinical Mechanism": {
+    "ko": "임상 작용 기전"
+  },
+  "Ginsenoside Rg3 / Rh2 + Coriolus versicolor PSK": {
+    "ko": "진세노사이드 Rg3 / Rh2 + 운지버섯(Coriolus versicolor) PSK"
+  },
+  "Canine Lymphoma / Hemangiosarcoma": {
+    "ko": "반려견 림프종 / 혈관육종"
+  },
+  "Inhibition of tumor angiogenesis (VEGF) & NK-cell stimulation": {
+    "ko": "종양 혈관신생(VEGF) 억제 및 NK세포 활성화"
+  },
+  "Phospholipid-Bound Silymarin (85%)": {
+    "ko": "인지질 결합형 실리마린 (85%)"
+  },
+  "Toxic Hepatitis, Elevated ALT/AST": {
+    "ko": "독성 간염, ALT/AST 수치 상승"
+  },
+  "Stabilizes hepatocyte cell membranes; boosts intracellular glutathione": {
+    "ko": "간세포막 안정화 및 세포 내 글루타치온 증대"
+  },
+  "3-O-Acetyl-11-Keto-&beta;-Boswellic Acid (AKBA 30%)": {
+    "ko": "3-O-아세틸-11-케토-&beta;-보스웰릭산 (AKBA 30%)"
+  },
+  "Brain Tumors, Intervertebral Disc Disease (IVDD)": {
+    "ko": "뇌종양, 추간판 질환(IVDD)"
+  },
+  "Selective 5-LOX inhibition without gastric mucosal injury": {
+    "ko": "위점막 손상 없는 선택적 5-LOX 억제"
+  },
+  "Berberine HCl (98%) + Cinnamon Polyphenols": {
+    "ko": "베르베린 염산염(98%) + 계피 폴리페놀"
+  },
+  "Canine Metabolic Syndrome & Insulin Resistance": {
+    "ko": "반려견 대사증후군 및 인슐린 저항성"
+  },
+  "Activates AMP-activated protein kinase (AMPK); lowers fasting glucose": {
+    "ko": "AMP 활성화 단백질 키나아제(AMPK) 활성화 및 공복 혈당 강하"
+  },
+  "CHAPTER 05 MULTI-CENTER CLINICAL DATA": {
+    "ko": "CHAPTER 05 다기관 임상 데이터"
+  },
+  "5. Clinical Oncology Adjuvant Evidence: Quality-of-Life Index": {
+    "ko": "5. 종양 보조 요법의 임상적 근거: 삶의 질(QoL) 지표"
+  },
+  "In a 180-day clinical multi-center trial involving 65 dogs undergoing standard CHOP chemotherapy for multicentric lymphoma, the co-administration of MedIX Onco-Adjuvant resulted in marked improvements in the validated Canine Health-Related Quality of Life (HRQoL) score.": {
+    "ko": "다발성 림프종으로 표준 CHOP 화학요법을 받는 환견 65두를 대상으로 한 180일간의 다기관 임상시험에서, MedIX Onco-Adjuvant의 병용 투여는 검증된 반려견 건강 관련 삶의 질(HRQoL) 지표의 현저한 개선을 도출했습니다."
+  },
+  "CHAPTER 06 SAFETY AUDIT & DRUG INTERACTIONS": {
+    "ko": "CHAPTER 06 안전성 평가 및 약물 상호작용"
+  },
+  "6. Cytochrome P450 Safety & Herb-Drug Compatibility": {
+    "ko": "6. 시토크롬 P450 안전성 및 천연물-의약품 병용 적합성"
+  },
+  "A critical responsibility in integrative veterinary phytomedicine is ensuring botanical compounds do not inhibit hepatic Cytochrome P450 (CYP) enzymes, which could unpredictably elevate circulating pharmaceutical blood levels.": {
+    "ko": "통합 수의 식물의학(Veterinary Phytomedicine)의 핵심적 책무는 식물성 활성 물질이 간의 시토크롬 P450(CYP) 효소를 억제하여 순환기 내 처방 약물 농도를 비정상적으로 상승시키지 않도록 통제하는 것입니다."
+  },
+  "Botanical Active": {
+    "ko": "식물성 유효성분"
+  },
+  "Major CYP Isoform Tested": {
+    "ko": "시험 대상 주요 CYP 동종효소"
+  },
+  "In Vitro Inhibitory Constant (IC50)": {
+    "ko": "In Vitro 억제 상수(IC50)"
+  },
+  "Compatibility with Standard Veterinary Rx": {
+    "ko": "표준 수의 처방의약품과의 병용 적합성"
+  },
+  "Rg3/Rh2 Ginsenosides": {
+    "ko": "Rg3/Rh2 진세노사이드"
+  },
+  "> 100 &mu;M (Negligible inhibition)": {
+    "ko": "> 100 &mu;M (무시할 수 있는 수준의 억제 작용)"
+  },
+  "Safe with Chemotherapy (Doxorubicin, Vincristine)": {
+    "ko": "항암화학요법(독소루비신, 빈크리스틴) 병용 안전성 확보"
+  },
+  "Silybin Phosphatidylcholine": {
+    "ko": "실리빈 포스파티딜콜린"
+  },
+  "> 75 &mu;M (Protective down-regulation)": {
+    "ko": "> 75 &mu;M (보호적 하향 조절)"
+  },
+  "Safe with Antibiotics & NSAIDs (Protects liver)": {
+    "ko": "항생제 및 NSAID 병용 안전 (간 보호 작용)"
+  },
+  "AKBA Boswellic Acid": {
+    "ko": "AKBA 보스웰리아산"
+  },
+  "> 50 &mu;M (Non-competitive)": {
+    "ko": "> 50 &mu;M (비경쟁적 억제)"
+  },
+  "Safe with Prednisolone & Gabapentin": {
+    "ko": "프레드니솔론 및 가바펜틴 병용 안전"
+  },
+  "Berberine Phytosome": {
+    "ko": "베르베린 파이토솜"
+  },
+  "Monitored titration recommended": {
+    "ko": "모니터링 하의 용량 적정 권장"
+  },
+  "Separate dosing by 2 hours from Cardiac Glycosides": {
+    "ko": "강심배당체 투약 시 2시간 간격 유지"
+  },
+  "CHAPTER 07 INTEGRATIVE HORIZONS": {
+    "ko": "제07장 통합적 지평 (CHAPTER 07 INTEGRATIVE HORIZONS)"
+  },
+  "7. The Harmony of Ancient Botanicals and Modern Clinical Medicine": {
+    "ko": "7. 고대 식물성 의약과 현대 임상의학의 조화"
+  },
+  "SISTAR MedIX Botanical Edition proves that veterinary medicine does not need to choose between cold synthetic pharmacology and unverified folklore. By subjecting traditional botanical healers to the highest standards of chromatography, cellular assays, and clinical trials, we provide pets with the safest and most holistic healing possible.": {
+    "ko": "SISTAR MedIX Botanical Edition은 수의학이 인위적인 합성 약리학과 과학적으로 입증되지 않은 민간요법 사이에서 양자택일할 필요가 없음을 증명합니다. 당사는 전통 식물 치유제를 최고 기준의 크로마토그래피, 세포 분석 및 임상시험을 거쳐 정밀 검증함으로써, 반려동물에게 가장 안전하고 전인적인 치료 솔루션을 제공합니다."
+  },
+  "\"Nature is the ultimate organic chemist. When standardized with molecular precision, botanical medicine offers powerful, non-toxic healing that honors the biological resilience of every living creature.\"": {
+    "ko": "\"자연은 궁극의 유기화학자입니다. 분자 수준의 정밀성으로 표준화될 때, 식물성 의약은 모든 생명체의 생물학적 회복력을 극대화하는 강력하고 무독성의 치유를 제공합니다.\""
+  },
+  "MONOGRAPH BG-0303 • PHYTOMEDICINE SPECIALTY": {
+    "ko": "모노그래프 BG-0303 • 식물성의학 전문 분야"
+  },
+  "INTEGRATIVE PHYTOTHERAPY • CLINICAL BOTANICAL FORMULATIONS": {
+    "ko": "통합 식물요법 • 임상 식물 제형"
+  },
+  "Clinical Product Brief: Standardized Botanical Oncology & Organ Defense": {
+    "ko": "임상 제품 개요: 표준화된 식물성 종양 치료 및 장기 보호 제형"
+  },
+  "Modern veterinary medicine frequently exhausts synthetic pharmaceutical options when treating chronic geriatric multi-organ disease, cancer cachexia, or refractory autoimmune conditions. SISTAR MedIX Botanical Edition bridges Western clinical rigor with Eastern pharmacognosy. Each formula is standardized via High-Performance Liquid Chromatography (HPLC) to guarantee exact milligram active biomarker delivery without toxic residual solvents, heavy metals, or herb-drug interactions.": {
+    "ko": "현대 수의학은 만성 노령성 다발성 장기 질환, 암 악액질, 또는 난치성 자가면역 질환 치료 시 합성 의약품의 한계에 빈번하게 봉착합니다. SISTAR MedIX Botanical Edition은 서양의학의 임상적 엄격성과 동양 생약학을 유기적으로 통합합니다. 모든 포뮬러는 고성능 액체 크로마토그래피(HPLC)를 통해 표준화되어 잔류 유독 용매, 중금속 또는 약물 상호작용 위험 없이 정확한 밀리그램 단위의 활성 바이오마커 전달을 보장합니다."
+  },
+  "PHARMACOLOGICAL RATIONALE": {
+    "ko": "약리학적 근거"
+  },
+  "PHYTOMEDICINE PIPELINE": {
+    "ko": "식물성의약 파이프라인"
+  },
+  "PHARMACOKINETIC MODELING": {
+    "ko": "약동학 모델링"
+  },
+  "CLINICAL FORMULATION MATRIX": {
+    "ko": "임상 제형 매트릭스"
+  },
+  "MULTI-CENTER CLINICAL DATA": {
+    "ko": "다기관 임상 데이터"
+  },
+  "SAFETY AUDIT & DRUG INTERACTIONS": {
+    "ko": "안전성 감사 및 약물 상호작용"
+  },
+  "INTEGRATIVE HORIZONS": {
+    "ko": "통합적 지평"
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-03 VETERINARY CLINICAL SPECIALTIES • CLUSTER ARCHITECTURE": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-03 수의 임상 전문 분야 • 클러스터 아키텍처"
+  },
+  "*SC — SISTAR MedIX Petclinic: Veterinary Specialty Command Hub": {
+    "ko": "*SC — SISTAR MedIX Petclinic: 수의 전문 임상 커맨드 허브"
+  },
+  "The SISTAR MedIX Petclinic cluster serves as the institutional clinical veterinary medicine command hub of the Signal Star Universe. Integrating specialized orthopedic non-surgical management (CHD), hospital-grade prescription dietetics (Clinical Edition), and standardized phytomedicine (Botanical Edition), the cluster empowers independent veterinary hospitals across 8 international bases with sovereign diagnostic, therapeutic, and economic capabilities.": {
+    "ko": "SISTAR MedIX Petclinic 클러스터는 Signal Star Universe의 기관급 수의 임상 의학 커맨드 허브 역할을 수행합니다. 정형외과 비수술적 관리(CHD), 원내 처방식 임상 영양학(Clinical Edition), 표준화된 식물성 생약 치료(Botanical Edition)를 통합하여, 8개 글로벌 거점의 독립 동물병원에 독자적인 진단·치료 및 경제적 역량을 부여합니다."
+  },
+  "Orthopedics, Hospital Rx & Botanicals": {
+    "ko": "정형외과, 원내 처방(Rx) 및 식물의약품"
+  },
+  "Partner Network Across East & SE Asia": {
+    "ko": "동아시아 및 동남아시아 전역의 파트너 네트워크"
+  },
+  "Retained by Partner Hospital Dispensaries": {
+    "ko": "파트너 병원 조제실 귀속 수익"
+  },
+  "Direct Factory-to-Dispensary Pipeline": {
+    "ko": "제조 공장 직송 원내 조제실 파이프라인"
+  },
+  "CHAPTER 01 CLUSTER ARCHITECTURE": {
+    "ko": "CHAPTER 01 클러스터 아키텍처"
+  },
+  "1. The 3 Clinical Pillars of the SISTAR MedIX Cluster": {
+    "ko": "1. SISTAR MedIX 클러스터의 3대 임상 축"
+  },
+  "The SISTAR MedIX Petclinic cluster unites three focused clinical domains into a synergistic ecosystem:": {
+    "ko": "SISTAR MedIX Petclinic 클러스터는 3가지 핵심 임상 영역을 결합하여 시너지 생태계를 구축합니다:"
+  },
+  "Non-Surgical Hip Dysplasia": {
+    "ko": "비수술적 고관절 이형성증(CHD) 관리"
+  },
+  "AI PennHIP scoring, joint unloading biomechanics, UC-II oral tolerization, and intensive hydrotherapy protocols that avoid $9,000 surgical hip replacements in 82% of patients.": {
+    "ko": "환자의 82%에서 9,000달러 규모의 고관절 전치환술을 방지하는 AI PennHIP 스코어링, 관절 하중 분산 생체역학, UC-II 경구 면역관용 유도 및 집중 수두요법 프로토콜."
+  },
+  "Hospital Prescription Diets": {
+    "ko": "원내 임상 처방식"
+  },
+  "Stage-specific IRIS renal diets, hepatic support pastes, critical recovery tube-feeding emulsions, and diabetic glycemic controls delivered straight to clinic dispensaries.": {
+    "ko": "단계별 IRIS 신장 질환 처방식, 간 기능 보조 페이스트, 중환자 회복용 튜브 급여 에멀젼 및 당뇨 혈당 제어식을 동물병원 조제실로 직접 공급."
+  },
+  "Integrative Phytomedicine": {
+    "ko": "통합 식물의학(Phytomedicine)"
+  },
+  "HPLC-standardized botanical extracts (ginsenosides, silymarin, boswellic acids) for gentle, non-steroidal organ protection, oncology adjuvant therapy, and chronic pain modulation.": {
+    "ko": "비침습적·비스테로이드성 장기 보호, 종양 보조 치료 및 만성 통증 조절을 위한 HPLC 표준화 식물 추출물(진세노사이드, 실리마린, 보스웰산)."
+  },
+  "CHAPTER 02 INTEGRATED CLINICAL LOOP": {
+    "ko": "CHAPTER 02 통합 임상 루프"
+  },
+  "2. Unified Patient Journey & Clinical Decision Pipeline": {
+    "ko": "2. 통합 환자 여정 및 임상 의사결정 파이프라인"
+  },
+  "The diagram below demonstrates how the SISTAR MedIX Petclinic cluster orchestrates in-hospital patient intake, AI diagnostic interpretation, staged multimodal treatment, and chronic outpatient home maintenance.": {
+    "ko": "아래 다이어그램은 SISTAR MedIX Petclinic 클러스터가 원내 환자 접수, AI 진단 판독, 단계별 다중 모달 치료 및 만성 외래 환자 재택 관리를 어떻게 유기적으로 오케스트레이션하는지 보여줍니다."
+  },
+  "3. Mathematical Formalism of Multi-Modal Clinical Efficacy (MMCE)": {
+    "ko": "3. 다중 모달 임상 효능(MMCE)의 수학적 정식화"
+  },
+  "In complex veterinary multi-organ disease, monotherapy consistently fails due to compensatory pathological pathways. SISTAR MedIX models therapeutic success through a Multi-Modal Clinical Efficacy (MMCE) index that calculates the multiplicative synergy of nutrition, phytotherapy, and mechanical unloading.": {
+    "ko": "복합적인 수의 다발성 장기 질환에서 단일 요법은 보상적 병리 경로로 인해 지속적인 한계에 직면합니다. SISTAR MedIX는 영양학, 식물 치료 및 역학적 하중 분산의 승법적 시너지를 산출하는 다중 모달 임상 효능(MMCE) 지표를 통해 치료적 성공을 모델링합니다."
+  },
+  "Where $\\epsilon_{\\text{Diet}} \\approx 0.52$ (biochemical substrate correction), $\\epsilon_{\\text{Phyto}} \\approx 0.44$ (inflammatory pathway blockade), and $\\epsilon_{\\text{Biomech}} \\approx 0.48$ (stress unloading). While any single modality yields moderate response ($\\sim 45\\%$), their entangled combination achieves an $\\text{MMCE} \\approx 86.1\\%$, transforming previously intractable chronic cases into stabilized clinical remissions.": {
+    "ko": "여기서 $\\epsilon_{\\text{Diet}} \\approx 0.52$(생화학적 기질 교정), $\\epsilon_{\\text{Phyto}} \\approx 0.44$(염증 경로 차단), $\\epsilon_{\\text{Biomech}} \\approx 0.48$(응력 부하 분산)입니다. 단일 모달리티는 중간 수준의 반응($\\sim 45\\%$)에 그치지만, 상호 결합된 접근법은 $\\text{MMCE} \\approx 86.1\\%$를 달성하여 기존에 치료 불가능했던 만성 질환을 안정적인 임상적 관해 상태로 전환합니다."
+  },
+  "CHAPTER 04 DISPENSARY COMPARISON MATRIX": {
+    "ko": "CHAPTER 04 조제실 비교 매트릭스"
+  },
+  "4. Veterinary Hospital Economics: Legacy vs. SISTAR MedIX": {
+    "ko": "4. 동물병원 경제성 분석: 레거시 vs. SISTAR MedIX"
+  },
+  "The matrix below illustrates the systemic transformation experienced by veterinary hospitals adopting the integrated SISTAR MedIX dispensary platform.": {
+    "ko": "아래 매트릭스는 통합 SISTAR MedIX 조제실 플랫폼을 도입한 동물병원이 경험하는 구조적 전환을 보여줍니다."
+  },
+  "Hospital Operating Dimension": {
+    "ko": "병원 운영 차원"
+  },
+  "Legacy Multinational Petfood Importer": {
+    "ko": "기존 다국적 펫푸드 수입업체"
+  },
+  "SISTAR MedIX Petclinic Network": {
+    "ko": "SISTAR MedIX Petclinic 네트워크"
+  },
+  "Net Clinical / Financial Delta": {
+    "ko": "임상적 / 재무적 순수 변화치(Delta)"
+  },
+  "Dispensary Gross Margin": {
+    "ko": "조제실 매출총이익률(Gross Margin)"
+  },
+  "+25.5% Direct Margin Gain": {
+    "ko": "+25.5% 직접 마진 개선"
+  },
+  "Inventory Working Capital": {
+    "ko": "재고 운전자본"
+  },
+  "$8,000 - $12,000 (Bulky dry bags)": {
+    "ko": "$8,000 - $12,000 (대용량 건식 백)"
+  },
+  "$1,500 - $2,500 (Compact sachets)": {
+    "ko": "$1,500 - $2,500 (컴팩트 사셰)"
+  },
+  "78% reduction in tied-up cash": {
+    "ko": "묶인 현금 자산 78% 절감"
+  },
+  "Client E-Commerce Leakage": {
+    "ko": "고객 이커머스 이탈"
+  },
+  "High (>60% buy online after Rx)": {
+    "ko": "높음 (처방 후 60% 이상 온라인 구매)"
+  },
+  "Zero (Exclusive clinic dispensary code)": {
+    "ko": "전무 (병원 전용 조제 코드 적용)"
+  },
+  "100% recurring client retention": {
+    "ko": "100% 지속 고객 유지율"
+  },
+  "Diagnostic Integration": {
+    "ko": "진단 시스템 연동"
+  },
+  "None (Manual brochure cross-check)": {
+    "ko": "전무 (브로슈어 수기 대조)"
+  },
+  "Real-time AI Analyzer API Link": {
+    "ko": "실시간 AI 분석기 API 연동"
+  },
+  "Instant personalized prescription generation": {
+    "ko": "맞춤형 처방 즉시 생성"
+  },
+  "CHAPTER 05 REGIONAL LOGISTICS NETWORK": {
+    "ko": "CHAPTER 05 권역별 물류 네트워크"
+  },
+  "5. Factory-to-Clinic Aseptic Supply Chain": {
+    "ko": "5. 제조공장-병원 직결 무균 공급망"
+  },
+  "SISTAR MedIX eliminates multiple tiers of speculative brokers, shipping directly from pharmaceutical-grade retort plants in South Korea to bonded veterinary distribution depots across Southeast Asia.": {
+    "ko": "SISTAR MedIX는 다단계 투기성 중개인을 배제하고, 대한민국의 제약 등급 레토르트 제조 시설에서 동남아시아 전역의 동물병원 보세 물류 허브로 직배송합니다."
+  },
+  "CHAPTER 06 PARTNERSHIP ONBOARDING": {
+    "ko": "CHAPTER 06 파트너십 온보딩"
+  },
+  "6. The SISTAR MedIX Hospital Alliance Framework": {
+    "ko": "6. SISTAR MedIX 동물병원 얼라이언스 프레임워크"
+  },
+  "Veterinary medical centers join the SISTAR MedIX alliance through a structured 3-phase accreditation program, gaining access to wholesale pricing, proprietary AI diagnostic software, and clinical continuing education seminars.": {
+    "ko": "동물의료센터는 체계화된 3단계 인증 프로그램을 통해 SISTAR MedIX 얼라이언스에 합류하며, 도매가 공급 혜택, 독자적인 AI 진단 소프트웨어 및 임상 보수교육 세미나 접근 권한을 부여받습니다."
+  },
+  "Alliance Tier": {
+    "ko": "얼라이언스 티어"
+  },
+  "Hospital Eligibility": {
+    "ko": "병원 자격 요건"
+  },
+  "Included Technology & Tooling": {
+    "ko": "제공 기술 및 툴"
+  },
+  "Commercial Term": {
+    "ko": "상업 조건"
+  },
+  "Tier 1: Clinical Partner": {
+    "ko": "티어 1: 클리니컬 파트너"
+  },
+  "Licensed private veterinary clinics": {
+    "ko": "면허를 보유한 로컬 동물병원"
+  },
+  "Prescription dispensary starter pack, AI dosing calculator web app": {
+    "ko": "처방 조제 스타터 팩, AI 투약량 계산기 웹 앱"
+  },
+  "45% Wholesale Margin • No MOQ": {
+    "ko": "45% 도매 마진 • 최소주문수량(MOQ) 없음"
+  },
+  "Tier 2: Specialty Center": {
+    "ko": "티어 2: 전문 의료 센터"
+  },
+  "Hospitals with in-house ultrasound & lab analyzers": {
+    "ko": "원내 초음파 및 랩 분석 장비를 보유한 병원"
+  },
+  "Full API integration with IDEXX/VetScan, PennHIP AI Distraction module": {
+    "ko": "IDEXX/VetScan과의 완전한 API 연동, PennHIP AI Distraction 모듈"
+  },
+  "48% Margin • 30-Day Open Credit": {
+    "ko": "48% 마진율 • 30일 외상매출 신용 결제(Open Credit)"
+  },
+  "Tier 3: University / Teaching": {
+    "ko": "티어 3: 대학 / 교육 연구기관"
+  },
+  "Veterinary medical schools & referral hospitals": {
+    "ko": "수의과대학 및 2차 연계 전문병원"
+  },
+  "Clinical trial research grants, custom batch formulation co-development": {
+    "ko": "임상시험 연구 보조금, 커스텀 배치 포뮬레이션 공동 개발"
+  },
+  "52% Margin • Direct ODM partnership": {
+    "ko": "52% 마진율 • 직접 ODM 파트너십"
+  },
+  "CHAPTER 07 CONSTITUTIONAL DESTINY": {
+    "ko": "CHAPTER 07 헌법적 소명(CONSTITUTIONAL DESTINY)"
+  },
+  "7. The Sovereign Destiny of Veterinary Medicine": {
+    "ko": "7. 수의학의 주권적 미래와 필연적 진로"
+  },
+  "The SISTAR MedIX Petclinic cluster establishes a new gold standard in companion animal healthcare. By uniting orthopedic precision, hospital prescription dietetics, and standardized phytomedicine into a sovereign clinical ecosystem, we ensure that veterinary hospitals lead the future of healing.": {
+    "ko": "SISTAR MedIX Petclinic 클러스터는 반려동물 헬스케어의 새로운 글로벌 표준(Gold Standard)을 수립합니다. 정형외과적 정밀성, 원내 처방 식이지도학, 표준화된 식물성 의약 바이오 솔루션을 단일 주권 임상 생태계로 결합함으로써, 수의 병원이 진정한 치유의 미래를 선도하도록 보장합니다."
+  },
+  "\"The veterinary clinic is the sacred sanctuary of healing. We provide the clinical tools, biochemical science, and economic independence necessary for veterinary practitioners to heal without compromise.\"": {
+    "ko": "\"수의 병원은 생명을 치유하는 성스러운 안식처입니다. 당사는 수의 임상의들이 어떠한 타협도 없이 치유에 전념할 수 있도록 필수 임상 도구, 생화학적 사이언스, 그리고 경제적 자립성을 완벽히 지원합니다.\""
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-03": {
+    "ko": "L2 지위 본부 모노그래프 • BG-03"
+  },
+  "VETERINARY CLINICAL SPECIALTIES • CLUSTER ARCHITECTURE": {
+    "ko": "수의 임상 전문과목 • 클러스터 아키텍처"
+  },
+  "Cluster Command Brief: Sovereign Veterinary Clinical Excellence": {
+    "ko": "클러스터 커맨드 브리프: 주권적 수의 임상 수월성"
+  },
+  "Independent veterinary practices face mounting commercial pressure from multinational corporate clinic consolidators and pet food conglomerate monopolies. SISTAR MedIX Petclinic delivers an integrated clinical defense: combining AI-driven diagnostic decision support, proprietary hospital-grade prescription therapeutics, and direct dispensary margins that restore economic sovereignty to independent veterinary surgeons.": {
+    "ko": "독립 수의 병원은 다국적 대기업의 클리닉 체인 통합화와 글로벌 펫푸드 독점 기업들로부터 가중되는 상업적 압박에 직면해 있습니다. SISTAR MedIX Petclinic은 AI 기반 진단 의사결정 지원, 독자적인 원내 전용 처방 치료제, 직접 조제 마진 체계를 통합하여 독립 수의사들의 경제적 주권을 근본적으로 회복하는 강력한 통합 임상 방어 체계를 제공합니다."
+  },
+  "CLUSTER ARCHITECTURE": {
+    "ko": "클러스터 아키텍처"
+  },
+  "INTEGRATED CLINICAL LOOP": {
+    "ko": "통합 임상 루프 (INTEGRATED CLINICAL LOOP)"
+  },
+  "DISPENSARY COMPARISON MATRIX": {
+    "ko": "원내 조제 비교 매트릭스"
+  },
+  "REGIONAL LOGISTICS NETWORK": {
+    "ko": "권역별 물류 네트워크"
+  },
+  "PARTNERSHIP ONBOARDING": {
+    "ko": "파트너십 온보딩"
+  },
+  "CONSTITUTIONAL DESTINY": {
+    "ko": "헌법적 소명 (CONSTITUTIONAL DESTINY)"
+  },
+  "MONOGRAPH BG-0401 • MARINE AQUACULTURE REEF LIFE SUPPORT • CORAL MICRO-PLANKTON NUTRITION": {
+    "ko": "모노그래프 BG-0401 • 해양 양식 리프 라이프 서포트 • 산호 마이크로 플랑크톤 영양학"
+  },
+  "*SC — SIS Marine: Marine Bio-Aquaculture & Reef Life Support Systems": {
+    "ko": "*SC — SIS Marine: 해양 바이오 양식 & 산호초 생명 유지 시스템(Reef Life Support Systems)"
+  },
+  "SIS Marine is the specialized marine bio-aquaculture and reef life support systems vertical under Aquasis. Operating closed-loop marine recirculating aquaculture systems (RAS), SIS Marine engineers ultra-pure bio-active micro-plankton pastes, photosynthetic zooxanthellae stimulants, and probiotic bacterial consortiums that sustain delicate stony corals (SPS/LPS) and exotic marine livestock.": {
+    "ko": "SIS Marine은 Aquasis 산하의 해양 바이오 양식 및 산호초 생명 유지 시스템 특화 수직계열화 조직입니다. 폐쇄 순환 여과 양식 시스템(RAS)을 가동하는 SIS Marine은 초고순도 생체 활성 마이크로 플랑크톤 페이스트, 광합성 와편모충(zooxanthellae) 활성 자극제, 프로바이오틱 박테리아 컨소시엄을 엔지니어링하여 연약한 경산호(SPS/LPS) 및 특수 해양 생물의 생명 유지를 지원합니다."
+  },
+  "Redfield Ratio Bio-Balancing": {
+    "ko": "레드필드 비(Redfield Ratio) 생물학적 밸런싱"
+  },
+  "Ultra-Low Phosphate Baseline Control": {
+    "ko": "극저 인산염 기준치(Ultra-Low Phosphate Baseline) 제어"
+  },
+  "Sustainable Captive-Bred Corals": {
+    "ko": "지속가능한 인공증식(Captive-Bred) 산호"
+  },
+  "Trans-Pacific Live Export Loss Rate": {
+    "ko": "환태평양 활어 수출 폐사율(Loss Rate)"
+  },
+  "CHAPTER 01 ECOLOGICAL EQUILIBRIUM": {
+    "ko": "CHAPTER 01 생태계 평형 (ECOLOGICAL EQUILIBRIUM)"
+  },
+  "1. The Biological Paradox of Captive Reef Systems": {
+    "ko": "1. 인공 리프 시스템의 생물학적 역설"
+  },
+  "In wild coral reefs, thousands of cubic meters of pristine oceanic water flush over stony coral polyps hourly, delivering microscopic bacterioplankton and picoplankton while carrying away metabolic waste. In captive closed-loop systems, feeding corals often causes nutrient spikes: nitrate and phosphate accumulate, fueling nuisance benthic dinoflagellates and cyanobacteria that choke out symbiotic zooxanthellae.": {
+    "ko": "자연 산호초에서는 시간당 수천 입방미터의 청정 해수가 경산호 폴립을 관류하며 미세 세균플랑크톤과 피코플랑크톤을 공급하는 동시에 대사 노폐물을 지속적으로 배출합니다. 반면 폐쇄 순환 인공 시스템에서는 산호 급이가 필연적으로 영양염 스파이크를 촉발합니다. 축적된 질산염과 인산염은 유해성 저서 와편모조류와 시아노박테리아의 번식을 유도하여 공생 와편모충을 질식시킵니다."
+  },
+  "SIS Marine resolves this ecological dilemma. Acting as the biotechnological core of Aquasis, it formulates concentrated micro-encapsulated feeds that are bio-available exclusively to coral polyps (10 - 50 microns) without leaching dissolved nutrients into the surrounding water column.": {
+    "ko": "SIS Marine은 이러한 생태학적 딜레마를 혁신적으로 해결합니다. Aquasis의 생명공학적 코어 역할을 수행하며, 주변 수체 내에 용존 영양염을 용출시키지 않고 오직 산호 폴립(10 - 50 마이크론)에만 선택적으로 생체 흡수되는 고농축 마이크로 캡슐화 사료를 조제합니다."
+  },
+  "Nutrient Pollution & Rapid RTN": {
+    "ko": "영양염류 오염 및 급성 조직 괴사(RTN)"
+  },
+  "Frozen mysis and unrefined broadcast feeds decay in sand beds, driving phosphate levels above 0.15 ppm. Rapid Tissue Necrosis (RTN) ensues, devastating delicate Acropora and Montipora colonies.": {
+    "ko": "냉동 마이시스 및 비정제 살포용 사료는 모래층(샌드베드) 내에서 부패하여 인산염 농도를 0.15 ppm 이상으로 급증시킵니다. 이에 수반되는 급성 조직 괴사(RTN, Rapid Tissue Necrosis)는 취약한 아크로포라(Acropora) 및 몬티포라(Montipora) 군락을 괴멸시킵니다."
+  },
+  "Polyp-Targeted Bio-Active Pastes": {
+    "ko": "폴립 표적형 생체 활성 페이스트"
+  },
+  "Lipid-membrane encapsulated phytoplankton and copepod eggs that remain intact until ingested by coral tentacles. Paired with Bacillus consortia that convert excess organics into harmless nitrogen gas.": {
+    "ko": "산호의 촉수에 포식될 때까지 온전한 상태를 유지하는 지질막 캡슐화 식물성 플랑크톤 및 요각류 알. 잉여 유기물을 무해한 질소 가스로 전환하는 바실러스(Bacillus) 컨소시엄과 결합되어 있습니다."
+  },
+  "CHAPTER 02 RAS LIFE SUPPORT ARCHITECTURE": {
+    "ko": "CHAPTER 02 순환여과양식(RAS) 생명유지 아키텍처"
+  },
+  "2. Closed-Loop Recirculating Aquaculture Life Support (RAS)": {
+    "ko": "2. 폐쇄 루프 순환여과양식 생명유지 시스템(RAS)"
+  },
+  "SIS Marine designs and operates modular Recirculating Aquaculture Systems (RAS) that combine physical protein fractionation, fluidized moving bed biofilm reactors (MBBR), and catalytic ozone oxidation.": {
+    "ko": "SIS Marine은 물리적 단백질 분획(Protein Fractionation), 유동상 생물막 반응기(MBBR), 촉매 오존 산화 공정을 통합한 모듈형 순환여과양식시스템(RAS)을 설계 및 운영합니다."
+  },
+  "CHAPTER 03 CALCIFICATION KINETICS": {
+    "ko": "CHAPTER 03 석회화 반응역학"
+  },
+  "3. Mathematical Modeling of Aragonite Saturation State (&Omega;arag)": {
+    "ko": "3. 아라고나이트 포화도(&Omega;arag)의 수학적 모델링"
+  },
+  "Stony coral calcification and skeletal extension depend directly on the aragonite saturation state $\\Omega_{\\text{arag}}$ of seawater. When $\\Omega_{\\text{arag}} > 4.0$, calcifying scleractinian polyps deposit calcium carbonate skeleton at peak velocity.": {
+    "ko": "경산호의 석회화 및 골격 신장은 해수의 아라고나이트 포화도 $\\Omega_{\\text{arag}}$에 직접적으로 의존합니다. $\\Omega_{\\text{arag}} > 4.0$ 조건에서 석회화 돌산호류 폴립은 최대 속도로 탄산칼슘 골격을 침착시킵니다."
+  },
+  "Where $K_{\\text{sp}}^*$ is the stoichiometric solubility product at salinity $S=35\\,\\text{ppt}$ and temperature $T=25.5^\\circ\\text{C}$, and $G_{\\text{calc}}$ is the net skeletal accretion rate. By maintaining $[\\text{Ca}^{2+}] \\approx 430\\,\\text{mg/L}$ and carbonate alkalinity at $8.4\\,\\text{dKH}$, SIS Marine locks in $\\Omega_{\\text{arag}} \\approx 4.35$, yielding coral calcification growth rates exceeding $2.8\\,\\text{mm/month}$ in captive mariculture.": {
+    "ko": "여기서 $K_{\\text{sp}}^*$는 염분 $S=35\\,\\text{ppt}$ 및 온도 $T=25.5^\\circ\\text{C}$에서의 화학량론적 용해도곱이며, $G_{\\text{calc}}$는 순 골격 축적률입니다. SIS Marine은 $[\\text{Ca}^{2+}] \\approx 430\\,\\text{mg/L}$ 및 탄산염 알칼리도 $8.4\\,\\text{dKH}$를 정밀 유지하여 $\\Omega_{\\text{arag}} \\approx 4.35$를 확정(lock-in)함으로써, 폐쇄형 해양양식 환경에서 월 $2.8\\,\\text{mm}$를 초과하는 산호 석회화 성장률을 달성합니다."
+  },
+  "CHAPTER 04 MARINE NUTRITIONAL PORTFOLIO": {
+    "ko": "CHAPTER 04 해양 영양 포트폴리오"
+  },
+  "4. Coral Nutrition & Reef Chemistry Products": {
+    "ko": "4. 산호 영양 및 리프 케미스트리(Reef Chemistry) 제품군"
+  },
+  "SIS Marine manufactures specialized bio-pastes, live plankton boosters, and pharmaceutical-grade ionic buffers for public aquariums and commercial aquaculture.": {
+    "ko": "SIS Marine은 공공 아쿠아리움 및 상업적 해양양식 시설을 위한 특수 바이오 페이스트, 활 플랑크톤 부스터, 의약품 등급의 이온 버퍼를 제조합니다."
+  },
+  "Active Composition": {
+    "ko": "유효 성분"
+  },
+  "Particle Size": {
+    "ko": "입자 크기"
+  },
+  "Target Marine Organism": {
+    "ko": "대상 해양 생물"
+  },
+  "Polyp-Boost Micro-Paste": {
+    "ko": "폴립-부스트 마이크로 페이스트"
+  },
+  "Isochrysis galbana + Marine Copepod Lipids": {
+    "ko": "Isochrysis galbana + 해양 요각류 지질"
+  },
+  "SPS Stony Corals (Acropora, Montipora)": {
+    "ko": "SPS 경산호(Acropora, Montipora)"
+  },
+  "LPS Coral Plump": {
+    "ko": "LPS 코랄 플럼프"
+  },
+  "Calanus finmarchicus + Marine Taurine": {
+    "ko": "Calanus finmarchicus + 해양 타우린"
+  },
+  "LPS Corals (Euphyllia, Scolymia, Acantho)": {
+    "ko": "LPS 연골산호(Euphyllia, Scolymia, Acantho)"
+  },
+  "Bacterio-Clean Bio-Consortium": {
+    "ko": "박테리오-클린 바이오 컨소시엄"
+  },
+  "Nitrifying Nitrosomonas & Bacillus subtilis": {
+    "ko": "질화균 Nitrosomonas 및 Bacillus subtilis"
+  },
+  "Cellular": {
+    "ko": "세포 단위"
+  },
+  "Nitrification & Organic Sludge Elimination": {
+    "ko": "질화 작용 및 유기 슬러지 제거"
+  },
+  "Ionic-Balance Macro Buffers": {
+    "ko": "이온 균형 매크로 버퍼"
+  },
+  "High-purity CaCl2, NaHCO3, MgCl2-6H2O": {
+    "ko": "고순도 CaCl2, NaHCO3, MgCl2-6H2O"
+  },
+  "Dissolved Ions": {
+    "ko": "용존 이온"
+  },
+  "CHAPTER 05 LIVE EXPORT PROTOCOLS": {
+    "ko": "CHAPTER 05 생체 수출 프로토콜"
+  },
+  "5. Trans-Pacific Live Marine Export Survival Architecture": {
+    "ko": "5. 환태평양 해양 생체 수출 생존 아키텍처"
+  },
+  "Shipping living corals and marine ornamental fish across international borders requires hyper-engineered packaging. Traditional bag shipping experiences 8-15% transit mortality due to ammonia toxicity and thermal shock.": {
+    "ko": "살아있는 산호 및 해양 관상어를 국경 너머로 운송하기 위해서는 초정밀 엔지니어링 패키징이 필수적입니다. 기존 비닐백 기반 운송은 암모니아 독성 및 열 충격으로 인해 8~15%의 운송 중 폐사율을 유발합니다."
+  },
+  "SIS Marine utilizes pressurized pure O2, zeolite ammonia-scavengers, and phase-change thermal gel blankets, maintaining mortality below 0.4% across 48-hour trans-Pacific flights.": {
+    "ko": "SIS Marine은 고압 순수 산소(O2), 제올라이트 암모니아 흡착제, 상변화 물질(PCM) 기반 서멀 젤 블랭킷을 도입하여, 48시간의 환태평양 항공 운송 전반에 걸쳐 폐사율을 0.4% 미만으로 통제합니다."
+  },
+  "6. Commercial Coral Reef Aquaculture vs. Wild Harvesting": {
+    "ko": "6. 상업용 산호초 양식 대 자연산 채집 비교"
+  },
+  "Global environmental regulations (CITES) are rightfully restricting wild collection of coral reefs. SIS Marine provides sustainable, captive mariculture alternatives that protect fragile wild reefs while delivering superior hardiness.": {
+    "ko": "글로벌 환경 규제(CITES)는 야생 산호초 채취를 엄격히 제한하고 있습니다. SIS Marine은 취약한 자연 산호초 군락을 보호하는 동시에 탁월한 생체 내구성을 제공하는 지속 가능한 인공 해양양식(Captive Mariculture) 대안을 제시합니다."
+  },
+  "Wild Sourced Coral Reefs": {
+    "ko": "자연 채집 산호초"
+  },
+  "SIS Marine Captive Aquaculture": {
+    "ko": "SIS Marine 인공 양식"
+  },
+  "Environmental & Commercial Delta": {
+    "ko": "환경적 및 상업적 델타(Delta)"
+  },
+  "Wild Reef Destruction": {
+    "ko": "자연 산호초 파괴"
+  },
+  "High (Direct extraction damages ocean)": {
+    "ko": "높음 (직접 채취로 인한 해양 생태계 훼손)"
+  },
+  "Zero (100% propagated frags)": {
+    "ko": "전무(Zero) (100% 인공 증식 프랙)"
+  },
+  "Fully sustainable marine conservation": {
+    "ko": "완전한 지속 가능 해양 보존"
+  },
+  "Transit Mortality Rate": {
+    "ko": "운송 중 폐사율"
+  },
+  "Under 0.4%": {
+    "ko": "0.4% 미만"
+  },
+  "Over 30x higher livability": {
+    "ko": "30배 이상의 생존율 향상"
+  },
+  "CITES Export Permit Complexity": {
+    "ko": "CITES 수출 허가 복잡성"
+  },
+  "Slow, unpredictable quota allocations": {
+    "ko": "지연되고 불확실한 쿼터 할당"
+  },
+  "Pre-Certified Sustainable Aquaculture": {
+    "ko": "사전 인증된 지속 가능 양식"
+  },
+  "Fast-track customs clearance": {
+    "ko": "신속 통관(Fast-track) 처리"
+  },
+  "Aquarium Hardiness": {
+    "ko": "수조 환경 적응력(Hardiness)"
+  },
+  "Poor (Wild stress, brownout bleaching)": {
+    "ko": "취약함 (야생 환경 스트레스, 브라운아웃 및 백화 현상)"
+  },
+  "Acclimated to artificial lighting & RAS": {
+    "ko": "인공 조명 및 RAS(순환여과양식시스템) 적응 완료"
+  },
+  "Immediate polyp extension upon placement": {
+    "ko": "수조 투입 즉시 폴립 확장"
+  },
+  "CHAPTER 07 OCEANIC STEWARDSHIP": {
+    "ko": "CHAPTER 07 해양 스튜어드십"
+  },
+  "7. Preserving the Living Jewels of the Ocean": {
+    "ko": "7. 바다의 살아있는 보석 보존"
+  },
+  "Coral reefs represent the most biodiverse, enchanting ecosystems on Earth. SIS Marine combines deep bio-aquaculture engineering with passionate ecological stewardship, ensuring that the wonder of living coral reefs can be studied, preserved, and cherished for generations to come.": {
+    "ko": "산호초는 지구상에서 가장 풍부한 생물 다양성을 자랑하는 매혹적인 생태계입니다. SIS Marine은 첨단 바이오 양식 엔지니어링과 헌신적인 생태 스튜어드십을 결합하여, 살아있는 산호초의 경이로움이 미래 세대까지 연구되고 보존되며 향유될 수 있도록 보장합니다."
+  },
+  "\"The ocean sustains all life on earth. Through closed-loop aquaculture science and advanced marine biology, we protect wild coral reefs while bringing the dazzling beauty of the sea into harmony with human curiosity.\"": {
+    "ko": "“해양은 지구상의 모든 생명을 지탱합니다. 폐쇄 순환형 양식 과학과 첨단 해양생물학을 통해, 우리는 야생 산호초를 보전하는 동시에 바다의 찬란한 아름다움을 인류의 지적 호기심과 완벽한 조화로 이끌어냅니다.”"
+  },
+  "MONOGRAPH BG-0401 • MARINE AQUACULTURE": {
+    "ko": "모노그래프 BG-0401 • 해양 양식학"
+  },
+  "REEF LIFE SUPPORT • CORAL MICRO-PLANKTON NUTRITION": {
+    "ko": "산호초 생명 유지 시스템 • 산호 마이크로 플랑크톤 영양학"
+  },
+  "Executive Brief: Closed-Loop Marine Ecosystem Engineering": {
+    "ko": "경영 브리프: 폐쇄 순환형 해양 생태계 엔지니어링"
+  },
+  "Maintaining captive marine coral reef ecosystems requires exquisite chemical balance: dissolved organic carbon, nitrate-to-phosphate Redfield ratios, and trace trace element availability must mimic pristine oceanic environments. SIS Marine replaces chemical coagulants and unrefined frozen foods with clean, shelf-stable marine bio-pastes and nitrifying bacterial consortia, enabling public aquariums and commercial reef aquaculture facilities to achieve zero-mortality closed-loop stability.": {
+    "ko": "인공 사육 환경에서 해양 산호초 생태계를 유지하려면 정교한 화학적 균형이 필수적입니다. 용존 유기 탄소, 질산염 대 인산염의 레드필드 비율(Redfield ratio), 그리고 미량 원소의 가용성이 태고의 청정 해양 환경을 정밀하게 모사해야 합니다. SIS Marine은 화학 응집제와 미정제 냉동 사료를 고순도의 상온 보관 가능한 해양 바이오 페이스트 및 질화 세균 컨소시엄으로 대체함으로써, 대형 아쿠아리움과 상업용 산호 양식 시설이 폐사율 0%의 폐쇄 루프 안정성을 달성할 수 있도록 지원합니다."
+  },
+  "ECOLOGICAL EQUILIBRIUM": {
+    "ko": "생태학적 평형"
+  },
+  "RAS LIFE SUPPORT ARCHITECTURE": {
+    "ko": "RAS 생명 유지 아키텍처"
+  },
+  "CALCIFICATION KINETICS": {
+    "ko": "석회화 동역학"
+  },
+  "MARINE NUTRITIONAL PORTFOLIO": {
+    "ko": "해양 영양 포트폴리오"
+  },
+  "LIVE EXPORT PROTOCOLS": {
+    "ko": "생체 수출 프로토콜"
+  },
+  "OCEANIC STEWARDSHIP": {
+    "ko": "해양 환경 스튜어드십"
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-04 MARINE BIO-SYSTEMS • PUBLIC AQUARIUM ENGINEERING": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-04 해양 바이오 시스템 • 대형 아쿠아리움 엔지니어링"
+  },
+  "*SC — Aquasis Marine Aquarium: Oceanic Bio-Systems Command Hub": {
+    "ko": "*SC — Aquasis Marine Aquarium: 해양 바이오 시스템 커맨드 허브"
+  },
+  "The Aquasis Marine Aquarium cluster operates as the institutional marine biotechnology, closed-loop aquaculture, and public aquarium engineering command hub of the Signal Star Universe. Fusing advanced marine biological life support systems (RAS), captive coral reef propagation, and automated aquatic water chemistry governance, Aquasis sets the global benchmark for sustainable marine life conservation.": {
+    "ko": "Aquasis Marine Aquarium 클러스터는 Signal Star Universe의 공공 해양 생명공학, 폐쇄 순환형 양식, 대형 수족관 엔지니어링 커맨드 허브 역할을 수행합니다. 첨단 해양생물 순환여과 양식 시스템(RAS), 인공 산호초 증식 기술, 자동화된 수질 화학 거버넌스를 융합하여, Aquasis는 지속 가능한 해양 생명 보전의 글로벌 벤치마크를 수립합니다."
+  },
+  "Zero-Pollution Recirculating Systems": {
+    "ko": "무공해 순환 여과 시스템"
+  },
+  "Captive Propagated Coral & Marine Fauna": {
+    "ko": "인공 증식 산호 및 해양 동물상"
+  },
+  "Real-Time Salinity, ORP & pH Radar": {
+    "ko": "실시간 염도·ORP·pH 레이더"
+  },
+  "Sustainable Captive Export Accreditation": {
+    "ko": "지속 가능한 인공 사육 수출 인증"
+  },
+  "CHAPTER 01 CLUSTER DOMAINS": {
+    "ko": "CHAPTER 01 클러스터 도메인"
+  },
+  "1. The Integrated Arenas of Aquasis Marine Architecture": {
+    "ko": "1. Aquasis 해양 아키텍처의 통합 영역"
+  },
+  "The Aquasis cluster orchestrates marine bio-technology across three core operational sectors:": {
+    "ko": "Aquasis 클러스터는 세 가지 핵심 운영 섹터를 중심으로 해양 생명공학을 오케스트레이션합니다:"
+  },
+  "Coral Mariculture & Pastes": {
+    "ko": "산호 해양 양식 및 바이오 페이스트"
+  },
+  "Propagates captive stony corals (SPS/LPS) using micro-encapsulated feeds, lipid plankton pastes, and nitrifying bacterial consortia, reducing transit mortality to <0.4%.": {
+    "ko": "마이크로 캡슐화 사료, 지질 플랑크톤 페이스트, 질화 세균 컨소시엄을 활용하여 인공 경산호(SPS/LPS)를 증식시키며, 운송 폐사율을 0.4% 미만으로 억제합니다."
+  },
+  "Life Support Systems (LSS)": {
+    "ko": "생명 유지 시스템 (LSS)"
+  },
+  "Designs massive commercial protein fractionators, moving bed biofilm reactors (MBBR), catalytic ozone loops, and titanium heat-exchange chillers for public aquariums.": {
+    "ko": "대형 아쿠아리움을 위한 대규모 상업용 단백질 분획기, 이동상 생물막 반응기(MBBR), 촉매 오존 루프, 티타늄 열교환 칠러를 설계합니다."
+  },
+  "Synthetic Ocean Salts & Buffers": {
+    "ko": "합성 인공 해수염 및 완충제"
+  },
+  "Produces pharmaceutical-purity synthetic sea salts, macro-ionic balance buffers (Ca, Alk, Mg), and trace element complexes maintaining precise Redfield stoichiometry.": {
+    "ko": "의약품급 순도의 합성 해수염, 거대 이온 균형 완충제(Ca, Alk, Mg), 정밀한 레드필드 화학량론을 유지하는 미량 원소 복합체를 생산합니다."
+  },
+  "CHAPTER 02 SYSTEM TOPOLOGY": {
+    "ko": "CHAPTER 02 시스템 토폴로지"
+  },
+  "2. Industrial-Scale Recirculating Life Support Architecture": {
+    "ko": "2. 산업 규모의 순환형 생명 유지 아키텍처"
+  },
+  "The diagram below details the commercial life support systems (LSS) engineered by Aquasis for public aquaria and large-scale coral propagation facilities.": {
+    "ko": "아래 다이어그램은 Aquasis가 대형 아쿠아리움 및 대규모 산호 증식 시설을 위해 엔지니어링한 상업용 생명 유지 시스템(LSS)의 상세 구조를 제시합니다."
+  },
+  "CHAPTER 03 WATER CHEMISTRY DYNAMICS": {
+    "ko": "CHAPTER 03 수질 화학 동역학"
+  },
+  "3. Mathematical Formalism of Nitrification Kinetics in MBBR Systems": {
+    "ko": "3. MBBR 시스템 내 질산화 반응속도론의 수학적 형식화"
+  },
+  "Biological ammonia oxidation in Aquasis moving bed biofilm reactors (MBBR) is modeled using Monod enzymatic saturation kinetics, ensuring total bio-safety even during sudden biomass feeding spikes.": {
+    "ko": "Aquasis 이동상 생물막 반응기(MBBR)의 생물학적 암모니아 산화는 모노(Monod) 효소 포화 반응속도론을 기반으로 모델링되어, 급격한 바이오매스 급이 부하 급증 시에도 완전한 생물학적 안전성을 보장합니다."
+  },
+  "Where $[\\text{TAN}]$ is total ammonia nitrogen concentration, $[\\text{DO}]$ is dissolved oxygen, $A_{\\text{carrier}} \\ge 850\\,\\text{m}^2/\\text{m}^3$ is the protected specific surface area of the fluidized bio-carriers, and $\\theta \\approx 1.072$ is the Arrhenius temperature coefficient. Aquasis MBBR units achieve $R_{\\text{TAN}} \\ge 0.48\\,\\text{g TAN/m}^2\\cdot\\text{day}$, maintaining non-toxic ammonia thresholds below $0.01\\,\\text{ppm}$.": {
+    "ko": "여기서 $[\\text{TAN}]$은 총 암모니아성 질소 농도, $[\\text{DO}]$는 용존산소량, $A_{\\text{carrier}} \\ge 850\\,\\text{m}^2/\\text{m}^3$은 유동상 바이오 담체의 유효 비표면적이며, $\\theta \\approx 1.072$는 아레니우스(Arrhenius) 온도 계수입니다. Aquasis MBBR 유닛은 $R_{\\text{TAN}} \\ge 0.48\\,\\text{g TAN/m}^2\\cdot\\text{day}$를 달성하여 무독성 암모니아 임계치를 $0.01\\,\\text{ppm}$ 미만으로 제어·유지합니다."
+  },
+  "CHAPTER 04 SYSTEM SPECIFICATION MATRIX": {
+    "ko": "CHAPTER 04 시스템 규격 매트릭스"
+  },
+  "4. Public Aquarium Life Support Engineering Specifications": {
+    "ko": "4. 대형 공공 수족관 생명유지시스템(LSS) 엔지니어링 사양"
+  },
+  "The matrix below details the technical specifications across Aquasis commercial life support system installations.": {
+    "ko": "본 매트릭스는 Aquasis 상업용 생명유지시스템 설치 라인업 전반의 세부 기술 사양을 제시합니다."
+  },
+  "System Tier": {
+    "ko": "시스템 티어"
+  },
+  "Water Volume Range": {
+    "ko": "수용 수량 범위"
+  },
+  "Primary Filtration Array": {
+    "ko": "주요 여과 어레이"
+  },
+  "Target Marine Exhibition": {
+    "ko": "대상 해양 전시관"
+  },
+  "Compact venturi skimmer, fluidized bed, 55W UV": {
+    "ko": "소형 벤투리 스키머, 유동상 여과기, 55W UV"
+  },
+  "Coral frag propagation, rare clownfish breeding": {
+    "ko": "산호 프랙 증식, 희귀 크라운피쉬 번식"
+  },
+  "Dual cone fractionators, ozone contact, MBBR, titanium chiller": {
+    "ko": "듀얼 콘 단백질 분획기, 오존 접촉조, MBBR, 티타늄 칠러"
+  },
+  "Commercial coral farming, retail display showrooms": {
+    "ko": "상업용 산호 양식, 리테일 디스플레이 쇼룸"
+  },
+  "Pressurized sand array, high-redox O3 loops, auto Ca reactors": {
+    "ko": "가압식 모래 여과 어레이, 고산화환원전위 O3 루프, 자동 칼슘 리액터"
+  },
+  "Municipal public oceanariums, pelagic shark tunnels": {
+    "ko": "지자체 공공 오셔너리움, 원양 상어 터널 수조"
+  },
+  "CHAPTER 05 IOT WATER RADAR": {
+    "ko": "CHAPTER 05 IOT 수질 레이더"
+  },
+  "5. The Aquasis Autonomous Water Radar & Emergency Gating": {
+    "ko": "5. Aquasis 자율형 수질 레이더 및 비상 게이팅 제어"
+  },
+  "To guarantee complete security against sudden equipment failure or biological crashes, Aquasis facilities are linked to an autonomous IoT telemetry network. Probes monitor temperature, salinity, ORP, pH, and dissolved oxygen every 10 seconds.": {
+    "ko": "돌발적인 장비 장애 및 생물학적 붕괴(Biological Crash)를 선제적으로 차단하고 무결점 안전성을 확보하기 위해, Aquasis 설비는 자율형 IoT 원격 계측 네트워크와 동기화됩니다. 센서 프로브는 수온, 염도, 산화환원전위(ORP), pH, 용존산소를 10초 주기로 정밀 모니터링합니다."
+  },
+  "CHAPTER 06 COMMERCIAL IMPACT": {
+    "ko": "CHAPTER 06 상업적 임팩트"
+  },
+  "6. Commercial Value Realization for Aquarium Operators": {
+    "ko": "6. 수족관 운영사를 위한 상업적 가치 실현"
+  },
+  "Deploying the Aquasis life support platform delivers tangible capital and operating expenditure reductions while virtually eliminating catastrophic livestock mortality.": {
+    "ko": "Aquasis 생명유지 플랫폼의 도입은 재앙적인 생물 폐사 위험을 원천 차단하는 동시에 자본적 지출(CAPEX) 및 운영 비용(OPEX)의 실질적인 절감을 견인합니다."
+  },
+  "Operating Dimension": {
+    "ko": "운영 지표"
+  },
+  "Traditional Public Aquarium": {
+    "ko": "기존 대형 수족관"
+  },
+  "Aquasis Integrated Platform": {
+    "ko": "Aquasis 통합 플랫폼"
+  },
+  "Measured Operational Gain": {
+    "ko": "검증된 운영 성과"
+  },
+  "Annual Coral Mortality": {
+    "ko": "연간 산호 폐사율"
+  },
+  "18% - 25% (Requires wild replacement)": {
+    "ko": "18% - 25% (야생 채집 개체 교체 필수)"
+  },
+  "Under 1.2%": {
+    "ko": "1.2% 미만"
+  },
+  "Saves $65,000+ annually in replacement costs": {
+    "ko": "연간 개체 교체 비용 65,000달러 이상 절감"
+  },
+  "Water Exchange Requirement": {
+    "ko": "환수 요구도"
+  },
+  "20% weekly artificial salt mix dump": {
+    "ko": "주간 20% 인공 해수염 혼합수 환수 배출"
+  },
+  "5% monthly top-off (Closed Loop)": {
+    "ko": "월간 5% 보충수 주입 (폐쇄 루프)"
+  },
+  "75% reduction in synthetic sea salt consumption": {
+    "ko": "합성 해수염 소비량 75% 감축"
+  },
+  "Water Chemistry Labor": {
+    "ko": "수질 화학 분석 공수"
+  },
+  "4 FTE technicians performing manual tests": {
+    "ko": "수동 검사를 수행하는 전임(FTE) 테크니션 4인"
+  },
+  "Automated IoT Telemetry + 1 Supervisor": {
+    "ko": "자동화된 IoT 텔레메트리 + 총괄 관리자 1인"
+  },
+  "Eliminates 3 full-time manual lab salaries": {
+    "ko": "전임 수동 검사 인력 3인 인건비 완전 절감"
+  },
+  "Visitor Visual Clarity (NTU)": {
+    "ko": "관람객 시각적 투명도 (NTU)"
+  },
+  "0.6 - 1.2 NTU (Slight turbidity)": {
+    "ko": "0.6 - 1.2 NTU (경미한 탁도 발생)"
+  },
+  "< 0.08 NTU (Ultra-Pure Crystal Optical)": {
+    "ko": "< 0.08 NTU (초고순도 크리스탈 광학 투명도)"
+  },
+  "Substantially enhanced visitor reviews & ticketing": {
+    "ko": "관람객 평가 및 티켓팅 매출의 획기적 제고"
+  },
+  "7. Championing the Living Ocean Future": {
+    "ko": "7. 살아 숨 쉬는 해양 미래의 선도"
+  },
+  "Aquasis Marine Aquarium demonstrates that human appreciation of oceanic wonders can be achieved in absolute harmony with ecological conservation. By engineering sovereign life support infrastructure, we bring the marvels of the deep sea to life while ensuring wild ocean reefs remain untouched and vibrant.": {
+    "ko": "Aquasis 해양 아쿠아리움은 해양의 경이에 대한 인류의 향유가 생태학적 보전과 완벽한 조화를 이루며 실현될 수 있음을 증명합니다. 독자적 생명 유지 인프라 엔지니어링을 통해 심해의 경이로움을 생생하게 구현하는 동시에, 야생 산호초 생태계를 온전하고 생동감 있게 보전합니다."
+  },
+  "\"The sea is our cradle and our inspiration. Aquasis proves that through advanced bio-engineering, human stewardship can nurture and sustain the most delicate living wonders of the marine world.\"": {
+    "ko": "\"바다는 우리의 요람이자 영감의 원천입니다. Aquasis는 고도화된 바이오 엔지니어링을 바탕으로 인류의 책임 있는 관리가 해양계에서 가장 섬세한 생명의 경이를 육성하고 지속시킬 수 있음을 입증합니다.\""
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-04": {
+    "ko": "L2 지휘 허브 모노그래프 • BG-04"
+  },
+  "MARINE BIO-SYSTEMS • PUBLIC AQUARIUM ENGINEERING": {
+    "ko": "해양 바이오 시스템 • 공공 아쿠아리움 엔지니어링"
+  },
+  "Cluster Command Brief: Sovereign Oceanic Environmental Control": {
+    "ko": "클러스터 커맨드 브리프: 독자적 해양 환경 제어 체계"
+  },
+  "Public aquariums, commercial mariculture ventures, and private reef displays have long suffered from high operational fragility: fragile biomes collapse upon minute temperature fluctuations or bio-load surges. Aquasis engineers closed-loop stability. By uniting automated IoT-driven water chemistry telemetry, synthetic oceanic salt formulations, and captive coral mariculture, the cluster eliminates wild reef extraction while unlocking resilient commercial aquarium operations.": {
+    "ko": "공공 아쿠아리움, 상업적 해양 양식 프로젝트 및 프라이빗 산호 전시는 미세한 수온 변동이나 바이오 로드 급증으로 취약한 바이옴이 붕괴되는 등 고질적인 운영 취약성을 겪어왔습니다. Aquasis는 폐쇄 루프 안정성을 구축합니다. 자동화된 IoT 기반 수질 화학 텔레메트리, 합성 해양염 포뮬레이션, 인공 증식 산호 양식을 결합하여 자연 산호초 채취를 배제하는 동시에 복원력 있는 상업적 아쿠아리움 운영을 구현합니다."
+  },
+  "CLUSTER DOMAINS": {
+    "ko": "클러스터 도메인"
+  },
+  "SYSTEM TOPOLOGY": {
+    "ko": "시스템 토폴로지"
+  },
+  "WATER CHEMISTRY DYNAMICS": {
+    "ko": "수질 화학 역학"
+  },
+  "SYSTEM SPECIFICATION MATRIX": {
+    "ko": "시스템 규격 매트릭스"
+  },
+  "IOT WATER RADAR": {
+    "ko": "IoT 수질 레이더"
+  },
+  "COMMERCIAL IMPACT": {
+    "ko": "상업적 파급 효과"
+  },
+  "INSTITUTIONAL GUARANTEE": {
+    "ko": "제도적 품질 보증"
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-05 AYURVEDIC BIO-PHARMACOGNOSY • STANDARDIZED BOTANICALS": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-05 아유르베다 바이오 생약학 • 표준화 천연물 원료"
+  },
+  "*SC — SisAyurvedic Ayurveda: Classical Botanical Standardization Hub": {
+    "ko": "*SC — SisAyurvedic 아유르베다: 전통 천연물 표준화 허브"
+  },
+  "SisAyurvedic Ayurveda represents the institutional botanical standardization, pharmacognosy, and cross-border bio-nutraceutical sourcing command hub of the Signal Star Universe. Bridging authentic 5,000-year-old Vedic healing wisdom with modern High-Performance Liquid Chromatography (HPLC) analytical chemistry, SisAyurvedic orchestrates direct sourcing corridors from India (SCIND) to Korea (SCK) and global wellness markets.": {
+    "ko": "SisAyurvedic 아유르베다는 Signal Star Universe의 공인 천연물 원료 표준화, 생약학 및 국경 간(cross-border) 바이오 뉴트라슈티컬 소싱을 총괄하는 커맨드 허브입니다. 5,000년 전통의 정통 베다(Vedic) 치유 지혜와 현대 고성능 액체 크로마토그래피(HPLC) 분석 화학을 융합하여, SisAyurvedic은 인도(SCIND)에서 한국(SCK) 및 글로벌 웰니스 시장으로 직결되는 다이렉트 소싱 코리도(corridor)를 지휘·구축합니다."
+  },
+  "Dual Certified Production Facilities": {
+    "ko": "이중 인증 생산 시설"
+  },
+  "HPLC Ashwagandha Standardization": {
+    "ko": "HPLC 기반 아슈와간다 표준화"
+  },
+  "Ultra-Pure Heavy Metal Testing": {
+    "ko": "초고순도 중금속 정밀 검사"
+  },
+  "Direct India-to-Korea Bio Corridor": {
+    "ko": "인도-한국 직결 바이오 코리도"
+  },
+  "CHAPTER 01 PHILOSOPHICAL & MOLECULAR CONVERGENCE": {
+    "ko": "제01장 철학적 및 분자적 융합"
+  },
+  "1. Harmonizing Tri-Doshic Energetics with Modern Cellular Biology": {
+    "ko": "1. 삼도샤(Tri-Dosha) 에너지학과 현대 세포생물학의 조화"
+  },
+  "Classical Ayurveda organizes human and mammalian physiology into three fundamental energetic archetypes or Doshas: Vata (kinetic, nervous, catabolic), Pitta (thermal, metabolic, transformative), and Kapha (structural, anabolic, lubricating). When external stressors disrupt doshic homeostasis, systemic inflammation and chronic degenerative disease manifest.": {
+    "ko": "전통 아유르베다는 인간 및 포유류의 생리적 기제를 세 가지 근본적인 에너지 원형이자 체질인 '도샤(Dosha)'로 체계화합니다: 바타(Vata: 운동성, 신경계, 이화작용), 피타(Pitta: 열성, 대사, 변환 작용), 카파(Kapha: 구조적, 동화작용, 윤활 작용). 외부 스트레스 요인이 도샤의 항상성을 붕괴시키면 전신 염증 및 만성 퇴행성 질환이 발현됩니다."
+  },
+  "SisAyurvedic translates these ancient energetic principles into modern molecular biology. Vata imbalances correlate directly with autonomic nervous system hyperactivity and hypothalamic-pituitary-adrenal (HPA) axis dysregulation; Pitta flares correspond to pro-inflammatory cytokine expression (NF-&kappa;B, TNF-&alpha;, COX-2); and Kapha stagnation mirrors metabolic syndrome, dyslipidemia, and cellular insulin resistance. By mapping ancient herbal polyherbalism (Samyoga) to modern multi-target pharmacology, SisAyurvedic restores biological equilibrium.": {
+    "ko": "SisAyurvedic은 이러한 고대 에너지학적 원리를 현대 분자생물학으로 정밀 번역합니다. 바타의 불균형은 자율신경계 과활성화 및 시상하부-뇌하수체-부신(HPA) 축 조절 장애와 직결되며, 피타의 폭주는 전염증성 사이토카인 발현(NF-κB, TNF-α, COX-2)과 일치하고, 카파의 정체는 대사증후군, 이상지질혈증 및 세포 인슐린 저항성을 대변합니다. SisAyurvedic은 고대 복합 생약 처방술(Samyoga)을 현대의 다중 표적 약리학(multi-target pharmacology)에 정밀 매핑함으로써 생물학적 평형을 복원합니다."
+  },
+  "Uncontrolled Quality & Heavy Metals": {
+    "ko": "비표준화 품질 및 중금속 오염 리스크"
+  },
+  "Relies on open bazaar trading of wild-harvested roots containing lead, cadmium, and microbial spores, resulting in frequent export rejections by US FDA and European EFSA authorities.": {
+    "ko": "납, 카드뮴 및 미생물 포자가 함유된 야생 채취 근경의 노천 바자르 거래에 의존함으로써, 미국 FDA 및 유럽 EFSA 등 규제 당국으로부터 빈번한 수출 통관 거부를 초래합니다."
+  },
+  "Full Chromatographic Fingerprinting": {
+    "ko": "전체 크로마토그래피 지문(Fingerprinting) 분석"
+  },
+  "Every batch is DNA-barcoded for botanical species authenticity, extracted with food-grade CO2, and certified to meet the world's most stringent pharmacopeia heavy metal thresholds.": {
+    "ko": "모든 배치는 식물 종의 진위성을 입증하기 위해 DNA 바코드 검증을 거치며, 식품 등급의 초임계 CO2로 추출되고, 전 세계에서 가장 엄격한 약전 중금속 기준치를 완벽히 충족하도록 인증됩니다."
+  },
+  "2. The SCIND-to-SCK Bilateral Bio-Nutraceutical Corridor": {
+    "ko": "2. SCIND-SCK 양자 바이오 뉴트라슈티컬 코리도"
+  },
+  "SisAyurvedic operates a direct sovereign trade corridor connecting cultivation estates in Kerala, Karnataka, and Rajasthan with advanced processing laboratories in Incheon and Seoul.": {
+    "ko": "SisAyurvedic은 케랄라, 카르나타카, 라자스탄의 재배 에스테이트와 인천 및 서울의 첨단 가공 연구소를 직결하는 독점적 주권 무역 코리도를 운영합니다."
+  },
+  "CHAPTER 03 ADAPTOGENIC MATHEMATICS": {
+    "ko": "제03장 어댑토젠 수학적 모델링"
+  },
+  "3. Mathematical Formalism of Cortisol Suppression Dynamics": {
+    "ko": "3. 코르티솔 억제 동역학의 수학적 정식화(Formalism)"
+  },
+  "The adaptogenic efficacy of standardized Ashwagandha withanolides is quantified through serum cortisol suppression kinetics under standardized acute restraint stress.": {
+    "ko": "표준화된 아슈와간다 위다놀라이드(Withanolides)의 어댑토젠 효능은 표준화된 급성 구속 스트레스 조건 하에서 혈청 코르티솔 억제 동역학을 통해 정량화됩니다."
+  },
+  "Where $[\\text{Witha-A}]$ is circulating Withaferin-A concentration, $k_{\\text{with}}$ is the adaptogenic clearance accelerator, and $K_m \\approx 4.2\\,\\text{ng/mL}$. Daily administration of SisAyurvedic standardized 5.0% Withanolide extract reduces baseline circulating cortisol by $34.2\\%$ within 21 days, restoring autonomic parasympathetic tone.": {
+    "ko": "여기서 $[\\text{Witha-A}]$는 순환 위다페린-A 농도, $k_{\\text{with}}$는 어댑토젠 제거 촉진 계수이며, $K_m \\approx 4.2\\,\\text{ng/mL}$입니다. SisAyurvedic의 표준화된 5.0% 위다놀라이드 추출물을 매일 투여하면 21일 이내에 기저 순환 코르티솔 수치가 $34.2\\%$ 감소하여 자율신경계 부교감 톤이 정상 복원됩니다."
+  },
+  "CHAPTER 04 STANDARDIZED BOTANICAL REPOSITORY": {
+    "ko": "제04장 표준화 천연물 레포지토리"
+  },
+  "4. SisAyurvedic Flagship Botanical Extract Portfolio": {
+    "ko": "4. SisAyurvedic 플래그십 천연물 추출물 포트폴리오"
+  },
+  "The matrix below details the standardized phytochemical benchmarks across SisAyurvedic's core botanical raw material catalogue.": {
+    "ko": "하기 매트릭스는 SisAyurvedic의 핵심 식물성 원료 카탈로그 전반에 걸친 표준화 파이토케미컬 벤치마크를 상술합니다."
+  },
+  "Botanical Name": {
+    "ko": "식물학적 학명"
+  },
+  "Sanskrit Name": {
+    "ko": "산스크리트어 명칭"
+  },
+  "HPLC Standardized Marker": {
+    "ko": "HPLC 표준화 지표 성분"
+  },
+  "Clinical Therapeutic Target": {
+    "ko": "임상 치료학적 타깃"
+  },
+  "Ashwagandha": {
+    "ko": "아슈와간다"
+  },
+  "&ge; 5.0% Total Withanolides (USP)": {
+    "ko": "&ge; 5.0% 총 위타놀라이드(Withanolides) (USP)"
+  },
+  "HPA Axis Stress, Anxiety, Cortisol Reduction": {
+    "ko": "HPA 축 스트레스 반응 제어, 불안 완화 및 코르티솔 감소"
+  },
+  "Boswellia serrata": {
+    "ko": "보스웰리아 세라타"
+  },
+  "Shallaki": {
+    "ko": "샬라키(Shallaki)"
+  },
+  "&ge; 30.0% AKBA (3-O-acetyl-11-keto)": {
+    "ko": "&ge; 30.0% AKBA (3-O-아세틸-11-케토)"
+  },
+  "5-LOX Selective Anti-Inflammatory, Joint Mobility": {
+    "ko": "5-LOX 선택적 항염 활성, 관절 가동성 개선"
+  },
+  "Bacopa monnieri": {
+    "ko": "바코파 모니에리"
+  },
+  "Brahmi": {
+    "ko": "브라미(Brahmi)"
+  },
+  "&ge; 55.0% Bacosides A & B": {
+    "ko": "&ge; 55.0% 바코사이드(Bacosides) A & B"
+  },
+  "Synaptic Neuroplasticity, Memory Consolidation": {
+    "ko": "시냅스 신경가소성 촉진, 기억 강화(Memory Consolidation)"
+  },
+  "Curcuma longa": {
+    "ko": "쿠르쿠마 롱가"
+  },
+  "Haridra": {
+    "ko": "하리드라(Haridra)"
+  },
+  "&ge; 95.0% Curcuminoids (Complex)": {
+    "ko": "&ge; 95.0% 커큐미노이드(Curcuminoids) 복합체"
+  },
+  "Potent NF-&kappa;B Down-regulation, Antioxidant": {
+    "ko": "강력한 NF-&kappa;B 하향 조절(Down-regulation), 항산화 활성"
+  },
+  "Terminalia chebula complex": {
+    "ko": "터미널리아 체불라(Terminalia chebula) 복합체"
+  },
+  "Triphala": {
+    "ko": "트리팔라(Triphala)"
+  },
+  "&ge; 45.0% Tannins & Gallic Acid": {
+    "ko": "&ge; 45.0% 탄닌 및 몰식자산(Gallic Acid)"
+  },
+  "Gastrointestinal Motility & Microbiome Diversity": {
+    "ko": "위장관 운동성 증진 및 마이크로바이옴 다양성 확보"
+  },
+  "CHAPTER 05 PURITY ASSURANCE": {
+    "ko": "CHAPTER 05 고순도 품질 보증 (PURITY ASSURANCE)"
+  },
+  "5. The SisAyurvedic Ultra-Purity Testing Gauntlet": {
+    "ko": "5. SisAyurvedic 초고순도 검증 체계 (Ultra-Purity Testing Gauntlet)"
+  },
+  "To guarantee absolute safety across international borders, SisAyurvedic enforces a multi-tier testing protocol utilizing Inductively Coupled Plasma Mass Spectrometry (ICP-MS) and Gas Chromatography-Mass Spectrometry (GC-MS).": {
+    "ko": "글로벌 공급망 전반에서의 절대적 안전성을 보장하기 위해, SisAyurvedic은 유도결합 플라즈마 질량분석기(ICP-MS) 및 가스크로마토그래피 질량분석기(GC-MS)를 활용한 정밀 다계층(Multi-tier) 검증 프로토콜을 전면 가동합니다."
+  },
+  "CHAPTER 06 COMMERCIAL ARBITRAGE": {
+    "ko": "CHAPTER 06 상업적 아비트라지 (COMMERCIAL ARBITRAGE)"
+  },
+  "6. Cross-Border Sourcing Economics: Traditional Broker vs. SisAyurvedic": {
+    "ko": "6. 크로스보더 소싱 경제학: 기존 브로커 구조 vs. SisAyurvedic"
+  },
+  "By eliminating 4 layers of domestic Indian brokers and international trading distributors, SisAyurvedic delivers premium standardized extracts at substantial cost savings to global nutraceutical brands.": {
+    "ko": "인도 현지 4단계 중간 브로커 및 해외 무역 유통망을 배제함으로써, SisAyurvedic은 전 세계 뉴트라슈티컬 브랜드에 획기적인 원가 절감 혜택과 프리미엄 표준화 추출물을 직접 공급합니다."
+  },
+  "Commercial Parameter": {
+    "ko": "상업적 평가 지표 (Commercial Parameter)"
+  },
+  "Traditional Multi-Tier Sourcing": {
+    "ko": "기존 다계층 소싱 (Traditional Multi-Tier Sourcing)"
+  },
+  "SisAyurvedic Direct Corridor": {
+    "ko": "SisAyurvedic 직통 공급망 (Direct Corridor)"
+  },
+  "Ashwagandha Extract (5% HPLC)": {
+    "ko": "아슈와간다 추출물 (5% HPLC)"
+  },
+  "$44.00 / kg (Direct Farm-to-Lab)": {
+    "ko": "$44.00 / kg (농장-연구소 직송)"
+  },
+  "-41.5% Wholesale COGS": {
+    "ko": "-41.5% 도매 매출원가(COGS)"
+  },
+  "Boswellia AKBA (30% HPLC)": {
+    "ko": "보스웰리아 AKBA (30% HPLC)"
+  },
+  "-44.4% Wholesale COGS": {
+    "ko": "-44.4% 도매 매출원가(COGS)"
+  },
+  "Supply Lead Time": {
+    "ko": "공급 리드타임"
+  },
+  "10 - 14 weeks": {
+    "ko": "10 - 14주"
+  },
+  "14 business days (Bonded Stock)": {
+    "ko": "영업일 기준 14일 (보세 재고)"
+  },
+  "5x faster production velocity": {
+    "ko": "생산 속도 5배 향상"
+  },
+  "Batch Contamination Risk": {
+    "ko": "배치 오염 리스크"
+  },
+  "High (Up to 15% customs hold rate)": {
+    "ko": "높음 (통관 보류율 최대 15%)"
+  },
+  "Zero (Pre-cleared electronic COA)": {
+    "ko": "전무 (사전 승인 전자 COA)"
+  },
+  "Eliminates costly port demurrage": {
+    "ko": "항만 체선료(Demurrage) 비용 제거"
+  },
+  "CHAPTER 07 SACRED MISSION": {
+    "ko": "제07장 신성한 사명"
+  },
+  "7. Honoring the Sacred Heritage of Vedic Medicine": {
+    "ko": "7. 베다 의학의 신성한 유산 계승"
+  },
+  "SisAyurvedic Ayurveda is built on profound respect for the botanical knowledge codified by ancient sages Charaka and Sushruta. By applying modern analytical chemistry and ethical fair-trade sourcing, we preserve this sacred botanical legacy and share its restorative power with the entire world.": {
+    "ko": "SisAyurvedic 아유르베다는 고대 현자 차라카(Charaka)와 수슈루타(Sushruta)가 정립한 본초학적 지식에 대한 깊은 경의를 바탕으로 구축되었습니다. 당사는 현대 분석 화학과 윤리적 공정무역 소싱을 융합하여 이 신성한 식물학적 유산을 보존하고, 그 치유적 복원력을 전 세계와 공유합니다."
+  },
+  "\"Ayurveda teaches that the human body is a microcosm of the universe. When we purify, standardize, and honor nature's healing herbs, we restore balance to human life and the global cosmos.\"": {
+    "ko": "\"아유르베다는 인체가 우주의 소우주라고 가르칩니다. 자연 치유 허브를 정제하고, 표준화하며, 본연의 가치를 존중할 때, 우리는 인간의 삶과 글로벌 코스모스의 균형을 회복할 수 있습니다.\""
+  },
+  "L2 COMMAND HUB MONOGRAPH • BG-05": {
+    "ko": "L2 커맨드 허브 모노그래프 • BG-05"
+  },
+  "AYURVEDIC BIO-PHARMACOGNOSY • STANDARDIZED BOTANICALS": {
+    "ko": "아유르베다 바이오 생약학 • 표준화 천연물"
+  },
+  "Executive Brief: Modernizing Ancient Pharmacognosy": {
+    "ko": "경영진 요약 보고서: 고대 생약학의 현대화"
+  },
+  "Global consumer demand for adaptogenic herbs, nootropics, and anti-inflammatory botanicals is at an all-time high, yet the traditional herbal trade remains plagued by adulteration, heavy metal contamination, and variable bio-active potency. SisAyurvedic Ayurveda solves this supply crisis. By establishing certified Good Agricultural and Collection Practices (GACP) in India and state-of-the-art supercritical CO2 extraction laboratories in Korea, we guarantee pharmaceutical-grade, heavy-metal-free Ayurvedic extracts with verified active marker yields.": {
+    "ko": "어댑토젠 허브, 누트로픽, 항염증 식물성 성분에 대한 글로벌 소비자 수요는 전례 없는 최고치에 도달했으나, 전통 약초 유통망은 여전히 이물질 혼입, 중금속 오염, 유효 생리활성 역가의 불균일성 문제를 겪고 있습니다. SisAyurvedic 아유르베다는 이러한 공급망 위기를 해결합니다. 인도 현지의 인증된 우수 농업 및 수집 관행(GACP) 수립과 한국의 최첨단 초임계 CO2 추출 연구소를 기반으로, 당사는 검증된 활성 지표 성분 수율을 갖춘 의약품 등급의 무중금속 아유르베다 추출물을 보증합니다."
+  },
+  "PHILOSOPHICAL & MOLECULAR CONVERGENCE": {
+    "ko": "철학적 및 분자적 융합"
+  },
+  "ADAPTOGENIC MATHEMATICS": {
+    "ko": "어댑토젠 수학"
+  },
+  "STANDARDIZED BOTANICAL REPOSITORY": {
+    "ko": "표준화 천연물 리포지토리"
+  },
+  "PURITY ASSURANCE": {
+    "ko": "순도 보증"
+  },
+  "COMMERCIAL ARBITRAGE": {
+    "ko": "상업적 차익거래(Commercial Arbitrage)"
+  },
+  "SACRED MISSION": {
+    "ko": "신성한 사명"
+  },
+  "Edu Institute Knowledge To Flex": {
+    "ko": "Edu Institute 실증적 역량화 지식"
+  },
+  "Executive Quantum Business Academy, Practical AI Engineering, and Cross-Border Trade Apprenticeship. Translating abstract business and technical knowledge into operational corporate flex, autonomous agent orchestration, and cashflow generation.": {
+    "ko": "최고경영자 퀀텀 비즈니스 아카데미, 실무형 AI 엔지니어링 및 크로스보더 무역 도제 프로그램. 추상적인 비즈니스 및 기술 지식을 실질적인 기업 운영 역량, 자율 에이전트 오케스트레이션 및 현금 흐름 창출로 전환합니다."
+  },
+  "Practical Flex Conversion": {
+    "ko": "실전적 플렉스 전환"
+  },
+  "Graduates deploying functional production-grade AI pipelines within 60 days of cohort completion.": {
+    "ko": "코호트 수료 후 60일 이내에 상용 수준(production-grade)의 기능적 AI 파이프라인을 실전에 배포하는 수료생 비율."
+  },
+  "Corporate Velocity Multiple": {
+    "ko": "기업 실행 속도 배수 (Corporate Velocity Multiple)"
+  },
+  "Accelerated strategic decision-making and cross-border trade workflow throughput.": {
+    "ko": "전략적 의사결정 가속화 및 국경 간 크로스보더 무역 워크플로우 처리량(Throughput) 극대화."
+  },
+  "Global Apprenticeship Matrix": {
+    "ko": "글로벌 도제(Apprenticeship) 매트릭스"
+  },
+  "Direct deployment across Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, and global nodes.": {
+    "ko": "한국 SCK, 인도네시아 SCI, 싱가포르 SCS, 미국 SCU 및 글로벌 거점 노드 전반에 걸친 즉각적인 실무 투입."
+  },
+  "Live Enterprise Sprints": {
+    "ko": "라이브 엔터프라이즈 스프린트"
+  },
+  "Curriculum fully grounded in live corporate databases, ERPs, and actual revenue engines.": {
+    "ko": "실제 기업 데이터베이스, ERP 및 실질적인 수익 창출 엔진에 전적으로 기반을 둔 커리큘럼."
+  },
+  "Chapter 01 Pedagogical Philosophy": {
+    "ko": "제1장 교육 철학"
+  },
+  "The Paradigm Shift: From Inert Knowledge to Operational Flex": {
+    "ko": "패러다임의 대전환: 사장된 지식에서 실행적 플렉스(Operational Flex)로"
+  },
+  "Traditional executive and business education suffers from a profound structural defect: inert academic theory is memorized in isolation from production environments, leaving students equipped with obsolete slide decks but entirely incapable of orchestrating high-velocity enterprise software or negotiating multi-jurisdictional trade pipelines. Edu Institute Knowledge To Flex was established within *SC's educational vertical to demolish this wall. Our core doctrine defines \"Flex\" as the kinetic capacity to convert conceptual understanding into immediate commercial, technological, and operational momentum.": {
+    "ko": "전통적인 최고경영자 및 비즈니스 교육은 근본적인 구조적 결함을 안고 있습니다. 실제 프로덕션 환경과 격리된 채 암기되는 사장된 학술 이론은, 수강생들에게 구시대적인 발표 자료만 남길 뿐 초고속 엔터프라이즈 소프트웨어를 오케스트레이션하거나 다국적 규제 관할권이 얽힌 무역 파이프라인을 협상할 역량은 전혀 갖추지 못하게 만듭니다. Edu Institute Knowledge To Flex는 이러한 장벽을 타파하기 위해 *SC의 교육 버티컬 산하에 설립되었습니다. 당사의 핵심 독트린은 \"Flex\"를 개념적 이해를 즉각적인 상업적·기술적·운영적 모멘텀으로 전환하는 동역학적 역량으로 정의합니다."
+  },
+  "In the contemporary corporate landscape, an executive who cannot prompt-engineer multi-agent systems, audit Supabase vector embeddings, or structure automated cross-border export escrows is functionally obsolete. Knowledge To Flex delivers an immersive apprenticeship where students execute live operational sprints across *SC's 10 commercial verticals. Rather than studying hypothetical case studies, participants interact with live transaction streams, automated overnight scrapers, and cross-border trade documentation.": {
+    "ko": "현대 기업 생태계에서 멀티 에이전트 시스템을 프롬프트 엔지니어링하지 못하거나, Supabase 벡터 임베딩을 감사(Audit)하지 못하며, 자동화된 국경 간 수출 에스크로를 구조화하지 못하는 경영진은 기능적으로 도태된 것이나 다름없습니다. Knowledge To Flex는 수강생이 *SC의 10대 상업 버티컬 전반에서 라이브 운영 스프린트를 직접 수행하는 몰입형 도제 과정을 제공합니다. 참가자들은 가상의 케이스 스터디를 연구하는 대신, 실시간 트랜잭션 스트림, 야간 자동 스크래퍼 및 크로스보더 무역 서류와 직접 상호작용합니다."
+  },
+  "Core Institutional Mandate: We do not confer ceremonial credentials; we forge quantum enterprise leaders who build, automate, and lead resilient multi-national organizations with zero technical intimidation.": {
+    "ko": "기관 핵심 책무: 우리는 요식적인 수료증을 수여하지 않습니다. 기술적 위축감(Technical Intimidation)을 완전히 불식하고, 회복력 있는 다국적 조직을 직접 구축, 자동화 및 통솔하는 퀀텀 엔터프라이즈 리더를 단련합니다."
+  },
+  "Chapter 02 Core Academic Curricula": {
+    "ko": "제2장 핵심 학술 커리큘럼"
+  },
+  "Triple-Track Curriculum: Quantum Business, AI Engineering & Trade": {
+    "ko": "트리플 트랙 커리큘럼: 퀀텀 비즈니스, AI 엔지니어링 및 무역"
+  },
+  "The curriculum is rigorously structured into three interconnected specializations, ensuring every cohort member acquires both macro-strategic synthesis and micro-technical execution competence:": {
+    "ko": "본 커리큘럼은 상호 유기적으로 연계된 3대 전문 분야로 정밀하게 구성되어 있어, 모든 코호트 구성원이 거시적 전략 통합 능력과 미시적 기술 실행 역량을 동시에 완벽히 체득하도록 보장합니다:"
+  },
+  "Chapter 03 Mathematical Framework": {
+    "ko": "제3장 수리학적 프레임워크"
+  },
+  "The Learning Velocity & Operational Flex Equation": {
+    "ko": "학습 속도 및 운영 플렉스(Operational Flex) 방정식"
+  },
+  "To systematically monitor student progression and institutional efficacy, Knowledge To Flex implements the Operational Flex Index ($OFI$), a multi-variable metric tracking knowledge conversion rate, software deployment velocity, and business impact yield:": {
+    "ko": "수강생의 성장 추이와 교육 기관의 실효성을 체계적으로 모니터링하기 위해, Knowledge To Flex는 지식 전환율, 소프트웨어 배포 속도, 비즈니스 임팩트 창출량을 추적하는 다변수 지표인 운영 플렉스 지수(Operational Flex Index, $OFI$)를 도입 및 운용합니다:"
+  },
+  "OFI = [ (V_deploy * K_retention) / (T_latency + ε) ] * [ 1 + ln(1 + ROI_sprint) ] Where: • V_deploy = Production deployment velocity (number of validated, error-free AI pipelines deployed per 30-day block) • K_retention = Long-term algorithmic retention coefficient measured via unassisted live debugging tests (0.0 to 1.0) • T_latency = Time lag in hours from problem definition to operational prototype deployment (target < 24h) • ε = Smoothing constant preventing division by zero (ε = 0.05) • ROI_sprint = Net financial or operational efficiency gain generated by the student sprint for the host business unit": {
+    "ko": "OFI = [ (V_deploy * K_retention) / (T_latency + ε) ] * [ 1 + ln(1 + ROI_sprint) ] (산식 설명: • V_deploy = 프로덕션 배포 속도(30일 단위 기간당 배포된 검증 완료 및 무결점 AI 파이프라인 수) • K_retention = 비지원 실시간 라이브 디버깅 테스트로 측정한 장기 알고리즘 유지 계수(0.0 ~ 1.0) • T_latency = 문제 정의부터 실제 작동 가능한 프로토타입 배포까지의 지연 시간(시간 단위, 목표치 < 24시간) • ε = 분모 0 방지를 위한 스무딩 상수(ε = 0.05) • ROI_sprint = 수강생 스프린트가 담당 사업 부문에 창출한 순 재무적 이익 또는 운영 효율성 증대분)"
+  },
+  "By continuously computing $OFI$ across all cohort tiers, our instructional faculty and AI pedagogical mentors dynamically modulate assignment difficulty, providing targeted remedial exercises or unlocking advanced sovereign venture incubation tracks.": {
+    "ko": "모든 코호트 티어 전반에서 $OFI$를 지속적으로 산출함으로써, 교수진과 AI 교육 멘토는 과제 난이도를 동적으로 조절하고, 맞춤형 보충 과제를 제공하거나 최상위 독자 벤처 인큐베이션 트랙을 활성화합니다."
+  },
+  "Chapter 04 Operational Architecture": {
+    "ko": "제4장 운영 아키텍처"
+  },
+  "Unmanned 24/7 Educational Infrastructure": {
+    "ko": "24/7 무인 교육 인프라"
+  },
+  "Instruction at Edu Institute Knowledge To Flex does not cease when faculty sleep. Our learning ecosystem is powered by a continuous automated infrastructure that accelerates mastery around the clock:": {
+    "ko": "Edu Institute Knowledge To Flex의 교육은 교수진이 잠든 시간에도 멈추지 않습니다. 당사의 학습 에코시스템은 24시간 내내 전문 지식 숙달을 가속화하는 지속적 자동화 인프라를 통해 가동됩니다:"
+  },
+  "Overnight Code & Architecture Scrutiny: Student pull requests and system blueprints submitted by 10:00 PM undergo automated multi-agent security, performance, and lint auditing, providing comprehensive line-by-line feedback by 6:00 AM.": {
+    "ko": "야간 코드 및 아키텍처 정밀 심사: 오후 10시까지 제출된 수강생의 풀 리퀘스트(PR)와 시스템 블루프린트는 멀티 에이전트 기반의 자동화된 보안, 성능 및 린트(Lint) 감사를 거쳐, 익일 오전 6시까지 포괄적인 라인별(line-by-line) 피드백을 제공합니다."
+  },
+  "Vectorized Institutional Memory: Over 10,000 real-world corporate execution logs, tariff filings, and supply chain invoices are embedded in our institutional RAG repository, allowing students to query genuine historical solutions instantly.": {
+    "ko": "벡터화된 기관 메모리(Vectorized Institutional Memory): 10,000건 이상의 실제 기업 실행 로그, 관세 신고서, 공급망 인보이스가 기관 자체 RAG 리포지토리에 임베딩되어 수강생들이 검증된 과거 솔루션을 즉각 쿼리하고 조회할 수 있습니다."
+  },
+  "Simulated Market Adversaries: Students stress-test their trade models against synthetic regulatory shifts, currency devaluations, and shipping bottlenecks generated by our scenario-simulation engine.": {
+    "ko": "시뮬레이션 기반 시장 적대자(Market Adversaries): 수강생들은 시나리오 시뮬레이션 엔진이 생성한 가상의 규제 변동, 통화 가치 절하, 해상 물류 병목 현상에 맞서 자신의 무역 모델을 스트레스 테스트합니다."
+  },
+  "Chapter 05 Comparative Benchmarks": {
+    "ko": "제5장 비교 벤치마크"
+  },
+  "Curricular & Institutional Efficacy Benchmarks": {
+    "ko": "커리큘럼 및 기관 실효성 벤치마크"
+  },
+  "A comparative evaluation reveals the radical divergence between legacy business schooling, standard coding bootcamps, and Edu Institute Knowledge To Flex:": {
+    "ko": "비교 평가를 통해 레거시 경영대학원, 일반적인 코딩 부트캠프, 그리고 Edu Institute Knowledge To Flex 간의 근본적인 격차와 차별성이 명확히 드러납니다:"
+  },
+  "Chapter 06 Cohort Economics & KPIs": {
+    "ko": "제06장 코호트 경제학 및 핵심성과지표(KPI)"
+  },
+  "Cohort Performance Matrix & Career Trajectories": {
+    "ko": "코호트 성과 매트릭스 및 커리어 궤적"
+  },
+  "Performance across our executive and engineering cohorts is monitored via longitudinal operational metrics spanning three fiscal quarters post-graduation:": {
+    "ko": "경영진 및 엔지니어링 코호트 전반의 성과는 수료 후 3개 회계 분기에 걸친 종단적 운영 지표를 통해 모니터링됩니다:"
+  },
+  "Chapter 07 Ecosystem Convergence": {
+    "ko": "제07장 생태계 수렴"
+  },
+  "Integration Within the *SC Global Galaxy": {
+    "ko": "*SC 글로벌 갤럭시 내 통합 체계"
+  },
+  "Edu Institute Knowledge To Flex does not operate as an ivory tower; it serves as the human capability engine for the entire Signal Star Universe (*SC). Every cohort directly supports the technical, legal, and operational expansion of sister commercial verticals:": {
+    "ko": "Edu Institute Knowledge To Flex는 상아탑에 머무르지 않으며, Signal Star Universe(*SC) 전반을 가동하는 인적 역량 엔진 역할을 수행합니다. 모든 코호트는 자매 상용 버티컬의 기술적, 법률률적 및 운영적 확장을 직접 지원합니다:"
+  },
+  "Feeding Talent to Operating Verticals: Top graduates step directly into S1-S6 franchise leadership roles across SISTAR MedIX, SISPet, SisAyurvedic, and SISMii.": {
+    "ko": "운영 버티컬로의 핵심 인재 공급: 우수 수료생은 SISTAR MedIX, SISPet, SisAyurvedic, SISMii 전반의 S1-S6 프랜차이즈 리더십 직책으로 직행합니다."
+  },
+  "Co-Developing Proprietary IP: Advanced student sprints contribute directly to the enhancement of *SC's vector embeddings, automated scrapers, and cross-border settlement protocols.": {
+    "ko": "독점적 지식재산(IP) 공동 개발: 심화 학생 스프린트는 *SC의 벡터 임베딩, 자동화 스크래퍼 및 크로스보더 결제 프로토콜 고도화에 직접 기여합니다."
+  },
+  "Expanding Global Base Operations: Apprentices rotate across our eight international hubs (Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, Vietnam SCV, India SCIND, China SCC, Japan SCJ), establishing localized micro-campuses and sovereign business outposts.": {
+    "ko": "글로벌 거점 운영 확장: 수련생들은 8개 글로벌 허브(한국 SCK, 인도네시아 SCI, 싱가포르 SCS, 미국 SCU, 베트남 SCV, 인도 SCIND, 중국 SCC, 일본 SCJ)를 순환하며 현지화된 마이크로 캠퍼스 및 주권적 비즈니스 전초기지를 구축합니다."
+  },
+  "Through this unified architecture, Knowledge To Flex guarantees that the rapid growth of *SC's commercial constellation is perpetually fueled by high-caliber, battle-tested leaders capable of turning ideas into enduring enterprise stars.": {
+    "ko": "이러한 통합 아키텍처를 통해 Knowledge To Flex는 *SC 상용 성단의 급격한 성장이 아이디어를 영속적인 엔터프라이즈 스타로 전환할 수 있는 실전 검증된 최고급 인재에 의해 지속적으로 견인됨을 보장합니다."
+  },
+  "Pedagogical Philosophy": {
+    "ko": "교육 철학"
+  },
+  "Core Academic Curricula": {
+    "ko": "핵심 학술 커리큘럼"
+  },
+  "Track 1: Quantum Business & Systems Architecture": {
+    "ko": "트랙 1: 양자 비즈니스 및 시스템 아키텍처"
+  },
+  "Explores multi-entity corporate structuring, capital efficiency, and dual-track legal firewalls. Students analyze how holding company IP is partitioned from operational risk, the mechanics of K-SURE export insurance, and algorithmic cashflow settlement across non-correlated global currencies.": {
+    "ko": "다중 법인 기업 지배구조 설계, 자본 효율성 및 듀얼 트랙 법적 방화벽을 탐구합니다. 수강생은 지주회사 IP가 운영 리스크로부터 격리되는 메커니즘, K-SURE 수출보험 구조, 비상관 글로벌 통화 간 알고리즘 기반 현금흐름 결제 체계를 분석합니다."
+  },
+  "Track 2: Applied AI Engineering & Agentic Automation": {
+    "ko": "트랙 2: 응용 AI 엔지니어링 및 에이전틱 자동화"
+  },
+  "Focuses on building production-ready multi-agent workflows using open protocols. Students architect zero-hallucination vector RAG systems combining Supabase pgvector with Google NotebookLM and Dify engines. Every participant constructs custom Model Context Protocol (MCP) servers, headless scrapers, and Gemini Vision QA pipelines.": {
+    "ko": "오픈 프로토콜을 활용한 프로덕션급 멀티 에이전트 워크플로우 구축에 집중합니다. 수강생은 Supabase pgvector와 Google NotebookLM 및 Dify 엔진을 결합하여 환각(Hallucination) 없는 벡터 RAG 시스템을 설계합니다. 모든 참가자는 커스텀 Model Context Protocol(MCP) 서버, 헤드리스 스크래퍼 및 Gemini Vision QA 파이프라인을 직접 구축합니다."
+  },
+  "Track 3: Cross-Border Physical-Digital Trade Mastery": {
+    "ko": "트랙 3: 크로스보더 피지컬-디지털 무역 마스터리"
+  },
+  "Covers the pragmatic mechanics of international commerce: navigating HS-code tariffs across ASEAN and East Asia, 3-Month Rolling Purchasing Forecasts (RPF), maritime logistics tracking, micro-sachet consumer repackaging economics, and cold-chain integrity monitoring.": {
+    "ko": "국제 통상의 실무적 메커니즘을 다룹니다: 아세안 및 동아시아 전역의 HS코드 관세 대응, 3개월 롤링 구매 예측(RPF), 해상 물류 추적, 마이크로 사셰 소비자 소분 포장 경제학, 콜드체인 무결성 모니터링을 포괄합니다."
+  },
+  "Mathematical Framework": {
+    "ko": "수학적 프레임워크"
+  },
+  "Operational Architecture": {
+    "ko": "운영 아키텍처"
+  },
+  "Comparative Benchmarks": {
+    "ko": "비교 벤치마크"
+  },
+  "Pedagogical Dimension": {
+    "ko": "교육학적 차원"
+  },
+  "Traditional MBA Program": {
+    "ko": "전통적 MBA 프로그램"
+  },
+  "Technical Bootcamps": {
+    "ko": "기술 부트캠프"
+  },
+  "Instructional Medium": {
+    "ko": "교수 매체"
+  },
+  "Theoretical Lectures & Slides": {
+    "ko": "이론 중심 강의 및 슬라이드"
+  },
+  "Synthetic Toy Coding Exercises": {
+    "ko": "합성 토이 코딩 실습"
+  },
+  "Live Production Repos & Corporate ERP Sprints": {
+    "ko": "라이브 프로덕션 레포지토리 및 엔터프라이즈 ERP 스프린트"
+  },
+  "AI Integration Depth": {
+    "ko": "AI 통합 심도"
+  },
+  "High-Level Overview / Chat Prompts": {
+    "ko": "전략적 개요 / 대화형 프롬프트"
+  },
+  "Basic API Calls / Static Scripts": {
+    "ko": "기초 API 호출 / 정적 스크립트"
+  },
+  "Full Autonomous Agent Swarms & Vector RAG": {
+    "ko": "완전 자율 에이전트 스웜 및 벡터 RAG"
+  },
+  "Cross-Border Trade Scope": {
+    "ko": "크로스보더 무역 범위"
+  },
+  "Abstract Macroeconomic Models": {
+    "ko": "추상적 거시경제 모델"
+  },
+  "None": {
+    "ko": "없음"
+  },
+  "Live Customs HS-Codes, RPF & Escrow Mechanics": {
+    "ko": "실시간 통관 HS 코드, RPF 및 에스크로 메커니즘"
+  },
+  "Operational Verification": {
+    "ko": "운영 실무 검증"
+  },
+  "Multiple-Choice & Term Papers": {
+    "ko": "객관식 평가 및 학술 보고서"
+  },
+  "Portfolio Website / Toy App": {
+    "ko": "포트폴리오 웹사이트 / 토이 앱"
+  },
+  "Audited Revenue Lift & Enterprise Pipeline Launch": {
+    "ko": "감사 검증된 매출 신장 및 엔터프라이즈 파이프라인 가동"
+  },
+  "Graduation Criterion": {
+    "ko": "수료 기준"
+  },
+  "Credit Hours Completed": {
+    "ko": "이수 학점 충족"
+  },
+  "Project Submission": {
+    "ko": "프로젝트 제출"
+  },
+  "Demonstrated Kinetic Flex ($OFI \\ge 85.0$)": {
+    "ko": "입증된 키네틱 플렉스 ($OFI \\ge 85.0$)"
+  },
+  "Cohort Economics & KPIs": {
+    "ko": "코호트 경제성 지표 및 KPI"
+  },
+  "Cohort Tier": {
+    "ko": "코호트 티어"
+  },
+  "Target Participant Profile": {
+    "ko": "목표 참가자 프로필"
+  },
+  "Primary S1-S6 Output": {
+    "ko": "주요 S1-S6 산출물"
+  },
+  "30-Day Deployment Rate": {
+    "ko": "30일 내 배포율"
+  },
+  "Average Cost Savings / Lift": {
+    "ko": "평균 비용 절감 / 매출 신장"
+  },
+  "Tier 1: Executive Quantum": {
+    "ko": "티어 1: Executive Quantum"
+  },
+  "Founders, CEOs, C-Suite Leaders": {
+    "ko": "창업자, CEO, C-Suite 리더십"
+  },
+  "Autonomous 8-Team ERP Architecture": {
+    "ko": "자율형 8개 팀 ERP 아키텍처"
+  },
+  "$184,000 / entity / yr": {
+    "ko": "$184,000 / 법인 / 연"
+  },
+  "Tier 2: Enterprise AI Engineer": {
+    "ko": "티어 2: Enterprise AI Engineer"
+  },
+  "Staff Engineers, Data Leads, CTOs": {
+    "ko": "스태프 엔지니어, 데이터 리드, CTO"
+  },
+  "Custom MCP Server & RAG Stacks": {
+    "ko": "맞춤형 MCP 서버 및 RAG 스택"
+  },
+  "$240,000 in SaaS elimination": {
+    "ko": "SaaS 대체를 통한 $240,000 비용 절감"
+  },
+  "Tier 3: Trade & Logistics Lead": {
+    "ko": "티어 3: Trade & Logistics Lead"
+  },
+  "Supply Chain Directors, Export Ops": {
+    "ko": "공급망 총괄 디렉터, 수출 운영 부문"
+  },
+  "RPF Automation & Multi-Hub Customs": {
+    "ko": "RPF 자동화 및 멀티 허브 통관"
+  },
+  "-38% customs clearance lag": {
+    "ko": "-38% 통관 지연 시간 단축"
+  },
+  "Tier 4: Sovereign Incubator": {
+    "ko": "Tier 4: 소버린 인큐베이터"
+  },
+  "Spin-off Founders, Venture Builders": {
+    "ko": "스핀오프 창업자, 벤처 빌더"
+  },
+  "New *SC Constellation Node Launch": {
+    "ko": "신규 *SC 콘스텔레이션 노드 론칭"
+  },
+  "Breakeven within 120 days": {
+    "ko": "120일 이내 손익분기점(BEP) 달성"
+  },
+  "Ecosystem Convergence": {
+    "ko": "생태계 융합"
+  },
+  "Next-Generation Youth Artificial Intelligence Literacy, Neuro-Adaptive Cognitive Acceleration, and Computational Thinking. Preparing learners aged 6 to 16 to evolve from passive algorithmic consumers into sovereign creators of intelligent autonomous systems.": {
+    "ko": "차세대 청소년 인공지능 리터러시, 신경 적응형 인지 가속화 및 컴퓨팅 사고력. 6세에서 16세 사이의 학습자가 수동적인 알고리즘 소비자에서 지능형 자율 시스템의 주권적 창작자로 진화하도록 양성합니다."
+  },
+  "Target Age Spectrum": {
+    "ko": "대상 연령 스펙트럼"
+  },
+  "Developmentally calibrated learning tiers spanning foundational logic to agent coding.": {
+    "ko": "기초 논리 설계부터 에이전트 코딩에 이르는 발달 단계별 정밀 보정 학습 티어."
+  },
+  "Safety Sandbox Score": {
+    "ko": "안전 샌드박스 스코어"
+  },
+  "Strict zero-harm, privacy-preserving LLM interaction perimeter and content filtering.": {
+    "ko": "엄격한 무해성(Zero-Harm) 보장, 프라이버시 보호형 LLM 상호작용 경계선 및 콘텐츠 필터링."
+  },
+  "Algorithmic Fluency Gain": {
+    "ko": "알고리즘 유창성 향상도"
+  },
+  "Measured problem-solving velocity versus traditional block-coding curricula.": {
+    "ko": "기존 블록 코딩 커리큘럼 대비 측정된 문제 해결 속도."
+  },
+  "Global Junior Hubs": {
+    "ko": "글로벌 주니어 허브"
+  },
+  "Collaborative cross-cultural coding cohorts across Seoul, Jakarta, Singapore, and beyond.": {
+    "ko": "서울, 자카르타, 싱가포르 및 글로벌 전역을 아우르는 협력적 다문화 코딩 코호트."
+  },
+  "Chapter 01 Foundational Mission": {
+    "ko": "Chapter 01 기반 미션"
+  },
+  "Architecting the Minds of the Post-AI Generation": {
+    "ko": "포스트 AI 세대의 마인드 아키텍처 구축"
+  },
+  "Children growing up today are surrounded by autonomous algorithms, generative neural networks, and automated recommender systems. Yet standard school curricula remain trapped in 20th-century paradigms, teaching rote memorization and surface-level digital tool usage. FlexKids AI was created within *SC's educational constellation to provide a profound cognitive upgrade: cultivating deep mental models of how artificial intelligence operates, how data representations are structured, and how human intention can command algorithmic agents.": {
+    "ko": "오늘날 성장하는 아동들은 자율 알고리즘, 생성형 신경망, 자동화된 추천 시스템에 둘러싸여 있습니다. 그러나 표준 공교육 커리큘럼은 20세기적 패러다임에 갇혀 단순 암기와 표면적인 디지털 도구 활용법만을 교수하고 있습니다. FlexKids AI는 인공지능의 작동 메커니즘, 데이터 표현의 구조화 방식, 그리고 인간의 의도로 알고리즘 에이전트를 지휘하는 방식을 체계화한 심층 멘탈 모델을 배양함으로써, 근본적인 인지적 업그레이드를 제공하기 위해 *SC의 교육 콘스텔레이션 내에서 태동했습니다."
+  },
+  "Rather than treating AI as magical or intimidating, FlexKids AI demystifies the underlying mechanics. Children learn that neural networks are composed of mathematical weights, pattern recognition functions, and prompt contexts. By understanding how to formulate precise instructions, verify computational outputs, and detect algorithmic hallucinations, students develop sovereign critical faculties that protect them from manipulation while empowering them to build meaningful software solutions.": {
+    "ko": "AI를 신비화하거나 위협적인 대상으로 여기는 대신, FlexKids AI는 그 이면의 기저 메커니즘을 명확히 규명합니다. 학습자는 신경망이 수학적 가중치, 패턴 인식 함수, 프롬프트 맥락으로 구성되어 있음을 학습합니다. 정밀한 명령 프롬프트를 구성하고, 연산 결과를 검증하며, 알고리즘적 환각(Hallucination)을 감지하는 방법을 습득함으로써, 학생들은 외부 조작으로부터 자신을 보호하는 동시에 유의미한 소프트웨어 솔루션을 직접 구축할 수 있는 주권적 비판 역량을 확보하게 됩니다."
+  },
+  "Core Pedagogical Principle: We do not train children to code syntax that AI will write automatically; we train children to think structurally, formulate complex problems, and orchestrate intelligent agents with moral responsibility.": {
+    "ko": "핵심 교육 원칙: 우리는 AI가 자동으로 생성할 구문(Syntax)을 단순 코딩하도록 가르치지 않습니다. 구조적으로 사고하고, 복잡한 문제를 정밀하게 정의하며, 윤리적 책임감을 바탕으로 지능형 에이전트를 오케스트레이션하도록 교육합니다."
+  },
+  "Chapter 02 Neuro-Adaptive Engine": {
+    "ko": "Chapter 02 신경 적응형 엔진"
+  },
+  "The Neuro-Adaptive Personalization Architecture": {
+    "ko": "신경 적응형 개인화 아키텍처"
+  },
+  "Every child processes spatial, verbal, and computational concepts at distinct neurological cadences. FlexKids AI utilizes an autonomous personalization engine that continuously analyzes student interaction telemetry. Rather than forcing all students through a monolithic textbook, our system dynamically modulates task complexity, pacing, and modality based on three live feedback vectors:": {
+    "ko": "모든 아동은 저마다 고유한 신경학적 리듬에 따라 공간적·언어적·컴퓨팅적 개념을 처리합니다. FlexKids AI는 학생의 상호작용 텔레메트리를 실시간으로 분석하는 자율 개인화 엔진을 활용합니다. 모든 학생에게 획일화된 교재를 강요하는 대신, 당사 시스템은 3가지 실시간 피드백 벡터를 기반으로 과제 복잡도, 학습 속도 및 모달리티를 동적으로 조정합니다:"
+  },
+  "The Cognitive Adaptivity Coefficient Equation": {
+    "ko": "인지 적응 계수 방정식"
+  },
+  "To optimize difficulty calibration and prevent both boredom and cognitive fatigue, the FlexKids AI platform continuously evaluates the Cognitive Adaptivity Coefficient ($CAC$):": {
+    "ko": "난이도 보정을 최적화하고 지루함과 인지적 피로를 방지하기 위해, FlexKids AI 플랫폼은 인지 적응 계수($CAC$)를 지속적으로 평가합니다:"
+  },
+  "CAC_t = [ (S_success * η_autonomy) / (T_dwell / T_norm) ] * [ 1 + log10(1 + C_creative) ] Where: • S_success = Task completion accuracy score on the current algorithmic module (0.0 to 1.0) • η_autonomy = Autonomy ratio (proportion of problem solved without triggering hint prompts) • T_dwell = Observed time spent executing the task (seconds) • T_norm = Age-calibrated baseline benchmark time for the given logic challenge (seconds) • C_creative = Creative divergence index (measuring novel prompt variations and structural solutions beyond standard examples) • Optimal Flow Boundary: 0.85 &le; CAC_t &le; 1.25. (If CAC_t > 1.25, advance difficulty tier; if < 0.85, trigger scaffold).": {
+    "ko": "CAC_t = [ (S_success * η_autonomy) / (T_dwell / T_norm) ] * [ 1 + log10(1 + C_creative) ] (산출 항목: • S_success = 현재 알고리즘 모듈의 과제 완수 정확도 점수 (0.0 ~ 1.0) • η_autonomy = 자율성 비율 (힌트 프롬프트 호출 없이 해결된 과제 비율) • T_dwell = 과제 수행에 소요된 관측 시간 (초) • T_norm = 해당 논리 과제에 대한 연령 보정 기준 벤치마크 시간 (초) • C_creative = 창의적 발산 지수 (표준 예시를 넘어서는 새로운 프롬프트 변형 및 구조적 솔루션 측정 지표) • 최적 몰입 경계선: 0.85 &le; CAC_t &le; 1.25. [CAC_t > 1.25일 경우 난이도 티어 상향, CAC_t < 0.85일 경우 스캐폴딩(Scaffold) 지원 트리거])"
+  },
+  "This mathematical calibration guarantees that every child remains in an optimal state of cognitive flow, maximizing long-term retention and fostering genuine joy in intellectual conquest.": {
+    "ko": "이러한 수학적 정밀 보정은 모든 아동이 최적의 인지적 몰입(Flow) 상태를 유지하도록 보장하며, 장기 기억 파지율을 극대화하고 지적 정복에 대한 진정한 희열을 고취합니다."
+  },
+  "Chapter 04 Safety & Sandboxing": {
+    "ko": "제04장 안전성 및 샌드박싱 (Safety & Sandboxing)"
+  },
+  "Triple-Shield Safety Architecture for Youth AI": {
+    "ko": "청소년 AI를 위한 트리플 쉴드 안전 아키텍처"
+  },
+  "Deploying artificial intelligence for young learners demands unparalleled safety, ethical governance, and data privacy. FlexKids AI operates inside a proprietary Triple-Shield Sandboxed Environment:": {
+    "ko": "유소년 학습자를 위한 인공지능 배치는 비견할 데 없는 안전성, 윤리적 거버넌스 및 데이터 프라이버시를 요구합니다. FlexKids AI는 독점적인 '트리플 쉴드 샌드박스 환경(Triple-Shield Sandboxed Environment)' 내에서 구동됩니다."
+  },
+  "Shield 1: Zero-PII Ingestion Perimeter: No personally identifiable information (real names, locations, voice biometrics, school details) is ever transmitted to external model APIs. All prompts undergo client-side token stripping and anonymization.": {
+    "ko": "쉴드 1: 제로-PII 수집 경계: 일체의 개인식별정보(실명, 위치, 음성 생체인식, 학교 정보 등)는 외부 모델 API로 전송되지 않습니다. 모든 프롬프트는 클라이언트 사이드 토큰 스트리핑 및 비식별화 과정을 거칩니다."
+  },
+  "Shield 2: Real-Time Hallucination & Inappropriate Content Interceptor: Bidirectional semantic firewalls parse both incoming student prompts and outgoing AI responses, neutralizing any toxic, biased, or inappropriate outputs before display.": {
+    "ko": "쉴드 2: 실시간 환각 및 부적절 콘텐츠 인터셉터: 양방향 시맨틱 방화벽이 유입되는 학생 프롬프트와 송출되는 AI 응답을 동시에 파싱하여 유해성, 편향성 또는 부적절한 출력을 화면 표시 전에 선제적으로 무력화합니다."
+  },
+  "Shield 3: Sovereign Age-Calibrated Vector Embeddings: RAG databases accessible to youth accounts are strictly curated and fact-checked, preventing exposure to adult commercial themes or unverified misinformation.": {
+    "ko": "쉴드 3: 주권적 연령 보정 벡터 임베딩: 청소년 계정이 접근 가능한 RAG 데이터베이스는 엄격하게 큐레이션 및 팩트체크되어, 성인용 상업 테마나 검증되지 않은 오정보에 대한 노출을 원천 차단합니다."
+  },
+  "Chapter 05 Curricular Matrix": {
+    "ko": "제05장 교육과정 매트릭스 (Curricular Matrix)"
+  },
+  "Age-Calibrated Curricular Competency Matrix": {
+    "ko": "연령 보정 교육과정 역량 매트릭스"
+  },
+  "The curriculum progresses through distinct cognitive stages, ensuring solid mastery of foundational computational logic before advancing to high-level multi-agent system creation:": {
+    "ko": "본 교육과정은 뚜렷한 인지 발달 단계에 따라 점진적으로 전개되며, 고차원적 멀티 에이전트 시스템 구축 단계로 진입하기 전 기초적인 컴퓨테이셔널 로직을 완벽히 체득하도록 보장합니다."
+  },
+  "Chapter 06 Longitudinal Impact": {
+    "ko": "제06장 종단적 파급 효과 (Longitudinal Impact)"
+  },
+  "Cognitive Development Metrics & Educational Outcomes": {
+    "ko": "인지 발달 지표 및 교육적 성과"
+  },
+  "Longitudinal tracking across pilot cohorts demonstrates marked cognitive acceleration compared to peers exposed only to traditional media or legacy computing courses:": {
+    "ko": "파일럿 코호트 전반에 걸친 종단적 추적 결과, 레거시 컴퓨팅 코스나 전통적 미디어에만 노출된 대조군 대비 현격한 인지 가속화 성향이 입증되었습니다."
+  },
+  "Chapter 07 Ecosystem Pipeline": {
+    "ko": "제07장 생태계 파이프라인 (Ecosystem Pipeline)"
+  },
+  "The K2F Pipeline: Junior Pioneers to Global Leaders": {
+    "ko": "K2F 파이프라인: 주니어 개척자에서 글로벌 리더로"
+  },
+  "FlexKids AI represents the foundational stage of *SC's lifelong talent incubation flywheel. By the time students reach the Pioneer stage (ages 15-16), they seamlessly bridge into our executive and professional academy, Edu Institute Knowledge To Flex:": {
+    "ko": "FlexKids AI는 *SC의 평생 인재 육성 플라이휠의 기반 단계를 담당합니다. 학습자가 파이오니어 단계(만 15-16세)에 도달하면 당사의 최고위 및 전문 아카데미인 'Edu Institute Knowledge To Flex'로 유기적으로 연계됩니다."
+  },
+  "Direct Apprenticeship Pathways: Advanced FlexKids graduates qualify for junior research apprenticeships within *SC's intelligence core, contributing to real-world code reviews and automated test suites.": {
+    "ko": "직접 도제 경로: 고급 FlexKids 수료생은 *SC 인텔리전스 코어 내의 주니어 연구 도제 과정 자격을 획득하여, 실제 코드 리뷰 및 자동화 테스트 스위트 개발에 직접 기여합니다."
+  },
+  "Global Junior Hackathons: Annual competitions bring together teams from Seoul, Jakarta, Singapore, and Bangalore to address regional challenges, such as flood warning telemetry or marine coral conservation models.": {
+    "ko": "글로벌 주니어 해커톤: 연례 대회를 통해 서울, 자카르타, 싱가포르, 뱅갈루루 팀들이 한자리에 모여 홍수 경보 원격 측정, 해양 산호초 보존 모델 등 지역 차원의 도전 과제를 해결합니다."
+  },
+  "Sovereign Tech Independence: Rather than viewing technology as something built exclusively by distant Silicon Valley monopolies, our young learners recognize themselves as the sovereign architects of the digital future.": {
+    "ko": "소버린 기술 주권: 우리 청소년 학습자들은 기술을 머나먼 실리콘밸리 독점 기업의 전유물로 인식하지 않고, 스스로를 디지털 미래의 주권적 설계자로 자각합니다."
+  },
+  "FlexKids AI guarantees that the Signal Star Universe is backed by an enduring multi-generational pipeline of brilliant, compassionate, and technically formidable leaders.": {
+    "ko": "FlexKids AI는 시그널 스타 유니버스가 명민함, 공감 능력, 강력한 기술력을 겸비한 차세대 리더십 파이프라인을 영속적으로 확보하도록 보장합니다."
+  },
+  "Foundational Mission": {
+    "ko": "근본적 사명 (Foundational Mission)"
+  },
+  "Neuro-Adaptive Engine": {
+    "ko": "뉴로-어댑티브 엔진 (Neuro-Adaptive Engine)"
+  },
+  "1. Cognitive Dwell & Hesitation Telemetry": {
+    "ko": "1. 인지 체류 및 망설임 텔레메트리 (Cognitive Dwell & Hesitation Telemetry)"
+  },
+  "Tracks gaze concentration, cursor hesitation intervals, and trial-and-error iterations. If a student experiences confusion with conditional logic gates, the platform smoothly transitions from abstract code to tactile visual metaphors (e.g., water pipe valves or magnetic track switches).": {
+    "ko": "시선 집중도, 커서 지체 구간, 시행착오 반복 횟수를 추적합니다. 학습자가 조건부 로직 게이트에서 혼란을 겪을 경우, 플랫폼은 추상 코드에서 직관적인 시각적 메타포(예: 수도 밸브, 자기 트랙 스위치 등)로 유연하게 전환합니다."
+  },
+  "2. Multimodal Challenge Synthesis": {
+    "ko": "2. 멀티모달 챌린지 종합 (Multimodal Challenge Synthesis)"
+  },
+  "Visual learners receive node-and-wire visual graphs; auditory learners interact via dynamic conversational AI mentors; and kinetic thinkers construct game simulations. The underlying logic schema remains identical, ensuring full conceptual transfer regardless of presentation mode.": {
+    "ko": "시각적 학습자에게는 노드-와이어 시각 그래프가 제공되고, 청각적 학습자는 대화형 AI 멘토와 상호작용하며, 운동 감각적 사고형 학습자는 게임 시뮬레이션을 직접 구축합니다. 기저의 논리 스키마는 동일하게 유지되므로 표출 방식과 무관하게 완전한 개념 전이가 이루어집니다."
+  },
+  "3. Anti-Frustration Scaffolding": {
+    "ko": "3. 좌절 방지 스캐폴딩 (Anti-Frustration Scaffolding)"
+  },
+  "When struggle exceeds optimal learning boundaries (the \"Zone of Proximal Development\"), the system provides Socratic micro-hints rather than answers, guiding the learner to discover the resolution independently.": {
+    "ko": "학습적 난이도가 최적의 학습 임계영역(즉, '근접발달영역')을 초과할 경우, 시스템은 직접적인 정답 대신 소크라테스식 마이크로 힌트를 제공하여 학습자 스스로 해결책을 발견하도록 유도합니다."
+  },
+  "Safety & Sandboxing": {
+    "ko": "안전성 및 샌드박싱 (Safety & Sandboxing)"
+  },
+  "Curricular Matrix": {
+    "ko": "교육과정 매트릭스 (Curricular Matrix)"
+  },
+  "Tier & Age Group": {
+    "ko": "티어 및 연령군"
+  },
+  "Core Logic Concept": {
+    "ko": "핵심 로직 개념"
+  },
+  "Primary Interactive Project": {
+    "ko": "핵심 인터랙티브 프로젝트"
+  },
+  "Computational Milestone": {
+    "ko": "컴퓨팅 마일스톤"
+  },
+  "Safety Boundaries": {
+    "ko": "안전 통제 경계"
+  },
+  "Classification, Sequences & Loops": {
+    "ko": "분류, 시퀀스 및 루프"
+  },
+  "Voice-Directed Animated Storybook": {
+    "ko": "음성 구동형 애니메이션 스토리북"
+  },
+  "Understanding instructions vs data": {
+    "ko": "명령어 대 데이터의 분별 이해"
+  },
+  "Fully offline voice synthesis": {
+    "ko": "완전 오프라인 음성 합성"
+  },
+  "Conditional Trees & Context Framing": {
+    "ko": "조건부 트리 및 컨텍스트 프레이밍"
+  },
+  "Interactive Virtual Pet with Mood Logic": {
+    "ko": "감정 로직 기반 인터랙티브 가상 펫"
+  },
+  "Prompt context vs model weights": {
+    "ko": "프롬프트 컨텍스트 대 모델 가중치"
+  },
+  "Pre-indexed dictionary bounds": {
+    "ko": "사전 인덱싱된 딕셔너리 한계 범위"
+  },
+  "Vector Spaces, RAG & Tool Calling": {
+    "ko": "벡터 공간, RAG 및 툴 콜링"
+  },
+  "Personal Study Assistant with Fact Checks": {
+    "ko": "팩트 체킹 기반 개인 맞춤형 학습 어시스턴트"
+  },
+  "Zero-hallucination verification": {
+    "ko": "환각 제로(Zero-Hallucination) 검증"
+  },
+  "Isolated personal sandbox": {
+    "ko": "독립 격리형 개인 샌드박스"
+  },
+  "Autonomous Agents & API Pipelines": {
+    "ko": "자율 에이전트 및 API 파이프라인"
+  },
+  "Multi-Agent Community Problem Solver": {
+    "ko": "멀티 에이전트 기반 커뮤니티 문제 해결 시스템"
+  },
+  "End-to-end Python microservice": {
+    "ko": "엔드투엔드 Python 마이크로서비스"
+  },
+  "Open source audit review": {
+    "ko": "오픈소스 감사 검토"
+  },
+  "Longitudinal Impact": {
+    "ko": "종단적 영향도"
+  },
+  "Cognitive & Academic Dimension": {
+    "ko": "인지 및 학업적 차원"
+  },
+  "Control Group (Standard School)": {
+    "ko": "대조군 (일반 정규 교육)"
+  },
+  "Legacy Block-Coding Group": {
+    "ko": "기존 블록 코딩 교육군"
+  },
+  "FlexKids AI Cohort": {
+    "ko": "FlexKids AI 코호트"
+  },
+  "Complex Problem Decomposition": {
+    "ko": "복합 문제 분해"
+  },
+  "32nd Percentile": {
+    "ko": "32 백분위수"
+  },
+  "54th Percentile": {
+    "ko": "54 백분위수"
+  },
+  "91st Percentile (2.8x lift)": {
+    "ko": "91 백분위수 (2.8배 향상)"
+  },
+  "Critical Verification of AI Output": {
+    "ko": "AI 산출물에 대한 비판적 검증"
+  },
+  "18% Accuracy": {
+    "ko": "정확도 18%"
+  },
+  "24% Accuracy": {
+    "ko": "정확도 24%"
+  },
+  "89% Accuracy (Detects bias & errors)": {
+    "ko": "정확도 89% (편향 및 오류 감지)"
+  },
+  "Creative Algorithmic Divergence": {
+    "ko": "창의적 알고리즘 발산 역량"
+  },
+  "Low (Copy-paste patterns)": {
+    "ko": "낮음 (단순 복사·붙여넣기 패턴)"
+  },
+  "Moderate (Standard templates)": {
+    "ko": "보통 (표준 템플릿 수준)"
+  },
+  "High (Autonomous pipeline invention)": {
+    "ko": "높음 (자율적 파이프라인 설계 및 창출)"
+  },
+  "Sustained Focus on Deep Projects": {
+    "ko": "심층 프로젝트 지속 몰입도"
+  },
+  "22 min average dwell": {
+    "ko": "평균 몰입 유지 시간 22분"
+  },
+  "38 min average dwell": {
+    "ko": "평균 몰입 유지 시간 38분"
+  },
+  "74 min average dwell in flow state": {
+    "ko": "플로우(Flow) 상태 내 평균 몰입 유지 시간 74분"
+  },
+  "Cross-Cultural Teamwork Readiness": {
+    "ko": "다문화 팀워크 준비도"
+  },
+  "Local only": {
+    "ko": "로컬 한정"
+  },
+  "Limited": {
+    "ko": "제한적"
+  },
+  "Global (Cross-hub collaborative repos)": {
+    "ko": "글로벌 (글로벌 허브 간 협업 리포지토리 운용)"
+  },
+  "Ecosystem Pipeline": {
+    "ko": "생태계 파이프라인"
+  },
+  "L2 Command Hub & Global Cognitive Infrastructure. Synchronizing lifelong learning architectures from foundational youth AI literacy to executive quantum business engineering across *SC's international campus matrix.": {
+    "ko": "L2 커맨드 허브 및 글로벌 인지 인프라. *SC의 글로벌 캠퍼스 매트릭스 전반에 걸쳐 유소년 기초 AI 리터러시부터 C-레벨 양자 비즈니스 엔지니어링에 이르는 평생 학습 아키텍처를 동기화."
+  },
+  "Integrated Sub-Verticals": {
+    "ko": "통합 서브 버티컬"
+  },
+  "Knowledge To Flex (Executive & Professional) and FlexKids AI (Ages 6-16).": {
+    "ko": "Knowledge To Flex (경영진 및 전문가 과정) 및 FlexKids AI (6~16세 대상)."
+  },
+  "Global Campus Footprint": {
+    "ko": "글로벌 캠퍼스 풋프린트"
+  },
+  "Decentralized physical hubs across Korea, Indonesia, Singapore, USA, and beyond.": {
+    "ko": "한국, 인도네시아, 싱가포르, 미국 및 전 세계로 분산 확장된 물리적 거점(Hub)."
+  },
+  "Autonomous Tutoring Engine": {
+    "ko": "자율형 튜터링 엔진"
+  },
+  "Zero-hallucination vector learning companions providing instant pedagogical feedback.": {
+    "ko": "즉각적인 교수학적 피드백을 제공하는 환각 제로(Zero-hallucination) 벡터 러닝 컴패니언."
+  },
+  "Ecosystem Reinvestment": {
+    "ko": "생태계 재투자"
+  },
+  "7 Active Sprints": {
+    "ko": "7개 활성 스프린트"
+  },
+  "18 Junior Labs": {
+    "ko": "18개 주니어 랩"
+  },
+  "Constellation Alignment": {
+    "ko": "컨스텔레이션 얼라인먼트"
+  },
+  "Recombinant Bio-Peptides, Biomimetic Collagen Matrix, and Transdermal Cellular Skin Regeneration. Synthesizing human-identical growth factors and targeted lipid nanocarriers for high-potency aesthetic repair and dermatological restoration.": {
+    "ko": "재조합 바이오 펩타이드, 생체 모사 콜라겐 매트릭스 및 경피 세포 피부 재생. 고효능 에스테틱 리페어와 피부과적 복원을 위해 인체 동일 성장인자 및 표적 지질 나노캐리어를 합성합니다."
+  },
+  "Peptide Sequence Purity": {
+    "ko": "펩타이드 서열 순도"
+  },
+  "HPLC-verified bio-identical recombinant oligopeptide purity manufactured under ISO 22716 GMP.": {
+    "ko": "ISO 22716 GMP 기준 하에 제조되고 HPLC 분석으로 검증된 생체 동일 재조합 올리고펩타이드 순도."
+  },
+  "Mean Nanocarrier Size": {
+    "ko": "나노캐리어 평균 입경"
+  },
+  "Sub-micron lipid vesicle diameter enabling spontaneous stratum corneum lipid bilayer intercalation.": {
+    "ko": "각질층 지질 이중층으로의 자발적 삽입(intercalation)을 실현하는 서브마이크론 지질 소포체 직경."
+  },
+  "Collagen-I Synthesis": {
+    "ko": "제1형 콜라겐(Collagen-I) 합성"
+  },
+  "In vitro human fibroblast extracellular matrix synthesis amplification over 72 hours.": {
+    "ko": "72시간에 걸친 인체 섬유아세포 세포외 기질(ECM) 합성 증폭 (In vitro)."
+  },
+  "Barrier Restoration": {
+    "ko": "장벽 복원"
+  },
+  "Validated clinical transepidermal water loss (TEWL) recovery following laser or peeling procedures.": {
+    "ko": "레이저 및 필링 시술 후 경피 수분 손실도(TEWL) 회복에 대한 임상 검증 완료."
+  },
+  "Chapter 01 Molecular Biotechnology": {
+    "ko": "Chapter 01 분자생명공학 (Molecular Biotechnology)"
+  },
+  "The Science of Recombinant Biomimetic Oligopeptides": {
+    "ko": "재조합 생체 모사 올리고펩타이드의 과학"
+  },
+  "Traditional cosmetic formulations rely on hydrolyzed animal collagens and generic protein fragments whose excessive molecular weights (> 100 kDa) prevent any meaningful transdermal penetration, leaving them stranded on the superficial surface of the stratum corneum. Sis Proteins pioneers a profound biological leap: utilizing microbial precision fermentation in non-pathogenic yeast (Pichia pastoris) and specialized plant bioreactors to synthesize 100% human-identical recombinant growth factor peptides.": {
+    "ko": "기존 화장품 제형은 분자량이 과도하게 커(> 100 kDa) 유의미한 경피 흡수가 불가능하고 각질층 표면에 머무를 수밖에 없는 가수분해 동물성 콜라겐과 범용 단백질 단편에 의존해 왔습니다. Sis Proteins는 독보적인 생물학적 도약을 주도합니다. 비병원성 효모(Pichia pastoris) 기반 미생물 정밀 발효와 특화된 식물 바이오리액터를 활용하여 100% 인체 동일 재조합 성장인자 펩타이드를 합성합니다."
+  },
+  "Our primary recombinant cascade includes rh-Oligopeptide-1 (Epidermal Growth Factor - EGF), rh-Polypeptide-1 (basic Fibroblast Growth Factor - bFGF), and rh-Oligopeptide-2 (Insulin-like Growth Factor-1 - IGF-1). These bio-active signaling molecules bind directly to specific transmembrane tyrosine kinase receptors on epidermal keratinocytes and dermal fibroblasts, initiating a synchronized transcriptional wave that drives neocollagenesis, elastin synthesis, and rapid cellular turnover.": {
+    "ko": "당사의 핵심 재조합 캐스케이드는 rh-Oligopeptide-1(상피세포 성장인자 - EGF), rh-Polypeptide-1(염기성 섬유아세포 성장인자 - bFGF), rh-Oligopeptide-2(인슐린양 성장인자-1 - IGF-1)를 포함합니다. 이러한 생리활성 신호 전달 분자는 표피 각질형성세포 및 진피 섬유아세포의 특정 막관통 타이로신 키나아제 수용체와 직접 결합하여 콜라겐 신생, 엘라스틴 합성 및 신속한 세포 턴오버를 유도하는 동기화된 전사 파동을 촉발합니다."
+  },
+  "Biomimetic Precision: Every amino acid sequence synthesized by Sis Proteins is structurally identical to endogenous human growth factors, completely eliminating the immune rejection, allergic reactivity, and BSE risks associated with slaughterhouse-derived animal collagens.": {
+    "ko": "생체 모사 정밀성(Biomimetic Precision): Sis Proteins가 합성하는 모든 아미노산 서열은 내인성 인간 성장인자와 구조적으로 동일하여, 도축 유래 동물성 콜라겐에서 비롯되는 면역 거부반응, 알레르기 유발성 및 광우병(BSE) 위험을 원천적으로 차단합니다."
+  },
+  "Chapter 02 Delivery Engineering": {
+    "ko": "Chapter 02 전달 엔지니어링 (Delivery Engineering)"
+  },
+  "Transdermal Delivery System (TDS) & Lipid Nanocarriers": {
+    "ko": "경피 전달 시스템(TDS) 및 지질 나노캐리어"
+  },
+  "The human stratum corneum is a formidable biological fortress composed of dense corneocyte bricks cemented by hydrophobic lipid bilayers. Raw peptides, being polar and hydrophilic, cannot traverse this lipid matrix on their own. Sis Proteins solves this classical pharmacological hurdle via our proprietary Sub-Micron Lipid Bilayer Transdermal Delivery System (TDS):": {
+    "ko": "인간의 각질층은 소수성 지질 이중층으로 견고하게 결합된 조밀한 각질세포 벽돌로 구성된 강력한 생물학적 방벽입니다. 극성이자 친수성인 순수 펩타이드는 자체적으로 이 지질 매트릭스를 통과할 수 없습니다. Sis Proteins는 독자적인 서브마이크론 지질 이중층 경피 전달 시스템(TDS)을 통해 이 고전적인 약리학적 한계를 극복합니다."
+  },
+  "The Transdermal Flux & Extracellular Matrix Synthesis Model": {
+    "ko": "경피 유속 및 세포외 기질(ECM) 합성 모델"
+  },
+  "The transdermal transport kinetics and subsequent extracellular matrix (ECM) regeneration stimulated by Sis Proteins are governed by Fickian diffusion modified for deformable lipid nanocarriers:": {
+    "ko": "Sis Proteins가 유도하는 경피 전달 동력학 및 후속 세포외 기질(ECM) 재생은 변형성 지질 나노캐리어에 맞게 보정된 픽의 확산 법칙(Fickian diffusion)의 지배를 받습니다."
+  },
+  "J_trans = [ (D_lipid * K_partition) / h_stratum ] * C_donor * exp( -E_elastic / (R * T) ) ECM_amp(t) = ECM_0 + α_fibro * ∫_0^t [ J_trans(τ) / (K_m + J_trans(τ)) ] * exp(-λ_deg * (t - τ)) dτ Where: • J_trans = Transdermal peptide flux rate through the stratum corneum (μg / cm² / hr) • D_lipid = Diffusion coefficient within the intercellular lipid matrix (cm² / s) • K_partition = Nanocarrier-to-stratum-corneum lipid partition coefficient • h_stratum = Stratum corneum effective barrier thickness (~15-20 μm) • E_elastic = Vesicle membrane deformation activation energy (lowered to 12.4 kJ/mol by edge activators) • ECM_amp = Total synthesized Collagen-I and Elastin density in the dermal layer at time t • α_fibro = Fibroblast transcriptional stimulation amplification constant • K_m = Michaelis-Menten receptor saturation threshold for the EGF/FGF receptor complex": {
+    "ko": "J_trans = [ (D_lipid * K_partition) / h_stratum ] * C_donor * exp( -E_elastic / (R * T) )\nECM_amp(t) = ECM_0 + α_fibro * ∫_0^t [ J_trans(τ) / (K_m + J_trans(τ)) ] * exp(-λ_deg * (t - τ)) dτ\n\n주요 변수:\n• J_trans = 각질층 투과 펩타이드 유속 (μg / cm² / hr)\n• D_lipid = 세포간 지질 매트릭스 내 확산 계수 (cm² / s)\n• K_partition = 나노캐리어-각질층 지질 분배 계수\n• h_stratum = 각질층 유효 장벽 두께 (~15-20 μm)\n• E_elastic = 소포체 막 변형 활성화 에너지 (에지 액티베이터에 의해 12.4 kJ/mol로 감소)\n• ECM_amp = 시간 t에서 진피층 내 합성된 총 제1형 콜라겐 및 엘라스틴 밀도\n• α_fibro = 섬유아세포 전사 자극 증폭 상수\n• K_m = EGF/FGF 수용체 복합체에 대한 미카엘리스-멘텐(Michaelis-Menten) 수용체 포화 임계값"
+  },
+  "Clinical modeling demonstrates that Sis Proteins nanocarriers achieve a 14.2x higher steady-state flux ($J_{trans}$) compared to conventional unencapsulated peptide solutions, resulting in exponential ECM remodeling.": {
+    "ko": "임상 모델링 결과, Sis Proteins 나노캐리어는 기존 비캡슐화 펩타이드 수용액 대비 14.2배 높은 정상 상태 유속($J_{trans}$)을 달성하여 기하급수적인 ECM 리모델링을 견인하는 것으로 입증되었습니다."
+  },
+  "Chapter 04 Clinical Formulations": {
+    "ko": "Chapter 04 임상 제형 (Clinical Formulations)"
+  },
+  "Clinical Indications & Professional Derma Protocols": {
+    "ko": "임상 적응증 및 전문 더마 프로토콜"
+  },
+  "Sis Proteins formulations are deployed across dermatological clinics, aesthetic surgery recovery centers, and medical spas throughout Asia, the Americas, and Europe:": {
+    "ko": "Sis Proteins 제형은 아시아, 미주 및 유럽 전역의 피부과 클리닉, 성형외과 회복 센터, 메디컬 스파에 공급 및 적용되고 있습니다."
+  },
+  "Post-Ablative Laser & RF Microneedling Recovery: Accelerated re-epithelialization following CO2 fractional lasers and radiofrequency micro-injury, reducing downtime erythema by 65%.": {
+    "ko": "박피성 레이저 및 RF 마이크로니들링 시술 후 회복: CO2 프락셔널 레이저 및 고주파 미세 손상 후 재상피화를 촉진하여 다운타임 홍반을 65% 감소시킵니다."
+  },
+  "Compromised Barrier & Atopic Xerosis Restoration: Intensive rebuilding of the epidermal acid mantle, restoring physiological lipid ratios in chronically compromised or steroid-thinned skin.": {
+    "ko": "손상 장벽 및 아토피성 건조증 복원: 표피 약산성 피지막(Acid Mantle)을 집중적으로 재건하여 만성 손상 피부 또는 스테로이드 사용으로 얇아진 피부의 생리학적 지질 비율을 정상화합니다."
+  },
+  "Photoaged Matrix Re-Densification: Reversal of solar elastosis and dermal thinning through deep type-I and type-III procollagen mRNA upregulation.": {
+    "ko": "광노화 세포외기질 고밀도화: 제1형 및 제3형 프로콜라겐 mRNA의 심층 상향 조절을 통한 일광탄력섬유증 및 진피 박막화의 역전."
+  },
+  "Pre-Operative Skin Conditioning: Preparing fragile mature skin for surgical intervention to ensure rapid primary wound closure and minimal scarring.": {
+    "ko": "수술 전 피부 컨디셔닝: 취약한 노화 피부의 수술적 개입을 사전에 대비하여 신속한 일차성 상처 봉합 유도 및 흉터 형성 최소화."
+  },
+  "Chapter 05 Comparative Efficacy": {
+    "ko": "제05장 비교 효능 평가"
+  },
+  "Molecular Benchmark: Sis Proteins vs. Legacy Actives": {
+    "ko": "분자 벤치마크: Sis Proteins 대 레거시 활성 물질"
+  },
+  "A rigorous analytical comparison illustrates why recombinant nanocarrier bio-peptides vastly outperform traditional cosmetic ingredients across critical clinical metrics:": {
+    "ko": "엄밀한 분석적 비교를 통해 재조합 나노캐리어 바이오 펩타이드가 주요 임상 지표 전반에서 기존 화장품 원료를 압도하는 이유를 규명합니다:"
+  },
+  "Chapter 06 Manufacturing & GMP": {
+    "ko": "제06장 제조 및 GMP 표준"
+  },
+  "Cleanroom Biomanufacturing & Global Supply Chain": {
+    "ko": "클린룸 바이오 제조 및 글로벌 공급망"
+  },
+  "Production of Sis Proteins is conducted inside state-of-the-art ISO 22716 and cGMP certified biopharmaceutical cleanrooms located in Incheon and Osong, Korea (SCK base):": {
+    "ko": "Sis Proteins의 생산은 한국 인천 및 오송(SCK 거점)에 위치한 최첨단 ISO 22716 및 cGMP 인증 바이오의약품 클린룸에서 수행됩니다:"
+  },
+  "Chapter 07 Constellation Integration": {
+    "ko": "제07장 콘스텔레이션 통합"
+  },
+  "Integration Within SISMii & the *SC Commercial Galaxy": {
+    "ko": "SISMii 및 *SC 커머셜 갤럭시 내 통합"
+  },
+  "Sis Proteins functions as the high-tech cellular biotechnology engine of the SISMii Beauty vertical, establishing immediate synergies across the broader Signal Star ecosystem:": {
+    "ko": "Sis Proteins는 SISMii 뷰티 버티컬의 첨단 세포생명공학 엔진으로 기능하며, 광범위한 Signal Star 생태계 전반에 걸쳐 즉각적인 시너지를 창출합니다:"
+  },
+  "Cross-Formulation with Jave Nature Premium: Sis Proteins recombinant growth factors are merged with Jave Nature's bio-fermented botanical extracts to create hybrid \"Clean-Clinical\" formulations that combine organic gentleness with pharmaceutical cellular efficacy.": {
+    "ko": "Jave Nature 프리미엄과의 크로스 포뮬레이션: Sis Proteins의 재조합 성장인자를 Jave Nature의 바이오 발효 보태니컬 추출물과 융합하여, 유기농 특유의 저자극성과 의약품급 세포 효능을 결합한 하이브리드 '클린-클리니컬(Clean-Clinical)' 포뮬레이션을 구축합니다."
+  },
+  "Veterinary & Pet Clinical Applications (SISTAR MedIX): The exact same recombinant bio-peptide technology is deployed into veterinary wound healing sprays and post-operative dermaceuticals for canines and felines suffering from severe dermatitis.": {
+    "ko": "수의학 및 반려동물 임상 적용(SISTAR MedIX): 동일한 재조합 바이오 펩타이드 기술을 중증 피부염을 앓는 반려견 및 반려묘용 동물 창상 피복 스프레이 및 수술 후 피부 치료제(더마슈티컬)에 전개합니다."
+  },
+  "Global Cold-Chain Distribution: Lyophilized peptide vials and stabilized nanocarrier ampoules are exported across *SC's 8 international hubs (Korea SCK, Indonesia SCI, Singapore SCS, USA SCU, Vietnam SCV, India SCIND, China SCC, Japan SCJ) under continuous IoT temperature-monitored loggers.": {
+    "ko": "글로벌 콜드체인 유통: 동결건조 펩타이드 바이알 및 안정화 나노캐리어 앰플은 IoT 온도 모니터링 로거의 상시 추적 하에 *SC의 8대 글로벌 거점(한국 SCK, 인도네시아 SCI, 싱가포르 SCS, 미국 SCU, 베트남 SCV, 인도 SCIND, 중국 SCC, 일본 SCJ)으로 수출됩니다."
+  },
+  "Through Sis Proteins, *SC proves that true aesthetic luxury is grounded in rigorous biopharmaceutical engineering, delivering cellular regeneration that is measurably superior to superficial cosmetic promises.": {
+    "ko": "*SC는 Sis Proteins를 통해 진정한 에스테틱 럭셔리가 정밀한 바이오의약품 엔지니어링에 뿌리를 두고 있음을 입증하며, 피상적인 화장품 수준의 약속을 정량적으로 압도하는 세포 재생 효능을 제공합니다."
+  },
+  "Molecular Biotechnology": {
+    "ko": "분자생명공학"
+  },
+  "Delivery Engineering": {
+    "ko": "전달 엔지니어링"
+  },
+  "1. Nanocarrier Composition & Elastic Vesicle Architecture": {
+    "ko": "1. 나노캐리어 조성 및 탄성 소포체 아키텍처"
+  },
+  "Bio-active peptides are encapsulated inside deformable liposomal nanospheres composed of hydrogenated lecithin, physiological cholesterol, and skin-mimetic Ceramide NP. With a tightly controlled mean diameter of 84 &plusmn; 6 nm, these vesicles do not rupture at the skin surface; rather, their elastic lipid envelopes deform to slide through intercellular lipid crevices.": {
+    "ko": "생체 활성 펩타이드는 수소화 레시틴, 생리학적 콜레스테롤, 피부 모사 세라마이드 NP로 구성된 변형 가능 리포솜 나노구체 내에 캡슐화됩니다. 엄격하게 통제된 84 ± 6 nm의 평균 직경을 갖는 이 소포체는 피부 표면에서 파괴되지 않고, 탄성 지질막이 유연하게 변형되어 세포간 지질 틈새를 관통합니다."
+  },
+  "2. Proteolytic Enzyme Shielding": {
+    "ko": "2. 단백질 분해 효소 차단 실딩"
+  },
+  "Endogenous epidermal proteases rapidly hydrolyze naked peptides within minutes of application. Encapsulation inside our lipid nanocarriers shields the peptide payload from enzymatic degradation, ensuring full molecular integrity until destination release at the dermal-epidermal junction.": {
+    "ko": "표피 내재성 단백질 분해 효소는 도포 후 수 분 내에 네이키드 펩타이드를 신속히 가수분해합니다. 당사의 지질 나노캐리어 내부 캡슐화는 펩타이드 페이로드를 효소 분해로부터 보호하여, 진피-표피 접합부의 표적 방출 지점까지 완전한 분자 온전성을 유지합니다."
+  },
+  "3. Sustained-Release Depot Kinetics": {
+    "ko": "3. 서방형 데포 동력학"
+  },
+  "Upon reaching viable keratinocyte layers, the lipid vesicle gradually fuses with cellular membranes, providing a steady 24-hour therapeutic release that stimulates continuous growth factor receptor phosphorylation.": {
+    "ko": "유핵 각질형성세포층에 도달한 지질 소포체는 세포막과 점진적으로 융합되어, 성장인자 수용체의 인산화를 지속 자극하는 24시간 연속 치료 방출 프로파일을 제공합니다."
+  },
+  "Clinical Formulations": {
+    "ko": "임상 포뮬레이션"
+  },
+  "Comparative Efficacy": {
+    "ko": "비교 효능"
+  },
+  "Hydrolyzed Animal Collagen": {
+    "ko": "가수분해 동물성 콜라겐"
+  },
+  "Synthetic Copper Peptides (GHK-Cu)": {
+    "ko": "합성 구리 펩타이드 (GHK-Cu)"
+  },
+  "Sis Proteins Recombinant Bio-Peptides": {
+    "ko": "Sis Proteins 재조합 바이오 펩타이드"
+  },
+  "Tri-Layer AI Architecture for Quantum-Inspired Enterprise Orchestration: Integrating Machine Learning, Deep Learning, and Parameter-Efficient Fine-Tuning within the Qubit Algorithm™": {
+    "ko": "양자 영감 기업 오케스트레이션을 위한 3계층 AI 아키텍처: Qubit Algorithm™ 내 머신러닝, 딥러닝 및 파라미터 효율적 파인튜닝의 통합"
+  },
+  "Subtitle: Systematization and Operational Mechanics of Machine Learning, Deep Learning, and Fine-Tuning Technologies for Building Multi-Project Management Applications Powered by the Qubit Algorithm™": {
+    "ko": "부제: 큐비트 알고리즘 기반 다중 프로젝트 경영 애플리케이션 구현을 위한 머신러닝·딥러닝·파인튜닝 3대 AI 기술 체계화 및 작동 메커니즘"
+  },
+  "Authors: SISTAR Company (*SC), Dennii Ku (denniiku)": {
+    "ko": "저자 (Authors): SISTAR Company (*SC), Dennii Ku (denniiku)"
+  },
+  "Building enterprise software that simultaneously generates multiple projects and autonomously governs Cross-Project Entanglement requires translating abstract management algorithms into concrete artificial intelligence engineering pipelines. Early rule-based automation prototypes fixed task importance weights and inter-project correlation scores as static heuristics (0.8 / 0.4, threshold 0.25), failing to reflect volatile market data and departmental bottlenecks in real time. To implement the quantum-inspired management principles of the Qubit Algorithm™ (\"One Spark, Infinite Galaxifying\") as a production commercial application, this paper systematically classifies modern AI technologies into three foundational layers—(1) Machine Learning (ML), (2) Deep Learning (DL), and (3) Parameter-Efficient Fine-Tuning (PEFT)—and establishes the mathematical and systems mechanics each technology performs inside the Qubit Algorithm™. Specifically, we formalize a 3-layer hybrid AI orchestration mechanism combining statistical forecasting and combinatorial optimization (ML) for demand and resource scheduling; Matryoshka Representation Learning (MRL), Hybrid Vector/GraphRAG, and Multi-Task Learning (GradNorm + TAG) for dynamic task weights (W) and cross-correlation (C_{ij}) computation (DL); and Low-Rank Adaptation (LoRA) supervised fine-tuning and knowledge distillation for 100% deterministic JSON schema emission and 90% local inference cost reduction.": {
+    "ko": "다중 프로젝트를 동시다발적으로 생성하고 교차 프로젝트 간 시너지(Cross-Project Entanglement)를 자율 관리하는 엔터프라이즈 소프트웨어를 구축하기 위해서는, 추상적인 경영 알고리즘을 구체적인 인공지능 공학 파이프라인으로 번역해야 한다. 초기 규칙 기반 자동화 프로토타입은 태스크 중요도와 프로젝트 간 상관계수를 정적 휴리스틱(0.8 / 0.4, 임계치 0.25)으로 고정 처리함으로써 변동하는 시장 데이터와 부서별 병목을 실시간 반영하지 못하는 한계를 보였다. 본 논문은 Qubit Algorithm™의 양자 영감 경영 원리(One Spark, Infinite Galaxifying)를 실제 상용 애플리케이션으로 구현하기 위해, 현대 인공지능 기술을 (1) 머신러닝(Machine Learning), (2) 딥러닝(Deep Learning), (3) 파인튜닝(Fine-Tuning)의 3대 핵심 계층으로 체계적 분류·나열하고 각 기술이 큐비트 알고리즘 내부에서 수행하는 고유한 수리적·시스템적 작동 메커니즘을 규명한다. 구체적으로 본 연구는 통계적 예측·조합 최적화(ML)를 통한 수요·자원 스케줄링, 마트료시카 임베딩(MRL)·하이브리드 Vector/GraphRAG·멀티태스크 러닝(GradNorm + TAG) 기반의 동적 가중치(W) 및 교차 상관계수(C_{ij}) 연산(DL), 그리고 저랭크 어댑터(LoRA) 지도 미세조정 및 지식 증류(Fine-Tuning)를 통한 JSON 스키마 100% 고정 및 로컬 추론 비용 90% 절감이 결합된 3계층 하이브리드 AI 오케스트레이션 메커니즘을 정식화한다."
+  },
+  "1. Introduction: From Conceptual Algorithm to Commercial Enterprise Software": {
+    "ko": "1. 서론: 개념적 알고리즘에서 상용 경영 소프트웨어로의 전환"
+  },
+  "Established by SISTAR Company (*SC), the Qubit Algorithm™ is a quantum-inspired enterprise operating system that differentiates a single operational input (One Spark) into superposed states in complex Hilbert space, enabling multiple derivative projects, corporate divisions, and global hubs to generate simultaneous outcomes at t = 0. However, developing this mechanism into a production Project Genesis and Cross-Project Management Application requires moving beyond relying on a single monolithic Large Language Model (LLM) for every computation.": {
+    "ko": "시스타컴퍼니(*SC)가 정립한 Qubit Algorithm™은 단일 업무 입력(One Spark)을 복소 힐베르트 공간 상의 중첩 상태로 분화시켜, 다수의 파생 프로젝트와 부서·거점이 t = 0 시점에 동시 성과를 창출하게 만드는 양자 영감 경영 운영체제이다. 그러나 이 메커니즘을 실제 기업 현장에서 작동하는 프로젝트 생성 및 교차 프로젝트 관리 애플리케이션 소프트웨어로 개발하려면, 단일 대형언어모델(LLM)에 모든 연산을 의존하는 방식에서 벗어나야 한다."
+  },
+  "Enterprise AI architecture research demonstrates that training daily fluctuating wholesale prices, tariffs, and inventory counts into an LLM via fine-tuning causes immediate knowledge obsolescence and destroys source provenance, whereas raw prompt calls alone cannot compute dynamic weights and correlations across dozens of projects in a consistent schema. Therefore, a complete software implementation must decompose Machine Learning (ML), Deep Learning (DL), and Fine-Tuning into specialized sub-technologies and map each module of the Qubit Algorithm™ to its optimal engineering layer.": {
+    "ko": "실무 엔터프라이즈 AI 아키텍처 연구에 따르면, 매일 변동하는 도매가·관세·재고 수치를 LLM 파인튜닝으로 학습시키면 학습 직후 지식이 노후화되고 출처 추적이 불가능해지는 반면, 단순 프롬프트 호출만으로는 수십 개 프로젝트의 동적 가중치와 상관계수를 일관된 포맷으로 정밀 연산할 수 없다. 따라서 완벽한 소프트웨어 구현을 위해서는 머신러닝(ML), 딥러닝(DL), 파인튜닝(Fine-Tuning)의 세부 기술들을 명확히 분해하고, 각 기술의 공학적 강점에 맞추어 Qubit Algorithm™의 모듈을 배치하는 설계가 필수적이다."
+  },
+  "2. Comprehensive Taxonomy of the Three AI Technology Layers": {
+    "ko": "2. Qubit Algorithm™ 구동을 위한 3대 AI 기술 전수 분류"
+  },
+  "2.1 Layer 1: Machine Learning (ML) Technology Suite": {
+    "ko": "2.1 제1계층: 머신러닝 (Machine Learning, ML) 기술 군"
+  },
+  "Machine Learning provides the mathematical and statistical learning framework that identifies patterns in structured tabular data, graph topologies, and resource constraints to derive optimal decision boundaries and allocation solutions:": {
+    "ko": "머신러닝은 정형 수치 데이터, 그래프 구조, 제약 조건 하에서 패턴을 학습하고 최적의 의사결정 경계와 자원 배분 해를 도출하는 수리·통계적 학습 체계이다:"
+  },
+  "Gradient Boosting, Time-Series & HDBSCAN Clustering": {
+    "ko": "그래디언트 부스팅, 시계열 예측 및 HDBSCAN 군집화"
+  },
+  "1. Supervised Regression & Classification: Gradient Boosted Trees (XGBoost, LightGBM, CatBoost) predict continuous variables (expected sales volume, COGS variance) and classify B2B buyer closing probabilities from structured tables (historical revenue, lead time, unit cost, FX rates), while Time-Series Models (Prophet, ARIMA/SARIMA) forecast seasonal demand and cashflows. 2. Unsupervised Clustering & Dimensionality Reduction: Density-Based Hierarchical Clustering (HDBSCAN, K-Means) automatically groups hundreds of projects and buyer cohorts by industry, supply chain, and target profile, while PCA & UMAP project high-dimensional parameter spaces onto 2D/3D executive dashboard coordinates.": {
+    "ko": "1. 지도 학습 기반 회귀 및 분류: 그래디언트 부스팅 트리(XGBoost, LightGBM, CatBoost)는 정형 테이블 데이터(과거 매출, 리드타임, 단가, 환율)로부터 예상 판매량과 원가 변동폭을 예측하고 B2B 바이어 계약 성사 확률을 분류하며, 시계열 모델(Prophet, ARIMA/SARIMA)은 계절성과 주기성을 반영해 미래 수요와 현금흐름을 추정한다. 2. 비지도 군집화 및 차원 축소: 밀도 기반 계층적 군집화(HDBSCAN, K-Means)는 수백 개 프로젝트와 고객군을 산업·공급망·타겟 특성별로 자동 클러스터링하고, PCA 및 UMAP은 고차원 파라미터 공간을 대시보드 시각화 좌표로 투영한다."
+  },
+  "DSM, QUBO/MIP Scheduling & Inverse RL": {
+    "ko": "설계구조매트릭스(DSM), QUBO/MIP 스케줄링 및 역강화학습(IRL)"
+  },
+  "3. Combinatorial Optimization & Graph Search: Design Structure Matrices (DSM) & Topological Sorting matrix-encode task dependencies and ripple paths to pinpoint bottlenecks, while Quadratic Unconstrained Binary Optimization (QUBO) & Mixed-Integer Programming (MIP) solve for the optimal binary execution vector xk ∈ {0, 1} under budget, warehouse, and headcount constraints (RCPSP). 4. Reinforcement Learning (RL) & Inverse RL (IRL): Contextual Bandits & Q-Learning continuously update profit-maximizing policies across live price spreads and ad bidding, while Inverse RL (IRL) infers implicit reward functions from the founder's historical approval/rejection trajectories.": {
+    "ko": "3. 조합 최적화 및 그래프 탐색: 설계구조매트릭스(DSM) 및 위상 정렬은 태스크 간 선후행 의존성과 파급 경로를 행렬화하여 병목을 식별하며, QUBO 및 혼합정수계획법(MIP)은 예산·창고·인력 제약(RCPSP) 하에서 전체 시너지를 극대화하는 최적 이진 실행 조합을 탐색한다. 4. 강화학습(RL) 및 역강화학습(IRL): 밴딧 알고리즘과 Q-Learning은 실시간 가격 격차와 광고 입찰에서 수익 극대화 정책을 갱신하고, 역강화학습(IRL)은 경영자의 과거 승인·반려 궤적으로부터 암묵적 선호 보상 함수를 역추정한다."
+  },
+  "2.2 Layer 2: Deep Learning (DL) Technology Suite": {
+    "ko": "2.2 제2계층: 딥러닝 (Deep Learning, DL) 기술 군"
+  },
+  "Deep Learning extracts high-dimensional latent representations from unstructured multimodal data (text, images, video, graphs) via multi-layer neural networks to learn complex non-linear correlations:": {
+    "ko": "딥러닝은 다층 신경망을 통해 텍스트·이미지·영상·그래프 등 비정형 다중 모달 데이터로부터 고차원 잠재 표현을 추출하고 복잡한 비선형 상관관계를 학습하는 체계이다:"
+  },
+  "Matryoshka Representations & Multi-Hop GraphRAG": {
+    "ko": "마트료시카 다중 해상도 표현 학습(MRL) 및 다중 홉 GraphRAG"
+  },
+  "1. Representation Learning & Hierarchical Embeddings: Transformer Encoders convert natural-language project specs, departmental Task Modules, and individual TTP specs into semantic vectors. Matryoshka Representation Learning (MRL) nests multi-resolution information (128-dim to 1,024-dim) inside a single vector, enabling dynamic trade-offs between ultra-fast primary filtering and high-precision secondary matching. 2. Graph Neural Networks & Hybrid RAG: Dense Vector RAG retrieves volatile facts (wholesale prices, tariffs, inventory) via cosine similarity, while GNNs & GraphRAG structure multi-hop causal paths across entities (Ingredient – Licensing – Manufacturer – Buyer).": {
+    "ko": "1. 표현 학습 및 계층적 임베딩: 트랜스포머 인코더는 자연어 프로젝트 기획, 부서별 Task Module, 개인 TTP 명세를 고차원 의미 벡터로 변환한다. 마트료시카 표현 학습(MRL)은 단일 벡터 내부에 다중 해상도(128차원~1,024차원) 정보를 중첩 인코딩하여 고속 1차 필터링과 정밀 2차 매칭 간 동적 트레이드오프를 제공한다. 2. 그래프 신경망 및 하이브리드 RAG: 밀집 벡터 검색(Vector RAG)은 실시간 도매가·관세·재고를 코사인 유사도로 즉시 인출하며, GraphRAG는 성분–인허가–제조사–바이어 간 다중 홉 인과 경로를 구조화하여 복합 추론을 수행한다."
+  },
+  "GradNorm, TAG Affinity & Vision/Video Foundation Models": {
+    "ko": "GradNorm 기울기 균형, TAG 친화도 및 비전/비디오 생성 모델"
+  },
+  "3. Multi-Task Deep Learning (MTL): GradNorm dynamically adjusts task loss weights wi(t) on a shared neural backbone so fast-converging tasks do not drown out the gradients of complex bottleneck tasks, while Task Affinity Grouping (TAG) computes 1-step lookahead gradient updates to measure whether Task i reduces (positive transfer) or worsens (negative transfer) Task j's loss. 4. Multimodal Vision, Speech & Generative DL: Vision Transformers (ViT / Gemini Vision) detect and count warehouse pallets, boxes, and sachets from CCTV streams, while Sharon TTS & Veo 3.1 Video Diffusion render multilingual narrations and shoppable short-form videos.": {
+    "ko": "3. 멀티태스크 딥러닝(MTL): GradNorm은 공유 신경망 백본에서 여러 부서 태스크를 동시 학습할 때 쉬운 태스크가 어려운 병목 태스크의 기울기를 압도하지 않도록 손실 가중치를 동적 조절하며, 태스크 친화도 그룹핑(TAG)은 1-스텝 선행 기울기 업데이트로 긍정적/부정적 전이 친화도 행렬을 산출한다. 4. 멀티모달 비전·음성·생성형 딥러닝: 비전 트랜스포머(ViT / Gemini Vision)는 창고 CCTV 스트림에서 팔레트·박스·사쉐를 실시간 탐지·계수하고, Sharon TTS와 Veo 3.1 비디오 확산 모델은 다국어 내레이션과 쇼퍼블 숏폼 영상을 자동 렌더링한다."
+  },
+  "2.3 Layer 3: Parameter-Efficient Fine-Tuning (PEFT) Technology Suite": {
+    "ko": "2.3 제3계층: 파라미터 효율적 파인튜닝 (PEFT) 기술 군"
+  },
+  "3. Five-Stage Integration Mechanism Inside the Qubit Algorithm™": {
+    "ko": "3. Qubit Algorithm™ 내 3대 AI 기술 5단계 통합 작동 메커니즘"
+  },
+  "From the moment a single operational input (One Spark) enters the application to the computation of dynamic weights (W), cross-project correlations (Cij), and autonomous execution, the three AI layers interlock across a 5-Stage Closed-Loop Pipeline:": {
+    "ko": "단일 입력(One Spark)이 애플리케이션에 유입되어 프로젝트 생성, 동적 가중치(W) 및 교차 프로젝트 상관계수(Cij) 연산, 그리고 자율 실행에 이르기까지 3대 AI 계층은 5단계 폐쇄 루프 파이프라인으로 맞물려 작동한다:"
+  },
+  "3.2 Master Role Allocation Matrix Across the Three AI Paradigms": {
+    "ko": "3.2 Qubit Algorithm™ 3대 AI 기술 역할 분담 총괄 매트릭스"
+  },
+  "Whereas Stage-1 research established the theoretical and structural mechanics of Machine Learning, Deep Learning, and Fine-Tuning applied to the Qubit Algorithm™, this Stage-2 monograph specifies the Core Tensor Data Structures, 5 Core Software Algorithms (with executable Python pseudocode), computational complexity optimizations, and end-to-end execution workflows required to code and deploy the system as a production software application (\"QubitOS\"). The primary engineering challenges confronting multi-project management software in live operations are O(N^2) combinatorial explosion as project count (N) scales and cascade failures triggered by unstructured data ingestion. To resolve these bottlenecks, this paper specifies: (1) QuantumSeedVectorizer for multi-resolution Matryoshka vector indexing; (2) GradNormDynamicWeighter combining inverse training rates with output dynamic scaling; (3) CrossProjectEntanglementEngine for sparse-cluster cross-project Co-relation % computation; (4) DestructiveInterferenceFirewall for independent hard-constraint gating; and (5) QUBOEntangledDispatcher for resource-constrained QUBO scheduling and LoRA JSON execution at t = 0.": {
+    "ko": "1단계 연구가 Qubit Algorithm™에 적용되는 머신러닝, 딥러닝, 파인튜닝의 이론적·구조적 메커니즘을 규명했다면, 본 2단계 논문은 이를 실제 애플리케이션 소프트웨어(QubitOS)로 코딩·구현하기 위한 핵심 텐서 데이터 구조, 5대 소프트웨어 핵심 알고리즘(Python 의사코드 포함), 연산 복잡도 최적화 기법, 그리고 엔드투엔드 실행 파이프라인을 명세한다. 다중 프로젝트 관리 소프트웨어가 현업에서 직면하는 가장 큰 공학적 난제는 프로젝트 수(N) 증가에 따른 O(N^2) 조합 폭발과 비정형 데이터 유입으로 인한 연쇄 실행 오류이다. 이를 해결하기 위해 본 논문은 (1) 다중 해상도 마트료시카 벡터 인덱싱 알고리즘(QuantumSeedVectorizer), (2) 출력 정규화가 결합된 동적 가중치 산출 엔진(GradNormDynamicWeighter), (3) 희소 클러스터 기반 교차 프로젝트 상관계수 연산기(CrossProjectEntanglementEngine), (4) 독립 하드 제약 방화벽(DestructiveInterferenceFirewall), 그리고 (5) 자원 제약 QUBO 스케줄링 및 LoRA JSON t = 0 디스패처(QUBOEntangledDispatcher)의 상세 알고리즘 명세를 제시한다."
+  },
+  "4. End-to-End Application Workflow & C-Suite Dashboard Integration": {
+    "ko": "4. 엔드투엔드 애플리케이션 실행 워크플로우 및 C-Suite 대시보드 연동"
+  },
+  "This Stage-2 monograph completed the canonical tensor data structures and five core software algorithms (QuantumSeedVectorizer, GradNormDynamicWeighter, CrossProjectEntanglementEngine, DestructiveInterferenceFirewall, and QUBOEntangledDispatcher) required to build QubitOS as a production enterprise software platform—providing the definitive engineering blueprint for maximizing multi-project entanglement synergy while blocking negative risk transfer at the hardware/code gate.": {
+    "ko": "본 2단계 논문은 Qubit Algorithm™을 실제 구동 가능한 엔터프라이즈 애플리케이션 소프트웨어(QubitOS)로 구현하기 위한 표준 텐서 데이터 구조와 5대 핵심 알고리즘을 완성하였다. 이를 통해 단일 프로젝트의 정밀한 계량 관리뿐만 아니라 다중 프로젝트 간의 긍정적 얽힘 시너지를 극대화하고 부정적 리스크 전이를 하드 게이트로 원천 봉쇄하는 차세대 자율 경영 플랫폼의 표준 엔지니어링 청사진을 제공한다."
+  },
+  "Whereas our preceding monograph (\"Qubit Algorithm, One Spark Infinite Galaxifying\") established the mathematical principles of multi-project management and the macro-architecture of the 6 AI Centers, this paper formalizes the \"Canonical Quantum-Seed Project Schema\" and the 3-dimensional intra-project and cross-project execution mechanism required to implement this system with zero error in real enterprise operations. From a 40-year corporate management and venture capital perspective, the root cause of failure in multi-agent AI systems is not the absence of algorithms, but the fact that initial seed projects are drafted as unstructured prose—leaving input/output interfaces across departments, global hubs, and AI Centers unstandardized. To solve this, this study establishes: (1) an engineering feasibility proof grounded in the modern enterprise AI stack; (2) the canonical anatomy of a single project comprising a quantified Header Vector (H_k), a 3D Execution Tensor (6 AI Centers x 8 Departments x 8 Global Bases), 4 Cross-Project Entanglement Ports (Pi_k^ent), and Hard-Constraint Firewall Gates (Gamma_k^hard); (3) an optimal task allocation matrix leveraging the comparative advantage of each AI Center, corporate division, and international hub; and (4) a real-world canonical blueprint and 6-step production SOP applied to the Korea-Indonesia anchor cluster (Sistar Medix - SisPet - SisPharm).": {
+    "ko": "선행 연구(Qubit Algorithm, One Spark Infinite Galaxifying)가 다중 프로젝트 경영의 수리적 원리와 6대 AI 센터의 거시적 구조를 정립했다면, 본 논문은 이를 실제 기업 현장에서 오류 없이 구현하기 위한 단일 프로젝트의 표준 제작 규격(Canonical Quantum-Seed Project Schema)과 프로젝트 내부 및 교차 프로젝트 간 3차원 실행 메커니즘을 제시한다. 40년 기업 경영 및 벤처 투자 관점에서 다중 AI 에이전트 시스템이 실패하는 근본 원인은 알고리즘의 부재가 아니라, 최초 프로젝트가 비정형 텍스트로 설계되어 부서·거점·AI 센터 간 입출력 인터페이스가 규격화되지 않는 데 있다. 이를 해결하기 위해 본 연구는 (1) 현대 엔터프라이즈 AI 스택 기반의 구현 가능성(Feasibility) 검증, (2) 단일 프로젝트를 목표 계량 벡터(H_k), 3차원 실행 텐서(6 AI Centers × 8 Departments × 8 Global Bases), 4대 교차 프로젝트 얽힘 포트, 그리고 하드 제약 방화벽으로 구성하는 표준 프로젝트 해부학, (3) 각 AI 센터·부서·글로벌 거점의 비교우위 기반 최적 태스크 할당 매트릭스, 그리고 (4) 한국–인도네시아 앵커 클러스터(Sistar Medix–SisPet–SisPharm)를 대상으로 한 실전 표준 프로젝트 청사진 및 6단계 제작 SOP를 정식화한다."
+  },
+  "Strategic Compression: The COSMO SEED™ Five-Engine Business Architecture": {
+    "ko": "전략적 압축(Strategic Compression): COSMO SEED™ 5대 자율 엔진 비즈니스 아키텍처"
+  },
+  "O(2^K) exponential search": {
+    "ko": "O(2^K) 지수 탐색"
+  },
+  "Candidate pre-pruning via Hard Firewall (Algorithm 4) followed by Tabu Search / MIP solver.": {
+    "ko": "하드 제약 방화벽(Algorithm 4)으로 후보군을 사전 가지치기한 뒤 타부 서치(Tabu Search) / MIP 솔버 적용."
+  },
+  "Solves hundreds of task combinations to near-optimality in < 100ms.": {
+    "ko": "수백 개 태스크 조합의 준최적해를 100ms 이내 산출."
+  },
+  "MODULE 1 & MODULE 2 • GENESIS & ENTANGLEMENT SIMULATOR": {
+    "ko": "모듈 1 & 모듈 2 • 프로젝트 생성기 및 교차 얽힘 시뮬레이터"
+  },
+  "Project Creator & Live Co-relation % Network Graph": {
+    "ko": "프로젝트 생성기(Project Creator) & 실시간 Co-relation % 네트워크 그래프"
+  },
+  "• [Module 1] Project Creator (One Spark Structuring): When the user enters a new project target (e.g., Sistar Medix Indonesian POCT launch), Algorithms 1 and 2 immediately render task cards across the 8 Departments × 6 AI Centers with calibrated dynamic weights (%). • [Module 2] Cross-Project Entanglement Simulator: Connects the new project to active projects (SisPet, SisPharm, Qubit Flow) via Algorithms 3 and 4, displaying live correlations (88%, 82%) alongside negative-transfer links blocked by the AI Risk Management Center (0% - Blocked).": {
+    "ko": "• [모듈 1] Project Creator (One Spark 입력 및 자동 구조화): 사용자가 신규 프로젝트 목표(예: Sistar Medix 인니 POCT 진단키트 런칭)를 입력하면 Algorithm 1과 Algorithm 2가 즉시 8대 부서 × 6대 AI 센터별 태스크 카드와 초기 동적 가중치(%)를 생성해 화면에 렌더링한다. • [모듈 2] Cross-Project Entanglement Simulator (Co-relation % 네트워크 뷰): 생성된 프로젝트를 기존 활성 프로젝트(SisPet, SisPharm, Qubit Flow)와 연결하면 Algorithm 3과 Algorithm 4가 작동하여 실시간 상관계수(88%, 82%)와 함께 AI Risk Management Center가 차단한 음수 전이 프로젝트(0% - Blocked)를 시각적 그래프로 보여준다."
+  },
+  "MODULE 3 & MODULE 4 • ONE-CLICK DISPATCH & SELF-EVOLUTION": {
+    "ko": "모듈 3 & 모듈 4 • 원클릭 양자 디스패치 및 자가 진화 루프"
+  },
+  "t = 0 Quantum Dispatch & Overnight Telemetry Loop": {
+    "ko": "t = 0 원클릭 양자 디스패치 & 야간 텔레메트리 자가 진화 루프"
+  },
+  "• [Module 3] One-Click Quantum Dispatch: Upon executive approval (Trigger Spark), Algorithm 5 emits the deterministic LoRA JSON payload to execute web deployment, B2B proposal dispatch, and 70/30 PG split settlement webhooks simultaneously at t = 0. • [Module 4] Live Telemetry & Re-Weighting Loop: Post-execution conversion rates, CCTV Vision warehouse audits, and MCP x402 API revenues feed back through the Overnight Data Factory to update the GradNorm and TAG matrices autonomously.": {
+    "ko": "• [모듈 3] One-Click Quantum Dispatch (QUBO 최적 실행 버튼): 경영자가 대시보드에서 단일 승인(Trigger Spark)을 누르면 Algorithm 5가 LoRA JSON을 사출해 웹 배포, B2B 제안서 발송, 70/30 PG 정산 웹훅을 t = 0에 동시 실행한다. • [모듈 4] Live Telemetry & Re-Weighting Loop: 실행 이후 수집되는 실제 전환율, 창고 CCTV Vision 재고 실사, MCP x402 API 수익 데이터가 야간 Overnight Data Factory를 통해 다시 GradNorm과 TAG 행렬을 자율 업데이트하여 소프트웨어가 스스로 진화한다."
+  },
+  "Objective & Logic: Upon receiving a new project input (One Spark), structures project targets, 8 departmental Task Modules, and individual TTP specs via the LoRA SFT parser, then generates both an ultra-fast 128-dim retrieval vector and a high-precision 1,024-dim computation vector in a single forward pass using Matryoshka Representation Learning (e_{1:128} ⊂ e_{1:768} ⊂ e_{1:1024}):": {
+    "ko": "목적 및 핵심 로직: 신규 프로젝트(One Spark) 생성 시 프로젝트 목표, 8대 부서 Task Module, 개인 TTP 명세를 LoRA SFT 파서로 구조화 청킹한 뒤, 단일 MRL 임베딩 모델 순전파(e_{1:128} ⊂ e_{1:768} ⊂ e_{1:1024})를 통해 초고속 검색용 128차원 벡터와 정밀 가중치 연산용 1,024차원 벡터를 동시 생성한다:"
+  },
+  "Objective & Logic: Rather than brute-forcing O(N2) pairs, Algorithm 3 screens the top-K candidates in O(log N) time via MRL 128-dim HNSW indexing, then fuses 1,024-dim semantic similarity, 4-Port overlap + DSM/GraphRAG reachability, and TAG 1-step lookahead affinity. Algorithm 4 enforces the independent Hard-Constraint Firewall, immediately zeroing out any link with Negative Transfer (TAG ≤ 0), weak correlation (< 0.25), unapproved RA/Vision stock, or unverified 70/30 PG / K-SURE / RPF guardrails:": {
+    "ko": "목적 및 핵심 로직: 전체 O(N²) 쌍을 전수 계산하는 대신, Algorithm 3은 MRL 128차원 HNSW 인덱스로 상위 후보군(Top-K)을 O(log N) 시간에 초고속 스크리닝한 뒤 1,024차원 정밀 의미 유사도, 4대 표준 포트 공유 강도 + DSM/GraphRAG 도달성, 그리고 TAG 1-스텝 선행 전이 친화도를 융합한다. Algorithm 4는 독립 하드 제약 방화벽을 집행하여 부정적 전이(TAG ≤ 0), 약한 상관성(< 0.25), RA 미승인/CCTV 재고 불일치, 또는 70/30 PG·K-SURE·3개월 RPF 미충족 연결을 즉시 0으로 상쇄 간섭 처리한다:"
+  },
+  "ABSTRACT": {
+    "ko": "초록"
+  },
+  "← Back to Cosmo Seed Biz Models": {
+    "ko": "← cosmo seed 비즈니스 모델로 돌아가기"
+  },
+  "ENGINE 01 • QUBIT FACTORY™": {
+    "ko": "엔진 01: Qubit Factory™"
+  },
+  "ENGINE 03 • QUBIT STAR™": {
+    "ko": "엔진 03: Qubit Star™"
+  },
+  "DUAL-TRACK LEGAL FIREWALL": {
+    "ko": "이중 트랙 법적 방화벽"
+  },
+  "LoRA fine-tuning + cosine similarity ≥0.82": {
+    "ko": "LoRA 파인튜닝 + 코사인 유사도 &ge;0.82"
+  },
+  "≥ 99.8% Deterministic": {
+    "ko": "&ge; 99.8% 결정론적 확정성"
+  },
+  "≥ 99.9% Successful Commit": {
+    "ko": "99.9% 이상의 성공적인 커밋(Successful Commit)"
+  },
+  "Where C_factory(Q) is the dynamic tier-1 volume quotation curve, T_tariff(HS) is the algorithmic landed duty lookup for the designated Harmonized System code, F_freight(Q) is the optimized container freight step-function collapsing by up to 64% when cluster volume Q ≥ Q_FCL, and &sigma;_insurance(K-SURE) represents the sovereign trade credit hedge cost (≤ 0.38% of FOB).": {
+    "ko": "여기서 C_factory(Q)는 동적 티어-1 물량 견적 곡선이며, T_tariff(HS)는 지정된 품목 분류 코드에 대한 알고리즘 기반 인도 관세 조회 값이고, F_freight(Q)는 클러스터 물량 Q &ge; Q_FCL일 때 최대 64%까지 감소하는 최적화된 컨테이너 운임 계단 함수이며, &sigma;_insurance(K-SURE)는 주권 무역 신용 헤지 비용(FOB의 &le; 0.38%)을 나타냅니다."
+  },
+  "Where W_labor is the baseline monthly wage of replaced human operators, FTE_equiv is the shift replacement multiplier, &beta;_overhead is the indirect labor cost (benefits, recruiting, insurance ≥ 0.28), L_monthly is the turnkey RaaS monthly lease rate, &delta;_cashback = 0.05 is the instant 5% payment gateway discount, and M_telemetry is the local partner maintenance fee covered within the 30% webhook split.": {
+    "ko": "여기서 W_labor는 교체된 인간 운영자의 기본 월 임금, FTE_equiv는 교대 대체 승수, β_overhead는 간접 노동 비용(혜택, 채용, 보험 ≥ 0.28), L_monthly는 턴키 RaaS 월 임대 요율, δ_cashback = 0.05는 즉시 5% 결제 게이트웨이 할인, M_telemetry는 30% 웹훅 분할 내에 포함되는 로컬 파트너 유지 관리 비용입니다."
+  },
+  "Where V_k is the order volume of SKU k, P_legacy_k is the broker-inflated landed unit cost, P_SC_k(V_k) is the dynamic tier-discounted factory price unlocked via *SC, I_credit(K-SURE) is the working capital interest savings derived from 90-day sovereign BNPL financing (≥ 4.2% annualized cashflow value), and C_transaction is the friction-free payment fee, minimized by our 5% instant cashback.": {
+    "ko": "여기서 V_k는 SKU k의 주문량이고, P_legacy_k는 브로커가 부풀린 착륙 단위 비용이고, P_SC_k(V_k)는 *SC를 통해 잠금 해제된 동적 계층 할인 공장 가격, I_credit(K-SURE)는 90일 주권 BNPL 파이낸싱(연간 현금 흐름 가치 ≥ 4.2%)에서 얻은 운전 자본 이자 절감액, C_transaction은 당사가 최소화한 무마찰 결제 수수료입니다. 5% 즉시캐시백."
+  },
+  "Where Q_i is the treatment volume for patient i, P_patient_i is the clinic retail take-home product price, P_lab_direct_i(V_cluster) is the volume-discounted wholesale rate unlocked via SisCart cluster pooling (≤ 0.48 × MSRP), and M_procedure_i is the clinical service fee. Practices achieve a 2.4x margin expansion compared to legacy Western cosmetic brands while providing patients superior Korean formulation quality.": {
+    "ko": "여기서 Q_i는 환자 i의 치료량, P_patient_i는 병원 소매 테이크 홈 제품 가격, P_lab_direct_i(V_cluster)는 SisCart 클러스터 풀링(≤ 0.48 × MSRP)을 통해 잠금 해제된 볼륨 할인 도매 요금, M_procedure_i는 임상 서비스 요금입니다. 프랙티스는 기존 서양 화장품 브랜드 대비 2.4배의 마진 확대를 달성하는 동시에 환자에게 우수한 한국 처방 품질을 제공합니다."
+  },
+  "< 1.8 Seconds": {
+    "ko": "18초"
+  },
+  "SCS • SINGAPORE": {
+    "ko": "SCS (싱가포르)"
+  },
+  "01 • TIME BANK": {
+    "ko": "01. 타임 뱅크(Time Bank)"
+  },
+  "02 • SPACE BANK": {
+    "ko": "02. 스페이스 뱅크(Space Bank)"
+  },
+  "03 • IDEA BANK": {
+    "ko": "03. 아이디어뱅크"
+  },
+  "Explore On-Boarding Protocol": {
+    "ko": "온보딩 프로토콜 살펴보기 →"
+  },
+  "Where CosineSim computes the high-dimensional cosine proximity in Supabase pgvector (≥ 0.88 threshold), CitationMatch verifies strict substring attribution against verified source files, and TemporalWeight penalizes market data older than 24 hours (&alpha;=0.45, &beta;=0.40, &gamma;=0.15).": {
+    "ko": "여기서 CosineSim은 Supabase pgvector 내 고차원 코사인 유사도를 연산하고(임계값 &ge; 0.88), CitationMatch는 검증된 소스 문헌에 대한 엄격한 부분 문자열 귀속성을 검증하며, TemporalWeight는 24시간을 초과한 시장 데이터에 페널티를 부과합니다(&alpha;=0.45, &beta;=0.40, &gamma;=0.15)."
+  },
+  "Where Availability_Ratio ≥ 0.9999 and &theta; is a user experience penalty constant. Architectures optimized by NFQ consistently achieve a 4.8x higher SEQ compared to traditional monolithic container stacks.": {
+    "ko": "여기서 Availability_Ratio &ge; 0.9999이며 &theta;는 사용자 경험 페널티 상수입니다. NFQ가 최적화한 아키텍처는 기존 모놀리식 컨테이너 스택 대비 일관되게 4.8배 더 높은 SEQ를 달성합니다."
+  },
+  "≥ 99.8% WCO code alignment": {
+    "ko": "&ge; 99.8% WCO 코드 일치율"
+  },
+  "≤ 0.1% pallet count error": {
+    "ko": "&le; 0.1% 팔레트 계수 오차율"
+  },
+  "Runs 2,400+ automated regression cases daily, enforces Semantic Integrity Metrics (SIM ≥ 0.980), and triggers self-healing circuit breakers upon detecting model drift.": {
+    "ko": "일일 2,400회 이상의 자동화 회귀 테스트를 수행하고, 의미론적 무결성 지표(SIM &ge; 0.980)를 강제하며, 모델 드리프트 감지 시 자체 복구 서킷 브레이커를 작동시킵니다."
+  },
+  "≥ 5.0% Total Withanolides (USP)": {
+    "ko": "&ge; 5.0% 총 위타놀라이드(Withanolides) (USP)"
+  },
+  "≥ 30.0% AKBA (3-O-acetyl-11-keto)": {
+    "ko": "&ge; 30.0% AKBA (3-O-아세틸-11-케토)"
+  },
+  "≥ 55.0% Bacosides A & B": {
+    "ko": "&ge; 55.0% 바코사이드(Bacosides) A & B"
+  },
+  "≥ 95.0% Curcuminoids (Complex)": {
+    "ko": "&ge; 95.0% 커큐미노이드(Curcuminoids) 복합체"
+  },
+  "≥ 45.0% Tannins & Gallic Acid": {
+    "ko": "&ge; 45.0% 탄닌 및 몰식자산(Gallic Acid)"
+  },
+  "Korea (SCK) & Japan (SCJ)": {
+    "ko": "한국 (SCK) -> 일본 (SCJ)"
+  },
+  "ARCHITECTURAL MONOGRAPH • AI LEARNING PIPELINE": {
+    "ko": "아키텍처 모노그래프 • AI 학습 파이프라인"
+  },
+  "MONOGRAPH SERIES 07": {
+    "ko": "모노그래프 시리즈 07"
+  },
+  "07. AI Learning Pipeline →": {
+    "ko": "07. AI 학습 파이프라인 →"
+  },
+  "Open Paper 07: AI Learning Pipeline ->": {
+    "ko": "논문 07 열기: AI 학습 파이프라인 ->"
+  },
+  "AI Learning Pipeline: Nested Hierarchy of AI > Machine Learning > Deep Learning > Fine-Tuning and the Four Learning Paradigms Driving \"One Spark, Infinite Galaxifying\"": {
+    "ko": "AI 학습 파이프라인: AI > 머신러닝 > 딥러닝 > 파인튜닝의 포함 관계와 'One Spark, Infinite Galaxifying'을 구동하는 4대 학습 기술 체계"
+  },
+  "Subtitle: How the 4-Tier Inclusion Hierarchy and 4 Categories of Modern AI Learning Technologies Interlock inside SISTAR Company (*SC)’s Qubit Algorithm™ to Transform a Single Operational Spark into Simultaneous Multi-Project Revenue": {
+    "ko": "부제: 4대 핵심 개념 계층과 4대 카테고리별 AI 학습 기술이 시스타컴퍼니(*SC) Qubit Algorithm™ 내부에서 맞물려 단일 아이디어를 다중 프로젝트 동시 수익으로 폭발시키는 작동 메커니즘"
+  },
+  "ARCHITECTURAL OVERVIEW": {
+    "ko": "아키텍처 총괄 개요 (ARCHITECTURAL OVERVIEW)"
+  },
+  "The nested inclusion hierarchy of AI > Machine Learning > Deep Learning > Fine-Tuning and the classification of the four core learning paradigms capture the exact backbone of modern artificial intelligence engineering. When coupled with SISTAR Company (*SC)'s Qubit Algorithm™, this framework goes far beyond merely making AI smarter—it completes an autonomous enterprise management engine where a single operational idea (One Spark) explodes into simultaneous revenue across dozens of cross-entangled projects (Infinite Galaxifying). This monograph structures the architecture into three core pillars: (1) The 4-Tier Conceptual Inclusion Hierarchy mapped to the Qubit Algorithm™, (2) Operational Principles of the 4 AI Learning Categories and their Galaxifying Mechanics, and (3) The End-to-End One Spark to Infinite Galaxifying Integrated AI Learning Pipeline.": {
+    "ko": "AI > 머신러닝 > 딥러닝 > 파인튜닝의 포함 관계와 4대 학습 기술 분류는 현대 인공지능 공학의 핵심 뼈대를 정확히 꿰뚫고 있습니다. 이 체계에 시스타컴퍼니(*SC)의 Qubit Algorithm™을 결합하면, 단순히 AI가 똑똑해지는 수준을 넘어 단 하나의 아이디어(One Spark)가 수십 개 교차 프로젝트의 동시 수익(Infinite Galaxifying)으로 폭발하는 자율 경영 엔진이 완성됩니다. 본 문서는 (1) 4대 핵심 개념 계층과 Qubit Algorithm™ 매핑, (2) 4대 카테고리별 AI 학습 기술의 작동 원리 및 Galaxifying 적용 메커니즘, (3) 한눈에 보는 One Spark → Infinite Galaxifying 통합 파이프라인 순서로 구조화했습니다."
+  },
+  "CHAPTER 1 • 4-TIER INCLUSION HIERARCHY & ROLE MAPPING": {
+    "ko": "제1장 • 4대 핵심 개념 포함 관계 및 역할 매핑"
+  },
+  "1. Nested Inclusion Hierarchy of Core Concepts and Qubit Algorithm™ Role Mapping": {
+    "ko": "1. 핵심 개념의 포함 관계와 Qubit Algorithm™ 역할 매핑"
+  },
+  "The process by which enterprise AI achieves operational intelligence follows a clear structural sequence: “Building a massive foundational brain (AI / ML / DL) → Training it as our company’s specialized resident professional (Fine-Tuning) → Having it execute tasks grounded in live corporate databases (RAG).” Mapping the medical analogy to *SC’s production architecture yields the following 4-tier matrix:": {
+    "ko": "AI가 똑똑해지는 과정은 \"거대한 뇌를 만들고(AI/ML/DL) → 우리 회사 전문직으로 훈련시킨 뒤(Fine-Tuning) → 실시간 사내 DB를 보고 일하게 만드는(RAG)\" 구조입니다. 의학 비유에 *SC 시스템 내 실제 구현 위치를 연결하면 다음과 같습니다:"
+  },
+  "Tier": {
+    "ko": "구분"
+  },
+  "Conceptual Scope": {
+    "ko": "개념의 범위"
+  },
+  "Core Operating Principle": {
+    "ko": "핵심 작동 원리"
+  },
+  "Executive Analogy": {
+    "ko": "대표님 비유"
+  },
+  "Role in Qubit Algorithm™ & *SC Ecosystem": {
+    "ko": "Qubit Algorithm™ 및 *SC 시스템 적용 역할"
+  },
+  "AI (Artificial Intelligence)": {
+    "ko": "AI (인공지능)"
+  },
+  "Broadest Umbrella": {
+    "ko": "가장 넓음"
+  },
+  "The overarching technological discipline that emulates human cognition, judgment, and action.": {
+    "ko": "인간의 인지·판단·행동을 모방하는 전체 기술 체계"
+  },
+  "All of Medicine": {
+    "ko": "의학 전체"
+  },
+  "*SC Signal Star Universe overarching autonomous management ecosystem and the master 6 AI Centers architecture.": {
+    "ko": "*SC Signal Star Universe 전체 자율 경영 생태계 및 6대 AI 센터 총괄 아키텍처"
+  },
+  "Machine Learning (ML)": {
+    "ko": "머신러닝 (ML)"
+  },
+  "Subset of AI": {
+    "ko": "AI의 일부"
+  },
+  "Learns statistical patterns and optimal mathematical solutions from structured numerical and rule-based data.": {
+    "ko": "정형 수치·규칙 데이터에서 통계적 패턴과 최적 해를 학습"
+  },
+  "Specialized Fields (Internal Medicine, Surgery)": {
+    "ko": "내과·외과 등 전문 분야"
+  },
+  "3-Month Rolling Purchase Forecast (RPF), Design Structure Matrix (DSM) dependencies, and resource-constrained combinatorial optimization (QUBO/MIP).": {
+    "ko": "수요·원가 예측(RPF), 태스크 의존성 행렬(DSM), 자원 제약 조합 최적화(QUBO/MIP)"
+  },
+  "Deep Learning (DL)": {
+    "ko": "딥러닝 (DL)"
+  },
+  "Subset of ML": {
+    "ko": "머신러닝의 일부"
+  },
+  "Learns deep semantic representations across text, video, and relational graphs using multi-layer neural networks.": {
+    "ko": "다층 인공신경망으로 텍스트·영상·관계의 심층 의미를 학습"
+  },
+  "Precision Micro-Surgical Techniques": {
+    "ko": "정밀 수술 기법"
+  },
+  "3-Tier Task Vectorization (MRL), Dynamic Weights (W) & Cross-Project Co-relation % computation (GradNorm + TAG), and CCTV Vision stock audits.": {
+    "ko": "3계층 태스크 벡터화(MRL), 동적 가중치(W) 및 교차 상관계수(Co-relation %) 연산(GradNorm+TAG), CCTV Vision 실사"
+  },
+  "Fine-Tuning (PEFT)": {
+    "ko": "파인튜닝 (Fine-Tuning)"
+  },
+  "Optimization of DL": {
+    "ko": "딥러닝의 최적화 기법"
+  },
+  "Trains a pretrained foundation model on domain-specific datasets to lock output schemas, judgment tone, and inference speed.": {
+    "ko": "사전학습된 거대 모델에 소량 특화 데이터를 학습시켜 출력 규격·어조·속도를 최적화"
+  },
+  "Post-Medical School Residency Training": {
+    "ko": "의대 졸업 후 전공의 수련"
+  },
+  "100% deterministic Qubit Master JSON schema locking (LoRA), departmental judgment tone alignment, and local Ollama edge model distillation.": {
+    "ko": "Qubit Master JSON 100% 포맷 고정(LoRA), 부서별 판단 어조 정렬, 로컬 Ollama 소형 모델 경량화 증류"
+  },
+  "CHAPTER 2 • 4 CATEGORIES OF AI LEARNING & GALAXIFYING MECHANICS": {
+    "ko": "제2장 • 4대 카테고리별 AI 학습 기술과 GALAXIFYING 작동 원리"
+  },
+  "2. Four Major Categories of AI Learning Technologies & \"One Spark, Infinite Galaxifying\" Mechanics": {
+    "ko": "2. 카테고리별 주요 AI 학습 기술과 'One Spark, Infinite Galaxifying' 작동 원리"
+  },
+  "Below is the complete breakdown of how each of the four AI learning categories builds intelligence and operates across *SC’s 6 AI Centers, 8 corporate divisions, and Cross-Project Entanglement network:": {
+    "ko": "4가지 학습 기술 카테고리가 각각 어떤 원리로 AI를 똑똑하게 만들고, *SC의 6대 AI 센터·8대 부서·다중 프로젝트 얽힘(Cross-Project Entanglement)에서 어떻게 쓰이는지 정리했습니다:"
+  },
+  "2.1 Category 1: Foundational Learning Paradigms by Data Label Availability (Building Core Cognitive Stamina)": {
+    "ko": "① 데이터 정답(라벨) 유무에 따른 기본 학습 패러다임 (뇌의 기초 체력 형성)"
+  },
+  "These are the four fundamental mechanisms by which AI digests raw data and discovers underlying laws:": {
+    "ko": "AI가 데이터를 소화해 패턴을 깨닫는 4가지 기본 방식입니다:"
+  },
+  "PARADIGM 1 & PARADIGM 2 • SUPERVISED & UNSUPERVISED LEARNING": {
+    "ko": "패러다임 1 & 2 • 지도학습 및 비지도학습"
+  },
+  "Learning Rules from Answers & Clustering Without Labels": {
+    "ko": "정답을 보고 규칙을 배우는 기술(지도학습) & 정답 없이 끼리끼리 묶는 기술(비지도학습)"
+  },
+  "• Supervised Learning (Learning Rules from Ground-Truth Labels): Principle: Learns pairs of historical inputs (COGS, FX rates, ad spend) and ground-truth outcomes (sales volume, gross margin) to predict future metrics. Qubit Galaxifying Role: The AI Analysis Center learns historical trade and logistics records to forecast 3-month Rolling Purchase Forecasts (RPF) and optimal unit pricing (e.g., Rp 1,320 sachet ODM), feeding prior importance weights into SCM and Finance tasks. • Unsupervised Learning (Autonomous Clustering Without Labels): Principle: Automatically discovers shared patterns and natural clusters within massive unlabeled datasets. Qubit Galaxifying Role: Automatically groups dozens of Biz-Galaxy projects (Sistar Medix, SisPet, SisPharm, Sismii) and global B2B buyer databases by industry, target cohort, and distribution channel similarity—uncovering adjacent project clusters primed for explosive cross-synergy.": {
+    "ko": "• 지도학습 (Supervised Learning — 정답을 보고 규칙을 배우는 기술): 과거의 입력(원가, 환율, 광고비)과 실제 결과 정답(판매량, 마진율) 쌍을 학습해 미래 수치를 예측합니다. AI Analysis Center가 과거 거래·물류 데이터를 학습해 향후 3개월 순환구매예측(RPF)과 적정 단가(Rp 1,320 사쉐 ODM 등)를 예측하고 이를 SCM과 Finance 태스크의 사전 중요도 가중치에 반영합니다. • 비지도학습 (Unsupervised Learning — 정답 없이 끼리끼리 묶는 기술): 라벨이 없는 방대한 데이터 속에서 AI가 스스로 공통점과 군집(Cluster)을 찾아냅니다. Biz-Galaxy 내 수십 개의 프로젝트(Sistar Medix, SisPet, SisPharm, Sismii 등)와 글로벌 B2B 바이어 DB를 산업·타겟·유통망 유사도별로 자동 그룹화하여 시너지가 폭발할 수 있는 인접 프로젝트 클러스터를 발굴합니다."
+  },
+  "PARADIGM 3 & PARADIGM 4 • SELF-SUPERVISED & REINFORCEMENT LEARNING": {
+    "ko": "패러다임 3 & 4 • 자기지도학습 및 강화학습"
+  },
+  "High-Dimensional Vectorization & Reward-Driven Policy Evolution": {
+    "ko": "스스로 빈칸을 채워 의미를 수치화하는 기술(자기지도학습) & 보상과 벌칙으로 진화하는 기술(강화학습)"
+  },
+  "• Self-Supervised Learning (Mastering Semantics by Filling Masked Blanks): Principle: Repeatedly masks words across trillions of sentences and predicts the missing tokens, compressing context and meaning into high-dimensional numerical vectors (the core engine of modern LLMs). Qubit Galaxifying Role: Self-supervised Matryoshka Representation Learning (MRL) encoders convert Corporate Targets – 8 Departmental Modules – Individual TTP Specs into 768~1,024-dimensional vectors, enabling instantaneous mathematical comparison of semantic similarity across disparate projects. • Reinforcement Learning (Mastering Optimal Actions via Rewards & Penalties): Principle: Agents execute actions in live market environments, reinforcing policies that generate profit (reward) and pruning actions that incur loss (penalty). Qubit Galaxifying Role: Qubit Flow™ (zero-risk arbitrage engine) scans cross-border wholesale price and FX spreads 24/7, self-updating algorithmic thresholds upon every profitable arbitrage execution, while Inverse RL (IRL) learns the founder’s strategic intent from historical approval/rejection logs.": {
+    "ko": "• 자기지도학습 (Self-Supervised Learning — 스스로 빈칸을 채우며 언어·의미를 통달하는 기술): 수조 개의 문장에서 일부 단어를 가리고 스스로 맞히는 훈련을 반복해 문맥과 의미를 고차원 숫자 배열(벡터)로 압축합니다. 마트료시카 임베딩(MRL) 모델이 회사 목표–8대 부서 할 일–개인 TTP 업무를 768~1,024차원 벡터로 수치화하여 서로 다른 프로젝트 간 의미 유사도를 수학적으로 즉시 비교합니다. • 강화학습 (Reinforcement Learning — 보상과 벌칙으로 최적 행동을 스스로 터득하는 기술): Qubit Flow™(무위험 차익거래 엔진)가 국가·플랫폼 간 도매가와 환율 격차를 24시간 스캔해 실제 차익거래 성공 시마다 알고리즘 가중치를 자가 개선하며, 역강화학습(IRL)은 대표님의 과거 승인·반려 기록에서 경영 의도를 학습합니다."
+  },
+  "2.2 Category 2: Model Adaptation, Multi-Task & Compression Techniques (Fine-Tuning & Efficiency Suite)": {
+    "ko": "② 기존 모델 활용 및 최적화 기법 (파인튜닝·멀티태스크·경량화 계열)"
+  },
+  "Technologies that weaponize pretrained foundation models into proprietary, ultra-fast, low-cost corporate engines:": {
+    "ko": "이미 똑똑해진 거대 AI를 우리 회사 전용 무기이자 초고속·저비용 엔진으로 개조하는 기술입니다:"
+  },
+  "OPTIMIZATION 1 • TRANSFER LEARNING & MULTI-TASK LEARNING (MTL)": {
+    "ko": "최적화 1 • 전이학습 & 멀티태스크 러닝 (GradNorm / TAG)"
+  },
+  "GradNorm & TAG: The Mathematical Heart of W and Cij": {
+    "ko": "GradNorm & TAG: 동적 가중치(W)와 교차 상관계수(C_ij) 연산의 핵심 심장"
+  },
+  "• Learning Principle: Reuses knowledge acquired in Domain A for Domain B (Transfer Learning) while training multiple tasks simultaneously on a shared neural backbone to balance cross-task synergies and bottlenecks (Multi-Task Learning). • Qubit Galaxifying Role: GradNorm dynamically balances departmental weights (W) so fast-converging tasks (simple content generation) never suppress high-difficulty bottleneck tasks (RA licensing, K-SURE trade finance). Simultaneously, TAG (Task Affinity Grouping) measures whether Project A’s gradient update reduces Project B’s loss (positive transfer), outputting real-time Cross-Project Co-relation % (Cij).": {
+    "ko": "• 학습 원리: A 분야에서 익힌 지식을 B 분야에 재사용(전이학습)하고, 여러 과제를 동시에 학습시키면서 과제 간 시너지와 병목을 조율(멀티태스크 러닝)합니다. • Qubit Galaxifying 적용: GradNorm 알고리즘이 쉬운 업무(단순 콘텐츠 생성)가 어려운 병목 업무(RA 인허가, K-SURE 무역금융)의 가중치를 압도하지 않도록 부서별 가중치(W)를 균형화합니다. 동시에 TAG 알고리즘이 '프로젝트 A의 성과가 프로젝트 B의 손실을 줄여주는가(긍정적 전이)'를 계산해 실시간 Cross-Project Co-relation %(C_ij)를 산출합니다."
+  },
+  "OPTIMIZATION 2 & 3 • PEFT (LoRA / QLoRA) & KNOWLEDGE DISTILLATION": {
+    "ko": "최적화 2 & 3 • PEFT (LoRA / QLoRA) 및 지식 증류 (Knowledge Distillation)"
+  },
+  "1% Adapter Tuning & Teacher-Student Edge Compression": {
+    "ko": "모델의 1%만 튜닝하는 초효율 미세조정(LoRA) & 선생님 AI의 비법을 전수하는 경량화(지식 증류)"
+  },
+  "• PEFT (LoRA / QLoRA — Ultra-Efficient 1% Adapter Tuning): Rather than retraining massive foundation weights, tunes only ~1% low-rank adapters to cut VRAM usage by up to 50%. In the AI Command Center, LoRA locks unstructured founder memos (One Spark) into 100% deterministic Qubit Master JSON commands so downstream web and clearing webhooks execute in 0.1 seconds with zero parsing errors. • Knowledge Distillation (Teacher-to-Student Compression): Transfers high-order project decomposition and weighting trajectories from cloud frontier models (Gemini Teacher) into compact local models (Ollama Qwen 2.5 Coder / Llama 3.1 Student) running on the in-house Mini PC (AMD Ryzen 9 64GB RAM)—slashing inference costs by ~90% and powering the 24/7 Overnight Data Factory.": {
+    "ko": "• PEFT (LoRA / QLoRA — 모델의 1%만 튜닝해 전문성을 심는 초효율 미세조정): 거대 모델 전체를 재학습하지 않고 약 1% 내외의 저랭크 어댑터만 갈아 끼워 VRAM을 최대 50% 절감합니다. AI Command Center가 대표님의 자유로운 메모(One Spark)를 받았을 때 100% 규격화된 Qubit Master JSON 명령어만 사출하도록 고정하여 파싱 오류 없이 0.1초 만에 자동화를 실행합니다. • 지식 증류 (Knowledge Distillation): 클라우드 Gemini(Teacher)의 고난도 프로젝트 분해·판단 능력을 사내 미니 PC(AMD Ryzen 9 64GB RAM)의 로컬 Ollama(Qwen 2.5 Coder / Llama 3.1 Student)로 증류하여 추론 비용을 약 10분의 1 수준으로 절감하고 Overnight Data Factory를 24시간 가동합니다."
+  },
+  "2.3 Category 3 & Category 4: Generative AI Alignment, Knowledge Grounding & Distributed Security": {
+    "ko": "③ 최신 생성형 AI 정렬·지식 증강 기술 & ④ 데이터 보안·분산 협업 기반 학습"
+  },
+  "CATEGORY 3 • RAG / GRAPHRAG, RLHF/DPO ALIGNMENT & FEW-SHOT": {
+    "ko": "카테고리 3 • RAG / GraphRAG, RLHF/DPO 정렬 & 퓨샷/제로샷 러닝"
+  },
+  "Zero-Hallucination Grounding, Hard Firewalls & Instant Replication": {
+    "ko": "환각 방지 실시간 지식 검색, 상쇄 간섭 하드 방화벽 및 글로벌 거점 즉시 복제"
+  },
+  "• Vector RAG & GraphRAG: Rather than forcing volatile data into model weights, retrieves daily wholesale prices, FX rates, and stock via Vector RAG, while tracing multi-hop causal chains (“Indonesian BPOM Approval → Rp 1,320 Sachet ODM → Simultaneous SisPet & SisPharm Distribution”) via GraphRAG. • RLHF / DPO Alignment & Destructive Interference Firewall: Aligns RA/Finance agents to strict compliance and Marketing agents to high-conversion persuasion. Crucially, the AI Risk Management Center enforces a hard firewall that immediately zeroes out (0%) any connection with Negative Transfer (TAG ≤ 0), weak correlation (< 0.25), or violated 70/30 PG & K-SURE limits. • Few-Shot / Zero-Shot Learning: Injects proven Korea–Indonesia anchor project (Sistar Medix) TTP templates into prompts to replicate new projects across Vietnam (SCV), Japan (SCJ), and the US (SCU) with zero retraining delay (Qubit Factory™).": {
+    "ko": "• RAG & GraphRAG: 매일 바뀌는 도매가·환율·재고는 Vector RAG로 즉시 조회하고, '인니 BPOM 인허가 완료 → Rp 1,320 사쉐 ODM 생산 → SisPet·SisPharm 동시 유통'처럼 여러 프로젝트를 관통하는 다중 홉 인과관계는 GraphRAG로 추적해 실시간 가중치 근거 점수를 부여합니다. • RLHF / DPO 정렬 & 하드 제약 방화벽: RA·Finance 에이전트는 보수적 법규 준수 어조로, Marketing 에이전트는 고전환 설득 어조로 정렬하며, AI Risk Management Center는 음수 전이(TAG <= 0), 상관계수 0.25 미만, 70/30 PG 및 K-SURE 한도 위반 연결을 0%로 즉시 차단하는 상쇄 간섭 방화벽을 집행합니다. • 퓨샷 / 제로샷 러닝: 한국–인도네시아 앵커 프로젝트(Sistar Medix)의 TTP 구조화 예시를 프롬프트에 주입해 베트남(SCV)·일본(SCJ)·미국(SCU) 신규 프로젝트를 재학습 없이 즉시 복제(Qubit Factory™)합니다."
+  },
+  "CATEGORY 4 • FEDERATED / EDGE-CLOUD & DUAL-TRACK ISOLATION": {
+    "ko": "카테고리 4 • 연합학습 원리 & 에지-클라우드 하이브리드 분리"
+  },
+  "Confidential Edge Computing & Legal Risk Ring-Fencing": {
+    "ko": "기밀 데이터 사내 로컬 연산 보호 및 법적 리스크 절연(Dual-Track Isolation)"
+  },
+  "• Learning Principle: Processes sensitive raw data locally on edge hardware and regional hubs rather than centralizing confidential records on external public servers, synchronizing only distilled parameters and encrypted weight updates. • Qubit Galaxifying Role: Confidential COGS, bank account coordinates, and unannounced B2B contracts are processed strictly inside in-house local Ollama nodes and private Google Drive / Supabase vaults—eliminating data leakage at the source while syncing only purified parameters and t = 0 clearing signals with the cloud. Legally, the IP holding core (SC Index) is isolated from individual operating vehicles (Biz Galaxy) so project-level liabilities never contaminate headquarters.": {
+    "ko": "• 학습 원리: 민감한 원본 데이터를 중앙 외부 서버로 모두 모으지 않고 각 로컬 기기·거점에서 안전하게 처리한 뒤, 학습된 핵심 요약치와 가중치만 통합합니다. • Qubit Galaxifying 적용: 원가·은행 계좌·미공개 계약서 등 핵심 기밀은 사내 로컬 Ollama 및 프라이빗 Google Drive / Supabase 내부에서만 연산해 유출을 원천 차단하고, 클라우드와는 정제된 파라미터와 t = 0 정산 신호만 동기화합니다. 또한 법적으로도 지주·IP 본체(SC Index)와 개별 실행 법인(Biz Galaxy)을 분리해 개별 프로젝트의 리스크가 본사로 전이되지 않도록 보호합니다."
+  },
+  "CHAPTER 3 • END-TO-END INTEGRATED AI LEARNING PIPELINE": {
+    "ko": "제3장 • 한눈에 보는 ONE SPARK → INFINITE GALAXIFYING 통합 파이프라인"
+  },
+  "3. At-a-Glance: The \"One Spark → Infinite Galaxifying\" Integrated AI Learning Pipeline": {
+    "ko": "3. 한눈에 보는 'One Spark → Infinite Galaxifying' AI 학습 통합 파이프라인"
+  },
+  "The complete closed-loop flow connecting all four categories of AI learning technologies inside the *SC operating system—turning a single executive input into simultaneous multi-project revenue—operates across five sequential stages:": {
+    "ko": "위 4대 카테고리의 학습 기술들이 실제 *SC 시스템 안에서 연결되어 단 하나의 입력을 무한한 교차 프로젝트 수익으로 바꾸는 전체 흐름은 다음과 같습니다:"
+  },
+  "5-STAGE INTEGRATED AI LEARNING PIPELINE (ONE SPARK TO INFINITE GALAXIFYING)": {
+    "ko": "5단계 AI 학습 통합 파이프라인 (ONE SPARK → INFINITE GALAXIFYING)"
+  },
+  "[Founder's One Spark Input] (e.g., \"Approve 10-container POCT diagnostic kit order for Indonesian veterinary partner\") │ ▼ Stage 1 — Fine-Tuning (LoRA SFT): Locks unstructured memo into 0%-error \"Qubit Master JSON\" [3-Tier Decomposition: Project Targets · 8 Departmental Modules · Individual TTP Tasks] │ ▼ Stage 2 — Self-Supervised DL (MRL Embeddings) + Hybrid Vector/GraphRAG: 1,024d Vectorization & Live RA/COGS Lookup [Complete Numerical Quantification of Every Task Parameter] │ ▼ Stage 3 — Supervised ML (RPF Forecast) + Multi-Task DL (GradNorm & TAG): Computes Dept Weights (W%) & Cross Co-relation (C_ij%) [Multi-Project Synergy Matrix Generated] (e.g., Sistar Medix 100% ↔ SisPet 88% ↔ SisPharm 82%) │ ▼ Stage 4 — DPO Alignment + Hard Firewall (Destructive Interference): Immediately blocks Negative Transfer (TAG <= 0) & unverified 70/30 PG/RA [Verified Optimal Execution Vector Locked via QUBO/MIP Combinatorial Scheduling] │ ▼ Stage 5 — Knowledge Distillation (Local Ollama) + RL (Qubit Flow): Autonomous Web Deploy, B2B Dispatch & t = 0 Split Clearing + Self-Evolution": {
+    "ko": "[대표님의 One Spark 입력] (예: \"인니 수의사 파트너 POCT 키트 10컨테이너 발주 승인\") → ① Fine-Tuning (LoRA SFT): 비정형 메모를 오류 0%의 'Qubit Master JSON'으로 구조화 [프로젝트 · 8대 부서 · 개인 3계층 태스크 분해] → ② Self-Supervised DL (MRL 임베딩) + Hybrid Vector/GraphRAG: 1,024차원 벡터화 & 실시간 규제·단가 조회 [각 파라미터의 수치화 완료] → ③ Supervised ML (RPF 예측) + Multi-Task DL (GradNorm & TAG): 부서 가중치(W%) & 교차 상관계수(C_ij%) 산출 [다중 프로젝트 시너지 매트릭스 생성 (예: Medix 100% ↔ SisPet 88% ↔ SisPharm 82%)] → ④ Alignment + Hard Firewall (상쇄 간섭): 음수 전이(TAG<=0) 및 70/30 PG·RA 미충족 연결 즉시 0으로 차단 [검증된 최적 실행 조합 확정 (QUBO/MIP 스케줄링)] → ⑤ Knowledge Distillation (로컬 Ollama) + RL (Qubit Flow): 웹 배포·B2B 제안·t=0 동시 정산 무인 실행 & 보상으로 자가 진화"
+  },
+  "Ultimately, One Spark, Infinite Galaxifying is not a single standalone AI model, but a multi-dimensional AI orchestration architecture that: (1) quantifies and forecasts business reality through foundational learning paradigms (Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning), (2) computes exact intra-project weights and cross-project Co-relation % through Multi-Task Deep Learning (GradNorm + TAG) and combinatorial optimization (QUBO), and (3) completes zero-hallucination, ultra-low-cost autonomous execution at t = 0 through Hybrid RAG, LoRA Fine-Tuning, and local Knowledge Distillation.": {
+    "ko": "결국 대표님께서 구상하신 One Spark, Infinite Galaxifying은 단일 AI 기술 하나가 아니라, ① 기초 학습 패러다임(지도·비지도·자기지도·강화학습)으로 데이터를 수치화·예측하고, ② 멀티태스크 러닝(GradNorm+TAG)과 조합 최적화(QUBO)로 교차 프로젝트의 가중치와 상관계수(%)를 정밀 계산하며, ③ Hybrid RAG와 LoRA 파인튜닝·지식 증류로 환각 없이 초저비용·초고속 무인 실행(t = 0)을 완결하는 입체적 AI 오케스트레이션 체계입니다."
   }
 };
