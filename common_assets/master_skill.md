@@ -127,3 +127,16 @@
 
 3. **Incremental Update Workflow:**
    - Whenever English HTML pages are added or modified, running `node C:\projects\sc_web\update_translations.js sc_web` (or `sc-sync`) automatically translates ONLY newly added or modified English sentences and keeps `sc_translations.js` up to date.
+
+---
+
+## [MANDATORY RULE] Standard L3 Monograph & Report Generation Protocol & Top-Route Auto-Linking
+
+1. **Zero-Error L3 Page Generation via Canonical Shell Cloning:**
+   - Whenever the user requests a new 2nd-level (`🔸`) or 3rd-level (`▫️`) HTML page (academic paper, consulting monograph, or executive business report), ALWAYS generate it in **100% Executive/Academic English** by cloning the exact `<head>` CSS and `<main class="sc-monograph">` / `<article class="sc-chapter">` structural shell from `qubit-algorithm/01_one-spark-infinite-galaxifying/01_paper-biz-quantum-mechanics/index.html`.
+   - NEVER invent ad-hoc layout wrappers or inject custom global navigation/sidebar CSS into individual HTML files.
+   - Name the folder using the two-digit prefix convention (`01_...`, `02_...`, `03_...`) so `build_nav_new.ps1` automatically formats the `▫️` navigator label.
+   - Immediately after creating or renaming any folder/HTML, execute `build_nav_new.ps1` and `sync_all.ps1` (with `$env:GEMINI_API_KEY = $null` when batch translation is deferred) to update `nav_new.js`, mirror `common_assets`, and push to GitHub in one atomic operation.
+
+2. **Centralized Top-Route Interactive Breadcrumb (`sc_translator.js`):**
+   - Every page's top route element (`<p class="sc-route">domain - l2 folder - l3 page</p>`) is automatically parsed at runtime by `initRouteBreadcrumbs()` inside `common_assets/sc_translator.js` into interactive relative links (`../../index.html` for L1, `../index.html` for L2, and `.sc-bc-curr` for the active page), ensuring zero broken links even when folder names are updated.
