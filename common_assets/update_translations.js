@@ -5,16 +5,31 @@ const ROOT = path.resolve(__dirname, "..");
 const API_KEY = process.env.GEMINI_API_KEY || "";
 const MODEL = "gemini-2.5-flash";
 
-// Master Governance v2.0 Guardrails
-const BATCH_SIZE = 12;          // 문맥 품질과 출력 안정성의 황금 균형점 (12문장 x 5개국어 = 60문장)
-const THINKING_BUDGET = 512;    // 학술·금융 전문용어 추론 품질 유지 + 추론 토큰 폭탄 방지
-const DELAY_MS = 2500;          // 429 Rate Limit 예방용 순차 대기 (2.5초)
-const MAX_API_CALLS = 80;       // 1회 실행당 최대 API 호출 안전 브레이크
+// 실행 인자: node update_translations.js [domain|all] [ko|all] [maxCalls]
+const targetArg = (process.argv[2] || "all").toLowerCase();
+const langMode  = (process.argv[3] || "ko").toLowerCase();
+const KO_ONLY   = (langMode === "ko" || langMode === "kr" || langMode === "--ko");
 
-const ALL_DOMAINS = [
-  "sc-sistarcompany","qubit-algorithm","intelligence-core","scarlet-ai",
-  "qubit-biz","biz-galaxy","biz-hub","challengers",
-  "partnership","ir-pitchdeck","biz-directory","media"
+// 토큰 & 품질 최적 균형점 (KO_ONLY 시 25문장 배치, 추론 예산 256)
+const BATCH_SIZE      = KO_ONLY ? 25 : 12;
+const THINKING_BUDGET = 256;
+const DELAY_MS        = 2200;
+const MAX_API_CALLS   = parseInt(process.argv[4] || "300", 10);
+
+// 우선순위 정렬: 스킵 문단 복구 도메인 및 오늘 작업 도메인 먼저 완결 후 대용량(biz-hub, biz-galaxy) 실행
+const PRIORITY_DOMAINS = [
+  "qubit-algorithm",
+  "sc-sistarcompany",
+  "intelligence-core",
+  "scarlet-ai",
+  "qubit-biz",
+  "challengers",
+  "ir-pitchdeck",
+  "partnership",
+  "media",
+  "biz-directory",
+  "biz-hub",
+  "biz-galaxy"
 ];
 
 function normalizeText(str) {
@@ -22,7 +37,6 @@ function normalizeText(str) {
   return str
     .replace(/<!--[\s\S]*?-->/g, "")
     .replace(/<br\s*\/?>/gi, " ")
-    .replace(/<\/?(p|div|li|tr|td|th|h[1-6])\b[^>]*>/gi, " ")
     .replace(/<[^>]+>/g, "")
     .replace(/&nbsp;/gi, " ")
     .replace(/&amp;/gi, "&")
@@ -41,10 +55,14 @@ function normalizeText(str) {
     .trim();
 }
 
+function canonicalKey(str) {
+  return (str || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+}
+
 function shouldTranslate(text) {
   if (!text || text.length < 3) return false;
   if (!/[a-zA-Z]{2,}/.test(text)) return false;
-  if (/^(https?:\/\/|www\.|[0-9.\s%$+\-/,~:;|•→←—–()[\]{}<>=×⊗∑ΔΨΦψφρω√∫≈∀∈†]+)$/i.test(text)) return false;
+  if (/^(https?:\/\/|www\.|[0-9.\s%$+\-/,~:;|()[\]{}<>=]+)$/i.test(text)) return false;
   if (/^(SCK|SCI|SCV|SCJ|SCC|SCU|SCS|SCIND|IATA|IADA|BNPL|K-SURE|WKB|L1|L2|L3|B2B|B2C|D2C|SaaS|API|SDK|ROI|KPI|PDF|SVG|HTML|CSS|JS)$/i.test(text)) return false;
   return true;
 }
@@ -59,26 +77,31 @@ function isKoTranslated(en, ko) {
   return true;
 }
 
+// 중첩된 div/section 내부 문단까지 절대 스킵하지 않는 Zero-Skip 추출기
 function extractFromHtml(html) {
   const units = new Set();
   const cleaned = html
+    .replace(/<!--[\s\S]*?-->/g, "")
     .replace(/<script[\s\S]*?<\/script>/gi, "")
     .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<svg[\s\S]*?<\/svg>/gi, "")
     .replace(/<pre[\s\S]*?<\/pre>/gi, "");
 
-  const tags = ["h1","h2","h3","h4","h5","h6","p","li","td","th","figcaption","blockquote","a","button","span","div"];
-  for (const tag of tags) {
-    const re = new RegExp(`<${tag}(\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`, "gi");
+  const blockCheck = /<(article|section|div|table|thead|tbody|tr|ul|ol|p|h[1-6]|svg|pre)\b/i;
+  const tagRe = /<(h[1-6]|p|li|td|th|figcaption|blockquote|a|button|span|div)(\s[^>]*)?>([\s\S]*?)<\/\1>/gi;
+
+  let passHtml = cleaned;
+  for (let pass = 0; pass < 4; pass++) {
     let match;
-    while ((match = re.exec(cleaned)) !== null) {
-      const attrs = match[1] || "";
-      const inner = match[2] || "";
-      if (/notranslate|translate\s*=\s*["']no["']|sc-route|sc-math-code/i.test(attrs)) continue;
-      if (/<(article|section|div|table|thead|tbody|tr|ul|ol|p|h[1-6]|svg|pre)\b/i.test(inner)) continue;
+    while ((match = tagRe.exec(passHtml)) !== null) {
+      const attrs = match[2] || "";
+      const inner = match[3] || "";
+      if (/notranslate|translate\s*=\s*["']no["']|sc-route|sc-math-code|sc-kpi-val/i.test(attrs)) continue;
+      if (blockCheck.test(inner)) continue;
       const norm = normalizeText(inner);
       if (shouldTranslate(norm)) units.add(norm);
     }
+    passHtml = passHtml.replace(/<(div|section|article)(\s[^>]*)?>([\s\S]*?)<\/\1>/gi, "$3");
   }
   return Array.from(units);
 }
@@ -96,7 +119,7 @@ function saveDict(dictPath, dictObj) {
   fs.writeFileSync(dictPath, "window.SC_TRANSLATIONS = " + JSON.stringify(dictObj, null, 2) + ";\n", "utf8");
 }
 
-async function fetchWithTimeout(url, options, ms = 35000) {
+async function fetchWithTimeout(url, options, ms = 45000) {
   const ctrl = new AbortController();
   const id = setTimeout(() => ctrl.abort(), ms);
   try {
@@ -108,17 +131,24 @@ async function fetchWithTimeout(url, options, ms = 35000) {
 
 async function geminiBatchTranslate(batchStrings, retryCount = 0) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
-  
+
   const indexedInput = {};
   batchStrings.forEach((s, idx) => { indexedInput[String(idx)] = s; });
 
-  const prompt = `You are the Chief Localization Architect for *SC (Sistar Company).
-Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into 5 languages: "ko" (Korean), "id" (Indonesian), "vi" (Vietnamese), "zh-CN" (Simplified Chinese), and "ja" (Japanese).
+  const prompt = KO_ONLY
+    ? `You are the Chief Localization Architect for *SC (Sistar Company).
+Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into Korean ("ko") ONLY.
 
 [STRICT QUALITY & GLOSSARY RULES]
-1. Executive Tone: Use institutional-grade Goldman Sachs / Palantir / Quantum Physics academic-business terminology. Never use awkward literal translations.
-2. Protected Brand & Architecture Terms: Keep "*SC", "SISTAR", "Qubit Algorithm™", "Cosmo Seed™", "Vibe Working", "K-SURE BNPL", "WKB Tunneling", "IATA", "IADA", and regional node codes ("SCK", "SCI", "SCV", "SCJ", "SCC", "SCU", "SCS", "SCIND") intact or accurately contextualized.
-3. Zero-Loss Key Mapping: Return ONLY a valid JSON object where each key ("0", "1", ...) maps to an object with keys {"ko", "id", "vi", "zh-CN", "ja"}.
+1. Executive & Academic Tone: Use institutional-grade C-level business, international trade, deep learning, and quantum physics academic terminology in natural, authoritative Korean.
+2. Protected Brand & Architecture Terms: Keep "*SC", "SISTAR", "Qubit Algorithm™", "Cosmo Seed™", "One Spark, Infinite Galaxifying", "Vibe Coding", "K-SURE BNPL", "WKB", "GradNorm", "TAG", "GraphRAG", "MRL", "LoRA", "QUBO", and hub codes ("SCK", "SCI", "SCV", "SCJ", "SCC", "SCU", "SCS", "SCIND") intact.
+3. Zero-Loss Key Mapping: Return ONLY a valid JSON object where each key ("0", "1", ...) maps directly to its Korean translation string OR {"ko": "한국어 번역"}.
+
+Input JSON:
+` + JSON.stringify(indexedInput, null, 2)
+    : `You are the Chief Localization Architect for *SC (Sistar Company).
+Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into 5 languages: "ko", "id", "vi", "zh-CN", and "ja".
+Return ONLY a valid JSON object where each key ("0", "1", ...) maps to {"ko", "id", "vi", "zh-CN", "ja"}.
 
 Input JSON:
 ` + JSON.stringify(indexedInput, null, 2);
@@ -135,18 +165,18 @@ Input JSON:
         thinkingConfig: { thinkingBudget: THINKING_BUDGET }
       }
     })
-  }, 35000);
+  }, 45000);
 
-  if (res.status === 429 && retryCount < 2) {
-    const waitSec = (retryCount + 1) * 12;
-    process.stdout.write(`[429 대기 ${waitSec}s]... `);
+  if (res.status === 429 && retryCount < 3) {
+    const waitSec = (retryCount + 1) * 15;
+    process.stdout.write(`[429 Rate-Limit 대기 ${waitSec}s]... `);
     await new Promise(r => setTimeout(r, waitSec * 1000));
     return geminiBatchTranslate(batchStrings, retryCount + 1);
   }
 
   if (!res.ok) {
     const t = await res.text();
-    throw new Error(`HTTP ${res.status}: ${t.substring(0, 80)}`);
+    throw new Error(`HTTP ${res.status}: ${t.substring(0, 100)}`);
   }
 
   const data = await res.json();
@@ -155,12 +185,22 @@ Input JSON:
 }
 
 async function main() {
-  const targetArg = (process.argv[2] || "all").toLowerCase();
-  const targetDomains = targetArg === "all" ? ALL_DOMAINS : [targetArg];
+  const targetDomains = (targetArg === "all" || targetArg === "sc_web") ? PRIORITY_DOMAINS : [targetArg];
   const dictPath = path.join(ROOT, "common_assets", "sc_translations.js");
   const dict = loadDict(dictPath);
 
-  const allStrings = new Set();
+  // 기존 사전의 정규화/카노니컬 캐시 구성 (이미 번역된 문장 100% 재사용 보장)
+  const exactMap = {};
+  const canonMap = {};
+  for (const k of Object.keys(dict)) {
+    exactMap[normalizeText(k)] = dict[k];
+    const ck = canonicalKey(k);
+    if (ck.length >= 4) canonMap[ck] = dict[k];
+  }
+
+  const orderedStrings = [];
+  const seen = new Set();
+
   for (const d of targetDomains) {
     const domDir = path.join(ROOT, d);
     if (!fs.existsSync(domDir)) continue;
@@ -172,7 +212,12 @@ async function main() {
           walk(full);
         } else if (entry.isFile() && entry.name.toLowerCase() === "index.html") {
           const html = fs.readFileSync(full, "utf8");
-          for (const s of extractFromHtml(html)) allStrings.add(s);
+          for (const s of extractFromHtml(html)) {
+            if (!seen.has(s)) {
+              seen.add(s);
+              orderedStrings.push(s);
+            }
+          }
         }
       }
     }
@@ -180,18 +225,35 @@ async function main() {
   }
 
   const missing = [];
-  for (const s of allStrings) {
+  let autoLinked = 0;
+  for (const s of orderedStrings) {
     const ex = dict[s];
-    if (!ex || !isKoTranslated(s, ex.ko) || !ex.id || ex.id === s) {
+    if (KO_ONLY) {
+      if (ex && isKoTranslated(s, ex.ko)) continue;
+      // 카노니컬 키가 이미 번역되어 있다면 API 호출 없이 즉시 매핑 복구
+      const ck = canonicalKey(s);
+      const canonHit = exactMap[s] || (ck.length >= 4 ? canonMap[ck] : null);
+      if (canonHit && isKoTranslated(s, canonHit.ko)) {
+        dict[s] = Object.assign({}, ex || {}, { ko: canonHit.ko });
+        autoLinked++;
+        continue;
+      }
       missing.push(s);
+    } else {
+      if (!ex || !isKoTranslated(s, ex.ko) || !ex.id || ex.id === s) missing.push(s);
     }
   }
 
-  console.log(`\n=== [*SC TRANSLATION ENGINE v2.0 | Target: ${targetArg.toUpperCase()}] ===`);
-  console.log(`Total Unique Strings: ${allStrings.size} | Already Translated: ${allStrings.size - missing.length} | Missing: ${missing.length}`);
+  if (autoLinked > 0) {
+    saveDict(dictPath, dict);
+    console.log(`[자동 매핑 복구] 기존 사전과 공백/기호만 달랐던 ${autoLinked}개 문장을 API 호출 없이 즉시 연결했습니다.`);
+  }
+
+  console.log(`\n=== [*SC ZERO-SKIP TRANSLATION ENGINE v2.2 | Target: ${targetArg.toUpperCase()} | Mode: ${KO_ONLY ? "KOREAN ONLY (kr)" : "ALL 5 LANGS"}] ===`);
+  console.log(`Total Unique Strings: ${orderedStrings.size} | Already Translated (KO): ${orderedStrings.size - missing.length} | Missing (KO): ${missing.length}`);
 
   if (missing.length > 0 && !API_KEY) {
-    console.log("[안내] GEMINI_API_KEY가 설정되지 않아 번역 요청을 건너뛰고 사전 동기화만 수행합니다.");
+    console.log("[안내] GEMINI_API_KEY가 감지되지 않았습니다. 환경변수를 확인해 주세요.");
   } else if (missing.length > 0) {
     const batches = [];
     for (let i = 0; i < missing.length; i += BATCH_SIZE) {
@@ -199,6 +261,8 @@ async function main() {
     }
 
     const limitBatches = Math.min(batches.length, MAX_API_CALLS);
+    console.log(`Executing up to ${limitBatches} batches (${BATCH_SIZE} strings/batch, ThinkingBudget=${THINKING_BUDGET})...\n`);
+
     for (let i = 0; i < limitBatches; i++) {
       const b = batches[i];
       const pct = Math.round(((i + 1) / batches.length) * 100);
@@ -209,12 +273,11 @@ async function main() {
         let saved = 0;
         for (let j = 0; j < b.length; j++) {
           const enKey = b[j];
-          const trObj = resObj[String(j)] || (Array.isArray(resObj) ? resObj[j] : null);
-          if (trObj && isKoTranslated(enKey, trObj.ko)) {
-            if (dict[enKey] && isKoTranslated(enKey, dict[enKey].ko)) {
-              trObj.ko = dict[enKey].ko;
-            }
-            dict[enKey] = trObj;
+          const trVal = resObj[String(j)] || (Array.isArray(resObj) ? resObj[j] : null);
+          const koStr = typeof trVal === "string" ? trVal : (trVal && trVal.ko ? trVal.ko : null);
+          if (koStr && isKoTranslated(enKey, koStr)) {
+            const prev = dict[enKey] || {};
+            dict[enKey] = Object.assign({}, prev, (typeof trVal === "object" && trVal !== null) ? trVal : {}, { ko: koStr });
             saved++;
           }
         }
@@ -223,7 +286,7 @@ async function main() {
       } catch (e) {
         console.log(`FAILED (${e.message})`);
         if (e.message.includes("429")) {
-          console.log("[안전 정지] API 일일 할당량(Quota) 도달로 인해 안전하게 중단합니다. 지금까지 저장된 번역은 100% 보존됩니다.");
+          console.log("\n[안전 정지] API 할당량(429) 도달로 안전하게 일시 정지합니다. 방금까지 번역된 모든 문장은 100% 저장되었습니다.");
           break;
         }
       }
@@ -231,16 +294,15 @@ async function main() {
     }
   }
 
-  // 12개 도메인 전체에 최신 마스터 사전 동기화
   let synced = 0;
-  for (const d of ALL_DOMAINS) {
+  for (const d of PRIORITY_DOMAINS) {
     const dst = path.join(ROOT, d, "common_assets", "sc_translations.js");
     if (fs.existsSync(path.dirname(dst))) {
       fs.copyFileSync(dictPath, dst);
       synced++;
     }
   }
-  console.log(`[동기화 완료] 최신 sc_translations.js 사전이 ${synced}개 도메인에 배포되었습니다.\n`);
+  console.log(`\n[동기화 완료] 최신 sc_translations.js 사전이 ${synced}개 도메인 전체에 배포되었습니다.\n`);
 }
 
 main();

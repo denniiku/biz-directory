@@ -76113,5 +76113,167 @@ window.SC_TRANSLATIONS = {
     "vi": "Kích thước Kinh tế & Vận hành",
     "zh-CN": "经济与运营维度",
     "ja": "経済的・運用的次元"
+  },
+  "one spark infinite galaxifying": {
+    "ko": "One Spark -> 무한한 은하계적 확장"
+  },
+  "Domain: qubitalgorithm.sistarcompany.com. Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
+    "ko": "도메인: qubit-algorithm.sistarcompany.com. 당사의 수리 물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거 및 WKB 터널링 증명을 게시합니다."
+  },
+  "• Clinical K-Beauty & Mind Wellness (sismii & sistar mind company): Formulation and global licensing of derma-cosmetic lines and AI-driven behavioral wellness platforms.": {
+    "ko": "• 클리니컬 K-뷰티 및 마인드 웰니스 ( sismii & sistar mind company ): 더마 코스메틱 라인 포뮬레이션 및 글로벌 라이선싱, AI 기반 행동 웰니스 플랫폼 전개."
+  },
+  "sistar company indonesia (sc indonesia / SCI) is our flagship Southeast Asian commercial powerhouse and primary empirical proving ground for the Qubit Algorithm™. Anchored in Indonesia's massive consumer, agricultural, and veterinary markets, sc indonesia demonstrates how an AI-native operation bypasses traditional regulatory friction, importer markups, and working-capital bottlenecks.": {
+    "ko": "sistar company indonesia (sc indonesia / SCI)는 당사의 플래그십 동남아시아 커머스 파워하우스이자 Qubit Algorithm™의 핵심 실증 시험장입니다. 인도네시아의 거대한 소비재, 농업 및 동물의약품 시장에 닻을 내린 sc indonesia는 AI-Native 운영 체계가 어떻게 기존의 인허가 마찰, 수입업자 마진 폭리, 운전자본 병목 현상을 우회하는지 명확히 증명합니다."
+  },
+  "• Dual-Stream ODM & Localized Sachet Packaging (sispharm & sistar medix): Combines finished product direct import with bulk raw material import and local GMP sachet repacking (such as Zeelice and herbal poultry biologics), achieving unmatched price competitiveness for local farms and clinics.": {
+    "ko": "• 이원화 ODM 및 현지화 사셰(소포장) 패키징 ( SISPharm & SISTAR MedIX ): 완제품 직수입과 벌크 원료 수입 후 현지 GMP 사셰 리패키징(Zeelice 및 천연 생약 가금류 바이오 제제 등)을 결합하여 현지 농가와 동물병원에 독보적인 가격 경쟁력 제공."
+  },
+  "• Aquaculture & Livestock Bio-Solutions (aquasis & sispharm): Deployment of smart marine and shrimp farm monitoring, eco-friendly feed additives, and disease-prevention biologics tailored to Vietnam's Mekong and coastal production belts.": {
+    "ko": "• 수산양식 및 축산 바이오 솔루션 ( aquasis & SISPharm ): 베트남 메콩강 유역 및 해안 생산 벨트에 특화된 스마트 해양·새우 양식장 모니터링 시스템, 친환경 사료 첨가제, 질병 예방 바이오 제제 보급."
+  },
+  "• Physical AI & Robotics Hardware (physical ai robotics & qubit-biz/robotics): ODM engineering and rapid prototyping of warehouse automation robots, educational AI robotics (Lego Qubit), smart pet devices, and automated dispensing hardware.": {
+    "ko": "• 피지컬 AI & 로보틱스 하드웨어 ( physical ai robotics & qubit-biz/robotics ): 물류창고 자동화 로봇, 교육용 AI 로보틱스( Lego Qubit ), 스마트 펫 디바이스 및 자동 디스펜싱 하드웨어의 ODM 엔지니어링과 고속 프로토타이핑을 수행합니다."
+  },
+  "• Precision Packaging, POCT Components & Apparel ODM (sistar dx & sisloa): Ultra-fast sourcing of diagnostic cassettes, medical-grade sachet packaging, marine equipment (aquasis), and zero-inventory on-demand apparel runs.": {
+    "ko": "• 정밀 패키징, POCT 부품 및 의류 ODM ( sistar dx & sisloa ): 진단 키트 카세트, 의료용 샤셰 패키징, 해양 장비( aquasis )의 초고속 소싱과 무재고 온디맨드 의류 생산 라인을 운영합니다."
+  },
+  "• Ayurvedic & Phyto-Therapeutic Sourcing (sisayurvedic - ayurveda & Vital Seeds): Direct B2B sourcing and clinical standardization of active herbal extracts, phytogenic livestock feed additives (Indian Herbs), and natural human and pet therapeutics.": {
+    "ko": "• 아유르베다 & 식물성 치료 원료 소싱 ( sisayurvedic - ayurveda & Vital Seeds ): 활성 허브 추출물, 식물성 가축 사료 첨가제 ( Indian Herbs ), 천연 인체 및 펫 치료제의 직접 B2B 소싱 및 임상 표준화."
+  },
+  "Scarlet.ai": {
+    "ko": "스칼렛-AI"
+  },
+  "siscart.id": {
+    "ko": "sisCart.id"
+  },
+  "sismarket.id": {
+    "ko": "sisMarket.id"
+  },
+  "mall.sistv.com": {
+    "ko": "mall.sisTV.com"
+  },
+  "*SC Tech Trade Intl": {
+    "ko": "*SC - 테크 트레이드 인터내셔널"
+  },
+  "qubit biz": {
+    "ko": "큐비트비즈"
+  },
+  "All evaluations are managed transparently using AI tools within Google Workspace, renewed quarterly across six metrics: % Sharing from Sales Revenue, % For Expense Budget Allocation, % Tasks Done, % Contribution to Project (Tasks/Time/Weight), % Performance vs. Tasks, and % Total Pie for Each Member.": {
+    "ko": "모든 평가는 Google Workspace 내 AI 툴을 통해 투명하게 관리되며, 6개 핵심 지표를 기준으로 매 분기 갱신됩니다: 매출 공유 비율(% Sharing from Sales Revenue), 비용 예산 배분율(% For Expense Budget Allocation), 태스크 완료율(% Tasks Done), 프로젝트 기여도(% Contribution to Project [Tasks/Time/Weight]), 태스크 대비 성과율(% Performance vs. Tasks), 멤버별 총 파이 지분율(% Total Pie for Each Member)."
+  },
+  "SISTAR Challengers Intl powers the human-AI collaborative backbone of *SC. Instead of burning 70%+ of capital on fixed full-time salaries and rigid office leases, *SC operates a borderless global specialist alliance governed by transparent AI evaluation and shared project profits.": {
+    "ko": "SISTAR Challengers Intl은 *SC 의 인간-AI 협업 백본(Backbone)을 구동합니다. 자본의 70% 이상을 고정 급여와 경직된 사무실 임대료로 소진하는 대신, *SC 는 투명한 AI 평가와 프로젝트 순이익 공유로 운영되는 국경 없는 글로벌 전문가 얼라이언스를 가동합니다."
+  },
+  "• Integration Goal: Engineered to integrate seamlessly with all SISTAR Business Platforms, Slogans, Hubs, and Campaigns across the qubit-algorithm, intelligence-core, scarlet-ai, qubit-biz, biz-galaxy, and biz-hub domains.": {
+    "ko": "• 통합 목표: qubit-algorithm, intelligence-core, scarlet-ai, qubit-biz, biz-galaxy, biz-hub 도메인 전반의 모든 SISTAR 비즈니스 플랫폼, 슬로건, 허브 및 캠페인과 완벽히 연동되도록 설계됨."
+  },
+  "Our philosophy is rooted in New Ways in Working & New Ways in Doing Business—championing extreme simplicity, agility, and collective strength:": {
+    "ko": "당사의 철학은 New Ways in Working & New Ways in Doing Business에 근간을 두고 있으며, 극도의 단순성, 기민한 애자일(Agility), 집단적 시너지를 추구합니다:"
+  },
+  "• \"Idea Factory\" & Idea Banks: Generating innovative business platforms, compelling slogans, strategic hubs, and viral campaigns that continuously spawn new Cosmo Seed™ opportunities (\"One Spark, Infinite Galaxying\").": {
+    "ko": "• \"아이디어 팩토리(Idea Factory)\" 및 Idea Bank: 혁신적인 비즈니스 플랫폼, 강력한 슬로건, 전략적 허브, 바이럴 캠페인을 창출하여 새로운 Cosmo Seed™ 기회를 끊임없이 발굴 (\"One Spark, Infinite Galaxying\")."
+  },
+  "• Redefining Work & Overall Principle: Pioneering contemporary work styles built on one overarching mandate—Simple & Minimal in Working and Living.": {
+    "ko": "• 일의 재정의 및 총괄 원칙: 하나의 궁극적 지침인 'Simple & Minimal in Working and Living'을 바탕으로 현대적인 워크스타일을 선도."
+  },
+  "• Commitment to Methodological Innovation: Promoting next-generation business practices where AI handles repetitive execution (\"Let AI Work for AI\") while human talent focuses on high-leverage orchestration and deal-making.": {
+    "ko": "• 방법론적 혁신에 대한 확고한 의지: AI가 반복적인 실행 업무를 전담하고(\"Let AI Work for AI\"), 인재는 고부가가치 오케스트레이션 및 딜 메이킹에 집중하는 차세대 비즈니스 방식을 주도합니다."
+  },
+  "Through SISTAR Vibe Working, we provide a futuristic, cloud-native administrative environment engineered to maximize personal freedom, skill growth, and financial upside:": {
+    "ko": "당사는 SISTAR Vibe Working을 통해 개인의 자율성, 역량 성장, 재무적 성과를 극대화하도록 설계된 미래지향적 클라우드 네이티브 행정 환경을 제공합니다."
+  },
+  "• Core Types of SISTAR Projects: SISTAR Business Platforms (online and offline commercial gateways) • SISTAR Business Hubs (industry-specific collaborative centers) • SISTAR Business Campaigns (high-impact joint promotional movements) • SISTAR Brands (vertical brand co-creation across biz-galaxy) • SISTAR Bases (regional distribution and local partner networks).": {
+    "ko": "• 주요 SISTAR 프로젝트 유형: SISTAR 비즈니스 플랫폼(온·오프라인 커머스 관문) &bull; SISTAR 비즈니스 Hub(산업별 협업 센터) &bull; SISTAR 비즈니스 캠페인(고영향력 공동 프로모션 활동) &bull; SISTAR 브랜드(biz-galaxy 전반에 걸친 버티컬 브랜드 공동 창출) &bull; SISTAR Bases(지역 유통 및 로컬 파트너 네트워크)."
+  },
+  "• Commercial Execution Pipeline: Structured around Strategy → List Targets → Proposal Packages → Proposal / Deal → Mgnt.AI. Encompasses special promotional packages, container-scale volume deals, the \"Zero Cost, Double Income\" campaign, and turnkey Franchiseship Models (spanning Salon, On/Off Shops, Clinic, Hotel, Academy, and Membership formats).": {
+    "ko": "• 비즈니스 실행 파이프라인: Strategy → List Targets → Proposal Packages → Proposal / Deal → Mgnt.AI 단계로 구조화. 특별 프로모션 패키지, 컨테이너 단위의 대규모 볼륨 딜, 'Zero Cost, Double Income' 캠페인, 그리고 턴키형 Franchiseship Models(살롱, 온·오프라인 매장, 클리닉, 호텔, 아카데미, 멤버십 등)를 포괄."
+  },
+  "• Standard Project Workflow Steps: Invitation / Application for project participation → Task Allocation tailored to member strengths → Formal Agreement on terms, targets, and conditions → Work Execution within the designated digital workspace → AI-Assisted Evaluation & Monthly Payment.": {
+    "ko": "• 표준 프로젝트 워크플로우 단계: 프로젝트 참여 초대/신청 → 멤버의 역량에 맞춘 태스크 배정 → 계약 조건 및 목표에 대한 공식 합의 → 지정된 디지털 워크스페이스 내 업무 실행 → AI 보조 평가 및 월별 정산/지급."
+  },
+  "• Core Management Principles: Contract-based engagement, task-specific assignments with clear timelines, and full alignment with the overarching constitutional principles of sistar company.": {
+    "ko": "• 핵심 관리 원칙: 계약 기반 인게이지먼트, 명확한 기한이 명시된 과업별 배정, SISTAR Company의 최상위 원칙 및 헌장과의 완벽한 정렬."
+  },
+  "• Core Payment Components: Comprises Monthly Base Compensation, Motivation Program Rewards, and Shared Expense Budget / Sales Revenue (Project Profits).": {
+    "ko": "• 주요 지급 구성 요소: 월 기본 보상(Monthly Base Compensation), Motivation Program 보상, 공유 경비 예산 / 매출 수익(Project Profits)으로 구성."
+  },
+  "• Individual Incentive Cap: To ensure balanced team synergy, the maximum personal incentive any single member may receive is capped at 10% of the total Shared Budget.": {
+    "ko": "• 개인 인센티브 상한선: 팀워크와 시너지의 균형을 유지하기 위해 단일 멤버가 수령할 수 있는 최대 개인 인센티브는 전체 Shared Budget의 10%로 제한."
+  },
+  "• Group-Based Share Allocation (Five Contribution Tiers): All project participants are categorized into five groups based on role weight and strategic responsibility, with each group allocated a defined base share of the Shared Budget: Group A (Tier I): 35% of the Shared Budget (e.g., $35,000 out of a $100,000 shared pool) • Group B (Tier II): 25% • Group C (Tier III): 15% • Group D (Tier IV): 10% • Group E (Tier V): 5%.": {
+    "ko": "• 그룹별 지분 배분(5단계 기여 등급): 모든 프로젝트 참여자는 역할 비중과 전략적 책임도에 따라 5개 그룹으로 분류되며, 각 그룹은 Shared Budget의 지정된 기본 지분을 배정받음: 그룹 A(Tier I): Shared Budget의 35%(예: $100,000 풀 중 $35,000) &bull; 그룹 B(Tier II): 25% &bull; 그룹 C(Tier III): 15% &bull; 그룹 D(Tier IV): 10% &bull; 그룹 E(Tier V): 5%."
+  },
+  "• Individual Performance Evaluation & Core Management Files (Mgnt. Project): Every participant reviews and operates within three synchronized Workspace files prior to execution: Console File: The central ledger where payment principles, group distribution rates, individual evaluation grades (rated across five performance tiers), and final payout amounts are calculated. Monthly Sales File: Defines specific commercial objectives and work plans that determine the size of the shareable profit pool. Dashboard File: Tracks real-time project progress against targets and timelines. Achieving targets unlocks additional bonuses, while severe underperformance may incur a one-tier grade adjustment.": {
+    "ko": "• 개인 성과 평가 및 핵심 관리 파일 ( Mgnt. Project ): 모든 참여자는 실행에 앞서 세 가지 동기화된 Workspace 파일을 검토하고 이를 기반으로 운영합니다. Console File: 지급 원칙, 그룹 배분율, 개인 평가 등급(5개 성과 티어로 평가) 및 최종 지급액을 산출하는 중앙 원장. Monthly Sales File: 공유 가능한 이익 풀의 규모를 결정하는 구체적인 상업적 목표와 실행 계획 정의. Dashboard File: 목표 및 일정 대비 실시간 프로젝트 진행 상황 추적. 목표 달성 시 추가 보너스가 지급되며, 심각한 실적 부진 시 1단계 등급 하향 조정이 발생할 수 있습니다."
+  },
+  "• Innovative Payment Mechanisms (Innovatives on Payment): Profit-percentage rewards • Order-linked random drawing bonuses and chip-in pools • Grade-weighted payouts based on task contribution percentage • Project bonus budgets • Operational expense-budget sharing • Activity mileage and points for Rewarding Programs • Direct profit-sharing for commercialized ideas • Additional compensation for HQ Functions, Authorized Area Managers, and introducing new members or partners.": {
+    "ko": "• 혁신적 보상 메커니즘 ( Innovatives on Payment ): 수익 배분율(Profit-percentage) 리워드 &bull; 주문 연동형 랜덤 추첨 보너스 및 칩인(chip-in) 풀 &bull; 업무 기여도 비율에 기반한 등급 가중 지급 &bull; 프로젝트 보너스 예산 &bull; 운영비 예산 셰어링 &bull; Rewarding Program을 위한 활동 마일리지 및 포인트 &bull; 사업화된 아이디어에 대한 직접 이익 공유 &bull; HQ Function, 공인 Area Manager 및 신규 멤버/파트너 영입에 대한 추가 보상."
+  },
+  "• Contract Governance, Schedule & IP: All payment and evaluation principles are explained via workshop or written/verbal briefing prior to signing and take effect upon mutual execution of the Agreement. Payments are disbursed on the 25th of every month. Contracts carry a 6-month validity period (automatically extendable for an additional 6 months unless terminated), and all intellectual property generated belongs to sistar company.": {
+    "ko": "• 계약 거버넌스, 일정 및 IP: 모든 지급 및 평가 원칙은 서명 전 워크숍 또는 서면/구두 브리핑을 통해 상세히 안내되며, 계약(Agreement) 체결 즉시 효력이 발생합니다. 보상은 매월 25일에 지급됩니다. 계약 유효기간은 6개월(해지되지 않는 한 6개월 자동 연장)이며, 창출된 모든 지식재산권(IP)은 SISTAR Company에 귀속됩니다."
+  },
+  "• Open Positions Across the Constellation: Project Leader • Project Team Member • Headquarters Function Specialist • Authorized Area Manager (National / Global).": {
+    "ko": "• Constellation 전반의 공개 채용 포지션: Project Leader &bull; Project Team Member &bull; Headquarters Function Specialist &bull; Authorized Area Manager (National / Global) ."
+  },
+  "• HR Principles & Organizational Flow: Built on Simple & Minimal governance balancing high motivation with fair AI-backed evaluation. Coordinated seamlessly from Executive Leadership (D. Ku) → HQ General Coordinator → Head of Biz / Project → Regional Area Managers, with annual compensation reviews every February.": {
+    "ko": "• HR 원칙 및 조직 워크플로우: 강력한 동기부여와 AI 기반의 공정한 평가가 균형을 이루는 'Simple & Minimal' 거버넌스를 바탕으로 구축되었습니다. Executive Leadership(D. Ku) → HQ General Coordinator → Head of Biz / Project → Regional Area Manager로 유기적으로 연계되며, 매년 2월 연례 보상 검토를 진행합니다."
+  },
+  "Significant responsibility and deep time commitment. Example calculation (on Rp 10M pools): Core Rp 5M + Reward Rp 5M.": {
+    "ko": "높은 수준의 책임과 전폭적인 시간 투입. 산정 예시 (Rp 10M 풀 기준): Core Rp 5M + Reward Rp 5M ."
+  },
+  "Substantial contribution with moderate responsibility levels. Example calculation: Core Rp 3M + Reward Rp 3M.": {
+    "ko": "적정 수준의 책임 하에 이루어지는 상당한 기여. 산정 예시: Core Rp 3M + Reward Rp 3M ."
+  },
+  "Valuable foundational support keeping the team running smoothly. Example calculation: Core Rp 2M + Reward Rp 2M.": {
+    "ko": "팀의 원활한 운영을 뒷받침하는 핵심 기반 지원. 산정 예시: Core Rp 2M + Reward Rp 2M ."
+  },
+  "• team sistar company (Operating Principles & Profit-Sharing Charter): Explore our complete constitutional framework covering vision, AI-managed Google Workspace workflows, the 30% shared profit pool, motivation programs, and open global positions under challengers - apply - team sistar company.": {
+    "ko": "• team sistar company (운영 원칙 및 수익 공유 헌장): 비전, AI 기반 Google Workspace 워크플로우, 30% 공유 이익 풀, 모티베이션 프로그램, challengers - apply - team sistar company 아래 오픈된 글로벌 포지션을 아우르는 완전한 헌장 체계를 확인하십시오."
+  },
+  "Vibe Working powers the human-AI collaborative backbone of *SC. Instead of burning 70%+ of capital on fixed full-time salaries and rigid office leases, *SC operates a borderless global specialist alliance governed by transparent AI evaluation and shared project profits.": {
+    "ko": "Vibe Working은 *SC 의 인간-AI 협업 중추를 구동합니다. 고정 정규직 급여와 경직된 오피스 임대료에 자본의 70% 이상을 소진하는 대신, *SC 는 투명한 AI 평가 시스템과 프로젝트 수익 공유를 기반으로 국경 없는 글로벌 전문가 얼라이언스를 운영합니다."
+  },
+  "AI-AUDITED WORKSPACE TRILOGY": {
+    "ko": "AI 감사 기반 워크스페이스 트릴로지(AI-Audited Workspace Trilogy)"
+  },
+  "IATA: International AI-Trade Association": {
+    "ko": "IATA (국제 AI 무역 협회)"
+  },
+  "IADA: International AI-Data Association": {
+    "ko": "IADA (국제 AI 데이터 협회)"
+  },
+  "Supply Chain & Sourcing": {
+    "ko": "공급망 소싱"
+  },
+  "✨ brief": {
+    "ko": "브리핑"
+  },
+  "inquiry for >": {
+    "ko": "문의 대상"
+  },
+  "24 Hours": {
+    "ko": "24시간 미만"
+  },
+  "Legal Firewall": {
+    "ko": "법적 방화벽"
+  },
+  "Product Category": {
+    "ko": "제품 카테고리"
+  },
+  "SISMii Beauty": {
+    "ko": "시스미 뷰티"
+  },
+  "Optical Telemetry": {
+    "ko": "광학 텔레메트리"
+  },
+  "Biz Galaxy": {
+    "ko": "비즈-갤럭시"
+  },
+  "Cosmo Seed Engine": {
+    "ko": "Cosmo Seed™ 엔진"
+  },
+  "SISPharm": {
+    "ko": "시스팜"
   }
 };
