@@ -548,3 +548,50 @@ main blockquote,
 .sc-action-btns {
   display: none !important;
 }
+
+/* === [SC-NAV-HOVER-POPUP-START] 2/3단계 입체 플로팅 호버 및 긴 제목 2줄 자동 펼침 === */
+.sc-l1-item,
+.sc-l2-item {
+  position: relative;
+}
+
+/* 열린 아코디언 내부에서 플로팅 팝업 그림자와 2줄 박스가 잘리지 않도록 허용 */
+.sc-l1-item.is-open > .sc-l2-wrap,
+.sc-l1-item.is-open > .sc-l2-wrap > .sc-l2-inner,
+.sc-l2-item.is-open > .sc-l3-wrap,
+.sc-l2-item.is-open > .sc-l3-wrap > .sc-l3-inner {
+  overflow: visible !important;
+}
+
+/* 기본 상태: 1줄 높이 슬롯 고정 및 부드러운 전환 */
+.sc-l2-link,
+.sc-l3-link {
+  transition: transform 0.16s cubic-bezier(0.22, 1, 0.36, 1),
+              background-color 0.16s ease,
+              box-shadow 0.16s ease,
+              padding 0.16s ease !important;
+}
+
+/* 호버 시: 짧은 메뉴는 1줄 입체 팝업, 긴 메뉴는 아래 메뉴 밀림 없이 자연스럽게 2줄로 펼침 */
+.sc-l2-link:hover,
+.sc-l3-link:hover {
+  z-index: 80 !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  word-break: break-word !important;
+  line-height: 1.28 !important;
+  background: rgba(255, 255, 255, 0.94) !important;
+  background-color: rgba(255, 255, 255, 0.94) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 5px 14px rgba(15, 23, 42, 0.12), 0 0 0 1px rgba(22, 135, 101, 0.28) !important;
+  transform: translateY(-1px) translateX(2px) !important;
+  margin-bottom: -2px;
+}
+
+/* 2줄로 펼쳐질 때 하단 초록색 밑줄이 글자 중간을 가로지르지 않도록 입체 테두리로 대체 */
+.sc-l2-link:hover::after,
+.sc-l3-link:hover::after {
+  opacity: 0 !important;
+}
+/* === [SC-NAV-HOVER-POPUP-END] === */
