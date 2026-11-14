@@ -249,7 +249,54 @@
     obs.observe(document.documentElement || document.body, { childList: true, subtree: true });
   }
 
+    function initRouteBreadcrumbs() {
+    var routes = document.querySelectorAll(".sc-route, .sc-eyebrow, .breadcrumb, .page-path");
+    for (var i = 0; i < routes.length; i++) {
+      var el = routes[i];
+      if (el.querySelector(".sc-bc-wrap") || el.querySelector("a")) continue;
+      var raw = (el.textContent || "").trim();
+      if (!raw || raw.indexOf(" - ") === -1) continue;
+
+      var parts = raw.split(/\s+-\s+/);
+      if (parts.length < 2) continue;
+
+      var wrap = document.createElement("span");
+      wrap.className = "sc-bc-wrap notranslate";
+      wrap.setAttribute("translate", "no");
+
+      var total = parts.length;
+      for (var j = 0; j < total; j++) {
+        if (j > 0) {
+          var sep = document.createElement("span");
+          sep.className = "sc-bc-sep";
+          sep.textContent = "-";
+          wrap.appendChild(sep);
+        }
+        if (j < total - 1) {
+          var upLevels = (total - 1) - j;
+          var relHref = "";
+          for (var k = 0; k < upLevels; k++) {
+            relHref += "../";
+          }
+          relHref += "index.html";
+          var a = document.createElement("a");
+          a.className = "sc-bc-item";
+          a.href = relHref;
+          a.textContent = parts[j].trim();
+          wrap.appendChild(a);
+        } else {
+          var curr = document.createElement("span");
+          curr.className = "sc-bc-curr";
+          curr.textContent = parts[j].trim();
+          wrap.appendChild(curr);
+        }
+      }
+      el.textContent = "";
+      el.appendChild(wrap);
+    }
+  }
   function init() {
+    initRouteBreadcrumbs();
     bindNavLangClicks();
     watchNavMount();
     var saved = "en";
