@@ -32862,7 +32862,7 @@ window.SC_TRANSLATIONS = {
     "ja": "エンジン 01 • マイクロ SaaS 複製ファクトリー"
   },
   "Qubit Factory™ (Qubit App / Data Factory Int'l)": {
-    "ko": "Qubit Factory™(Qubit 앱 / Data Factory Int'l)",
+    "ko": "Qubit Factory™ (Qubit 앱 / 데이터 팩토리 인터내셔널)",
     "id": "Qubit Factory™ (Aplikasi Qubit / Pabrik Data Internasional)",
     "vi": "Qubit Factory™ (Qubit App / Data Factory Int'l)",
     "zh-CN": "Qubit Factory™（Qubit 应用程序/数据工厂国际）",
@@ -32918,7 +32918,7 @@ window.SC_TRANSLATIONS = {
     "ja": "エンジン 04 • 同時三者間貿易＆ファクタリング"
   },
   "Qubit Link™ (Qubit Trade Int'l / Qubit At-Once & BNPL)": {
-    "ko": "Qubit Link™(Qubit Trade Int'l / Qubit At-Once 및 BNPL)",
+    "ko": "Qubit Link™ (Qubit 트레이드 인터내셔널 / Qubit At-Once & BNPL)",
     "id": "Qubit Link™ (Qubit Trade Int'l / Qubit Sekaligus & BNPL)",
     "vi": "Qubit Link™ (Qubit Trade Int'l / Qubit ngay lập tức & BNPL)",
     "zh-CN": "Qubit Link™（Qubit Trade Int'l / Qubit At-Once 和 BNPL）",
@@ -99341,5 +99341,527 @@ window.SC_TRANSLATIONS = {
   },
   "Credit_Limit(n) = E_n = n^2 * E_1, where n in {1 (Trial), 2 (Verified POS), 3 (RPF + K-SURE Container)}": {
     "ko": "Credit_Limit(n) = E_n = n^2 * E_1 (단, n ∈ {1 (Trial), 2 (검증된 POS), 3 (RPF + K-SURE Container)})"
+  },
+  "ENGINE 3.5 • QUBIT FLOW™ (CUBIT ARBITRAGE INT’L)": {
+    "ko": "ENGINE 3.5 • QUBIT FLOW™ (국제 큐비트 차익거래)"
+  },
+  "1. The 6 Structural Traps Holding Back Traditional Commerce and Global Trade": {
+    "ko": "1. 전통적 커머스 및 글로벌 무역의 도약을 저해하는 6대 구조적 함정"
+  },
+  "2. The New Commerce Paradigm Driven by the AI Revolution: \"New Ways in Working & New Ways in Doing Biz\"": {
+    "ko": "2. AI 혁명이 견인하는 신 커머스 패러다임: \"New Ways in Working & New Ways in Doing Biz\""
+  },
+  "3. Qubit Algorithm™: Eliminating Every Friction via Quantum-Inspired Business Architecture": {
+    "ko": "3. Qubit Algorithm™: 양자 영감 비즈니스 아키텍처를 통한 전방위적 마찰의 해소"
+  },
+  "← Prev: AI Learning Pipeline": {
+    "ko": "← 이전: AI 학습 파이프라인"
+  },
+  "Next: Commercial QubitOS →": {
+    "ko": "다음: 상용 QubitOS →"
+  },
+  "CHAPTER 08 • SOLVE CHALLENGES": {
+    "ko": "CHAPTER 08 • 도전 과제의 해결"
+  },
+  "TRAP 01 • CASH CONVERSION": {
+    "ko": "TRAP 01 • 현금 전환 지연"
+  },
+  "TRAP 02 • CAPEX & DEAD STOCK": {
+    "ko": "TRAP 02 • 설비투자(CAPEX) 및 악성 재고"
+  },
+  "TRAP 03 • MARGIN EROSION": {
+    "ko": "TRAP 03 • 마진 잠식"
+  },
+  "TRAP 04 • HUMAN SILENCES": {
+    "ko": "TRAP 04 • 인적 침묵 및 커뮤니케이션 단절"
+  },
+  "TRAP 05 • OVERHEAD DRAG": {
+    "ko": "TRAP 05 • 고정 간접비 부하(Overhead Drag)"
+  },
+  "TRAP 06 • DEFAULT RISK": {
+    "ko": "TRAP 06 • 채무불이행(디폴트) 리스크"
+  },
+  "SECTION 02 • PARADIGM SHIFT": {
+    "ko": "SECTION 02 • 패러다임의 대전환"
+  },
+  "NEW WAYS IN WORKING & DOING BIZ": {
+    "ko": "업무 및 비즈니스 수행의 새로운 패러다임"
+  },
+  "SECTION 03 • SOLUTION BRIDGE": {
+    "ko": "섹션 03 • 솔루션 브리지"
+  },
+  "QUANTUM-INSPIRED OPTIMIZATION": {
+    "ko": "양자 영감 최적화 (QUANTUM-INSPIRED OPTIMIZATION)"
+  },
+  "OPTIMIZATION 01 • SUPERPOSITION": {
+    "ko": "최적화 01 • 중첩 (SUPERPOSITION)"
+  },
+  "OPTIMIZATION 02 • QUANTUM TUNNELING": {
+    "ko": "최적화 02 • 양자 터널링 (QUANTUM TUNNELING)"
+  },
+  "OPTIMIZATION 03 • ENTANGLEMENT": {
+    "ko": "최적화 03 • 얽힘 (ENTANGLEMENT)"
+  },
+  "OPTIMIZATION 04 • AI FIREWALL": {
+    "ko": "최적화 04 • AI 방화벽"
+  },
+  "Command Center for the One-Man Unicorn": {
+    "ko": "1인 유니콘 기업을 위한 커맨드 센터"
+  },
+  "← Prev: Solve Challenges": {
+    "ko": "← 이전: 과제 해결"
+  },
+  "CHAPTER 09 • COMMERCIAL QUBITOS™": {
+    "ko": "챕터 09 • 상용 QUBITOS™"
+  },
+  "GUARDRAIL 01 • AUTO-FILL PARAMETERIZATION": {
+    "ko": "가드레일 01 • 매개변수화 자동 완성"
+  },
+  "GUARDRAIL 02 • TRANSPARENT RISK GATING": {
+    "ko": "가드레일 02 • 투명한 리스크 게이팅"
+  },
+  "SECTION 02 • MONETIZATION & VALUATION": {
+    "ko": "섹션 02 • 수익화 및 기업가치 평가"
+  },
+  "DUAL REVENUE ENGINE ARCHITECTURE": {
+    "ko": "이원화 수익 엔진 아키텍처"
+  },
+  "2.2 VENTURE CAPITAL VALUATION STRATEGY": {
+    "ko": "2.2 벤처 캐피털 밸류에이션 전략"
+  },
+  "ENGINE 04 • QUBIT LINK™ (QUBIT TRADE INT'L)": {
+    "ko": "엔진 04 • QUBIT LINK™ (QUBIT 트레이드 인터내셔널)"
+  },
+  "Command Center — Executive Orchestration & Team AI Delegation": {
+    "ko": "커맨드 센터 — 경영 총괄 오케스트레이션 및 전담 팀 AI 위임"
+  },
+  "The 8 Dedicated Team AI Sub-Routes": {
+    "ko": "8대 전담 팀 AI 서브 라우트"
+  },
+  "Core Identity & Operational Role": {
+    "ko": "핵심 아이덴티티 및 운영 역할"
+  },
+  "Routing Scope & Trigger Keywords": {
+    "ko": "라우팅 범위 및 트리거 키워드"
+  },
+  "Strict Operational Guardrails": {
+    "ko": "엄격한 운영 가드레일"
+  },
+  "The central nervous system of *SC. Orchestrating multi-departmental objectives, resolving cross-team conflicts, and directing our 8 Functional Team AIs to achieve company-wide OKRs.": {
+    "ko": "*SC의 중추신경계. 다부서 목표를 총괄 조율하고 부서 간 상충 과제를 해결하며, 전사적 OKR 달성을 위해 8대 기능별 팀 AI를 유기적으로 지휘·통제합니다."
+  },
+  "The Command Center (ID: CMD_CENTER) functions as the Chief Operating Officer (COO) of the SISTAR AI ecosystem. It is the highest-level routing scope designed for multi-department orchestration. Whenever an overarching directive requires the collaboration of two or more functional departments—such as launching a new product which requires SCM, Marketing, and Sales to act simultaneously—the Command Center breaks the global objective into specific, actionable tasks and delegates them to the appropriate Team AI sub-routes.": {
+    "ko": "커맨드 센터(ID: CMD_CENTER)는 SISTAR AI 생태계의 최고운영책임자(COO)로서 기능합니다. 이는 범부서적 오케스트레이션을 위해 설계된 최상위 라우팅 스코프입니다. SCM, 마케팅, 영업의 동시 실행을 요하는 신제품 출시와 같이 둘 이상의 기능 부서 간 협업이 요구되는 총괄 지침이 하달될 때마다, 커맨드 센터는 전사적 목표를 실행 가능한 세부 과제로 분해하여 적절한 팀 AI 서브 라우트에 전략적으로 위임합니다."
+  },
+  "Routing Scope: Multi-department orchestration, company-wide goal decomposition, cross-team workflow alignment, conflict resolution between departments, and high-level executive status summaries.": {
+    "ko": "라우팅 범위: 다부서 오케스트레이션, 전사적 목표 세부 분해, 부서 간 워크플로우 정렬, 부서 간 이해 상충 해결 및 C-레벨 경영진을 위한 고위급 현황 요약 보고."
+  },
+  "Trigger Keywords: orchestrate, delegate, multi-team, align, company-wide OKR, executive brief, prioritize.": {
+    "ko": "트리거 키워드: orchestrate(조율), delegate(위임), multi-team(다부서 협력), align(정렬), company-wide OKR(전사적 OKR), executive brief(경영진 브리핑), prioritize(우선순위화)."
+  },
+  "Do NOT route single-department, granular tasks here. The Command Center is strictly reserved for user prompts and triggers that require combining outputs, logic, or assets from two or more distinct AI Centers or Team AIs.": {
+    "ko": "단일 부서 단위의 세부 과업을 본 센터로 라우팅하지 마십시오. Command Center는 2개 이상의 독립된 AI Center 또는 Team AI로부터 도출된 산출물, 로직 및 자산을 통합 연계해야 하는 사용자 프롬프트와 트리거에 한하여 엄격히 배정됩니다."
+  },
+  "Once an overarching strategy is defined, the Command Center delegates execution to the 8 dedicated Team AI modules:": {
+    "ko": "전사적 상위 전략이 수립되면, Command Center는 8개의 전용 Team AI 모듈로 실행 권한을 위임합니다:"
+  },
+  "Scope: Direct customer revenue generation, CRM management, sales pipeline tracking, quotations, invoicing, and short-term forecasting.": {
+    "ko": "업무 범위: 직접 고객 매출 창출, CRM 관리, 영업 파이프라인 추적, 견적서 및 인보이스 발행, 단기 수요 예측."
+  },
+  "Exclusions: Handled after partnership signing; excludes initial B2B scouting (TEAM_DVMP) and physical warehouse shipping (TEAM_SCM).": {
+    "ko": "제외 대상: 파트너십 체결 이후 단계 전담 업무이며, 초기 B2B 발굴(TEAM_DVMP) 및 물리적 창고 출하(TEAM_SCM)는 제외됩니다."
+  },
+  "Scope: Brand positioning, GTM strategies, B2B/B2C pitch decks, media kits, and ROAS planning.": {
+    "ko": "업무 범위: 브랜드 포지셔닝, GTM(시장 진입) 전략, B2B/B2C 피치 덱, 미디어 키트 구성 및 ROAS 기획."
+  },
+  "Exclusions: Excludes actual image/video rendering (MEDIA_CENTER) and daily social replies (COMM_CENTER).": {
+    "ko": "제외 대상: 실제 이미지/비디오 렌더링(MEDIA_CENTER) 및 일상적 소셜 응대(COMM_CENTER)는 제외됩니다."
+  },
+  "Scope: Pre-sales BD, new market entry, Joint Ventures (JV), B2B partner/distributor scouting, and M&A target research.": {
+    "ko": "업무 범위: 프리세일즈 사업 개발(BD), 신시장 개척, 조인트 벤처(JV), B2B 파트너/유통사 스카우팅, M&A 타깃 리서치."
+  },
+  "Exclusions: Once a partner signs and places recurring orders, they are handed off to TEAM_SALES_OPR.": {
+    "ko": "제외 대상: 파트너 계약 체결 및 정기 발주 발생 시점 이후의 운영은 TEAM_SALES_OPR로 이관됩니다."
+  },
+  "Scope: Resume screening, interview scheduling, KPI evaluation, payroll rules formulation, and internal culture building.": {
+    "ko": "업무 범위: 이력서 스크리닝, 면접 일정 조율, KPI 평가, 급여 규정 수립 및 조직 문화 구축."
+  },
+  "Exclusions: Excludes creating educational training materials or SOP playbooks (LEARN_CENTER).": {
+    "ko": "제외 대상: 교육 훈련 교재 및 SOP 플레이북 제작(LEARN_CENTER)은 제외됩니다."
+  },
+  "Scope: Accounting, cash flow, tax filing, AP/AR management, budget control, and formal P&L / Balance Sheets.": {
+    "ko": "업무 범위: 회계, 현금 흐름, 세무 신고, AP/AR(매입·매출채권) 관리, 예산 통제 및 공식 손익계산서(P&L)·대차대조표 산출."
+  },
+  "Exclusions: Excludes speculative ROI simulations (ANALYSIS_CENTER) and macro-financial risk alerts (RISK_CENTER).": {
+    "ko": "제외 대상: 가상적 ROI 시뮬레이션(ANALYSIS_CENTER) 및 거시 금융 리스크 조기 경보(RISK_CENTER)는 제외됩니다."
+  },
+  "Scope: Physical operations, rolling purchasing forecasts, raw material procurement, vendor POs, WMS, and 3PL tracking.": {
+    "ko": "업무 범위: 물류 실무 운영, 롤링 구매 예측, 원자재 조달, 벤더 발주서(PO) 관리, WMS(창고관리시스템) 및 3PL 추적."
+  },
+  "Exclusions: Excludes customer-side sales forecasting (TEAM_SALES_OPR) and supplier bankruptcy predictions (RISK_CENTER).": {
+    "ko": "제외 대상: 고객단 매출 예측(TEAM_SALES_OPR) 및 공급업체 파산 위험 예측(RISK_CENTER)은 제외됩니다."
+  },
+  "Scope: Legal compliance, trademark/patent filing, contract redlining (NDA, MSA), and government certifications (FDA, CE, KC).": {
+    "ko": "업무 범위: 법적 컴플라이언스, 상표/특허 출원, 계약서 검토 및 수정(NDA, MSA 레드라이닝), 정부 및 공인 규격 인증(FDA, CE, KC 등)."
+  },
+  "Exclusions: Pure legal focus; excludes broad market or financial risk management (RISK_CENTER).": {
+    "ko": "제외 대상: 순수 법률 리스크 중심이며, 포괄적 시장 또는 금융 리스크 관리(RISK_CENTER)는 제외됩니다."
+  },
+  "Scope: Internal infrastructure, cloud servers (AWS), SaaS provisioning, cybersecurity, IAM, and tech troubleshooting.": {
+    "ko": "업무 범위: 사내 인프라 아키텍처, 클라우드 서버(AWS), SaaS 프로비저닝, 사이버 보안, IAM(계정 및 접근 제어), 기술적 트러블슈팅."
+  },
+  "Exclusions: Excludes database schema manipulation (DATA_CENTER) and visual workflow building (AUTO_CENTER).": {
+    "ko": "제외 대상: 데이터베이스 스키마 조작(DATA_CENTER) 및 비주얼 워크플로우 구축(AUTO_CENTER)은 제외됩니다."
+  },
+  "← Back to SISTAR AI Centers": {
+    "ko": "← SISTAR AI Centers로 돌아가기"
+  },
+  "Next Center →": {
+    "ko": "다음 센터로 이동 →"
+  },
+  "LEVEL 3 • CMD_CENTER & TEAM AI": {
+    "ko": "LEVEL 3 • CMD_CENTER 및 TEAM AI"
+  },
+  "02 • ROUTING SCOPE & TRIGGER MECHANISMS": {
+    "ko": "02 • 라우팅 범위 및 트리거 메커니즘"
+  },
+  "03 • EXCLUSION BOUNDARIES (WHAT IT DOES NOT DO)": {
+    "ko": "03 • 제외 경계 (비수행 영역)"
+  },
+  "03 • HOW IT WORKS: TEAM AI (FUNCTIONAL EXECUTION SUB-ROUTES)": {
+    "ko": "03 • 작동 원리: TEAM AI (기능별 실행 서브 라우트)"
+  },
+  "8 FUNCTIONAL TEAM AI MODULES": {
+    "ko": "8대 기능별 TEAM AI 모듈"
+  },
+  "1. SALES & OPERATIONS (ID: TEAM_SALES_OPR)": {
+    "ko": "1. 영업 및 운영 (ID: TEAM_SALES_OPR)"
+  },
+  "2. MARKETING (ID: TEAM_MKT)": {
+    "ko": "2. 마케팅 (ID: TEAM_MKT)"
+  },
+  "3. BUSINESS DEVELOPMENT (ID: TEAM_DVMP)": {
+    "ko": "3. 사업 개발 (ID: TEAM_DVMP)"
+  },
+  "4. HUMAN RESOURCES (ID: TEAM_HR)": {
+    "ko": "4. 인사 관리 (ID: TEAM_HR)"
+  },
+  "5. FINANCE (ID: TEAM_FINANCE)": {
+    "ko": "5. 재무 회계 (ID: TEAM_FINANCE)"
+  },
+  "6. SUPPLY CHAIN MANAGEMENT (ID: TEAM_SCM)": {
+    "ko": "6. 공급망 관리 (ID: TEAM_SCM)"
+  },
+  "7. REGULATORY AFFAIRS (ID: TEAM_RA)": {
+    "ko": "7. 규제 및 대관 (ID: TEAM_RA)"
+  },
+  "8. INFORMATION TECHNOLOGY (ID: TEAM_IT)": {
+    "ko": "8. 정보 기술 (ID: TEAM_IT)"
+  },
+  "Analysis Center — Quantitative Modeling & ROI Feasibility": {
+    "ko": "Analysis Center — 정량 모델링 및 ROI 타당성 분석"
+  },
+  "The quantitative laboratory of *SC. Transforming raw financial and market data into deep mathematical insights, break-even simulations, and pricing elasticity models.": {
+    "ko": "*SC의 정량 연구소. 로우(raw) 재무 및 시장 데이터를 심층적인 수학적 인사이트, 손익분기점 시뮬레이션, 가격 탄력성 모델로 변환합니다."
+  },
+  "The Analysis Center is dedicated entirely to advanced mathematical modeling, strategic project feasibility studies, and post-mortem project audits. Before *SC injects capital into a new Cosmo Seed™ venture or enters a new global market, the Analysis Center performs rigorous quantitative testing to ensure profitability, calculating exact break-even points and optimal pricing structures.": {
+    "ko": "Analysis Center는 첨단 수학적 모델링, 전략적 프로젝트 타당성 조사, 프로젝트 사후 감사에 전념합니다. *SC가 신규 COSMO SEED™ 벤처에 자본을 투입하거나 글로벌 신시장에 진입하기 전, Analysis Center는 수익성을 담보하기 위해 엄격한 정량 테스트를 수행하여 정밀한 손익분기점과 최적화된 가격 결정 구조를 산출합니다."
+  },
+  "Routing Scope: Quantitative data modeling, project feasibility studies, ROI and break-even simulations, post-mortem project audits, margin analysis, and pricing elasticity modeling.": {
+    "ko": "라우팅 범위: 정량 데이터 모델링, 프로젝트 타당성 조사, ROI 및 손익분기점 시뮬레이션, 프로젝트 사후 감사, 마진 분석, 가격 탄력성 모델링."
+  },
+  "Trigger Keywords: analyze feasibility, simulate ROI, break-even point, post-mortem, margin analysis, elasticity, quantitative study.": {
+    "ko": "트리거 키워드: 타당성 분석, ROI 시뮬레이션, 손익분기점, 사후 분석, 마진 분석, 탄력성, 정량 연구."
+  },
+  "To maintain absolute analytical integrity, the Analysis Center is heavily compartmentalized. It does NOT store, clean, or maintain raw corporate data (which is strictly the domain of DATA_CENTER). It does NOT manage routine accounting books, daily cash flow, or official tax filings (which belong exclusively to TEAM_FINANCE). It focuses purely on analytical, predictive insights and high-level mathematical evaluation based on data provided to it.": {
+    "ko": "절대적인 분석적 무결성을 유지하기 위해 Analysis Center는 철저히 구획화되어 운영됩니다. 본 센터는 기업의 원천 데이터를 저장, 정제 또는 유지관리하지 않으며(이는 전적으로 DATA_CENTER의 영역임), 일상적인 회계 장부 관리, 일일 현금 흐름 통제, 공식 세무 신고를 수행하지 않습니다(이는 전적으로 TEAM_FINANCE의 고유 권한임). 본 센터는 공급받은 데이터를 기반으로 한 분석적·예측적 인사이트 도출 및 고차원 수학적 평가에만 배타적으로 집중합니다."
+  },
+  "← Prev Center": {
+    "ko": "← 이전 센터"
+  },
+  "Media Center — The Autonomous Creative Forge": {
+    "ko": "미디어 센터 — 자율형 크리에이티브 포지(Forge)"
+  },
+  "Rendering high-fidelity visual, audio, and written commercial assets at quantum speed without the friction of traditional design agencies.": {
+    "ko": "기존 디자인 에이전시의 마찰 비용을 완전히 배제하고, 양자적(quantum) 속도로 고충실도(high-fidelity) 비주얼, 오디오 및 텍스트 상업 자산을 렌더링합니다."
+  },
+  "The Media Center operates as *SC’s internal autonomous creative studio. It is the execution arm for all digital and physical brand assets. When a new product is conceptualized, the Media Center rapidly translates strategic briefs into pixel-perfect images, highly engaging promotional videos, localized copywriting across multiple languages, and optimized digital formats ready for global deployment.": {
+    "ko": "미디어 센터는 *SC의 사내 자율형 크리에이티브 스튜디오로 기능하며, 모든 디지털 및 피지컬 브랜드 자산의 전술적 실행 조직입니다. 신규 제품이 개념화되면 미디어 센터는 전략 브리프를 픽셀 단위까지 정밀한 이미지, 고관여 프로모션 비디오, 다국어 현지화 카피라이팅, 글로벌 배포에 최적화된 디지털 포맷으로 신속히 전환합니다."
+  },
+  "Routing Scope: Production and high-end editing of visual, audio, and written creative assets—including product images, promotional videos, 3D renders, copywriting, script translation, and automated file resizing/formatting.": {
+    "ko": "라우팅 범위: 제품 이미지, 프로모션 비디오, 3D 렌더링, 카피라이팅, 스크립트 번역, 자동화된 파일 리사이징 및 포맷팅을 포함한 시각·음향·텍스트 크리에이티브 자산의 제작 및 하이엔드 편집."
+  },
+  "Trigger Keywords: generate image, edit video, render 3D, write copy, translate script, banner design, thumbnail, audio mix.": {
+    "ko": "트리거 키워드: 이미지 생성, 영상 편집, 3D 렌더링, 카피 작성, 스크립트 번역, 배너 디자인, 썸네일, 오디오 믹싱."
+  },
+  "The Media Center is an execution engine, not a strategy or distribution engine. It executes creative production based on incoming briefs, but it does NOT plan overarching marketing budgets or GTM strategies (handled by TEAM_MKT). Furthermore, it does NOT publish these assets directly to social feeds or manage online follower interactions (handled by COMM_CENTER).": {
+    "ko": "미디어 센터는 전략 수립이나 배포 엔진이 아닌 순수 '실행 엔진'입니다. 인입된 브리프를 기반으로 크리에이티브 제작을 실행하되, 거시적 마케팅 예산이나 GTM 전략을 기획하지는 않습니다(해당 업무는 TEAM_MKT 관할). 아울러 해당 자산을 소셜 피드에 직접 게시하거나 온라인 팔로워 인터랙션을 관리하지 않습니다(해당 업무는 COMM_CENTER 관할)."
+  },
+  "Learning Center — Corporate Memory & SOP Architecture": {
+    "ko": "러닝 센터 — 전사적 기억 체계 및 SOP 아키텍처"
+  },
+  "Documenting best practices, standardizing workflows, and building comprehensive onboarding curricula to ensure zero knowledge loss across the *SC ecosystem.": {
+    "ko": "*SC 생태계 전반의 무손실 지식 체계(Zero Knowledge Loss)를 보장하기 위해 모범 사례를 문서화하고, 워크플로우를 표준화하며, 포괄적인 온보딩 커리큘럼을 구축합니다."
+  },
+  "The Learning Center is the architectural librarian of the Signal Star Universe. As *SC rapidly scales across 8 international bases and multiple industries, the Learning Center captures successful field executions and crystallizes them into Standard Operating Procedures (SOPs). It acts as a corporate academy, designing structured training modules that rapidly bring new Challengers (employees) and external B2B partners up to speed with *SC’s proprietary methodologies.": {
+    "ko": "러닝 센터는 시그널 스타 유니버스(Signal Star Universe)의 아키텍처 라이브러리언(Architectural Librarian)입니다. *SC가 8개 글로벌 거점 및 다양한 산업군으로 급격히 확장됨에 따라, 러닝 센터는 현장의 성공적인 실행 사례를 포착하여 표준운영절차(SOP)로 정형화합니다. 또한 사내 아카데미 역할을 수행하여 신규 챌린저(임직원)와 외부 B2B 파트너가 *SC의 독자적 방법론을 즉각 체화할 수 있도록 고도화된 교육 모듈을 설계합니다."
+  },
+  "Routing Scope: Building internal training courses, documenting exact Standard Operating Procedures (SOPs), compiling best-practice operational playbooks, and designing interactive quizzes and educational curricula.": {
+    "ko": "라우팅 범위: 사내 교육 코스 구축, 정밀 표준운영절차(SOP) 문서화, 모범 운영 플레이북 편찬, 인터랙티브 퀴즈 및 교육 커리큘럼 설계."
+  },
+  "Trigger Keywords: SOP, training course, manual, playbook, curriculum, tutorial, onboarding guide, knowledge base.": {
+    "ko": "트리거 키워드: SOP, 교육 코스, 매뉴얼, 플레이북, 커리큘럼, 튜토리얼, 온보딩 가이드, 지식 베이스."
+  },
+  "The Learning Center focuses strictly on the creation and structuring of educational content and process documentation. It is explicitly excluded from Human Resources personnel administration. It does NOT handle candidate screening, interview scheduling, performance evaluations, or payroll calculations (which are strictly the domain of TEAM_HR).": {
+    "ko": "러닝 센터는 교육 콘텐츠 제작 및 프로세스 문서화에 엄격히 집중합니다. 인사(HR) 노무 행정 업무에서는 명시적으로 배제됩니다. 후보자 스크리닝, 면접 일정 조율, 인사 평가, 급여 정산 등은 수행하지 않습니다(해당 업무는 전적으로 TEAM_HR 관할)."
+  },
+  "Community Center — Social Frontline & KOL Operations": {
+    "ko": "커뮤니티 센터 — 소셜 프론트라인 및 KOL 운영"
+  },
+  "The real-time, interactive voice of *SC brands. Managing daily social engagement, influencer outreach, and trend listening across global digital platforms.": {
+    "ko": "*SC 브랜드의 실시간 인터랙티브 보이스. 글로벌 디지털 플랫폼 전반에 걸친 일상적 소셜 인게이지먼트, 인플루언서 아웃리치 및 트렌드 리스닝을 총괄 관리합니다."
+  },
+  "The Community Center is the digital frontline for brand-to-consumer and brand-to-partner interactions. In the era of social commerce, brand equity is built through consistent, authentic, and rapid communication. This AI Center autonomously manages our external social media presence, engages with followers across different time zones, scouts relevant Key Opinion Leaders (KOLs), and continuously listens to social sentiment to capture emerging viral trends.": {
+    "ko": "Community Center는 브랜드 대 소비자(B2C) 및 브랜드 대 파트너(B2B) 상호작용의 디지털 최전선입니다. 소셜 커머스 시대에 브랜드 자산은 일관되고 진정성 있으며 신속한 커뮤니케이션을 통해 구축됩니다. 본 AI 센터는 외부 소셜 미디어 입지를 자율적으로 관리하고, 시차를 넘어 글로벌 팔로워와 소통하며, 핵심 오피니언 리더(KOL)를 발굴하고, 소셜 센티먼트를 지속적으로 청취하여 급부상하는 바이럴 트렌드를 선제적으로 포착합니다."
+  },
+  "Routing Scope: Managing external social media channels (Instagram, YouTube, X, LinkedIn, TikTok), scheduling multi-platform posts, replying intelligently to comments and Direct Messages (DMs), initiating influencer/KOL outreach, and conducting social sentiment listening.": {
+    "ko": "라우팅 범위: 외부 소셜 미디어 채널(Instagram, YouTube, X, LinkedIn, TikTok) 관리, 멀티 플랫폼 게시물 스케줄링, 댓글 및 다이렉트 메시지(DM) 지능형 응답, 인플루언서/KOL 아웃리치 실행, 소셜 센티먼트 리스닝 수행."
+  },
+  "Trigger Keywords: Instagram, YouTube, TikTok, post schedule, reply comment, DM, influencer, KOL, viral trend, social listening.": {
+    "ko": "트리거 키워드: Instagram, YouTube, TikTok, 포스트 스케줄, 댓글 응답, DM, 인플루언서, KOL, 바이럴 트렌드, 소셜 리스닝."
+  },
+  "To maintain clear operational lanes, the Community Center does NOT cross into hard e-commerce or overarching brand strategy. It strictly excludes the management of e-commerce marketplace stores like Amazon, Shopee, or Coupang (handled by WEB_CENTER). It also does NOT handle high-level paid brand positioning or ad spend budget strategy (handled by TEAM_MKT).": {
+    "ko": "명확한 운영 경계를 유지하기 위해, Community Center는 직접적인 이커머스 운영이나 총괄적 브랜드 전략 영역에 개입하지 않습니다. Amazon, Shopee, Coupang과 같은 이커머스 마켓플레이스 스토어 관리(WEB_CENTER 관할)는 엄격히 제외됩니다. 또한, 고수준의 유료 브랜드 포지셔닝이나 광고비 집행 예산 전략(TEAM_MKT 관할) 역시 다루지 않습니다."
+  },
+  "Data Center — The Enterprise Data Vault & Architecture": {
+    "ko": "Data Center — 엔터프라이즈 데이터 볼트 & 아키텍처"
+  },
+  "The bedrock of *SC Intelligence-Core. Managing raw SQL databases, ETL pipelines, and Vector DB indexing to ensure every AI Agent runs on clean, uncorrupted master data.": {
+    "ko": "*SC Intelligence-Core의 핵심 기반. 로우(Raw) SQL 데이터베이스, ETL 파이프라인, Vector DB 인덱싱을 총괄하여 모든 AI 에이전트가 무결하고 정제된 마스터 데이터 상에서 구동되도록 보장합니다."
+  },
+  "The Data Center is the heavily guarded, foundational data infrastructure of *SC. Artificial Intelligence is only as powerful as the data it consumes. The Data Center acts as the Chief Data Officer, meticulously administrating databases, cleansing messy inputs, deduplicating records, and maintaining the highly complex ETL (Extract, Transform, Load) pipelines that feed our Dual-Engine RAG systems. It ensures the integrity of the corporate truth.": {
+    "ko": "Data Center는 철저히 통제·보호되는 *SC의 기반 데이터 인프라입니다. 인공지능의 역량은 투입되는 데이터의 품질에 의해 결정됩니다. Data Center는 최고데이터책임자(CDO) 역할을 수행하며 데이터베이스를 정밀 관리하고, 불완전한 입력을 정제하며, 레코드 중복을 제거하고, Dual-Engine RAG 시스템에 데이터를 공급하는 고도의 복합 ETL(추출·변환·적재) 파이프라인을 유지합니다. 이를 통해 기업의 데이터 무결성과 단일 진실 공급원(Corporate Truth)을 확립합니다."
+  },
+  "Routing Scope: Database administration (SQL/NoSQL), maintenance of ETL pipelines, master data cleaning, record deduplication, Vector DB indexing (essential for RAG architectures), and processing complex raw data queries.": {
+    "ko": "라우팅 범위: 데이터베이스 관리(SQL/NoSQL), ETL 파이프라인 유지보수, 마스터 데이터 정제, 레코드 중복 제거, Vector DB 인덱싱(RAG 아키텍처 핵심), 복합 로우 데이터 쿼리 처리."
+  },
+  "Trigger Keywords: SQL query, database, ETL, data cleaning, schema, Vector DB, RAG indexing, raw data export, master data.": {
+    "ko": "트리거 키워드: SQL 쿼리, 데이터베이스, ETL, 데이터 정제, 스키마, Vector DB, RAG 인덱싱, 로우 데이터 익스포트, 마스터 데이터."
+  },
+  "The Data Center is a provider of pristine raw material, not an interpreter. It provides clean raw data, but it does NOT perform business feasibility interpretation or ROI modeling (which belongs to ANALYSIS_CENTER). Furthermore, it does NOT perform live, external web scraping to acquire new data directly from the internet (which is executed by WEB_CENTER).": {
+    "ko": "Data Center는 원초적 원재료를 제공하는 조직이며 데이터의 자의적 해석자가 아닙니다. 고순도의 정제된 로우 데이터를 제공하되, 사업 타당성 해석이나 ROI 모델링(ANALYSIS_CENTER 관할)은 수행하지 않습니다. 또한 인터넷 환경에서 직접 신규 데이터를 수집하는 실시간 외부 웹 스크래핑(WEB_CENTER 관할) 역시 실행하지 않습니다."
+  },
+  "Browser Work Center — External Browser Execution & Marketplace Ops": {
+    "ko": "Browser Work Center — 외부 브라우저 실행 및 마켓플레이스 운영"
+  },
+  "Deploying autonomous browser agents into the wild. Scraping competitor data, managing global e-commerce portals, and conquering search engine algorithms.": {
+    "ko": "자율형 브라우저 에이전트를 실무 환경에 전격 배치합니다. 경쟁사 데이터 스크래핑, 글로벌 이커머스 포털 운영, 검색 엔진 알고리즘 최적화 및 장악을 실행합니다."
+  },
+  "The Browser Work Center is our external task force. While other centers operate internally within the *SC ecosystem, this center reaches out into the external internet. Using advanced headless browser agents and RPA logic, it interacts directly with global B2B/B2C marketplaces, competitor websites, and search engines—performing tasks that would normally require hundreds of hours of manual clicking, uploading, and form-filling by human operators.": {
+    "ko": "Browser Work Center는 당사의 대외 태스크포스입니다. 타 센터들이 *SC 생태계 내부에서 구동되는 반면, 본 센터는 외부 인터넷 환경으로 확장 전개됩니다. 고도화된 헤드리스 브라우저 에이전트와 RPA 로직을 기반으로 글로벌 B2B/B2C 마켓플레이스, 경쟁사 웹사이트 및 검색 엔진과 직접 상호작용하며, 통상적으로 인간 오퍼레이터의 수백 시간에 달하는 수동 클릭, 업로드 및 폼 작성 작업을 완벽히 자동화하여 수행합니다."
+  },
+  "Routing Scope: Live external web execution via browser agents—including daily e-commerce marketplace management (Amazon, Shopee, Coupang, Alibaba), dynamic competitor price scraping, automated web form submissions, and on-page SEO / landing page operations.": {
+    "ko": "라우팅 범위: 브라우저 에이전트를 통한 실시간 대외 웹 실행—일일 이커머스 마켓플레이스 운영 관리(Amazon, Shopee, Coupang, Alibaba), 동적 경쟁사 가격 스크래핑, 자동화된 웹 폼 제출, 온페이지 SEO 및 랜딩 페이지 최적화 운용 포함."
+  },
+  "Trigger Keywords: scrape website, browser agent, Amazon store, Coupang listing, upload product, check competitor price online, SEO, web form.": {
+    "ko": "트리거 키워드: 웹사이트 스크래핑, 브라우저 에이전트, 아마존 스토어, 쿠팡 상품 등록, 온라인 경쟁사 가격 확인, SEO, 웹 폼."
+  },
+  "The Browser Work Center is strictly an external web operator. It does NOT engage in social media networking, DM replies, or influencer communication (handled by COMM_CENTER). It also does NOT handle the internal administration, storage, or indexing of the data it scrapes (handled by DATA_CENTER).": {
+    "ko": "Browser Work Center는 철저히 대외 웹 오퍼레이터 역할에 국한됩니다. 소셜 미디어 네트워킹, DM 회신, 인플루언서 커뮤니케이션에는 관여하지 않으며(COMM_CENTER 관할), 스크래핑된 데이터의 내부 관리, 적재 및 인덱싱 역시 관할하지 않습니다(DATA_CENTER 관할)."
+  },
+  "Risk Management Center — Corporate Shield & Predictive Alerts": {
+    "ko": "Risk Management Center — 기업 리스크 방벽 및 예측 경보"
+  },
+  "Protecting the Signal Star Universe. Proactively detecting supply chain disruptions, foreign exchange volatility, and B2B credit threats before they impact the bottom line.": {
+    "ko": "Signal Star Universe 수호. 공급망 교란, 환율 변동성, B2B 신용 위험이 최종 손익(bottom line)에 영향을 미치기 전에 선제적으로 감지 및 차단합니다."
+  },
+  "In global trade, blind spots can lead to catastrophic losses. The Risk Management Center operates as the unblinking radar of *SC, continuously scanning the global macroeconomic environment and our internal supply chains for anomalies. By predicting threats rather than merely reacting to them, this center ensures business continuity, safeguards margins from sudden FX shocks, and prevents financial exposure to unreliable buyers.": {
+    "ko": "글로벌 무역에서 사각지대는 괴멸적인 손실로 직결될 수 있습니다. Risk Management Center는 *SC의 상시 가동 레이더로서 글로벌 거시경제 환경과 내부 공급망의 이상 징후를 지속적으로 스캐닝합니다. 단순한 사후 대응을 넘어 선제적으로 위협을 예측함으로써, 비즈니스 연속성을 확보하고 급격한 외환 쇼크로부터 마진을 방어하며 부실 바이어에 대한 재무적 익스포저를 원천 차단합니다."
+  },
+  "Routing Scope: Proactive threat detection, crisis scenario simulation, supply chain disruption alerts, Foreign Exchange (FX) volatility warnings, global client credit default checks, and drafting Public Relations (PR) crisis response protocols.": {
+    "ko": "라우팅 범위: 선제적 위협 감지, 위기 시나리오 시뮬레이션, 공급망 교란 조기 경보, 외환(FX) 변동성 경보, 글로벌 바이어 신용부도 검증, 대외 홍보(PR) 위기 대응 프로토콜 수립."
+  },
+  "Trigger Keywords: risk assessment, crisis protocol, early warning, credit check, FX exposure, supplier default, BCP (Business Continuity), PR crisis.": {
+    "ko": "트리거 키워드: 리스크 평가, 위기 프로토콜, 조기 경보, 신용 조회, FX 익스포저, 공급업체 부도, BCP(비즈니스 연속성 계획), PR 위기."
+  },
+  "This center is dedicated to preventative threat mitigation and emergency protocols. It does NOT draft routine legal paperwork, contracts, or standard compliance certifications (which belong to TEAM_RA). It does NOT manage daily, routine accounting, tax filings, or standard cash-flow management (which belong to TEAM_FINANCE).": {
+    "ko": "본 센터는 예방적 위협 완화 및 비상 프로토콜 수립에 전념합니다. 일상적 법률 문서, 계약서 또는 표준 컴플라이언스 인증 작성을 수행하지 않으며(TEAM_RA 관할), 일상적인 회계 처리, 세무 신고 및 표준 현금흐름 관리는 담당하지 않습니다(TEAM_FINANCE 관할)."
+  },
+  "Automation Center — The Workflow & API Engineering Core": {
+    "ko": "Automation Center — 워크플로우 및 API 엔지니어링 코어"
+  },
+  "The master plumbers of the AI ecosystem. Designing, coding, and maintaining the intricate automated pipelines that seamlessly connect tools, platforms, and AI agents.": {
+    "ko": "AI 생태계의 마스터 배관공(Master Plumber). 이종 도구, 플랫폼 및 AI 에이전트를 유기적으로 상호 연결하는 정밀 자동화 파이프라인을 설계, 코딩 및 유지 관리합니다."
+  },
+  "The Automation Center is the architectural engineering team responsible for creating the “Vibe Working” infrastructure. It connects siloed software platforms (CRMs, ERPs, Slack, Email) using advanced integration logic. By engineering complex webhook triggers, APIs, and prompt sequences, it ensures that when the Command Center issues a directive, data flows flawlessly across the entire *SC ecosystem without a single manual copy-paste action.": {
+    "ko": "오토메이션 센터(Automation Center)는 “Vibe Working” 인프라 구축을 전담하는 아키텍처 엔지니어링 조직입니다. 고도화된 통합 로직을 활용하여 사일로화된 소프트웨어 플랫폼(CRM, ERP, Slack, 이메일 등)을 유기적으로 연계합니다. 복합 웹훅(webhook) 트리거, API, 프롬프트 시퀀스를 엔지니어링함으로써 커맨드 센터의 지시가 하달될 때 일체의 수동 복사·붙여넣기 작업 없이 전체 *SC 생태계 전반에 걸쳐 데이터가 완벽하고 무결하게 흐르도록 보장합니다."
+  },
+  "Routing Scope: Designing, coding, and maintaining automated workflows (utilizing platforms like Zapier, Make, n8n, and custom Python scripts), managing API integrations between disparate software tools, and engineering/refining AI system prompts for maximum output quality.": {
+    "ko": "라우팅 범위: 자동화 워크플로우 설계·코딩 및 유지관리(Zapier, Make, n8n 및 커스텀 Python 스크립트 등 활용), 이기종 소프트웨어 도구 간 API 통합 관리, 산출물 품질 극대화를 위한 AI 시스템 프롬프트 엔지니어링 및 고도화."
+  },
+  "Trigger Keywords: automate workflow, Zapier, Make, n8n, webhook, cron job, prompt engineering, RPA, auto-trigger.": {
+    "ko": "트리거 키워드: 워크플로우 자동화(automate workflow), Zapier, Make, n8n, 웹훅(webhook), 크론 작업(cron job), 프롬프트 엔지니어링(prompt engineering), RPA, 자동 트리거(auto-trigger)."
+  },
+  "The Automation Center builds the pipelines, but it does NOT provide the business knowledge that flows through them. It builds the automation pipe itself; it explicitly does NOT execute the manual business logic inside that pipe. For example: The Automation Center will build the “Auto-Invoicing Bot” infrastructure, but TEAM_FINANCE exclusively owns and dictates the financial/tax rules that the bot must follow.": {
+    "ko": "오토메이션 센터는 파이프라인을 구축할 뿐, 해당 파이프라인을 통해 유통되는 비즈니스 도메인 지식 자체를 제공하지 않습니다. 즉, 자동화 파이프라인 구조 자체를 엔지니어링하며, 파이프 내부에서 실행되는 수동 비즈니스 로직을 직접 수행하지 않음을 명시합니다. 예컨대 오토메이션 센터는 “자동 인보이스 발행 봇” 인프라를 구축하지만, 해당 봇이 준수해야 하는 재무/세무 규정에 대한 통제 및 결정 권한은 전적으로 TEAM_FINANCE에 귀속됩니다."
+  },
+  "SISTAR AI Centers — The Autonomous Corporate Campus": {
+    "ko": "SISTAR AI 센터 — 자율 운영 기업 캠퍼스"
+  },
+  "The 9 Specialized AI Centers": {
+    "ko": "9대 특화 AI 센터"
+  },
+  "Strategic Synergy & Enterprise ROI": {
+    "ko": "전략적 시너지 및 엔터프라이즈 ROI"
+  },
+  "Semantic Routing & Autonomous Campus": {
+    "ko": "시맨틱 라우팅 및 자율 운영 캠퍼스"
+  },
+  "Strict Operational & Exclusion Boundaries": {
+    "ko": "엄격한 운영 및 배타적 거버넌스 경계"
+  },
+  "1. Command Center (Team AI)": {
+    "ko": "1. 커맨드 센터 (Team AI)"
+  },
+  "2. Analysis Center": {
+    "ko": "2. 분석 센터"
+  },
+  "3. Media Center": {
+    "ko": "3. 미디어 센터"
+  },
+  "4. Learning Center": {
+    "ko": "4. 러닝 센터"
+  },
+  "5. Community Center": {
+    "ko": "5. 커뮤니티 센터"
+  },
+  "6. Data Center": {
+    "ko": "6. 데이터 센터"
+  },
+  "7. Browser Work Center": {
+    "ko": "7. 브라우저 워크 센터"
+  },
+  "8. Risk Management Center": {
+    "ko": "8. 리스크 관리 센터"
+  },
+  "9. Automation Center": {
+    "ko": "9. 오토메이션 센터"
+  },
+  "Zero Workflow Collision": {
+    "ko": "워크플로우 충돌 제로 (Zero Workflow Collision)"
+  },
+  "Infinite Scalability": {
+    "ko": "무한한 확장성"
+  },
+  "Explore the Centers": {
+    "ko": "AI 센터 탐색하기"
+  },
+  "The intelligent intent-classification and routing hub of *SC. We instantly dispatch every business objective to highly specialized, inter-connected AI departments that execute complex global operations 24/7.": {
+    "ko": "*SC의 지능형 의도 분류 및 라우팅 허브입니다. 모든 비즈니스 목표를 고도로 전문화되고 상호 연결된 AI 부서로 즉각 배정하여, 24/7 무중단으로 복잡한 글로벌 운영을 완벽히 수행합니다."
+  },
+  "SISTAR AI Centers operate as the hyper-efficient, autonomous corporate campus within the *SC Intelligence-Core. Just as a physical enterprise routes different tasks to distinct human departments, our AI Centers utilize advanced intent classification (Semantic Routing) to instantly interpret a user’s prompt or an automated system trigger. Based on the objective, the system delegates the task to the exact specialized AI Center equipped with the right tools, knowledge base, and operational boundaries to execute it flawlessly.": {
+    "ko": "SISTAR AI 센터는 *SC Intelligence-Core 내에서 초고효율의 자율 기업 캠퍼스로 기능합니다. 물리적 엔터프라이즈가 다양한 업무를 전문 부서로 분정하듯, 당사의 AI 센터는 고도화된 의도 분류(Semantic Routing)를 통해 사용자 프롬프트나 자동화된 시스템 트리거를 즉각적으로 해석합니다. 규명된 비즈니스 목표에 따라, 시스템은 전용 툴셋, 지식 베이스 및 운영 경계(Operational Boundaries)를 갖춘 최적의 특화 AI 센터로 작업을 위임하여 무결점 실행을 보장합니다."
+  },
+  "When enterprises rely on a single, generalized AI model to handle everything from accounting to image generation, the system suffers from context overlap, hallucinations, and catastrophic errors. We engineered the SISTAR AI Centers to enforce strict operational boundaries (Exclusion Boundaries). By isolating functional intelligence—keeping raw data storage separate from financial auditing, and creative media separate from legal compliance—*SC ensures absolute precision, enterprise-grade security, and seamless collaboration across 9 dedicated, expert AI hubs.": {
+    "ko": "단일 범용 AI 모델에 의존하여 회계부터 이미지 생성까지 전 영역을 처리할 경우, 엔터프라이즈 시스템은 필연적으로 컨텍스트 중첩, 환각 현상(Hallucinations), 치명적 연산 오류에 직면하게 됩니다. 이에 당사는 엄격한 상호 배제 경계(Exclusion Boundaries)를 강제하도록 SISTAR AI 센터를 설계했습니다. 기능적 인텔리전스를 격리하여 원천 데이터 스토리지를 재무 감사와 분리하고, 크리에이티브 미디어를 법적 컴플라이언스와 격리함으로써, *SC는 9개의 전용 전문 AI 허브 전반에서 절대적인 정밀도, 엔터프라이즈급 보안 및 유기적인 협업을 보장합니다."
+  },
+  "Every directive entering the Intelligence-Core is parsed for specific Trigger Keywords and instantly routed to the appropriate operational unit:": {
+    "ko": "Intelligence-Core로 유입되는 모든 지침은 특정 트리거 키워드를 기반으로 파싱되며, 적합한 운영 유닛으로 즉각 라우팅됩니다:"
+  },
+  "The executive orchestration layer handling cross-departmental alignment, overarching OKRs, and direct management of the 8 Functional Team AIs (Sales, Marketing, Dev, HR, Finance, SCM, RA, and IT).": {
+    "ko": "전사적 조율 레이어로서 부서 간 정렬(Alignment), 거시적 OKR 수립, 그리고 8대 기능별 팀 AI(영업, 마케팅, 개발, HR, 재무, SCM, RA, IT)의 직접적인 통제 및 총괄 관리를 수행합니다."
+  },
+  "The quantitative laboratory for deep ROI modeling and business feasibility simulations.": {
+    "ko": "심층적 ROI 모델링 및 비즈니스 타당성 시뮬레이션을 수행하는 퀀트 랩(Quantitative Laboratory)입니다."
+  },
+  "The creative forge for producing visual, audio, and written promotional assets.": {
+    "ko": "비주얼, 오디오 및 텍스트 기반 홍보 에셋을 전문적으로 생성하는 크리에이티브 포지(Creative Forge)입니다."
+  },
+  "The corporate academy building standardized SOPs, onboarding playbooks, and training curricula.": {
+    "ko": "표준화된 SOP, 온보딩 플레이북 및 교육 커리큘럼을 구축하는 코퍼레이트 아카데미입니다."
+  },
+  "The social frontline managing external channels, KOL outreach, and brand sentiment.": {
+    "ko": "대외 채널 관리, KOL 아웃리치 및 브랜드 정량·정성 감성 지수를 통제하는 소셜 프론트라인입니다."
+  },
+  "The architectural vault handling SQL databases, ETL pipelines, and Vector DB (RAG) indexing.": {
+    "ko": "SQL 데이터베이스, ETL 파이프라인 및 벡터 DB(RAG) 인덱싱을 전담하는 아키텍처 볼트(Architectural Vault)입니다."
+  },
+  "The external execution squad deploying browser agents across global marketplaces (Amazon, Shopee) and competitor sites.": {
+    "ko": "글로벌 마켓플레이스(Amazon, Shopee) 및 경쟁사 플랫폼 전반에 브라우저 에이전트를 전개하는 외부 실행 스쿼드입니다."
+  },
+  "The corporate shield dedicated to proactive threat detection, FX volatility, and crisis protocols.": {
+    "ko": "선제적 위협 탐지, 외환(FX) 변동성 통제 및 위기 대응 프로토콜 실행에 특화된 코퍼레이트 쉴드입니다."
+  },
+  "The engineering core building and maintaining the Zapier/Make pipelines that connect the entire ecosystem.": {
+    "ko": "전체 생태계를 상호 결합하는 Zapier/Make 파이프라인을 구축 및 유지관리하는 엔지니어링 코어입니다."
+  },
+  "Strict exclusion boundaries guarantee that marketing agents never touch financial ledgers, and data agents never execute legal contracts.": {
+    "ko": "엄격한 상호 배제 경계를 통해 마케팅 에이전트의 재무 원장 접근을 원천 차단하며, 데이터 에이전트가 법적 계약을 체결하지 못하도록 완벽히 통제합니다."
+  },
+  "As *SC launches new ventures (Cosmo Seed™), this modular routing architecture instantly absorbs the new workload without requiring additional human headcount.": {
+    "ko": "*SC가 신규 벤처(COSMO SEED™)를 출범함에 따라, 본 모듈형 라우팅 아키텍처는 인위적인 인력 증원 없이도 신규 워크로드를 즉각적으로 흡수합니다."
+  },
+  "Select a specific AI Center above or from the sidebar to view its routing specifications and capabilities in detail.": {
+    "ko": "상단 또는 사이드바에서 특정 AI 센터를 선택하여 라우팅 사양 및 세부 역량을 확인하십시오."
+  },
+  "Center 01: Command Center →": {
+    "ko": "센터 01: 커맨드 센터 (Command Center) →"
+  },
+  "LEVEL 2 • MULTI-AGENT ROUTING ARCHITECTURE": {
+    "ko": "레벨 2 • 멀티 에이전트 라우팅 아키텍처"
+  },
+  "PILLAR 06 / 06": {
+    "ko": "핵심 축 06 / 06"
+  },
+  "03 • HOW IT WORKS (THE 9-CENTER ARCHITECTURE)": {
+    "ko": "03 • 운영 메커니즘 (9대 센터 아키텍처)"
+  },
+  "SEMANTIC TRIGGER DISPATCH": {
+    "ko": "시맨틱 트리거 디스패치"
+  },
+  "CENTER 01 • CMD_CENTER": {
+    "ko": "센터 01 • CMD_CENTER"
+  },
+  "Open Center →": {
+    "ko": "센터 진입 →"
+  },
+  "CENTER 02 • ANALYSIS_CENTER": {
+    "ko": "센터 02 • ANALYSIS_CENTER"
+  },
+  "CENTER 03 • MEDIA_CENTER": {
+    "ko": "센터 03 • MEDIA_CENTER"
+  },
+  "CENTER 04 • LEARN_CENTER": {
+    "ko": "센터 04 • LEARN_CENTER"
+  },
+  "CENTER 05 • COMM_CENTER": {
+    "ko": "센터 05 • COMM_CENTER"
+  },
+  "CENTER 06 • DATA_CENTER": {
+    "ko": "센터 06 • DATA_CENTER"
+  },
+  "CENTER 07 • WEB_CENTER": {
+    "ko": "센터 07 • WEB_CENTER"
+  },
+  "CENTER 08 • RISK_CENTER": {
+    "ko": "센터 08 • RISK_CENTER"
+  },
+  "CENTER 09 • AUTO_CENTER": {
+    "ko": "센터 09 • AUTO_CENTER"
+  },
+  "04 • STRATEGIC SYNERGY & ROI": {
+    "ko": "04 • 전략적 시너지 및 ROI"
+  },
+  "ZERO COLLISION • INFINITE SCALE": {
+    "ko": "충돌 제로 • 무한 확장성"
+  },
+  "SYNERGY 01": {
+    "ko": "시너지 01"
+  },
+  "SYNERGY 02": {
+    "ko": "시너지 02"
+  },
+  "SYNERGY 03": {
+    "ko": "시너지 03"
   }
 };
