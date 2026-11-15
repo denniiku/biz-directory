@@ -559,8 +559,15 @@ main blockquote,
   padding-bottom: 8px !important;
   margin-bottom: 14px !important;
 }
-.sc-monograph, main.sc-monograph, main {
-  padding-top: clamp(22px, 3vh, 36px) !important;
+@media (min-width: 769px) {
+  .sc-monograph, main.sc-monograph, main {
+    padding-top: clamp(22px, 3vh, 36px) !important;
+  }
+}
+@media (max-width: 768px) {
+  body > main, main, .sc-monograph, .sc-main-stage {
+    padding-top: 54px !important;
+  }
 }
 .sc-monograph > .sc-chapter:first-of-type {
   padding-top: 6px !important;
