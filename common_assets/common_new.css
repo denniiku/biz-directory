@@ -572,3 +572,23 @@ main blockquote,
 .sc-monograph > .sc-chapter:first-of-type {
   padding-top: 6px !important;
 }
+@media (max-width: 768px) {
+  body.sc-nav-folded,
+  body.sc-nav-open {
+    padding-top: 36px !important;
+  }
+  body > main,
+  main,
+  main.sc-monograph,
+  main.sc-prd-page,
+  main.sc-root-landing,
+  .sc-monograph,
+  .sc-prd-page,
+  .sc-root-landing,
+  .sc-doc,
+  .doc-container,
+  .content-wrap,
+  .sc-main-stage {
+    padding: 28px 5vw 80px !important;
+  }
+}
