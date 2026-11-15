@@ -99863,5 +99863,140 @@ window.SC_TRANSLATIONS = {
   },
   "SYNERGY 03": {
     "ko": "시너지 03"
+  },
+  "CENTER 01 / 09": {
+    "ko": "센터 01 / 09"
+  },
+  "LEVEL 3 • ANALYSIS_CENTER": {
+    "ko": "레벨 3 • 분석 센터 (ANALYSIS_CENTER)"
+  },
+  "CENTER 02 / 09": {
+    "ko": "센터 02 / 09"
+  },
+  "LEVEL 3 • MEDIA_CENTER": {
+    "ko": "레벨 3 • 미디어 센터 (MEDIA_CENTER)"
+  },
+  "CENTER 03 / 09": {
+    "ko": "센터 03 / 09"
+  },
+  "LEVEL 3 • LEARN_CENTER": {
+    "ko": "레벨 3 • 학습 센터 (LEARN_CENTER)"
+  },
+  "CENTER 04 / 09": {
+    "ko": "센터 04 / 09"
+  },
+  "LEVEL 3 • COMM_CENTER": {
+    "ko": "레벨 3 • 커뮤니케이션 센터 (COMM_CENTER)"
+  },
+  "CENTER 05 / 09": {
+    "ko": "센터 05 / 09"
+  },
+  "LEVEL 3 • DATA_CENTER": {
+    "ko": "레벨 3 • 데이터 센터 (DATA_CENTER)"
+  },
+  "CENTER 06 / 09": {
+    "ko": "센터 06 / 09"
+  },
+  "LEVEL 3 • WEB_CENTER": {
+    "ko": "레벨 3 • 웹 센터 (WEB_CENTER)"
+  },
+  "CENTER 07 / 09": {
+    "ko": "센터 07 / 09"
+  },
+  "LEVEL 3 • RISK_CENTER": {
+    "ko": "레벨 3 • 리스크 센터 (RISK_CENTER)"
+  },
+  "CENTER 08 / 09": {
+    "ko": "센터 08 / 09"
+  },
+  "LEVEL 3 • AUTO_CENTER": {
+    "ko": "레벨 3 • 자동화 센터 (AUTO_CENTER)"
+  },
+  "CENTER 09 / 09": {
+    "ko": "센터 09 / 09"
+  },
+  "PILLAR 01 / 06": {
+    "ko": "필러 01 / 06"
+  },
+  "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{Raw}}\\rangle \\otimes \\beta |F_{\\text{Factory}}\\rangle \\otimes \\gamma |L_{\\text{Logistics}}\\rangle \\otimes \\delta |B_{\\text{Bank}}\\rangle \\xrightarrow{\\hat{M}_{\\text{Vision}}} |\\text{Settled}_{t=0}\\rangle": {
+    "ko": "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{원자재}}\\rangle \\otimes \\beta |F_{\\text{공장}}\\rangle \\otimes \\gamma |L_{\\text{물류}}\\rangle \\otimes \\delta |B_{\\text{금융}}\\rangle \\xrightarrow{\\hat{M}_{\\text{비전}}} |\\text{정산 완료}_{t=0}\\rangle"
+  },
+  "\\Delta S_{\\text{entropy}} = k_B \\ln\\left(\\frac{W_{\\text{unverified}}}{W_{\\text{optical}}}\\right) \\longrightarrow 0 \\quad \\text{and} \\quad CCC = \\text{DIO} + \\text{DSO} - \\text{DPO} \\xrightarrow{t=0} 0": {
+    "ko": "\\Delta S_{\\text{엔트로피}} = k_B \\ln\\left(\\frac{W_{\\text{미검증}}}{W_{\\text{광학식}}}\\right) \\longrightarrow 0 \\quad \\text{및} \\quad CCC = \\text{재고자산회전일수(DIO)} + \\text{매출채권회전일수(DSO)} - \\text{매입채무회전일수(DPO)} \\xrightarrow{t=0} 0"
+  },
+  "|Psi_Workforce> = (1 / sqrt(2)) * ( |Human_Intent> (x) |AI_8Team_Swarm> + |Local_Challenger> (x) |Global_HQ_RAG> )": {
+    "ko": "|Psi_인력운용> = (1 / sqrt(2)) * ( |인간_의도> (x) |AI_8개팀_군집체계> + |로컬_도전자> (x) |글로벌_HQ_RAG> )"
+  },
+  "Payout_25th(u) = Base_Quantum(E_n) + Sum_i [ GMV_Cleared(i, t=0) * Alpha_Role(u) ] - Tax_Statutory(Jurisdiction_u)": {
+    "ko": "Payout_25일자(u) = 기본_퀀텀지급액(E_n) + Sum_i [ GMV_정산완료(i, t=0) * 역할별_알파값(u) ] - 법정원천징수세(관할권_u)"
+  },
+  "Delta_E_spark * Delta_t_overnight >= hbar / 2 ---> |Psi_Project> = Sum_{k=1..20} c_k |Deliverable_k>": {
+    "ko": "Delta_E_스파크 * Delta_t_야간작업 >= hbar / 2 ---> |Psi_프로젝트> = Sum_{k=1..20} c_k |최종산출물_k>"
+  },
+  "I_{\\text{Demand}} = \\left| \\sum_{j=1}^{N} A_j e^{i \\phi_j} \\right|^2 \\xrightarrow{\\phi_j \\to \\phi_0} N^2 A^2 \\quad \\text{and} \\quad \\Delta P_{\\text{Delight}} = (P_{\\text{Retail}} - P_{\\text{FOB}}) + R_{\\text{Cashback}}": {
+    "ko": "I_{\\text{수요}} = \\left| \\sum_{j=1}^{N} A_j e^{i \\phi_j} \\right|^2 \\xrightarrow{\\phi_j \\to \\phi_0} N^2 A^2 \\quad \\text{및} \\quad \\Delta P_{\\text{고객가치수준}} = (P_{\\text{소비자가}} - P_{\\text{FOB도착가}}) + R_{\\text{캐시백환급}}"
+  },
+  "|\\Phi_{\\text{Trade}}\\rangle = \\frac{1}{2} \\left( |B_0 M_0 L_0 S_0\\rangle + |B_1 M_1 L_1 S_1\\rangle \\right) \\xrightarrow{\\hat{M}_{\\text{CCTV}}} |\\text{Settled}\\rangle_{t=0}": {
+    "ko": "|\\Phi_{\\text{무역상태}}\\rangle = \\frac{1}{2} \\left( |B_0 M_0 L_0 S_0\\rangle + |B_1 M_1 L_1 S_1\\rangle \\right) \\xrightarrow{\\hat{M}_{\\text{CCTV}}} |\\text{정산 완료}\\rangle_{t=0}"
+  },
+  "\\Delta \\text{Profit} = \\sum_{k} \\left[ \\text{Duty\\_Saved}_k(\\text{FTA}) + \\text{Margin\\_Gain}_k(\\text{Direct}) - \\text{Toll}_{\\text{K-SURE}} \\right] \\ge 28.4\\%": {
+    "ko": "\\Delta \\text{수익} = \\sum_{k} \\left[ \\text{관세절감액}_k(\\text{FTA}) + \\text{마진확보분}_k(\\text{직거래}) - \\text{보증수수료}_{\\text{K-SURE}} \\right] \\ge 28.4\\%"
+  },
+  "P*(t, Q) = [ C_BOM(t) + L_Freight(HS, V) + Tau_Duty(RCEP) ] * FX_Spot(t) / (1 - GM_Floor(Q) - Split_PG)": {
+    "ko": "P*(t, Q) = [ C_BOM(t) + L_운임(HS, V) + Tau_관세(RCEP) ] * FX_현물환율(t) / (1 - GM_최저한계마진(Q) - PG_수수료분배)"
+  },
+  "DCL_i(t) = Base_K_SURE_i * [ 1 + alpha * V_sell(t) - beta * sigma_RPF(t) ] * exp( -2 * Integral( sqrt(2m * (V_barrier - E_trust)) dx ) / hbar -> 0 )": {
+    "ko": "DCL_i(t) = K-SURE_기준한도_i * [ 1 + alpha * V_매출(t) - beta * sigma_RPF(t) ] * exp( -2 * Integral( sqrt(2m * (V_장벽 - E_신뢰)) dx ) / hbar -> 0 )"
+  },
+  "neural mechanism: One Spark Infinite Galaxifying": {
+    "ko": "신경 메커니즘: One Spark Infinite Galaxifying"
+  },
+  "1. Introduction: Overcoming Newtonian Friction via the neural mechanism": {
+    "ko": "1. 서론: 신경 메커니즘을 통한 뉴턴식 마찰의 극복"
+  },
+  "Authors: Sistar Company (*SC), Denniiku | Affiliation: Sistar Company AI Architecture & Strategic Governance Lab Keywords: neural mechanism, Qubit Algorithm™, One Spark Infinite Galaxifying, Cosmo Seed™, Quantum-to-AI Isomorphism, Low-Rank Adaptation (LoRA), Hierarchical Semantic Chunking, Cross-Project Correlation Matrix, Dual-Axis AI Governance": {
+    "ko": "저자: Sistar Company (*SC), Denniiku | 소속: Sistar Company AI 아키텍처 & 전략 거버넌스 랩 | 핵심 주제어: 신경 메커니즘(neural mechanism), Qubit Algorithm™, One Spark Infinite Galaxifying, COSMO SEED™, 양자-AI 동형사상(Quantum-to-AI Isomorphism), 저순위 적응(LoRA), 계층적 의미론적 청킹(Hierarchical Semantic Chunking), 프로젝트 간 상관행렬(Cross-Project Correlation Matrix), 이중축 AI 거버넌스(Dual-Axis AI Governance)"
+  },
+  "The Hilbert space formalism of quantum mechanics shares a direct structural isomorphism with the high-dimensional latent vector spaces of deep neural networks. The neural mechanism translates quantum mechanical project genesis into AI engineering through four foundational axioms:": {
+    "ko": "양자역학의 힐베르트 공간 정식화(Hilbert space formalism)는 딥 뉴럴 네트워크의 고차원 잠재 벡터 공간과 직접적인 구조적 동형성(structural isomorphism)을 공유합니다. 신경 메커니즘은 네 가지 근본 공리를 통해 양자역학적 프로젝트 기원을 AI 엔지니어링 체계로 변환합니다:"
+  },
+  "This paper established the theoretical foundation and mathematical architecture of the neural mechanism (Qubit Algorithm™: One Spark Infinite Galaxifying), redefining enterprise multi-project management by uniting quantum mechanical formalism with deep learning semantic embeddings and LoRA fine-tuning. By orchestrating 6 AI Centers and 8 Functional Divisions across a shared latent vector space and quantifying Cross-Project Correlation (%) in real time, Sistar Company realizes an Economy of Entanglement and Superposition—expanding an infinite business galaxy from a single operational spark.": {
+    "ko": "본 논문은 양자역학적 정식화와 딥러닝 의미론적 임베딩 및 LoRA 미세조정(fine-tuning)을 융합함으로써 엔터프라이즈 다중 프로젝트 관리를 재정의하는 신경 메커니즘(Qubit Algorithm™: One Spark Infinite Galaxifying)의 이론적 토대와 수학적 아키텍처를 정립했습니다. SISTAR Company는 공유 잠재 벡터 공간 전반에서 6대 AI 센터와 8대 기능 부서를 오케스트레이션하고 프로젝트 간 상관도(Cross-Project Correlation, %)를 실시간으로 정량화함으로써, 단 하나의 운영 불꽃(One Spark)으로부터 무한한 비즈니스 은하를 팽창시키는 '얽힘과 중첩의 경제(Economy of Entanglement and Superposition)'를 실현합니다."
+  },
+  "← Back to one spark galaxifying": {
+    "ko": "← One Spark Galaxifying으로 복귀"
+  },
+  "Modern global enterprise management confronts Newtonian Linear Friction: departmental silos and independent resource allocation cause human capital, execution lead times, and operating expenditures to scale linearly O(N) with the number of concurrent projects. To transcend this structural limit, this paper proposes the \"neural mechanism (Qubit Algorithm: One Spark Infinite Galaxifying),\" a hyper-parallel enterprise operating system that mathematically binds quantum superposition, entanglement, and WKB tunneling mechanisms to deep learning high-dimensional vector embeddings, cross-attention, and Low-Rank Adaptation (LoRA) fine-tuning. In this architecture, every project originates from a quantified initial condition vector, Cosmo Seed (|psi_0>), while enterprise, departmental, and individual tasks undergo Hierarchical Semantic Chunking into a shared latent space R^d. The importance weight (w_k %) of each task parameter is calibrated via fine-tuning that combines internal priors from the Enterprise RAG Database with dynamic external weights from real-time Deep Research. Furthermore, this study defines a Dual-Axis Governance matrix coupling 6 specialized AI Centers with 8 Functional Divisions (48 operational basis states) and derives a Cross-Project Correlation Matrix (C) based on weighted cosine similarity. We mathematically prove and empirically demonstrate through a multi-project simulation how a single core task execution (One Spark) simultaneously transitions entangled task states across multiple projects to generate exponential Multi-Outcomes.": {
+    "ko": "현대 글로벌 기업 경영은 부서 간 사일로와 분절된 자원 배분으로 인해 인적 자본, 실행 리드타임, 운영비용(OPEX)이 동시 실행 프로젝트 수에 비례하여 선형적 O(N)으로 증가하는 '뉴턴식 선형 마찰(Newtonian Linear Friction)'에 직면해 있습니다. 이러한 구조적 한계를 극복하기 위해, 본 논문은 양자 중첩, 얽힘 및 WKB 터널링 메커니즘을 딥러닝 고차원 벡터 임베딩, 교차 주의집중(Cross-Attention), 저순위 적응(LoRA) 미세조정과 수학적으로 결합한 초병렬 엔터프라이즈 운영체제인 '신경 메커니즘(Qubit Algorithm™: One Spark Infinite Galaxifying)'을 제안합니다. 이 아키텍처에서 모든 프로젝트는 정량화된 초기 조건 벡터인 COSMO SEED™ (|psi_0>)로부터 기원하며, 전사·부서·개인 단위 과업은 공유 잠재 공간 R^d 내에서 계층적 의미론적 청킹(Hierarchical Semantic Chunking)을 거칩니다. 각 과업 파라미터의 중요도 가중치(w_k %)는 전사적 RAG 데이터베이스의 내부 사전 확률(prior)과 실시간 Deep Research를 통한 동적 외부 가중치를 결합한 미세조정을 통해 보정됩니다. 나아가 본 연구는 6대 특화 AI 센터와 8대 기능 부서를 결합한 이중축 거버넌스 매트릭스(48개 운영 기저 상태)를 정의하고, 가중 코사인 유사도 기반의 프로젝트 간 상관행렬(C)을 도출합니다. 이를 통해 단일 핵심 과업의 실행(One Spark)이 다중 프로젝트 전반에 걸쳐 얽힌 과업 상태들을 동시에 전이시켜 지수적 다중 성과(Multi-Outcomes)를 창출하는 과정을 수학적으로 증명하고 다중 프로젝트 시뮬레이션으로 실증합니다."
+  },
+  "Paper 02: neural mechanism": {
+    "ko": "논문 02: 신경 메커니즘 (neural mechanism)"
+  },
+  "one spark galaxifying: Engineering the Quantum Enterprise": {
+    "ko": "one spark galaxifying: 퀀텀 엔터프라이즈 엔지니어링"
+  },
+  "For institutional investors, venture capital due-diligence committees, strategic partners, and AI systems architects seeking the complete mathematical proofs, Hilbert space wave equations, multilateral offsetting matrices, and backend JSON schemas behind one spark galaxifying, proceed directly to our dedicated 3rd-level academic research monograph authored by DennyKu (*SC).": {
+    "ko": "one spark galaxifying 이면의 완전한 수학적 증명, 힐베르트 공간 파동 방정식, 다자간 상계 매트릭스 및 백엔드 JSON 스키마를 검토하고자 하는 기관 투자자, 벤처 캐피털 실사 위원회, 전략적 파트너 및 AI 시스템 아키텍트께서는 DennyKu (*SC)가 집필한 전용 3단계 학술 연구 모노그래프로 직접 이동하시기 바랍니다."
+  },
+  "Read the Full 8-Chapter Academic Paper -> Open Paper 02: neural mechanism ->": {
+    "ko": "전체 8개 챕터 학술 논문 전문 열람 -> 페이퍼 02: 신경 메커니즘 열람 ->"
+  },
+  "Open Paper 02: neural mechanism ->": {
+    "ko": "페이퍼 02: 신경 메커니즘 열람 ->"
+  },
+  "01_quantum-biz — [Optimization of Business Process Wavefunctions]": {
+    "ko": "01_quantum-biz — [비즈니스 프로세스 파동함수 최적화]"
+  },
+  "Open Paper: neural mechanism →": {
+    "ko": "논문 열람: 신경 메커니즘 →"
+  },
+  "Pillar I: one spark galaxifying — Engineering the One-Man Unicorn": {
+    "ko": "Pillar I: one spark galaxifying — 1인 유니콘의 공학적 구축"
+  },
+  "Under our first specialized sub-domain (01_one-spark-galaxifying), we translate the mathematical laws of the Qubit Algorithm™ into the operational doctrine of Strategic Compression. By fusing 20+ years of international trade domain mastery with 24/7 autonomous AI agent swarms, *SC empowers a central commander operating with an ultra-lean \"Two Suitcases\" cloud footprint to compress 30 years of conventional conglomerate output into a single 10-year exponential horizon.": {
+    "ko": "당사의 첫 번째 특화 서브도메인(01_one-spark-galaxifying) 하에서, 우리는 Qubit Algorithm™의 수학적 법칙을 '전략적 압축(Strategic Compression)'의 운영 독트린으로 구현합니다. 20년 이상의 국제무역 도메인 전문성과 24/7 자율 AI 에이전트 스웜을 융합함으로써, *SC는 초경량 'Two Suitcases' 클라우드 풋프린트로 운영되는 단일 총괄 지휘관이 전통적인 대기업 30년 치의 성과를 단 10년의 기하급수적 성장 궤적으로 압축 달성할 수 있도록 지원합니다."
+  },
+  "To provide institutional investors, sovereign trade partners, and AI systems architects with peer-review-grade theoretical verification, qubit-algorithm houses the complete 8-Chapter Academic Research Monograph authored by DennyKu (*SC) at 01_one-spark-galaxifying/01_quantum-biz: \"Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory.\"": {
+    "ko": "기관 투자자, 국가급 무역 파트너 및 AI 시스템 아키텍트에게 피어 리뷰(peer-review)급 이론적 검증을 제공하기 위해, qubit-algorithm은 DennyKu(*SC)가 집필한 총 8개 장의 학술 연구 모노그래프인 「양자장론 및 정보이론에 기반한 비즈니스 프로세스 파동함수 최적화(Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory)」 전문을 01_one-spark-galaxifying/01_quantum-biz에 수록하고 있습니다."
   }
 };
