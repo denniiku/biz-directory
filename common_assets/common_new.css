@@ -518,7 +518,47 @@ main.sc-root-landing,
   width: 100% !important;
   max-width: min(1400px, 96%) !important;
   margin: 0 !important;
-  padding: clamp(36px, 5vh, 64px) clamp(28px, 4.5vw, 72px) 120px !important;
+  padding: clamp(32px, 4.2vh, 52px) clamp(28px, 4.5vw, 72px) 120px !important;
+}
+
+/* 메뉴가 접혀 *sc ≡ 버튼이 떠 있을 때(PC 폴딩 & 모바일 전체) 항상 54px 아래에서 시작 */
+body.sc-nav-folded > main,
+body.sc-nav-folded main,
+body.sc-nav-folded .sc-monograph,
+body.sc-nav-folded .sc-prd-page,
+body.sc-nav-folded .sc-root-landing,
+body.sc-nav-folded .sc-doc,
+body.sc-nav-folded .doc-container,
+body.sc-nav-folded .content-wrap,
+body.sc-nav-folded .sc-main-stage {
+  padding-top: 54px !important;
+}
+
+@media (max-width: 768px) {
+  body > main,
+  main,
+  main.sc-monograph,
+  main.sc-prd-page,
+  main.sc-root-landing,
+  .sc-monograph,
+  .sc-prd-page,
+  .sc-root-landing,
+  .sc-doc,
+  .doc-container,
+  .content-wrap,
+  .sc-main-stage {
+    max-width: 100% !important;
+    padding: 54px 5vw 80px !important;
+  }
+}
+
+.sc-top-bar {
+  padding-bottom: 10px !important;
+  margin-bottom: 16px !important;
+}
+
+.sc-monograph > .sc-chapter:first-of-type {
+  padding-top: 6px !important;
 }
 
 main p,
@@ -529,7 +569,6 @@ main p,
   text-indent: 0 !important;
 }
 
-/* Prevent single-line hero titles from clipping off the right edge of the screen */
 .sc-hero-singleline,
 main h1 {
   white-space: normal !important;
@@ -537,7 +576,6 @@ main h1 {
   overflow-wrap: break-word !important;
 }
 
-/* Keep all blockquotes and paragraphs flush-left with headings */
 main blockquote,
 .sc-monograph blockquote,
 .sc-prd-page blockquote {
@@ -546,69 +584,6 @@ main blockquote,
   border-left: none !important;
 }
 
-/* Hide top-right PDF / Print buttons consistently */
 .sc-action-btns {
   display: none !important;
-}
-
-/* === COMPACT TOP ROUTE TO MAIN CONTENT SPACING === */
-.sc-route, .sc-eyebrow, .breadcrumb, .page-path {
-  margin-bottom: 4px !important;
-}
-.sc-top-bar {
-  padding-bottom: 8px !important;
-  margin-bottom: 14px !important;
-}
-@media (min-width: 769px) {
-  .sc-monograph, main.sc-monograph, main {
-    padding-top: clamp(22px, 3vh, 36px) !important;
-  }
-}
-@media (max-width: 768px) {
-  body > main, main, .sc-monograph, .sc-main-stage {
-    padding-top: 54px !important;
-  }
-}
-.sc-monograph > .sc-chapter:first-of-type {
-  padding-top: 6px !important;
-}
-@media (max-width: 768px) {
-  body.sc-nav-folded,
-  body.sc-nav-open {
-    padding-top: 36px !important;
-  }
-  body > main,
-  main,
-  main.sc-monograph,
-  main.sc-prd-page,
-  main.sc-root-landing,
-  .sc-monograph,
-  .sc-prd-page,
-  .sc-root-landing,
-  .sc-doc,
-  .doc-container,
-  .content-wrap,
-  .sc-main-stage {
-    padding: 28px 5vw 80px !important;
-  }
-}
-@media (max-width: 768px) {
-  body.sc-nav-folded,
-  body.sc-nav-open {
-    padding-top: 36px !important;
-  }
-  body > main,
-  main,
-  main.sc-monograph,
-  main.sc-prd-page,
-  main.sc-root-landing,
-  .sc-monograph,
-  .sc-prd-page,
-  .sc-root-landing,
-  .sc-doc,
-  .doc-container,
-  .content-wrap,
-  .sc-main-stage {
-    padding: 28px 5vw 80px !important;
-  }
 }
