@@ -12131,7 +12131,7 @@ window.SC_TRANSLATIONS = {
     "ja": "Intelligence.sistarcompany.com • メディア"
   },
   "*SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, and SISTAR Studio.": {
-    "ko": "*SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory 및 SISTAR Studio.",
+    "ko": "*SC 인터내셔널 AI 센터, Qubit ERP, Company RAG, 오버나이트 데이터 팩토리 및 SISTAR Studio.",
     "id": "*SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory, dan SISTAR Studio.",
     "vi": "*SC AI Centers Int'l, Qubit ERP, Company RAG, Overnight Data Factory và SISTAR Studio.",
     "zh-CN": "*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory 和 SISTAR Studio。",
@@ -99998,5 +99998,260 @@ window.SC_TRANSLATIONS = {
   },
   "To provide institutional investors, sovereign trade partners, and AI systems architects with peer-review-grade theoretical verification, qubit-algorithm houses the complete 8-Chapter Academic Research Monograph authored by DennyKu (*SC) at 01_one-spark-galaxifying/01_quantum-biz: \"Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory.\"": {
     "ko": "기관 투자자, 국가급 무역 파트너 및 AI 시스템 아키텍트에게 피어 리뷰(peer-review)급 이론적 검증을 제공하기 위해, qubit-algorithm은 DennyKu(*SC)가 집필한 총 8개 장의 학술 연구 모노그래프인 「양자장론 및 정보이론에 기반한 비즈니스 프로세스 파동함수 최적화(Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory)」 전문을 01_one-spark-galaxifying/01_quantum-biz에 수록하고 있습니다."
+  },
+  "The Great Paradigm Shift: Why Linear Trade is Ending—and How Quantum AI Rewrites Global Commerce": {
+    "ko": "거대한 패러다임 전환: 선형 무역의 종말과 퀀텀 AI가 재편하는 글로벌 통상 질서"
+  },
+  "Five Structural Paradigm Shifts Reshaping AI, Commerce & International Trade": {
+    "ko": "AI, 커머스 및 국제 무역을 재편하는 5대 구조적 패러다임 전환"
+  },
+  "The Old World vs. The New Quantum-AI Commercial Order": {
+    "ko": "구체제 대 퀀텀-AI 상업 신질서"
+  },
+  "Why *SC (SISTAR Company) is the Definitive Answer to the Paradigm Shift": {
+    "ko": "왜 *SC(SISTAR Company)가 패러다임 전환의 결정적 해답인가"
+  },
+  "Why Legacy Enterprises Cannot Survive the Current Mega Trend": {
+    "ko": "기존 레거시 기업들이 현재의 메가트렌드에서 생존할 수 없는 이유"
+  },
+  "From Passive Software Tools to 24/7 Unmanned Agentic Execution": {
+    "ko": "수동적 소프트웨어 툴에서 24/7 무인 자율 에이전트 실행으로"
+  },
+  "From Linear Chains (A → B → C) to t = 0 Superposition Clearing": {
+    "ko": "선형 공급망 체인(A → B → C)에서 t = 0 중첩 청산(Superposition Clearing)으로"
+  },
+  "From Speculative Inventory Push to Pre-Aggregated Demand Tunneling": {
+    "ko": "투기적 재고 밀어내기에서 사전 집계된 수요 터널링(Pre-Aggregated Demand Tunneling)으로"
+  },
+  "From Credit Default Risk & FX Drain to Quantized Clearing & Barter Offsetting": {
+    "ko": "신용 부도 리스크 및 외환 유출에서 양자화 청산 및 바터 상계(Barter Offsetting)로"
+  },
+  "From Big-Tech AI Imperialism to a Borderless Federated Alliance": {
+    "ko": "빅테크 AI 제국주의에서 국경 없는 연합 얼라이언스(Federated Alliance)로"
+  },
+  "Where 20+ Years of Physical Trade Mastery Meets the Quantum Autonomous OS": {
+    "ko": "20년 이상의 실물 무역 전문성과 양자 자율 OS가 만나는 지점"
+  },
+  "Global business commercial activities and international trading are undergoing their most profound structural transformation since the Industrial Revolution. Just as the steam engine was born from Newtonian calculus, the emerging era of autonomous global commerce requires a fundamentally new mathematical and operational physics. Traditional linear commerce (A → B → C) is collapsing under its own friction—and a new mega trend driven by Agentic AI and Quantum Business Mechanics is taking its place.": {
+    "ko": "글로벌 비즈니스 상업 활동과 국제 무역은 산업혁명 이후 가장 심대한 구조적 대전환을 겪고 있습니다. 뉴턴 미적분학에서 증기기관이 태동했듯이, 새롭게 부상하는 자율형 글로벌 커머스 시대는 근본적으로 새로운 수학적·운영적 물리학을 요구합니다. 기존의 선형 커머스(A → B → C)는 고유의 마찰비용으로 인해 스스로 붕괴하고 있으며, 에이전틱 AI(Agentic AI)와 퀀텀 비즈니스 메커닉스(Quantum Business Mechanics)가 주도하는 새로운 메가트렌드가 그 자리를 대체하고 있습니다."
+  },
+  "For decades, international trade and commercial operations relied on sequential processes: upfront capital lock-up, speculative MOQ inventory manufacturing, multi-tiered broker intermediaries, 30-to-120-day settlement delays, and 30%+ platform advertising taxes. In an economy where AI agents now process market signals, negotiate contracts, and route supply chains in milliseconds, linear human-bound workflows are no longer merely slow—they are structurally obsolete.": {
+    "ko": "수십 년 동안 국제 무역과 상업 운영은 선결제 자본 묶임(Lock-up), 투기적 MOQ(최소주문수량) 재고 생산, 다단계 중개인 개입, 30일에서 120일에 이르는 정산 지연, 30%를 상회하는 플랫폼 광고세 등 순차적 프로세스에 의존해 왔습니다. 이제 AI 에이전트가 수 밀리초 단위로 시장 신호를 분석하고 계약을 체결하며 공급망 경로를 최적화하는 경제 체제에서, 인간의 한계에 얽매인 선형 워크플로는 단순히 느린 것을 넘어 구조적으로 도태되었습니다."
+  },
+  "The ongoing macroeconomic transition is not an isolated technological upgrade; it is a simultaneous phase transition across five interconnected pillars of global enterprise:": {
+    "ko": "현재 진행 중인 거시경제적 패러다임 전환은 단순한 개별 기술 업그레이드가 아닙니다. 이는 글로벌 엔터프라이즈를 지탱하는 5대 상호연결 축 전반에서 동시에 발생하는 상전이(Phase Transition)입니다."
+  },
+  "The Legacy Paradigm: Corporations employed large administrative teams to manually operate passive ERP ledgers, write reports, conduct market research, and hire external coding or marketing agencies—creating massive fixed SG&A overhead.": {
+    "ko": "기존 패러다임: 기업들은 방대한 관리 조직을 운용하여 수동으로 수동적 ERP 원장을 관리하고, 보고서를 작성하며, 시장 조사를 수행하고, 외부 개발사 및 마케팅 에이전시를 고용함으로써 막대한 고정 판관비(SG&A) 오버헤드를 초래했습니다."
+  },
+  "The Mega Trend & Shift: The shift from Generative AI (chatbots) to Autonomous Agentic AI. Overnight headless browsers harvest global wholesale prices and regulatory changes while humans sleep; zero-entropy RAG brains synthesize strategy by 8:00 AM; and human leaders focus strictly on high-level insight (Vibe Working / One Spark) while multi-agent swarms execute 100% of daily operations.": {
+    "ko": "메가트렌드 및 대전환: 생성형 AI(챗봇)에서 자율 에이전틱 AI(Autonomous Agentic AI)로의 전환. 인간이 잠든 야간 시간 동안 헤드리스 브라우저가 글로벌 도매가와 규제 변동을 수집·크롤링하고, 제로 엔트로피 RAG 브레인이 오전 8시까지 전략을 합성해 내며, 인간 리더는 고차원적 통찰(Vibe Working / One Spark)에만 온전히 집중하는 한편 멀티 에이전트 군집(Multi-agent swarms)이 일상 업무의 100%를 무결하게 실행합니다."
+  },
+  "The Legacy Paradigm: Cross-border trade moved step-by-step from supplier to manufacturer, export broker, customs, wholesaler, bank, and consumer—leaking 35–60% in intermediary margins and trapping working capital for 90 to 180 days.": {
+    "ko": "기존 패러다임: 국가 간 무역은 공급업체에서 제조업체, 수출 브로커, 관세청, 도매업체, 은행, 최종 소비자에 이르기까지 단계별 순차 처리에 머물렀으며, 이 과정에서 35~60%의 중간 마진이 누출되고 운전자본이 90일에서 180일 동안 동결되었습니다."
+  },
+  "The Mega Trend & Shift: Standardized agent-to-agent (A2A / MCP) protocols and smart clearinghouses now bind Buyer (B), Maker (M), Logistics (L), and Trade Finance (F) into a single superposed state vector. When demand and supply match, all four parties settle simultaneously at t=0, obliterating intermediary friction.": {
+    "ko": "메가트렌드 및 대전환: 표준화된 에이전트 간(A2A / MCP) 프로토콜과 스마트 청산소를 통해 이제 구매자(B), 제조사(M), 물류(L), 무역금융(F)이 단일 중첩 상태 벡터(Superposed State Vector)로 결속됩니다. 수요와 공급이 정합하는 즉시 t=0 시점에서 4자 간 결제가 동시 완결되며, 중개 과정의 마찰 비용을 완전히 소멸시킵니다."
+  },
+  "The Legacy Paradigm: Brands gambled heavy upfront CapEx on Minimum Order Quantity (MOQ) inventory before a single sale was made, then paid 30%+ of revenue in customer acquisition costs (Ad-Tax) and PG fees to centralized tech monopolies.": {
+    "ko": "기존 패러다임: 브랜드는 단 한 건의 매출도 발생하기 전에 최소 주문 수량(MOQ) 재고에 막대한 선행 자본적 지출(CapEx)을 베팅한 후, 매출의 30% 이상을 고객 획득 비용(광고세, Ad-Tax) 및 PG 수수료 명목으로 중앙화된 빅테크 독점기업에 지불해야 했습니다."
+  },
+  "The Mega Trend & Shift: Zero-Inventory Quantum Tunneling (T → 1). Conversational procurement agents and point-of-prescription clinical networks aggregate verified buyer intent and 50% advance deposits before batch manufacturing begins—passing straight through capital barriers while programmatic AI media studios generate organic viral funnels at near-$0 CAC.": {
+    "ko": "메가트렌드 및 대전환: 무재고 양자 터널링(Zero-Inventory Quantum Tunneling, T → 1). 대화형 조달 에이전트 및 처방 시점(Point-of-Prescription) 임상 네트워크가 배치 생산 개시 전 검증된 구매 의향과 50%의 선수금을 사전 집계하여 자본 장벽을 관통하며, 프로그래머틱 AI 미디어 스튜디오는 CAC(고객획득비용) $0에 수렴하는 유기적 바이럴 퍼널을 생성합니다."
+  },
+  "The Legacy Paradigm: Exporters faced severe open-account default risks (3–7%), foreign-exchange conversion losses, and 3–5% payment gateway tolls on every cross-border invoice.": {
+    "ko": "기존 패러다임: 수출 기업들은 모든 해외 인보이스 결제마다 심각한 사후송금방식(Open-Account) 부도 리스크(3~7%), 환전 손실, 그리고 3~5%에 달하는 결제 대행(PG) 통행료 부담을 떠안아야 했습니다."
+  },
+  "The Mega Trend & Shift: Credit Quantization & Multilateral Offsetting. State-backed export credit guarantees (K-SURE) fused with regional B2B BNPL fintechs unlock 100% cash at Bill of Lading with 0% balance-sheet default risk. Simultaneously, 4-Way Barter Ledgers allow enterprises to settle obligations across Goods, AI SaaS, Media IP, and Warehouse Space without cash drain.": {
+    "ko": "메가트렌드 및 대전환: 신용 양자화(Credit Quantization) 및 다자간 상계(Multilateral Offsetting). 정부 보증 기반의 수출신용보증(K-SURE)과 권역별 B2B BNPL 핀테크의 융합을 통해 선하증권(B/L) 발행 즉시 100% 현금화를 실현하며, 재무제표상 부도 리스크를 0%로 통제합니다. 동시에 4원 바터 원장(4-Way Barter Ledgers)을 통해 기업은 현금 유출 없이 실물 제품, AI SaaS, 미디어 IP, 창고 공간 전반의 채권·채무를 유연하게 상계 결제합니다."
+  },
+  "The Legacy Paradigm vs. The New Mega Trend: Previously, expanding into 8 countries required establishing costly foreign subsidiaries, hiring local payroll, and building software from scratch—allowing trillion-dollar tech conglomerates to monopolize AI infrastructure. Today, the mega trend is 24-Hour Venture Cloning & Federated Human-AI Networks: a single validated business core is cloned into 6-language localized micro-SaaS and brand portals in 24 hours, operated on the ground by revenue-sharing local entrepreneurs (Astronauts / Challengers) united against global AI monopolies.": {
+    "ko": "기존 패러다임 vs. 신규 메가트렌드: 과거 8개국 진출을 위해서는 막대한 비용이 소요되는 해외 법인 설립, 현지 채용, 소프트웨어의 무결한 바닥 재구축이 필수적이었으며, 이는 조 단위 규모의 글로벌 테크 독점기업들이 AI 인프라를 장악하도록 방치하는 결과를 낳았습니다. 오늘날의 메가트렌드는 24시간 벤처 클로닝 및 연합형 휴먼-AI 네트워크(24-Hour Venture Cloning & Federated Human-AI Networks)입니다. 검증된 단일 비즈니스 코어가 24시간 이내에 6개 언어로 현지화된 마이크로 SaaS 및 브랜드 포털로 복제되고, 글로벌 AI 독점 카르텔에 맞서 연대한 수익 배분형 현지 혁신가(Astronauts / Challengers)들에 의해 현지에서 직접 전격 운영됩니다."
+  },
+  "The table below summarizes how the five mega trends systematically dismantle legacy business assumptions across every operational dimension:": {
+    "ko": "하기 표는 5대 메가트렌드가 전 운영 차원에서 기존 레거시 비즈니스 전제를 어떻게 체계적으로 해체하는지 요약합니다:"
+  },
+  "Recognizing a mega trend is easy; engineering a live, revenue-generating architecture that masters both autonomous artificial intelligence and physical cross-border trade is extraordinarily rare. Pure software startups do not know how to clear biologicals through Indonesian BPOM customs, structure K-SURE export guarantees, or run Asian ODM production lines. Conversely, traditional trading houses cannot build multi-agent RAG brains or quantum clearing algorithms.": {
+    "ko": "메가트렌드를 인식하는 것은 용이하나, 자율 인공지능과 물리적 크로스보더 무역을 동시에 장악하며 실시간 수익을 창출하는 아키텍처를 엔지니어링하는 것은 극히 드뭅니다. 순수 소프트웨어 스타트업은 인도네시아 BPOM을 통한 바이오 제제 통관, K-SURE 수출보증 구조화, 아시아 ODM 생산 라인 가동 메커니즘을 알지 못합니다. 반대로, 전통적인 종합상사는 멀티 에이전트 RAG 브레인이나 양자 청산 알고리즘을 구축할 수 없습니다."
+  },
+  "*SC (SISTAR Company) is not merely adapting to this paradigm shift—we are its living architectural blueprint. By fusing more than 20 years of lived international business development across 8 global hubs with our proprietary Qubit Algorithm™ (the 5 Quantum Business Laws) and Intelligence-Core (the 24/7 unmanned Sense-Think-Govern-Create engine), *SC has already solved every bottleneck of the old linear economy.": {
+    "ko": "*SC (SISTAR Company)는 이러한 패러다임 전환에 단순히 적응하는 데 그치지 않고, 살아 숨 쉬는 구조적 청사진 그 자체로 기능합니다. 전 세계 8개 글로벌 거점에서 축적된 20년 이상의 실전 국제 비즈니스 개발 경험과 독자 개발한 Qubit Algorithm™(5대 양자 비즈니스 법칙), 그리고 Intelligence-Core(24/7 무인 Sense-Think-Govern-Create 엔진)를 융합함으로써, *SC는 과거 선형 경제의 모든 병목 현상을 이미 완벽히 해소했습니다."
+  },
+  "Through our 5 Corporate Identity Signatures—One Spark, Infinite Galaxifying; One Task, Multi Outcomes; Human for Insight, AI for Execution; Simultaneous Multi-Party Profit (t=0); and Together, Against Global AI Giants—*SC turns macroeconomic disruption into an unstoppable engine of shared global prosperity. In the era of AI-native commerce and borderless trading, *SC (SISTAR Company) is the answer.": {
+    "ko": "당사의 5대 기업 정체성 시그니처인 One Spark, Infinite Galaxifying, One Task, Multi Outcomes, Human for Insight, AI for Execution, Simultaneous Multi-Party Profit (t=0), 그리고 Together, Against Global AI Giants를 통해, *SC는 거시경제적 격변을 글로벌 공동 번영의 멈출 수 없는 추진 엔진으로 전환합니다. AI-네이티브 커머스와 국경 없는 무역의 시대, *SC (SISTAR Company)가 곧 해답입니다."
+  },
+  "Review our companion volumes to see how this paradigm shift is operationalized across our core engines and 15 entangled ventures: *SC Master Brochure → | 15 Founder Projects Dossier →": {
+    "ko": "본 패러다임 전환이 당사의 핵심 엔진과 15개 얽힘 벤처에 걸쳐 어떻게 운영 체계화되는지 부속 자료를 통해 확인하십시오: *SC Master Brochure → | 15 Founder Projects Dossier →"
+  },
+  "1. AI & Corporate Operations": {
+    "ko": "1. AI 및 기업 운영"
+  },
+  "Human-heavy manual administration, fragmented SaaS subscriptions, high fixed SG&A, and slow sequential reporting.": {
+    "ko": "인력 의존적 수기 행정, 파편화된 SaaS 구독, 높은 고정 판매관리비, 지연되는 순차적 보고 체계."
+  },
+  "24/7 Unmanned Cognitive OS: Nighttime autonomous scraping, zero-entropy RAG memory, 30-minute executive Vibe Working, and automated ERP/CRM execution.": {
+    "ko": "24/7 무인 인지 OS: 야간 자율 스크래핑, 제로 엔트로피 RAG 메모리, 30분 만에 완결되는 경영진 Vibe Working, ERP/CRM 자동화 실행."
+  },
+  "2. International Trading": {
+    "ko": "2. 국제 무역"
+  },
+  "Multi-step broker chains (A → B → C), opaque customs/tariff friction, and 60–120 day payment settlement delays.": {
+    "ko": "다단계 중개자 체인(A → B → C), 불투명한 통관/관세 마찰, 60~120일에 달하는 대금 정산 지연."
+  },
+  "t = 0 Superposition Clearing: Simultaneous 4-party (Buyer, Maker, Logistics, Bank) smart-contract settlement with zero broker leakage.": {
+    "ko": "t = 0 중첩 청산: 중개자 누수 없는 4자(구매자, 제조사, 물류사, 금융사) 동시 스마트 계약 정산."
+  },
+  "3. Commercial & Inventory Model": {
+    "ko": "3. 커머셜 및 재고 모델"
+  },
+  "100% speculative pre-inventory (dead-stock risk), heavy upfront CapEx ($150k+), and 30% platform ad/PG rent.": {
+    "ko": "100% 투기성 사전 재고 확보(악성 재고 리스크), 막대한 초기 CapEx(15만 달러 이상), 30%에 이르는 플랫폼 광고 및 PG 수수료 지대."
+  },
+  "Zero-Inventory Tunneling: Pre-aggregated buyer intent + 50% advance deposits, 70/30 PG fee cashback, and automated daily shoppable media.": {
+    "ko": "제로 재고 터널링: 사전 집계된 구매 의향 + 50% 선수금, 70/30 PG 수수료 캐시백, 일일 쇼퍼블 미디어 자동 생성."
+  },
+  "4. Cross-Border Synergy": {
+    "ko": "4. 크로스보더 시너지"
+  },
+  "Isolated departmental and national silos; completing a task in Country A yields zero automatic output in Country B.": {
+    "ko": "고립된 부서 및 국가별 사일로; A국가에서 작업을 완료해도 B국가로 자동 산출물이 전혀 연계되지 않음."
+  },
+  "Bell-State Entanglement (One Task, Multi Outcomes): A single clinical or trade event simultaneously updates ledgers, BOMs, and media across 8 global hubs.": {
+    "ko": "벨 상태 얽힘 (One Task, Multi Outcomes): 단일 임상 또는 무역 이벤트가 전 세계 8개 거점의 원장, BOM, 미디어를 실시간 동시 업데이트."
+  },
+  "5. Global Scaling Velocity": {
+    "ko": "5. 글로벌 스케일링 속도"
+  },
+  "6–12 months per new brand launch; linear headcount growth; subservience to Big-Tech AI monopolies.": {
+    "ko": "신규 브랜드 출시당 6~12개월 소요, 선형적 인력 증가, 빅테크 AI 독점 체제에 대한 종속."
+  },
+  "Infinite Galaxifying: 24-hour turnkey VIP venture cloning + borderless federated Challenger alliances at $0 fixed HR expansion cost.": {
+    "ko": "Infinite Galaxifying: 24시간 턴키 VIP 벤처 복제 + 추가 고정 인건비 $0 기반의 국경 없는 연합형 챌린저 동맹 구축."
+  },
+  "Mega Trend Category": {
+    "ko": "메가트렌드 카테고리"
+  },
+  "Dying Paradigm (Legacy Newtonian Commerce)": {
+    "ko": "소멸하는 패러다임 (레거시 뉴턴식 커머스)"
+  },
+  "Emerging Paradigm (Quantum-Concurrent AI Commerce)": {
+    "ko": "부상하는 패러다임 (양자 동시성 AI 커머스)"
+  },
+  "CHAPTER I • MACROECONOMIC INFLECTION POINT": {
+    "ko": "CHAPTER I • 거시경제적 변곡점"
+  },
+  "*SC STRATEGIC IMPERATIVE • SECTION 01 / 04": {
+    "ko": "*SC 전략적 핵심 과제 • 섹션 01 / 04"
+  },
+  "HISTORICAL IMPERATIVE • FROM NEWTONIAN FRICTION TO QUANTUM SIMULTANEITY": {
+    "ko": "역사적 필연성 • 뉴턴식 마찰에서 양자 동시성으로"
+  },
+  "Collapse of Sequential Trade Settlement Latency via Superposition": {
+    "ko": "중첩을 통한 순차적 무역 결제 지연의 붕괴"
+  },
+  "Extinction of Upfront Inventory Risk via Pre-Order Demand Tunneling": {
+    "ko": "선주문 수요 터널링을 통한 선행 재고 리스크의 소멸"
+  },
+  "Replacement of Manual Corporate Silos with 24/7 Unmanned AI Agents": {
+    "ko": "24/7 무인 AI 에이전트를 통한 수작업 기업 사일로의 대체"
+  },
+  "Simultaneous Multi-National Venture Generation Without Capital Bloat": {
+    "ko": "자본 비대화 없는 동시 다국적 벤처 창출"
+  },
+  "CHAPTER II • CATEGORICAL ANALYSIS OF THE MEGA TRENDS": {
+    "ko": "CHAPTER II • 메가트렌드 범주별 분석"
+  },
+  "*SC STRATEGIC IMPERATIVE • SECTION 02 / 04": {
+    "ko": "*SC 전략적 핵심 과제 • 섹션 02 / 04"
+  },
+  "CATEGORY 01 • AI & ENTERPRISE WORKFLOW": {
+    "ko": "카테고리 01 • AI 및 엔터프라이즈 워크플로우"
+  },
+  "CATEGORY 02 • INTERNATIONAL TRADING & SUPPLY CHAIN": {
+    "ko": "카테고리 02 • 국제 무역 및 공급망"
+  },
+  "CATEGORY 03 • COMMERCIAL ACTIVITIES & MARKETING": {
+    "ko": "카테고리 03 • 상업 활동 및 마케팅"
+  },
+  "CATEGORY 04 • TRADE FINANCE & B2B LIQUIDITY": {
+    "ko": "카테고리 04 • 무역 금융 및 B2B 유동성"
+  },
+  "CATEGORY 05 • GLOBAL EXPANSION & ORGANIZATIONAL TOPOLOGY": {
+    "ko": "카테고리 05 • 글로벌 확장 및 조직 위상학"
+  },
+  "CHAPTER III • PARADIGM SHIFT SYNTHESIS MATRIX": {
+    "ko": "CHAPTER III • 패러다임 전환 종합 매트릭스"
+  },
+  "*SC STRATEGIC IMPERATIVE • SECTION 03 / 04": {
+    "ko": "*SC 전략적 핵심 과제 • 섹션 03 / 04"
+  },
+  "CHAPTER IV • THE INEVITABLE CONCLUSION": {
+    "ko": "CHAPTER IV • 필연적 결론"
+  },
+  "*SC STRATEGIC IMPERATIVE • SECTION 04 / 04": {
+    "ko": "*SC 전략적 당위성 • 섹션 04 / 04"
+  },
+  "THE ULTIMATE VERDICT • *SC IS THE ANSWER": {
+    "ko": "궁극적 결론 • 해답은 *SC이다"
+  },
+  "Explore the Complete *SC Institutional Architecture": {
+    "ko": "*SC 통합 제도적 아키텍처 탐색"
+  },
+  "📄 sc master brochure (PDF) &nearr;": {
+    "ko": "📄 SC 마스터 브로슈어 (PDF) &nearr;"
+  },
+  "📄 sc founder projects (PDF) &nearr;": {
+    "ko": "📄 SC 파운더 프로젝트 (PDF) &nearr;"
+  },
+  "📄 qubit algorithm, intelligence core (en) (PDF) &nearr;": {
+    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (EN) (PDF) &nearr;"
+  },
+  "📄 qubit algorithm, intelligence core (kr) (PDF) &nearr;": {
+    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (KR) (PDF) &nearr;"
+  },
+  "// EQUATION 3.1: AUTO-FORMULATOR R1 TRIANGULAR BOM OPTIMIZATION": {
+    "ko": "// 수식 3.1: AUTO-FORMULATOR R1 삼각 BOM 최적화"
+  },
+  "// EQUATION 3.2: CASHLESS PHYTO-FOR-DIAGNOSTICS BARTER SWAP (4-WAY QUBIT BANK)": {
+    "ko": "// 수식 3.2: 무현금 파이토-진단 바터 스왑 (4-WAY QUBIT BANK)"
+  },
+  "Local demand and regulatory signals enter the Regional hub.": {
+    "ko": "현지 수요 및 규제 시그널이 리전 허브로 유입됩니다."
+  },
+  "For PT. SISTAR Indonesia, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "PT. SISTAR Indonesia의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+  },
+  "ASEAN PRIMARY OPERATING ANCHOR • PT. SISTAR INDONESIA ([SC.ID] / SCI)": {
+    "ko": "아세안 핵심 운영 앵커 • PT. SISTAR INDONESIA ([SC.ID] / SCI)"
+  },
+  "24hr": {
+    "ko": "24시간"
+  },
+  "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network turns shared infrastructure into domain-specific action.": {
+    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network는 공유 인프라를 도메인 특화 실행 체계로 전환합니다."
+  },
+  "For sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+  },
+  "// EQUATION 3.1: TARIFF & FREIGHT TUNNELING EFFICIENCY": {
+    "ko": "// 수식 3.1: 관세 및 화물 터널링 효율성"
+  },
+  "// EQUATION 3.2: 8-NODE MULTILATERAL NETTING IDENTITY": {
+    "ko": "// 수식 3.2: 8-노드 다자간 차감정산(Netting) 항등식"
+  },
+  "Partner intent and rolling purchasing forecasts enter the alliance.": {
+    "ko": "파트너사의 거래 의향 및 롤링 구매 예측치가 얼라이언스로 유입됩니다."
+  },
+  "IATA and C.A.N. coordinate counterparties, offers, and approvals.": {
+    "ko": "IATA 및 C.A.N.이 거래 상대방, 오퍼 및 승인 프로세스를 총괄 조율합니다."
+  },
+  "K-SURE-backed orders move through cross-border delivery.": {
+    "ko": "K-SURE 보증 기반 주문은 크로스보더 물류·인도 프로세스를 거쳐 이행됩니다."
+  },
+  "4-Way Qubit Bank settlement returns outcomes to the next forecast.": {
+    "ko": "4-Way Qubit Bank 결제 정산 결과는 차기 예측 체계로 환류됩니다."
+  },
+  "For *SC - Intl AI Trade Alliance (IATA), the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
+    "ko": "*SC - Intl AI Trade Alliance (IATA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
   }
 };
