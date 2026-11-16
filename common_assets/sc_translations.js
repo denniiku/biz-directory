@@ -100424,5 +100424,194 @@ window.SC_TRANSLATIONS = {
   },
   "• From customs clearance (BPOM/FDA) and trade finance (K-SURE BNPL) to manufacturing (ODM), logistics, and marketing—*SC has every answer completely prepared. All you need to make is the decision to join us.": {
     "ko": "• 통관 인허가(BPOM/FDA) 및 무역 금융(K-SURE BNPL)부터 위탁 제조(ODM), 글로벌 물류 및 전략적 마케팅에 이르기까지—*SC는 모든 단계의 해법을 완벽히 구축해 두었습니다. 귀사께서 취하실 조치는 오직 당사와의 동행을 결단하는 것뿐입니다."
+  },
+  "Autonomous t = 0 Cross-Border Trade & Clearing": {
+    "ko": "자율형 t = 0 크로스보더 무역 및 결제·정산"
+  },
+  "1. t = 0 Four-Party Simultaneous Settlement (Qubit Link™ Superposition)": {
+    "ko": "1. t = 0 4자 동시 정산 (Qubit Link™ 양자 중첩)"
+  },
+  "2. Sovereign-Backed Trade Finance (K-SURE & ASEAN BNPL)": {
+    "ko": "2. 국가 보증 기반 무역 금융 (K-SURE & ASEAN BNPL)"
+  },
+  "3. 24/7 Unmanned AI Arbitrage & Customs (Predictive Sourcing)": {
+    "ko": "3. 24/7 무인 AI 차익거래 및 통관 (예측형 소싱)"
+  },
+  "Dismantling the linear friction (A -> B -> C) of traditional trade through quantum superposition. *SC's 20 years of customs licensing data (Company RAG) and smart contracts bind buyers, manufacturers, logistics, and finance into a single simultaneous point (t = 0)—eradicating middleman brokers and 90-day payment delays.": {
+    "ko": "양자 중첩 원리를 통해 전통적 무역의 선형적 마찰(A -> B -> C)을 해체합니다. *SC의 20년간 축적된 통관 인허가 데이터(Company RAG)와 스마트 계약은 바이어, 제조사, 물류, 금융을 단일 동시점(t = 0)으로 결속하여, 중간 브로커 개입과 90일 정산 지연을 원천 제거합니다."
+  },
+  "Compresses the 60-to-120-day trade payment collection cycle down to '0'. At the exact moment of shipment (B/L issuance), the ledgers of the buyer, manufacturer, logistics provider, and financial institution are settled simultaneously inside Qubit ERP.": {
+    "ko": "60~120일에 달하는 무역 대금 회수 주기를 '0'으로 압축합니다. 선적(B/L 발행) 즉시 Qubit ERP 내에서 바이어, 제조사, 물류사, 금융기관의 원장이 동시 정산됩니다."
+  },
+  "By fusing export credit guarantees from the Korea Trade Insurance Corporation (K-SURE) with local ASEAN BNPL fintech networks, manufacturers receive 100% immediate cash upon shipment while overseas buyers enjoy 30-to-60-day deferred credit terms with 0% default risk exposure.": {
+    "ko": "한국무역보험공사(K-SURE)의 수출신용보증과 아세안 현지 BNPL 핀테크 네트워크를 결합하여, 제조사는 선적 즉시 대금 100%를 현금 회수하고, 해외 바이어는 디폴트 리스크 노출 제로(0%) 조건 하에서 30~60일의 외상 신용 결제 혜택을 향유합니다."
+  },
+  "Overnight unmanned crawlers (SENSE) capture global wholesale price and tariff spreads (Delta P_ij > C_friction), while our 24/7 AI closer (Ms. Scarlet) instantaneously issues commercial invoices via WhatsApp and Telegram backed by 20 years of accumulated regulatory clearance data (BPOM/FDA).": {
+    "ko": "심야 무인 크롤러(SENSE)가 글로벌 도매가 및 관세 스프레드(Delta P_ij > C_friction)를 포착하며, 24/7 AI 클로저(Ms. Scarlet)는 20년간 축적된 규제 통관 데이터(BPOM/FDA)를 기반으로 왓츠앱 및 텔레그램을 통해 상업송장을 즉각 발행합니다."
+  },
+  "SCARLET-AI // CORE ENGINE 01": {
+    "ko": "SCARLET-AI // 핵심 엔진 01"
+  },
+  "CORE VALUE PILLAR 01": {
+    "ko": "핵심 가치 필러 01"
+  },
+  "CORE VALUE PILLAR 02": {
+    "ko": "핵심 가치 필러 02"
+  },
+  "CORE VALUE PILLAR 03": {
+    "ko": "핵심 가치 축 03"
+  },
+  "Settlement Latency": {
+    "ko": "정산 레이턴시(Settlement Latency)"
+  },
+  "t = 0 (Simultaneous)": {
+    "ko": "t = 0 (동시성)"
+  },
+  "Default Rate": {
+    "ko": "채무 불이행률(Default Rate)"
+  },
+  "0% (Bohr Credit Law Quantization)": {
+    "ko": "0% (보어 신용 법칙 양자화)"
+  },
+  "65% ~ 70%+ (Fintech & Trade Spread)": {
+    "ko": "65% ~ 70%+ (핀테크 및 무역 스프레드)"
+  },
+  "Zero-Ad-Tax Conversational & Shoppable AI Marketplaces": {
+    "ko": "광고세 제로(Zero-Ad-Tax) 대화형 및 쇼퍼블 AI 마켓플레이스"
+  },
+  "1. Conversational AI Frontend (Ms. Scarlet Closer)": {
+    "ko": "1. 대화형 AI 프론트엔드 (Ms. Scarlet Closer)"
+  },
+  "2. Near- CAC Organic Media Engine (SISTAR Studio Integration)": {
+    "ko": "2. CAC 제로 수렴 오가닉 미디어 엔진 (SISTAR Studio 통합)"
+  },
+  "3. Cashless 4-Way Offsetting & Hardware Scaling (4-Way Qubit Offsetting)": {
+    "ko": "3. 무현금 4원 상계 정산 및 하드웨어 스케일링 (4-Way Qubit 상계)"
+  },
+  "An autonomous D2C and B2B commerce ecosystem that rejects the 30% advertising toll of giant tech monopolies. The era of typing keywords into search bars and bidding on ad spend is over—our 24/7 AI deal closer and 10+ daily auto-generated short-form media assets convert customer intent into immediate purchase.": {
+    "ko": "거대 테크 독점 기업의 30% 광고 통행세를 배제하는 자율형 D2C 및 B2B 커머스 생태계. 검색창에 키워드를 입력하고 광고 입찰 경쟁을 벌이던 시대는 종식되었습니다. 24/7 상시 가동되는 AI 딜 클로저(Deal Closer)와 매일 자동 생성되는 10개 이상의 숏폼 미디어 애셋이 고객의 잠재 의도를 즉각적인 구매로 전환합니다."
+  },
+  "Far beyond a static product catalog, Ms. Scarlet operates as a 24/7 multilingual conversational commerce gateway that diagnoses customer needs in real time and proposes tailored pricing and bundled solutions.": {
+    "ko": "정적인 제품 카탈로그의 한계를 넘어, Ms. Scarlet은 실시간으로 고객 니즈를 진단하고 맞춤형 가격 및 번들 솔루션을 제시하는 24/7 다국어 대화형 커머스 게이트웨이로 작동합니다."
+  },
+  "Without external ad agencies or paid advertising spend, our embedded AI media pipeline automatically generates multilingual short-form videos and shoppable content every day—slashing Customer Acquisition Cost (CAC) payback periods to under 0.5 months.": {
+    "ko": "외부 광고 대행사나 유료 광고비 지출 없이 내장된 AI 미디어 파이프라인이 매일 다국어 숏폼 영상과 쇼퍼블 콘텐츠를 자동 생성하여, 고객 획득 비용(CAC) 회수 기간을 0.5개월 미만으로 극대화하여 단축합니다."
+  },
+  "Spanning everyday consumer goods to high-tech hardware and Physical AI robotics, we implement the next-generation commercial standard that cross-settles Goods, AI SaaS, Media IP, and Warehouse Space with zero foreign-exchange (FX) cash drain.": {
+    "ko": "일상 소비재부터 첨단 하드웨어 및 피지컬 AI(Physical AI) 로보틱스에 이르기까지, 외환(FX) 현금 유출 없이 실물 상품, AI SaaS, 미디어 IP, 물류 창고 공간을 교차 상계 정산하는 차세대 글로벌 통상 표준을 구축합니다."
+  },
+  "Paid Ad-Tax": {
+    "ko": "유료 광고세(Paid Ad-Tax)"
+  },
+  "0% (Bypassing Tech Monopolies)": {
+    "ko": "0% (테크 독점 구조 우회)"
+  },
+  "CAC Payback Period": {
+    "ko": "CAC 회수 기간"
+  },
+  "< 0.5 Months (Organic AI Viral Funnel)": {
+    "ko": "< 0.5개월 (오가닉 AI 바이럴 퍼널)"
+  },
+  "Localization": {
+    "ko": "현지화"
+  },
+  "6 Languages Instant Deployment (EN/KR/ID/VN/CN/JP)": {
+    "ko": "6개 국어 즉각 배포 (EN/KR/ID/VN/CN/JP)"
+  },
+  "Quantum Tunneling Demand Aggregation & 70/30 Fee Sharing": {
+    "ko": "양자 터널링 수요 결집 및 70/30 수수료 셰어링"
+  },
+  "1. Zero-Inventory Quantum Tunneling (50% Pre-Payment Tunneling)": {
+    "ko": "1. 무재고 양자 터널링 (50% 선결제 터널링)"
+  },
+  "2. Destructive Interference of PG Fees (70/30 Fee Sharing)": {
+    "ko": "2. PG 수수료의 상쇄 간섭 (70/30 수수료 셰어링)"
+  },
+  "3. Global Challenger Resell Network (Zero-Fixed-HR Distribution)": {
+    "ko": "3. 글로벌 챌린저 리셀 네트워크 (고정 인건비 제로 유통 체계)"
+  },
+  "A reverse-auction engine that tunnels straight through inventory walls via 50% advance-deposit demand aggregation and returns 70% of payment gateway fees to participants. Stop the gamble of manufacturing products first and praying they sell—we aggregate verified buyer intent waves (E_intent) first to pass directly through upfront capital and dead-stock barriers (V_cap).": {
+    "ko": "50% 선수금 기반 수요 결집을 통해 재고 장벽을 즉각 관통(터널링)하고, 결제대행사(PG) 수수료의 70%를 참여자에게 환원하는 역경매 엔진입니다. 선제조 후 판매를 기도하는 투기적 방식을 종식하고, 검증된 구매자 의도 파동(E_intent)을 선제적으로 결집하여 초기 자본 및 악성 재고 장벽(V_cap)을 직접 돌파합니다."
+  },
+  "Aggregates pre-orders from buyers and local resellers to break through Minimum Order Quantity (MOQ) thresholds prior to manufacturing. Because production and shipping begin with a 50% advance deposit, dead-stock risk converges to 0% for both platform and supplier.": {
+    "ko": "제조 착수 전 바이어 및 현지 리셀러의 사전 주문을 결집하여 최소 주문 수량(MOQ) 임계치를 돌파합니다. 50%의 선수금 예치를 기점으로 생산과 물류가 개시되므로 플랫폼과 공급사 모두 악성 재고 리스크가 0%로 수렴합니다."
+  },
+  "Eliminates the 3–8% fee leakage traditionally extracted by payment gateways (PG) and middlemen—instantly rebating 70% of the saved fees back to buyers and resellers as cashback while securing 30% as pure platform net margin.": {
+    "ko": "결제대행사(PG) 및 중간 유통망에 의해 관행적으로 누수되던 3~8%의 수수료를 근본적으로 차단하며, 절감된 수수료의 70%를 바이어와 리셀러에게 캐시백으로 즉시 환원함과 동시에 30%를 플랫폼 순마진으로 확정 확보합니다."
+  },
+  "A self-expanding distribution network where local executors (Astronauts) and resellers across 8 countries armed with *SC AI tools uncover local demand in real time and share net profits with zero fixed payroll overhead.": {
+    "ko": "*SC AI 툴로 무장한 8개국의 현지 실행자(Astronauts) 및 리셀러들이 실시간으로 역내 수요를 발굴하고, 고정 인건비 지출 없이 순이익을 분배받는 자가 확장형 글로벌 유통 네트워크입니다."
+  },
+  "Dead-Stock & Inventory Risk": {
+    "ko": "악성 재고 및 재고 리스크"
+  },
+  "0% (100% Pre-Sold / Advance-Funded)": {
+    "ko": "0% (100% 선판매 / 선수금 조달)"
+  },
+  "Fee Cashback to Buyers": {
+    "ko": "구매자 수수료 캐시백 환원"
+  },
+  "70% Instant Return": {
+    "ko": "70% 즉각 환원"
+  },
+  "Upfront Capital Barrier": {
+    "ko": "초기 자본 장벽"
+  },
+  "$0 (V_capital = 0 via WKB Tunneling)": {
+    "ko": "$0 (WKB 터널링 기반 V_capital = 0)"
+  },
+  "Physical Sovereignty: On-Demand Fulfillment & O2O Nodes": {
+    "ko": "물리적 주권(Physical Sovereignty): 온디맨드 풀필먼트 및 O2O 노드"
+  },
+  "1. Micro-Packaging & On-Demand ODM (Algorithmic BOM & Packaging)": {
+    "ko": "1. 마이크로 패키징 및 온디맨드 ODM (알고리즘 기반 BOM 및 패키징)"
+  },
+  "2. Unmanned Shared Fulfillment (Vision AI & Shared SCM)": {
+    "ko": "2. 무인 공유형 풀필먼트 (Vision AI 및 공유형 SCM)"
+  },
+  "3. O2O Physical Anchors & Telemetry (Local Experience Hubs)": {
+    "ko": "3. O2O 물리적 앵커 및 텔레메트리 (로컬 체험 허브)"
+  },
+  "Anchoring digital intelligence into the physical world through micro-packaging, shared 3PL fulfillment, and offline experience hubs. AI confined to a screen cannot command real-world markets—*SC delivers complete Physical Sovereignty across the supply chain, from raw formulation and micro-sachet packaging to Vision AI unmanned warehouses and local O2O nodes.": {
+    "ko": "마이크로 패키징, 공유형 3PL 풀필먼트, 오프라인 체험 허브를 통해 디지털 인텔리전스를 물리적 세계에 확고히 앵커링(Anchoring)합니다. 스크린에 국한된 AI는 현실 시장을 지배할 수 없습니다. *SC는 원료 포뮬레이션 및 마이크로 샤셰(sachet) 소포장부터 Vision AI 기반 무인 물류센터와 로컬 O2O 거점에 이르기까지, 공급망 전반에 걸친 완전한 물리적 주권(Physical Sovereignty)을 구현합니다."
+  },
+  "Compresses R&D costs by 90% through our AI Auto-Formulator and Korea–Asia manufacturing alliance, immediately executing ultra-small unit on-demand production (e.g., Rp 1,320 single-dose micro-sachets) that breaks through purchasing-power barriers in emerging markets.": {
+    "ko": "AI 오토 포뮬레이터(Auto-Formulator)와 한국-아시아 제조 얼라이언스를 통해 R&D 비용을 90% 압축하고, 신흥 시장의 구매력 장벽을 돌파하는 초소형 단위 온디맨드 생산(예: Rp 1,320 1회용 마이크로 샤셰)을 즉각 실행합니다."
+  },
+  "Integrated with Qubit ERP, our Vertex AI Video Opname (computer-vision stock auditing) autonomously governs inventory movement and VAT compliance across 8 national logistics hubs while pooling and settling idle warehouse space with partners in real time.": {
+    "ko": "Qubit ERP와 연동된 Vertex AI Video Opname(컴퓨터 비전 재고 실사 시스템)은 8개국 물류 허브 전반의 재고 이동과 부가가치세(VAT) 규제 준수를 자율적으로 통제하며, 파트너사와 유휴 창고 공간을 실시간으로 풀링(pooling) 및 정산합니다."
+  },
+  "Local physical nodes where online demand seamlessly connects to offline pickup, point-of-care testing (POCT), and refill subscriptions. Field data is synchronized in real time back to our central brain (Company RAG) via wearable Edge AI (Exo-Brain).": {
+    "ko": "온라인 수요가 오프라인 픽업, 현장 진단 검사(POCT), 리필 구독과 매끄럽게 연결되는 로컬 물리적 거점입니다. 현장 데이터는 웨어러블 Edge AI(Exo-Brain)를 통해 중앙 두뇌(Company RAG)로 실시간 동기화됩니다."
+  },
+  "SCARLET-AI // CORE ENGINE 04": {
+    "ko": "SCARLET-AI // 핵심 엔진 04"
+  },
+  "R&D Time & Cost Compression": {
+    "ko": "R&D 기간 및 비용 압축"
+  },
+  "90% Reduction (AI Auto-Formulation)": {
+    "ko": "90% 절감 (AI 자동 포뮬레이션)"
+  },
+  "Warehouse Audit & SCM": {
+    "ko": "창고 실사 및 SCM"
+  },
+  "100% Automated (Vertex AI Video Opname)": {
+    "ko": "100% 자동화 (Vertex AI Video Opname)"
+  },
+  "Global Physical Hubs": {
+    "ko": "글로벌 물리적 허브"
+  },
+  "8 Countries Real-Time Ledger Sync": {
+    "ko": "8개국 실시간 원장 동기화"
+  },
+  "Domain 04 (scarlet-ai) serves as the frontline commercial and transactional propulsion engine of *SC (SISTAR Company / Signal Star Universe). Guided by the institutional ethos \"Where Magic Happens with a Spell — I'm Not Fool, Solve It with a Spell,\" Scarlet-AI unifies two historically segregated global economies—Cross-Border B2B International Trading (01_ai-global-trade/01_intl-ai-trading-platform) and Hyper-Localized AI Retail & Social Commerce (02_ai-marketplaces/01_ai-commerce-platform)—into a single, 24/7 autonomous transaction fabric powered by *SC intelligence-core and the mathematical laws of the Qubit Algorithm™.": {
+    "ko": "도메인 04(scarlet-ai)는 *SC(SISTAR Company / Signal Star Universe)의 최전선 상업 및 트랜잭션 추진 엔진 역할을 수행합니다. 조직적 기치인 \"Where Magic Happens with a Spell — I'm Not Fool, Solve It with a Spell\"에 따라, Scarlet-AI는 역사적으로 분리되어 있던 두 글로벌 경제권—국경 간 B2B 국제 무역(01_ai-global-trade/01_intl-ai-trading-platform)과 초국지화(Hyper-Localized) AI 리테일 및 소셜 커머스(02_ai-marketplaces/01_ai-commerce-platform)—를 *SC 인텔리전스 코어와 Qubit Algorithm™의 수학적 법칙으로 구동되는 단일 24/7 자율 거래 패브릭(fabric)으로 통합합니다."
+  },
+  "Traditional exporters manufacture blindly, ship to overseas warehouses, and wait 90 to 180 days for cash recovery. Scarlet-AI synchronizes neighborhood pre-orders (03_demand-resell-engine/03_zero-wastage) and B2B Rolling Purchasing Forecasts (RPF) with 50% advance deposits and K-SURE export credit insurance, achieving T -> 1 WKB Tunneling across borders with 0% inventory wastage.": {
+    "ko": "전통적인 수출 기업들은 맹목적인 선(先)제조 및 해외 창고 이송 후 현금 회수까지 90일에서 180일을 대기합니다. 반면 Scarlet-AI는 로컬 사전 주문(03_demand-resell-engine/03_zero-wastage)과 B2B 롤링 구매 예측(RPF)을 50%의 선수금 및 K-SURE 수출신용보증과 실시간 동기화함으로써, 재고 폐기율 0%를 달성하고 국경을 초월한 T -> 1 WKB Tunneling을 실현합니다."
+  },
+  "Physical & Economic Interpretation: As neighborhood orders on sisCart.id and B2B orders on 01_ai-global-trade/01_intl-ai-trading-platform accumulate into Q_total(t), the unit price exponentially approaches the factory floor P_factory_floor. Applying the -5% dynamic QR discount and optional +1% Guarantee Delivery still yields a net consumer savings of 24% to 42% below legacy retail, while guaranteeing 100% immediate liquidity at t = 0.": {
+    "ko": "물리적 및 경제학적 해석: sisCart.id의 근린 주문과 01_ai-global-trade/01_intl-ai-trading-platform의 B2B 주문이 총수요 Q_total(t)로 누적됨에 따라, 단가는 공장 출고가 하한선(P_factory_floor)에 지수 함수적으로 수렴합니다. -5% 동적 QR 할인과 +1% 보증 배송(Guarantee Delivery) 옵션을 적용하더라도 기존 유통 대비 24%~42%의 순 소비자 절감 효과를 도출하며, 동시에 t = 0 시점에서 100% 즉각적인 유동성을 보장합니다."
   }
 };
