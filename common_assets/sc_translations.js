@@ -100613,5 +100613,203 @@ window.SC_TRANSLATIONS = {
   },
   "Physical & Economic Interpretation: As neighborhood orders on sisCart.id and B2B orders on 01_ai-global-trade/01_intl-ai-trading-platform accumulate into Q_total(t), the unit price exponentially approaches the factory floor P_factory_floor. Applying the -5% dynamic QR discount and optional +1% Guarantee Delivery still yields a net consumer savings of 24% to 42% below legacy retail, while guaranteeing 100% immediate liquidity at t = 0.": {
     "ko": "물리적 및 경제학적 해석: sisCart.id의 근린 주문과 01_ai-global-trade/01_intl-ai-trading-platform의 B2B 주문이 총수요 Q_total(t)로 누적됨에 따라, 단가는 공장 출고가 하한선(P_factory_floor)에 지수 함수적으로 수렴합니다. -5% 동적 QR 할인과 +1% 보증 배송(Guarantee Delivery) 옵션을 적용하더라도 기존 유통 대비 24%~42%의 순 소비자 절감 효과를 도출하며, 동시에 t = 0 시점에서 100% 즉각적인 유동성을 보장합니다."
+  },
+  "Autonomous Enterprise OS & Cognitive RAG Brain": {
+    "ko": "자율 엔터프라이즈 OS 및 인지형 RAG 브레인"
+  },
+  "1. Voice-to-Enterprise Task Explosion (Vibe Working Architecture)": {
+    "ko": "1. Voice-to-Enterprise 태스크 익스플로전 (Vibe Working 아키텍처)"
+  },
+  "2. Zero-Hallucination Corporate Memory & Edge Telemetry": {
+    "ko": "2. 제로 환각(Zero-Hallucination) 기업 메모리 및 엣지 텔레메트리"
+  },
+  "3. t = 0 Unmanned ERP & Computer-Vision Governance": {
+    "ko": "3. t = 0 무인 ERP 및 컴퓨터 비전 거버넌스"
+  },
+  "Compressing fixed administrative overhead (SG&A) toward zero and reducing executive daily management time to 30 minutes. Instead of hiring bloated back-office silos to manually operate passive software, our autonomous enterprise operating system transforms a single executive voice directive into company-wide, zero-hallucination execution.": {
+    "ko": "고정 관리 오버헤드(SG&A)를 영(0)에 수렴하도록 압축하고 경영진의 일일 운영 관리 시간을 30분으로 감축합니다. 수동형 소프트웨어를 관리하기 위해 비대화된 백오피스 사일로를 증원하는 대신, 당사의 자율 엔터프라이즈 운영체제는 단 한 번의 경영진 음성 지시를 전사적 무환각 실행으로 치환합니다."
+  },
+  "Converts a leader's 30-second voice spark or memo into structured departmental action vectors across finance, legal, procurement, and marketing—allowing human leadership to focus strictly on insight while autonomous agents execute 100% of routine workflows.": {
+    "ko": "리더의 30초 음성 스파크 또는 메모를 재무, 법무, 조달, 마케팅 전반의 구조화된 부서별 액션 벡터로 변환합니다. 이를 통해 자율 에이전트가 일상적 워크플로를 100% 실행하는 동안 인간 리더십은 오직 본질적 인사이트에만 집중할 수 있습니다."
+  },
+  "Synthesizes overnight global market scraping with 20+ years of proprietary customs, clinical, and B2B trading records inside a dual-vector GraphRAG brain, continuously enriched by real-time field telemetry and wearable cognitive memory.": {
+    "ko": "야간 글로벌 시장 스크래핑 데이터와 20년 이상의 독점 통관, 임상, B2B 무역 레코드를 듀얼 벡터 GraphRAG 브레인 내에 합성하며, 실시간 현장 텔레메트리 및 웨어러블 인지 메모리를 통해 이를 연속적으로 고도화합니다."
+  },
+  "Eliminates per-seat enterprise software licensing fees by automating multi-national accounting, cross-border VAT harvesting, regulatory compliance, and computer-vision warehouse stock auditing on a single zero-overhead ledger.": {
+    "ko": "단일 제로 오버헤드 원장 상에서 다국적 회계, 국경 간 VAT 환급(Harvesting), 규제 컴플라이언스 및 컴퓨터 비전 기반 창고 재고 실사를 자동화함으로써 계정당(Per-seat) 엔터프라이즈 소프트웨어 라이선스 비용을 근본적으로 제거합니다."
+  },
+  "QUBIT-BIZ // CORE ENGINE 01": {
+    "ko": "QUBIT-BIZ // 코어 엔진 01"
+  },
+  "Fixed Back-Office SG&A": {
+    "ko": "고정 백오피스 판관비 (SG&A)"
+  },
+  "Near $0 (Zero Per-Seat License)": {
+    "ko": "$0에 수렴 (계정당 라이선스 제로)"
+  },
+  "Executive Daily Operations": {
+    "ko": "경영진 일일 운영 투입 시간"
+  },
+  "30 Minutes / Day (Vibe Working)": {
+    "ko": "일일 30분 (Vibe Working)"
+  },
+  "Target SaaS Gross Margin": {
+    "ko": "목표 SaaS 매출총이익률 (Gross Margin)"
+  },
+  "75% ~ 85% (Enterprise Subscription)": {
+    "ko": "75% ~ 85% (엔터프라이즈 구독)"
+  },
+  "24-Hour Turnkey Venture Cloning & Physical AI Forge": {
+    "ko": "24시간 턴키 벤처 복제 및 피지컬 AI 포지"
+  },
+  "1. 24-Hour 6-Language Platform Replication (Qubit Factory™)": {
+    "ko": "1. 24시간 6개 국어 플랫폼 복제 (Qubit Factory™)"
+  },
+  "2. Turnkey Quantum Commerce Module Injection": {
+    "ko": "2. 턴키 퀀텀 커머스 모듈 인젝션"
+  },
+  "3. Physical AI & Modular Robotics Integration": {
+    "ko": "3. 피지컬 AI 및 모듈형 로보틱스 통합"
+  },
+  "Compressing $150,000+ of traditional software development CapEx and 6 months of sequential engineering into $0 marginal capital and a 24-to-72-hour launch cycle. Once a core business logic is validated, our venture factory replicates it instantaneously across borders, languages, and physical hardware.": {
+    "ko": "전통적인 소프트웨어 개발에 소요되던 15만 달러 이상의 CapEx와 6개월간의 순차적 엔지니어링 공정을 한계자본 0달러 및 24~72시간의 론칭 사이클로 압축합니다. 핵심 비즈니스 로직이 검증되는 즉시, 당사의 벤처 팩토리는 국경, 언어, 물리적 하드웨어의 경계를 넘어 이를 즉각적으로 복제합니다."
+  },
+  "Clones a single validated business core into localized 6-language (EN/KR/ID/VN/CN/JP) micro-SaaS and D2C/B2B brand portals overnight—complete with zero-runtime static translation dictionaries and SEO/GEO semantic schemas.": {
+    "ko": "검증된 단일 비즈니스 코어를 6개 국어(EN/KR/ID/VN/CN/JP)로 현지화된 마이크로 SaaS 및 D2C/B2B 브랜드 포털로 하룻밤 사이에 복제하며, 제로 런타임 정적 번역 딕셔너리와 SEO/GEO 시맨틱 스키마를 완벽히 탑재합니다."
+  },
+  "Pre-integrates reverse-auction group buying, volume-wise deal matching, 70/30 PG fee cashback rails, and open-account B2B settlement modules directly into newly cloned ventures without custom coding.": {
+    "ko": "역경매 공동구매, 물량 기반 딜 매칭, 70/30 PG 수수료 캐시백 레일, 외상거래(Open-Account) B2B 정산 모듈을 별도의 커스텀 코딩 없이 신규 복제된 벤처에 직접 사전 통합합니다."
+  },
+  "Bridges digital platforms directly to physical execution through autonomous compounding hardware, smart warehouse vision systems, and modular robotics—turning pure software ventures into defensible Hardware-as-a-Service (HaaS) ecosystems.": {
+    "ko": "자율 조제·배합 하드웨어, 스마트 물류 비전 시스템, 모듈형 로보틱스를 통해 디지털 플랫폼을 물리적 실행 영역과 직접 연결함으로써, 순수 소프트웨어 벤처를 진입장벽이 견고한 HaaS(Hardware-as-a-Service) 생태계로 전환합니다."
+  },
+  "QUBIT-BIZ // CORE ENGINE 02": {
+    "ko": "QUBIT-BIZ // 코어 엔진 02"
+  },
+  "Turnkey Launch Velocity": {
+    "ko": "턴키 론칭 속도"
+  },
+  "24 ~ 72 Hours (6-Language Live)": {
+    "ko": "24 ~ 72시간 (6개 국어 동시 라이브)"
+  },
+  "Upfront Dev CapEx Saved": {
+    "ko": "초기 개발 CapEx 절감액"
+  },
+  "$150,000+ -> Near $0 Marginal Cost": {
+    "ko": "$150,000+ -> 한계비용 $0 수렴"
+  },
+  "Target Cloning Gross Margin": {
+    "ko": "타깃 클로닝 매출총이익률 (Gross Margin)"
+  },
+  "85%+ (Turnkey Fee & Equity Share)": {
+    "ko": "85%+ (턴키 수수료 및 지분 공유)"
+  },
+  "Zero-CAC Viral Media, On-Demand Talent & Gamified Growth": {
+    "ko": "Zero-CAC 바이럴 미디어, 온디맨드 인재 및 게이미피케이션 성장 엔진"
+  },
+  "1. Intelligence on Tap Semantic Talent Matching": {
+    "ko": "1. 인텔리전스 온탭(Intelligence on Tap) 시맨틱 인재 매칭"
+  },
+  "2. Agency-in-a-Box Autonomous Media Production": {
+    "ko": "2. 에이전시-인-어-박스(Agency-in-a-Box) 자율형 미디어 프로덕션"
+  },
+  "3. Viral Signal Mining & Gamified Retention Loops": {
+    "ko": "3. 바이럴 시그널 마이닝 및 게이미피케이션 리텐션 루프"
+  },
+  "Scaling global commercial revenue without fixed HR payroll or external advertising agency retainers. By uniting semantic talent orchestration with an unmanned daily media studio and gamified retention loops, every venture acquires customers and executes on the ground at near-zero fixed cost.": {
+    "ko": "고정 인건비나 외부 광고 대행사 리테이너 비용 없이 글로벌 커머셜 매출을 스케일링합니다. 시맨틱 인재 오케스트레이션과 무인 일간 미디어 스튜디오, 게이미피케이션 리텐션 루프를 결합하여, 모든 벤처가 한계비용 제로 수준에서 고객을 획득하고 현지 오퍼레이션을 완벽히 실행합니다."
+  },
+  "Decomposes business initiatives into structured Target-Timeline-Process (TTP) modules and algorithmically matches them with top 1% global executors, domain specialists, and local challengers compensated via transparent net-profit sharing.": {
+    "ko": "사업 이니셔티브를 구조화된 TTP(Target-Timeline-Process) 모듈로 분해하고, 투명한 순이익 배분 모델로 보상받는 글로벌 상위 1% 실행 인력, 도메인 전문가 및 현지 챌린저와 알고리즘적으로 정밀 매칭합니다."
+  },
+  "Eliminates external creative agency bottlenecks by automatically generating 10+ multilingual shoppable short-form videos, B2B pitch decks, and viral marketing funnels per project every single day.": {
+    "ko": "프로젝트별로 매일 10개 이상의 다국어 쇼퍼블 숏폼 영상, B2B 피치덱, 바이럴 마케팅 퍼널을 자율 생성하여 외부 크리에이티브 에이전시의 병목 현상을 원천 제거합니다."
+  },
+  "Harvests real-time social demand signals to deploy zero-inventory programmatic campaigns while locking in users through interactive reward mechanics and affiliate viral loops that compound organic Customer Lifetime Value (LTV).": {
+    "ko": "실시간 소셜 수요 시그널을 마이닝하여 무재고 프로그래매틱 캠페인을 전개하는 동시에, 인터랙티브 리워드 메커니즘과 제휴 바이럴 루프를 통해 유저를 락인(Lock-in)하고 유기적 고객생애가치(LTV)를 복리 증식시킵니다."
+  },
+  "QUBIT-BIZ // CORE ENGINE 03": {
+    "ko": "QUBIT-BIZ // 코어 엔진 03"
+  },
+  "Fixed Marketing & HR Payroll": {
+    "ko": "고정 마케팅비 및 인사 인건비"
+  },
+  "$0 (30% Net Profit-Sharing Model)": {
+    "ko": "$0 (30% 순이익 배분 모델)"
+  },
+  "Automated Media Velocity": {
+    "ko": "자동화 미디어 확산 속도(Velocity)"
+  },
+  "10+ Multilingual Assets / Day": {
+    "ko": "일일 10개 이상의 다국어 에셋"
+  },
+  "CAC Payback Efficiency": {
+    "ko": "CAC 회수 효율성"
+  },
+  "< 0.5 Months (Organic Viral Loop)": {
+    "ko": "< 0.5개월 (오가닉 바이럴 루프)"
+  },
+  "STAGE 2: AUTO-FORMULATOR R1": {
+    "ko": "STAGE 2: 오토-포뮬레이터 R1"
+  },
+  "4-Way Cashless Offsetting & Closed-Loop Quantum Value Banks": {
+    "ko": "4자간 무현금 상계 및 폐쇄 루프 퀀텀 밸류 뱅크"
+  },
+  "1. 4-Way Multilateral Cashless Barter Offsetting": {
+    "ko": "1. 4자간 다자 무현금 바터 상계"
+  },
+  "2. Multi-Dimensional Closed-Loop Value Banking": {
+    "ko": "2. 다차원 폐쇄 루프 밸류 뱅킹"
+  },
+  "3. Sovereign Credit Quantization & Daily NAV Transparency": {
+    "ko": "3. 주권 신용 양자화 및 일일 NAV 투명성"
+  },
+  "Business never stops for lack of cash or foreign-exchange friction. Our quantum fintech clearinghouse converts dormant physical and intangible capacities into immediate commercial liquidity—settling cross-border obligations without cash drain under full regulatory compliance.": {
+    "ko": "현금 부족이나 외환 마찰로 인해 비즈니스가 정체되는 일은 결코 없습니다. 당사의 퀀텀 핀테크 청산소는 휴면 상태의 물리적·무형적 역량을 즉각적인 상업적 유동성으로 전환하여, 완전한 규제 준수 하에 현금 유출 없이 국경 간 채무를 청산합니다."
+  },
+  "Enables global enterprises to cross-settle obligations across (1) Physical Goods & Raw Materials, (2) AI SaaS & IT Solutions, (3) Media & Advertising IP, and (4) Idle Warehouse Space—eliminating foreign-exchange conversion losses and cash bottlenecks.": {
+    "ko": "글로벌 기업이 (1) 실물 상품 및 원자재, (2) AI SaaS 및 IT 솔루션, (3) 미디어 및 광고 IP, (4) 유휴 창고 공간에 걸쳐 채무를 교차 결제할 수 있도록 지원하여, 환전 손실과 현금 유동성 병목 현상을 원천 차단합니다."
+  },
+  "Tokenizes dormant entrepreneurial sparks, fractional expert hours, idle storage space, and physical commodities into closed-loop ecosystem credits and e-commerce vouchers—providing a 100% legally insulated alternative financial rail.": {
+    "ko": "휴면 중인 창업 역량(Spark), 파편화된 전문가 시간, 유휴 보관 공간, 실물 원자재를 폐쇄 루프 생태계 크레딧 및 이커머스 바우처로 토큰화하여, 법적으로 100% 보호되는 대체 금융 레일을 제공합니다."
+  },
+  "Combines state-backed export credit guarantees (K-SURE BNPL) with automated daily public Net Asset Value (NAV) auditing—ensuring 0% balance-sheet default risk and institutional-grade financial transparency across all entangled ventures.": {
+    "ko": "국가 지원 수출신용보증(K-SURE BNPL)과 자동화된 일일 공개 순자산가치(NAV) 감사를 결합하여, 상호 얽힌 모든 벤처 전반에서 대차대조표 디폴트 리스크 0%와 기관급 금융 투명성을 완벽히 보장합니다."
+  },
+  "QUBIT-BIZ // CORE ENGINE 04": {
+    "ko": "QUBIT-BIZ // 코어 엔진 04"
+  },
+  "FX & Cash Drain in Barter": {
+    "ko": "바터 거래 내 외환(FX) 및 현금 유출"
+  },
+  "0% (4-Way Multilateral Offsetting)": {
+    "ko": "0% (4자 다자간 상계 처리)"
+  },
+  "Credit Default Exposure": {
+    "ko": "신용 부도 익스포저"
+  },
+  "0% (K-SURE Backed & Closed-Loop)": {
+    "ko": "0% (K-SURE 보증 및 폐쇄 루프 구조)"
+  },
+  "Target Fintech Spread GM": {
+    "ko": "목표 핀테크 스프레드 매출총이익(GM)"
+  },
+  "70%+ (Clearing & Factoring Fees)": {
+    "ko": "70% 이상 (청산 및 팩토링 수수료)"
+  },
+  "The 4-Way Qubit Banks (`04_quantum-fintech-banks/01_qubit-banks`): Non-Cash Quantum Resource Offsetting": {
+    "ko": "4-Way Qubit Banks (`04_quantum-fintech-banks/01_qubit-banks`): 비현금 양자 자원 상계 프로토콜"
+  },
+  "`qubit-biz` is engineered as an open B2B showcase and execution protocol. Any international manufacturer, regional distributor, or SISTAR Challenger can plug into our 12 L2 structural modules (`01_autonomous-enterprise-os/02_qubit-erp` through `02_venture-cloning-factory/01_qubit-web-builder`) without upfront capital expenditure. A single action on one node—such as a voice memo inside `C.A.N.` or a micro-bounty on `Qubit Marketplace Work`—simultaneously triggers manufacturing on `Qubit Factory`, creator broadcasts on `Qubit Star`, and royalty clearing across `Qubit Banks`.": {
+    "ko": "`qubit-biz`는 개방형 B2B 쇼케이스 및 실행 프로토콜로 설계되었습니다. 모든 글로벌 제조사, 지역 유통사 또는 SISTAR Challenger는 선행 자본 지출(CapEx) 없이 당사의 12개 L2 구조 모듈(`01_autonomous-enterprise-os/02_qubit-erp`부터 `02_venture-cloning-factory/01_qubit-web-builder`까지)에 즉각 연동될 수 있습니다. 단일 노드에서의 단 한 번의 액션—예컨대 `C.A.N.` 내부의 음성 메모나 `Qubit Marketplace Work` 상의 마이크로 바운티 등록—만으로도 `Qubit Factory`의 제조 공정, `Qubit Star`의 크리에이터 브로드캐스트, `Qubit Banks` 전반의 로열티 청산이 동시다발적으로 트리거됩니다."
+  },
+  "Qubit Star mobilizes creator MCN cohorts, live-streamers, and micro-affiliates (`03_growth-talent-media-engine/02_qubit-marketing` and `03_growth-talent-media-engine/01_qubit-star`) who earn performance royalties without inventory risk. Qubit Link synchronizes customs clearance, BPOM/FDA regulatory filings, and B2B matching across our 8 global bases and `IATA / IADA` trade alliances.": {
+    "ko": "Qubit Star는 재고 리스크 없이 성과 기반 로열티를 창출하는 크리에이터 MCN 코호트, 라이브 스트리머 및 마이크로 제휴사를 결집합니다(`03_growth-talent-media-engine/02_qubit-marketing` 및 `03_growth-talent-media-engine/01_qubit-star`). Qubit Link는 당사의 8대 글로벌 거점과 `IATA / IADA` 무역 동맹 전반에 걸쳐 통관, BPOM/FDA 규제 인허가 제출, B2B 매칭을 실시간 동기화합니다."
+  },
+  "In the Time Bank, software engineers, customs brokers, regulatory affairs specialists, and Challengers deposit verified execution hours (via `02_venture-cloning-factory/02_qubit-marketplace-work`) in exchange for Time Credits or project equity shards. In the Space Bank, 3PL warehouse operators, café owners, and veterinary clinics deposit unused pallet bays or retail display counters, earning automatic revenue splits from products fulfilled through their physical coordinates.": {
+    "ko": "Time Bank에서는 소프트웨어 엔지니어, 관세사, 규제 대응(RA) 전문가 및 Challenger들이 검증된 업무 실행 시간(`02_venture-cloning-factory/02_qubit-marketplace-work` 경유)을 예치하여 타임 크레딧 또는 프로젝트 지분 샤드(Equity Shards)로 정산받습니다. Space Bank에서는 3PL 물류창고 운영사, 카페 오너, 동물병원 등이 유휴 팔레트 베이(Pallet Bay)나 매장 디스플레이 카운터를 예치함으로써, 해당 물리적 좌표를 통해 풀필먼트되는 제품 수익에 대한 자동 분배 권한을 획득합니다."
+  },
+  "In the Idea Bank, chemists, Dify prompt architects, and business model designers register validated formulas (`Auto-Formulator R1`) and agentic workflows (`01_autonomous-enterprise-os/05_knowledge-networks`), receiving perpetual smart-contract royalties whenever a `Biz-Galaxy` brand deploys their IP. In the Petfood Bank (`02_petfood-bank`), human-grade food manufacturing by-products are upcycled into standardized companion-animal nutrition reserves (`SISPet / MedIX`), creating an inflation-hedged physical commodity ledger paired with ESG shelter sponsorships.": {
+    "ko": "Idea Bank에서는 화학자, Dify 프롬프트 아키텍트, 비즈니스 모델 설계자가 검증된 포뮬러(`Auto-Formulator R1`) 및 에이전틱 워크플로우(`01_autonomous-enterprise-os/05_knowledge-networks`)를 등록하여, `Biz-Galaxy` 브랜드가 해당 IP를 배포할 때마다 스마트 계약 기반의 영구 로열티를 수취합니다. Petfood Bank(`02_petfood-bank`)에서는 휴먼그레이드 식품 제조 부산물을 업사이클링하여 표준화된 반려동물 영양 비축 자산(`SISPet / MedIX`)으로 전환함으로써, 인플레이션 헤지형 실물 원자재 원장과 ESG 셸터 후원을 결합한 가치를 창출합니다."
   }
 };
