@@ -21879,7 +21879,7 @@ window.SC_TRANSLATIONS = {
     "ja": "グローバル企業をscarlet-aiおよびqubit-bizの実行パイプラインに直接接続する、カテゴリー別のビジネス提案およびオープンな企業リストです。"
   },
   "12 • media media.sistarcompany.com": {
-    "ko": "12 • Media media.sistarcompany.com",
+    "ko": "12 • 미디어 media.sistarcompany.com",
     "id": "12 • Media media.sistarcompany.com",
     "vi": "12 • Media media.sistarcompany.com",
     "zh-CN": "12 • Media media.sistarcompany.com",
@@ -27703,7 +27703,7 @@ window.SC_TRANSLATIONS = {
     "ja": "北米のベンチャーキャピタル配分者、ファミリーオフィス、および戦略的パートナーに対し、SC Indexおよび垂直型Biz Galaxy投資ビークルへの直接アクセスを提供します。"
   },
   "FP-01 & 02": {
-    "ko": "FP-01 & 02",
+    "ko": "FP-01 및 02",
     "id": "FP-01 & 02",
     "vi": "FP-01 & 02",
     "zh-CN": "FP-01 & 02",
@@ -27766,7 +27766,7 @@ window.SC_TRANSLATIONS = {
     "ja": "70/30 PG分割および共同購入エスクローとのネイティブ統合"
   },
   "FP-04 & 05": {
-    "ko": "FP-04 & 05",
+    "ko": "FP-04 및 05",
     "id": "FP-04 & 05",
     "vi": "FP-04 & 05",
     "zh-CN": "FP-04 & 05",
@@ -27801,7 +27801,7 @@ window.SC_TRANSLATIONS = {
     "ja": "音声コンテキストをERPタスクおよびRAGメモリに直接変換"
   },
   "FP-07 & 08": {
-    "ko": "FP-07 & 08",
+    "ko": "FP-07 및 08",
     "id": "FP-07 & 08",
     "vi": "FP-07 & 08",
     "zh-CN": "FP-07 & 08",
@@ -100253,5 +100253,128 @@ window.SC_TRANSLATIONS = {
   },
   "For *SC - Intl AI Trade Alliance (IATA), the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
     "ko": "*SC - Intl AI Trade Alliance (IATA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+  },
+  "Core Technology & Operating Mechanism: One Vertically Integrated Architecture": {
+    "ko": "핵심 기술 및 운용 메커니즘: 단일 수직 통합 아키텍처"
+  },
+  "Two Live Commercial Gateways Generating High-Margin Cashflow": {
+    "ko": "고마진 현금흐름을 창출하는 두 개의 라이브 커머셜 게이트웨이"
+  },
+  "Our Promise to Partners & Investors: Everything is Already Built and Running": {
+    "ko": "파트너 및 투자자를 향한 약속: 모든 시스템은 이미 구축되어 실시간 가동 중입니다"
+  },
+  "Beyond a Software Startup, Beyond a Traditional Trading House": {
+    "ko": "단순 소프트웨어 스타트업과 전통적 종합상사의 한계를 초월하여"
+  },
+  "The Law: Qubit Algorithm™": {
+    "ko": "법칙: Qubit Algorithm™"
+  },
+  "The Brain: Intelligence-Core (24/7 Unmanned AI Central Nervous System)": {
+    "ko": "두뇌: Intelligence-Core (24/7 무인 AI 중추신경계)"
+  },
+  "Scarlet-AI: Global AI Trade & Commerce Platform": {
+    "ko": "Scarlet-AI: 글로벌 AI 무역 & 커머스 플랫폼"
+  },
+  "Qubit-Biz: Enterprise AI SaaS & 24-Hour Venture Cloning": {
+    "ko": "Qubit-Biz: 엔터프라이즈 AI SaaS & 24시간 벤처 클로닝"
+  },
+  "Transparent Master Architecture Here—Immediate Live Transactions Across Our Platforms": {
+    "ko": "투명하게 공개되는 마스터 아키텍처—플랫폼 전반에서 즉각 실행되는 실시간 거래"
+  },
+  "\"Bring only a single spark of an idea (One Spark). The complete, autonomous system of *SC executes its infinite expansion into a global business galaxy (Infinite Galaxifying).\"": {
+    "ko": "\"단 하나의 아이디어 불꽃(One Spark)만 가져오십시오. *SC의 완전 자율 운영 시스템이 이를 글로벌 비즈니스 은하계로 무한 확장(Infinite Galaxifying)합니다.\""
+  },
+  "*SC (SISTAR Company) is neither a conventional IT startup lacking physical execution nor a traditional trading company trapped in manual, sequential paperwork. We are the world's first AI-Native Global Commerce and International Trading Holding Company—forged by fusing more than 20 years of real-world trade, customs clearance, and bio-manufacturing infrastructure across 8 countries with our proprietary quantum business laws and 24/7 autonomous AI.": {
+    "ko": "*SC (SISTAR Company)는 실물 실행력이 결여된 기존 IT 스타트업도, 수작업 중심의 순차적 서류 작업에 갇힌 전통적 종합상사도 아닙니다. 당사는 8개국에 걸친 20년 이상의 실물 무역, 통관, 바이오 제조 인프라를 독자적인 양자 비즈니스 법칙 및 24/7 자율 AI와 융합하여 구축한 세계 최초의 'AI-Native 글로벌 커머스 및 국제 무역 지주회사'입니다."
+  },
+  "Simultaneously launching and operating multiple global businesses—a feat impossible under legacy sequential management—has been solved through a single vertically integrated architecture:": {
+    "ko": "기존의 순차적 경영 방식으로는 불가능했던 다수의 글로벌 비즈니스 동시 론칭 및 운용 과제를 단일 수직 통합 아키텍처를 통해 완벽히 해결했습니다:"
+  },
+  "When a single line of insight (One Spark) from our founder or a global partner is injected into our system, it triggers an explosive, simultaneous expansion (Galaxifying) into multi-national commerce and localized business ventures—with zero upfront capital barrier ($V_capital = 0) and zero inventory burden.": {
+    "ko": "창업자 또는 글로벌 파트너의 단 한 줄의 통찰(One Spark)이 시스템에 주입되는 즉시, 선행 자본 장벽($V_capital = 0)과 재고 부담 없이 다국적 커머스 및 현지화된 사업체로의 폭발적인 동시 확장(Galaxifying)이 격발됩니다."
+  },
+  "Our proprietary business physics engine mathematically and structurally eradicates the fatal bottlenecks of traditional trade—90-to-180-day payment settlement delays, dead-stock inventory risk, and multi-tier middleman margin leakage—by applying the five laws of quantum mechanics, including t = 0 simultaneous settlement superposition, 50% advance-deposit demand tunneling, and non-local cross-project entanglement.": {
+    "ko": "당사의 독자적 비즈니스 물리 엔진은 t = 0 동시 결제 중첩, 50% 선납금 수요 터널링, 비국소적 프로젝트 간 얽힘 등 양자역학의 5대 법칙을 적용하여 90~180일 정산 지연, 악성 재고 위험, 다단계 중개 마진 누수와 같은 전통적 무역의 치명적 병목 현상을 수학적·구조적으로 원천 박멸합니다."
+  },
+  "The 24/7 unmanned AI central nervous system that executes the Qubit Algorithm™ in live production code. By uniting our Overnight Unmanned Data Factory (SENSE), Zero-Hallucination Enterprise RAG Brain (THINK), Autonomous Qubit ERP Governance (GOVERN), and Multilingual Web & Short-Form Media Generator (CREATE), Intelligence-Core drives fixed administrative overhead (SG&A) toward zero.": {
+    "ko": "Qubit Algorithm™을 실제 프로덕션 코드로 실행하는 24/7 무인 AI 중추신경계입니다. 밤샘 무인 데이터 팩토리(SENSE), 환각 제로 엔터프라이즈 RAG 브레인(THINK), 자율형 Qubit ERP 거버넌스(GOVERN), 다국어 웹 & 숏폼 미디어 제너레이터(CREATE)를 유기적으로 결합하여 Intelligence-Core는 고정 판관비(SG&A)를 실질적 제로 수준으로 수렴시킵니다."
+  },
+  "The technology concentrated inside Intelligence-Core is not a theoretical blueprint—right now, it generates immediate cashflow and industry-leading gross margins through two commercial gateways:": {
+    "ko": "Intelligence-Core에 집약된 기술은 이론적 청사진에 머무르지 않습니다. 지금 이 순간에도 두 개의 상업적 게이트웨이를 통해 즉각적인 현금흐름과 업계 최고 수준의 매출총이익률을 창출하고 있습니다:"
+  },
+  "The physical cashflow frontline powered by our 24/7 multilingual AI deal closer (Ms. Scarlet). Scarlet-AI executes direct B2B cross-border container trading, 50% advance-deposit reverse-auction group buying (Buy4Me), shoppable short-form video commerce (SISTV), and on-demand local fulfillment—achieving a target gross margin of 45–65%.": {
+    "ko": "24/7 다국어 AI 딜 클로저(Ms. Scarlet)가 주도하는 실물 현금흐름의 최전선입니다. Scarlet-AI는 B2B 직거래 국경 간 컨테이너 무역, 50% 선납 기반 역경매 공동구매(Buy4Me), 쇼퍼블 숏폼 비디오 커머스(SISTV), 온디맨드 로컬 풀필먼트를 실행하여 45~65%의 목표 매출총이익률을 달성합니다."
+  },
+  "Our high-margin B2B software and venture-cloning hub. Qubit-Biz deploys unmanned Qubit ERP, custom Enterprise RAG brains, and executive c.a.n. (CEO ActionNote) solutions to external enterprises while cloning validated Cosmo Seed™ business models into 6-language turnkey platforms within 24 hours—achieving a target gross margin of 75–85%.": {
+    "ko": "당사의 고마진 B2B 소프트웨어 및 벤처 클로닝 허브. Qubit-Biz는 외부 기업을 대상으로 무인 Qubit ERP, 맞춤형 엔터프라이즈 RAG 브레인, C-레벨 전용 c.a.n.(CEO ActionNote) 솔루션을 배포하는 동시에 검증된 COSMO SEED™ 비즈니스 모델을 24시간 이내에 6개 국어 지원 턴키 플랫폼으로 복제하여 목표 매출총이익률 75–85%를 달성합니다."
+  },
+  "\"Do not worry about how all of this is possible. Right now, 15 Founder Projects and our entire Biz-Galaxy are running with zero-error precision on top of this single unified engine.\"": {
+    "ko": "\"이 모든 것이 어떻게 가능한지 우려하실 필요는 없습니다. 지금 이 순간에도 15개의 Founder Project와 당사의 전 비즈니스 은하계(Biz-Galaxy)가 바로 이 단일 통합 엔진 위에서 오차율 제로의 정밀함으로 가동되고 있습니다.\""
+  },
+  "• Master Architecture Hub vs. Live Commercial Platforms: This flagship website (sistarcompany.com) serves as our transparent Master Architecture Hub disclosing the complete blueprints and solutions of *SC, while actual B2B/B2C transactions and software deployments are executed instantaneously across our dedicated live commercial platforms (scarlet-ai.sistarcompany.com, qubit-biz.sistarcompany.com, and biz-galaxy.sistarcompany.com).": {
+    "ko": "• 마스터 아키텍처 허브 vs. 라이브 커머셜 플랫폼: 본 플래그십 웹사이트(sistarcompany.com)는 *SC의 완전한 청사진과 솔루션을 투명하게 공개하는 마스터 아키텍처 허브 역할을 수행하며, 실제 B2B/B2C 트랜잭션 및 소프트웨어 배포는 전용 라이브 커머셜 플랫폼(scarlet-ai.sistarcompany.com, qubit-biz.sistarcompany.com, biz-galaxy.sistarcompany.com) 전반에서 즉각적으로 실행됩니다."
+  },
+  "• Every Bottleneck Already Solved: From overseas regulatory licensing and customs clearance (Indonesian BPOM/NIE, FDA) to state-backed trade finance (K-SURE BNPL), hybrid GMP manufacturing (ODM & Rp 1,320 single-dose sachets), shared logistics, and automated daily viral marketing—*SC has already prepared every answer. All you need to make is the decision to join us.": {
+    "ko": "• 기해결된 모든 병목 현상: 해외 규제 인허가 및 통관(인도네시아 BPOM/NIE, FDA)부터 국가 보증 무역금융(K-SURE BNPL), 하이브리드 GMP 제조(ODM 및 1,320루피아 규격의 1회용 사셰), 공유 물류, 자동화된 일일 바이럴 마케팅에 이르기까지—*SC는 이미 모든 해답을 완비했습니다. 귀하께서 내리실 결정은 오직 당사와 함께하는 것뿐입니다."
+  },
+  "Continue exploring our core thesis: 03 Executive Summary → | 07 The Great Paradigm Shift → | 08 *SC Master Brochure →": {
+    "ko": "핵심 테제 지속 탐색: 03 Executive Summary → | 07 The Great Paradigm Shift → | 08 *SC Master Brochure →"
+  },
+  "01 • WHO WE ARE": {
+    "ko": "01 • 기업 정체성 (WHO WE ARE)"
+  },
+  "*SC AT A GLANCE • SECTION 01 / 04": {
+    "ko": "*SC 요약 개요 • 섹션 01 / 04"
+  },
+  "WORLD'S FIRST AI-NATIVE GLOBAL COMMERCE & TRADING HOLDING COMPANY": {
+    "ko": "세계 최초의 AI-네이티브 글로벌 이커머스 & 종합무역 지주회사"
+  },
+  "Real-World Cross-Border Trade, Customs & Bio-Manufacturing Infrastructure": {
+    "ko": "실물 기반 크로스보더 무역·통관 및 바이오 제조 인프라"
+  },
+  "5 Quantum Business Laws Eliminating Settlement Latency & Inventory Risk": {
+    "ko": "정산 지연 및 재고 리스크를 원천 제거하는 5가지 퀀텀 비즈니스 법칙"
+  },
+  "24/7 Unmanned Intelligence-Core (SENSE • THINK • GOVERN • CREATE)": {
+    "ko": "24/7 무인 인텔리전스 코어 (SENSE • THINK • GOVERN • CREATE)"
+  },
+  "Dual Commercial Engines: Scarlet-AI (45–65%) & Qubit-Biz SaaS (75–85%)": {
+    "ko": "듀얼 커머셜 엔진: Scarlet-AI (45–65%) & Qubit-Biz SaaS (75–85%)"
+  },
+  "02 • HOW WE WORK": {
+    "ko": "02 • 실행 체계 (HOW WE WORK)"
+  },
+  "*SC AT A GLANCE • SECTION 02 / 04": {
+    "ko": "*SC 요약 개요 • 섹션 02 / 04"
+  },
+  "PILLAR 01 • THE VISION (ONE SPARK, INFINITE GALAXIFYING)": {
+    "ko": "핵심 축 01 • 비전 (One Spark, Infinite Galaxifying)"
+  },
+  "PILLAR 02 • THE LAW (QUBIT ALGORITHM™)": {
+    "ko": "핵심 축 02 • 법칙 (Qubit Algorithm™)"
+  },
+  "PILLAR 03 • THE BRAIN (INTELLIGENCE-CORE)": {
+    "ko": "핵심 축 03 • 두뇌 (인텔리전스 코어)"
+  },
+  "03 • WHAT WE DELIVER": {
+    "ko": "03 • 가치 창출 솔루션 (WHAT WE DELIVER)"
+  },
+  "*SC AT A GLANCE • SECTION 03 / 04": {
+    "ko": "*SC 요약 개요 • 섹션 03 / 04"
+  },
+  "TRACK A • SCARLET-AI (TARGET GM: 45–65%)": {
+    "ko": "트랙 A • SCARLET-AI (목표 매출총이익률: 45–65%)"
+  },
+  "04 • WHY YOU DON'T NEED TO WORRY": {
+    "ko": "04 • 귀사가 우려하지 않아도 되는 명확한 이유"
+  },
+  "*SC AT A GLANCE • SECTION 04 / 04": {
+    "ko": "*SC 핵심 개요 • 섹션 04 / 04"
+  },
+  "FULL-STACK EXECUTION READINESS • YOU ONLY NEED TO DECIDE TO JOIN US": {
+    "ko": "풀스택 실행 체계 완비 • 오직 합류를 결정하기만 하시면 됩니다"
+  },
+  "Next Step in the *SC Flagship Dossier": {
+    "ko": "*SC 플래그십 도시에(Flagship Dossier) 차기 단계"
   }
 };
