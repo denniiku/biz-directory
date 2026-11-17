@@ -100811,5 +100811,50 @@ window.SC_TRANSLATIONS = {
   },
   "In the Idea Bank, chemists, Dify prompt architects, and business model designers register validated formulas (`Auto-Formulator R1`) and agentic workflows (`01_autonomous-enterprise-os/05_knowledge-networks`), receiving perpetual smart-contract royalties whenever a `Biz-Galaxy` brand deploys their IP. In the Petfood Bank (`02_petfood-bank`), human-grade food manufacturing by-products are upcycled into standardized companion-animal nutrition reserves (`SISPet / MedIX`), creating an inflation-hedged physical commodity ledger paired with ESG shelter sponsorships.": {
     "ko": "Idea Bank에서는 화학자, Dify 프롬프트 아키텍트, 비즈니스 모델 설계자가 검증된 포뮬러(`Auto-Formulator R1`) 및 에이전틱 워크플로우(`01_autonomous-enterprise-os/05_knowledge-networks`)를 등록하여, `Biz-Galaxy` 브랜드가 해당 IP를 배포할 때마다 스마트 계약 기반의 영구 로열티를 수취합니다. Petfood Bank(`02_petfood-bank`)에서는 휴먼그레이드 식품 제조 부산물을 업사이클링하여 표준화된 반려동물 영양 비축 자산(`SISPet / MedIX`)으로 전환함으로써, 인플레이션 헤지형 실물 원자재 원장과 ESG 셸터 후원을 결합한 가치를 창출합니다."
+  },
+  "Simultaneous Multi-Lateral Profit Realization (t = 0)": {
+    "ko": "다자간 동시 수익 실현 ($t = 0$)"
+  },
+  "Multi-Agent Commercial Execution & t = 0 ERP Sync": {
+    "ko": "멀티 에이전트 커머셜 실행 및 $t=0$ ERP 동기화"
+  },
+  "When institutional partners ask how one organization can execute across Enterprise AI SaaS, Veterinary Bio-Health, ODM Manufacturing, and International Trade simultaneously, our answer is structural: *SC does not manage disconnected businesses manually; we operate a single universal Quantum Engine. Because the underlying data factory, RAG brain, and t = 0 clearing mechanism are identical, refusing to limit industry boundaries maximizes cross-project entanglement synergy.": {
+    "ko": "기관 투자자 및 파트너들이 하나의 조직이 어떻게 엔터프라이즈 AI SaaS, 수의학 바이오 헬스(Veterinary Bio-Health), ODM 제조, 국제 무역을 동시에 실행할 수 있는지 물을 때, 우리의 대답은 구조적입니다. *SC는 단절된 사업들을 개별적으로 관리하지 않으며, 단 하나의 범용 Quantum Engine을 가동합니다. 기반이 되는 데이터 팩토리, RAG 브레인, $t=0$ 청산 메커니즘이 완전히 동일하기 때문에, 산업의 경계를 허물 때 프로젝트 간 얽힘(entanglement) 시너지는 극대화됩니다."
+  },
+  "Prior to transaction execution, supply capacities, buyer demand, freight slots, and trade-finance credit lines are modeled as superposed state vectors. The instant our AI observes a price-volume match, the density matrix diagonalizes—locking in profit for Buyer, Seller, Logistics, and Financier simultaneously at t = 0.": {
+    "ko": "거래 체결 전, 공급 능력, 바이어 수요, 화물 선적 슬롯, 무역 금융 여신 한도는 중첩된 상태 벡터로 모델링됩니다. 당사의 AI가 가격-물량 매칭을 관측하는 순간, 밀도 행렬이 대각화되며 $t=0$ 시점에 바이어, 셀러, 물류사, 금융기관 모두의 수익을 동시에 확정합니다."
+  },
+  "Quantum Superposition (t = 0): Buyer, Manufacturer, Logistics, and Trade Finance settle simultaneously upon intent collapse.": {
+    "ko": "양자 중첩 ($t = 0$): 구매자 의도가 확정(intent collapse)되는 순간 바이어, 제조사, 물류, 무역 금융이 동시에 정산."
+  },
+  "Monitors tariff databases and shipping schedules via MCP; a single purchase order simultaneously locks trade contracts, freight forwarding, customs, and trade finance at t = 0.": {
+    "ko": "MCP를 통해 관세 데이터베이스와 운송 일정을 모니터링하며, 단 하나의 발주서(PO)로 무역 계약, 포워딩, 통관 및 무역 금융을 $t=0$ 시점에 동시 확정합니다."
+  },
+  "Builds the Global Cross-Border Highway: Unites human Challengers and autonomous trading engines to execute direct B2B/D2C cross-border trade, collective group buying, and t = 0 3-way clearing without middlemen.": {
+    "ko": "글로벌 크로스보더 고속도로 구축: 인간 Challengers와 자율 거래 엔진을 결합하여 중개자 없는 직접 B2B/D2C 크로스보더 무역, 공동 구매 및 $t=0$ 3자 정산을 실행합니다."
+  },
+  "Conventional corporations are prisoners of classical Newtonian Linear Physics (A -> B -> C)—where capital lock-up, R&D, manufacturing, customs clearance, wholesale distribution, and retail settlement occur sequentially across months of friction and cash-flow bleed. *SC replaces sequential trade with Quantum Business Mechanics: a unified mathematical and operational architecture where a single market signal or executive insight (One Spark) simultaneously resolves multi-party contracts, supply-chain routing, trade finance, and localized brand deployment at t = 0 (One Task, Multi Outcomes).": {
+    "ko": "전통적 기업들은 고전 뉴턴 선형 물리학(A -> B -> C)의 포로입니다. 이 구조에서는 자본 잠식, R&D, 제조, 통관, 도매 유통, 소매 정산이 수개월에 걸친 마찰과 현금 흐름 유출 속에서 순차적으로 전개됩니다. *SC는 이러한 순차적 무역을 '양자 비즈니스 역학(Quantum Business Mechanics)'으로 전면 대체합니다. 이는 단 하나의 시장 시그널 또는 경영진의 통찰(One Spark)이 다자간 계약, 공급망 라우팅, 무역 금융, 현지화 브랜드 배포를 t = 0 시점에 동시 해결(One Task, Multi Outcomes)하는 단일 수학적·운영 아키텍처입니다."
+  },
+  "Sequential chain (A -> B -> C) with cumulative time lag (ΣΔt_i >> 0) and middlemen tollgates.": {
+    "ko": "누적 지연 시간(ΣΔt_i >> 0)과 중간 유통 마진 관문이 존재하는 순차적 사슬(A -> B -> C)."
+  },
+  "Quantum Tunneling (T -> 1): Pre-aggregated advance-fund buyer intent bypasses upfront inventory and capital barriers.": {
+    "ko": "양자 터널링(T -> 1): 사전 취합된 선결제 구매 수요를 기반으로 초기 재고 및 자본 장벽을 완전 우회."
+  },
+  "Continuously scans international B2B wholesale price differentials (ΔP_ij > C_friction) across countries and executes risk-free back-to-back arbitrage trades via automated webhooks.": {
+    "ko": "국가 간 글로벌 B2B 도매 가격 격차(ΔP_ij > C_friction)를 지속적으로 스캔하고, 자동화된 웹훅을 통해 무위험 백투백(Back-to-Back) 차익거래를 실행."
+  },
+  "Quantum Tunneling (T -> 1) & Point-of-Prescription Lock-In: Scarlet Vet CDSS captures hospital prescriptions at t = 0, while 50% advance deposits and Rp 1,320 micro-sachets eliminate dead-stock risk.": {
+    "ko": "양자 터널링(T -> 1) 및 처방 시점 락인: Scarlet Vet CDSS가 t = 0 시점에 병원 처방 데이터를 선점하며, 50% 선수금 구조와 Rp 1,320 마이크로 파우치를 통해 악성 재고 리스크를 원천 제거."
+  },
+  "Δt = 0 Settlement 0% Balance-Sheet Credit Risk": {
+    "ko": "Δt = 0 정산 및 0% 대차대조표 신용 리스크"
+  },
+  "Figure 1. Structural comparison between Legacy Newtonian Sequential Trade (A -> B -> C) and *SC Quantum Superposition (t = 0) & WKB Tunneling ($T \\rightarrow 1$) Execution.": {
+    "ko": "그림 1. 레거시 뉴턴식 순차 무역(A -> B -> C)과 *SC 양자 중첩(t = 0) 및 WKB 터널링($T \\rightarrow 1$) 실행 간의 구조적 비교."
+  },
+  "PATHOLOGY 01 • SEQUENTIAL FRICTION (A -> B -> C)": {
+    "ko": "병리 01 • 순차적 마찰 (A -> B -> C)"
   }
 };

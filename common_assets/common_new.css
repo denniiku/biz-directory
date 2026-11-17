@@ -587,3 +587,26 @@ main blockquote,
 .sc-action-btns {
   display: none !important;
 }
+
+/* === TABLE COLUMN BALANCE & PILL WRAP FIX (CENTRAL STANDARD) === */
+.sc-table, main table {
+  width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse !important;
+}
+.sc-table th, .sc-table td, main table th, main table td {
+  overflow-wrap: break-word !important;
+  word-break: keep-all !important;
+  white-space: normal !important;
+  vertical-align: top !important;
+}
+.sc-table td .sc-pill-emerald,
+.sc-table td .sc-pill-gold,
+.sc-table td .sc-pill-slate,
+.sc-table td .sc-pill-crimson {
+  white-space: normal !important;
+  display: inline !important;
+  line-height: 1.6 !important;
+  padding: 2px 6px !important;
+  border-radius: 6px !important;
+}
