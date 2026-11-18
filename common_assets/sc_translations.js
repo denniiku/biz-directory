@@ -101500,5 +101500,464 @@ window.SC_TRANSLATIONS = {
   "ARCHITECTURAL CLARITY • HOW THIS WEBSITE CONNECTS TO LIVE SERVICES": {
     "ko": "아키텍처적 명료성 • 본 웹사이트와 라이브 서비스 간의 연동 체계",
     "ja": "アーキテクチャの明瞭性 • 本ウェブサイトと実稼働サービス群の接続構造"
+  },
+  "07 SISMii Beauty": {
+    "ko": "07. SISMii 뷰티"
+  },
+  "10 Sisloa Apparel": {
+    "ko": "10. Sisloa 어패럴"
+  },
+  "02. 🔺 qubit-algorithm": {
+    "ko": "02 &bull; Qubit Algorithm™"
+  },
+  "Data Factory": {
+    "ko": "▪ 데이터 팩토리 →",
+    "ja": "データファクトリー"
+  },
+  "10 Videos / Day": {
+    "ko": "10개 이상의 동영상/일",
+    "ja": "日次10本の動画自律生成"
+  },
+  "Co-Brands": {
+    "ko": "코브랜드",
+    "ja": "共同ブランド（Co-Brands）"
+  },
+  "*SC Ecosystem Infographic Map": {
+    "ko": "*SC 생태계 인포그래픽 맵",
+    "ja": "*SC エコシステム・インフォグラフィック・マップ"
+  },
+  "SISTAR Motto: “Let My AI Work for AI”": {
+    "ko": "SISTAR 모토: “Let My AI Work for AI (내 AI가 AI를 위해 일하게 하라)”",
+    "ja": "SISTAR モットー：“Let My AI Work for AI”"
+  },
+  "💡 Focus on Ideas & Creative Insight": {
+    "ko": "💡 아이디어 및 창의적 인사이트 집중",
+    "ja": "💡 アイデアおよび創造的インサイトへの集中"
+  },
+  "🧠 AI Executes Dev & Cross-Project Ops": {
+    "ko": "🧠 AI 기반 개발 및 크로스 프로젝트 운영 실행",
+    "ja": "🧠 AIによる開発およびクロスプロジェクト・オペレーションの自律実行"
+  },
+  "🎮 Play Freely in Scarlet-AI & Qubit-Biz": {
+    "ko": "🎮 Scarlet-AI 및 Qubit-Biz 환경에서의 자유로운 비즈니스 플레이",
+    "ja": "🎮 Scarlet-AIおよびQubit-Bizにおける自在な探索と事業展開"
+  },
+  "You do not need to master quantum physics or complex backend code. *SC has already engineered the entire neurological background technology—so you can focus purely on creative ideas and play freely.": {
+    "ko": "양자물리학이나 복잡한 백엔드 코드를 직접 마스터하실 필요가 없습니다. *SC가 전체 신경망 백그라운드 테크놀로지를 이미 완성해 두었으므로, 오직 창의적인 아이디어에만 집중하여 자유롭게 플레이하십시오.",
+    "ja": "量子物理学や複雑なバックエンドコードを修得する必要はありません。*SCがニューロジカルな基盤技術のすべてを既に構築・体系化しているため、貴殿は純粋に創造的なアイデアの創出と自在な事業展開に専心していただけます。"
+  },
+  "Bring only your spark, domain vision, and creative business insight. Zero coding or administrative burden required.": {
+    "ko": "오직 단 하나의 스파크, 도메인 비전, 그리고 창의적인 사업 통찰력만 제시하십시오. 코딩이나 행정적 부담은 전무합니다.",
+    "ja": "求められるのは、貴殿のインスピレーション、ドメインビジョン、そして創造的なビジネスインサイトのみです。プログラミングやバックオフィス業務の負担は一切不要です。"
+  },
+  "*SC's neurological AI background technology autonomously handles project development, ERP, customs, and cross-project management.": {
+    "ko": "*SC의 신경망 AI 백그라운드 기술이 프로젝트 개발, ERP, 통관 및 크로스 프로젝트 관리를 자율적으로 총괄 수행합니다.",
+    "ja": "*SCのニューロジカルAI基盤技術が、プロジェクト開発、ERP、通関処理、およびクロスプロジェクト管理を完全に自律実行します。"
+  },
+  "Jump straight into our live platforms—Scarlet-AI & Qubit-Biz—and play to your heart's content.": {
+    "ko": "실시간 가동 중인 플랫폼인 Scarlet-AI 및 Qubit-Biz에 즉시 접속하여 귀하의 비전을 마음껏 펼치십시오.",
+    "ja": "現在稼働中のライブプラットフォーム「Scarlet-AI」および「Qubit-Biz」へ即座にアクセスし、その無限の可能性を自在にご活用ください。"
+  },
+  "ONE SPARK, INFINITE GALAXIFYING • 12-DOMAIN VISUAL TOPOLOGY": {
+    "ko": "ONE SPARK, INFINITE GALAXIFYING • 12개 도메인 비주얼 토폴로지",
+    "ja": "ONE SPARK, INFINITE GALAXIFYING • 12ドメイン・ビジュアルトポロジー"
+  },
+  "PHYSICAL MOAT": {
+    "ko": "물리적 해자 (PHYSICAL MOAT)",
+    "ja": "フィジカル・モート（物理的参入障壁）"
+  },
+  "20+ Yrs Global Infra": {
+    "ko": "20년 이상의 글로벌 인프라",
+    "ja": "20年超のグローバルインフラ実績"
+  },
+  "8 Countries • BPOM/FDA • ODM": {
+    "ko": "8개국 • BPOM/FDA • ODM",
+    "ja": "世界8カ国展開 • BPOM/FDA • ODM"
+  },
+  "QUANTUM BUSINESS LAW": {
+    "ko": "양자 비즈니스 법칙 (QUANTUM BUSINESS LAW)",
+    "ja": "量子ビジネス原則（QUANTUM BUSINESS LAW）"
+  },
+  "t=0 Clearing • 50% Pre-Order": {
+    "ko": "t=0 청산·결제 (Clearing) • 50% 사전 주문 (Pre-Order)",
+    "ja": "t=0 即時決済（Clearing） • 50% 事前発注（Pre-Order）"
+  },
+  "24/7 UNMANNED OS": {
+    "ko": "24/7 무인 운영체제 (UNMANNED OS)",
+    "ja": "24/7 完全無人稼働OS"
+  },
+  "Night Scraping • RAG • Qubit ERP": {
+    "ko": "심야 스크래핑 • RAG • Qubit ERP",
+    "ja": "夜間スクレイピング • RAG • Qubit ERP"
+  },
+  "AI-Native Venture & Trade Holding": {
+    "ko": "AI 네이티브 벤처 & 무역 지주회사",
+    "ja": "AIネイティブ型ベンチャー＆トレード持株会社"
+  },
+  "$0 Fixed SG&A • 0% Dead-Stock • Multi-Vertical Scaling": {
+    "ko": "$0 고정 판관비 • 0% 불용 재고 • 멀티 버티컬 스케일링",
+    "ja": "固定販管費$0 • 不動在庫0% • マルチバーティカル・スケーリング"
+  },
+  "TIER 01 • SUPREME COMMAND & MATHEMATICAL LAW (THE SPARK)": {
+    "ko": "TIER 01 • 최고 사령부 및 수학적 법칙 (THE SPARK)",
+    "ja": "TIER 01 • 最高統帥＆数理規範（THE SPARK）"
+  },
+  "Human Input: 30-Min Daily Executive Insight (\"One Spark\")": {
+    "ko": "휴먼 인풋: 일일 30분 경영진 인사이트 (\"One Spark\")",
+    "ja": "人的インプット：経営陣による日次30分の意思決定インサイト（「One Spark」）"
+  },
+  "Corporate HQ, 8 Global Hubs & Alliances": {
+    "ko": "법인 본사, 8대 글로벌 허브 및 얼라이언스",
+    "ja": "コーポレート統括本部、世界8拠点のグローバルハブ＆戦略的アライアンス"
+  },
+  "15 Founder Projects": {
+    "ko": "15대 파운더 프로젝트",
+    "ja": "15の創業者直轄プロジェクト"
+  },
+  "The 5 Quantum Business Mechanics Laws": {
+    "ko": "5대 양자 비즈니스 역학 법칙",
+    "ja": "量子ビジネス力学の5大法則"
+  },
+  "Superposition (t=0)": {
+    "ko": "중첩 (t=0)",
+    "ja": "量子重ね合わせ（t=0）"
+  },
+  "Tunneling (Zero Stock)": {
+    "ko": "터널링 (Zero Stock)",
+    "ja": "量子トンネリング（在庫ゼロ）"
+  },
+  "Entanglement": {
+    "ko": "양자 얽힘 (Entanglement)",
+    "ja": "量子もつれ（エンタングルメント）"
+  },
+  "▼ 10:00 PM – 08:00 AM • UNMANNED OVERNIGHT AI EXECUTION ▼": {
+    "ko": "▼ 10:00 PM – 08:00 AM • 심야 무인 AI 자율 실행 ▼",
+    "ja": "▼ 22:00 – 08:00 • 夜間完全無人AI自律実行 ▼"
+  },
+  "TIER 02 • 24/7 UNMANNED AI ENGINE ROOM (HOW WE WORK)": {
+    "ko": "TIER 02 • 24/7 무인 AI 엔진룸 (HOW WE WORK)",
+    "ja": "TIER 02 • 24時間365日無人稼働AIエンジンルーム（事業実行プロセス）"
+  },
+  "① SENSE": {
+    "ko": "① SENSE (감지)",
+    "ja": "① SENSE（知覚・収集）"
+  },
+  "Night Web Scraping": {
+    "ko": "야간 웹 스크래핑",
+    "ja": "夜間Webスクレイピング"
+  },
+  "Tariff/Price Radar": {
+    "ko": "관세/가격 레이더",
+    "ja": "関税・価格動向レーダー"
+  },
+  "② THINK": {
+    "ko": "② THINK (추론)",
+    "ja": "② THINK（思考・推論）"
+  },
+  "20-Yr Corp Memory": {
+    "ko": "20개년 엔터프라이즈 메모리",
+    "ja": "20年蓄積コーポレート・メモリー"
+  },
+  "8 AM c.a.n. Brief": {
+    "ko": "오전 8시 c.a.n. 브리프",
+    "ja": "毎朝8時 c.a.n. エグゼクティブ・ブリーフ"
+  },
+  "③ GOVERN": {
+    "ko": "③ 거버넌스 (GOVERN)",
+    "ja": "③ GOVERN（統制・ガバナンス）"
+  },
+  "Auto Tax/Customs": {
+    "ko": "세무/통관 자율 자동화",
+    "ja": "税務・通関自動処理"
+  },
+  "Vision AI Stock": {
+    "ko": "Vision AI 기반 재고 자산 최적화",
+    "ja": "Vision AI 在庫自律管理"
+  },
+  "④ CREATE": {
+    "ko": "④ 생성 및 구축 (CREATE)",
+    "ja": "④ CREATE（創出・生成）"
+  },
+  "Agent & Web Forge": {
+    "ko": "에이전트 & 웹 포지 (Agent & Web Forge)",
+    "ja": "エージェント＆Webフォージ（自律構築）"
+  },
+  "24h 6-Lang Cloning": {
+    "ko": "24시간 6개 국어 멀티 클로닝",
+    "ja": "24時間・6言語マルチクローニング"
+  },
+  "04. 🔺 media": {
+    "ko": "04. 🔺 미디어 (media)",
+    "ja": "04. 🔺 メディア（media）"
+  },
+  "$0 Ad-Tax Funnel": {
+    "ko": "$0 광고세(Ad-Tax) 탈피 전환 퍼널",
+    "ja": "広告コストゼロ（$0 Ad-Tax）ファネル"
+  },
+  "▼ DAYTIME COMMERCIAL DEPLOYMENT • DUAL REVENUE ENGINES ▼": {
+    "ko": "▼ 주간 상업화 전개 • 듀얼 수익 엔진 ▼",
+    "ja": "▼ 日中商用展開 • デュアル・レベニューエンジン ▼"
+  },
+  "TIER 03 • WHAT WE DELIVER (TWO LIVE CASHFLOW PLATFORMS)": {
+    "ko": "티어 03 • 핵심 실행 인도 자산 (실시간 현금흐름 창출 2대 플랫폼)",
+    "ja": "TIER 03 • 提供価値（稼働中の2大キャッシュフロー・プラットフォーム）"
+  },
+  "Goods Trading (Track A) + Enterprise AI & Fintech (Track B)": {
+    "ko": "실물 무역 트레이딩 (Track A) + 엔터프라이즈 AI & 핀테크 (Track B)",
+    "ja": "物品貿易事業（Track A）＋ エンタープライズAI＆フィンテック（Track B）"
+  },
+  "05. 🔺 scarlet-ai (Selling Goods)": {
+    "ko": "05. 🔺 scarlet-ai (실물 상품 판매)",
+    "ja": "05. 🔺 scarlet-ai（物品販売）"
+  },
+  "GM: 45% ~ 65%": {
+    "ko": "매출총이익률(GM): 45% ~ 65%",
+    "ja": "粗利率（GM）: 45%〜65%"
+  },
+  "🔸 ai global trade": {
+    "ko": "🔸 AI 글로벌 무역",
+    "ja": "🔸 AIグローバル貿易"
+  },
+  "t=0 B2B Clearing • K-SURE BNPL • Tech Trade": {
+    "ko": "t=0 B2B 실시간 결제·청산 • K-SURE BNPL • 기술 무역",
+    "ja": "t=0 B2Bクリアリング • K-SURE BNPL • テック貿易"
+  },
+  "🔸 ai marketplaces": {
+    "ko": "🔸 AI 마켓플레이스",
+    "ja": "🔸 AIマーケットプレイス"
+  },
+  "🔸 demand resell engine": {
+    "ko": "🔸 수요 기반 리셀 엔진",
+    "ja": "🔸 需要連動型リセールエンジン"
+  },
+  "SisCart (50% Deposit) • 70/30 Fee Cashback": {
+    "ko": "SisCart (선수금 50%) • 70/30 수수료 캐시백",
+    "ja": "SisCart（デポジット50%） • 70/30 手数料キャッシュバック"
+  },
+  "🔸 o2o fulfillment": {
+    "ko": "🔸 O2O 풀필먼트",
+    "ja": "🔸 O2Oフルフィルメント"
+  },
+  "On-Demand 3PL • Mint Colored Local Shops": {
+    "ko": "온디맨드 3PL • 민트 컬러 로컬 숍",
+    "ja": "オンデマンド3PL • ミントカラー・ローカルショップ"
+  },
+  "06. 🔺 qubit-biz (Selling Systems)": {
+    "ko": "06. 🔺 Qubit-Biz (판매 시스템)",
+    "ja": "06. 🔺 qubit-biz（販売システム基盤）"
+  },
+  "GM: 75% ~ 85%": {
+    "ko": "GM(매출총이익률): 75% ~ 85%",
+    "ja": "粗利率（GM）: 75%〜85%"
+  },
+  "🔸 enterprise os": {
+    "ko": "🔸 엔터프라이즈 OS",
+    "ja": "🔸 エンタープライズOS"
+  },
+  "🔸 venture factory": {
+    "ko": "🔸 벤처 팩토리",
+    "ja": "🔸 ベンチャーファクトリー"
+  },
+  "24h Web Builder • Marketplace Modules • Robotics": {
+    "ko": "24시간 웹 빌더 • 마켓플레이스 모듈 • 로보틱스",
+    "ja": "24時間Webビルダー • マーケットプレイスモジュール • ロボティクス"
+  },
+  "🔸 media engine": {
+    "ko": "🔸 미디어 엔진",
+    "ja": "🔸 メディアエンジン"
+  },
+  "Qubit Star Talent • Auto Marketing • Ads • Games": {
+    "ko": "Qubit Star Talent • 자동화 마케팅 • 광고 • 게임",
+    "ja": "Qubit Star Talent • 自動マーケティング • 広告 • ゲーム"
+  },
+  "🔸 quantum banks": {
+    "ko": "🔸 퀀텀 뱅크",
+    "ja": "🔸 クオンタムバンク"
+  },
+  "4-Way Barter Offsetting • Time/Space/Petfood Bank": {
+    "ko": "4자간 바터 상계 결제 • 시간/공간/펫푸드 뱅크",
+    "ja": "4者間バーター相殺決済 • 時間／空間／ペットフードバンク"
+  },
+  "▼ LIVE VERTICAL BRANDS, SHARED FACTORY & PARTNER NETWORK ▼": {
+    "ko": "▼ 라이브 버티컬 브랜드, 공유 팩토리 및 파트너 네트워크 ▼",
+    "ja": "▼ 稼働中バーティカルブランド、シェアードファクトリー＆パートナーネットワーク ▼"
+  },
+  "TIER 04 • LIVE BRAND CONSTELLATION, SHARED ODM HUB & GLOBAL ONBOARDING": {
+    "ko": "TIER 04 • 라이브 브랜드 콘스텔레이션, 공유 ODM 허브 및 글로벌 온보딩",
+    "ja": "TIER 04 • 稼働ブランド・コンステレーション、シェアードODMハブ＆グローバル・オンボーディング"
+  },
+  "Domains 07 to 12 • Open for Makers, Clinics, Talent & Investors": {
+    "ko": "도메인 07~12 • 메이커, 클리닉, 탤런트 및 투자자 대상 개방",
+    "ja": "ドメイン07〜12 • メーカー、クリニック、人材、投資家向け開放"
+  },
+  "07. 🔺 biz-galaxy (10 Vertical Brand Galaxies)": {
+    "ko": "07. 🔺 Biz-Galaxy (10대 버티컬 브랜드 갤럭시)",
+    "ja": "07. 🔺 biz-galaxy（10のバーティカル・ブランド・ギャラクシー）"
+  },
+  "Live Revenue Brands Running on the *SC Engine": {
+    "ko": "*SC 엔진 기반 실시간 수익 창출 브랜드 파이프라인",
+    "ja": "*SCエンジン駆動による実収益創出ブランド群"
+  },
+  "08. 🔺 biz-hub (Shared ODM & O2O Infrastructure)": {
+    "ko": "08. 🔺 biz-hub (공유형 ODM 및 O2O 인프라스트럭처)",
+    "ja": "08. 🔺 biz-hub（シェアードODM＆O2Oインフラストラクチャ）"
+  },
+  "Physical Sovereignty & Co-Manufacturing": {
+    "ko": "물리적 주권 및 협력 제조(Co-Manufacturing) 생태계",
+    "ja": "フィジカル・ソブリンティ（物理的主権）＆共同製造"
+  },
+  "Rp 1,320 Micro-Sachet ODM": {
+    "ko": "Rp 1,320 마이크로 샤셰(Micro-Sachet) ODM",
+    "ja": "Rp 1,320 マイクロサシェODM"
+  },
+  "Zero Wastage": {
+    "ko": "공정 무손실화(Zero Wastage)",
+    "ja": "廃棄ゼロ（Zero Wastage）"
+  },
+  "Mint Franchise": {
+    "ko": "민트 프랜차이즈(Mint Franchise)"
+  },
+  "Global Talent Network": {
+    "ko": "글로벌 핵심 인재 네트워크",
+    "ja": "グローバル・タレント・ネットワーク"
+  },
+  "30% Net Profit Share": {
+    "ko": "순이익 30% 성과 배분(Net Profit Share)",
+    "ja": "純利益30%レベニューシェア"
+  },
+  "$0 Fixed HR": {
+    "ko": "고정 인건비 $0 (Zero Fixed HR)",
+    "ja": "固定人件費ゼロ（$0 Fixed HR）"
+  },
+  "B2B Maker & Clinic Hub": {
+    "ko": "B2B 제조사 및 클리닉 허브",
+    "ja": "B2Bメーカー＆クリニック統合ハブ"
+  },
+  "$0 Entry Export": {
+    "ko": "진입 비용 $0 수출 모델",
+    "ja": "初期投資ゼロ（$0）でのグローバル輸出展開"
+  },
+  "8-Country Sales": {
+    "ko": "글로벌 8개국 직수출 및 판매망",
+    "ja": "世界8カ国同時販路展開"
+  },
+  "Institutional Capital": {
+    "ko": "기관 자본",
+    "ja": "機関投資家資本"
+  },
+  "*SC Index & SPVs": {
+    "ko": "*SC Index 및 SPV",
+    "ja": "*SC Index ＆ SPV（特別目的事業体）"
+  },
+  "Daily Public NAV": {
+    "ko": "일일 공시 NAV",
+    "ja": "日次公表NAV（純資産価値）"
+  },
+  "12. ▫️ biz-directory": {
+    "ko": "12. ▫️ 비즈니스 디렉터리",
+    "ja": "12. ▫️ ビジネスディレクトリ"
+  },
+  "Master Docs & Index": {
+    "ko": "마스터 문서 및 인덱스",
+    "ja": "マスタードキュメント＆インデックス"
+  },
+  "PDF Brochures": {
+    "ko": "PDF 브로슈어",
+    "ja": "PDF会社・製品案内資料"
+  },
+  "B2B Proposals": {
+    "ko": "B2B 제안서",
+    "ja": "B2B向け事業提案書"
+  },
+  "0% Stock Risk": {
+    "ko": "0% 재고 리스크",
+    "ja": "在庫リスク0%"
+  },
+  "50% Pre-Deposit Before Making": {
+    "ko": "생산 착수 전 50% 선수금 입금",
+    "ja": "製造着手前50%前受金決済"
+  },
+  "t = 0 Payout": {
+    "ko": "t = 0 즉시 정산",
+    "ja": "即時決済（t = 0 ペイアウト）"
+  },
+  "100% Cash at B/L via K-SURE BNPL": {
+    "ko": "K-SURE BNPL 기반 B/L 발행 즉시 100% 현금 정산",
+    "ja": "K-SURE BNPLを通じたB/L発行時100%即時現金化"
+  },
+  "70% Fee Rebate": {
+    "ko": "70% 수수료 리베이트",
+    "ja": "手数料70%リベート還元"
+  },
+  "PG Fee Saved & Returned to Buyers": {
+    "ko": "PG 수수료 절감 및 바이어 환원",
+    "ja": "削減PG手数料のバイヤー還元"
+  },
+  "24h ~ 72h Live": {
+    "ko": "24시간 ~ 72시간 내 라이브 배포",
+    "ja": "24〜72時間での実稼働ローンチ"
+  },
+  "6-Language Venture Cloning Speed": {
+    "ko": "6개 국어 벤처 클로닝 속도",
+    "ja": "6言語対応ベンチャークローニング展開速度"
+  },
+  "📌 THIS WEBSITE (SISTARCOMPANY.COM)": {
+    "ko": "📌 본 웹사이트 (SISTARCOMPANY.COM)",
+    "ja": "📌 当社公式ウェブサイト（SISTARCOMPANY.COM）"
+  },
+  "The Master Architecture & Blueprint Hub": {
+    "ko": "마스터 아키텍처 및 청사진 허브",
+    "ja": "マスターアーキテクチャ＆ブループリント・ハブ"
+  },
+  "Shows the complete picture, core rules, and 12-domain structure in one place.": {
+    "ko": "전체 청사진, 핵심 규약 및 12대 도메인 구조를 단일 공간에서 총체적으로 제시합니다.",
+    "ja": "全体像、中核原則、および12のドメイン構造を一元的に可視化・集約。"
+  },
+  "⚡ WHAT WE DELIVER (INDEPENDENT DOMAINS)": {
+    "ko": "⚡ 당사 실물 공급 자산 (독립 도메인)",
+    "ja": "⚡ 提供価値（独立ドメイン群）"
+  },
+  "Dedicated Live Commercial Platforms & Services": {
+    "ko": "특화된 실시간 상용화 플랫폼 및 서비스",
+    "ja": "稼働中の特化型商用プラットフォーム＆サービス"
+  },
+  "Actual trading, AI SaaS subscriptions, and brand storefronts run on their own independent domains.": {
+    "ko": "실제 무역 거래, AI SaaS 구독 및 브랜드 스토어프론트는 각자의 독립된 도메인에서 구동됩니다.",
+    "ja": "実商取引、AI SaaSサブスクリプション、およびブランドストアは、個別の独立ドメイン上で自律運用されます。"
+  },
+  "THE ULTIMATE TAKEAWAY • YOU DON'T NEED TO UNDERSTAND ALL THIS COMPLEXITY": {
+    "ko": "궁극적 핵심 제언 • 귀하께서 이 모든 복잡성을 직접 이해하실 필요는 없습니다",
+    "ja": "本質的要諦 • この複雑性のすべてを理解する必要はありません"
+  },
+  "01 • YOUR ONLY ROLE": {
+    "ko": "01 • 귀하의 유일한 역할",
+    "ja": "01 • 貴社が担う唯一の役割"
+  },
+  "02 • *SC CORE TECHNOLOGY": {
+    "ko": "02 • *SC 핵심 기술",
+    "ja": "02 • *SC コアテクノロジー"
+  },
+  "03 • YOUR PLAYGROUND": {
+    "ko": "03 • 귀하의 플레이그라운드",
+    "ja": "03 • 貴社が展開するビジネスフィールド"
+  },
+  "✨ Explore & Navigate the rest of the kindly introduced SISTAR Universe on the left menu to discover your next great inspiration!": {
+    "ko": "✨ 좌측 메뉴에 안내된 SISTAR Universe의 전 영역을 탐색 및 조망하시어, 차세대 비즈니스 영감을 발견하십시오!",
+    "ja": "✨ 左側メニューよりSISTAR Universeの全貌をご高覧・探索いただき、次なる革新的インスピレーションをお見出しください。"
+  },
+  "Exo-Brain & RAG": {
+    "ja": "Exo-Brain ＆ RAG"
+  },
+  "SISTAR Studio & Post": {
+    "ja": "SISTAR Studio ＆ ポストプロダクション"
+  },
+  "Ms. Scarlet Mall • mall.sisTV QR • Robot Market": {
+    "ja": "Ms. Scarlet Mall • mall.sisTV QR • ロボットマーケット"
+  },
+  "SISTAR MedIX (Vet)": {
+    "ja": "SISTAR MedIX（獣医療）"
+  },
+  "11. 🔹 ir-pitchdeck": {
+    "ja": "11. 🔹 IRピッチデック"
   }
 };
