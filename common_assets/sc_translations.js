@@ -13780,7 +13780,7 @@ window.SC_TRANSLATIONS = {
     "id": "Biz Qubit (Cosmo Seed™)",
     "vi": "Qubit Biz (Cosmo Seed™)",
     "zh-CN": "量子比特商业 (Cosmo Seed™)",
-    "ja": "Qubit Biz (Cosmo Seed™)"
+    "ja": "Qubit Biz（Cosmo Seed™）"
   },
   "Domain: qubit-biz.sistarcompany.com . Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
     "ko": "도메인: qubit-biz.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE 연계 BNPL 무역 금융, 4-Way Qubit Offsetting 물물교환, Qubit Bank(Time/Space/Idea/Petfood)를 총괄 통제합니다.",
@@ -18231,7 +18231,8 @@ window.SC_TRANSLATIONS = {
     "ko": "8개 운영 회랑 내의 제조업체, 수입업체, 병원 네트워크 및 소매 체인은 자체 해외 자회사나 AI 엔지니어링 팀을 구축할 필요 없이 sistar intl에 직접 연결할 수 있습니다.",
     "id": "Produsen, importir, jaringan rumah sakit, dan jaringan ritel di salah satu dari 8 koridor operasi kami dapat terhubung langsung ke sistar intl tanpa membangun anak perusahaan luar negeri atau tim teknik AI mereka sendiri.",
     "vi": "Các nhà sản xuất, nhà nhập khẩu, mạng lưới bệnh viện và chuỗi bán lẻ tại bất kỳ hành lang vận hành nào trong số 8 hành lang của chúng tôi đều có thể kết nối trực tiếp với sistar intl mà không cần xây dựng các công ty con ở nước ngoài hoặc đội ngũ kỹ thuật AI của riêng họ.",
-    "zh-CN": "我们 8 个运营走廊内的制造商、进口商、医院网络和零售连锁店可以直接接入 sistar intl，而无需建立自己的海外子公司或 AI 工程团队。"
+    "zh-CN": "我们 8 个运营走廊内的制造商、进口商、医院网络和零售连锁店可以直接接入 sistar intl，而无需建立自己的海外子公司或 AI 工程团队。",
+    "ja": "当社の8つの事業コリドー（事業回廊）内に存在するメーカー、輸入事業者、病院ネットワーク、小売チェーンは、自社で海外子会社やAIエンジニアリングチームを組成することなく、sistar intlへダイレクトにプラグイン（即時接続）することが可能です。"
   },
   "CHAPTER VI VC & LP INVESTMENT THESIS • REGIONAL ARBITRAGE MOAT": {
     "ko": "제6장 VC 및 LP 투자 논리 • 지역 간 차익거래 해자",
@@ -18881,7 +18882,8 @@ window.SC_TRANSLATIONS = {
     "ko": "컨테이너 물량 거래(첫 3회 선적 50% 보증금), SISTAR SOD(제로 재고 드롭쉬핑), 오프라인 도매업체, 인플루언서 I–III 및 S1–S6 프랜차이즈를 포함한 즉시 실행 가능한 상업 패키지.",
     "id": "Paket komersial siap eksekusi yang mencakup Kesepakatan Volume Kontainer (Deposit 50% untuk 3 Pengiriman Pertama), SISTAR SOD (Dropshipping Tanpa Inventaris), Pedagang Grosir Offline, Influencer I–III, dan Waralaba S1–S6.",
     "vi": "Các gói thương mại sẵn sàng thực thi bao gồm Giao dịch khối lượng container (Đặt cọc 50% cho 3 lô hàng đầu tiên), SISTAR SOD (Dropshipping không tồn kho), Nhà bán buôn ngoại tuyến, Influencer I–III và Nhượng quyền S1–S6.",
-    "zh-CN": "可立即执行的商业方案，涵盖集装箱批量交易（前 3 批货物 50% 定金）、SISTAR SOD（零库存代发货）、线下批发商、网红 I–III 以及 S1–S6 特许经营。"
+    "zh-CN": "可立即执行的商业方案，涵盖集装箱批量交易（前 3 批货物 50% 定金）、SISTAR SOD（零库存代发货）、线下批发商、网红 I–III 以及 S1–S6 特许经营。",
+    "ja": "コンテナ規模のボリューム取引（初回3回出荷分：50%頭金）、SISTAR SOD（無在庫ドロップシッピング）、オフライン卸売業者、インフルエンサーI–III、およびS1–S6フランチャイズを網羅する、即時執行可能な商用パッケージ群。"
   },
   "CHAPTER III ZERO-CAC MATHEMATICS • SISTAR STUDIO & SIGNAL STAR POST": {
     "ko": "제3장 제로 CAC 수학 • SISTAR STUDIO 및 SIGNAL STAR POST",
@@ -18922,7 +18924,8 @@ window.SC_TRANSLATIONS = {
     "ko": "국제 연합 내의 모든 연합 회원 및 파트너 거래는 우리의 통합 클라우드 콘솔과 기관 위험 방화벽에 의해 관리됩니다:",
     "id": "Setiap transaksi anggota aliansi dan mitra di dalam Aliansi Internasional diatur oleh konsol cloud terpadu dan firewall risiko institusional kami:",
     "vi": "Mọi giao dịch của thành viên liên minh và đối tác trong Liên minh Quốc tế đều được quản lý bởi bảng điều khiển đám mây hợp nhất và tường lửa rủi ro tổ chức của chúng tôi:",
-    "zh-CN": "国际联盟内的每一位联盟成员及合作伙伴交易均由我们的统一云控制台和机构风险防火墙进行管理："
+    "zh-CN": "国际联盟内的每一位联盟成员及合作伙伴交易均由我们的统一云控制台和机构风险防火墙进行管理：",
+    "ja": "Intl Alliance内におけるすべての提携メンバーおよびパートナー間取引は、統合クラウドコンソールと機関投資家基準のリスクファイアウォールによって厳格に統括・管理されます："
   },
   "Eight Entangled International Operational Bases & The Anti-Monopoly Alliance": {
     "ko": "8개의 얽힌 국제 운영 거점 및 반독점 연합",
@@ -26793,7 +26796,7 @@ window.SC_TRANSLATIONS = {
     "ja": "ハードカレンシー（USD/外貨）の流出を最大65%削減"
   },
   "Qubit Bank Ledger": {
-    "ja": "Qubit Bank Ledger",
+    "ja": "Qubit Bank 元帳",
     "vi": "Sổ cái ngân hàng Qubit",
     "zh-CN": "量子比特银行账本",
     "ko": "큐비트 은행 원장",
@@ -29464,7 +29467,7 @@ window.SC_TRANSLATIONS = {
     "id": "SC India (IndoHerbs), SC Korea Labs & SC Japan Bio",
     "vi": "SC India (IndoHerbs), SC Korea Labs & SC Japan Bio",
     "zh-CN": "SC India (IndoHerbs), SC Korea Labs & SC Japan Bio",
-    "ja": "SC India (IndoHerbs), SC Korea Labs & SC Japan Bio"
+    "ja": "SC India（IndoHerbs）、SC Korea LabsおよびSC Japan Bio"
   },
   "Auto-Formulator R1 (FP-06) & 100-Patent Origination": {
     "ko": "Auto-Formulator R1 (FP-06) 및 100건의 특허 창출",
@@ -29499,7 +29502,7 @@ window.SC_TRANSLATIONS = {
     "id": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio",
     "vi": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio",
     "zh-CN": "*SC 中国 (1688/深圳), TikTok/Shopee/Zalo & SISTAR Studio",
-    "ja": "*SC China (1688/Shenzhen), TikTok/Shopee/Zalo & SISTAR Studio"
+    "ja": "SC China（1688/Shenzhen）、TikTok/Shopee/ZaloおよびSISTAR Studio"
   },
   "Qubit Flow™ Arbitrage & Ms. Scarlet (FP-03)": {
     "ko": "Qubit Flow™ 차익 거래 및 Ms. Scarlet (FP-03)",
@@ -29884,7 +29887,7 @@ window.SC_TRANSLATIONS = {
     "id": "MATEMATIKA NOL-CAC • STUDIO SISTAR & POSTINGAN SINYAL STAR",
     "vi": "TOÁN HỌC ZERO-CAC • SISTAR STUDIO & SIGNAL STAR POST",
     "zh-CN": "零 CAC 数学 • SISTAR STUDIO 和 SIGNAL STAR POST",
-    "ja": "ZERO-CAC MATHEMATICS • SISTAR STUDIO & SIGNAL STAR POST"
+    "ja": "ZERO-CAC 数理モデル • SISTAR STUDIO & SIGNAL STAR POST"
   },
   "STRATEGIC SYNERGY • 12 DOMAINS & DUAL-TRACK FIREWALL": {
     "ko": "전략적 시너지 • 12개 도메인 및 듀얼 트랙 방화벽",
@@ -38669,7 +38672,7 @@ window.SC_TRANSLATIONS = {
     "id": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
     "vi": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
     "zh-CN": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second",
-    "ja": "Academic Foundation: Practical Solutions First, Quantum Mathematical Formalization Second"
+    "ja": "学術的基盤：実用的ソリューションの先行と量子数理的定式化の確立"
   },
   "This is by no means a contrived marketing buzzword that forces everyday business activities into the academic frame of quantum mechanics. Through more than 20 years of frontline international experience, we first identified deep structural pain points, agonized over practical solutions, and conducted exhaustive research into the path forward in the rapidly evolving AI paradigm to derive our real-world business solutions first. We then discovered that the core mechanics of these solutions align precisely with the fundamental laws of quantum mechanics that govern the universe—and united them to academically codify and mathematically quantify our solutions for the new era.": {
     "zh-CN": "这绝不是一个人为的营销流行语，将日常商业活动强加到量子力学的学术框架中。通过20多年的国际一线经验，我们首先识别了深层次的结构性痛点，苦苦寻找实用的解决方案，并对快速发展的人工智能范式的前进道路进行了详尽的研究，以首先得出我们的实际业务解决方案。然后我们发现，这些解决方案的核心力学与支配宇宙的量子力学基本定律完全一致，并将它们结合起来，在学术上对我们新时代的解决方案进行编纂和数学量化。",
@@ -67509,28 +67512,28 @@ window.SC_TRANSLATIONS = {
     "id": "Silicon Valley AI startups that only know how to write code do not understand customs friction, country-specific non-tariff barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
     "vi": "Silicon Valley AI startups that only know how to write code do not understand customs friction, country-specific non-tariff barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
     "zh-CN": "Silicon Valley AI startups that only know how to write code do not understand customs friction, country-specific non-tariff barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems.",
-    "ja": "Silicon Valley AI startups that only know how to write code do not understand customs friction, country-specific non-tariff barriers, working-capital crunches among local distributors, or the real pain points suffered by frontline market players. Conversely, traditional trading companies do not know how to architect autonomous AI systems."
+    "ja": "コードの記述のみに終始するシリコンバレーのAIスタートアップは、通関における摩擦、国ごとの非関税障壁、現地ディストリビューターの運転資金逼迫、あるいは最前線の市場プレイヤーが直面する真のペインポイントを理解していません。対照的に、旧態依然とした伝統的商社は、自律型AIシステムをアーキテクチャとして設計・実装する技術的知見を欠いています。"
   },
   "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this problem in the AI era.": {
     "ko": "저희는 지난 20년 이상 해외 현지에 직접 거주하며 국제 무역과 글로벌 비즈니스 개발(BD)을 최전선에서 지휘해 왔습니다. 한국, 인도네시아, 베트남, 싱가포르, 중국, 일본, 미국, 인도 등 8대 거점(SISTAR Int'l)의 플레이어들이 왜 좋은 제품을 가지고도 자금과 유통의 벽에 막혀 무너지는지 뼈저리게 목격했고, AI 시대에 이 문제를 어떻게 풀어야 할지 치열하게 고민해 왔습니다.",
     "id": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this problem in the AI era.",
     "vi": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this problem in the AI era.",
     "zh-CN": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this problem in the AI era.",
-    "ja": "For over 20 years, we have lived overseas on the ground, leading international trade and global business development (BD) from the front lines. Across our 8 strategic global bases (SISTAR Int'l — Korea, Indonesia, Vietnam, Singapore, China, Japan, the USA, and India), we witnessed firsthand why capable players with superior products collapse against walls of capital and distribution, and we dedicated years to solving this problem in the AI era."
+    "ja": "私たちは20年以上にわたり海外現地に身を置き、最前線で国際貿易およびグローバル事業開発（BD）を牽引してまいりました。世界8大戦略拠点（SISTAR Int'l — 韓国、インドネシア、ベトナム、シンガポール、中国、日本、米国、インド）での実践を通じ、優れたプロダクトを有する実力派プレイヤーが資本と流通の壁に阻まれて淘汰されていく現実を幾度となく目の当たりにし、この課題をAI時代において抜本的に解決すべく長年にわたり尽力してまいりました。"
   },
   "Humans Focus Only on Ideas and Insights; AI Executes Operations and Management 24/7 (Vibe Working): When a single directive is issued via c.a.n. (CEO ActionNote), our corporate knowledge brain (Company RAG), autonomous management ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, settlements, and 10 daily multilingual marketing packages per project.": {
     "ko": "인간은 오직 아이디어와 인사이트에만 집중하고, 실무와 관리는 24시간 AI가 수행합니다 (Vibe Working): 대표의 한 줄 지시(c.a.n. CEO ActionNote)가 떨어지면, 사내 지식 뇌(Company RAG)와 자율 경영 원장(Qubit ERP), 그리고 밤 10시부터 아침 8시까지 스스로 돌아가는 심야 데이터 팩토리(Overnight Data Factory)와 SISTAR Studio가 기획서, 정산, 프로젝트별 일일 10종의 다국어 마케팅 패키지까지 자동으로 완성합니다.",
     "id": "Humans Focus Only on Ideas and Insights; AI Executes Operations and Management 24/7 (Vibe Working): When a single directive is issued via c.a.n. (CEO ActionNote), our corporate knowledge brain (Company RAG), autonomous management ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, settlements, and 10 daily multilingual marketing packages per project.",
     "vi": "Humans Focus Only on Ideas and Insights; AI Executes Operations and Management 24/7 (Vibe Working): When a single directive is issued via c.a.n. (CEO ActionNote), our corporate knowledge brain (Company RAG), autonomous management ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, settlements, and 10 daily multilingual marketing packages per project.",
     "zh-CN": "Humans Focus Only on Ideas and Insights; AI Executes Operations and Management 24/7 (Vibe Working): When a single directive is issued via c.a.n. (CEO ActionNote), our corporate knowledge brain (Company RAG), autonomous management ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, settlements, and 10 daily multilingual marketing packages per project.",
-    "ja": "Humans Focus Only on Ideas and Insights; AI Executes Operations and Management 24/7 (Vibe Working): When a single directive is issued via c.a.n. (CEO ActionNote), our corporate knowledge brain (Company RAG), autonomous management ledger (Qubit ERP), Overnight Data Factory (10 PM - 8 AM), and SISTAR Studio automatically complete PRDs, settlements, and 10 daily multilingual marketing packages per project."
+    "ja": "人間はアイデアとインサイトのみに集中し、AIが24時間365日オペレーションとマネジメントを執行（Vibe Working）：c.a.n.（CEO ActionNote）を介して単一のディレクティブが発令されると、企業知能ブレイン（Company RAG）、自律型経営元帳（Qubit ERP）、Overnight Data Factory（22:00〜翌朝8:00）、そしてSISTAR Studioが、各プロジェクトのPRD（製品要求仕様書）、決済処理、日次10件の多言語マーケティングパッケージを完全自動で完結させます。"
   },
   "The 15 Founder Projects Are Not Scattered Ventures, But a Foundational Capability Multiplier: Our initial 15 projects are precision-engineered to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary data in high-margin veterinary and bio-health specialties where we hold 20 years of know-how, and (3) scale into global AI trade platforms and a Daily Launching Factory.": {
     "ko": "15개의 Founder Projects는 문어발이 아니라 ‘기초 체력 완성 장치’입니다: 초기 15개 프로젝트는 ① 우리의 자체 AI·ERP 운영체제를 완벽히 내재화(관리 비용 100% 절감)하고, ② 저희가 20년 노하우를 가진 가장 확실한 고수익 시장(수의·바이오 스페셜티)에서 즉각적인 캐시카우와 독점 데이터를 창출하며, ③ 이를 글로벌 AI 무역 플랫폼과 일일 런칭 팩토리로 폭발시키기 위해 가장 시너지가 높은 핵심 노드들만 정밀하게 맞물려 놓은 것입니다.",
     "id": "The 15 Founder Projects Are Not Scattered Ventures, But a Foundational Capability Multiplier: Our initial 15 projects are precision-engineered to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary data in high-margin veterinary and bio-health specialties where we hold 20 years of know-how, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
     "vi": "The 15 Founder Projects Are Not Scattered Ventures, But a Foundational Capability Multiplier: Our initial 15 projects are precision-engineered to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary data in high-margin veterinary and bio-health specialties where we hold 20 years of know-how, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
     "zh-CN": "The 15 Founder Projects Are Not Scattered Ventures, But a Foundational Capability Multiplier: Our initial 15 projects are precision-engineered to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary data in high-margin veterinary and bio-health specialties where we hold 20 years of know-how, and (3) scale into global AI trade platforms and a Daily Launching Factory.",
-    "ja": "The 15 Founder Projects Are Not Scattered Ventures, But a Foundational Capability Multiplier: Our initial 15 projects are precision-engineered to: (1) fully internalize our proprietary AI/ERP operating system (100% admin cost savings), (2) generate immediate cashflow and proprietary data in high-margin veterinary and bio-health specialties where we hold 20 years of know-how, and (3) scale into global AI trade platforms and a Daily Launching Factory."
+    "ja": "15件のファウンダープロジェクトは散発的なベンチャーではなく、基盤能力の相乗的増幅器（Multiplier）：当初の15プロジェクトは、(1) 独自AI/ERPオペレーティングシステムの完全内製化（管理コスト100%削減）、(2) 20年にわたるノウハウを有する高収益な獣医・バイオヘルス専門領域における即時キャッシュフローおよび独自データの創出、(3) グローバルAI貿易プラットフォームおよびDaily Launching Factoryへのスケーリング、を達成するために精密設計されています。"
   },
   "3. A New Window of Opportunity to Match Giant Platforms — Global Alliance & A New Standard of Work": {
     "ko": "3. 거대 플랫폼과 대등한 퍼포먼스를 내는 새로운 기회의 창 — 『글로벌 연대(Global Alliance)와 새로운 일하는 표준』",
@@ -67544,7 +67547,7 @@ window.SC_TRANSLATIONS = {
     "id": "Today's AI and commerce industries are led by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and local players to struggle alone under heavy platform fees and marketing costs.",
     "vi": "Today's AI and commerce industries are led by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and local players to struggle alone under heavy platform fees and marketing costs.",
     "zh-CN": "Today's AI and commerce industries are led by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and local players to struggle alone under heavy platform fees and marketing costs.",
-    "ja": "Today's AI and commerce industries are led by a handful of global Big-Tech platforms backed by astronomical capital, leaving independent SME manufacturers and local players to struggle alone under heavy platform fees and marketing costs."
+    "ja": "現代のAIおよびコマース産業は、天文学的な資本力を誇る一握りのグローバル・ビッグテック・プラットフォームに支配されており、独立系中小メーカーや地域プレイヤーは過重なプラットフォーム手数料と高騰するマーケティングコストの下で孤軍奮闘を強いられています。"
   },
   "However, *SC's perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.": {
     "ko": "하지만 저희의 시각은 다릅니다. 거대 플랫폼과 소모적으로 싸워 이기자는 전략이 아닙니다. 오히려 AI와 양자 알고리즘의 결합으로 인해, 개별 플레이어들이 연대(Alliance)하기만 하면 막대한 자본 없이도 거대 플랫폼과 대등한—심지어 그 이상의—글로벌 퍼포먼스를 낼 수 있는 역사적 기회의 창이 열렸다는 것입니다. (Int'l Alliance)",
@@ -67558,14 +67561,14 @@ window.SC_TRANSLATIONS = {
     "id": "To turn this opportunity into reality for every partner, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture) where every participant generates immediate revenue and synergy from their respective position:",
     "vi": "To turn this opportunity into reality for every partner, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture) where every participant generates immediate revenue and synergy from their respective position:",
     "zh-CN": "To turn this opportunity into reality for every partner, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture) where every participant generates immediate revenue and synergy from their respective position:",
-    "ja": "To turn this opportunity into reality for every partner, *SC has completed our 6-Layer, 12-Domain Enterprise Architecture (SC Architecture) where every participant generates immediate revenue and synergy from their respective position:"
+    "ja": "この機会をすべてのパートナーにおいて具現化するため、*SC は、各参画者がそれぞれの事業ポジションから即座に収益とシナジーを創出可能な「6レイヤー・12ドメイン・エンタープライズ・アーキテクチャ（SC Architecture）」を確立・完遂いたしました："
   },
   "Core Brain & Mathematical Law (Layers 1 & 2): Above our group flagship sc-sistarcompany and mathematical engine qubit-algorithm, our AI engine room intelligence-core operates 24/7.": {
     "ko": "핵심 두뇌와 법칙 (Layer 1 & 2): 그룹 본산인 sc-sistarcompany 와 수리적 엔진 qubit-algorithm 위에, 모든 AI 핵심 기술 자산이 집약된 엔진룸 intelligence-core 가 24시간 가동됩니다.",
     "id": "Core Brain & Mathematical Law (Layers 1 & 2): Above our group flagship sc-sistarcompany and mathematical engine qubit-algorithm, our AI engine room intelligence-core operates 24/7.",
     "vi": "Core Brain & Mathematical Law (Layers 1 & 2): Above our group flagship sc-sistarcompany and mathematical engine qubit-algorithm, our AI engine room intelligence-core operates 24/7.",
     "zh-CN": "Core Brain & Mathematical Law (Layers 1 & 2): Above our group flagship sc-sistarcompany and mathematical engine qubit-algorithm, our AI engine room intelligence-core operates 24/7.",
-    "ja": "Core Brain & Mathematical Law (Layers 1 & 2): Above our group flagship sc-sistarcompany and mathematical engine qubit-algorithm, our AI engine room intelligence-core operates 24/7."
+    "ja": "コアブレインおよび数学的法則（Layer 1 & 2）：グループの中核旗艦であるsc-sistarcompanyおよび数理エンジンqubit-algorithmの基盤上で、AIエンジンルームintelligence-coreが24時間365日稼働します。"
   },
   "scarlet-ai (AI Commerce & Trade Int'l): Function- and industry-specific marketplaces breaking through capital and inventory limits via Volume-Wise Deals, Collective Group Buying (Buy4Me), K-SURE backed BNPL, and 70/30 PG Fee Cashback.": {
     "ko": "scarlet-ai (AI Commerce & Trade Int'l): Volume-Wise Deal(물량 연동 딜), 집단 공동구매(Buy4Me), 수출보험 연계 후불결제(K-SURE BNPL), PG 수수료 70/30 캐시백을 통해 기존 무역의 자금·재고 한계를 정면으로 돌파하는 기능별·산업별 마켓플레이스입니다.",
@@ -67579,7 +67582,7 @@ window.SC_TRANSLATIONS = {
     "id": "qubit-biz (Cosmo Seed™ Showcase): An open showcase platform demonstrating how a single idea (One Spark) grows into a business project and creates cross-project synergy—allowing any partner to immediately transplant these business models into their own enterprise.",
     "vi": "qubit-biz (Cosmo Seed™ Showcase): An open showcase platform demonstrating how a single idea (One Spark) grows into a business project and creates cross-project synergy—allowing any partner to immediately transplant these business models into their own enterprise.",
     "zh-CN": "qubit-biz (Cosmo Seed™ Showcase): An open showcase platform demonstrating how a single idea (One Spark) grows into a business project and creates cross-project synergy—allowing any partner to immediately transplant these business models into their own enterprise.",
-    "ja": "qubit-biz (Cosmo Seed™ Showcase): An open showcase platform demonstrating how a single idea (One Spark) grows into a business project and creates cross-project synergy—allowing any partner to immediately transplant these business models into their own enterprise."
+    "ja": "qubit-biz（Cosmo Seed™ Showcase）：単一のアイデア（One Spark）がいかにして事業プロジェクトへと結実し、プロジェクト横断的なシナジーを創出するかを実証するオープンショーケースプラットフォーム。すべてのパートナー企業は、これらのビジネスモデルを自社事業へ即座に移植・展開することが可能です。"
   },
   "biz-galaxy (Shining Vertical Stars): A vast business galaxy where industry players across Veterinary/Bio-Health (MedIX, SISPet, SISPharm), EdTech, and Wellness fulfill their roles, shine as individual stars, and exchange business inspiration.": {
     "ko": "biz-galaxy (Shining Vertical Stars): 수의·바이오(MedIX, SISPet, SISPharm), 에듀테크, 웰니스 등 각 산업의 플레이어들이 각자의 역할을 수행하며 반짝이는 별처럼 소개되고 사업적 영감을 주고받는 거대한 은하계입니다.",
@@ -67593,7 +67596,7 @@ window.SC_TRANSLATIONS = {
     "id": "biz-hub (\"Together Gets Stronger\"): The gravitational center solving problems no single enterprise can tackle alone (Auto-Formulator for Vet, Indonesia Rp 1,320 micro-sachet joint ODM, logistics Space Sharing) through shared values and infrastructure.",
     "vi": "biz-hub (\"Together Gets Stronger\"): The gravitational center solving problems no single enterprise can tackle alone (Auto-Formulator for Vet, Indonesia Rp 1,320 micro-sachet joint ODM, logistics Space Sharing) through shared values and infrastructure.",
     "zh-CN": "biz-hub (\"Together Gets Stronger\"): The gravitational center solving problems no single enterprise can tackle alone (Auto-Formulator for Vet, Indonesia Rp 1,320 micro-sachet joint ODM, logistics Space Sharing) through shared values and infrastructure.",
-    "ja": "biz-hub (\"Together Gets Stronger\"): The gravitational center solving problems no single enterprise can tackle alone (Auto-Formulator for Vet, Indonesia Rp 1,320 micro-sachet joint ODM, logistics Space Sharing) through shared values and infrastructure."
+    "ja": "biz-hub（「Together Gets Stronger」）：共有された価値観とインフラストラクチャを通じ、単独の企業では解決不可能な課題（獣医療向けAuto-Formulator、インドネシア向け1,320ルピア・マイクロサシェ共同ODM、物流Space Sharing等）を解決する重力中心（Gravitational Center）。"
   },
   "challengers (International SISTAR Family): Global talent family participating voluntarily as players through Vibe Working to build careers and share profits—far beyond mere employees or freelancers.": {
     "ko": "challengers (International SISTAR Family): 단순 직원이나 프리랜서가 아니라, ‘Vibe Working’을 통해 자발적 플레이어로 참여해 커리어를 쌓고 수익을 공유하는 글로벌 인재 패밀리입니다.",
@@ -67607,21 +67610,21 @@ window.SC_TRANSLATIONS = {
     "id": "partnership (Business Partners): Partnership gateway motivating manufacturers, distributors, veterinary clinics, and brands to immediately expand revenue and global sales channels.",
     "vi": "partnership (Business Partners): Partnership gateway motivating manufacturers, distributors, veterinary clinics, and brands to immediately expand revenue and global sales channels.",
     "zh-CN": "partnership (Business Partners): Partnership gateway motivating manufacturers, distributors, veterinary clinics, and brands to immediately expand revenue and global sales channels.",
-    "ja": "partnership (Business Partners): Partnership gateway motivating manufacturers, distributors, veterinary clinics, and brands to immediately expand revenue and global sales channels."
+    "ja": "partnership（ビジネスパートナー）：製造業者、ディストリビューター、動物病院、ブランド企業が即座に収益基盤とグローバル販売チャネルを拡大するためのパートナーシップゲートウェイ。"
   },
   "ir-pitchdeck (Investors & VCs): Investment conviction hub transparently presenting diverse investment tracks—from holding equity to project SPVs and country JVs—and proven profit models.": {
     "ko": "ir-pitchdeck (Investors & VCs): 지주사 지분 투자부터 개별 프로젝트 SPV, 국가별 JV까지 다양한 투자 트랙과 검증된 수익 모델을 투명하게 제시하는 투자 확신 공간입니다.",
     "id": "ir-pitchdeck (Investors & VCs): Investment conviction hub transparently presenting diverse investment tracks—from holding equity to project SPVs and country JVs—and proven profit models.",
     "vi": "ir-pitchdeck (Investors & VCs): Investment conviction hub transparently presenting diverse investment tracks—from holding equity to project SPVs and country JVs—and proven profit models.",
     "zh-CN": "ir-pitchdeck (Investors & VCs): Investment conviction hub transparently presenting diverse investment tracks—from holding equity to project SPVs and country JVs—and proven profit models.",
-    "ja": "ir-pitchdeck (Investors & VCs): Investment conviction hub transparently presenting diverse investment tracks—from holding equity to project SPVs and country JVs—and proven profit models."
+    "ja": "ir-pitchdeck（投資家およびVC向け）：持株会社のエクイティからプロジェクト別SPV、国別JVに至る多様な投資トラックと、実証済みの収益モデルを透明性をもって提示するインベストメント・コンビクション・ハブ。"
   },
   "biz-directory & media: Category-by-category open B2B proposal directory and daily automated media archive (SISTAR Studio & The SIGNAL STAR Post) driving liquidity and amplification across the entire ecosystem.": {
     "ko": "biz-directory & media: 카테고리별 오픈 B2B 제안 디렉토리와 일일 10종의 자동화 미디어 아카이브(SISTAR Studio & The SIGNAL STAR Post)가 생태계 전체의 유동성과 확산을 책임집니다.",
     "id": "biz-directory & media: Category-by-category open B2B proposal directory and daily automated media archive (SISTAR Studio & The SIGNAL STAR Post) driving liquidity and amplification across the entire ecosystem.",
     "vi": "biz-directory & media: Category-by-category open B2B proposal directory and daily automated media archive (SISTAR Studio & The SIGNAL STAR Post) driving liquidity and amplification across the entire ecosystem.",
     "zh-CN": "biz-directory & media: Category-by-category open B2B proposal directory and daily automated media archive (SISTAR Studio & The SIGNAL STAR Post) driving liquidity and amplification across the entire ecosystem.",
-    "ja": "biz-directory & media: Category-by-category open B2B proposal directory and daily automated media archive (SISTAR Studio & The SIGNAL STAR Post) driving liquidity and amplification across the entire ecosystem."
+    "ja": "biz-directory & media：エコシステム全体における流動性の向上と事業拡張を牽引する、カテゴリー別オープンB2B提案ディレクトリおよび日次自動生成メディアアーカイブ（SISTAR StudioおよびThe SIGNAL STAR Post）。"
   },
   "4. Join Us Not as a Spectator, But as a Leading Star of the New Business Galaxy": {
     "ko": "4. 새로운 은하계의 주역(Star)으로 함께해 주십시오",
@@ -67642,14 +67645,14 @@ window.SC_TRANSLATIONS = {
     "id": "To Business Partners: Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously. (Explore Partnership ->)",
     "vi": "To Business Partners: Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously. (Explore Partnership ->)",
     "zh-CN": "To Business Partners: Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously. (Explore Partnership ->)",
-    "ja": "To Business Partners: Stop bearing heavy marketing expenses, inventory risks, and overseas expansion costs alone. Step onto *SC's Scarlet-AI and Biz-Hub. The moment your outstanding products and capabilities meet our AI engine, you will experience the quantum entanglement synergy of 8 global markets opening simultaneously. (Explore Partnership ->)"
+    "ja": "ビジネスパートナーの皆様へ：莫大なマーケティング費用、在庫リスク、海外展開コストを単独で負担する時代は終わりました。*SCのScarlet-AIおよびBiz-Hubへご参画ください。貴社の卓越したプロダクトとケイパビリティが当社のAIエンジンと結合した瞬間、世界8大市場が同時展開される量子もつれ的シナジーを体験いただけます。（パートナーシップ詳細はこちら ->）"
   },
   "To VCs & Institutional Investors: Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal fixed overhead via AI while simultaneously generating high-margin B2B AI solutions (75%~85% margin) and physical global trade cashflows (45%~65% margin). (Explore IR Pitchdeck ->)": {
     "ko": "VC 및 투자자 여러분께: 단일 아이템 하나에 도박을 거는 스타트업이 아니라, 내부 고정비를 AI로 100% 절감하면서 고수익 B2B AI 솔루션(마진 75~85%)과 실물 글로벌 교역 캐시카우(마진 45~65%)를 동시에 창출하는 ‘실패할 수 없는 양자 지주 아키텍처’에 투자하십시오. (IR Pitchdeck 바로가기 ->)",
     "id": "To VCs & Institutional Investors: Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal fixed overhead via AI while simultaneously generating high-margin B2B AI solutions (75%~85% margin) and physical global trade cashflows (45%~65% margin). (Explore IR Pitchdeck ->)",
     "vi": "To VCs & Institutional Investors: Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal fixed overhead via AI while simultaneously generating high-margin B2B AI solutions (75%~85% margin) and physical global trade cashflows (45%~65% margin). (Explore IR Pitchdeck ->)",
     "zh-CN": "To VCs & Institutional Investors: Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal fixed overhead via AI while simultaneously generating high-margin B2B AI solutions (75%~85% margin) and physical global trade cashflows (45%~65% margin). (Explore IR Pitchdeck ->)",
-    "ja": "To VCs & Institutional Investors: Invest not in a single-item startup gamble, but in an unassailable Quantum Holding Architecture that eliminates 100% of internal fixed overhead via AI while simultaneously generating high-margin B2B AI solutions (75%~85% margin) and physical global trade cashflows (45%~65% margin). (Explore IR Pitchdeck ->)"
+    "ja": "VCおよび機関投資家の皆様へ：単一プロダクト依存の不確実なスタートアップへの投機ではなく、AIにより社内固定費を100%排除しつつ、高マージンなB2B AIソリューション（利益率75%〜85%）と実体経済におけるグローバルトレードのキャッシュフロー（利益率45%〜65%）を同時創出する、極めて強固なQuantum Holding Architectureへの戦略的投資をご検討ください。（IR Pitchdeckを閲覧 ->）"
   },
   "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.": {
     "ko": "하나의 작은 불꽃(One Spark)이 거대한 비즈니스 은하계(Infinite Galaxifying)로 팽창하는 이 가슴 뛰는 여정에, 대표님을 가장 중요한 파트너이자 가족으로 정중히 초대합니다.",
@@ -67663,7 +67666,7 @@ window.SC_TRANSLATIONS = {
     "id": "ceo, dennii ku",
     "vi": "ceo, dennii ku",
     "zh-CN": "ceo, dennii ku",
-    "ja": "ceo, dennii ku"
+    "ja": "CEO, dennii ku"
   },
   "CEO COMMENTS & EXECUTIVE INTRODUCTION": {
     "ko": "CEO 코멘트 및 경영진 소개",
@@ -67719,28 +67722,28 @@ window.SC_TRANSLATIONS = {
     "id": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
     "vi": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
     "zh-CN": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting).",
-    "ja": "Quantum Entanglement (One Task, Multi Outcomes): This is the core answer to 'how we manage all of these projects simultaneously.' Data generated or a single decision executed in Project A (One Task) instantaneously determines the outcomes of entangled Project B (regulatory & clinical formulation), Project C (global B2B purchase orders), and Project D (10 daily multilingual marketing assets). Redundant labor and wasted data converge to zero (Zero-Wasting)."
+    "ja": "量子もつれ（One Task, Multi Outcomes）：「いかにしてこれら全プロジェクトを同時並行で統治・管理するのか」という問いに対する核心的回答です。プロジェクトAにおけるデータ生成あるいは単一の意思決定（One Task）が、エンタングル（量子もつれ結合）されたプロジェクトB（薬事規制・臨床処方設計）、プロジェクトC（グローバルB2B購買発注）、プロジェクトD（日次10件の多言語マーケティングアセット）の成果物を瞬時に決定付けます。重複労働およびデータの散逸・浪費はゼロへと収斂します（Zero-Wasting）。"
   },
   "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.": {
     "ko": "하지만 저희의 시각은 다릅니다. 거대 플랫폼과 소모적으로 싸워 이기자는 전략이 아닙니다. 오히려 AI와 양자 알고리즘의 결합으로 인해, 개별 플레이어들이 연대(Alliance)하기만 하면 막대한 자본 없이도 거대 플랫폼과 대등한—심지어 그 이상의—글로벌 퍼포먼스를 낼 수 있는 역사적 기회의 창이 열렸다는 것입니다. (Int'l Alliance)",
     "id": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
     "vi": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
     "zh-CN": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital.",
-    "ja": "However, our perspective is different. Our strategy is not to wage an exhausting war against giant platforms. Rather, through the convergence of AI and the Qubit Algorithm™, a historic window of opportunity has opened where independent market players—simply by uniting in solidarity (Int'l Alliance)—can generate global performance on par with, or even surpassing, giant platforms without requiring massive capital."
+    "ja": "しかし、我々の見解は一線を画します。我々の戦略は、巨大プラットフォームとの消耗戦を挑むことではありません。むしろ、AIと Qubit Algorithm™ の融合によって、独立系市場プレイヤーが国際連帯（Int'l Alliance）を組むだけで、巨額の資本を投じることなく巨大プラットフォームと同等、あるいはそれ以上のグローバル成果を創出できる歴史的転換点（Window of Opportunity）が到来したのです。"
   },
   "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.": {
     "ko": "'이 많은 것을 어떻게 다 할 수 있느냐'는 질문에 대한 저희의 대답은 이미 말과 글이 아닌 살아 움직이는 시스템으로 증명되어 있습니다. 지금 보고 계신 이 12개 도메인의 방대한 아키텍처와 6개 국어 시스템, 그리고 매일 밤 가동되는 AI 데이터 팩토리 자체가 바로 저희가 만든 Qubit Algorithm™과 Vibe Working 방식으로 탄생한 첫 번째 실증 결과물이기 때문입니다.",
     "id": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
     "vi": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
     "zh-CN": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm.",
-    "ja": "Our answer to 'how can you possibly do all of this?' is already proven not merely in words, but as a living, breathing system. The vast 12-domain architecture, 6-language system, and overnight AI data factory you are looking at right now are the very first empirical proof born from our Qubit Algorithm™ and Vibe Working paradigm."
+    "ja": "「これらすべてをいかにして実現するのか？」という問いに対する我々の回答は、単なるビジョンではなく、現に稼働する生きたシステムとして実証されています。皆様が今ご覧になっている広大な12ドメイン・アーキテクチャ、6言語対応システム、そして夜間自動AIデータファクトリーこそが、我々の Qubit Algorithm™ と Vibe Working パラダイムから生み出された最初の実証的証左（Empirical Proof）に他なりません。"
   },
   "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"": {
     "ko": "하나의 작은 불꽃(One Spark)이 거대한 비즈니스 은하계(Infinite Galaxifying)로 팽창하는 이 가슴 뛰는 여정에, 대표님을 가장 중요한 파트너이자 가족으로 정중히 초대합니다.\"",
     "id": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
     "vi": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
     "zh-CN": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\"",
-    "ja": "We cordially invite you to join this thrilling journey—where a single small spark (One Spark) expands into a vast business galaxy (Infinite Galaxifying)—as our most valued partner and family member.\""
+    "ja": "一つの小さな火花（One Spark）が広大なビジネス銀河（Infinite Galaxifying）へと拡散・進化していくこの劇的な航海へ、最も尊崇するパートナー、そしてファミリーとしてご参画いただけますよう、謹んでご案内申し上げます。"
   },
   "The Strategic Mandate: Zero Sunk-Capex Content Architecture": {
     "ko": "전략적 명령: 매몰 자본 지출 제로(Zero Sunk-Capex) 콘텐츠 아키텍처",
@@ -76118,28 +76121,36 @@ window.SC_TRANSLATIONS = {
     "ko": "One Spark -> 무한한 은하계적 확장"
   },
   "Domain: qubitalgorithm.sistarcompany.com. Publishes our mathematical physics whitepapers, Hilbert-space superposition models, Bell-state entanglement triggers, and WKB tunneling proofs.": {
-    "ko": "도메인: qubit-algorithm.sistarcompany.com. 당사의 수리 물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거 및 WKB 터널링 증명을 게시합니다."
+    "ko": "도메인: qubit-algorithm.sistarcompany.com. 당사의 수리 물리학 백서, 힐베르트 공간 중첩 모델, 벨 상태 얽힘 트리거 및 WKB 터널링 증명을 게시합니다.",
+    "ja": "ドメイン：qubitalgorithm.sistarcompany.com。数理物理学ホワイトペーパー、ヒルベルト空間重ね合わせモデル、ベル状態エンタングルメント・トリガー、WKBトンネル効果の数学的証明を公開。"
   },
   "• Clinical K-Beauty & Mind Wellness (sismii & sistar mind company): Formulation and global licensing of derma-cosmetic lines and AI-driven behavioral wellness platforms.": {
-    "ko": "• 클리니컬 K-뷰티 및 마인드 웰니스 ( sismii & sistar mind company ): 더마 코스메틱 라인 포뮬레이션 및 글로벌 라이선싱, AI 기반 행동 웰니스 플랫폼 전개."
+    "ko": "• 클리니컬 K-뷰티 및 마인드 웰니스 ( sismii & sistar mind company ): 더마 코스메틱 라인 포뮬레이션 및 글로벌 라이선싱, AI 기반 행동 웰니스 플랫폼 전개.",
+    "ja": "• クリニカルK-Beauty＆マインドウェルネス（sismiiおよびsistar mind company）：ダーマコスメティクス製品群の処方開発・グローバルライセンシング、ならびにAI主導型行動ウェルネスプラットフォームの展開。"
   },
   "sistar company indonesia (sc indonesia / SCI) is our flagship Southeast Asian commercial powerhouse and primary empirical proving ground for the Qubit Algorithm™. Anchored in Indonesia's massive consumer, agricultural, and veterinary markets, sc indonesia demonstrates how an AI-native operation bypasses traditional regulatory friction, importer markups, and working-capital bottlenecks.": {
-    "ko": "sistar company indonesia (sc indonesia / SCI)는 당사의 플래그십 동남아시아 커머스 파워하우스이자 Qubit Algorithm™의 핵심 실증 시험장입니다. 인도네시아의 거대한 소비재, 농업 및 동물의약품 시장에 닻을 내린 sc indonesia는 AI-Native 운영 체계가 어떻게 기존의 인허가 마찰, 수입업자 마진 폭리, 운전자본 병목 현상을 우회하는지 명확히 증명합니다."
+    "ko": "sistar company indonesia (sc indonesia / SCI)는 당사의 플래그십 동남아시아 커머스 파워하우스이자 Qubit Algorithm™의 핵심 실증 시험장입니다. 인도네시아의 거대한 소비재, 농업 및 동물의약품 시장에 닻을 내린 sc indonesia는 AI-Native 운영 체계가 어떻게 기존의 인허가 마찰, 수입업자 마진 폭리, 운전자본 병목 현상을 우회하는지 명확히 증명합니다.",
+    "ja": "sistar company indonesia (sc indonesia / SCI) は、当社の東南アジアにおける旗艦コマーシャル・パワーハウスであり、Qubit Algorithm™の主要な実証実験拠点（プル―ビング・グラウンド）です。インドネシアの巨大な消費財・農業・動物薬市場に深く根ざし、sc indonesiaはAIネイティブなオペレーションが従来の規制摩擦、輸入業者のマージン上乗せ、運転資本のボトルネックをいかに回避・解消するかを実証しています。"
   },
   "• Dual-Stream ODM & Localized Sachet Packaging (sispharm & sistar medix): Combines finished product direct import with bulk raw material import and local GMP sachet repacking (such as Zeelice and herbal poultry biologics), achieving unmatched price competitiveness for local farms and clinics.": {
-    "ko": "• 이원화 ODM 및 현지화 사셰(소포장) 패키징 ( SISPharm & SISTAR MedIX ): 완제품 직수입과 벌크 원료 수입 후 현지 GMP 사셰 리패키징(Zeelice 및 천연 생약 가금류 바이오 제제 등)을 결합하여 현지 농가와 동물병원에 독보적인 가격 경쟁력 제공."
+    "ko": "• 이원화 ODM 및 현지화 사셰(소포장) 패키징 ( SISPharm & SISTAR MedIX ): 완제품 직수입과 벌크 원료 수입 후 현지 GMP 사셰 리패키징(Zeelice 및 천연 생약 가금류 바이오 제제 등)을 결합하여 현지 농가와 동물병원에 독보적인 가격 경쟁력 제공.",
+    "ja": "• デュアルストリームODM＆現地小袋（サシェ）分包パッキング (sispharm & sistar medix): 完成品の直接輸入と、バルク原料の輸入および現地GMP施設での小袋リパッキング（Zeeliceやハーブ系家禽用バイオ製剤など）を融合。現地の農場やクリニックに対して圧倒的な価格競争力を実現。"
   },
   "• Aquaculture & Livestock Bio-Solutions (aquasis & sispharm): Deployment of smart marine and shrimp farm monitoring, eco-friendly feed additives, and disease-prevention biologics tailored to Vietnam's Mekong and coastal production belts.": {
-    "ko": "• 수산양식 및 축산 바이오 솔루션 ( aquasis & SISPharm ): 베트남 메콩강 유역 및 해안 생산 벨트에 특화된 스마트 해양·새우 양식장 모니터링 시스템, 친환경 사료 첨가제, 질병 예방 바이오 제제 보급."
+    "ko": "• 수산양식 및 축산 바이오 솔루션 ( aquasis & SISPharm ): 베트남 메콩강 유역 및 해안 생산 벨트에 특화된 스마트 해양·새우 양식장 모니터링 시스템, 친환경 사료 첨가제, 질병 예방 바이오 제제 보급.",
+    "ja": "• 水産・畜産バイオソリューション (aquasis & sispharm): ベトナムのメコン地域および沿岸生産地帯に特化したスマート海洋・養エビ場モニタリング、環境配慮型飼料添加物、疾病予防バイオ医薬品の展開。"
   },
   "• Physical AI & Robotics Hardware (physical ai robotics & qubit-biz/robotics): ODM engineering and rapid prototyping of warehouse automation robots, educational AI robotics (Lego Qubit), smart pet devices, and automated dispensing hardware.": {
-    "ko": "• 피지컬 AI & 로보틱스 하드웨어 ( physical ai robotics & qubit-biz/robotics ): 물류창고 자동화 로봇, 교육용 AI 로보틱스( Lego Qubit ), 스마트 펫 디바이스 및 자동 디스펜싱 하드웨어의 ODM 엔지니어링과 고속 프로토타이핑을 수행합니다."
+    "ko": "• 피지컬 AI & 로보틱스 하드웨어 ( physical ai robotics & qubit-biz/robotics ): 물류창고 자동화 로봇, 교육용 AI 로보틱스( Lego Qubit ), 스마트 펫 디바이스 및 자동 디스펜싱 하드웨어의 ODM 엔지니어링과 고속 프로토타이핑을 수행합니다.",
+    "ja": "• フィジカルAI＆ロボティクス・ハードウェア（フィジカルAIロボティクス＆qubit-biz/robotics）：倉庫自動化ロボット、教育用AIロボティクス（Lego Qubit）、スマートペットデバイス、自動調剤ハードウェアのODMエンジニアリングおよび迅速なプロトタイピング。"
   },
   "• Precision Packaging, POCT Components & Apparel ODM (sistar dx & sisloa): Ultra-fast sourcing of diagnostic cassettes, medical-grade sachet packaging, marine equipment (aquasis), and zero-inventory on-demand apparel runs.": {
-    "ko": "• 정밀 패키징, POCT 부품 및 의류 ODM ( sistar dx & sisloa ): 진단 키트 카세트, 의료용 샤셰 패키징, 해양 장비( aquasis )의 초고속 소싱과 무재고 온디맨드 의류 생산 라인을 운영합니다."
+    "ko": "• 정밀 패키징, POCT 부품 및 의류 ODM ( sistar dx & sisloa ): 진단 키트 카세트, 의료용 샤셰 패키징, 해양 장비( aquasis )의 초고속 소싱과 무재고 온디맨드 의류 생산 라인을 운영합니다.",
+    "ja": "• 精密パッケージング、POCT部材＆アパレルODM（SISTAR Dx＆sisloa）：体外診断用カセット、医療グレード分包包装、海洋機器（aquasis）、および在庫ゼロのオンデマンド・アパレル生産ラインの超高速ソーシング。"
   },
   "• Ayurvedic & Phyto-Therapeutic Sourcing (sisayurvedic - ayurveda & Vital Seeds): Direct B2B sourcing and clinical standardization of active herbal extracts, phytogenic livestock feed additives (Indian Herbs), and natural human and pet therapeutics.": {
-    "ko": "• 아유르베다 & 식물성 치료 원료 소싱 ( sisayurvedic - ayurveda & Vital Seeds ): 활성 허브 추출물, 식물성 가축 사료 첨가제 ( Indian Herbs ), 천연 인체 및 펫 치료제의 직접 B2B 소싱 및 임상 표준화."
+    "ko": "• 아유르베다 & 식물성 치료 원료 소싱 ( sisayurvedic - ayurveda & Vital Seeds ): 활성 허브 추출물, 식물성 가축 사료 첨가제 ( Indian Herbs ), 천연 인체 및 펫 치료제의 직접 B2B 소싱 및 임상 표준화.",
+    "ja": "• アーユルヴェーダ＆植物療法ソーシング（sisayurvedic - ayurveda & Vital Seeds）：高活性ハーブ抽出エキス、植物性家畜飼料添加物（Indian Herbs）、ならびにヒトおよび愛玩動物向け天然治療薬のダイレクトB2B調達と臨床的標準化。"
   },
   "Scarlet.ai": {
     "ko": "스칼렛-AI"
@@ -78362,40 +78373,52 @@ window.SC_TRANSLATIONS = {
     "ko": "SKU 중첩 배수: 1개 코어 스파크 -> 20개 페르소나 타깃 글로벌 리스팅 동시 배포 | 고정 간접비 풋프린트: '투 수트케이스' 클라우드 네이티브 커맨드 + 투기성 재고 0% | 인간-AI 분업 체계: 인간은 아이디어와 관계에 집중, 자율 AI는 행정 및 운영 전담"
   },
   "01 / SPARK": {
-    "ko": "01 / 스파크 (SPARK)"
+    "ko": "01 / 스파크 (SPARK)",
+    "ja": "01 / SPARK（創発）"
   },
   "A focused executive insight or verified market signal starts the cycle.": {
-    "ko": "고도로 집중된 경영진 인사이트 또는 검증된 시장 시그널이 사이클을 촉발한다."
+    "ko": "고도로 집중된 경영진 인사이트 또는 검증된 시장 시그널이 사이클을 촉발한다.",
+    "ja": "研ぎ澄まされた経営インサイト、または検証済みの市場シグナルがサイクルを起動する。"
   },
   "02 / INTELLIGENCE": {
-    "ko": "02 / 인텔리전스 (INTELLIGENCE)"
+    "ko": "02 / 인텔리전스 (INTELLIGENCE)",
+    "ja": "02 / INTELLIGENCE（知性統合）"
   },
   "AI Intelligence-Core and Company RAG align the relevant context.": {
-    "ko": "AI Intelligence-Core와 전사 RAG가 핵심 컨텍스트를 정렬합니다."
+    "ko": "AI Intelligence-Core와 전사 RAG가 핵심 컨텍스트를 정렬합니다.",
+    "ja": "AI Intelligence-Core および Company RAG が、関連するコンテキストを高度に同期・整合化する。"
   },
   "03 / EXECUTION": {
-    "ko": "03 / 실행 (EXECUTION)"
+    "ko": "03 / 실행 (EXECUTION)",
+    "ja": "03 / EXECUTION（協調実行）"
   },
   "Signal Star (*SC): The Guiding North Star of Quantum AI Commerce turns shared infrastructure into domain-specific action.": {
-    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성은 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성은 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "Signal Star (*SC): The Guiding North Star of Quantum AI Commerce は、共有インフラストラクチャを各ドメイン特化のアクションへと変換・展開する。"
   },
   "04 / OUTCOME": {
-    "ko": "04 / 성과 (OUTCOME)"
+    "ko": "04 / 성과 (OUTCOME)",
+    "ja": "04 / OUTCOME（価値創出）"
   },
   "Qubit settlement and operating data inform the next opportunity.": {
-    "ko": "Qubit 정산 및 운영 데이터는 차세대 비즈니스 기회를 구체화합니다."
+    "ko": "Qubit 정산 및 운영 데이터는 차세대 비즈니스 기회를 구체화합니다.",
+    "ja": "Qubit 決済および運用データが、次なる事業機会を創出・示唆する。"
   },
   "Legacy workflow": {
-    "ko": "레거시 워크플로우"
+    "ko": "레거시 워크플로우",
+    "ja": "レガシーワークフロー"
   },
   "Sequential sourcing, fragmented data, and settlement delays make every new market or project carry duplicated friction.": {
-    "ko": "순차적 소싱, 단절된 데이터, 정산 지연은 모든 신규 시장 진출과 프로젝트마다 중복된 마찰 비용을 초래합니다."
+    "ko": "순차적 소싱, 단절된 데이터, 정산 지연은 모든 신규 시장 진출과 프로젝트마다 중복된 마찰 비용을 초래합니다.",
+    "ja": "逐次的なソーシング、データの断片化、および決済の遅延により、新規市場やプロジェクトごとに重複したフリクション（摩擦コスト）が生じる。"
   },
   "*SC coordinated execution": {
-    "ko": "*SC 조율된 실행"
+    "ko": "*SC 조율된 실행",
+    "ja": "*SC 協調実行"
   },
   "For Signal Star (*SC): The Guiding North Star of Quantum AI Commerce, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+    "ko": "Signal Star (*SC): 퀀텀 AI 커머스의 북극성에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다.",
+    "ja": "Signal Star (*SC): The Guiding North Star of Quantum AI Commerce において、Qubit Algorithm™ と AI Intelligence-Core は、共有インフラストラクチャを通じて需要、ドメイン固有の実行、そして複数当事者間の価値創出を統合・整合化する。"
   },
   "SISTAR Company (*SC): Full-Stack AI Commerce & International Trading turns shared infrastructure into domain-specific action.": {
     "ko": "SISTAR Company (*SC): 풀스택 AI 커머스 & 글로벌 무역은 공유 인프라를 도메인 특화 실행으로 전환합니다."
@@ -78404,31 +78427,38 @@ window.SC_TRANSLATIONS = {
     "ko": "SISTAR Company (*SC): 풀스택 AI 커머스 & 글로벌 무역에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
   },
   "Four proofs anchor the executive case: practical field experience, one shared AI core, coordinated market execution, and reusable capability across the Founder Projects.": {
-    "ko": "실전 현장 경험, 단일 AI 코어 공유, 조율된 시장 실행력, 파운더 프로젝트 전반의 역량 재사용성이라는 네 가지 증거가 경영진의 핵심 논거를 견고히 뒷받침합니다."
+    "ko": "실전 현장 경험, 단일 AI 코어 공유, 조율된 시장 실행력, 파운더 프로젝트 전반의 역량 재사용성이라는 네 가지 증거가 경영진의 핵심 논거를 견고히 뒷받침합니다.",
+    "ja": "経営判断・投資テーゼを支える4つの証明：現場での実践的知見、単一の共有AIコア、統調された市場実行、そしてFounder Projects横断で再利用可能なケイパビリティ。"
   },
   "[Open Letter] Our Answer to the Question: &quot;How Can You Possibly Manage All of These Projects Simultaneously?&quot; turns shared infrastructure into domain-specific action.": {
-    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답: 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답: 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "【公開書簡】「いかにして全プロジェクトを同時並行で統轄できるのか？」への弊社の解答：共有インフラをドメイン特化型アクションへと転換する。"
   },
   "For [Open Letter] Our Answer to the Question: &quot;How Can You Possibly Manage All of These Projects Simultaneously?&quot;, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+    "ko": "[공개 서한] \"어떻게 이 모든 프로젝트를 동시에 경영할 수 있는가?\"라는 질문에 대한 우리의 해답에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다.",
+    "ja": "【公開書簡】「いかにして全プロジェクトを同時並行で統轄できるのか？」への解答において、Qubit Algorithm™およびAIインテリジェンス・コアは、共有インフラを通じて需要、各ドメインの実行力、そして複数ステークホルダー間の価値具現化を精緻にアラインメントします。"
   },
   "*SC : SISTAR Company Founder & CEO Signal Star Universe • 8 Global Operational Bases sistarcompany.com": {
     "ko": "*SC : SISTAR Company 설립자 겸 CEO Signal Star Universe • 8개 글로벌 운영 거점 sistarcompany.com"
   },
   "*SC Identity & Signatures: One Spark, Infinite Galaxifying turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying은 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying은 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "*SC Identity & Signatures: One Spark, Infinite Galaxifying は、共有インフラをドメイン特化型アクションへと転換する。"
   },
   "For *SC Identity & Signatures: One Spark, Infinite Galaxifying, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+    "ko": "*SC 아이덴티티 & 시그니처: One Spark, Infinite Galaxifying에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다.",
+    "ja": "*SC Identity & Signatures: One Spark, Infinite Galaxifying において、Qubit Algorithm™およびAIインテリジェンス・コアは、共有インフラを通じて需要、各ドメインの実行力、そして複数ステークホルダー間の価値具現化を精緻にアラインメントします。"
   },
   "PILLAR I • MATHEMATICAL & OPERATIONAL ENGINE The Quantum Paradigm Shift: From Newtonian Linearity to Qubit Mechanics": {
     "ko": "기둥 I • 수학 및 운영 엔진 | 양자 패러다임 전환: 뉴턴 역학적 선형성에서 큐비트 역학으로"
   },
   "*SC 4 Pillars: The Quantum & International AI Architecture turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처는 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처는 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "*SC 4 Pillars: 量子・国際AIアーキテクチャは、共有インフラをドメイン特化型アクションへと転換する。"
   },
   "For *SC 4 Pillars: The Quantum & International AI Architecture, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+    "ko": "*SC 4대 기둥: 퀀텀 & 글로벌 AI 아키텍처에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다.",
+    "ja": "*SC 4 Pillars：量子・国際AIアーキテクチャにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを介して需要、ドメイン特化型エグゼキューション、ならびに多面的価値実現を高度に整合・統合します。"
   },
   "PILLAR II • UNFAIR DOMAIN MOAT 20+ Years of International Mastery Meets Autonomous AI": {
     "ko": "기둥 II • 압도적 도메인 해자 | 20년 이상의 글로벌 무역 전문성과 자율형 AI의 융합"
@@ -78449,10 +78479,12 @@ window.SC_TRANSLATIONS = {
     "ko": "핵심 철학: One Spark, Infinite Galaxifying -> 단일 과업 다중 성과(One Task, Multi Outcomes) | 5대 Cosmo Seed™ 엔진: Qubit Factory™ • Commerce™ • Star™ • Link™ • Flow™ | 결제·청산 인프라: c.a.n. ActionNote 디스패치 + 4방향 Qubit Bank 상계 처리"
   },
   "*SC Enterprise Architecture: The 6-Layer, 12-Domain Quantum Galaxy turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시는 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시는 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "*SC エンタープライズ・アーキテクチャ：6層・12ドメインからなるQuantum Galaxyは、共有インフラストラクチャをドメイン特化型のアクションへと転換・具現化します。"
   },
   "For *SC Enterprise Architecture: The 6-Layer, 12-Domain Quantum Galaxy, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다."
+    "ko": "*SC 엔터프라이즈 아키텍처: 6계층, 12도메인 퀀텀 갤럭시에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 동기화합니다.",
+    "ja": "*SC エンタープライズ・アーキテクチャ：6層・12ドメインのQuantum Galaxyにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、ならびに多面的価値実現を高度に整合・統合します。"
   },
   "Primary Audience: Global Enterprise Counterparties, Sovereign Trade Bodies & Institutional VCs Physical Footprint: 8 Global Operational Bases (KR -> ID -> VN -> SG -> CN -> JP -> US -> IN) Alliance Moat: IATA (Direct AI Trade) & IADA (Federated AI Co-Development)": {
     "ko": "주요 타깃: 글로벌 엔터프라이즈 거래처, 국부 무역 기구 및 기관 투자자(VC) | 물리적 거점: 8개 글로벌 운영 기지 (KR -> ID -> VN -> SG -> CN -> JP -> US -> IN) | 얼라이언스 해자: IATA(직접 AI 무역) 및 IADA(연합형 AI 공동 개발)"
@@ -78482,67 +78514,87 @@ window.SC_TRANSLATIONS = {
     "ko": "자율형 제작: SISTAR Studio + 마케팅 툴 패키지 (프로젝트당 일일 10개 에셋 제작) | 에디토리얼 저널리즘: The SIGNAL STAR Post 글로벌 AI 및 무역 전문 퍼블리케이션 | 다국어 도달성: 동시 6개 국어 현지화 (en / kr / id / vn / cn / jp)"
   },
   "Original source details preserved": {
-    "ko": "원본 소스 상세 정보 보존"
+    "ko": "원본 소스 상세 정보 보존",
+    "ja": "原典の詳細情報を完全保持"
   },
   "Domains: intelligence.sistarcompany.com, media. Operates *SC AI Centers Int’l, Qubit ERP, Company RAG, the Overnight Data Factory, The SISTAR Post, and SISTAR Studio.": {
-    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 및 SISTAR Studio 운영."
+    "ko": "도메인: intelligence.sistarcompany.com, media. *SC AI Centers Int’l, Qubit ERP, Company RAG, Overnight Data Factory, The SISTAR Post 및 SISTAR Studio 운영.",
+    "ja": "ドメイン：intelligence.sistarcompany.com、media。*SC AI Centers Int’l、Qubit ERP、Company RAG、Overnight Data Factory、The SISTAR Post、および SISTAR Studio を統括・運用。"
   },
   "Domain: scarlet.sistarcompany.com. Drives conversational B2B/D2C commerce, Ms. Scarlet 24/7 closing, Buy4Me group buying, sisCart NearBuy, and vertical portals (petclinic., ayurvedic.).": {
-    "ko": "도메인: scarlet.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동구매, sisCart NearBuy 및 버티컬 포털(petclinic., ayurvedic.) 구동."
+    "ko": "도메인: scarlet.sistarcompany.com. 대화형 B2B/D2C 커머스, Ms. Scarlet 24/7 클로징, Buy4Me 공동구매, sisCart NearBuy 및 버티컬 포털(petclinic., ayurvedic.) 구동.",
+    "ja": "ドメイン：scarlet.sistarcompany.com。対話型B2B/D2Cコマース、Ms. Scarlet による24時間365日の商談クロージング、Buy4Me 共同購入、sisCart NearBuy、およびバーティカルポータル（petclinic.、ayurvedic.）を駆動。"
   },
   "Domain: qubit.sistarcompany.com. Commands B2B container volume deals, K-SURE BNPL trade financing, 4-Way Qubit Offsetting bartering, and Qubit Bank (Time/Space/Idea/Petfood).": {
-    "ko": "도메인: qubit.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE BNPL 무역 금융, 4-Way Qubit 상계(Offsetting) 물물교환, Qubit Bank(시간/공간/아이디어/펫푸드) 총괄 통제."
+    "ko": "도메인: qubit.sistarcompany.com. B2B 컨테이너 대량 거래, K-SURE BNPL 무역 금융, 4-Way Qubit 상계(Offsetting) 물물교환, Qubit Bank(시간/공간/아이디어/펫푸드) 총괄 통제.",
+    "ja": "ドメイン：qubit.sistarcompany.com。B2Bコンテナ大口取引、K-SURE BNPL 貿易金融、4者間 Qubit 相殺バーター取引、および Qubit Bank（Time/Space/Idea/Petfood）を統括・指揮。"
   },
   "Open Companion Annex: 15 Founder Projects → Print / Export 12-Page PDF": {
     "ko": "동반 부록 열기: 15개 파운더 프로젝트 → 12페이지 PDF 인쇄 / 내보내기"
   },
   "ARCHITECTURAL DIAGRAM 04 • PROPRIETARY FINTECH CLEARING TOPOLOGY: K-SURE BNPL + 4-WAY QUBIT OFFSETTING + 70/30 PG LOOP": {
-    "ko": "아키텍처 다이어그램 04 • 독자적 핀테크 청산 토폴로지: K-SURE BNPL + 4-WAY QUBIT OFFSETTING + 70/30 PG 루프"
+    "ko": "아키텍처 다이어그램 04 • 독자적 핀테크 청산 토폴로지: K-SURE BNPL + 4-WAY QUBIT OFFSETTING + 70/30 PG 루프",
+    "ja": "アーキテクチャ設計図 04 • 独自フィンテック決済トポロジー：K-SURE BNPL ＋ 4者間 QUBIT 相殺 ＋ 70/30 PGループ"
   },
   "*SC (SISTAR Company): The Quantum-Concurrent AI & International Trading Enterprise turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈로서 공유 인프라를 도메인 특화 실행으로 전환합니다."
+    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈로서 공유 인프라를 도메인 특화 실행으로 전환합니다.",
+    "ja": "*SC（SISTAR Company）：量子並行型AI＆国際貿易企業は、共有インフラを各領域固有のアクションへと変換します。"
   },
   "For *SC (SISTAR Company): The Quantum-Concurrent AI & International Trading Enterprise, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈의 Qubit Algorithm™과 AI 인텔리전스 코어는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다."
+    "ko": "*SC (SISTAR Company): 양자 동시성(Quantum-Concurrent) AI 및 글로벌 무역 엔터프라이즈의 Qubit Algorithm™과 AI 인텔리전스 코어는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다.",
+    "ja": "*SC（SISTAR Company）：量子並行型AI＆国際貿易企業において、Qubit Algorithm™ および AIインテリジェンス・コアは、共有インフラを通じて需要、ドメイン執行、そして多者間の価値実現を整合・同期させます。"
   },
   "1. K-SURE + B2B BNPL CLEARING": {
-    "ko": "1. K-SURE + B2B BNPL 청산"
+    "ko": "1. K-SURE + B2B BNPL 청산",
+    "ja": "1. K-SURE ＋ B2B BNPL クリアリング"
   },
   "Korean / Global OEM Maker": {
-    "ko": "한국 / 글로벌 OEM 제조사"
+    "ko": "한국 / 글로벌 OEM 제조사",
+    "ja": "韓国／グローバルOEMメーカー"
   },
   "Receives 100% Cash at B/L (t = 0)": {
-    "ko": "선하증권(B/L) 발행 즉시 100% 현금 수령 (t = 0)"
+    "ko": "선하증권(B/L) 발행 즉시 100% 현금 수령 (t = 0)",
+    "ja": "B/L発行時に現金100%を受領（t = 0）"
   },
   "K-SURE Export Guarantee": {
-    "ko": "K-SURE 수출보증"
+    "ko": "K-SURE 수출보증",
+    "ja": "K-SURE 輸出保証"
   },
   "Zero Balance-Sheet Default Risk to *SC": {
-    "ko": "*SC 대차대조표상 부도 리스크 제로"
+    "ko": "*SC 대차대조표상 부도 리스크 제로",
+    "ja": "*SCの貸借対照表（B/S）におけるデフォルトリスク：ゼロ"
   },
   "ASEAN Distributor / Vet Hospital": {
-    "ko": "아세안(ASEAN) 총판 / 동물병원"
+    "ko": "아세안(ASEAN) 총판 / 동물병원",
+    "ja": "ASEANディストリビューター／動物病院"
   },
   "Enjoys 30–60 Day BNPL Credit Terms": {
-    "ko": "30~60일 BNPL 신용 여신 조건 수혜"
+    "ko": "30~60일 BNPL 신용 여신 조건 수혜",
+    "ja": "30〜60日間のBNPL与信供与（支払サイト）を享受"
   },
   "*SC Earns 2–4% Clearing & Factoring Spread": {
-    "ko": "*SC, 2~4% 청산 및 팩토링 스프레드 수익 확보"
+    "ko": "*SC, 2~4% 청산 및 팩토링 스프레드 수익 확보",
+    "ja": "*SCが2〜4%の決済・ファクタリングスプレッドを獲得"
   },
   "2. 4-WAY QUBIT OFFSETTING MATRIX": {
-    "ko": "2. 4방향 큐비트 상계 매트릭스 (4-WAY QUBIT OFFSETTING MATRIX)"
+    "ko": "2. 4방향 큐비트 상계 매트릭스 (4-WAY QUBIT OFFSETTING MATRIX)",
+    "ja": "2. 4者間 QUBIT 相殺マトリクス"
   },
   "01. Physical Goods": {
-    "ko": "01. 실물 재화 (Physical Goods)"
+    "ko": "01. 실물 재화 (Physical Goods)",
+    "ja": "01. 実物商品・有形財"
   },
   "Raw Materials": {
-    "ko": "원자재"
+    "ko": "원자재",
+    "ja": "原材料・資材"
   },
   "Vet / Pet / K-Beauty": {
-    "ko": "동물의약품 / 펫케어 / K-뷰티"
+    "ko": "동물의약품 / 펫케어 / K-뷰티",
+    "ja": "獣医医療／ペット／K-Beauty"
   },
   "Vet CDSS Licensing": {
-    "ko": "수의학 CDSS 라이선싱"
+    "ko": "수의학 CDSS 라이선싱",
+    "ja": "獣医CDSS（臨床意思決定支援システム）ライセンシング"
   },
   "QUBIT": {
     "ko": "큐비트 (QUBIT)"
@@ -78551,61 +78603,79 @@ window.SC_TRANSLATIONS = {
     "ko": "원장 (LEDGER)"
   },
   "03. Media & IP": {
-    "ko": "03. 미디어 & IP"
+    "ko": "03. 미디어 & IP",
+    "ja": "03. メディア ＆ IP"
   },
   "SISTAR Studio Ads": {
-    "ko": "SISTAR Studio 광고"
+    "ko": "SISTAR Studio 광고",
+    "ja": "SISTAR Studio 広告"
   },
   "Brand Cloning Rights": {
-    "ko": "브랜드 클로닝 권리"
+    "ko": "브랜드 클로닝 권리",
+    "ja": "ブランドクローニング権"
   },
   "04. Space & 3PL": {
-    "ko": "04. 공간 및 3PL"
+    "ko": "04. 공간 및 3PL",
+    "ja": "04. スペース ＆ 3PL物流"
   },
   "Shared Warehouse": {
-    "ko": "공유 물류센터"
+    "ko": "공유 물류센터",
+    "ja": "シェアード・ウェアハウス（共同型倉庫）"
   },
   "Container Slot Swap": {
-    "ko": "컨테이너 선복(Slot) 스왑"
+    "ko": "컨테이너 선복(Slot) 스왑",
+    "ja": "コンテナスロット・スワップ（積載枠相互融通）"
   },
   "Zero FX Cash Drain • Multilateral Netting": {
-    "ko": "외환 유출 제로 (Zero FX Cash Drain) • 다자간 상계 (Multilateral Netting)"
+    "ko": "외환 유출 제로 (Zero FX Cash Drain) • 다자간 상계 (Multilateral Netting)",
+    "ja": "為替キャッシュ流出ゼロ • 多角間ネッティング（Multilateral Netting）"
   },
   "3. 70/30 PG FEE CASHBACK LOOP": {
-    "ko": "3. 70/30 PG 수수료 캐시백 루프"
+    "ko": "3. 70/30 PG 수수료 캐시백 루프",
+    "ja": "3. 70/30 PG決済手数料キャッシュバックループ"
   },
   "Legacy PG & Platform Toll": {
-    "ko": "레거시 PG사 및 플랫폼 통행세"
+    "ko": "레거시 PG사 및 플랫폼 통행세",
+    "ja": "レガシーPGおよびプラットフォーム中間手数料（Toll）"
   },
   "3.5% – 5.0% Lost Per Transaction": {
-    "ko": "거래 건당 3.5% – 5.0% 자본 유출"
+    "ko": "거래 건당 3.5% – 5.0% 자본 유출",
+    "ja": "1取引あたり3.5%〜5.0%のマージン流出"
   },
   "Destructive Wave Interference": {
-    "ko": "파동 상쇄 간섭 (Destructive Wave Interference)"
+    "ko": "파동 상쇄 간섭 (Destructive Wave Interference)",
+    "ja": "相殺的波動干渉"
   },
   "Closed-Loop Qubit Credit Settlement": {
-    "ko": "폐쇄 루프형 큐비트 크레딧 정산"
+    "ko": "폐쇄 루프형 큐비트 크레딧 정산",
+    "ja": "クローズドループ型Qubitクレジット決済"
   },
   "Instant Buyer": {
-    "ko": "구매자 대상 즉시"
+    "ko": "구매자 대상 즉시",
+    "ja": "即時バイヤー（Instant Buyer）"
   },
   "Cashback Rebate": {
-    "ko": "캐시백 리베이트 환원"
+    "ko": "캐시백 리베이트 환원",
+    "ja": "キャッシュバック・リベート"
   },
   "*SC Platform": {
-    "ko": "*SC 플랫폼"
+    "ko": "*SC 플랫폼",
+    "ja": "*SCプラットフォーム"
   },
   "Net Fee Margin": {
-    "ko": "순수수료 마진"
+    "ko": "순수수료 마진",
+    "ja": "純手数料マージン（Net Fee Margin）"
   },
   "← View Master Corporate Brochure Print / Export Dossier PDF": {
     "ko": "← 마스터 기업 브로슈어 보기 인쇄 / 도시에(Dossier) PDF 내보내기"
   },
   "EXPONENTIAL GALAXIFYING VELOCITY: 1 NEW TURNKEY VIP PARTNER VENTURE DEPLOYED EVERY 24 HOURS WITH BUILT-IN AI MEDIA": {
-    "ko": "지수함수적 은하화 속도: AI 미디어가 내장된 신규 턴키 VIP 파트너 벤처를 24시간마다 1건씩 실전 배포"
+    "ko": "지수함수적 은하화 속도: AI 미디어가 내장된 신규 턴키 VIP 파트너 벤처를 24시간마다 1건씩 실전 배포",
+    "ja": "指数関数的Galaxifying速度：AIメディアを内包した新規ターンキーVIPパートナーベンチャーを24時間ごとに1社デプロイ"
   },
   "Zero Incremental Engineering Headcount • Perpetual Equity Carry & Revenue Share Across Every Cloned Node": {
-    "ko": "엔지니어링 인력 추가 증원 제로(0) • 모든 복제 노드 전반의 영구적 지분 캐리(Equity Carry) 및 수익 공유"
+    "ko": "엔지니어링 인력 추가 증원 제로(0) • 모든 복제 노드 전반의 영구적 지분 캐리(Equity Carry) 및 수익 공유",
+    "ja": "エンジニアリング人員の追加ゼロ • 全クローンノードにわたる恒久的エクイティ・キャリーおよびレベニューシェア"
   },
   "Foundational Impact: Near-Zero Marginal Cost Venture Replication Speed External Revenue Model: Turnkey VIP Launch Fee + Ongoing Royalty / Equity Carry Target Gross Margin: 85%+ Automated Cloning Margin": {
     "ko": "근본적 임팩트: 한계비용 제로 수준의 벤처 복제 속도 외부 수익 모델: 턴키 VIP 론칭 피 + 지속적 로열티 / 지분 캐리(Equity Carry) 목표 매출총이익률: 85%+ 자동화 복제 마진"
@@ -78653,250 +78723,332 @@ window.SC_TRANSLATIONS = {
     "ko": "근본적 임팩트: $t=0$ 글로벌 B2B 청산소 및 무현금 바터 네트워크 | 외부 수익 모델: B2B 청산 수수료 + BNPL 팩토링 스프레드 + 차익거래 수익률 | 목표 매출총이익률: 70%+ 핀테크 및 알고리즘 트레이딩 마진"
   },
   "TIER IV ENTANGLEMENT BLUEPRINT (FP-14 TO FP-15) • 24/7 VENTURE CLONING FACTORY & PROGRAMMATIC GTM MULTIPLIER": {
-    "ko": "TIER IV 얽힘 청사진 (FP-14 ~ FP-15) • 24/7 벤처 클로닝 팩토리 및 프로그래매틱 GTM 승수"
+    "ko": "TIER IV 얽힘 청사진 (FP-14 ~ FP-15) • 24/7 벤처 클로닝 팩토리 및 프로그래매틱 GTM 승수",
+    "ja": "Tier IV 量子もつれ設計図（FP-14〜FP-15）• 24時間365日稼働ベンチャークローニングファクトリー ＆ プログラマティックGTMマルチプライヤー"
   },
   "*SC Founder Projects (01–15): Technical & Commercial Portfolio Dossier turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)는 공유 인프라를 도메인 특화 실행력으로 전환합니다."
+    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)는 공유 인프라를 도메인 특화 실행력으로 전환합니다.",
+    "ja": "*SC Founder Projects (01–15)：技術・商業ポートフォリオ・ドシエは、共有インフラストラクチャをドメイン特化型のエグゼキューションへと昇華させます。"
   },
   "For *SC Founder Projects (01–15): Technical & Commercial Portfolio Dossier, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)의 경우, Qubit Algorithm™ 및 AI 인텔리전스 코어가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 정렬합니다."
+    "ko": "*SC Founder Projects (01–15): 기술 및 상업 포트폴리오 도시에(Dossier)의 경우, Qubit Algorithm™ 및 AI 인텔리전스 코어가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 정렬합니다.",
+    "ja": "*SC Founder Projects (01–15)：技術・商業ポートフォリオ・ドシエにおいて、Qubit Algorithm™およびAIインテリジェンス・コアは、共有インフラストラクチャを通じて需要、ドメイン実行、そしてマルチパーティの価値具現化を精緻にアラインメントします。"
   },
   "INPUT: TIERS I – III": {
-    "ko": "입력: TIERS I – III"
+    "ko": "입력: TIERS I – III",
+    "ja": "インプット：ティア I – III"
   },
   "Validated Cosmo Seed™": {
-    "ko": "검증된 Cosmo Seed™"
+    "ko": "검증된 Cosmo Seed™",
+    "ja": "検証済みCosmo Seed™"
   },
   "Pre-Wired Qubit ERP (FP-01)": {
-    "ko": "사전 결합형 Qubit ERP (FP-01)"
+    "ko": "사전 결합형 Qubit ERP (FP-01)",
+    "ja": "事前統合済みQubit ERP (FP-01)"
   },
   "Air-Gapped Vector RAG (FP-02)": {
-    "ko": "에어갭 벡터 RAG (FP-02)"
+    "ko": "에어갭 벡터 RAG (FP-02)",
+    "ja": "エアギャップ型Vector RAG (FP-02)"
   },
   "Ms. Scarlet AI Closer (FP-03)": {
-    "ko": "Ms. Scarlet AI 클로저 (FP-03)"
+    "ko": "Ms. Scarlet AI 클로저 (FP-03)",
+    "ja": "Ms. Scarlet AIクローザー (FP-03)"
   },
   "Vet / Trade Supply Spine": {
-    "ko": "수의 / 무역 공급 스파인(Spine)"
+    "ko": "수의 / 무역 공급 스파인(Spine)",
+    "ja": "獣医療・貿易サプライ・スパイン（基幹供給網）"
   },
   "FP-14 • DAILY 1 VIP LAUNCHING FACTORY": {
-    "ko": "FP-14 • 일일 1개 VIP 런칭 팩토리"
+    "ko": "FP-14 • 일일 1개 VIP 런칭 팩토리",
+    "ja": "FP-14 • デイリー1 VIP ローンチング・ファクトリー"
   },
   "24-Hour Auto-Reskinning Assembly": {
-    "ko": "24시간 자동 리스킨 어셈블리"
+    "ko": "24시간 자동 리스킨 어셈블리",
+    "ja": "24時間自動リスキン・アセンブリ"
   },
   "Firebase Multi-Site + Subdomain Routing": {
-    "ko": "Firebase 멀티사이트 + 서브도메인 라우팅"
+    "ko": "Firebase 멀티사이트 + 서브도메인 라우팅",
+    "ja": "Firebaseマルチサイト ＋ サブドメインルーティング"
   },
   "6-Language Static AI Dictionary (EN/KR/ID/VN/CN/JP)": {
-    "ko": "6개 국어 정적 AI 딕셔너리 (EN/KR/ID/VN/CN/JP)"
+    "ko": "6개 국어 정적 AI 딕셔너리 (EN/KR/ID/VN/CN/JP)",
+    "ja": "6言語対応スタティックAIディクショナリ（EN/KR/ID/VN/CN/JP）"
   },
   "100 Brands • 100 Platforms • 100 App-Flips": {
-    "ko": "100개 브랜드 • 100개 플랫폼 • 100개 앱 플립(App-Flips)"
+    "ko": "100개 브랜드 • 100개 플랫폼 • 100개 앱 플립(App-Flips)",
+    "ja": "100ブランド • 100プラットフォーム • 100アプリフリップ"
   },
   "85%+ GM • VIP Launch Fee + Royalty Carry": {
-    "ko": "85%+ 매출총이익률 • VIP 런칭 수수료 + 로열티 캐리"
+    "ko": "85%+ 매출총이익률 • VIP 런칭 수수료 + 로열티 캐리",
+    "ja": "売上総利益率（GM）85%超 • VIPローンチフィー ＋ ロイヤリティ・キャリー"
   },
   "FP-15 • MARKETING TOOL PACKAGE": {
-    "ko": "FP-15 • 마케팅 툴 패키지"
+    "ko": "FP-15 • 마케팅 툴 패키지",
+    "ja": "FP-15 • マーケティング・ツール・パッケージ"
   },
   "SISTAR Studio + Closed-Loop CRM": {
-    "ko": "SISTAR Studio + 폐루프(Closed-Loop) CRM"
+    "ko": "SISTAR Studio + 폐루프(Closed-Loop) CRM",
+    "ja": "SISTAR Studio ＋ クローズドループCRM"
   },
   "10x Daily Short-Form Videos (Veo/TTS)": {
-    "ko": "일일 10편 숏폼 비디오 자동 생성 (Veo/TTS)"
+    "ko": "일일 10편 숏폼 비디오 자동 생성 (Veo/TTS)",
+    "ja": "日次10本のショート動画自動生成（Veo/TTS）"
   },
   "Qubit Star Influencer Matching": {
-    "ko": "Qubit 스타 인플루언서 매칭"
+    "ko": "Qubit 스타 인플루언서 매칭",
+    "ja": "Qubit Starインフルエンサーマッチング"
   },
   "Near-$0 CAC Organic Viral Funnel": {
-    "ko": "$0에 수렴하는 CAC 기반 오가닉 바이럴 퍼널"
+    "ko": "$0에 수렴하는 CAC 기반 오가닉 바이럴 퍼널",
+    "ja": "顧客獲得単価（CAC）ほぼ0ドルのオーガニック・バイラルファネル"
   },
   "75–85% GM • Agency-in-a-Box SaaS": {
-    "ko": "75–85% 매출총이익률 • 올인원 에이전시(Agency-in-a-Box) SaaS"
+    "ko": "75–85% 매출총이익률 • 올인원 에이전시(Agency-in-a-Box) SaaS",
+    "ja": "粗利率（GM）75–85% • Agency-in-a-Box SaaS"
   },
   "01 / CAPTURE": {
-    "ko": "01 / 포착(CAPTURE)"
+    "ko": "01 / 포착(CAPTURE)",
+    "ja": "01 / 捕捉"
   },
   "Partner and customer intent enters the shared relationship record.": {
-    "ko": "파트너 및 고객의 의도가 공유 관계 레코드에 동기화됩니다."
+    "ko": "파트너 및 고객의 의도가 공유 관계 레코드에 동기화됩니다.",
+    "ja": "パートナーおよび顧客のインテント（潜在的取引意図）が共有リレーションシップ・レコードへと統合される。"
   },
   "02 / ENRICH": {
-    "ko": "02 / 고도화(ENRICH)"
+    "ko": "02 / 고도화(ENRICH)",
+    "ja": "02 / 拡充"
   },
   "Company RAG and Qubit ERP resolve context and next actions.": {
-    "ko": "기업 RAG와 Qubit ERP가 맥락과 후속 실행 조치를 해결·도출합니다."
+    "ko": "기업 RAG와 Qubit ERP가 맥락과 후속 실행 조치를 해결·도출합니다.",
+    "ja": "社内RAGとQubit ERPが文脈（コンテキスト）を即座に解決し、最適ネクストアクションを導出・決定する。"
   },
   "03 / ENGAGE": {
-    "ko": "03 / 인게이지먼트(ENGAGE)"
+    "ko": "03 / 인게이지먼트(ENGAGE)",
+    "ja": "03 / 実行展開"
   },
   "AI agents prepare follow-up while people focus on decisions.": {
-    "ko": "인간이 핵심 의사결정에 집중하는 동안 AI 에이전트가 후속 조치를 완결합니다."
+    "ko": "인간이 핵심 의사결정에 집중하는 동안 AI 에이전트가 후속 조치를 완결합니다.",
+    "ja": "意思決定者が戦略的判断に集中する間、AIエージェントが高度なフォローアップを自律的に準備・遂行する。"
   },
   "04 / LEARN": {
-    "ko": "04 / 학습(LEARN)"
+    "ko": "04 / 학습(LEARN)",
+    "ja": "04 / 自律学習"
   },
   "Deal outcomes and service history improve future routing.": {
-    "ko": "딜 성과 및 서비스 이력 데이터를 기반으로 차세대 라우팅 경로를 정밀하게 최적화합니다."
+    "ko": "딜 성과 및 서비스 이력 데이터를 기반으로 차세대 라우팅 경로를 정밀하게 최적화합니다.",
+    "ja": "ディール成約実績とサービス提供履歴が、将来の意思決定およびルーティング精度を継続的に最適化する。"
   },
   "For SISTAR CRM: From Manual Sales to 24/7 Autonomous Data Feeding, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "SISTAR CRM: 수동 영업에서 24/7 상시 자율 데이터 피딩으로 전환하며, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다."
+    "ko": "SISTAR CRM: 수동 영업에서 24/7 상시 자율 데이터 피딩으로 전환하며, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 완벽히 정렬합니다.",
+    "ja": "SISTAR CRMにおいて：属人的営業から24時間365日の自律型データフィーディングへ。Qubit Algorithm™およびAI Intelligence-Coreが、共有インフラストラクチャを通じて需要、ドメイン実行、そして複数ステークホルダー間の価値具現化を完全に整合・整流化する。"
   },
   "01 / EXPERIENCE": {
-    "ko": "01 / 경험"
+    "ko": "01 / 경험",
+    "ja": "01 / 現場知見"
   },
   "Field experience surfaces recurring cross-border pain points.": {
-    "ko": "현장 실무 경험을 통해 국경 간 거래에서 반복되는 핵심 난제와 페인 포인트를 도출합니다."
+    "ko": "현장 실무 경험을 통해 국경 간 거래에서 반복되는 핵심 난제와 페인 포인트를 도출합니다.",
+    "ja": "現場での実務知見を通じて、国境を越えて反復する構造的課題（ペインポイント）を抽出・顕在化させます。"
   },
   "02 / CODIFY": {
-    "ko": "02 / 체계화"
+    "ko": "02 / 체계화",
+    "ja": "02 / 体系化"
   },
   "The Qubit Algorithm formalizes those patterns into operating logic.": {
-    "ko": "Qubit Algorithm은 이러한 반복 패턴을 실행 가능한 운영 로직으로 공식화합니다."
+    "ko": "Qubit Algorithm은 이러한 반복 패턴을 실행 가능한 운영 로직으로 공식화합니다.",
+    "ja": "Qubit Algorithmは、それらのパターンを実行可能なオペレーティング・ロジックへと形式化・定式化します。"
   },
   "03 / BUILD": {
-    "ko": "03 / 구축"
+    "ko": "03 / 구축",
+    "ja": "03 / 実装構築"
   },
   "Founder projects turn the logic into repeatable products and services.": {
-    "ko": "파운더 프로젝트는 해당 로직을 확장 및 재현 가능한 제품과 서비스로 구현합니다."
+    "ko": "파운더 프로젝트는 해당 로직을 확장 및 재현 가능한 제품과 서비스로 구현합니다.",
+    "ja": "ファウンダー主導のプロジェクト群が、そのロジックを再現性の高いプロダクトおよびサービスへと昇華させます。"
   },
   "04 / SHARE": {
-    "ko": "04 / 공유"
+    "ko": "04 / 공유",
+    "ja": "04 / エコシステム還元"
   },
   "Partners contribute outcomes back to the Signal Star Universe.": {
-    "ko": "파트너사는 도출된 최종 성과를 Signal Star Universe로 환원하여 생태계에 기여합니다."
+    "ko": "파트너사는 도출된 최종 성과를 Signal Star Universe로 환원하여 생태계에 기여합니다.",
+    "ja": "パートナー企業が創出した成果は、再びSignal Star Universeへと還元・集約されます。"
   },
   "For SISTAR Company — Corporate Heritage, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "SISTAR Company — 기업 헤리티지 관점에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 바탕으로 수요, 도메인 실행력, 다자간 가치 창출을 통합 정렬합니다."
+    "ko": "SISTAR Company — 기업 헤리티지 관점에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 바탕으로 수요, 도메인 실행력, 다자간 가치 창출을 통합 정렬합니다.",
+    "ja": "SISTAR Companyのコーポレート・ヘリテージにおいて、Qubit Algorithm™とAI Intelligence-Coreは、共有インフラストラクチャを介して市場需要、ドメイン固有の実行力、そして関係者間における多面的な価値具現化を高度に整合・同期させます。"
   },
   "*SC — Supreme Command Hub of the Signal Star Universe turns shared infrastructure into domain-specific action.": {
-    "ko": "*SC — Signal Star Universe의 최고 사령부 허브(Supreme Command Hub)는 공유 인프라를 도메인 특화 실행력으로 전환합니다."
+    "ko": "*SC — Signal Star Universe의 최고 사령부 허브(Supreme Command Hub)는 공유 인프라를 도메인 특화 실행력으로 전환합니다.",
+    "ja": "*SC — Signal Star Universeの最高統括指揮ハブ（Supreme Command Hub）は、共有インフラストラクチャを各ドメイン特化型のアクションへと転換します。"
   },
   "For *SC — Supreme Command Hub of the Signal Star Universe, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC — Signal Star Universe 최고 사령부 허브 체계에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 유기적으로 정렬합니다."
+    "ko": "*SC — Signal Star Universe 최고 사령부 허브 체계에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 유기적으로 정렬합니다.",
+    "ja": "Signal Star Universeの最高統括指令ハブ（Supreme Command Hub）である*SCにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを介して需要、ドメイン実行、ならびに多面的なステークホルダー価値の具現化を精緻にアライン（統合連動）させます。"
   },
   "01 / SIGNAL": {
-    "ko": "01 / 시그널"
+    "ko": "01 / 시그널",
+    "ja": "01 / シグナル (SIGNAL)"
   },
   "Local demand and regulatory signals enter the SCK hub.": {
-    "ko": "현지 시장 수요 및 규제 시그널이 SCK 허브로 인입됩니다."
+    "ko": "현지 시장 수요 및 규제 시그널이 SCK 허브로 인입됩니다.",
+    "ja": "現地の需要シグナルおよび規制シグナルがSCKハブへと流入・統合されます。"
   },
   "02 / CONTEXT": {
-    "ko": "02 / 컨텍스트"
+    "ko": "02 / 컨텍스트",
+    "ja": "02 / コンテキスト (CONTEXT)"
   },
   "Company RAG aligns market, clinical, and trade intelligence.": {
-    "ko": "기업형 RAG가 시장, 임상, 글로벌 무역 인텔리전스를 입체적으로 정렬합니다."
+    "ko": "기업형 RAG가 시장, 임상, 글로벌 무역 인텔리전스를 입체적으로 정렬합니다.",
+    "ja": "Company RAGが市場、臨床、ならびに貿易インテリジェンスを統合・整合化します。"
   },
   "Regional ODM, distribution, or service partners deliver locally.": {
-    "ko": "권역별 ODM, 유통 및 서비스 파트너가 현지 최적화된 실행 및 딜리버리를 전개합니다."
+    "ko": "권역별 ODM, 유통 및 서비스 파트너가 현지 최적화된 실행 및 딜리버리를 전개합니다.",
+    "ja": "各地域のODM、流通、またはサービスパートナーが現地デリバリーを自律遂行します。"
   },
   "Qubit settlement and operating data feed the next forecast.": {
-    "ko": "Qubit 정산 및 운용 데이터는 차기 예측 모델로 피드백·반영됩니다."
+    "ko": "Qubit 정산 및 운용 데이터는 차기 예측 모델로 피드백·반영됩니다.",
+    "ja": "Qubit決済およびオペレーティングデータが次期予測モデルへとフィードバックされます。"
   },
   "For sistar company korea (SCK) — Global HQ, R&D Origination & K-SURE Export Command, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company korea (SCK) — 글로벌 헤드쿼터, R&D 오리지네이션 및 K-SURE 수출 커맨드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company korea (SCK) — 글로벌 헤드쿼터, R&D 오리지네이션 및 K-SURE 수출 커맨드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "グローバル統括本社、R&Dオリジネーション、ならびにK-SURE輸出統括コマンドを担うsistar company korea（SCK）において、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを介して需要、ドメイン実行、ならびに多面的なステークホルダー価値の具現化を精緻にアラインさせます。"
   },
   "Local demand and regulatory signals enter the SCI hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCI 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCI 허브로 유입됩니다.",
+    "ja": "現地の需要シグナルおよび規制シグナルがSCIハブへ入力される。"
   },
   "For sistar company indonesia (SCI) — ASEAN Quantum Scale & Volume-Deal Anchor, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company indonesia (SCI) — 아세안 퀀텀 스케일 및 대형 볼륨 딜 앵커의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company indonesia (SCI) — 아세안 퀀텀 스케일 및 대형 볼륨 딜 앵커의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "ASEANにおけるクオンタムスケールおよび大規模取引のアンカーであるsistar company indonesia (SCI) において、Qubit Algorithm™とAIインテリジェンス・コアは、共有インフラを通じて需要、ドメイン実行、および多者間での価値具現化を高度に整合させます。"
   },
   "Local demand and regulatory signals enter the SCV hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCV 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCV 허브로 유입됩니다.",
+    "ja": "現地の需要シグナルおよび規制シグナルがSCVハブへ入力される。"
   },
   "For sistar company vietnam (SCV) — Indochina High-Velocity Commerce, AgTech & AI Challenger Hub, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company vietnam (SCV) — 인도차이나 초고속 커머스, 애그테크(AgTech) 및 AI 챌린저 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company vietnam (SCV) — 인도차이나 초고속 커머스, 애그테크(AgTech) 및 AI 챌린저 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "インドシナにおける高速度商業、アグテック、AIチャレンジャーハブであるsistar company vietnam (SCV) において、Qubit Algorithm™とAIインテリジェンス・コアは、共有インフラを通じて需要、ドメイン実行、および多者間での価値具現化を整合させます。"
   },
   "Local demand and regulatory signals enter the SCS hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCS 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCS 허브로 유입됩니다.",
+    "ja": "ローカル需要および規制シグナルがSCSハブへ流入・集約されます。"
   },
   "For sistar company singapore (SCS) — Global Quantum Finance, Multilateral Clearing & Treasury Hub, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company singapore (SCS) — 글로벌 퀀텀 금융, 다자간 청산 및 트레저리 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company singapore (SCS) — 글로벌 퀀텀 금융, 다자간 청산 및 트레저리 허브의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "SISTAR Company Singapore（SCS）— グローバル・クオンタム・ファイナンス、多角相殺決済（マルチラテラル・クリアリング）＆トレジャリー・ハブにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、そして多者間における価値創出・回収を高度に同期・整合化します。"
   },
   "Local demand and regulatory signals enter the SCC hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCC 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCC 허브로 유입됩니다.",
+    "ja": "ローカル需要および規制シグナルがSCCハブへ流入・集約されます。"
   },
   "For sistar company china (SCC) — Global Hardware, Physical AI Robotics & Algorithmic Supply-Chain Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company china (SCC) — 글로벌 하드웨어, 피지컬 AI 로보틱스 및 알고리즘 공급망 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company china (SCC) — 글로벌 하드웨어, 피지컬 AI 로보틱스 및 알고리즘 공급망 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "SISTAR Company China（SCC）— グローバル・ハードウェア、フィジカルAIロボティクス＆アルゴリズミック・サプライチェーン・ノードにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、そして多者間における価値創出・回収を高度に同期・整合化します。"
   },
   "Local demand and regulatory signals enter the SCJ hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCJ 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCJ 허브로 유입됩니다.",
+    "ja": "現地需要および規制シグナルがSCJハブへ入力・統合される。"
   },
   "For sistar company japan (SCJ) — Premium Longevity, Clinical Pet Care & High-Trust Brand Constellation Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company japan (SCJ) — 프리미엄 론제비티(Longevity), 임상 펫케어 및 고신뢰 브랜드 콘스텔레이션 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company japan (SCJ) — 프리미엄 론제비티(Longevity), 임상 펫케어 및 고신뢰 브랜드 콘스텔레이션 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "sistar company japan（SCJ）— プレミアム・ロンジェビティ、臨床ペットケア、高信頼性ブランド・コンステレーション・ノードにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、多者間価値の具現化を精緻にアラインメントする。"
   },
   "• High-Multiple SaaS & Digital Asset Liquidity: Combines recurring B2B/B2C SaaS subscription streams across scarlet.sistarcompany.com and qubit.sistarcompany.com with systematic micro-SaaS app-flipping exits.": {
-    "ko": "• 고배수(High-Multiple) SaaS 및 디지털 자산 유동성: scarlet.sistarcompany.com 및 qubit.sistarcompany.com 전반의 반복적 B2B/B2C SaaS 구독 파이프라인과 체계적인 마이크로 SaaS 앱 플리핑(App-flipping) 엑시트를 결합합니다."
+    "ko": "• 고배수(High-Multiple) SaaS 및 디지털 자산 유동성: scarlet.sistarcompany.com 및 qubit.sistarcompany.com 전반의 반복적 B2B/B2C SaaS 구독 파이프라인과 체계적인 마이크로 SaaS 앱 플리핑(App-flipping) 엑시트를 결합합니다.",
+    "ja": "• 高マルチプルSaaS＆デジタルアセット流動性：scarlet.sistarcompany.comおよびqubit.sistarcompany.comを通じたB2B/B2C SaaSのリカーリング・サブスクリプション・ストリームと、体系的なMicro-SaaSアプリフリッピング（事業売却）エグジットを統合。"
   },
   "Local demand and regulatory signals enter the SCU hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCU 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCU 허브로 유입됩니다.",
+    "ja": "現地需要および規制シグナルがSCUハブへ入力・統合される。"
   },
   "For sistar company usa (SCU) — North American Agentic AI, Micro-SaaS Factory & Global Capital Markets Node, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar company usa (SCU) — 북미 에이전틱 AI, 마이크로 SaaS 팩토리 및 글로벌 자본시장 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다."
+    "ko": "sistar company usa (SCU) — 북미 에이전틱 AI, 마이크로 SaaS 팩토리 및 글로벌 자본시장 노드의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행, 다자간 가치 실현을 정렬합니다.",
+    "ja": "sistar company usa（SCU）— 北米エージェンティックAI、Micro-SaaSファクトリー、グローバル資本市場ノードにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、多者間価値の具現化を精緻にアラインメントする。"
   },
   "01 / INGEST": {
-    "ko": "01 / 수집 (INGEST)"
+    "ko": "01 / 수집 (INGEST)",
+    "ja": "01 / INGEST（データ取込）"
   },
   "Clinical, tariff, market, and investor sources enter the data pool.": {
-    "ko": "임상, 관세, 시장 및 투자자 데이터 소스가 데이터 풀로 유입됩니다."
+    "ko": "임상, 관세, 시장 및 투자자 데이터 소스가 데이터 풀로 유입됩니다.",
+    "ja": "臨床、関税、市場動向、および投資家関連の各データソースがデータプールへと統合される。"
   },
   "02 / VALIDATE": {
-    "ko": "02 / 검증 (VALIDATE)"
+    "ko": "02 / 검증 (VALIDATE)",
+    "ja": "02 / VALIDATE（検証・評価）"
   },
   "Company RAG cross-checks context and preserves source lineage.": {
-    "ko": "엔터프라이즈 RAG가 컨텍스트를 교차 검증하고 소스 계보(Lineage)를 완벽히 보존합니다."
+    "ko": "엔터프라이즈 RAG가 컨텍스트를 교차 검증하고 소스 계보(Lineage)를 완벽히 보존합니다.",
+    "ja": "企業特化型RAGがコンテキストを相互検証し、データソースの系譜（データリネージ）を厳密に保持・担保する。"
   },
   "03 / ACTIVATE": {
-    "ko": "03 / 활성화 (ACTIVATE)"
+    "ko": "03 / 활성화 (ACTIVATE)",
+    "ja": "03 / ACTIVATE（活性化・展開）"
   },
   "Partner offers and unmanned media distribute the verified intelligence.": {
-    "ko": "파트너 오퍼와 무인화 미디어를 통해 검증된 인텔리전스를 배포합니다."
+    "ko": "파트너 오퍼와 무인화 미디어를 통해 검증된 인텔리전스를 배포합니다.",
+    "ja": "検証済みインテリジェンスは、パートナーオファーおよび自律型メディア（無人メディア）を通じて配信・伝播される。"
   },
   "Commercial outcomes refresh the next intelligence cycle.": {
-    "ko": "상업적 성과는 다음 인텔리전스 사이클을 지속적으로 리프레시합니다."
+    "ko": "상업적 성과는 다음 인텔리전스 사이클을 지속적으로 리프레시합니다.",
+    "ja": "商業的成果が、次期インテリジェンス・サイクルを継続的に更新・高度化します。"
   },
   "For *SC - Intl AI Data Alliance (IADA), the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC - 국제 AI 데이터 연합(IADA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+    "ko": "*SC - 국제 AI 데이터 연합(IADA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다.",
+    "ja": "*SC - Intl AI Data Alliance（IADA）において、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、ならびに複数ステークホルダーによる価値具現化を高度に調和・統合します。"
   },
   "01 / CONNECT": {
-    "ko": "01 / 연결 (CONNECT)"
+    "ko": "01 / 연결 (CONNECT)",
+    "ja": "01 / CONNECT（連携・接続）"
   },
   "Independent manufacturers, clinics, distributors, and creators join.": {
-    "ko": "독립 제조업체, 클리닉, 유통사 및 크리에이터가 생태계에 참여합니다."
+    "ko": "독립 제조업체, 클리닉, 유통사 및 크리에이터가 생태계에 참여합니다.",
+    "ja": "独立系メーカー、クリニック、流通事業者、クリエイターが参画。"
   },
   "02 / ALIGN": {
-    "ko": "02 / 정렬 (ALIGN)"
+    "ko": "02 / 정렬 (ALIGN)",
+    "ja": "02 / ALIGN（整合・同期）"
   },
   "IATA and IADA coordinate trade execution and verified intelligence.": {
-    "ko": "IATA와 IADA가 무역 실행과 검증된 인텔리전스를 유기적으로 조율합니다."
+    "ko": "IATA와 IADA가 무역 실행과 검증된 인텔리전스를 유기적으로 조율합니다.",
+    "ja": "IATAおよびIADAが、貿易執行と検証済みインテリジェンスを統合・統制します。"
   },
   "Shared AI infrastructure turns partner intent into cross-border action.": {
-    "ko": "공유 AI 인프라는 파트너의 비즈니스 인텐트를 즉각적인 크로스보더 실행으로 전환합니다."
+    "ko": "공유 AI 인프라는 파트너의 비즈니스 인텐트를 즉각적인 크로스보더 실행으로 전환합니다.",
+    "ja": "共有型AIインフラストラクチャが、パートナー企業の事業意図を国境を越えた実効的アクションへと転換します。"
   },
   "04 / RECYCLE": {
-    "ko": "04 / 재순환 (RECYCLE)"
+    "ko": "04 / 재순환 (RECYCLE)",
+    "ja": "04 / RECYCLE（循環・再配分）"
   },
   "Settlement and data feedback strengthen the next opportunity.": {
-    "ko": "정산 및 데이터 피드백 루프가 다음 비즈니스 기회의 정밀도를 강화합니다."
+    "ko": "정산 및 데이터 피드백 루프가 다음 비즈니스 기회의 정밀도를 강화합니다.",
+    "ja": "決済およびデータのフィードバックが、次なる商機の創出と拡張性を強固にします。"
   },
   "For *SC - Intl Alliance: Sovereign AI Trade & Data Federation, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC - 국제 연합: 소버린 AI 무역 & 데이터 연합의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+    "ko": "*SC - 국제 연합: 소버린 AI 무역 & 데이터 연합의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다.",
+    "ja": "*SC - Intl Alliance: Sovereign AI Trade & Data Federationにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、ならびに複数ステークホルダーによる価値具現化を高度に整合・統合します。"
   },
   "Signal Star governance links one strategic spark to shared AI execution and federated global outcomes.": {
-    "ko": "Signal Star 거버넌스는 단 하나의 전략적 스파크를 공유 AI 실행 및 연합형 글로벌 성과로 연계합니다."
+    "ko": "Signal Star 거버넌스는 단 하나의 전략적 스파크를 공유 AI 실행 및 연합형 글로벌 성과로 연계합니다.",
+    "ja": "Signal Starのガバナンス体制は、単一の戦略的トリガー（Spark）を共有AI実行基盤へと直結させ、グローバルに統合された複利的な成果へと結実させます。"
   },
   "The domain topology separates distinct operating roles while sharing one constitutional and AI engine.": {
-    "ko": "도메인 토폴로지는 단일 헌법 및 AI 엔진을 공유하면서도 독립된 운영 역할을 명확히 분리합니다."
+    "ko": "도메인 토폴로지는 단일 헌법 및 AI 엔진을 공유하면서도 독립된 운영 역할을 명확히 분리합니다.",
+    "ja": "ドメイントポロジーは、単一の基本理念（Constitutional Engine）およびAI基盤を共有しつつ、個別事業の執行ロールを自律的に分離・最適化します。"
   },
   "EXECUTIVE QUESTION -> OPERATING ANSWER": {
-    "ko": "경영진 전략 질의 -> 현장 운영 솔루션"
+    "ko": "경영진 전략 질의 -> 현장 운영 솔루션",
+    "ja": "経営的命題（EXECUTIVE QUESTION）-> 執行解（OPERATING ANSWER）"
   },
   "Signal Star Universe One Spark, Infinite Galaxifying turns shared infrastructure into domain-specific action.": {
-    "ko": "Signal Star Universe의 One Spark, Infinite Galaxifying 프레임워크는 공유 인프라를 도메인 특화 실행으로 즉각 전환합니다."
+    "ko": "Signal Star Universe의 One Spark, Infinite Galaxifying 프레임워크는 공유 인프라를 도메인 특화 실행으로 즉각 전환합니다.",
+    "ja": "Signal Star Universe の「One Spark, Infinite Galaxifying」は、共有インフラストラクチャをドメイン特化型のアクション（事業実行力）へと昇華させます。"
   },
   "For Signal Star Universe One Spark, Infinite Galaxifying, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "Signal Star Universe One Spark, Infinite Galaxifying 환경에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다."
+    "ko": "Signal Star Universe One Spark, Infinite Galaxifying 환경에서, Qubit Algorithm™과 AI Intelligence-Core는 공유 인프라를 통해 수요, 도메인 실행 및 다자간 가치 실현을 완벽히 정렬합니다.",
+    "ja": "Signal Star Universe の「One Spark, Infinite Galaxifying」において、Qubit Algorithm™ と AI Intelligence-Core は、共有インフラストラクチャを通じて需要、ドメイン実行力、およびマルチステークホルダー間の多面的な価値具現化を精密にアライン（同期・整合）させます。"
   },
   "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{Raw}}\\rangle \\otimes \\beta |F_{\\text{Factory}}\\rangle \\otimes \\gamma |L_{\\text{Logistics}}\\rangle \\otimes \\delta |B_{\\text{Bank}}\\rangle \\xrightarrow{\\hat{M}_{\\text{Vision}}} |\\text{Settled}_{t=0}\\rangle Where $\\hat{M}_{\\text{Vision}}$ is the Gemini Vision optical audit operator. The instant warehouse CCTV verifies physical pallet arrival, the wave function collapses into four simultaneous ledger updates: factory COGS payout ($70\\%$), platform reserve ($30\\%$), instant VAT remittance, and client credit release. \\Delta S_{\\text{entropy}} = k_B \\ln\\left(\\frac{W_{\\text{unverified}}}{W_{\\text{optical}}}\\right) \\longrightarrow 0 \\quad \\text{and} \\quad CCC = \\text{DIO} + \\text{DSO} - \\text{DPO} \\xrightarrow{t=0} 0 Physical inventory entropy $\\Delta S$ approaches zero via continuous 60-second optical observation, collapsing the traditional 90-day cash conversion cycle ($CCC$) to instantaneous settlement ($t=0$).": {
     "ko": "|\\Psi_{\\text{ERP}}(t)\\rangle = \\alpha |M_{\\text{Raw}}\\rangle \\otimes \\beta |F_{\\text{Factory}}\\rangle \\otimes \\gamma |L_{\\text{Logistics}}\\rangle \\otimes \\delta |B_{\\text{Bank}}\\rangle \\xrightarrow{\\hat{M}_{\\text{Vision}}} |\\text{Settled}_{t=0}\\rangle (여기서 $\\hat{M}_{\\text{Vision}}$은 Gemini Vision 광학 감사 연산자임). 물류창고 CCTV가 물리적 팔레트 입고를 검증하는 즉시 파동함수는 4개의 동시 원장 업데이트(공장 COGS 지급($70\\%$), 플랫폼 유보금($30\\%$), 실시간 VAT 송금, 고객 여신 한도 해제)로 붕괴됩니다. \\Delta S_{\\text{entropy}} = k_B \\ln\\left(\\frac{W_{\\text{unverified}}}{W_{\\text{optical}}}\\right) \\longrightarrow 0 \\quad \\text{및} \\quad CCC = \\text{DIO} + \\text{DSO} - \\text{DPO} \\xrightarrow{t=0} 0. 60초 단위의 지속적인 광학 관측을 통해 물리적 재고 엔트로피 $\\Delta S$가 0에 수렴함으로써, 전통적인 90일 현금전환주기($CCC$)를 즉각 정산($t=0$) 상태로 붕괴시킵니다."
@@ -92312,7 +92464,8 @@ window.SC_TRANSLATIONS = {
     "ko": "← Intelligence-Core로 돌아가기"
   },
   "01 • WHAT IT IS (CORE DEFINITION)": {
-    "ko": "01 • WHAT IT IS (핵심 정의)"
+    "ko": "01 • WHAT IT IS (핵심 정의)",
+    "ja": "01 • 本質的定義（CORE DEFINITION）"
   },
   "02 • WHY THIS CATEGORY EXISTS (STRATEGIC RATIONALE)": {
     "ko": "02 • 본 카테고리의 존재 당위성 (전략적 근거)"
@@ -92987,7 +93140,8 @@ window.SC_TRANSLATIONS = {
     "ko": "MECHANISM 02 • 공유형 마이크로 물류 & 피지컬 Vision AI"
   },
   "03 • HOW IT WORKS (OPERATIONAL MECHANISM)": {
-    "ko": "03 • 작동 원리 (운영 메커니즘)"
+    "ko": "03 • 작동 원리 (운영 메커니즘)",
+    "ja": "03 • 運用メカニズム（OPERATIONAL MECHANISM）"
   },
   "PILLAR 01 ??ZERO-COST INTERNAL INFRASTRUCTURE": {
     "ko": "PILLAR 01 ─ 무비용(Zero-Cost) 내부 인프라스트럭처"
@@ -93620,19 +93774,24 @@ window.SC_TRANSLATIONS = {
     "ko": "[Qubit Flow 차익거래] Execute_Webhook(i -> j) iff Delta P_ij = (P_Market_j - P_Source_i) - (C_Tariff + C_Freight + C_PG) > Margin_Min > 0"
   },
   "THE COSMIC ARCHITECTURE OF *SC": {
-    "ko": "*SC의 코스믹 아키텍처"
+    "ko": "*SC의 코스믹 아키텍처",
+    "ja": "*SC のコズミック・アーキテクチャ"
   },
   "THE COMMAND HUB • *SC HQ": {
-    "ko": "커맨드 허브 • *SC HQ"
+    "ko": "커맨드 허브 • *SC HQ",
+    "ja": "コマンドハブ • *SC HQ"
   },
   "THE SPACESHIP • VIBE WORKING": {
-    "ko": "스페이스십 • VIBE WORKING"
+    "ko": "스페이스십 • VIBE WORKING",
+    "ja": "スペースシップ • VIBE WORKING"
   },
   "THE PROPULSION ENGINE & COMMANDER": {
-    "ko": "추진 엔진 및 지휘관"
+    "ko": "추진 엔진 및 지휘관",
+    "ja": "推進エンジン ＆ コマンダー"
   },
   "THE ASTRONAUTS & FEDERATION": {
-    "ko": "우주비행사 및 연맹"
+    "ko": "우주비행사 및 연맹",
+    "ja": "アストロノーツ ＆ フェデレーション"
   },
   "CORPORATE DNA • REBORN FOR THE AUTONOMOUS AI ERA": {
     "ko": "기업 DNA • 자율형 AI 시대를 위한 재탄생"
@@ -93653,397 +93812,527 @@ window.SC_TRANSLATIONS = {
     "ko": "전략적 비즈니스 파트너를 위한 제언"
   },
   "FOR VENTURE & INSTITUTIONAL INVESTORS": {
-    "ko": "벤처 및 기관 투자자를 위한 제언"
+    "ko": "벤처 및 기관 투자자를 위한 제언",
+    "ja": "ベンチャーキャピタルおよび機関投資家向け"
   },
   "THE PARADIGM SHIFT • BEYOND NEWTONIAN LINEAR BUSINESS": {
-    "ko": "패러다임 전환 • 뉴턴역학적 선형 비즈니스를 넘어서"
+    "ko": "패러다임 전환 • 뉴턴역학적 선형 비즈니스를 넘어서",
+    "ja": "パラダイムシフト • ニュートン力学的線形ビジネスモデルの超越"
   },
   "LAW 01 • QUANTUM FLUCTUATION & GENESIS": {
-    "ko": "법칙 01 • 양자 요동 및 기원"
+    "ko": "법칙 01 • 양자 요동 및 기원",
+    "ja": "LAW 01 • 量子ゆらぎと創生"
   },
   "LAW 02 • QUANTUM SUPERPOSITION": {
-    "ko": "법칙 02 • 양자 중첩"
+    "ko": "법칙 02 • 양자 중첩",
+    "ja": "LAW 02 • 量子重ね合わせ"
   },
   "LAW 03 • QUANTUM ENTANGLEMENT": {
-    "ko": "법칙 03 • 양자 얽힘"
+    "ko": "법칙 03 • 양자 얽힘",
+    "ja": "LAW 03 • 量子もつれ"
   },
   "LAW 04 • QUANTUM TUNNELING & INTERFERENCE": {
-    "ko": "법칙 04 • 양자 터널링 및 간섭"
+    "ko": "법칙 04 • 양자 터널링 및 간섭",
+    "ja": "LAW 04 • 量子トンネル効果と干渉"
   },
   "TIER I • PROJECTS 01–06": {
-    "ko": "티어 I • 프로젝트 01–06"
+    "ko": "티어 I • 프로젝트 01–06",
+    "ja": "TIER I • プロジェクト 01–06"
   },
   "TIER II • PROJECTS 07–09": {
-    "ko": "티어 II • 프로젝트 07–09"
+    "ko": "티어 II • 프로젝트 07–09",
+    "ja": "TIER II • プロジェクト 07–09"
   },
   "TIER III • PROJECTS 10–13": {
-    "ko": "티어 III • 프로젝트 10–13"
+    "ko": "티어 III • 프로젝트 10–13",
+    "ja": "TIER III • プロジェクト 10–13"
   },
   "TIER IV • PROJECTS 14–15": {
-    "ko": "티어 IV • 프로젝트 14–15"
+    "ko": "티어 IV • 프로젝트 14–15",
+    "ja": "TIER IV • プロジェクト 14–15"
   },
   "THE 4 FOUNDATIONAL PILLARS • GLOBAL STANDARD FRAMING": {
-    "ko": "4대 기반 축 • 글로벌 스탠다드 프레이밍"
+    "ko": "4대 기반 축 • 글로벌 스탠다드 프레이밍",
+    "ja": "4大基盤ピラー • グローバル標準フレーミング"
   },
   "PILLAR I • MATHEMATICAL & OPERATIONAL ENGINE": {
-    "ko": "필라 I • 수학적·운영적 엔진"
+    "ko": "필라 I • 수학적·운영적 엔진",
+    "ja": "ピラーI • 数理＆オペレーショナル・エンジン"
   },
   "PILLAR II • UNFAIR DOMAIN MOAT": {
-    "ko": "필라 II • 독보적 도메인 해자"
+    "ko": "필라 II • 독보적 도메인 해자",
+    "ja": "ピラーII • 圧倒的ドメイン・モート（非対称的競争優位性）"
   },
   "20+ YEARS OF LIVED OVERSEAS BD": {
-    "ko": "20년 이상의 현장 체화형 해외 사업개발(BD)"
+    "ko": "20년 이상의 현장 체화형 해외 사업개발(BD)",
+    "ja": "20年超の実践的海外事業開発（BD）実績"
   },
   "*SC AI CENTERS INTERNATIONAL": {
-    "ko": "*SC 인터내셔널 AI 센터"
+    "ko": "*SC 인터내셔널 AI 센터",
+    "ja": "*SC 国際AIセンター"
   },
   "PILLAR III • GLOBAL MOVEMENT & NEW WORK PARADIGM": {
-    "ko": "필라 III • 글로벌 무브먼트 및 차세대 업무 패러다임"
+    "ko": "필라 III • 글로벌 무브먼트 및 차세대 업무 패러다임",
+    "ja": "ピラーIII • グローバル・ムーブメント＆新ワークパラダイム"
   },
   "FEDERATED ENTANGLEMENT": {
-    "ko": "연합 얽힘"
+    "ko": "연합 얽힘",
+    "ja": "連合エンタングルメント（Federated Entanglement）"
   },
   "VIBE WORKING & DIRECT AI TRADE": {
-    "ko": "바이브 워킹 및 다이렉트 AI 무역"
+    "ko": "바이브 워킹 및 다이렉트 AI 무역",
+    "ja": "VIBE WORKING ＆ ダイレクトAIトレード"
   },
   "PILLAR IV • FOUNDATIONAL CAPABILITY MULTIPLIER": {
-    "ko": "필라 IV • 기반 역량 승수 체계"
+    "ko": "필라 IV • 기반 역량 승수 체계",
+    "ja": "ピラーIV • 基盤的機能マルチプライヤー（能力増幅因子）"
   },
   "TIER 1 • PROJECTS 01–06": {
-    "ko": "티어 1 • 프로젝트 01–06"
+    "ko": "티어 1 • 프로젝트 01–06",
+    "ja": "ティア1 • プロジェクト 01–06"
   },
   "TIER 2 • PROJECTS 07–09": {
-    "ko": "티어 2 • 프로젝트 07–09"
+    "ko": "티어 2 • 프로젝트 07–09",
+    "ja": "ティア2 • プロジェクト 07–09"
   },
   "TIER 3 • PROJECTS 10–13": {
-    "ko": "티어 3 • 프로젝트 10–13"
+    "ko": "티어 3 • 프로젝트 10–13",
+    "ja": "ティア3 • プロジェクト 10–13"
   },
   "TIER 4 • PROJECTS 14–15": {
-    "ko": "티어 4 • 프로젝트 14–15"
+    "ko": "티어 4 • 프로젝트 14–15",
+    "ja": "ティア4 • プロジェクト 14–15"
   },
   "ARCHITECTURAL DESIGN PRINCIPLE 01": {
-    "ko": "아키텍처 설계 원칙 01"
+    "ko": "아키텍처 설계 원칙 01",
+    "ja": "アーキテクチャ設計原則 01"
   },
   "ARCHITECTURAL DESIGN PRINCIPLE 02": {
-    "ko": "아키텍처 설계 원칙 02"
+    "ko": "아키텍처 설계 원칙 02",
+    "ja": "アーキテクチャ設計原則 02"
   },
   "Primary Audience: Global Enterprise Counterparties, Sovereign Trade Bodies & Institutional VCs": {
-    "ko": "핵심 대상: 글로벌 엔터프라이즈 거래처, 국가 무역 진흥 기구 및 기관계 VC"
+    "ko": "핵심 대상: 글로벌 엔터프라이즈 거래처, 국가 무역 진흥 기구 및 기관계 VC",
+    "ja": "主要対象読者：グローバルエンタープライズ取引先、ソブリン貿易機関、および機関投資家向けVC"
   },
   "Theoretical Core: 5 Quantum Laws Engineered into Commercial Execution Code": {
-    "ko": "이론적 핵심: 상용 실행 코드로 공학화된 5대 양자 법칙"
+    "ko": "이론적 핵심: 상용 실행 코드로 공학화된 5대 양자 법칙",
+    "ja": "理論的コア：商用実行コードへとエンジニアリングされた5つの量子力学法則"
   },
   "CONSTITUTIONAL HAMILTONIAN • HOW LAYER 1 MATHEMATICAL LAWS GOVERN LAYERS 2 -> 6": {
-    "ko": "헌법적 해밀토니안 • 레이어 1의 수학적 법칙이 레이어 2 -> 6을 규율하는 메커니즘"
+    "ko": "헌법적 해밀토니안 • 레이어 1의 수학적 법칙이 레이어 2 -> 6을 규율하는 메커니즘",
+    "ja": "憲章的ハミルトニアン • レイヤー1の数学的法則がレイヤー2から6を統括するメカニズム"
   },
   "COGNITIVE & ENTERPRISE OS ASSETS (01 - 04)": {
-    "ko": "인지 및 엔터프라이즈 OS 자산 (01 - 04)"
+    "ko": "인지 및 엔터프라이즈 OS 자산 (01 - 04)",
+    "ja": "コグニティブ＆エンタープライズOS資産（01 - 04）"
   },
   "AGENTIC, PHYSICAL AI & MEDIA ASSETS (05 - 07)": {
-    "ko": "에이전틱, 피지컬 AI 및 미디어 자산 (05 - 07)"
+    "ko": "에이전틱, 피지컬 AI 및 미디어 자산 (05 - 07)",
+    "ja": "エージェンティック・フィジカルAIおよびメディア資産（05 - 07）"
   },
   "Internal Efficiency Moat: 100% Admin/ERP Cost Savings via Autonomous Overnight Processing": {
-    "ko": "내부 효율성 해자: 자율적 심야 일괄 처리를 통한 관리/ERP 비용 100% 절감"
+    "ko": "내부 효율성 해자: 자율적 심야 일괄 처리를 통한 관리/ERP 비용 100% 절감",
+    "ja": "内部効率性の経済的堀（Moat）：夜間自律処理による管理・ERPコストの100%削減"
   },
   "DEMAND AGGREGATION & CONVERSATIONAL CLOSING": {
-    "ko": "수요 집적 및 대화형 계약 체결"
+    "ko": "수요 집적 및 대화형 계약 체결",
+    "ja": "需要集約および対話型成約（クロージング）"
   },
   "FINANCIAL TUNNELING & FEE DESTRUCTIVE INTERFERENCE": {
-    "ko": "금융 터널링 및 수수료 상쇄 간섭"
+    "ko": "금융 터널링 및 수수료 상쇄 간섭",
+    "ja": "ファイナンシャル・トンネリングおよび手数料の破壊的干渉"
   },
   "Core Marketplaces: SisCart, Nearbuy, Buy4Me Reverse Auction & mall.sisTV Live Commerce": {
-    "ko": "핵심 마켓플레이스: SisCart, Nearbuy, Buy4Me 역경매 및 mall.sisTV 라이브 커머스"
+    "ko": "핵심 마켓플레이스: SisCart, Nearbuy, Buy4Me 역경매 및 mall.sisTV 라이브 커머스",
+    "ja": "コアマーケットプレイス：SisCart、Nearbuy、Buy4Meリバースオークション、およびmall.sisTVライブコマース"
   },
   "THE 5 MODULAR COSMO SEED™ ENGINES": {
-    "ko": "5대 모듈형 COSMO SEED™ 엔진"
+    "ko": "5대 모듈형 COSMO SEED™ 엔진",
+    "ja": "5つのモジュール型COSMO SEED™エンジン"
   },
   "EXECUTIVE COMMAND & 4-WAY FINANCIAL CLEARING": {
-    "ko": "최고 경영 지휘 및 4자간 금융 청산"
+    "ko": "최고 경영 지휘 및 4자간 금융 청산",
+    "ja": "エグゼクティブ・コマンドおよび4者間ファイナンシャル・クリアリング"
   },
   "Core Philosophy: One Spark, Infinite Galaxifying -> One Task, Multi Outcomes": {
-    "ko": "핵심 철학: One Spark, Infinite Galaxifying -> 단일 과업, 다중 성과 창출"
+    "ko": "핵심 철학: One Spark, Infinite Galaxifying -> 단일 과업, 다중 성과 창출",
+    "ja": "コアフィロソフィー：One Spark, Infinite Galaxifying -> One Task, Multi Outcomes"
   },
   "Bio-Health Constellation: SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic": {
-    "ko": "바이오·헬스 콘스텔레이션: SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic"
+    "ko": "바이오·헬스 콘스텔레이션: SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic",
+    "ja": "バイオ・ヘルス・コンステレーション：SISTAR MedIX • SISPet • SISPharm • Aquasis • SisAyurvedic"
   },
   "Shared R&D & ODM: Auto-Formulator for Vet + Joint GMP Manufacturing Pools": {
-    "ko": "공유 R&D 및 ODM: 수의학 특화 자동 처방기 + 공동 GMP 제조 풀"
+    "ko": "공유 R&D 및 ODM: 수의학 특화 자동 처방기 + 공동 GMP 제조 풀",
+    "ja": "共有R&DおよびODM：動物医療向け自動処方設計エンジン ＋ GMP共同製造プール"
   },
   "Work Philosophy: Vibe Working — Humans Lead Strategy & Relationships; AI Executes Admin": {
-    "ko": "업무 철학: 바이브 워킹(Vibe Working) — 인간은 전략과 관계를 주도하고, AI는 행정 실무를 집행"
+    "ko": "업무 철학: 바이브 워킹(Vibe Working) — 인간은 전략과 관계를 주도하고, AI는 행정 실무를 집행",
+    "ja": "業務理念：Vibe Working — 人間が戦略とリレーションを主導し、AIが管理実務を執行する"
   },
   "Factory Value Prop: Pre-Aggregated Buy4Me Volume + K-SURE BNPL Zero-Default Settlement": {
-    "ko": "제조사 가치 제안: 사전 집적된 Buy4Me 물량 + K-SURE BNPL 무부도 정산 체계"
+    "ko": "제조사 가치 제안: 사전 집적된 Buy4Me 물량 + K-SURE BNPL 무부도 정산 체계",
+    "ja": "工場向けバリュープロポジション：事前集約されたBuy4Me調達量 ＋ K-SURE BNPLによるデフォルトリスクゼロ決済"
   },
   "Investment Vehicles: Supreme Holding Equity • Ring-Fenced Project SPVs • Country Regional JVs": {
-    "ko": "투자 비히클: 최상위 지주사 지분 • 링펜스형 프로젝트 SPV • 국가별 리저널 JV"
+    "ko": "투자 비히클: 최상위 지주사 지분 • 링펜스형 프로젝트 SPV • 국가별 리저널 JV",
+    "ja": "投資ヴィークル：統括持株会社エクイティ • リングフェンス型プロジェクトSPV • 国・地域別合弁事業（JV）"
   },
   "Structural Taxonomy: Category-by-Category B2B Proposals & Verified Corporate Profiles": {
-    "ko": "구조적 분류 체계: 카테고리별 B2B 제안서 및 검증된 기업 프로필"
+    "ko": "구조적 분류 체계: 카테고리별 B2B 제안서 및 검증된 기업 프로필",
+    "ja": "構造的タクソノミー：カテゴリー別B2Bプロポーザルおよび検証済み企業プロファイル"
   },
   "Autonomous Production: SISTAR Studio + Marketing Tool Package (10 Daily Assets / Project)": {
-    "ko": "자율 생산 체계: SISTAR Studio + 마케팅 툴 패키지 (프로젝트당 일일 10개 에셋 제작)"
+    "ko": "자율 생산 체계: SISTAR Studio + 마케팅 툴 패키지 (프로젝트당 일일 10개 에셋 제작)",
+    "ja": "自律型プロダクション：SISTAR Studio ＋ マーケティングツールパッケージ（プロジェクトあたり日次10アセット生成）"
   },
   "EXECUTIVE ARCHITECTURAL SYNTHESIS • ONE LIVING QUANTUM ORGANISM (\"ONE SPARK, INFINITE GALAXIFYING\")": {
-    "ko": "총괄 아키텍처 종합 • 단일의 살아있는 양자 유기체 (\"ONE SPARK, INFINITE GALAXIFYING\")"
+    "ko": "총괄 아키텍처 종합 • 단일의 살아있는 양자 유기체 (\"ONE SPARK, INFINITE GALAXIFYING\")",
+    "ja": "エグゼクティブ・アーキテクチャ統合体 • 単一の動的量子有機体（「ONE SPARK, INFINITE GALAXIFYING」）"
   },
   "02. AI SaaS & IT": {
-    "ko": "02. AI SaaS 및 IT"
+    "ko": "02. AI SaaS 및 IT",
+    "ja": "02. AI SaaS ＆ IT"
   },
   "Qubit ERP & RAG": {
-    "ko": "Qubit ERP 및 RAG"
+    "ko": "Qubit ERP 및 RAG",
+    "ja": "Qubit ERP ＆ RAG"
   },
   "CORE INSTITUTIONAL THESIS • ONE SPARK, INFINITE GALAXIFYING": {
-    "ko": "핵심 기관 테제 • ONE SPARK, INFINITE GALAXIFYING"
+    "ko": "핵심 기관 테제 • ONE SPARK, INFINITE GALAXIFYING",
+    "ja": "機関投資家向けコア・テーゼ • ONE SPARK, INFINITE GALAXIFYING"
   },
   "THE ACRONYM & HERITAGE": {
-    "ko": "약어 체계 및 헤리티지"
+    "ko": "약어 체계 및 헤리티지",
+    "ja": "アクロニムとヘリテージ（理念的系譜）"
   },
   "THE ULTIMATE STRATEGIC ANSWER": {
-    "ko": "궁극의 전략적 해법"
+    "ko": "궁극의 전략적 해법",
+    "ja": "究極の戦略的解（アルティメット・ストラテジック・アンサー）"
   },
   "PATHOLOGY 01 • SEQUENTIAL FRICTION ($A \\rightarrow B \\rightarrow C$)": {
     "ko": "병리 01 • 순차적 마찰 ($A \\rightarrow B \\rightarrow C$)"
   },
   "PATHOLOGY 02 • BIG-TECH AI IMPERIALISM": {
-    "ko": "병리 02 • 빅테크 AI 제국주의"
+    "ko": "병리 02 • 빅테크 AI 제국주의",
+    "ja": "病理 02 • ビッグテックAI帝国主義"
   },
   "1. QUANTUM FLUCTUATION & VACUUM GENESIS": {
-    "ko": "1. 양자 요동 및 진공 창생"
+    "ko": "1. 양자 요동 및 진공 창생",
+    "ja": "1. 量子揺らぎと真空創成"
   },
   "2. QUANTUM SUPERPOSITION IN HILBERT SPACE": {
-    "ko": "2. 힐베르트 공간 내 양자 중첩"
+    "ko": "2. 힐베르트 공간 내 양자 중첩",
+    "ja": "2. ヒルベルト空間における量子重ね合わせ"
   },
   "3. BELL-STATE QUANTUM ENTANGLEMENT": {
-    "ko": "3. 벨 상태 양자 얽힘"
+    "ko": "3. 벨 상태 양자 얽힘",
+    "ja": "3. ベル状態・量子もつれ（エンタングルメント）"
   },
   "4. WKB QUANTUM TUNNELING & ENERGY QUANTIZATION": {
-    "ko": "4. WKB 양자 터널링 및 에너지 양자화"
+    "ko": "4. WKB 양자 터널링 및 에너지 양자화",
+    "ja": "4. WKB量子トンネル効果とエネルギー量子化"
   },
   "Two Decades of On-the-Ground Overseas Residency & Cross-Border Business Development": {
-    "ko": "20년간의 해외 현지 주재 및 크로스보더 사업 개발"
+    "ko": "20년간의 해외 현지 주재 및 크로스보더 사업 개발",
+    "ja": "20年にわたる海外現地駐在の実績とクロスボーダー事業開発"
   },
   "PHASE 01 • 10:00 PM TO 04:00 AM": {
-    "ko": "단계 01 • 오후 10:00 ~ 오전 04:00"
+    "ko": "단계 01 • 오후 10:00 ~ 오전 04:00",
+    "ja": "フェーズ 01 • 22:00 から 04:00"
   },
   "PHASE 02 • 04:00 AM TO 07:00 AM": {
-    "ko": "단계 02 • 오전 04:00 ~ 오전 07:00"
+    "ko": "단계 02 • 오전 04:00 ~ 오전 07:00",
+    "ja": "フェーズ 02 • 04:00〜07:00"
   },
   "PHASE 03 • 07:00 AM TO 09:00 AM": {
-    "ko": "단계 03 • 오전 07:00 ~ 오전 09:00"
+    "ko": "단계 03 • 오전 07:00 ~ 오전 09:00",
+    "ja": "フェーズ 03 • 07:00〜09:00"
   },
   "PHASE 04 • 09:00 AM TO 10:00 PM": {
-    "ko": "단계 04 • 오전 09:00 ~ 오후 10:00"
+    "ko": "단계 04 • 오전 09:00 ~ 오후 10:00",
+    "ja": "フェーズ 04 • 09:00〜22:00"
   },
   "ORBIT 01 • SUPREME COMMAND": {
-    "ko": "궤도 01 • 최고 사령부"
+    "ko": "궤도 01 • 최고 사령부",
+    "ja": "オービット 01 • 最高統轄司令"
   },
   "ORBIT 02 • MATHEMATICAL CORE": {
-    "ko": "궤도 02 • 수학적 코어"
+    "ko": "궤도 02 • 수학적 코어",
+    "ja": "オービット 02 • 数理コア"
   },
   "ORBIT 03 • ENTERPRISE BRAIN": {
-    "ko": "ORBIT 03 • 엔터프라이즈 브레인"
+    "ko": "ORBIT 03 • 엔터프라이즈 브레인",
+    "ja": "オービット 03 • エンタープライズ・ブレイン"
   },
   "ORBIT 04 • AI COMMERCE NEXUS": {
-    "ko": "ORBIT 04 • AI 커머스 넥서스"
+    "ko": "ORBIT 04 • AI 커머스 넥서스",
+    "ja": "オービット 04 • AIコマース・ネクサス"
   },
   "ORBIT 05 • TRADE & FINTECH": {
-    "ko": "ORBIT 05 • 무역 & 핀테크"
+    "ko": "ORBIT 05 • 무역 & 핀테크",
+    "ja": "オービット 05 • 貿易・フィンテック"
   },
   "ORBIT 06 • COMMERCIAL GALAXY": {
-    "ko": "ORBIT 06 • 커머셜 갤럭시"
+    "ko": "ORBIT 06 • 커머셜 갤럭시",
+    "ja": "オービット 06 • コマーシャル・ギャラクシー"
   },
   "MECHANISM 01 • TRADE FINANCE": {
-    "ko": "메커니즘 01 • 무역금융"
+    "ko": "메커니즘 01 • 무역금융",
+    "ja": "メカニズム 01 • 貿易金融"
   },
   "MECHANISM 02 • CASHLESS CLEARING": {
-    "ko": "메커니즘 02 • 무현금 청산"
+    "ko": "메커니즘 02 • 무현금 청산",
+    "ja": "メカニズム 02 • キャッシュレス清算"
   },
   "MECHANISM 03 • VIRAL RETENTION": {
-    "ko": "메커니즘 03 • 바이럴 리텐션"
+    "ko": "메커니즘 03 • 바이럴 리텐션",
+    "ja": "メカニズム 03 • バイラル・リテンション"
   },
   "ALLIANCE PILLAR 01 • HUMAN-AI NETWORK": {
-    "ko": "얼라이언스 필러 01 • 인간-AI 네트워크"
+    "ko": "얼라이언스 필러 01 • 인간-AI 네트워크",
+    "ja": "アライアンス・ピラー 01 • ヒューマン-AI ネットワーク"
   },
   "ALLIANCE PILLAR 02 • GLOBAL GOVERNANCE": {
-    "ko": "얼라이언스 필러 02 • 글로벌 거버넌스"
+    "ko": "얼라이언스 필러 02 • 글로벌 거버넌스",
+    "ja": "アライアンス・ピラー 02 • グローバル・ガバナンス"
   },
   "CAPITAL ALLOCATION & RISK ISOLATION": {
-    "ko": "자본 배분 및 리스크 격리"
+    "ko": "자본 배분 및 리스크 격리",
+    "ja": "資本配分およびリスク隔離"
   },
   "INSTITUTIONAL & STRATEGIC ONBOARDING": {
-    "ko": "기관 및 전략적 온보딩"
+    "ko": "기관 및 전략적 온보딩",
+    "ja": "機関投資家および戦略的オンボーディング"
   },
   "Proceed to Companion Volume: In-Depth Technical & Commercial Dossier of the 15 Founder Projects": {
-    "ko": "별책으로 이동: 15대 파운더 프로젝트 심층 기술 및 상업 도시에(Dossier)"
+    "ko": "별책으로 이동: 15대 파운더 프로젝트 심층 기술 및 상업 도시에(Dossier)",
+    "ja": "別冊へ移行：15のファウンダー・プロジェクトに関する詳細技術・事業ドシエ"
   },
   "THE FOUNDATIONAL CAPABILITY THESIS • WHY THESE 15 PROJECTS?": {
-    "ko": "기반 역량 테제(Thesis) • 왜 이 15개 프로젝트인가?"
+    "ko": "기반 역량 테제(Thesis) • 왜 이 15개 프로젝트인가?",
+    "ja": "基盤的ケイパビリティ・テーゼ • なぜこの15プロジェクトなのか"
   },
   "Foundational Impact: Near-$0 Internal ERP & Admin Drag": {
-    "ko": "근본적 임팩트: $0에 수렴하는 내부 ERP 및 행정 마찰 비용(Admin Drag)"
+    "ko": "근본적 임팩트: $0에 수렴하는 내부 ERP 및 행정 마찰 비용(Admin Drag)",
+    "ja": "基盤的インパクト：社内ERPおよび管理業務負荷（Admin Drag）の実質ゼロ化"
   },
   "Foundational Impact: 24/7 Automated Market & Tariff Intelligence": {
-    "ko": "근본적 임팩트: 24/7 자동화된 시장 및 관세 인텔리전스"
+    "ko": "근본적 임팩트: 24/7 자동화된 시장 및 관세 인텔리전스",
+    "ja": "基盤的インパクト：24時間365日稼働の自動化された市場・関税インテリジェンス"
   },
   "Foundational Impact: 24/7 Autonomous Sales & Partner Support": {
-    "ko": "근본적 임팩트: 24/7 자율형 영업 및 파트너 지원 체계"
+    "ko": "근본적 임팩트: 24/7 자율형 영업 및 파트너 지원 체계",
+    "ja": "基盤的インパクト：24時間365日稼働の自律型セールス＆パートナー支援"
   },
   "Foundational Impact: 10x Executive Ideation-to-Deployment Velocity": {
-    "ko": "근본적 임팩트: 경영진의 구상부터 배포까지(Ideation-to-Deployment) 속도 10배 가속화"
+    "ko": "근본적 임팩트: 경영진의 구상부터 배포까지(Ideation-to-Deployment) 속도 10배 가속화",
+    "ja": "基盤的インパクト：経営構想から社会実装・展開（Ideation-to-Deployment）までのベロシティを10倍化"
   },
   "Foundational Impact: Zero-Friction Real-World Data Capture": {
-    "ko": "근본적 임팩트: 무마찰(Zero-Friction) 실세계 데이터 수집(Capture)"
+    "ko": "근본적 임팩트: 무마찰(Zero-Friction) 실세계 데이터 수집(Capture)",
+    "ja": "基盤的インパクト：摩擦ゼロ（Zero-Friction）のリアルワールドデータ捕捉・収集"
   },
   "Foundational Impact: Zero-CAC Certified Talent & Operator Pipeline": {
-    "ko": "근본적 임팩트: CAC 제로(Zero-CAC) 기반 공인 인재 및 오퍼레이터 파이프라인"
+    "ko": "근본적 임팩트: CAC 제로(Zero-CAC) 기반 공인 인재 및 오퍼레이터 파이프라인",
+    "ja": "基盤的インパクト：CAC（顧客獲得コスト）ゼロでの認証済み高度人材・オペレーターパイプライン構築"
   },
   "Foundational Impact: Instant R&D-to-SKU Velocity & Regulatory Tunneling": {
-    "ko": "근본적 임팩트: 즉각적인 R&D-to-SKU 전환 속도 및 규제 터널링(Regulatory Tunneling)"
+    "ko": "근본적 임팩트: 즉각적인 R&D-to-SKU 전환 속도 및 규제 터널링(Regulatory Tunneling)",
+    "ja": "基盤的インパクト：R&DからSKU製品化への即時的ベロシティおよび規制トンネリング（Regulatory Tunneling）"
   },
   "Foundational Impact: Point-of-Prescription Lock-In & Clinical Data Factory": {
-    "ko": "근본적 임팩트: 처방 시점 락인(Point-of-Prescription Lock-In) 및 임상 데이터 팩토리"
+    "ko": "근본적 임팩트: 처방 시점 락인(Point-of-Prescription Lock-In) 및 임상 데이터 팩토리",
+    "ja": "基盤的インパクト：処方接点（Point-of-Prescription）の不可逆的ロックインおよび臨床データファクトリーの確立"
   },
   "Foundational Impact: Physical Supply Sovereignty & Immediate Cashflow Anchor": {
-    "ko": "근본적 임팩트: 물리적 공급망 주권 및 즉각적인 현금흐름 앵커 확보"
+    "ko": "근본적 임팩트: 물리적 공급망 주권 및 즉각적인 현금흐름 앵커 확보",
+    "ja": "基盤的インパクト：物理的サプライチェーンの主権掌握と即時的キャッシュフローアンカーの形成"
   },
   "Foundational Impact: Borderless On-the-Ground Execution at $0 Fixed HR Cost": {
-    "ko": "근본적 임팩트: 고정 인건비 $0 기반의 국경 없는 현지 실행력"
+    "ko": "근본적 임팩트: 고정 인건비 $0 기반의 국경 없는 현지 실행력",
+    "ja": "基盤的インパクト：固定人件費ゼロ（$0）でのボーダーレスな現地実務実行力（On-the-Ground Execution）"
   },
   "Foundational Impact: Battle-Tested Physical Cross-Border Distribution Spine": {
-    "ko": "근본적 임팩트: 실전 검증된 물리적 크로스보더 유통 중추(Spine)"
+    "ko": "근본적 임팩트: 실전 검증된 물리적 크로스보더 유통 중추(Spine)",
+    "ja": "基盤的インパクト：実戦実証済みの物理的越境流通基幹（Cross-Border Distribution Spine）"
   },
   "Foundational Impact: Proprietary D2C/B2B Demand-Aggregation Gateway": {
-    "ko": "기반적 임팩트: 독자적 D2C/B2B 수요 집적 게이트웨이"
+    "ko": "기반적 임팩트: 독자적 D2C/B2B 수요 집적 게이트웨이",
+    "ja": "基盤的インパクト：独自開発によるD2C/B2B需要集約（Demand-Aggregation）ゲートウェイ"
   },
   "Foundational Impact: $t=0$ Global B2B Clearinghouse & Cashless Barter Network": {
-    "ko": "기반적 임팩트: $t=0$ 글로벌 B2B 청산소 및 무현금 바터 네트워크"
+    "ko": "기반적 임팩트: $t=0$ 글로벌 B2B 청산소 및 무현금 바터 네트워크",
+    "ja": "基盤的インパクト：$t=0$（即時）グローバルB2Bクリアリングハウス＆キャッシュレス・バーターネットワーク"
   },
   "Foundational Impact: Near-Zero Marginal Cost Venture Replication Speed": {
-    "ko": "기반적 임팩트: 한계비용 제로에 수렴하는 벤처 복제 속도"
+    "ko": "기반적 임팩트: 한계비용 제로에 수렴하는 벤처 복제 속도",
+    "ja": "基盤的インパクト：限界費用ほぼゼロ（Near-Zero Marginal Cost）での新規事業複製スピード"
   },
   "Foundational Impact: Guaranteed Go-To-Market Velocity for Every Ecosystem Node": {
-    "ko": "기반적 임팩트: 전 생태계 노드를 위한 시장 진입(GTM) 가속도 보장"
+    "ko": "기반적 임팩트: 전 생태계 노드를 위한 시장 진입(GTM) 가속도 보장",
+    "ja": "基盤的インパクト：全エコシステムノードにおけるGTM（Go-To-Market）ベロシティの確約"
   },
   "The Complete Entangled Flywheel: How All 15 Founder Projects Compound Together": {
-    "ko": "완전한 양자 얽힘 플라이휠: 15개 파운더 프로젝트가 상호 복리 효과를 창출하는 메커니즘"
+    "ko": "완전한 양자 얽힘 플라이휠: 15개 파운더 프로젝트가 상호 복리 효과를 창출하는 메커니즘",
+    "ja": "完全なる量子もつれフライホイール：全15の創業者プロジェクトがいかに複利的に価値増幅するか"
   },
   "QUANTUM REVENUE ENGINE • ZERO-TOUCH LEAD TO CONTRACT": {
-    "ko": "퀀텀 레비뉴 엔진 • 제로 터치 리드-계약 전환(Zero-Touch Lead to Contract)"
+    "ko": "퀀텀 레비뉴 엔진 • 제로 터치 리드-계약 전환(Zero-Touch Lead to Contract)",
+    "ja": "QUANTUM REVENUE ENGINE • リード獲得から契約締結までの完全自動化（ZERO-TOUCH LEAD TO CONTRACT）"
   },
   "STAGE 01 • OVERNIGHT DATA FACTORY": {
-    "ko": "STAGE 01 • 오버나이트 데이터 팩토리"
+    "ko": "STAGE 01 • 오버나이트 데이터 팩토리",
+    "ja": "STAGE 01 • 即夜型データファクトリー（OVERNIGHT DATA FACTORY）"
   },
   "STAGE 02 • COMPANY RAG ENRICHMENT": {
-    "ko": "STAGE 02 • 기업 RAG 인리치먼트"
+    "ko": "STAGE 02 • 기업 RAG 인리치먼트",
+    "ja": "STAGE 02 • 企業固有RAGの高度拡充"
   },
   "STAGE 03 • AGENT BUILDER & MS. SCARLET": {
-    "ko": "STAGE 03 • 에이전트 빌더 & MS. SCARLET"
+    "ko": "STAGE 03 • 에이전트 빌더 & MS. SCARLET",
+    "ja": "STAGE 03 • エージェントビルダー ＆ Ms. Scarlet"
   },
   "STAGE 04 • QUANTUM ENTANGLEMENT SYNC": {
-    "ko": "STAGE 04 • 퀀텀 엔탱글먼트 동기화"
+    "ko": "STAGE 04 • 퀀텀 엔탱글먼트 동기화",
+    "ja": "STAGE 04 • 量子もつれ同期（量子エンタングルメント同期）"
   },
   "FOR GLOBAL BRAND & CLINIC PARTNERS": {
-    "ko": "글로벌 브랜드 및 클리닉 파트너 대상"
+    "ko": "글로벌 브랜드 및 클리닉 파트너 대상",
+    "ja": "グローバルブランドおよびクリニックパートナー向け"
   },
   "20+ YEARS OF INTERNATIONAL TRADE HERITAGE • 2013 CORPORATE ARCHIVE TO *SC QUANTUM EVOLUTION": {
-    "ko": "20년 이상의 국제무역 헤리티지 • 2013 기업 아카이브에서 *SC 퀀텀 에볼루션으로의 도약"
+    "ko": "20년 이상의 국제무역 헤리티지 • 2013 기업 아카이브에서 *SC 퀀텀 에볼루션으로의 도약",
+    "ja": "20年超に及ぶ国際貿易のヘリテージ • 2013年企業アーカイブから*SC量子進化への系譜"
   },
   "// EQUATION 3.1: TRIPLE CONTROL TOWER AUTONOMOUS EXECUTION CYCLE (24-HOUR CLOCK)": {
-    "ko": "// 수식 3.1: 삼중 관제 타워 자율 실행 주기 (24시간 사이클)"
+    "ko": "// 수식 3.1: 삼중 관제 타워 자율 실행 주기 (24시간 사이클)",
+    "ja": "// 方程式 3.1：トリプル・コントロールタワー自律実行サイクル（24時間クロック）"
   },
   "// EQUATION 3.2: DUAL-TRACK NAV PROTECTION INVARIANT": {
-    "ko": "// 수식 3.2: 듀얼 트랙 순자산가치(NAV) 방어 불변성"
+    "ko": "// 수식 3.2: 듀얼 트랙 순자산가치(NAV) 방어 불변성",
+    "ja": "// 方程式 3.2：デュアルトラックNAV保護インバリアント（不変条件）"
   },
   "04 / RETURN": {
-    "ko": "04 / 수익률(RETURN)"
+    "ko": "04 / 수익률(RETURN)",
+    "ja": "04 / リターン (RETURN)"
   },
   "// EQUATION 3.1: K-SURE + RPF SIMULTANEOUS FACTORY FACTORING": {
-    "ko": "// 수식 3.1: K-SURE + RPF 동시 공장 팩토링"
+    "ko": "// 수식 3.1: K-SURE + RPF 동시 공장 팩토링",
+    "ja": "// 方程式 3.1: K-SURE + RPF 同時実行型ファクトリーファクタリング"
   },
   "// EQUATION 3.2: OVERSEAS BUYER BNPL AMORTIZATION VIA 70/30 PG WEBHOOK": {
-    "ko": "// 수식 3.2: 70/30 PG 웹훅 기반 해외 바이어 BNPL 상환"
+    "ko": "// 수식 3.2: 70/30 PG 웹훅 기반 해외 바이어 BNPL 상환",
+    "ja": "// 方程式 3.2: 70/30 PG Webhook経由の海外バイヤー向けBNPL償却モデル"
   },
   "// EQUATION 3.1: MICRO-SACHET COGS & GROSS MARGIN EXPANSION": {
-    "ko": "// 수식 3.1: 마이크로 사셰 매출원가(COGS) 최적화 및 매출총이익률 확대"
+    "ko": "// 수식 3.1: 마이크로 사셰 매출원가(COGS) 최적화 및 매출총이익률 확대",
+    "ja": "// 方程式 3.1: マイクロサシェ売上原価（COGS）最適化および粗利益率拡大"
   },
   "// EQUATION 3.2: SUPERPOSITION SKU MULTIPLIER ON INDONESIAN MARKETPLACES": {
-    "ko": "// 수식 3.2: 인도네시아 이커머스 마켓플레이스 내 중첩 SKU 승수"
+    "ko": "// 수식 3.2: 인도네시아 이커머스 마켓플레이스 내 중첩 SKU 승수",
+    "ja": "// 方程式 3.2: インドネシアEC市場における重ね合わせ（スーパーポジション）SKUマルチプライヤー"
   },
   "High-Yield Biz Galaxy Returns: Proven container-scale demand, micro-sachet cost leadership, K-SURE 90-day BNPL trade credit, and recurring B2B clinic subscriptions provide institutional investors and JV co-investors with immediate cashflow visibility and gross-margin unit economics.": {
-    "ko": "고수익 Biz Galaxy 수익 모델: 입증된 컨테이너 단위 수요, 마이크로 사셰 기반의 원가 우위, K-SURE 90일 BNPL 무역금융, B2B 클리닉 정기 구독 모델을 결합하여 기관 투자자 및 JV 공동 투자자에게 즉각적인 현금흐름 가시성과 견고한 공헌이익 단위 경제성(Unit Economics)을 제공합니다."
+    "ko": "고수익 Biz Galaxy 수익 모델: 입증된 컨테이너 단위 수요, 마이크로 사셰 기반의 원가 우위, K-SURE 90일 BNPL 무역금융, B2B 클리닉 정기 구독 모델을 결합하여 기관 투자자 및 JV 공동 투자자에게 즉각적인 현금흐름 가시성과 견고한 공헌이익 단위 경제성(Unit Economics)을 제공합니다.",
+    "ja": "高利回りビズ・ギャラクシー・リターン: 実証済みのコンテナ規模需要、マイクロサシェによるコストリーダーシップ、K-SURE 90日BNPL貿易信用、そして経常的なB2Bクリニック向けサブスクリプションが、機関投資家およびJV共同投資家に対して即時的なキャッシュフローの可視性と優れた粗利益ユニットエコノミクスを提供します。"
   },
   "// EQUATION 3.1: QUBIT TIME BANK ENGINEERING-FOR-COMMERCE OFFSETTING": {
-    "ko": "// 수식 3.1: 큐비트 타임 뱅크 기반 엔지니어링-커머스 상계 정산"
+    "ko": "// 수식 3.1: 큐비트 타임 뱅크 기반 엔지니어링-커머스 상계 정산",
+    "ja": "// 数式 3.1: QUBIT TIME BANK エンジニアリング・フォー・コマース相殺アルゴリズム"
   },
   "// EQUATION 3.2: PRE-IMPORT SOCIAL DEMAND TUNNELING (ZALO / TIKTOK VN)": {
-    "ko": "// 수식 3.2: 수입 전 소셜 수요 터널링 (ZALO / TIKTOK VN)"
+    "ko": "// 수식 3.2: 수입 전 소셜 수요 터널링 (ZALO / TIKTOK VN)",
+    "ja": "// 数式 3.2: 輸入前ソーシャル需要トンネリング（ZALO / TIKTOK VN）"
   },
   "// EQUATION 3.1: MULTILATERAL GRAPH CYCLE DEBT EXTINCTION (SCS CLEARING ENGINE)": {
-    "ko": "// 수식 3.1: 다자간 그래프 순환 채권·채무 소멸 (SCS 청산 엔진)"
+    "ko": "// 수식 3.1: 다자간 그래프 순환 채권·채무 소멸 (SCS 청산 엔진)",
+    "ja": "// 数式 3.1: 多角グラフサイクル債務消滅（SCSクリアリングエンジン）"
   },
   "// EQUATION 3.2: DAILY PUBLIC NAV CALCULATION (SC INDEX)": {
-    "ko": "// 수식 3.2: 일일 공시 NAV 산출식 (SC INDEX)"
+    "ko": "// 수식 3.2: 일일 공시 NAV 산출식 (SC INDEX)",
+    "ja": "// 数式 3.2: 日次公表NAV算定モデル（SC INDEX）"
   },
   "// EQUATION 3.1: QUBIT FLOW™ RISK-FREE CROSS-BORDER ARBITRAGE CONDITION": {
-    "ko": "// 수식 3.1: Qubit Flow™ 무위험 국경 간 차익거래 조건식"
+    "ko": "// 수식 3.1: Qubit Flow™ 무위험 국경 간 차익거래 조건식",
+    "ja": "// 方程式 3.1: QUBIT FLOW™ リスクフリー・クロスボーダー・アービトラージ条件"
   },
   "// EQUATION 3.2: HARDWARE-AS-A-SERVICE (HaaS) LIFETIME VALUE MULTIPLIER": {
-    "ko": "// 수식 3.2: 하드웨어 서비스화(HaaS) 고객생애가치(LTV) 승수 모델"
+    "ko": "// 수식 3.2: 하드웨어 서비스화(HaaS) 고객생애가치(LTV) 승수 모델",
+    "ja": "// 方程式 3.2: Hardware-as-a-Service（HaaS）顧客生涯価値（LTV）マルチプライヤー"
   },
   "// EQUATION 3.1: ZERO-STOCK VETERINARY CLINIC RECURRING ROYALTY": {
-    "ko": "// 수식 3.1: 무재고 동물병원 반복 로열티 모델"
+    "ko": "// 수식 3.1: 무재고 동물병원 반복 로열티 모델",
+    "ja": "// 方程式 3.1: ゼロ在庫型動物病院リカーリング・ロイヤルティ"
   },
   "// EQUATION 3.2: JAPAN-KOREA CO-BRAND PRICING POWER IN ASEAN": {
-    "ko": "// 수식 3.2: 아세안(ASEAN) 시장 내 한일 공동 브랜드 가격 결정력 모델"
+    "ko": "// 수식 3.2: 아세안(ASEAN) 시장 내 한일 공동 브랜드 가격 결정력 모델",
+    "ja": "// 方程式 3.2: ASEAN市場における日韓共同ブランドのプライシング・パワー"
   },
   "Asymmetric Brand Equity & Subscription LTV: By combining zero-stock veterinary clinic subscriptions in Japan with mass-market micro-sachet scaling in Indonesia and Vietnam, SCJ generates both premium developed-market cashflow and emerging-market volume scale.": {
-    "ko": "비대칭적 브랜드 자산 및 구독 LTV: 일본 내 무재고 동물병원 구독 모델과 인도네시아 및 베트남의 대중 시장 대상 마이크로 파우치(micro-sachet) 스케일링을 결합함으로써, SCJ는 선진 시장의 프리미엄 현금흐름과 신흥 시장의 대량 볼륨 확장을 동시에 창출합니다."
+    "ko": "비대칭적 브랜드 자산 및 구독 LTV: 일본 내 무재고 동물병원 구독 모델과 인도네시아 및 베트남의 대중 시장 대상 마이크로 파우치(micro-sachet) 스케일링을 결합함으로써, SCJ는 선진 시장의 프리미엄 현금흐름과 신흥 시장의 대량 볼륨 확장을 동시에 창출합니다.",
+    "ja": "非対称的ブランド・エクイティとサブスクリプションLTV：日本国内におけるゼロ在庫型動物病院サブスクリプションと、インドネシアおよびベトナムでのマス市場向けマイクロサシェ展開を融合させることで、SCJは先進国市場のプレミアムなキャッシュフローと新興国市場の圧倒的なボリュームスケールを同時に創出する。"
   },
   "// EQUATION 3.1: MCP SERVER AGENT-TO-AGENT MICROPAYMENT STREAM": {
-    "ko": "// 수식 3.1: MCP 서버 에이전트 간 마이크로결제 스트림"
+    "ko": "// 수식 3.1: MCP 서버 에이전트 간 마이크로결제 스트림",
+    "ja": "// 方程式 3.1: MCPサーバー Agent-to-Agent（A2A）マイクロペイメント・ストリーム"
   },
   "// EQUATION 3.2: QUBIT APP FACTORY MICRO-SAAS FLIPPING VALUATION": {
-    "ko": "// 수식 3.2: Qubit App Factory 마이크로 SaaS 플리핑 기업가치 평가 모델"
+    "ko": "// 수식 3.2: Qubit App Factory 마이크로 SaaS 플리핑 기업가치 평가 모델",
+    "ja": "// 方程式 3.2: QUBIT APP FACTORY Micro-SaaSフリッピング・バリュエーション"
   },
   "Local demand and regulatory signals enter the SCIND hub.": {
-    "ko": "현지 수요 및 규제 시그널이 SCIND 허브로 통합 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 SCIND 허브로 통합 유입됩니다.",
+    "ja": "現地需要および規制シグナルがSCINDハブへ入力・統合される。"
   },
   "For sistar company india (SCIND) — Ayurvedic Bio-Science, Phyto-Raw Material & AI Engineering Powerhouse, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "아유르베다 바이오 사이언스, 파이토 천연 원료 및 AI 엔지니어링의 핵심 거점인 sistar company india (SCIND)를 위해, Qubit Algorithm™과 AI 인텔리전스 코어는 공유 인프라를 바탕으로 수요 예측, 도메인 실행력, 다자간 가치 실현을 유기적으로 정렬(align)합니다."
+    "ko": "아유르베다 바이오 사이언스, 파이토 천연 원료 및 AI 엔지니어링의 핵심 거점인 sistar company india (SCIND)를 위해, Qubit Algorithm™과 AI 인텔리전스 코어는 공유 인프라를 바탕으로 수요 예측, 도메인 실행력, 다자간 가치 실현을 유기적으로 정렬(align)합니다.",
+    "ja": "sistar company india（SCIND）— アーユルヴェーダ・バイオサイエンス、植物性原料（Phyto-Raw Material）、AIエンジニアリング・パワーハウスにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、多者間価値の具現化を精緻にアラインメントする。"
   },
   "01 / FORECAST": {
-    "ko": "01 / 예측"
+    "ko": "01 / 예측",
+    "ja": "01 / FORECAST（需要予測）"
   },
   "02 / MATCH": {
-    "ko": "02 / 매칭"
+    "ko": "02 / 매칭",
+    "ja": "02 / MATCH（最適照合・マッチング）"
   },
   "03 / EXECUTE": {
-    "ko": "03 / 실행"
+    "ko": "03 / 실행",
+    "ja": "03 / EXECUTE（契約・取引執行）"
   },
   "04 / CLEAR": {
-    "ko": "04 / 정산"
+    "ko": "04 / 정산",
+    "ja": "04 / CLEAR（清算・決済）"
   },
   "// EQUATION 3.1: QUBIT RETAILER ALLIANCE DEMAND AGGREGATION (E1 → E3 COLLAPSE)": {
-    "ko": "// 수식 3.1: QUBIT 리테일 얼라이언스 수요 집약 (E1 → E3 붕괴)"
+    "ko": "// 수식 3.1: QUBIT 리테일 얼라이언스 수요 집약 (E1 → E3 붕괴)",
+    "ja": "// 数式 3.1：Qubitリテーラー・アライアンス需要集約（E1 → E3 コラプス）"
   },
   "// EQUATION 3.2: GRADUATED K-SURE TRUST ESCALATOR": {
-    "ko": "// 수식 3.2: 단계별 K-SURE 신뢰 에스컬레이터"
+    "ko": "// 수식 3.2: 단계별 K-SURE 신뢰 에스컬레이터",
+    "ja": "// 数式 3.2：段階的K-SUREトラスト・エスカレーター"
   },
   "// EQUATION 3.1: ZERO-ENTROPY DETERMINISTIC RAG CONDITION": {
-    "ko": "// 수식 3.1: 제로 엔트로피 결정론적 RAG 조건"
+    "ko": "// 수식 3.1: 제로 엔트로피 결정론적 RAG 조건",
+    "ja": "// 数式 3.1: ゼロエントロピー決定論的RAG条件"
   },
   "// EQUATION 3.2: IADA MEMBER DATA DIVIDEND (QUBIT IDEA BANK & MCP MICRO-ROYALTIES)": {
-    "ko": "// 수식 3.2: IADA 회원 데이터 배당 (QUBIT 아이디어 뱅크 및 MCP 마이크로 로열티)"
+    "ko": "// 수식 3.2: IADA 회원 데이터 배당 (QUBIT 아이디어 뱅크 및 MCP 마이크로 로열티)",
+    "ja": "// 数式 3.2: IADAメンバー・データ配当（QUBIT IDEA BANK ＆ MCPマイクロロイヤリティ）"
   },
   "// EQUATION 3.1: UNMANNED MEDIA ZERO-CAC ORGANIC FUNNEL": {
-    "ko": "// 수식 3.1: 무인 미디어 제로-CAC 오가닉 퍼널"
+    "ko": "// 수식 3.1: 무인 미디어 제로-CAC 오가닉 퍼널",
+    "ja": "// 方程式 3.1: 無人メディア ZERO-CAC オーガニックファネル"
   },
   "// EQUATION 3.2: 3-YEAR OPERATING LEVERAGE TRAJECTORY": {
-    "ko": "// 수식 3.2: 3개년 영업 레버리지 궤적"
+    "ko": "// 수식 3.2: 3개년 영업 레버리지 궤적",
+    "ja": "// 方程式 3.2: 3カ年 営業レバレッジ推移モデル"
   },
   "*SC - SISTAR COMPANY | One Spark, Infinite Galaxifying: Powered by the Qubit Algorithm™, *SC intelligence-core, Scarlet AI, Qubit Biz, and the Biz Galaxy constellation. With 100% completed cloud/AI infrastructure, , payback, and daily public NAV auditing, Intl Alliance converts every dollar of partner and investor capital into immediate global trade velocity. Corporate Portal: https://sistarcompany.com • Executive Contact: DennyKu (denniiku@sistarcompany.com)": {
-    "ko": "*SC - SISTAR COMPANY | One Spark, Infinite Galaxifying: Qubit Algorithm™, *SC 인텔리전스 코어, Scarlet AI, Qubit Biz 및 Biz Galaxy 콘스텔레이션에 의해 구동됩니다. 100% 구축 완료된 클라우드/AI 인프라, 투자금 회수(payback), 그리고 매일 공개되는 NAV 공시 감사를 바탕으로, Intl Alliance는 파트너 및 투자자의 자본 1달러까지도 즉각적인 글로벌 무역 회전 속도로 전환합니다. 기업 공식 포털: https://sistarcompany.com • 경영진 직통 연락처: DennyKu (denniiku@sistarcompany.com)"
+    "ko": "*SC - SISTAR COMPANY | One Spark, Infinite Galaxifying: Qubit Algorithm™, *SC 인텔리전스 코어, Scarlet AI, Qubit Biz 및 Biz Galaxy 콘스텔레이션에 의해 구동됩니다. 100% 구축 완료된 클라우드/AI 인프라, 투자금 회수(payback), 그리고 매일 공개되는 NAV 공시 감사를 바탕으로, Intl Alliance는 파트너 및 투자자의 자본 1달러까지도 즉각적인 글로벌 무역 회전 속도로 전환합니다. 기업 공식 포털: https://sistarcompany.com • 경영진 직통 연락처: DennyKu (denniiku@sistarcompany.com)",
+    "ja": "*SC - SISTAR Company | One Spark, Infinite Galaxifying: Qubit Algorithm™、*SC intelligence-core、Scarlet AI、Qubit Biz、および Biz Galaxy コンステレーションによって駆動。100%構築完了したクラウド／AIインフラ、投資回収（ペイバック）、そして日次で公開されるNAV（純資産価値）監査体制を基盤に、Intl Alliance はパートナーおよび投資家の資本1ドルごとを、即座にグローバル貿易の加速度（Trade Velocity）へと転換します。Corporate Portal: https://sistarcompany.com • Executive Contact: DennyKu (denniiku@sistarcompany.com)"
   },
   "Shopee (ID / VN / SG)": {
     "ko": "Shopee (인도네시아 / 베트남 / 싱가포르)"
@@ -100000,259 +100289,344 @@ window.SC_TRANSLATIONS = {
     "ko": "기관 투자자, 국가급 무역 파트너 및 AI 시스템 아키텍트에게 피어 리뷰(peer-review)급 이론적 검증을 제공하기 위해, qubit-algorithm은 DennyKu(*SC)가 집필한 총 8개 장의 학술 연구 모노그래프인 「양자장론 및 정보이론에 기반한 비즈니스 프로세스 파동함수 최적화(Optimization of Business Process Wavefunctions Based on Quantum Field Theory and Information Theory)」 전문을 01_one-spark-galaxifying/01_quantum-biz에 수록하고 있습니다."
   },
   "The Great Paradigm Shift: Why Linear Trade is Ending—and How Quantum AI Rewrites Global Commerce": {
-    "ko": "거대한 패러다임 전환: 선형 무역의 종말과 퀀텀 AI가 재편하는 글로벌 통상 질서"
+    "ko": "거대한 패러다임 전환: 선형 무역의 종말과 퀀텀 AI가 재편하는 글로벌 통상 질서",
+    "ja": "偉大なるパラダイムシフト：なぜ線形貿易は終焉を迎えるのか——量子AIが書き換えるグローバル商取引の新秩序"
   },
   "Five Structural Paradigm Shifts Reshaping AI, Commerce & International Trade": {
-    "ko": "AI, 커머스 및 국제 무역을 재편하는 5대 구조적 패러다임 전환"
+    "ko": "AI, 커머스 및 국제 무역을 재편하는 5대 구조적 패러다임 전환",
+    "ja": "AI、コマース、国際貿易を再定義する5つの構造的パラダイムシフト"
   },
   "The Old World vs. The New Quantum-AI Commercial Order": {
-    "ko": "구체제 대 퀀텀-AI 상업 신질서"
+    "ko": "구체제 대 퀀텀-AI 상업 신질서",
+    "ja": "旧世界 vs 新たなる量子AI商業秩序"
   },
   "Why *SC (SISTAR Company) is the Definitive Answer to the Paradigm Shift": {
-    "ko": "왜 *SC(SISTAR Company)가 패러다임 전환의 결정적 해답인가"
+    "ko": "왜 *SC(SISTAR Company)가 패러다임 전환의 결정적 해답인가",
+    "ja": "なぜ *SC（SISTAR Company）がパラダイムシフトに対する決定的な解となるのか"
   },
   "Why Legacy Enterprises Cannot Survive the Current Mega Trend": {
-    "ko": "기존 레거시 기업들이 현재의 메가트렌드에서 생존할 수 없는 이유"
+    "ko": "기존 레거시 기업들이 현재의 메가트렌드에서 생존할 수 없는 이유",
+    "ja": "なぜレガシー企業は現在のメガトレンドを生き残れないのか"
   },
   "From Passive Software Tools to 24/7 Unmanned Agentic Execution": {
-    "ko": "수동적 소프트웨어 툴에서 24/7 무인 자율 에이전트 실행으로"
+    "ko": "수동적 소프트웨어 툴에서 24/7 무인 자율 에이전트 실행으로",
+    "ja": "受動的ソフトウェアツールから24時間365日稼働の自律エージェント（Agentic）無人執行へ"
   },
   "From Linear Chains (A → B → C) to t = 0 Superposition Clearing": {
-    "ko": "선형 공급망 체인(A → B → C)에서 t = 0 중첩 청산(Superposition Clearing)으로"
+    "ko": "선형 공급망 체인(A → B → C)에서 t = 0 중첩 청산(Superposition Clearing)으로",
+    "ja": "線形サプライチェーン（A → B → C）から t = 0 の量子重ね合わせ決済（Superposition Clearing）へ"
   },
   "From Speculative Inventory Push to Pre-Aggregated Demand Tunneling": {
-    "ko": "투기적 재고 밀어내기에서 사전 집계된 수요 터널링(Pre-Aggregated Demand Tunneling)으로"
+    "ko": "투기적 재고 밀어내기에서 사전 집계된 수요 터널링(Pre-Aggregated Demand Tunneling)으로",
+    "ja": "投機的な在庫プッシュ型から事前集約された需要トンネリング（Demand Tunneling）へ"
   },
   "From Credit Default Risk & FX Drain to Quantized Clearing & Barter Offsetting": {
-    "ko": "신용 부도 리스크 및 외환 유출에서 양자화 청산 및 바터 상계(Barter Offsetting)로"
+    "ko": "신용 부도 리스크 및 외환 유출에서 양자화 청산 및 바터 상계(Barter Offsetting)로",
+    "ja": "信用デフォルトリスクと為替流出から、量子化ネッティング決済（Quantized Clearing）およびバーター相殺へ"
   },
   "From Big-Tech AI Imperialism to a Borderless Federated Alliance": {
-    "ko": "빅테크 AI 제국주의에서 국경 없는 연합 얼라이언스(Federated Alliance)로"
+    "ko": "빅테크 AI 제국주의에서 국경 없는 연합 얼라이언스(Federated Alliance)로",
+    "ja": "ビッグテックによるAI帝国主義から、国境なき連合アライアンス（Federated Alliance）へ"
   },
   "Where 20+ Years of Physical Trade Mastery Meets the Quantum Autonomous OS": {
-    "ko": "20년 이상의 실물 무역 전문성과 양자 자율 OS가 만나는 지점"
+    "ko": "20년 이상의 실물 무역 전문성과 양자 자율 OS가 만나는 지점",
+    "ja": "20年以上にわたる物理貿易の熟達知が量子自律OSと邂逅する領域"
   },
   "Global business commercial activities and international trading are undergoing their most profound structural transformation since the Industrial Revolution. Just as the steam engine was born from Newtonian calculus, the emerging era of autonomous global commerce requires a fundamentally new mathematical and operational physics. Traditional linear commerce (A → B → C) is collapsing under its own friction—and a new mega trend driven by Agentic AI and Quantum Business Mechanics is taking its place.": {
-    "ko": "글로벌 비즈니스 상업 활동과 국제 무역은 산업혁명 이후 가장 심대한 구조적 대전환을 겪고 있습니다. 뉴턴 미적분학에서 증기기관이 태동했듯이, 새롭게 부상하는 자율형 글로벌 커머스 시대는 근본적으로 새로운 수학적·운영적 물리학을 요구합니다. 기존의 선형 커머스(A → B → C)는 고유의 마찰비용으로 인해 스스로 붕괴하고 있으며, 에이전틱 AI(Agentic AI)와 퀀텀 비즈니스 메커닉스(Quantum Business Mechanics)가 주도하는 새로운 메가트렌드가 그 자리를 대체하고 있습니다."
+    "ko": "글로벌 비즈니스 상업 활동과 국제 무역은 산업혁명 이후 가장 심대한 구조적 대전환을 겪고 있습니다. 뉴턴 미적분학에서 증기기관이 태동했듯이, 새롭게 부상하는 자율형 글로벌 커머스 시대는 근본적으로 새로운 수학적·운영적 물리학을 요구합니다. 기존의 선형 커머스(A → B → C)는 고유의 마찰비용으로 인해 스스로 붕괴하고 있으며, 에이전틱 AI(Agentic AI)와 퀀텀 비즈니스 메커닉스(Quantum Business Mechanics)가 주도하는 새로운 메가트렌드가 그 자리를 대체하고 있습니다.",
+    "ja": "グローバルビジネスにおける商業活動および国際貿易は、産業革命以来最も深遠な構造的転換期を迎えています。ニュートン力学と微積分学から蒸気機関が誕生したように、台頭しつつある自律型グローバル商取引の時代には、根本的に新しい数学的・運用的物理モデルが不可欠です。従来の線形商取引（A → B → C）はその内在的摩擦によって崩壊しつつあり、Agentic AIと量子ビジネス力学（Quantum Business Mechanics）が牽引する新たなメガトレンドがそれに取って代わりつつあります。"
   },
   "For decades, international trade and commercial operations relied on sequential processes: upfront capital lock-up, speculative MOQ inventory manufacturing, multi-tiered broker intermediaries, 30-to-120-day settlement delays, and 30%+ platform advertising taxes. In an economy where AI agents now process market signals, negotiate contracts, and route supply chains in milliseconds, linear human-bound workflows are no longer merely slow—they are structurally obsolete.": {
-    "ko": "수십 년 동안 국제 무역과 상업 운영은 선결제 자본 묶임(Lock-up), 투기적 MOQ(최소주문수량) 재고 생산, 다단계 중개인 개입, 30일에서 120일에 이르는 정산 지연, 30%를 상회하는 플랫폼 광고세 등 순차적 프로세스에 의존해 왔습니다. 이제 AI 에이전트가 수 밀리초 단위로 시장 신호를 분석하고 계약을 체결하며 공급망 경로를 최적화하는 경제 체제에서, 인간의 한계에 얽매인 선형 워크플로는 단순히 느린 것을 넘어 구조적으로 도태되었습니다."
+    "ko": "수십 년 동안 국제 무역과 상업 운영은 선결제 자본 묶임(Lock-up), 투기적 MOQ(최소주문수량) 재고 생산, 다단계 중개인 개입, 30일에서 120일에 이르는 정산 지연, 30%를 상회하는 플랫폼 광고세 등 순차적 프로세스에 의존해 왔습니다. 이제 AI 에이전트가 수 밀리초 단위로 시장 신호를 분석하고 계약을 체결하며 공급망 경로를 최적화하는 경제 체제에서, 인간의 한계에 얽매인 선형 워크플로는 단순히 느린 것을 넘어 구조적으로 도태되었습니다.",
+    "ja": "数十年間にわたり、国際貿易および商業オペレーションは順次的なプロセスに依存してきました。すなわち、事前の運転資本ロックアップ、投機的なMOQ（最小発注数量）在庫製造、多重ブローカー仲介、30〜120日におよぶ決済遅延、そして30%を超えるプラットフォーム広告税（中抜き）です。AIエージェントがミリ秒単位で市場シグナルを処理し、契約を交渉し、サプライチェーンを最適ルーティングする現代経済において、人間に拘束された線形ワークフローは単に低速であるだけでなく、構造的に陳腐化しています。"
   },
   "The ongoing macroeconomic transition is not an isolated technological upgrade; it is a simultaneous phase transition across five interconnected pillars of global enterprise:": {
-    "ko": "현재 진행 중인 거시경제적 패러다임 전환은 단순한 개별 기술 업그레이드가 아닙니다. 이는 글로벌 엔터프라이즈를 지탱하는 5대 상호연결 축 전반에서 동시에 발생하는 상전이(Phase Transition)입니다."
+    "ko": "현재 진행 중인 거시경제적 패러다임 전환은 단순한 개별 기술 업그레이드가 아닙니다. 이는 글로벌 엔터프라이즈를 지탱하는 5대 상호연결 축 전반에서 동시에 발생하는 상전이(Phase Transition)입니다.",
+    "ja": "現在進行形のマクロ経済の変革は、単なる個別技術のアップグレードではありません。それは、グローバル企業を支える相互連環した5つの基軸において同時に生起している相転移（Phase Transition）です。"
   },
   "The Legacy Paradigm: Corporations employed large administrative teams to manually operate passive ERP ledgers, write reports, conduct market research, and hire external coding or marketing agencies—creating massive fixed SG&A overhead.": {
-    "ko": "기존 패러다임: 기업들은 방대한 관리 조직을 운용하여 수동으로 수동적 ERP 원장을 관리하고, 보고서를 작성하며, 시장 조사를 수행하고, 외부 개발사 및 마케팅 에이전시를 고용함으로써 막대한 고정 판관비(SG&A) 오버헤드를 초래했습니다."
+    "ko": "기존 패러다임: 기업들은 방대한 관리 조직을 운용하여 수동으로 수동적 ERP 원장을 관리하고, 보고서를 작성하며, 시장 조사를 수행하고, 외부 개발사 및 마케팅 에이전시를 고용함으로써 막대한 고정 판관비(SG&A) 오버헤드를 초래했습니다.",
+    "ja": "レガシー・パラダイム：企業は大規模な管理部門を雇用し、受動的なERP台帳の手動入力、レポート作成、市場調査を行い、外部の開発・マーケティング代理店を起用することで、莫大な固定販売費および一般管理費（SG&A）のオーバーヘッドを発生させていました。"
   },
   "The Mega Trend & Shift: The shift from Generative AI (chatbots) to Autonomous Agentic AI. Overnight headless browsers harvest global wholesale prices and regulatory changes while humans sleep; zero-entropy RAG brains synthesize strategy by 8:00 AM; and human leaders focus strictly on high-level insight (Vibe Working / One Spark) while multi-agent swarms execute 100% of daily operations.": {
-    "ko": "메가트렌드 및 대전환: 생성형 AI(챗봇)에서 자율 에이전틱 AI(Autonomous Agentic AI)로의 전환. 인간이 잠든 야간 시간 동안 헤드리스 브라우저가 글로벌 도매가와 규제 변동을 수집·크롤링하고, 제로 엔트로피 RAG 브레인이 오전 8시까지 전략을 합성해 내며, 인간 리더는 고차원적 통찰(Vibe Working / One Spark)에만 온전히 집중하는 한편 멀티 에이전트 군집(Multi-agent swarms)이 일상 업무의 100%를 무결하게 실행합니다."
+    "ko": "메가트렌드 및 대전환: 생성형 AI(챗봇)에서 자율 에이전틱 AI(Autonomous Agentic AI)로의 전환. 인간이 잠든 야간 시간 동안 헤드리스 브라우저가 글로벌 도매가와 규제 변동을 수집·크롤링하고, 제로 엔트로피 RAG 브레인이 오전 8시까지 전략을 합성해 내며, 인간 리더는 고차원적 통찰(Vibe Working / One Spark)에만 온전히 집중하는 한편 멀티 에이전트 군집(Multi-agent swarms)이 일상 업무의 100%를 무결하게 실행합니다.",
+    "ja": "メガトレンドと地殻変動：生成AI（チャットボット）から自律型Agentic AIへの転換。人間が就寝している夜間にヘッドレスブラウザが世界中の卸売価格や規制変更を自動収集し、ゼロエントロピーのRAGブレインが翌朝8時までに戦略を統合立案します。そして人間のリーダーは高度な洞察（Vibe Working / One Spark）のみに特化し、マルチエージェント群が日々の業務オペレーションの100%を完全自律執行します。"
   },
   "The Legacy Paradigm: Cross-border trade moved step-by-step from supplier to manufacturer, export broker, customs, wholesaler, bank, and consumer—leaking 35–60% in intermediary margins and trapping working capital for 90 to 180 days.": {
-    "ko": "기존 패러다임: 국가 간 무역은 공급업체에서 제조업체, 수출 브로커, 관세청, 도매업체, 은행, 최종 소비자에 이르기까지 단계별 순차 처리에 머물렀으며, 이 과정에서 35~60%의 중간 마진이 누출되고 운전자본이 90일에서 180일 동안 동결되었습니다."
+    "ko": "기존 패러다임: 국가 간 무역은 공급업체에서 제조업체, 수출 브로커, 관세청, 도매업체, 은행, 최종 소비자에 이르기까지 단계별 순차 처리에 머물렀으며, 이 과정에서 35~60%의 중간 마진이 누출되고 운전자본이 90일에서 180일 동안 동결되었습니다.",
+    "ja": "レガシー・パラダイム：クロスボーダー貿易は、サプライヤーから製造業者、輸出ブローカー、通関、卸売業者、銀行、そして消費者へと段階的に移行し、その過程で35〜60%の中間マージンが漏出され、90〜180日間にわたり運転資本が固定化・滞留していました。"
   },
   "The Mega Trend & Shift: Standardized agent-to-agent (A2A / MCP) protocols and smart clearinghouses now bind Buyer (B), Maker (M), Logistics (L), and Trade Finance (F) into a single superposed state vector. When demand and supply match, all four parties settle simultaneously at t=0, obliterating intermediary friction.": {
-    "ko": "메가트렌드 및 대전환: 표준화된 에이전트 간(A2A / MCP) 프로토콜과 스마트 청산소를 통해 이제 구매자(B), 제조사(M), 물류(L), 무역금융(F)이 단일 중첩 상태 벡터(Superposed State Vector)로 결속됩니다. 수요와 공급이 정합하는 즉시 t=0 시점에서 4자 간 결제가 동시 완결되며, 중개 과정의 마찰 비용을 완전히 소멸시킵니다."
+    "ko": "메가트렌드 및 대전환: 표준화된 에이전트 간(A2A / MCP) 프로토콜과 스마트 청산소를 통해 이제 구매자(B), 제조사(M), 물류(L), 무역금융(F)이 단일 중첩 상태 벡터(Superposed State Vector)로 결속됩니다. 수요와 공급이 정합하는 즉시 t=0 시점에서 4자 간 결제가 동시 완결되며, 중개 과정의 마찰 비용을 완전히 소멸시킵니다.",
+    "ja": "メガトレンドと構造転換：標準化されたエージェント間通信（A2A / MCP）プロトコルおよびスマートクリアリングハウスにより、買い手（B）、製造業者（M）、物流（L）、貿易金融（F）が単一の「重ね合わせ状態ベクトル」へと統合されます。需給が合致した瞬間、四者がt=0で同時決済を実行し、仲介フリクションを完全に消滅させます。"
   },
   "The Legacy Paradigm: Brands gambled heavy upfront CapEx on Minimum Order Quantity (MOQ) inventory before a single sale was made, then paid 30%+ of revenue in customer acquisition costs (Ad-Tax) and PG fees to centralized tech monopolies.": {
-    "ko": "기존 패러다임: 브랜드는 단 한 건의 매출도 발생하기 전에 최소 주문 수량(MOQ) 재고에 막대한 선행 자본적 지출(CapEx)을 베팅한 후, 매출의 30% 이상을 고객 획득 비용(광고세, Ad-Tax) 및 PG 수수료 명목으로 중앙화된 빅테크 독점기업에 지불해야 했습니다."
+    "ko": "기존 패러다임: 브랜드는 단 한 건의 매출도 발생하기 전에 최소 주문 수량(MOQ) 재고에 막대한 선행 자본적 지출(CapEx)을 베팅한 후, 매출의 30% 이상을 고객 획득 비용(광고세, Ad-Tax) 및 PG 수수료 명목으로 중앙화된 빅테크 독점기업에 지불해야 했습니다.",
+    "ja": "旧来のパラダイム：ブランド企業は、初回の1件の売上すら立っていない段階で最小発注数量（MOQ）に基づく巨額の先行設備投資（CapEx）というリスクを負い、さらに売上の30%以上を中央集権的なテック独占企業への顧客獲得単価（広告税）や決済代行手数料として支払っていました。"
   },
   "The Mega Trend & Shift: Zero-Inventory Quantum Tunneling (T → 1). Conversational procurement agents and point-of-prescription clinical networks aggregate verified buyer intent and 50% advance deposits before batch manufacturing begins—passing straight through capital barriers while programmatic AI media studios generate organic viral funnels at near-$0 CAC.": {
-    "ko": "메가트렌드 및 대전환: 무재고 양자 터널링(Zero-Inventory Quantum Tunneling, T → 1). 대화형 조달 에이전트 및 처방 시점(Point-of-Prescription) 임상 네트워크가 배치 생산 개시 전 검증된 구매 의향과 50%의 선수금을 사전 집계하여 자본 장벽을 관통하며, 프로그래머틱 AI 미디어 스튜디오는 CAC(고객획득비용) $0에 수렴하는 유기적 바이럴 퍼널을 생성합니다."
+    "ko": "메가트렌드 및 대전환: 무재고 양자 터널링(Zero-Inventory Quantum Tunneling, T → 1). 대화형 조달 에이전트 및 처방 시점(Point-of-Prescription) 임상 네트워크가 배치 생산 개시 전 검증된 구매 의향과 50%의 선수금을 사전 집계하여 자본 장벽을 관통하며, 프로그래머틱 AI 미디어 스튜디오는 CAC(고객획득비용) $0에 수렴하는 유기적 바이럴 퍼널을 생성합니다.",
+    "ja": "メガトレンドと構造転換：在庫ゼロの「量子トンネル効果（T → 1）」。対話型調達エージェントおよび処方現場のクリニカルネットワークが、バッチ生産開始前に検証済みの購買意向と50%の前受金をプールします。これにより資本の障壁をやすやすと透過する一方、プログラマティックAIメディアスタジオがCACほぼ0ドルでオーガニックなバイラルファネルを自律生成します。"
   },
   "The Legacy Paradigm: Exporters faced severe open-account default risks (3–7%), foreign-exchange conversion losses, and 3–5% payment gateway tolls on every cross-border invoice.": {
-    "ko": "기존 패러다임: 수출 기업들은 모든 해외 인보이스 결제마다 심각한 사후송금방식(Open-Account) 부도 리스크(3~7%), 환전 손실, 그리고 3~5%에 달하는 결제 대행(PG) 통행료 부담을 떠안아야 했습니다."
+    "ko": "기존 패러다임: 수출 기업들은 모든 해외 인보이스 결제마다 심각한 사후송금방식(Open-Account) 부도 리스크(3~7%), 환전 손실, 그리고 3~5%에 달하는 결제 대행(PG) 통행료 부담을 떠안아야 했습니다.",
+    "ja": "旧来のパラダイム：輸出企業は、クロスボーダー請求書ごとに深刻なオープンアカウント不渡りリスク（3〜7%）、為替換算差損、そして3〜5%の決済ゲートウェイ手数料という摩擦に直面していました。"
   },
   "The Mega Trend & Shift: Credit Quantization & Multilateral Offsetting. State-backed export credit guarantees (K-SURE) fused with regional B2B BNPL fintechs unlock 100% cash at Bill of Lading with 0% balance-sheet default risk. Simultaneously, 4-Way Barter Ledgers allow enterprises to settle obligations across Goods, AI SaaS, Media IP, and Warehouse Space without cash drain.": {
-    "ko": "메가트렌드 및 대전환: 신용 양자화(Credit Quantization) 및 다자간 상계(Multilateral Offsetting). 정부 보증 기반의 수출신용보증(K-SURE)과 권역별 B2B BNPL 핀테크의 융합을 통해 선하증권(B/L) 발행 즉시 100% 현금화를 실현하며, 재무제표상 부도 리스크를 0%로 통제합니다. 동시에 4원 바터 원장(4-Way Barter Ledgers)을 통해 기업은 현금 유출 없이 실물 제품, AI SaaS, 미디어 IP, 창고 공간 전반의 채권·채무를 유연하게 상계 결제합니다."
+    "ko": "메가트렌드 및 대전환: 신용 양자화(Credit Quantization) 및 다자간 상계(Multilateral Offsetting). 정부 보증 기반의 수출신용보증(K-SURE)과 권역별 B2B BNPL 핀테크의 융합을 통해 선하증권(B/L) 발행 즉시 100% 현금화를 실현하며, 재무제표상 부도 리스크를 0%로 통제합니다. 동시에 4원 바터 원장(4-Way Barter Ledgers)을 통해 기업은 현금 유출 없이 실물 제품, AI SaaS, 미디어 IP, 창고 공간 전반의 채권·채무를 유연하게 상계 결제합니다.",
+    "ja": "メガトレンドと構造転換：信用量子化（Credit Quantization）と多国間相殺決済。国家支援型の輸出信用保証（K-SURE）と地域特化型B2B BNPLフィンテックの融合により、船荷証券（B/L）発行時点で100%のキャッシュ化を可能とし、バランスシート上のデフォルトリスクを0%に抑え込みます。同時に、4元バタート帳簿（4-Way Barter Ledgers）により、企業は現金の流出を伴うことなく、実物商品、AI SaaS、メディアIP、倉庫スペース間で債務の相殺決済を行えます。"
   },
   "The Legacy Paradigm vs. The New Mega Trend: Previously, expanding into 8 countries required establishing costly foreign subsidiaries, hiring local payroll, and building software from scratch—allowing trillion-dollar tech conglomerates to monopolize AI infrastructure. Today, the mega trend is 24-Hour Venture Cloning & Federated Human-AI Networks: a single validated business core is cloned into 6-language localized micro-SaaS and brand portals in 24 hours, operated on the ground by revenue-sharing local entrepreneurs (Astronauts / Challengers) united against global AI monopolies.": {
-    "ko": "기존 패러다임 vs. 신규 메가트렌드: 과거 8개국 진출을 위해서는 막대한 비용이 소요되는 해외 법인 설립, 현지 채용, 소프트웨어의 무결한 바닥 재구축이 필수적이었으며, 이는 조 단위 규모의 글로벌 테크 독점기업들이 AI 인프라를 장악하도록 방치하는 결과를 낳았습니다. 오늘날의 메가트렌드는 24시간 벤처 클로닝 및 연합형 휴먼-AI 네트워크(24-Hour Venture Cloning & Federated Human-AI Networks)입니다. 검증된 단일 비즈니스 코어가 24시간 이내에 6개 언어로 현지화된 마이크로 SaaS 및 브랜드 포털로 복제되고, 글로벌 AI 독점 카르텔에 맞서 연대한 수익 배분형 현지 혁신가(Astronauts / Challengers)들에 의해 현지에서 직접 전격 운영됩니다."
+    "ko": "기존 패러다임 vs. 신규 메가트렌드: 과거 8개국 진출을 위해서는 막대한 비용이 소요되는 해외 법인 설립, 현지 채용, 소프트웨어의 무결한 바닥 재구축이 필수적이었으며, 이는 조 단위 규모의 글로벌 테크 독점기업들이 AI 인프라를 장악하도록 방치하는 결과를 낳았습니다. 오늘날의 메가트렌드는 24시간 벤처 클로닝 및 연합형 휴먼-AI 네트워크(24-Hour Venture Cloning & Federated Human-AI Networks)입니다. 검증된 단일 비즈니스 코어가 24시간 이내에 6개 언어로 현지화된 마이크로 SaaS 및 브랜드 포털로 복제되고, 글로벌 AI 독점 카르텔에 맞서 연대한 수익 배분형 현지 혁신가(Astronauts / Challengers)들에 의해 현지에서 직접 전격 운영됩니다.",
+    "ja": "旧来のパラダイム vs 新たなメガトレンド：かつて8カ国への展開には、多額のコストを要する海外子会社の設立、現地雇用の確保、ゼロからのソフトウェア開発が不可欠であり、結果として兆ドル規模の巨大テックコングロマリットによるAIインフラの独占を許していました。今日のメガトレンドは、「24時間ベンチャークローニングと連合型ヒューマン・AIネットワーク」です。検証済みの単一ビジネスコアが24時間以内に6言語対応のローカライズされたマイクロSaaSおよびブランドポータルへと複製され、グローバルAI独占に対抗して結集したレベニューシェア型の現地起業家（Astronauts / Challengers）の手によって現場で自律運用されます。"
   },
   "The table below summarizes how the five mega trends systematically dismantle legacy business assumptions across every operational dimension:": {
-    "ko": "하기 표는 5대 메가트렌드가 전 운영 차원에서 기존 레거시 비즈니스 전제를 어떻게 체계적으로 해체하는지 요약합니다:"
+    "ko": "하기 표는 5대 메가트렌드가 전 운영 차원에서 기존 레거시 비즈니스 전제를 어떻게 체계적으로 해체하는지 요약합니다:",
+    "ja": "以下の表は、5つのメガトレンドが、あらゆる事業オペレーションの側面において旧来のビジネスの前提をいかに体系的に解体しているかを総括したものです。"
   },
   "Recognizing a mega trend is easy; engineering a live, revenue-generating architecture that masters both autonomous artificial intelligence and physical cross-border trade is extraordinarily rare. Pure software startups do not know how to clear biologicals through Indonesian BPOM customs, structure K-SURE export guarantees, or run Asian ODM production lines. Conversely, traditional trading houses cannot build multi-agent RAG brains or quantum clearing algorithms.": {
-    "ko": "메가트렌드를 인식하는 것은 용이하나, 자율 인공지능과 물리적 크로스보더 무역을 동시에 장악하며 실시간 수익을 창출하는 아키텍처를 엔지니어링하는 것은 극히 드뭅니다. 순수 소프트웨어 스타트업은 인도네시아 BPOM을 통한 바이오 제제 통관, K-SURE 수출보증 구조화, 아시아 ODM 생산 라인 가동 메커니즘을 알지 못합니다. 반대로, 전통적인 종합상사는 멀티 에이전트 RAG 브레인이나 양자 청산 알고리즘을 구축할 수 없습니다."
+    "ko": "메가트렌드를 인식하는 것은 용이하나, 자율 인공지능과 물리적 크로스보더 무역을 동시에 장악하며 실시간 수익을 창출하는 아키텍처를 엔지니어링하는 것은 극히 드뭅니다. 순수 소프트웨어 스타트업은 인도네시아 BPOM을 통한 바이오 제제 통관, K-SURE 수출보증 구조화, 아시아 ODM 생산 라인 가동 메커니즘을 알지 못합니다. 반대로, 전통적인 종합상사는 멀티 에이전트 RAG 브레인이나 양자 청산 알고리즘을 구축할 수 없습니다.",
+    "ja": "メガトレンドを認識することは容易ですが、自律型人工知能と物理的なクロスボーダー貿易の双方を完全に掌握し、現実に収益を生み出すアーキテクチャを設計・実装することは極めて稀有です。純粋なソフトウェアスタートアップには、インドネシアBPOMにおけるバイオ製品の通関手続き、K-SURE輸出保証の組成、アジアでのODM生産ラインの統括ノウハウが欠如しています。逆に、伝統的な総合商社には、マルチエージェント型RAGブレインや量子クリアリングアルゴリズムを構築する技術力はありません。"
   },
   "*SC (SISTAR Company) is not merely adapting to this paradigm shift—we are its living architectural blueprint. By fusing more than 20 years of lived international business development across 8 global hubs with our proprietary Qubit Algorithm™ (the 5 Quantum Business Laws) and Intelligence-Core (the 24/7 unmanned Sense-Think-Govern-Create engine), *SC has already solved every bottleneck of the old linear economy.": {
-    "ko": "*SC (SISTAR Company)는 이러한 패러다임 전환에 단순히 적응하는 데 그치지 않고, 살아 숨 쉬는 구조적 청사진 그 자체로 기능합니다. 전 세계 8개 글로벌 거점에서 축적된 20년 이상의 실전 국제 비즈니스 개발 경험과 독자 개발한 Qubit Algorithm™(5대 양자 비즈니스 법칙), 그리고 Intelligence-Core(24/7 무인 Sense-Think-Govern-Create 엔진)를 융합함으로써, *SC는 과거 선형 경제의 모든 병목 현상을 이미 완벽히 해소했습니다."
+    "ko": "*SC (SISTAR Company)는 이러한 패러다임 전환에 단순히 적응하는 데 그치지 않고, 살아 숨 쉬는 구조적 청사진 그 자체로 기능합니다. 전 세계 8개 글로벌 거점에서 축적된 20년 이상의 실전 국제 비즈니스 개발 경험과 독자 개발한 Qubit Algorithm™(5대 양자 비즈니스 법칙), 그리고 Intelligence-Core(24/7 무인 Sense-Think-Govern-Create 엔진)를 융합함으로써, *SC는 과거 선형 경제의 모든 병목 현상을 이미 완벽히 해소했습니다.",
+    "ja": "*SC（SISTAR Company）は、このパラダイムシフトに単に適応しているだけではありません。私たちはその「生きたアーキテクチャの設計図」そのものです。世界8大ハブにおける20年以上の現場実践に基づく国際事業開発実績と、独自開発のQubit Algorithm™（量子ビジネス5法則）およびIntelligence-Core（24時間365日無人稼働するSense-Think-Govern-Createエンジン）を融合させることで、*SCは旧来の線形経済モデルに内在していたすべてのボトルネックをすでに解決しています。"
   },
   "Through our 5 Corporate Identity Signatures—One Spark, Infinite Galaxifying; One Task, Multi Outcomes; Human for Insight, AI for Execution; Simultaneous Multi-Party Profit (t=0); and Together, Against Global AI Giants—*SC turns macroeconomic disruption into an unstoppable engine of shared global prosperity. In the era of AI-native commerce and borderless trading, *SC (SISTAR Company) is the answer.": {
-    "ko": "당사의 5대 기업 정체성 시그니처인 One Spark, Infinite Galaxifying, One Task, Multi Outcomes, Human for Insight, AI for Execution, Simultaneous Multi-Party Profit (t=0), 그리고 Together, Against Global AI Giants를 통해, *SC는 거시경제적 격변을 글로벌 공동 번영의 멈출 수 없는 추진 엔진으로 전환합니다. AI-네이티브 커머스와 국경 없는 무역의 시대, *SC (SISTAR Company)가 곧 해답입니다."
+    "ko": "당사의 5대 기업 정체성 시그니처인 One Spark, Infinite Galaxifying, One Task, Multi Outcomes, Human for Insight, AI for Execution, Simultaneous Multi-Party Profit (t=0), 그리고 Together, Against Global AI Giants를 통해, *SC는 거시경제적 격변을 글로벌 공동 번영의 멈출 수 없는 추진 엔진으로 전환합니다. AI-네이티브 커머스와 국경 없는 무역의 시대, *SC (SISTAR Company)가 곧 해답입니다.",
+    "ja": "5つのコーポレート・アイデンティティ・シグネチャー――One Spark, Infinite Galaxifying、One Task, Multi Outcomes、Human for Insight, AI for Execution、Simultaneous Multi-Party Profit (t=0)、そしてTogether, Against Global AI Giants――を通じ、*SCはマクロ経済の地殻変動を、世界規模の共存共栄を実現する不可逆的な推進力へと転換します。AIネイティブ・コマースとボーダレス・トレーディングの新時代において、*SC (SISTAR Company)こそがその決定打となります。"
   },
   "Review our companion volumes to see how this paradigm shift is operationalized across our core engines and 15 entangled ventures: *SC Master Brochure → | 15 Founder Projects Dossier →": {
-    "ko": "본 패러다임 전환이 당사의 핵심 엔진과 15개 얽힘 벤처에 걸쳐 어떻게 운영 체계화되는지 부속 자료를 통해 확인하십시오: *SC Master Brochure → | 15 Founder Projects Dossier →"
+    "ko": "본 패러다임 전환이 당사의 핵심 엔진과 15개 얽힘 벤처에 걸쳐 어떻게 운영 체계화되는지 부속 자료를 통해 확인하십시오: *SC Master Brochure → | 15 Founder Projects Dossier →",
+    "ja": "本パラダイムシフトが当社の中核エンジンおよび15のエンタングル（量子もつれ）事業群においていかに実装運用されているかについては、以下の関連資料をご高覧ください：*SC Master Brochure → | 15 Founder Projects Dossier →"
   },
   "1. AI & Corporate Operations": {
-    "ko": "1. AI 및 기업 운영"
+    "ko": "1. AI 및 기업 운영",
+    "ja": "1. AIおよび全社オペレーション"
   },
   "Human-heavy manual administration, fragmented SaaS subscriptions, high fixed SG&A, and slow sequential reporting.": {
-    "ko": "인력 의존적 수기 행정, 파편화된 SaaS 구독, 높은 고정 판매관리비, 지연되는 순차적 보고 체계."
+    "ko": "인력 의존적 수기 행정, 파편화된 SaaS 구독, 높은 고정 판매관리비, 지연되는 순차적 보고 체계.",
+    "ja": "人員偏重型の手作業によるアドミニストレーション、細分化されたSaaSサブスクリプション、高止まりする固定販管費（SG&A）、および遅延を伴う直列型レポーティング。"
   },
   "24/7 Unmanned Cognitive OS: Nighttime autonomous scraping, zero-entropy RAG memory, 30-minute executive Vibe Working, and automated ERP/CRM execution.": {
-    "ko": "24/7 무인 인지 OS: 야간 자율 스크래핑, 제로 엔트로피 RAG 메모리, 30분 만에 완결되는 경영진 Vibe Working, ERP/CRM 자동화 실행."
+    "ko": "24/7 무인 인지 OS: 야간 자율 스크래핑, 제로 엔트로피 RAG 메모리, 30분 만에 완결되는 경영진 Vibe Working, ERP/CRM 자동화 실행.",
+    "ja": "24時間365日無人稼働のコグニティブOS：夜間自律スクレイピング、ゼロ・エントロピーRAGメモリ、エグゼクティブによる30分のVibe Working、およびERP/CRMの完全自動実行。"
   },
   "2. International Trading": {
-    "ko": "2. 국제 무역"
+    "ko": "2. 국제 무역",
+    "ja": "2. 国際貿易・トレーディング"
   },
   "Multi-step broker chains (A → B → C), opaque customs/tariff friction, and 60–120 day payment settlement delays.": {
-    "ko": "다단계 중개자 체인(A → B → C), 불투명한 통관/관세 마찰, 60~120일에 달하는 대금 정산 지연."
+    "ko": "다단계 중개자 체인(A → B → C), 불투명한 통관/관세 마찰, 60~120일에 달하는 대금 정산 지연.",
+    "ja": "多段階の仲介ブローカー連鎖（A → B → C）、不透明な通関・関税フリクション、および60〜120日に及ぶ決済回収の遅延。"
   },
   "t = 0 Superposition Clearing: Simultaneous 4-party (Buyer, Maker, Logistics, Bank) smart-contract settlement with zero broker leakage.": {
-    "ko": "t = 0 중첩 청산: 중개자 누수 없는 4자(구매자, 제조사, 물류사, 금융사) 동시 스마트 계약 정산."
+    "ko": "t = 0 중첩 청산: 중개자 누수 없는 4자(구매자, 제조사, 물류사, 금융사) 동시 스마트 계약 정산.",
+    "ja": "t = 0 重ね合わせ決済（Superposition Clearing）：仲介マージン搾取を完全排除した、4者間（買手、メーカー、物流、銀行）スマートコントラクトによる即時同時決済。"
   },
   "3. Commercial & Inventory Model": {
-    "ko": "3. 커머셜 및 재고 모델"
+    "ko": "3. 커머셜 및 재고 모델",
+    "ja": "3. コマーシャル＆在庫モデル"
   },
   "100% speculative pre-inventory (dead-stock risk), heavy upfront CapEx ($150k+), and 30% platform ad/PG rent.": {
-    "ko": "100% 투기성 사전 재고 확보(악성 재고 리스크), 막대한 초기 CapEx(15만 달러 이상), 30%에 이르는 플랫폼 광고 및 PG 수수료 지대."
+    "ko": "100% 투기성 사전 재고 확보(악성 재고 리스크), 막대한 초기 CapEx(15만 달러 이상), 30%에 이르는 플랫폼 광고 및 PG 수수료 지대.",
+    "ja": "100%投機的な先行在庫保有（デッドストックリスク）、過大な先行設備投資（CapEx 15万ドル超）、およびプラットフォーム広告・PG手数料による30%のレント（搾取）。"
   },
   "Zero-Inventory Tunneling: Pre-aggregated buyer intent + 50% advance deposits, 70/30 PG fee cashback, and automated daily shoppable media.": {
-    "ko": "제로 재고 터널링: 사전 집계된 구매 의향 + 50% 선수금, 70/30 PG 수수료 캐시백, 일일 쇼퍼블 미디어 자동 생성."
+    "ko": "제로 재고 터널링: 사전 집계된 구매 의향 + 50% 선수금, 70/30 PG 수수료 캐시백, 일일 쇼퍼블 미디어 자동 생성.",
+    "ja": "Zero-Inventory Tunneling：事前集約された購買意図＋50%の前受デポジット、70/30 PG手数料キャッシュバック、および自動生成される日次ショッパブルメディア。"
   },
   "4. Cross-Border Synergy": {
-    "ko": "4. 크로스보더 시너지"
+    "ko": "4. 크로스보더 시너지",
+    "ja": "4. クロスボーダー・シナジー"
   },
   "Isolated departmental and national silos; completing a task in Country A yields zero automatic output in Country B.": {
-    "ko": "고립된 부서 및 국가별 사일로; A국가에서 작업을 완료해도 B국가로 자동 산출물이 전혀 연계되지 않음."
+    "ko": "고립된 부서 및 국가별 사일로; A국가에서 작업을 완료해도 B국가로 자동 산출물이 전혀 연계되지 않음.",
+    "ja": "部門間および国境間で孤立したサイロ構造。A国でタスクを完了しても、B国へ自律的なアウトプットが創出されない構造的欠陥。"
   },
   "Bell-State Entanglement (One Task, Multi Outcomes): A single clinical or trade event simultaneously updates ledgers, BOMs, and media across 8 global hubs.": {
-    "ko": "벨 상태 얽힘 (One Task, Multi Outcomes): 단일 임상 또는 무역 이벤트가 전 세계 8개 거점의 원장, BOM, 미디어를 실시간 동시 업데이트."
+    "ko": "벨 상태 얽힘 (One Task, Multi Outcomes): 단일 임상 또는 무역 이벤트가 전 세계 8개 거점의 원장, BOM, 미디어를 실시간 동시 업데이트.",
+    "ja": "ベル状態エンタングルメント（One Task, Multi Outcomes）：単一の臨床または貿易イベントが、世界8拠点の元帳、BOM、およびメディアを同時並行で更新。"
   },
   "5. Global Scaling Velocity": {
-    "ko": "5. 글로벌 스케일링 속도"
+    "ko": "5. 글로벌 스케일링 속도",
+    "ja": "5. グローバル・スケーリング速度"
   },
   "6–12 months per new brand launch; linear headcount growth; subservience to Big-Tech AI monopolies.": {
-    "ko": "신규 브랜드 출시당 6~12개월 소요, 선형적 인력 증가, 빅테크 AI 독점 체제에 대한 종속."
+    "ko": "신규 브랜드 출시당 6~12개월 소요, 선형적 인력 증가, 빅테크 AI 독점 체제에 대한 종속.",
+    "ja": "新ブランド立ち上げごとに6〜12ヶ月を要する開発期間、人員増に比例する線形的な組織膨張、およびビッグテックAI独占企業への隷属。"
   },
   "Infinite Galaxifying: 24-hour turnkey VIP venture cloning + borderless federated Challenger alliances at $0 fixed HR expansion cost.": {
-    "ko": "Infinite Galaxifying: 24시간 턴키 VIP 벤처 복제 + 추가 고정 인건비 $0 기반의 국경 없는 연합형 챌린저 동맹 구축."
+    "ko": "Infinite Galaxifying: 24시간 턴키 VIP 벤처 복제 + 추가 고정 인건비 $0 기반의 국경 없는 연합형 챌린저 동맹 구축.",
+    "ja": "Infinite Galaxifying：固定人件費の追加ゼロ（0ドル）で実現する、24時間ターンキーVIPベンチャークローニング、および国境なき連合型チャレンジャー同盟。"
   },
   "Mega Trend Category": {
-    "ko": "메가트렌드 카테고리"
+    "ko": "메가트렌드 카테고리",
+    "ja": "メガトレンド区分"
   },
   "Dying Paradigm (Legacy Newtonian Commerce)": {
-    "ko": "소멸하는 패러다임 (레거시 뉴턴식 커머스)"
+    "ko": "소멸하는 패러다임 (레거시 뉴턴식 커머스)",
+    "ja": "衰退するパラダイム（旧来のニュートン力学型コマース）"
   },
   "Emerging Paradigm (Quantum-Concurrent AI Commerce)": {
-    "ko": "부상하는 패러다임 (양자 동시성 AI 커머스)"
+    "ko": "부상하는 패러다임 (양자 동시성 AI 커머스)",
+    "ja": "台頭する新パラダイム（量子並行型AIコマース）"
   },
   "CHAPTER I • MACROECONOMIC INFLECTION POINT": {
-    "ko": "CHAPTER I • 거시경제적 변곡점"
+    "ko": "CHAPTER I • 거시경제적 변곡점",
+    "ja": "第I章 • マクロ経済の変曲点"
   },
   "*SC STRATEGIC IMPERATIVE • SECTION 01 / 04": {
-    "ko": "*SC 전략적 핵심 과제 • 섹션 01 / 04"
+    "ko": "*SC 전략적 핵심 과제 • 섹션 01 / 04",
+    "ja": "*SC 戦略的至上命題 • セクション 01 / 04"
   },
   "HISTORICAL IMPERATIVE • FROM NEWTONIAN FRICTION TO QUANTUM SIMULTANEITY": {
-    "ko": "역사적 필연성 • 뉴턴식 마찰에서 양자 동시성으로"
+    "ko": "역사적 필연성 • 뉴턴식 마찰에서 양자 동시성으로",
+    "ja": "歴史的必然性 • ニュートン力学的摩擦から量子的同時性へ"
   },
   "Collapse of Sequential Trade Settlement Latency via Superposition": {
-    "ko": "중첩을 통한 순차적 무역 결제 지연의 붕괴"
+    "ko": "중첩을 통한 순차적 무역 결제 지연의 붕괴",
+    "ja": "量子重ね合わせによる逐次型貿易決済レイテンシーの解消"
   },
   "Extinction of Upfront Inventory Risk via Pre-Order Demand Tunneling": {
-    "ko": "선주문 수요 터널링을 통한 선행 재고 리스크의 소멸"
+    "ko": "선주문 수요 터널링을 통한 선행 재고 리스크의 소멸",
+    "ja": "プレオーダー需要のトンネル効果による先行在庫リスクの根絶"
   },
   "Replacement of Manual Corporate Silos with 24/7 Unmanned AI Agents": {
-    "ko": "24/7 무인 AI 에이전트를 통한 수작업 기업 사일로의 대체"
+    "ko": "24/7 무인 AI 에이전트를 통한 수작업 기업 사일로의 대체",
+    "ja": "24時間365日自律稼働型AIエージェントによる属人的企業サイロの完全代替"
   },
   "Simultaneous Multi-National Venture Generation Without Capital Bloat": {
-    "ko": "자본 비대화 없는 동시 다국적 벤처 창출"
+    "ko": "자본 비대화 없는 동시 다국적 벤처 창출",
+    "ja": "資本肥大化を伴わない多国籍ベンチャーの同時並行創出"
   },
   "CHAPTER II • CATEGORICAL ANALYSIS OF THE MEGA TRENDS": {
-    "ko": "CHAPTER II • 메가트렌드 범주별 분석"
+    "ko": "CHAPTER II • 메가트렌드 범주별 분석",
+    "ja": "第II章 • メガトレンドのカテゴリー別構造分析"
   },
   "*SC STRATEGIC IMPERATIVE • SECTION 02 / 04": {
-    "ko": "*SC 전략적 핵심 과제 • 섹션 02 / 04"
+    "ko": "*SC 전략적 핵심 과제 • 섹션 02 / 04",
+    "ja": "*SC 戦略的至上命題 • セクション 02 / 04"
   },
   "CATEGORY 01 • AI & ENTERPRISE WORKFLOW": {
-    "ko": "카테고리 01 • AI 및 엔터프라이즈 워크플로우"
+    "ko": "카테고리 01 • AI 및 엔터프라이즈 워크플로우",
+    "ja": "カテゴリー 01 • AIおよびエンタープライズ・ワークフロー"
   },
   "CATEGORY 02 • INTERNATIONAL TRADING & SUPPLY CHAIN": {
-    "ko": "카테고리 02 • 국제 무역 및 공급망"
+    "ko": "카테고리 02 • 국제 무역 및 공급망",
+    "ja": "カテゴリー 02 • 国際貿易およびサプライチェーン"
   },
   "CATEGORY 03 • COMMERCIAL ACTIVITIES & MARKETING": {
-    "ko": "카테고리 03 • 상업 활동 및 마케팅"
+    "ko": "카테고리 03 • 상업 활동 및 마케팅",
+    "ja": "カテゴリー 03 • 商業活動およびマーケティング"
   },
   "CATEGORY 04 • TRADE FINANCE & B2B LIQUIDITY": {
-    "ko": "카테고리 04 • 무역 금융 및 B2B 유동성"
+    "ko": "카테고리 04 • 무역 금융 및 B2B 유동성",
+    "ja": "カテゴリー 04 • 貿易金融およびB2B流動性"
   },
   "CATEGORY 05 • GLOBAL EXPANSION & ORGANIZATIONAL TOPOLOGY": {
-    "ko": "카테고리 05 • 글로벌 확장 및 조직 위상학"
+    "ko": "카테고리 05 • 글로벌 확장 및 조직 위상학",
+    "ja": "カテゴリー 05 • グローバル展開および組織トポロジー"
   },
   "CHAPTER III • PARADIGM SHIFT SYNTHESIS MATRIX": {
-    "ko": "CHAPTER III • 패러다임 전환 종합 매트릭스"
+    "ko": "CHAPTER III • 패러다임 전환 종합 매트릭스",
+    "ja": "第III章 • パラダイムシフト統合マトリクス"
   },
   "*SC STRATEGIC IMPERATIVE • SECTION 03 / 04": {
-    "ko": "*SC 전략적 핵심 과제 • 섹션 03 / 04"
+    "ko": "*SC 전략적 핵심 과제 • 섹션 03 / 04",
+    "ja": "*SC 戦略的至上命題 • セクション 03 / 04"
   },
   "CHAPTER IV • THE INEVITABLE CONCLUSION": {
-    "ko": "CHAPTER IV • 필연적 결론"
+    "ko": "CHAPTER IV • 필연적 결론",
+    "ja": "第IV章 • 必然的結論"
   },
   "*SC STRATEGIC IMPERATIVE • SECTION 04 / 04": {
-    "ko": "*SC 전략적 당위성 • 섹션 04 / 04"
+    "ko": "*SC 전략적 당위성 • 섹션 04 / 04",
+    "ja": "*SC 戦略的至上命題 • セクション 04 / 04"
   },
   "THE ULTIMATE VERDICT • *SC IS THE ANSWER": {
-    "ko": "궁극적 결론 • 해답은 *SC이다"
+    "ko": "궁극적 결론 • 해답은 *SC이다",
+    "ja": "究極の評決 • *SCこそがその解である"
   },
   "Explore the Complete *SC Institutional Architecture": {
-    "ko": "*SC 통합 제도적 아키텍처 탐색"
+    "ko": "*SC 통합 제도적 아키텍처 탐색",
+    "ja": "*SC インスティテューショナル・アーキテクチャの全容を検証する"
   },
   "📄 sc master brochure (PDF) &nearr;": {
-    "ko": "📄 SC 마스터 브로슈어 (PDF) &nearr;"
+    "ko": "📄 SC 마스터 브로슈어 (PDF) &nearr;",
+    "ja": "📄 sc マスターブローシャ (PDF) &nearr;"
   },
   "📄 sc founder projects (PDF) &nearr;": {
-    "ko": "📄 SC 파운더 프로젝트 (PDF) &nearr;"
+    "ko": "📄 SC 파운더 프로젝트 (PDF) &nearr;",
+    "ja": "📄 sc ファウンダー・プロジェクト (PDF) &nearr;"
   },
   "📄 qubit algorithm, intelligence core (en) (PDF) &nearr;": {
-    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (EN) (PDF) &nearr;"
+    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (EN) (PDF) &nearr;",
+    "ja": "📄 Qubit Algorithm、インテリジェンス・コア (英語版) (PDF) &nearr;"
   },
   "📄 qubit algorithm, intelligence core (kr) (PDF) &nearr;": {
-    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (KR) (PDF) &nearr;"
+    "ko": "📄 Qubit Algorithm, 인텔리전스 코어 (KR) (PDF) &nearr;",
+    "ja": "📄 Qubit Algorithm、インテリジェンス・コア (韓国語版) (PDF) &nearr;"
   },
   "// EQUATION 3.1: AUTO-FORMULATOR R1 TRIANGULAR BOM OPTIMIZATION": {
-    "ko": "// 수식 3.1: AUTO-FORMULATOR R1 삼각 BOM 최적화"
+    "ko": "// 수식 3.1: AUTO-FORMULATOR R1 삼각 BOM 최적화",
+    "ja": "// 方程式 3.1：AUTO-FORMULATOR R1 三角BOM最適化"
   },
   "// EQUATION 3.2: CASHLESS PHYTO-FOR-DIAGNOSTICS BARTER SWAP (4-WAY QUBIT BANK)": {
-    "ko": "// 수식 3.2: 무현금 파이토-진단 바터 스왑 (4-WAY QUBIT BANK)"
+    "ko": "// 수식 3.2: 무현금 파이토-진단 바터 스왑 (4-WAY QUBIT BANK)",
+    "ja": "// 方程式 3.2：キャッシュレス・フィト治療薬／診断薬バータースワップ（4者間 QUBIT BANK）"
   },
   "Local demand and regulatory signals enter the Regional hub.": {
-    "ko": "현지 수요 및 규제 시그널이 리전 허브로 유입됩니다."
+    "ko": "현지 수요 및 규제 시그널이 리전 허브로 유입됩니다.",
+    "ja": "現地市場の需要動向および規制シグナルがリージョナルハブへと集約・入力される。"
   },
   "For PT. SISTAR Indonesia, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "PT. SISTAR Indonesia의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+    "ko": "PT. SISTAR Indonesia의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다.",
+    "ja": "PT. SISTAR Indonesiaにおいて、Qubit Algorithm™とAI Intelligence-Coreは、共有インフラストラクチャを通じて需要、ドメイン実行、そして複数ステークホルダー間の価値実現を統合・整合化します。"
   },
   "ASEAN PRIMARY OPERATING ANCHOR • PT. SISTAR INDONESIA ([SC.ID] / SCI)": {
-    "ko": "아세안 핵심 운영 앵커 • PT. SISTAR INDONESIA ([SC.ID] / SCI)"
+    "ko": "아세안 핵심 운영 앵커 • PT. SISTAR INDONESIA ([SC.ID] / SCI)",
+    "ja": "ASEAN主要オペレーティングアンカー • PT. SISTAR INDONESIA ([SC.ID] / SCI)"
   },
   "24hr": {
-    "ko": "24시간"
+    "ko": "24시간",
+    "ja": "24時間"
   },
   "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network turns shared infrastructure into domain-specific action.": {
-    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network는 공유 인프라를 도메인 특화 실행 체계로 전환합니다."
+    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network는 공유 인프라를 도메인 특화 실행 체계로 전환합니다.",
+    "ja": "sistar intl — グローバル8拠点クロスボーダー指揮統制＆直接AIトレーディングネットワークは、共有インフラストラクチャをドメイン特化型のアクションへと昇華させます。"
   },
   "For sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network, the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+    "ko": "sistar intl — Global 8-Base Cross-Border Command & Direct AI Trading Network의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다.",
+    "ja": "sistar intl — グローバル8拠点クロスボーダー指揮統制＆直接AIトレーディングネットワークにおいて、Qubit Algorithm™およびAI Intelligence-Coreは、共有インフラストラクチャを介して需要、ドメイン実行、ならびに複数ステークホルダー間の価値実現を精緻にアラインメント（整合化）します。"
   },
   "// EQUATION 3.1: TARIFF & FREIGHT TUNNELING EFFICIENCY": {
-    "ko": "// 수식 3.1: 관세 및 화물 터널링 효율성"
+    "ko": "// 수식 3.1: 관세 및 화물 터널링 효율성",
+    "ja": "// 方程式 3.1：関税・国際貨物運賃トンネリング効率性"
   },
   "// EQUATION 3.2: 8-NODE MULTILATERAL NETTING IDENTITY": {
-    "ko": "// 수식 3.2: 8-노드 다자간 차감정산(Netting) 항등식"
+    "ko": "// 수식 3.2: 8-노드 다자간 차감정산(Netting) 항등식",
+    "ja": "// 方程式 3.2：8ノード多国間ネッティング恒等式"
   },
   "Partner intent and rolling purchasing forecasts enter the alliance.": {
-    "ko": "파트너사의 거래 의향 및 롤링 구매 예측치가 얼라이언스로 유입됩니다."
+    "ko": "파트너사의 거래 의향 및 롤링 구매 예측치가 얼라이언스로 유입됩니다.",
+    "ja": "パートナー企業の取引意向およびローリング購買予測がアライアンスへと集約・投入される。"
   },
   "IATA and C.A.N. coordinate counterparties, offers, and approvals.": {
-    "ko": "IATA 및 C.A.N.이 거래 상대방, 오퍼 및 승인 프로세스를 총괄 조율합니다."
+    "ko": "IATA 및 C.A.N.이 거래 상대방, 오퍼 및 승인 프로세스를 총괄 조율합니다.",
+    "ja": "IATAおよびC.A.N.がカウンターパーティ、オファー、ならびに承認プロセスを統合調整する。"
   },
   "K-SURE-backed orders move through cross-border delivery.": {
-    "ko": "K-SURE 보증 기반 주문은 크로스보더 물류·인도 프로세스를 거쳐 이행됩니다."
+    "ko": "K-SURE 보증 기반 주문은 크로스보더 물류·인도 프로세스를 거쳐 이행됩니다.",
+    "ja": "K-SURE保証付き発注がクロスボーダー配送・フルフィルメント工程へと移行・執行される。"
   },
   "4-Way Qubit Bank settlement returns outcomes to the next forecast.": {
-    "ko": "4-Way Qubit Bank 결제 정산 결과는 차기 예측 체계로 환류됩니다."
+    "ko": "4-Way Qubit Bank 결제 정산 결과는 차기 예측 체계로 환류됩니다.",
+    "ja": "4者間Qubit Bank決済が実行され、その実績データが次期予測サイクルへと還元・反映される。"
   },
   "For *SC - Intl AI Trade Alliance (IATA), the Qubit Algorithm™ and AI Intelligence-Core align demand, domain execution, and multi-party value realization through shared infrastructure.": {
-    "ko": "*SC - Intl AI Trade Alliance (IATA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다."
+    "ko": "*SC - Intl AI Trade Alliance (IATA)의 경우, Qubit Algorithm™과 AI Intelligence-Core가 공유 인프라를 기반으로 수요, 도메인 실행 및 다자간 가치 실현을 최적 정렬합니다.",
+    "ja": "*SC - Intl AI Trade Alliance (IATA)において、Qubit Algorithm™およびAI Intelligence-Coreは共有インフラストラクチャを介して需要、各領域の実行、ならびに多者間での価値具現化を高度に整合・同期させる。"
   },
   "Core Technology & Operating Mechanism: One Vertically Integrated Architecture": {
     "ko": "핵심 기술 및 운용 메커니즘: 단일 수직 통합 아키텍처"
@@ -100351,10 +100725,12 @@ window.SC_TRANSLATIONS = {
     "ko": "핵심 축 01 • 비전 (One Spark, Infinite Galaxifying)"
   },
   "PILLAR 02 • THE LAW (QUBIT ALGORITHM™)": {
-    "ko": "핵심 축 02 • 법칙 (Qubit Algorithm™)"
+    "ko": "핵심 축 02 • 법칙 (Qubit Algorithm™)",
+    "ja": "第2の柱 • 法則（QUBIT ALGORITHM™）"
   },
   "PILLAR 03 • THE BRAIN (INTELLIGENCE-CORE)": {
-    "ko": "핵심 축 03 • 두뇌 (인텔리전스 코어)"
+    "ko": "핵심 축 03 • 두뇌 (인텔리전스 코어)",
+    "ja": "第3の柱 • 頭脳（インテリジェンス・コア）"
   },
   "03 • WHAT WE DELIVER": {
     "ko": "03 • 가치 창출 솔루션 (WHAT WE DELIVER)"
@@ -100366,7 +100742,8 @@ window.SC_TRANSLATIONS = {
     "ko": "트랙 A • SCARLET-AI (목표 매출총이익률: 45–65%)"
   },
   "04 • WHY YOU DON'T NEED TO WORRY": {
-    "ko": "04 • 귀사가 우려하지 않아도 되는 명확한 이유"
+    "ko": "04 • 귀사가 우려하지 않아도 되는 명확한 이유",
+    "ja": "04 • 懸念が不要である構造的根拠"
   },
   "*SC AT A GLANCE • SECTION 04 / 04": {
     "ko": "*SC 핵심 개요 • 섹션 04 / 04"
@@ -100378,52 +100755,68 @@ window.SC_TRANSLATIONS = {
     "ko": "*SC 플래그십 도시에(Flagship Dossier) 차기 단계"
   },
   "1. WHO WE ARE": {
-    "ko": "1. WHO WE ARE: 기업 정체성"
+    "ko": "1. WHO WE ARE: 기업 정체성",
+    "ja": "1. 私たちの存在意義（WHO WE ARE）"
   },
   "2. HOW WE WORK": {
-    "ko": "2. HOW WE WORK: 비즈니스 작동 메커니즘"
+    "ko": "2. HOW WE WORK: 비즈니스 작동 메커니즘",
+    "ja": "2. 事業推進メカニズム（HOW WE WORK）"
   },
   "3. WHAT WE DELIVER": {
-    "ko": "3. WHAT WE DELIVER: 제공 가치 및 솔루션"
+    "ko": "3. WHAT WE DELIVER: 제공 가치 및 솔루션",
+    "ja": "3. 提供価値・ソリューション（WHAT WE DELIVER）"
   },
   "4. WHY YOU DON'T NEED TO WORRY": {
-    "ko": "4. WHY YOU DON'T NEED TO WORRY: 완벽한 리스크 해소"
+    "ko": "4. WHY YOU DON'T NEED TO WORRY: 완벽한 리스크 해소",
+    "ja": "4. 確実性への根拠（WHY YOU DON'T NEED TO WORRY）"
   },
   "\"Bring only a single idea (One Spark). The complete system of *SC executes its infinite expansion into a business galaxy (Infinite Galaxifying).\"": {
-    "ko": "\"단 하나의 아이디어(One Spark)만 제시하십시오. *SC의 완성된 시스템이 비즈니스 은하계로의 무한한 확장(Infinite Galaxifying)을 실현합니다.\""
+    "ko": "\"단 하나의 아이디어(One Spark)만 제시하십시오. *SC의 완성된 시스템이 비즈니스 은하계로의 무한한 확장(Infinite Galaxifying)을 실현합니다.\"",
+    "ja": "「提示いただくのは、わずか一つの着想（One Spark）のみ。*SCの完備されたシステムが、それをビジネスの銀河系（Infinite Galaxifying）へと無限に拡張・具現化します。」"
   },
   "*SC (SISTAR Company) is neither a simple IT startup nor a traditional trading company. Built upon more than 20 years of physical trade, customs clearance, and bio-infrastructure across 8 countries, we are the world's first AI-Native Global Commerce & Trading Holding Company combining proprietary quantum business laws with autonomous AI.": {
-    "ko": "*SC (SISTAR Company)는 단순한 IT 스타트업이나 전통적 무역상사가 아닙니다. 8개국에 걸친 20년 이상의 실물 무역, 통관 물류 및 바이오 인프라를 기반으로, 독자적인 양자 비즈니스 법칙과 자율형 AI를 융합한 세계 최초의 'AI-Native 글로벌 커머스 & 트레이딩 지주회사'입니다."
+    "ko": "*SC (SISTAR Company)는 단순한 IT 스타트업이나 전통적 무역상사가 아닙니다. 8개국에 걸친 20년 이상의 실물 무역, 통관 물류 및 바이오 인프라를 기반으로, 독자적인 양자 비즈니스 법칙과 자율형 AI를 융합한 세계 최초의 'AI-Native 글로벌 커머스 & 트레이딩 지주회사'입니다.",
+    "ja": "*SC（SISTAR Company）は、単なるITスタートアップでも、旧態依然とした貿易商社でもありません。世界8カ国で20年以上にわたり培った実物貿易、通関、バイオインフラの強固な基盤の上に構築された、独自の量子ビジネス法則と自律型AIを融合させた『世界初のAIネイティブ・グローバル・コマース＆トレーディング・ホールディングカンパニー』です。"
   },
   "We have solved the simultaneous deployment of multiple global businesses—impossible under legacy methods—through a single vertically integrated architecture.": {
-    "ko": "레거시 방식으로는 불가능했던 다각적 글로벌 비즈니스의 동시 전개를 단일 수직 계열화 아키텍처를 통해 완벽히 해결하였습니다."
+    "ko": "레거시 방식으로는 불가능했던 다각적 글로벌 비즈니스의 동시 전개를 단일 수직 계열화 아키텍처를 통해 완벽히 해결하였습니다.",
+    "ja": "当社は、従来の手法では不可能であった複数のグローバルビジネスの同時展開を、単一の垂直統合型アーキテクチャによって実現・解決いたしました。"
   },
   "The technology concentrated in Intelligence-Core does not remain a mere concept; right now, it is generating real cashflow and high margins through two powerful commercial gateways.": {
-    "ko": "Intelligence-Core에 집약된 기술은 단순한 개념에 머무르지 않으며, 현재 두 개의 강력한 상업용 게이트웨이를 통해 실질적인 현금 흐름과 높은 영업이익률을 창출하고 있습니다."
+    "ko": "Intelligence-Core에 집약된 기술은 단순한 개념에 머무르지 않으며, 현재 두 개의 강력한 상업용 게이트웨이를 통해 실질적인 현금 흐름과 높은 영업이익률을 창출하고 있습니다.",
+    "ja": "Intelligence-Coreに集約された技術は、単なる概念実証にとどまりません。現在この瞬間も、2つの強力な商用ゲートウェイを通じて、確実な実物キャッシュフローと高い営業利益率を生み出しています。"
   },
   "\"Do not worry about how all of this is possible. Already, 15 Founder Projects and Biz-Galaxy are running with zero error on top of this single engine.\"": {
-    "ko": "\"이 모든 것이 어떻게 가능한지 염려하지 마십시오. 이미 15개의 Founder Projects와 Biz-Galaxy가 이 단일 엔진 위에서 무오류(Zero Error)로 가동되고 있습니다.\""
+    "ko": "\"이 모든 것이 어떻게 가능한지 염려하지 마십시오. 이미 15개의 Founder Projects와 Biz-Galaxy가 이 단일 엔진 위에서 무오류(Zero Error)로 가동되고 있습니다.\"",
+    "ja": "「これらがいかにして実現可能であるかについての懸念は不要です。すでに15のファウンダープロジェクトおよびBiz-Galaxyが、この単一のエンジン上でエラーゼロ（稼働率100%）にて稼働しています。」"
   },
   "• The Vision (One Spark, Infinite Galaxifying): When a single line of insight (One Spark) from a founder or partner is injected, it triggers an explosive, simultaneous expansion (Galaxifying) into multi-national commerce and business with zero initial capital (V_capital = 0) and zero inventory burden.": {
-    "ko": "• The Vision (One Spark, Infinite Galaxifying): 창업자 또는 파트너의 단 한 줄의 통찰(One Spark)이 주입되는 즉시, 초기 자본 부담 없이(V_capital = 0) 무재고 기반으로 다국적 커머스 및 비즈니스로의 폭발적 동시 확장(Galaxifying)을 촉발합니다."
+    "ko": "• The Vision (One Spark, Infinite Galaxifying): 창업자 또는 파트너의 단 한 줄의 통찰(One Spark)이 주입되는 즉시, 초기 자본 부담 없이(V_capital = 0) 무재고 기반으로 다국적 커머스 및 비즈니스로의 폭발적 동시 확장(Galaxifying)을 촉발합니다.",
+    "ja": "• ビジョン（One Spark, Infinite Galaxifying）：ファウンダーやパートナーによる1行のインサイト（One Spark）が注入されると、初期資本ゼロ（V_capital = 0）かつ在庫リスクゼロの状態で、多国籍コマースおよびグローバル事業への爆発的な同時多元展開（Galaxifying）がトリガーされます。"
   },
   "• The Law (Qubit Algorithm™): Our business engine that mathematically and structurally eliminates the fatal limitations of traditional trade—payment delays (90–180 days), inventory risk, and intermediary margin leakage—through the 5 laws of quantum mechanics (t = 0 simultaneous settlement superposition, 50% advance-deposit tunneling, non-local entanglement, etc.).": {
-    "ko": "• The Law (Qubit Algorithm™): 5가지 양자역학 법칙(t = 0 동시 결제 중첩, 50% 선수금 터널링, 비국소적 얽힘 등)을 통해 기존 무역의 치명적 한계인 대금 정산 지연(90~180일), 재고 리스크, 중간 마진 누수를 수학적·구조적으로 원천 차단하는 당사의 핵심 비즈니스 엔진입니다."
+    "ko": "• The Law (Qubit Algorithm™): 5가지 양자역학 법칙(t = 0 동시 결제 중첩, 50% 선수금 터널링, 비국소적 얽힘 등)을 통해 기존 무역의 치명적 한계인 대금 정산 지연(90~180일), 재고 리스크, 중간 마진 누수를 수학적·구조적으로 원천 차단하는 당사의 핵심 비즈니스 엔진입니다.",
+    "ja": "• 法則（Qubit Algorithm™）：量子力学の5原則（t = 0 同時決済の重ね合わせ、50%前受金トンネリング、非局所的エンタングルメント等）に基づき、従来の国際貿易における致命的な制約——代金回収遅延（90〜180日）、在庫リスク、中間マージン流出——を数学的かつ構造的に排除する当社独自のビジネスエンジンです。"
   },
   "• The Brain (Intelligence-Core): The 24/7 unmanned AI central nervous system that executes the Qubit Algorithm™ in actual code. Uniting our Overnight Unmanned Data Factory (SENSE), Zero-Hallucination RAG Brain (THINK), Unmanned ERP Governance (GOVERN), and Multilingual Web & Short-Form Auto-Generator (CREATE), it establishes a structure with '0' fixed administrative overhead (SG&A).": {
-    "ko": "• The Brain (Intelligence-Core): Qubit Algorithm™을 실제 코드로 구동하는 24/7 무인 AI 중추 신경계입니다. 야간 무인 데이터 팩토리(SENSE), 할루시네이션 제로 RAG 브레인(THINK), 무인 ERP 거버넌스(GOVERN), 다국어 웹 및 숏폼 자동 생성기(CREATE)를 결합하여 판관비(SG&A) 제로('0')의 고효율 구조를 확립합니다."
+    "ko": "• The Brain (Intelligence-Core): Qubit Algorithm™을 실제 코드로 구동하는 24/7 무인 AI 중추 신경계입니다. 야간 무인 데이터 팩토리(SENSE), 할루시네이션 제로 RAG 브레인(THINK), 무인 ERP 거버넌스(GOVERN), 다국어 웹 및 숏폼 자동 생성기(CREATE)를 결합하여 판관비(SG&A) 제로('0')의 고효율 구조를 확립합니다.",
+    "ja": "• 中枢ブレイン（Intelligence-Core）：Qubit Algorithm™を実コードとして執行する、24時間365日無人稼働のAI中枢神経系。夜間無人データファクトリー（SENSE）、ハルシネーションゼロのRAGブレイン（THINK）、無人ERPガバナンス（GOVERN）、多言語Web・ショート動画自動生成（CREATE）を統合し、固定的な管理・販管費（SG&A）を『実質ゼロ』にする構造を確立しています。"
   },
   "• Track A. Scarlet-AI (Global AI Trade & Commerce Platform): The frontline of physical cashflow where direct B2B cross-border trading led by our 24/7 AI deal closer (Ms. Scarlet), 50% advance-deposit reverse-auction group buying (Buy4Me), short-form video commerce, and offline fulfillment operate in unison (Target GM 45–65%).": {
-    "ko": "• Track A. Scarlet-AI (Global AI Trade & Commerce Platform): 24/7 AI 딜 클로저(Ms. Scarlet)가 주도하는 직거래 B2B 크로스보더 무역, 50% 선수금 역경매 공동구매(Buy4Me), 숏폼 비디오 커머스, 오프라인 풀필먼트가 유기적으로 결합되어 실물 현금 흐름을 창출하는 최전선입니다 (목표 매출총이익률 GM 45~65%)."
+    "ko": "• Track A. Scarlet-AI (Global AI Trade & Commerce Platform): 24/7 AI 딜 클로저(Ms. Scarlet)가 주도하는 직거래 B2B 크로스보더 무역, 50% 선수금 역경매 공동구매(Buy4Me), 숏폼 비디오 커머스, 오프라인 풀필먼트가 유기적으로 결합되어 실물 현금 흐름을 창출하는 최전선입니다 (목표 매출총이익률 GM 45~65%).",
+    "ja": "• トラックA. Scarlet-AI（Global AI Trade & Commerce Platform）：24時間365日稼働のAIディールクローザー（Ms. Scarlet）が主導するB2Bクロスボーダー直接貿易、50%前受金リバースオークション型共同購入（Buy4Me）、ショート動画コマース、オフラインフルフィルメントが連動する実物キャッシュフローの最前線（目標売上総利益率 45–65%）。"
   },
   "• Track B. Qubit-Biz (Enterprise AI SaaS & Venture Cloning): Our high-margin B2B solution hub that implants unmanned Qubit ERP, enterprise RAG, and executive c.a.n. (CEO ActionNote) solutions into external companies, while cloning validated business models into 6-language platforms within 24 hours (Target GM 75–85%).": {
-    "ko": "• Track B. Qubit-Biz (Enterprise AI SaaS & Venture Cloning): 무인 Qubit ERP, 기업용 RAG, 최고경영진 전용 c.a.n. (CEO ActionNote) 솔루션을 외부 기업에 이식하고, 검증된 비즈니스 모델을 24시간 이내에 6개 언어 플랫폼으로 복제(Cloning)하는 고마진 B2B 솔루션 허브입니다 (목표 매출총이익률 GM 75~85%)."
+    "ko": "• Track B. Qubit-Biz (Enterprise AI SaaS & Venture Cloning): 무인 Qubit ERP, 기업용 RAG, 최고경영진 전용 c.a.n. (CEO ActionNote) 솔루션을 외부 기업에 이식하고, 검증된 비즈니스 모델을 24시간 이내에 6개 언어 플랫폼으로 복제(Cloning)하는 고마진 B2B 솔루션 허브입니다 (목표 매출총이익률 GM 75~85%).",
+    "ja": "• トラックB. Qubit-Biz（Enterprise AI SaaS & Venture Cloning）：無人Qubit ERP、エンタープライズRAG、経営者向けc.a.n.（CEO ActionNote）ソリューションを外部企業へ移植しつつ、検証済みのビジネスモデルを24時間以内に6言語対応プラットフォームとして複製・展開する高収益B2Bソリューションハブ（目標売上総利益率 75–85%）。"
   },
   "• This website (sistarcompany.com) is the Master Architecture Hub transparently disclosing the entire blueprint and solutions of *SC, while actual transactions and solution operations take place immediately across each independent live commercial platform.": {
-    "ko": "• 본 웹사이트(sistarcompany.com)는 *SC의 청사진과 솔루션 전반을 투명하게 공개하는 마스터 아키텍처 허브이며, 실제 거래 및 솔루션 운영은 독립된 각 라이브 커머셜 플랫폼에서 즉각적으로 집행됩니다."
+    "ko": "• 본 웹사이트(sistarcompany.com)는 *SC의 청사진과 솔루션 전반을 투명하게 공개하는 마스터 아키텍처 허브이며, 실제 거래 및 솔루션 운영은 독립된 각 라이브 커머셜 플랫폼에서 즉각적으로 집행됩니다.",
+    "ja": "• 本ウェブサイト（sistarcompany.com）は、*SCの全体青写真およびソリューション群を透明性をもって開示する『マスターアーキテクチャハブ』であり、実際の商取引およびソリューションオペレーションは、独立した各稼働商用プラットフォーム上にて即座に執行されます。"
   },
   "• From customs clearance (BPOM/FDA) and trade finance (K-SURE BNPL) to manufacturing (ODM), logistics, and marketing—*SC has every answer completely prepared. All you need to make is the decision to join us.": {
-    "ko": "• 통관 인허가(BPOM/FDA) 및 무역 금융(K-SURE BNPL)부터 위탁 제조(ODM), 글로벌 물류 및 전략적 마케팅에 이르기까지—*SC는 모든 단계의 해법을 완벽히 구축해 두었습니다. 귀사께서 취하실 조치는 오직 당사와의 동행을 결단하는 것뿐입니다."
+    "ko": "• 통관 인허가(BPOM/FDA) 및 무역 금융(K-SURE BNPL)부터 위탁 제조(ODM), 글로벌 물류 및 전략적 마케팅에 이르기까지—*SC는 모든 단계의 해법을 완벽히 구축해 두었습니다. 귀사께서 취하실 조치는 오직 당사와의 동행을 결단하는 것뿐입니다.",
+    "ja": "• 各国通関規制・許認可（BPOM/FDA）、貿易金融（K-SURE BNPL）から、受託製造（ODM）、国際物流、マーケティングに至るまで——*SCはすべての解を完全に具備しています。パートナーに求められるのは、当エコシステムへの参入を決断することだけです。"
   },
   "Autonomous t = 0 Cross-Border Trade & Clearing": {
     "ko": "자율형 t = 0 크로스보더 무역 및 결제·정산"
@@ -100813,48 +101206,299 @@ window.SC_TRANSLATIONS = {
     "ko": "Idea Bank에서는 화학자, Dify 프롬프트 아키텍트, 비즈니스 모델 설계자가 검증된 포뮬러(`Auto-Formulator R1`) 및 에이전틱 워크플로우(`01_autonomous-enterprise-os/05_knowledge-networks`)를 등록하여, `Biz-Galaxy` 브랜드가 해당 IP를 배포할 때마다 스마트 계약 기반의 영구 로열티를 수취합니다. Petfood Bank(`02_petfood-bank`)에서는 휴먼그레이드 식품 제조 부산물을 업사이클링하여 표준화된 반려동물 영양 비축 자산(`SISPet / MedIX`)으로 전환함으로써, 인플레이션 헤지형 실물 원자재 원장과 ESG 셸터 후원을 결합한 가치를 창출합니다."
   },
   "Simultaneous Multi-Lateral Profit Realization (t = 0)": {
-    "ko": "다자간 동시 수익 실현 ($t = 0$)"
+    "ko": "다자간 동시 수익 실현 ($t = 0$)",
+    "ja": "多者間同時利益確定（t = 0）"
   },
   "Multi-Agent Commercial Execution & t = 0 ERP Sync": {
-    "ko": "멀티 에이전트 커머셜 실행 및 $t=0$ ERP 동기화"
+    "ko": "멀티 에이전트 커머셜 실행 및 $t=0$ ERP 동기화",
+    "ja": "マルチエージェント商取引執行および t = 0 ERP同期"
   },
   "When institutional partners ask how one organization can execute across Enterprise AI SaaS, Veterinary Bio-Health, ODM Manufacturing, and International Trade simultaneously, our answer is structural: *SC does not manage disconnected businesses manually; we operate a single universal Quantum Engine. Because the underlying data factory, RAG brain, and t = 0 clearing mechanism are identical, refusing to limit industry boundaries maximizes cross-project entanglement synergy.": {
-    "ko": "기관 투자자 및 파트너들이 하나의 조직이 어떻게 엔터프라이즈 AI SaaS, 수의학 바이오 헬스(Veterinary Bio-Health), ODM 제조, 국제 무역을 동시에 실행할 수 있는지 물을 때, 우리의 대답은 구조적입니다. *SC는 단절된 사업들을 개별적으로 관리하지 않으며, 단 하나의 범용 Quantum Engine을 가동합니다. 기반이 되는 데이터 팩토리, RAG 브레인, $t=0$ 청산 메커니즘이 완전히 동일하기 때문에, 산업의 경계를 허물 때 프로젝트 간 얽힘(entanglement) 시너지는 극대화됩니다."
+    "ko": "기관 투자자 및 파트너들이 하나의 조직이 어떻게 엔터프라이즈 AI SaaS, 수의학 바이오 헬스(Veterinary Bio-Health), ODM 제조, 국제 무역을 동시에 실행할 수 있는지 물을 때, 우리의 대답은 구조적입니다. *SC는 단절된 사업들을 개별적으로 관리하지 않으며, 단 하나의 범용 Quantum Engine을 가동합니다. 기반이 되는 데이터 팩토리, RAG 브레인, $t=0$ 청산 메커니즘이 완전히 동일하기 때문에, 산업의 경계를 허물 때 프로젝트 간 얽힘(entanglement) 시너지는 극대화됩니다.",
+    "ja": "機関投資家やパートナーから、いかにして単一の組織がエンタープライズAI SaaS、動物バイオ・ヘルスケア、ODM受託製造、そして国際貿易を同時並行で執行できるのかと問われた際、当社の回答は構造的なものです。*SC は分断された複数の事業を用手的に個別管理しているのではなく、単一の普遍的な Quantum Engine を稼働させています。基盤となるデータファクトリー、RAG頭脳、そして t = 0 クリアリングメカニズムが同一であるため、産業の境界をあえて規定しないことこそが、プロジェクト間の量子もつれ（エンタングルメント）的シナジーを極大化するのです。"
   },
   "Prior to transaction execution, supply capacities, buyer demand, freight slots, and trade-finance credit lines are modeled as superposed state vectors. The instant our AI observes a price-volume match, the density matrix diagonalizes—locking in profit for Buyer, Seller, Logistics, and Financier simultaneously at t = 0.": {
-    "ko": "거래 체결 전, 공급 능력, 바이어 수요, 화물 선적 슬롯, 무역 금융 여신 한도는 중첩된 상태 벡터로 모델링됩니다. 당사의 AI가 가격-물량 매칭을 관측하는 순간, 밀도 행렬이 대각화되며 $t=0$ 시점에 바이어, 셀러, 물류사, 금융기관 모두의 수익을 동시에 확정합니다."
+    "ko": "거래 체결 전, 공급 능력, 바이어 수요, 화물 선적 슬롯, 무역 금융 여신 한도는 중첩된 상태 벡터로 모델링됩니다. 당사의 AI가 가격-물량 매칭을 관측하는 순간, 밀도 행렬이 대각화되며 $t=0$ 시점에 바이어, 셀러, 물류사, 금융기관 모두의 수익을 동시에 확정합니다.",
+    "ja": "取引執行前、供給能力、バイヤー需要、輸送枠、貿易金融の与信枠は、重ね合わせ状態の「状態ベクトル」としてモデル化されます。当社のAIが価格と数量の一致を観測した瞬間、密度行列は対角化され、買い手、売り手、物流事業者、金融機関のすべての利益が t = 0 で同時に確定されます。"
   },
   "Quantum Superposition (t = 0): Buyer, Manufacturer, Logistics, and Trade Finance settle simultaneously upon intent collapse.": {
-    "ko": "양자 중첩 ($t = 0$): 구매자 의도가 확정(intent collapse)되는 순간 바이어, 제조사, 물류, 무역 금융이 동시에 정산."
+    "ko": "양자 중첩 ($t = 0$): 구매자 의도가 확정(intent collapse)되는 순간 바이어, 제조사, 물류, 무역 금융이 동시에 정산.",
+    "ja": "量子重ね合わせ（t = 0）：購買意図の収縮（Intent Collapse）と同時に、バイヤー、製造業者、物流、貿易金融が即座に同時決済・確定。"
   },
   "Monitors tariff databases and shipping schedules via MCP; a single purchase order simultaneously locks trade contracts, freight forwarding, customs, and trade finance at t = 0.": {
-    "ko": "MCP를 통해 관세 데이터베이스와 운송 일정을 모니터링하며, 단 하나의 발주서(PO)로 무역 계약, 포워딩, 통관 및 무역 금융을 $t=0$ 시점에 동시 확정합니다."
+    "ko": "MCP를 통해 관세 데이터베이스와 운송 일정을 모니터링하며, 단 하나의 발주서(PO)로 무역 계약, 포워딩, 통관 및 무역 금융을 $t=0$ 시점에 동시 확정합니다.",
+    "ja": "MCPを介して関税データベースおよび運航スケジュールを常時監視。単一の発注書（PO）により、t = 0において貿易契約、フォワーディング手配、通関、貿易金融を同時確定（ロック）する。"
   },
   "Builds the Global Cross-Border Highway: Unites human Challengers and autonomous trading engines to execute direct B2B/D2C cross-border trade, collective group buying, and t = 0 3-way clearing without middlemen.": {
-    "ko": "글로벌 크로스보더 고속도로 구축: 인간 Challengers와 자율 거래 엔진을 결합하여 중개자 없는 직접 B2B/D2C 크로스보더 무역, 공동 구매 및 $t=0$ 3자 정산을 실행합니다."
+    "ko": "글로벌 크로스보더 고속도로 구축: 인간 Challengers와 자율 거래 엔진을 결합하여 중개자 없는 직접 B2B/D2C 크로스보더 무역, 공동 구매 및 $t=0$ 3자 정산을 실행합니다.",
+    "ja": "グローバル・クロスボーダー・ハイウェイの構築：人間のChallengerと自律型トレーディングエンジンを統合し、中間業者を排除した直接B2B/D2Cクロスボーダー貿易、共同購買、および t = 0 での三者間清算を実行。"
   },
   "Conventional corporations are prisoners of classical Newtonian Linear Physics (A -> B -> C)—where capital lock-up, R&D, manufacturing, customs clearance, wholesale distribution, and retail settlement occur sequentially across months of friction and cash-flow bleed. *SC replaces sequential trade with Quantum Business Mechanics: a unified mathematical and operational architecture where a single market signal or executive insight (One Spark) simultaneously resolves multi-party contracts, supply-chain routing, trade finance, and localized brand deployment at t = 0 (One Task, Multi Outcomes).": {
-    "ko": "전통적 기업들은 고전 뉴턴 선형 물리학(A -> B -> C)의 포로입니다. 이 구조에서는 자본 잠식, R&D, 제조, 통관, 도매 유통, 소매 정산이 수개월에 걸친 마찰과 현금 흐름 유출 속에서 순차적으로 전개됩니다. *SC는 이러한 순차적 무역을 '양자 비즈니스 역학(Quantum Business Mechanics)'으로 전면 대체합니다. 이는 단 하나의 시장 시그널 또는 경영진의 통찰(One Spark)이 다자간 계약, 공급망 라우팅, 무역 금융, 현지화 브랜드 배포를 t = 0 시점에 동시 해결(One Task, Multi Outcomes)하는 단일 수학적·운영 아키텍처입니다."
+    "ko": "전통적 기업들은 고전 뉴턴 선형 물리학(A -> B -> C)의 포로입니다. 이 구조에서는 자본 잠식, R&D, 제조, 통관, 도매 유통, 소매 정산이 수개월에 걸친 마찰과 현금 흐름 유출 속에서 순차적으로 전개됩니다. *SC는 이러한 순차적 무역을 '양자 비즈니스 역학(Quantum Business Mechanics)'으로 전면 대체합니다. 이는 단 하나의 시장 시그널 또는 경영진의 통찰(One Spark)이 다자간 계약, 공급망 라우팅, 무역 금융, 현지화 브랜드 배포를 t = 0 시점에 동시 해결(One Task, Multi Outcomes)하는 단일 수학적·운영 아키텍처입니다.",
+    "ja": "従来型企業は、古典的ニュートン力学の線形パラダイム（A → B → C）に囚われています。そこでは、資本の固定化、研究開発、製造、通関、卸売流通、小売決済が数ヶ月にわたる摩擦とキャッシュフローの流出を伴いながら逐次的に進行します。*SC はこの線形逐次型貿易を「量子ビジネス力学」へと置換します。単一の市場シグナルや経営的洞察（One Spark）が、t = 0 の瞬間において多者間契約、サプライチェーンルーティング、貿易金融、ローカライズされたブランド展開を同時並行で一挙に解決・収束させる（One Task, Multi Outcomes）、統合された数理・運用のアーキテクチャです。"
   },
   "Sequential chain (A -> B -> C) with cumulative time lag (ΣΔt_i >> 0) and middlemen tollgates.": {
-    "ko": "누적 지연 시간(ΣΔt_i >> 0)과 중간 유통 마진 관문이 존재하는 순차적 사슬(A -> B -> C)."
+    "ko": "누적 지연 시간(ΣΔt_i >> 0)과 중간 유통 마진 관문이 존재하는 순차적 사슬(A -> B -> C).",
+    "ja": "累積的時間遅延（ΣΔt_i >> 0）および仲介関門（Tollgate）を伴う逐次連鎖構造（A -> B -> C）。"
   },
   "Quantum Tunneling (T -> 1): Pre-aggregated advance-fund buyer intent bypasses upfront inventory and capital barriers.": {
-    "ko": "양자 터널링(T -> 1): 사전 취합된 선결제 구매 수요를 기반으로 초기 재고 및 자본 장벽을 완전 우회."
+    "ko": "양자 터널링(T -> 1): 사전 취합된 선결제 구매 수요를 기반으로 초기 재고 및 자본 장벽을 완전 우회.",
+    "ja": "量子トンネル効果（T -> 1）：事前集約された前払い購買意図が、先行在庫および初期資本の障壁をバイパス（貫通）する。"
   },
   "Continuously scans international B2B wholesale price differentials (ΔP_ij > C_friction) across countries and executes risk-free back-to-back arbitrage trades via automated webhooks.": {
-    "ko": "국가 간 글로벌 B2B 도매 가격 격차(ΔP_ij > C_friction)를 지속적으로 스캔하고, 자동화된 웹훅을 통해 무위험 백투백(Back-to-Back) 차익거래를 실행."
+    "ko": "국가 간 글로벌 B2B 도매 가격 격차(ΔP_ij > C_friction)를 지속적으로 스캔하고, 자동화된 웹훅을 통해 무위험 백투백(Back-to-Back) 차익거래를 실행.",
+    "ja": "国家間の国際B2B卸売価格差（ΔP_ij > C_friction）を常時スキャンし、自動化されたWebhookを介してリスクフリーなバック・ツー・バック裁定取引（アービトラージ）を執行。"
   },
   "Quantum Tunneling (T -> 1) & Point-of-Prescription Lock-In: Scarlet Vet CDSS captures hospital prescriptions at t = 0, while 50% advance deposits and Rp 1,320 micro-sachets eliminate dead-stock risk.": {
-    "ko": "양자 터널링(T -> 1) 및 처방 시점 락인: Scarlet Vet CDSS가 t = 0 시점에 병원 처방 데이터를 선점하며, 50% 선수금 구조와 Rp 1,320 마이크로 파우치를 통해 악성 재고 리스크를 원천 제거."
+    "ko": "양자 터널링(T -> 1) 및 처방 시점 락인: Scarlet Vet CDSS가 t = 0 시점에 병원 처방 데이터를 선점하며, 50% 선수금 구조와 Rp 1,320 마이크로 파우치를 통해 악성 재고 리스크를 원천 제거.",
+    "ja": "量子トンネル効果（T -> 1）および処方時点（Point-of-Prescription）ロックイン：Ms. Scarlet Vet CDSSが t = 0 で動物病院の処方を捕捉し、50%の前受金とRp 1,320のマイクロ分包によりデッドストックリスクを完全排除。"
   },
   "Δt = 0 Settlement 0% Balance-Sheet Credit Risk": {
-    "ko": "Δt = 0 정산 및 0% 대차대조표 신용 리스크"
+    "ko": "Δt = 0 정산 및 0% 대차대조표 신용 리스크",
+    "ja": "Δt = 0 即時決済・バランスシート信用リスク0%"
   },
   "Figure 1. Structural comparison between Legacy Newtonian Sequential Trade (A -> B -> C) and *SC Quantum Superposition (t = 0) & WKB Tunneling ($T \\rightarrow 1$) Execution.": {
-    "ko": "그림 1. 레거시 뉴턴식 순차 무역(A -> B -> C)과 *SC 양자 중첩(t = 0) 및 WKB 터널링($T \\rightarrow 1$) 실행 간의 구조적 비교."
+    "ko": "그림 1. 레거시 뉴턴식 순차 무역(A -> B -> C)과 *SC 양자 중첩(t = 0) 및 WKB 터널링($T \\rightarrow 1$) 실행 간의 구조적 비교.",
+    "ja": "図1. 従来のニュートン力学的連続型貿易（A -> B -> C）と、*SCの量子重ね合わせ（t = 0）およびWKBトンネル効果（$T \\rightarrow 1$）執行との構造比較。"
   },
   "PATHOLOGY 01 • SEQUENTIAL FRICTION (A -> B -> C)": {
-    "ko": "병리 01 • 순차적 마찰 (A -> B -> C)"
+    "ko": "병리 01 • 순차적 마찰 (A -> B -> C)",
+    "ja": "病理 01 • シーケンシャル・フリクション（A -> B -> C）"
+  },
+  "*SC Infographic Overview: How Our Entire Universe Works": {
+    "ko": "*SC 인포그래픽 개요: 당사 전(全) 유니버스의 작동 메커니즘",
+    "ja": "*SC インフォグラフィック概要：全ユニバースの統合稼働メカニズム"
+  },
+  "One Vertically Integrated Engine: Physical Infrastructure + Quantum Law + Autonomous AI": {
+    "ko": "단일 수직 통합 엔진: 물리적 인프라 + 양자 법칙 + 자율형 AI",
+    "ja": "単一の垂直統合型エンジン：物理インフラ ＋ 量子物理法則 ＋ 自律型AI"
+  },
+  "Beyond Trade: Generating Cashflow Across Goods (Scarlet-AI) & Systems (Qubit-Biz)": {
+    "ko": "무역을 넘어선 확장: 재화(Scarlet-AI) 및 시스템(Qubit-Biz) 전반의 현금흐름 창출",
+    "ja": "貿易の枠組みを超越：プロダクト（Scarlet-AI）とシステム（Qubit-Biz）を横断するキャッシュフロー創出"
+  },
+  "What Does Each Menu in the Left Sidebar Do?": {
+    "ko": "좌측 사이드바 각 메뉴별 핵심 기능 및 역할",
+    "ja": "左サイドバー各メニューの機能定義と役割"
+  },
+  "Master Architecture Hub vs. Independent Live Commercial Domains": {
+    "ko": "마스터 아키텍처 허브 vs 독립 라이브 커머셜 도메인",
+    "ja": "統括アーキテクチャ・ハブ vs 独立商用ライブドメイン"
+  },
+  "20+ Years Global Hub + \"One Spark\"": {
+    "ko": "20년 이상의 글로벌 허브 + \"One Spark\"",
+    "ja": "20余年の実績を誇るグローバルハブ ＋「One Spark」"
+  },
+  "Zero Delay, Zero Inventory Risk": {
+    "ko": "지연 제로(Zero Delay), 재고 리스크 제로(Zero Inventory Risk)",
+    "ja": "遅延ゼロ・在庫リスクゼロの実現"
+  },
+  "24/7 Unmanned AI Central Nervous System": {
+    "ko": "24/7 무인 AI 중추신경계",
+    "ja": "24時間365日無人稼働するAI中枢神経系"
+  },
+  "1. 🔺 sistar company (*sc) — Master HQ & 8 Global Bases": {
+    "ko": "1. 🔺 sistar company (*sc) — 마스터 본사 및 8대 글로벌 거점",
+    "ja": "1. 🔺 sistar company (*sc) — 統括本社および世界8大拠点"
+  },
+  "2. 🔺 qubit-algorithm — Mathematical Business Law": {
+    "ko": "2. 🔺 qubit-algorithm — 수학적 비즈니스 법칙",
+    "ja": "2. 🔺 qubit-algorithm — 数理的ビジネス法則"
+  },
+  "3. 🔺 intelligence-core — 24/7 Unmanned AI Engine Room": {
+    "ko": "3. 🔺 intelligence-core — 24/7 무인 AI 엔진룸",
+    "ja": "3. 🔺 intelligence-core — 24時間365日無人稼働AIエンジンルーム"
+  },
+  "4. 🔺 media — Autonomous Content Studio & Newsroom": {
+    "ko": "4. 🔺 media — 자율형 콘텐츠 스튜디오 & 뉴스룸",
+    "ja": "4. 🔺 media — 自律型コンテンツスタジオ＆ニュースルーム"
+  },
+  "5. 🔺 scarlet-ai — Global AI Trade & Commerce Portal": {
+    "ko": "5. 🔺 scarlet-ai — 글로벌 AI 무역 & 커머스 포털",
+    "ja": "5. 🔺 scarlet-ai — グローバルAI貿易＆コマースポータル"
+  },
+  "6. 🔺 qubit-biz — Enterprise AI SaaS & Venture Launchpad": {
+    "ko": "6. 🔺 qubit-biz — 엔터프라이즈 AI SaaS & 벤처 런치패드",
+    "ja": "6. 🔺 qubit-biz — エンタープライズAI SaaS＆ベンチャー・ローンチパッド"
+  },
+  "7. 🔺 biz-galaxy — 10 Vertical Brand Galaxies": {
+    "ko": "7. 🔺 biz-galaxy — 10대 버티컬 브랜드 갤럭시",
+    "ja": "7. 🔺 biz-galaxy — 10のバーティカル・ブランド・ギャラクシー"
+  },
+  "8. 🔺 biz-hub — Co-Creation, ODM & Franchise Hub": {
+    "ko": "8. 🔺 biz-hub — 코크리에이션(Co-Creation), ODM 및 프랜차이즈 허브",
+    "ja": "8. 🔺 biz-hub — 共同創出（Co-Creation）・ODM＆フランチャイズ統括ハブ"
+  },
+  "9. 🔹 challengers — Global Talent & Vibe Working Alliance": {
+    "ko": "9. 🔹 challengers — 글로벌 인재 & 바이브 워킹 얼라이언스",
+    "ja": "9. 🔹 challengers — グローバルタレント＆Vibe Workingアライアンス"
+  },
+  "10. 🔹 partnership — B2B Partner Onboarding Gateway": {
+    "ko": "10. 🔹 partnership — B2B 파트너 온보딩 게이트웨이",
+    "ja": "10. 🔹 partnership — B2Bパートナー・オンボーディング・ゲートウェイ"
+  },
+  "11. 🔹 ir-pitchdeck — Investor Relations & Capital Hub": {
+    "ko": "11. 🔹 ir-pitchdeck — 투자자 관계(IR) 및 자본 조달 허브",
+    "ja": "11. 🔹 ir-pitchdeck — インベスター・リレーションズ（IR）＆資本戦略ハブ"
+  },
+  "12. ▫️ biz-directory — Open B2B Directory & Brochure Archive": {
+    "ko": "12. ▫️ biz-directory — 오픈 B2B 디렉토리 및 브로슈어 아카이브",
+    "ja": "12. ▫️ biz-directory — オープンB2Bディレクトリ＆ブローシャーアーカイブ"
+  },
+  "\"Already, 15 Founder Projects and Biz-Galaxy are running with zero error on this single engine.\"": {
+    "ko": "\"이미 15개의 파운더 프로젝트와 Biz-Galaxy가 단일 엔진 위에서 무오류(Zero-Error)로 실시간 구동되고 있습니다.\"",
+    "ja": "「すでに15件のファウンダープロジェクトおよびBiz-Galaxyが、この単一エンジン上でエラーゼロにて完全稼働しています。」"
+  },
+  "*SC (SISTAR Company) is not a company built solely for international trading, nor is it a simple IT startup. This visual guide intuitively maps Who We Are, How We Work, What We Deliver, and the exact role of every menu in our 12-domain ecosystem.": {
+    "ko": "*SC (SISTAR Company)는 단순한 국제 무역 상사나 일반 IT 스타트업이 아닙니다. 본 비주얼 가이드는 당사의 정체성(Who We Are), 작동 방식(How We Work), 제공 가치(What We Deliver), 그리고 12개 도메인 생태계 내 각 메뉴의 정밀한 역할을 직관적으로 매핑합니다.",
+    "ja": "*SC (SISTAR Company) は、単なる国際貿易企業でも、一般的なITスタートアップでもありません。本ビジュアルガイドは、当社のアイデンティティ（Who We Are）、オペレーションモデル（How We Work）、提供価値（What We Deliver）、そして12のドメインエコシステムにおける各機能の役割を直感的に体系化しています。"
+  },
+  "Built on 20+ years of real-world trade, customs licensing (BPOM/FDA), and bio-manufacturing across 8 countries. Injecting a single idea (One Spark) launches multi-national businesses with zero upfront capital (V_capital = 0) and zero inventory burden.": {
+    "ko": "글로벌 8개국에 걸친 20년 이상의 실물 무역, 인허가 규제 대응(BPOM/FDA), 바이오 제조 전문성을 기반으로 구축되었습니다. 단 하나의 아이디어(One Spark) 주입만으로 초기 자본 부담 없이(V_capital = 0) 재고 리스크 제로의 다국적 비즈니스를 즉각 출범시킵니다.",
+    "ja": "世界8カ国にわたる20年以上の実貿易、通関・許認可（BPOM/FDA）、バイオ製造の実績を基盤に構築。単一のアイデア（One Spark）を投入するだけで、初期資本ゼロ（V_capital = 0）かつ在庫リスクゼロで多国籍ビジネスを即座にローンチします。"
+  },
+  "Mathematically eliminates the fatal bottlenecks of traditional business—90-to-180-day payment delays, unsold inventory risk, and middleman margin leakage—through t = 0 simultaneous settlement, 50% advance-deposit tunneling, and cross-project entanglement.": {
+    "ko": "t = 0 동시 결제, 50% 선급금 터널링, 프로젝트 간 얽힘(Entanglement) 메커니즘을 통해 90~180일 정산 지연, 악성 재고 리스크, 중개 마진 누수 등 전통적 무역의 치명적 병목 현상을 수학적으로 제거합니다.",
+    "ja": "t = 0の同時決済、50%前受金トンネリング、およびプロジェクト間エンタングルメントを通じて、90〜180日に及ぶ回収サイトの遅延、滞留在庫リスク、中間マージンの中抜きといった従来型ビジネスにおける致命的なボトルネックを数学的に排除します。"
+  },
+  "Executes the Qubit Algorithm™ in live code. Combines our Overnight Unmanned Data Factory (SENSE), Zero-Hallucination RAG Brain (THINK), Unmanned ERP Governance (GOVERN), and Multilingual Web & Short-Form Generator (CREATE) for '0' fixed SG&A.": {
+    "ko": "Qubit Algorithm™을 실제 실행 코드로 구동합니다. 심야 무인 데이터 팩토리(SENSE), 환각 제로(Zero-Hallucination) RAG 브레인(THINK), 무인 ERP 거버넌스(GOVERN), 다국어 웹 및 숏폼 생성기(CREATE)를 결합하여 고정 판관비 '0'을 실현합니다.",
+    "ja": "Qubit Algorithm™をライブコードで実装。夜間無人データファクトリー（SENSE）、ハルシネーション完全排除型RAGブレイン（THINK）、無人ERPガバナンス（GOVERN）、多言語Web・ショート動画ジェネレーター（CREATE）を統合し、固定販管費（SG&A）『ゼロ』を実現します。"
+  },
+  "The physical cashflow frontline where our 24/7 AI deal closer (Ms. Scarlet) drives cross-border trade, group buying, video commerce, and local fulfillment:": {
+    "ko": "24/7 AI 딜 클로저(Ms. Scarlet)가 크로스보더 무역, 공동구매, 비디오 커머스, 현지 풀필먼트를 주도하는 실물 현금 흐름의 최전선:",
+    "ja": "24時間365日稼働するAIディールクローザー（Ms. Scarlet）が、越境貿易、共同購入、ビデオコマース、現地フルフィルメントを牽引する、フィジカルキャッシュフローの最前線："
+  },
+  "Our high-margin B2B solution hub that implants unmanned AI software into external enterprises and clones turnkey ventures within 24 hours:": {
+    "ko": "외부 엔터프라이즈에 무인 AI 소프트웨어를 이식하고 24시간 이내에 턴키 벤처를 복제·구축하는 고마진 B2B 솔루션 허브:",
+    "ja": "外部エンタープライズへの無人AIソフトウェアの実装、ならびに24時間以内のターンキー型ベンチャーの複製を担う、高収益B2Bソリューションハブ："
+  },
+  "Corporate identity, executive summary, 8 international operating bases (KR, ID, VN, SG, CN, JP, US, IN), and global AI trade/data alliances (IATA & IADA).": {
+    "ko": "기업 아이덴티티, 핵심 요약, 글로벌 8개국 거점(KR, ID, VN, SG, CN, JP, US, IN), 그리고 글로벌 AI 무역·데이터 얼라이언스(IATA & IADA).",
+    "ja": "コーポレートアイデンティティ、エグゼクティブサマリー、世界8カ国の事業拠点（KR, ID, VN, SG, CN, JP, US, IN）、およびグローバルAI貿易・データアライアンス（IATA & IADA）。"
+  },
+  "Proves how our 5 quantum business laws (One Spark Galaxifying & Cosmo Seed™ models) eliminate sequential trade lag and inventory risk.": {
+    "ko": "당사의 5대 양자 비즈니스 법칙(One Spark Galaxifying 및 COSMO SEED™ 모델)이 직렬식 무역 시차와 재고 리스크를 어떻게 완전히 소거하는지 입증합니다.",
+    "ja": "5つの量子ビジネス原則（One Spark GalaxifyingおよびCosmo Seed™モデル）が、シーケンシャルな貿易タイムラグと在庫リスクをいかに排除するかを実証。"
+  },
+  "Houses the 9 SISTAR AI Centers, Overnight Data Factory, Exo-Brain RAG, Qubit ERP, AI Trade/Logistics engines, and Agent/Web Creation Forge.": {
+    "ko": "9개 SISTAR AI 센터, 심야 데이터 팩토리, Exo-Brain RAG, Qubit ERP, AI 무역·물류 엔진, 에이전트/웹 생성 포지(Forge)를 총괄 수용합니다.",
+    "ja": "9つのSISTAR AI Center、夜間データファクトリー、Exo-Brain RAG、Qubit ERP、AI貿易・物流エンジン、およびエージェント/Web生成フォージ（Creation Forge）を集約。"
+  },
+  "Operates SISTAR Studio (auto-generating 10+ multilingual shoppable videos daily per project) and The SISTAR Post global journalism hub.": {
+    "ko": "SISTAR Studio(프로젝트당 일일 10편 이상의 다국어 쇼퍼블 비디오 자동 생성) 및 글로벌 저널리즘 허브 The SISTAR Post를 운영합니다.",
+    "ja": "SISTAR Studio（プロジェクトごとに日次10本以上の多言語ショッパブル動画を自動生成）およびグローバルジャーナリズムハブであるThe SISTAR Postを統括・運営。"
+  },
+  "Our B2B/D2C commercial marketplace across 4 tracks: AI Global Trade, AI Marketplaces (mall.sisTV), Demand Resell Engine, and O2O Fulfillment.": {
+    "ko": "AI 글로벌 무역, AI 마켓플레이스(mall.sisTV), 디맨드 리셀 엔진, O2O 풀필먼트의 4대 트랙으로 구성된 B2B/D2C 상업 마켓플레이스입니다.",
+    "ja": "4つのトラック（AIグローバル貿易、AIマーケットプレイス［mall.sisTV］、ディマンド・リセールエンジン、O2Oフルフィルメント）を包括するB2B/D2Cコマース市場基盤。"
+  },
+  "Our B2B software and venture factory across 4 tracks: Enterprise OS, Venture Factory, Media Engine, and 4-Way Quantum Banks.": {
+    "ko": "엔터프라이즈 OS, 벤처 팩토리, 미디어 엔진, 4방향 양자 뱅크의 4대 트랙에 걸친 B2B 소프트웨어 및 벤처 팩토리입니다.",
+    "ja": "4つのトラック（Enterprise OS、Venture Factory、Media Engine、4-Way Quantum Banks）を展開する、B2Bソフトウェアおよびベンチャーファクトリー。"
+  },
+  "Live commercial brands running on our engine: Mind Company, SISPet, SISTAR MedIX (PetClinic), Aquasis, SisAyurvedic, SISTAR Edu, SISMii Beauty, Dx, SISPharm, and SISLoa.": {
+    "ko": "당사 엔진 위에서 실제 가동 중인 상용 브랜드 포트폴리오: Mind Company, SISPet, SISTAR MedIX (PetClinic), Aquasis, SisAyurvedic, SISTAR Edu, SISMii Beauty, Dx, SISPharm, SISLoa.",
+    "ja": "当社エンジン上で稼働する実商用ブランド群：Mind Company、SISPet、SISTAR MedIX (PetClinic)、Aquasis、SisAyurvedic、SISTAR Edu、SISMii Beauty、Dx、SISPharm、SISLoa。"
+  },
+  "Shared manufacturing and infrastructure: Co-Brands, Rp 1,320 micro-sachet ODM, Data Factory Int'l, Zero Wastage campaigns, Mint Shop franchises, and Studio Butter.": {
+    "ko": "공유 제조 및 인프라 자산: 공동 브랜드, Rp 1,320 마이크로 파우치 ODM, 글로벌 데이터 팩토리, 폐기물 제로(Zero Wastage) 캠페인, Mint Shop 프랜차이즈, Studio Butter.",
+    "ja": "共有型製造およびインフラ基盤：コ・ブランド、1,320ルピア（Rp）マイクロサシェODM、Data Factory Int'l、ゼロ・ウェイステージ（廃棄ゼロ）キャンペーン、Mint Shopフランチャイズ、およびStudio Butter。"
+  },
+  "Onboarding portal for global specialists and entrepreneurs sharing 30% of net project profits with zero fixed payroll burn.": {
+    "ko": "고정 인건비 지출 없이 프로젝트 순이익의 30%를 공유하는 글로벌 전문가 및 앙트레프레너 전용 온보딩 포털.",
+    "ja": "固定人件費バーン（Payroll Burn）ゼロで、プロジェクト純利益の30%をプロフィットシェアとして配分する、グローバルスペシャリストおよび起業家向けオンボーディングポータル。"
+  },
+  "Direct connection gateway for manufacturers, veterinary clinics, and regional distributors plugging into our 8-country network.": {
+    "ko": "제조사, 동물병원, 현지 디스트리뷰터가 글로벌 8개국 네트워크로 즉시 결합할 수 있는 직접 연동 게이트웨이.",
+    "ja": "世界8カ国のネットワークへ直接プラグイン接続する、製造事業者、動物病院、および地域ディストリビューター向けダイレクトコネクト・ゲートウェイ。"
+  },
+  "Dual-track investment structures (SC Index holding equity & Biz-Galaxy SPVs) backed by daily NAV transparency and K-SURE credit protection.": {
+    "ko": "일일 NAV 투명성과 K-SURE BNPL 신용 보증으로 뒷받침되는 듀얼 트랙 투자 구조(SC Index 지주사 지분 및 Biz-Galaxy SPV).",
+    "ja": "日次NAV（純資産価値）の透明性とK-SURE信用保証に裏打ちされた、デュアルトラック投資構造（SC Index持株エクイティ＆Biz-Galaxy SPV）。"
+  },
+  "Downloadable PDF master brochures, founder project dossiers, and category-by-category B2B partnership directory.": {
+    "ko": "다운로드 가능한 마스터 브로슈어 PDF, 창업자 프로젝트 도시에(Dossier), 카테고리별 B2B 파트너십 디렉토리.",
+    "ja": "ダウンロード可能なPDFマスターブローシャ、ファウンダープロジェクト詳細資料（ドシエ）、およびカテゴリ別B2Bパートナーシップディレクトリ。"
+  },
+  "• This Website (sistarcompany.com) is the Master Overview & Architecture Hub: It transparently discloses our entire corporate blueprint, mathematical laws, and 12-domain structure so partners and investors can see the complete picture in one place.": {
+    "ko": "• 본 웹사이트(sistarcompany.com)는 마스터 개요 및 아키텍처 허브입니다: 파트너와 투자자가 전체 구조를 한눈에 파악할 수 있도록 당사의 전사적 청사진, 수학적 법칙, 12대 도메인 구조를 투명하게 공개합니다.",
+    "ja": "• 当ウェブサイト（sistarcompany.com）は、マスター概要およびアーキテクチャ統合ハブです。当社の全社的ブループリント、数理モデル、ならびに12の事業ドメイン構造を透明性高く開示し、パートナーおよび投資家の皆様がその全貌を一元的に把握できるよう設計されています。"
+  },
+  "• What We Deliver Operates as Independent Domains & Live Services: Each commercial platform, B2B trade desk, AI SaaS solution, and vertical brand introduced here is implemented and operated on its own dedicated domain (such as scarlet-ai.sistarcompany.com, qubit-biz.sistarcompany.com, and biz-galaxy.sistarcompany.com) and live commercial service. From customs (BPOM/FDA) and trade finance (K-SURE BNPL) to ODM manufacturing, logistics, and marketing—*SC has every answer ready. You only need to decide to join us.": {
+    "ko": "• 당사가 제공하는 가치는 독립된 도메인 및 라이브 서비스로 구동됩니다: 본 문서에 소개된 각 커머셜 플랫폼, B2B 무역 데스크, AI SaaS 솔루션 및 버티컬 브랜드는 자체 전용 도메인(scarlet-ai.sistarcompany.com, qubit-biz.sistarcompany.com, biz-galaxy.sistarcompany.com 등) 상에서 독립적인 상용 서비스로 구현 및 운용됩니다. 통관(BPOM/FDA)과 무역금융(K-SURE BNPL)부터 ODM 제조, 물류, 마케팅에 이르기까지—*SC는 모든 해법을 완비하고 있습니다. 귀하는 오직 파트너십 합류만을 결정하시면 됩니다.",
+    "ja": "• 当社が提供する価値は、独立したドメインおよび実稼働サービスとして展開されます。本サイトで紹介する各商用プラットフォーム、B2B貿易デスク、AI SaaSソリューション、バーティカルブランドは、それぞれ専用ドメイン（scarlet-ai.sistarcompany.com、qubit-biz.sistarcompany.com、biz-galaxy.sistarcompany.com等）にて実装・運用されています。通関（BPOM/FDA）や貿易金融（K-SURE BNPL）から、ODM製造、ロジスティクス、マーケティングに至るまで、*SCはあらゆるソリューションを完備しています。貴社に必要なのは、参画への意思決定のみです。"
+  },
+  "• 🔸 ai global trade: t = 0 simultaneous B2B cross-border trade, K-SURE BNPL trade finance, and tech/hardware trading.": {
+    "ko": "• 🔸 ai 글로벌 무역: t = 0 동시 크로스보더 B2B 무역, K-SURE BNPL 무역금융 및 기술/하드웨어 트레이딩.",
+    "ja": "• 🔸 AIグローバルトレード：t = 0 同時実行型B2Bクロスボーダー貿易、K-SURE BNPL貿易金融、およびテクノロジー／ハードウェア貿易。"
+  },
+  "• 🔸 ai marketplaces: Zero-ad-tax conversational shopping, shoppable short-form video commerce (mall.sisTV), and Robot Market.": {
+    "ko": "• 🔸 ai 마켓플레이스: 광고비 거품(ad-tax) 제로 대화형 쇼핑, 쇼퍼블 숏폼 비디오 커머스(mall.sisTV) 및 로봇 마켓(Robot Market).",
+    "ja": "• 🔸 AIマーケットプレイス：広告コストゼロの対話型ショッピング、ショッパブル・ショート動画コマース（mall.sisTV）、およびロボットマーケット。"
+  },
+  "• 🔸 demand resell engine: 50% advance-deposit reverse-auction group buying (SisCart/Buy4Me), 70/30 PG fee cashback reselling, and zero-wastage deals.": {
+    "ko": "• 🔸 수요 리셀 엔진: 50% 선납금 기반 역경매 공동구매(SisCart/Buy4Me), 70/30 PG 수수료 캐시백 리셀 및 재고 무폐기(zero-wastage) 딜.",
+    "ja": "• 🔸 デマンド・リセール・エンジン：50%事前手付金型リバースオークション共同購入（SisCart/Buy4Me）、70/30決済手数料キャッシュバック型リセール、および廃棄ゼロ（ゼロ・ウェイスト）取引。"
+  },
+  "• 🔸 o2o fulfillment: On-demand 3PL shared warehousing, micro-sachet ODM, and Mint Colored offline pickup/experience shops.": {
+    "ko": "• 🔸 o2o 풀필먼트: 온디맨드 3PL 공유 물류창고, 마이크로 사셰(micro-sachet) ODM 및 민트 컬러 오프라인 픽업/체험 매장.",
+    "ja": "• 🔸 O2Oフルフィルメント：オンデマンド型3PLシェアリング倉庫、マイクロ分包ODM、およびミントカラーのオフライン受取・体験型ショールーム。"
+  },
+  "• 🔸 enterprise os: Voice-driven CEO app (c.a.n.), unmanned Qubit ERP, corporate Exo-Brain, [& I] senior wearable, and enterprise RAG networks.": {
+    "ko": "• 🔸 엔터프라이즈 os: 음성 구동 CEO 전용 앱(c.a.n.), 무인화 Qubit ERP, 기업용 엑소브레인(Exo-Brain), [& I] 시니어 웨어러블 및 엔터프라이즈 RAG 네트워크.",
+    "ja": "• 🔸 エンタープライズOS：音声駆動型CEOアプリケーション（c.a.n.）、無人Qubit ERP、企業向けExo-Brain、シニア向けウェアラブル［& I］、およびエンタープライズRAGネットワーク。"
+  },
+  "• 🔸 venture factory: 24-hour 6-language platform cloning (Qubit Web Builder), turnkey marketplace modules, and Physical AI robotics.": {
+    "ko": "• 🔸 벤처 팩토리: 24시간 내 6개 국어 플랫폼 복제(Qubit Web Builder), 턴키 마켓플레이스 모듈 및 피지컬 AI(Physical AI) 로보틱스.",
+    "ja": "• 🔸 ベンチャーファクトリー：24時間6言語プラットフォームクローニング（Qubit Web Builder）、ターンキー型マーケットプレイスモジュール、およびフィジカルAIロボティクス。"
+  },
+  "• 🔸 media engine: On-demand global talent matching (Qubit Star), automated daily marketing studio, viral ads, and gamified commerce.": {
+    "ko": "• 🔸 미디어 엔진: 온디맨드 글로벌 탤런트 매칭(Qubit Star), 자동화 일간 마케팅 스튜디오, 바이럴 광고 및 게이미피케이션 커머스.",
+    "ja": "• 🔸 メディアエンジン：オンデマンド型グローバルタレントマッチング（Qubit Star）、自動化デイリーマーケティングスタジオ、バイラル広告、およびゲーミフィケーション・コマース。"
+  },
+  "• 🔸 quantum banks: 4-Way cashless barter offsetting (Goods, SaaS, Media, Space) and closed-loop Time, Space, Idea, and Petfood Banks.": {
+    "ko": "• 🔸 퀀텀 뱅크: 4자간 무현금 바터 상계(상품, SaaS, 미디어, 공간) 및 폐쇄 루프형 Time, Space, Idea, Petfood Banks.",
+    "ja": "• 🔸 クオンタムバンク：4元キャッシュレスバーター相殺取引（財、SaaS、メディア、空間）、ならびに時間・空間・アイデア・ペットフードのクローズドループバンク。"
+  },
+  "VISUAL ECOSYSTEM GUIDE • ONE SPARK, INFINITE GALAXIFYING": {
+    "ko": "비주얼 에코시스템 가이드 • ONE SPARK, INFINITE GALAXIFYING",
+    "ja": "ビジュアル・エコシステム・ガイド • ONE SPARK, INFINITE GALAXIFYING"
+  },
+  "01 • WHO WE ARE & HOW WE WORK": {
+    "ko": "01 • 기업 정체성 및 실행 방식 (WHO WE ARE & HOW WE WORK)",
+    "ja": "01 • 企業概要およびオペレーションモデル"
+  },
+  "PILLAR 01 • THE VISION & INFRASTRUCTURE": {
+    "ko": "필러 01 • 비전 및 인프라스트럭처",
+    "ja": "第1の柱 • ビジョン＆インフラストラクチャ"
+  },
+  "02 • WHAT WE DELIVER (TWO LIVE COMMERCIAL PLATFORMS)": {
+    "ko": "02 • 제공 서비스 및 플랫폼 (두 개의 라이브 상용 플랫폼)",
+    "ja": "02 • 提供価値（2大商用プラットフォーム）"
+  },
+  "Track A. Scarlet-AI (Global Trade & Commerce)": {
+    "ko": "트랙 A. Scarlet-AI (글로벌 무역 및 커머스)",
+    "ja": "トラックA：Scarlet-AI（グローバルトレード＆コマース）"
+  },
+  "Target GM: 45% ~ 65%": {
+    "ko": "목표 매출총이익률(GM): 45% ~ 65%",
+    "ja": "目標売上総利益率（GM）：45% 〜 65%"
+  },
+  "Track B. Qubit-Biz (Enterprise AI SaaS & Fintech)": {
+    "ko": "트랙 B. Qubit-Biz (엔터프라이즈 AI SaaS 및 핀테크)",
+    "ja": "トラックB：Qubit-Biz（エンタープライズAI SaaS＆フィンテック）"
+  },
+  "Target GM: 75% ~ 85%": {
+    "ko": "목표 매출총이익률(GM): 75% ~ 85%",
+    "ja": "目標売上総利益率（GM）：75% 〜 85%"
+  },
+  "03 • COMPLETE 12-DOMAIN MENU MAP": {
+    "ko": "03 • 12대 도메인 전체 메뉴 맵",
+    "ja": "03 • 全12ドメイン 完全メニューマップ"
+  },
+  "ARCHITECTURAL CLARITY • HOW THIS WEBSITE CONNECTS TO LIVE SERVICES": {
+    "ko": "아키텍처적 명료성 • 본 웹사이트와 라이브 서비스 간의 연동 체계",
+    "ja": "アーキテクチャの明瞭性 • 本ウェブサイトと実稼働サービス群の接続構造"
   }
 };

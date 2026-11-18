@@ -5,19 +5,16 @@ const ROOT = path.resolve(__dirname, "..");
 const API_KEY = process.env.GEMINI_API_KEY || "";
 let ACTIVE_MODEL = "gemini-flash-latest";
 
-// 실행법:
-//   1) 스캔만 하기 (토큰 0소모): node update_translations.js [all|도메인명] ko --dry
-//   2) 한국어만 번역 실행     : node update_translations.js [all|도메인명] ko [최대배치수]
-//   3) 5개국어 전체 번역 실행 : node update_translations.js [all|도메인명] all [최대배치수]
 const targetArg = (process.argv[2] || "all").toLowerCase();
 const langMode  = (process.argv[3] || "ko").toLowerCase();
 const arg4      = (process.argv[4] || "250").toLowerCase();
 const DRY_RUN   = (arg4 === "--dry" || arg4 === "dry" || process.argv.includes("--dry"));
 const KO_ONLY   = (langMode === "ko" || langMode === "kr" || langMode === "--ko");
+const JA_ONLY   = (langMode === "ja" || langMode === "jp" || langMode === "--ja" || langMode === "--jp");
+const SINGLE_LANG = KO_ONLY ? "ko" : (JA_ONLY ? "ja" : null);
 
-// [v3.0 핵심 최적화] 문장 수가 아니라 '글자 수 예산(3,200자)' 기준으로 배치를 묶어 출력 잘림 및 타임아웃 원천 차단
-const MAX_BATCH_ITEMS = KO_ONLY ? 20 : 10;
-const MAX_BATCH_CHARS = KO_ONLY ? 3200 : 1800;
+const MAX_BATCH_ITEMS = SINGLE_LANG ? 20 : 10;
+const MAX_BATCH_CHARS = SINGLE_LANG ? 3200 : 1800;
 const DELAY_MS        = 2000;
 const MAX_API_CALLS   = DRY_RUN ? 0 : parseInt(arg4 || "250", 10);
 
@@ -82,9 +79,16 @@ function isKoTranslated(en, ko) {
   return true;
 }
 
-// [v3.0 ZERO-SKIP ATOMIC EXTRACTOR]
-// sc_translator.js의 DOM 탐색 규칙과 100% 일치하도록 원자 블록(h1~h6, p, li, td, th, figcaption, blockquote)과
-// 독립 리프 태그(div/span/a/button)를 분리 추출하여 중첩 div 삼킴 버그 및 중복 토큰 낭비를 원천 제거
+function isJaTranslated(en, ja) {
+  if (!ja || typeof ja !== "string") return false;
+  if (ja.trim() === en.trim()) return false;
+  if (en.length > 30) {
+    const m = ja.match(/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/g);
+    if (!m || m.length < 3) return false;
+  }
+  return true;
+}
+
 function extractFromHtml(html) {
   const units = new Set();
   let cleaned = html
@@ -94,8 +98,6 @@ function extractFromHtml(html) {
     .replace(/<svg[\s\S]*?<\/svg>/gi, "")
     .replace(/<pre[\s\S]*?<\/pre>/gi, "");
 
-  // 1단계: 원자적 문단 블록(h1~h6, p, li, td, th, figcaption, blockquote)을 먼저 100% 추출한 뒤 마스킹
-  // (내부에 <strong>, <code>, <span>, <br> 등이 있어도 문단 전체를 하나의 문맥으로 추출하고 자식 중복 추출 방지)
   const atomicTags = ["h1","h2","h3","h4","h5","h6","p","li","td","th","figcaption","blockquote"];
   const nestedBlockRe = /<(article|section|div|table|thead|tbody|tr|ul|ol|p|li|td|th|h[1-6]|blockquote|figcaption|svg|pre)\b/i;
 
@@ -106,11 +108,10 @@ function extractFromHtml(html) {
       if (nestedBlockRe.test(inner)) return fullMatch;
       const norm = normalizeText(inner);
       if (shouldTranslate(norm)) units.add(norm);
-      return " "; // 추출 완료된 문단은 비워서 안쪽 strong/span이 중복 추출되지 않게 차단
+      return " ";
     });
   }
 
-  // 2단계: 남은 HTML에서 가장 안쪽(Leaf)의 div, span, a, button 텍스트(예: .sc-panel-kicker, .sc-math-code, .sc-chapter-num 등)를 안쪽부터 재귀 추출
   const leafRe = /<(div|span|a|button)(\s[^>]*)?>((?:(?!<(?:div|span|a|button|article|section|table|ul|ol)\b)[\s\S])*?)<\/\1>/gi;
   let prev = "";
   while (cleaned !== prev) {
@@ -126,7 +127,6 @@ function extractFromHtml(html) {
   return Array.from(units);
 }
 
-// 글자 수 예산(MAX_BATCH_CHARS)과 문장 수(MAX_BATCH_ITEMS)를 동시에 지키는 스마트 배치 빌더
 function buildSmartBatches(strings) {
   const batches = [];
   let cur = [];
@@ -198,15 +198,19 @@ async function geminiBatchTranslate(batchStrings, retryCount = 0) {
   const indexedInput = {};
   batchStrings.forEach((s, idx) => { indexedInput[String(idx)] = s; });
 
-  const prompt = KO_ONLY
-    ? `Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into executive/academic Korean.
-Rules:
-1. Maintain an authoritative C-level business, international trade, AI/deep-learning, and quantum physics tone.
-2. Keep brand/technical codes ("*SC", "SISTAR", "Qubit Algorithm™", "COSMO SEED™", "QubitOS", "One Spark, Infinite Galaxifying", "K-SURE BNPL", "WKB", "GradNorm", "TAG", "GraphRAG", "MRL", "LoRA", "QUBO", "SCK", "SCI", "SCV", "SCJ", "SCC", "SCU", "SCS", "SCIND") intact.
-3. Return ONLY a JSON object mapping each key ("0", "1", ...) directly to its translated Korean string.
-Input:
-` + JSON.stringify(indexedInput)
-    : `Translate the following JSON into 5 languages ("ko","id","vi","zh-CN","ja"). Return ONLY JSON:\n` + JSON.stringify(indexedInput);
+  const brandRules = `Rules:
+1. Maintain an authoritative C-level executive business, institutional investment (VC/PE), international trade, AI/deep-learning, and quantum physics tone.
+2. Keep proprietary brand and technical terms ("*SC", "SISTAR", "SISTAR Company", "Signal Star Universe", "Qubit Algorithm™", "Cosmo Seed™", "COSMO SEED™", "QubitOS", "One Spark, Infinite Galaxifying", "One Task, Multi Outcomes", "K-SURE BNPL", "Buy4Me", "c.a.n.", "Ms. Scarlet", "SISTAR MedIX", "SISPet", "SISPharm", "SISTAR Dx", "Exo-Brain", "WKB", "GraphRAG", "MCP", "SCK", "SCI", "SCV", "SCJ", "SCC", "SCU", "SCS", "SCIND", "IATA", "IADA") intact.
+3. Return ONLY a JSON object mapping each key ("0", "1", ...) directly to its translated string.`;
+
+  let prompt = "";
+  if (KO_ONLY) {
+    prompt = `Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into executive/academic Korean.\n${brandRules}\nInput:\n` + JSON.stringify(indexedInput);
+  } else if (JA_ONLY) {
+    prompt = `Translate the following JSON object of English strings (keys "0" to "${batchStrings.length - 1}") into executive/academic Japanese tailored for Japanese institutional investors and B2B executives.\n${brandRules}\nInput:\n` + JSON.stringify(indexedInput);
+  } else {
+    prompt = `Translate the following JSON into 5 languages ("ko","id","vi","zh-CN","ja").\n${brandRules}\nReturn ONLY JSON:\n` + JSON.stringify(indexedInput);
+  }
 
   const res = await fetchWithTimeout(url, {
     method: "POST",
@@ -295,8 +299,18 @@ async function main() {
         continue;
       }
       missing.push(s);
+    } else if (JA_ONLY) {
+      if (ex && isJaTranslated(s, ex.ja)) continue;
+      const ck = canonicalKey(s);
+      const canonHit = exactMap[s] || (ck.length >= 4 ? canonMap[ck] : null);
+      if (canonHit && isJaTranslated(s, canonHit.ja)) {
+        dict[s] = Object.assign({}, ex || {}, { ja: canonHit.ja });
+        autoLinked++;
+        continue;
+      }
+      missing.push(s);
     } else {
-      if (!ex || !isKoTranslated(s, ex.ko) || !ex.id || ex.id === s) missing.push(s);
+      if (!ex || !isKoTranslated(s, ex.ko) || !ex.id || ex.id === s || !isJaTranslated(s, ex.ja)) missing.push(s);
     }
   }
 
@@ -306,8 +320,10 @@ async function main() {
   }
 
   const batches = buildSmartBatches(missing);
-  console.log(`\n=== [*SC ATOMIC ZERO-SKIP TRANSLATION ENGINE v3.0 | Target: ${targetArg.toUpperCase()} | Mode: ${KO_ONLY ? "KOREAN ONLY (kr)" : "ALL 5 LANGS"}${DRY_RUN ? " | DRY-RUN" : ""}] ===`);
-  console.log(`Total Atomic Blocks: ${orderedStrings.length} | Already Translated (KO): ${orderedStrings.length - missing.length} | Missing (KO): ${missing.length} (${batches.length} smart batches)`);
+  const modeLabel = KO_ONLY ? "KOREAN ONLY (kr)" : (JA_ONLY ? "JAPANESE ONLY (jp)" : "ALL 5 LANGS");
+  const langKey = SINGLE_LANG ? SINGLE_LANG.toUpperCase() : "ALL";
+  console.log(`\n=== [*SC ATOMIC ZERO-SKIP TRANSLATION ENGINE v3.1 | Target: ${targetArg.toUpperCase()} | Mode: ${modeLabel}${DRY_RUN ? " | DRY-RUN" : ""}] ===`);
+  console.log(`Total Atomic Blocks: ${orderedStrings.length} | Already Translated (${langKey}): ${orderedStrings.length - missing.length} | Missing (${langKey}): ${missing.length} (${batches.length} smart batches)`);
 
   if (DRY_RUN || !API_KEY || missing.length === 0) {
     if (DRY_RUN) console.log("[DRY-RUN 완료] API 호출 없이 정밀 스캔 및 카노니컬 자동 매핑만 완료했습니다.");
@@ -327,11 +343,20 @@ async function main() {
         for (let j = 0; j < b.length; j++) {
           const enKey = b[j];
           const trVal = resObj[String(j)] || (Array.isArray(resObj) ? resObj[j] : null);
-          const koStr = typeof trVal === "string" ? trVal : (trVal && trVal.ko ? trVal.ko : null);
-          if (koStr && isKoTranslated(enKey, koStr)) {
-            const prev = dict[enKey] || {};
-            dict[enKey] = Object.assign({}, prev, { ko: koStr });
-            saved++;
+          if (KO_ONLY) {
+            const koStr = typeof trVal === "string" ? trVal : (trVal && trVal.ko ? trVal.ko : null);
+            if (koStr && isKoTranslated(enKey, koStr)) {
+              const prev = dict[enKey] || {};
+              dict[enKey] = Object.assign({}, prev, { ko: koStr });
+              saved++;
+            }
+          } else if (JA_ONLY) {
+            const jaStr = typeof trVal === "string" ? trVal : (trVal && (trVal.ja || trVal.jp) ? (trVal.ja || trVal.jp) : null);
+            if (jaStr && isJaTranslated(enKey, jaStr)) {
+              const prev = dict[enKey] || {};
+              dict[enKey] = Object.assign({}, prev, { ja: jaStr });
+              saved++;
+            }
           }
         }
         saveDict(dictPath, dict);
